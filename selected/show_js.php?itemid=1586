@@ -1,0 +1,3 @@
+﻿try {setidval('hits','1979');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/balilar_bagchisi/show.php?itemid=1585">نېمە ئۈچۈن بالا ئېمىشنى رەت قىلىدۇ؟</a></li><li>  كىيىنكىسى  :  <a href="/balilar_bagchisi/show.php?itemid=1587">بالىلارنىڭ ئېغىز بوشلۇقىنى قانداق ئاسراش كېرەك؟</a></li>');}catch(e){}

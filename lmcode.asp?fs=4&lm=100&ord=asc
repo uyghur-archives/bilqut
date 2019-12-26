@@ -1,0 +1,24 @@
+document.write("<head><style type ="text/css ">
+a{text-decoration:none;}
+a:link       {  font-family: ukij tuz tom; text-decoration: none; }
+a:visited    {  font-family: ukij tuz tom; text-decoration: none; }
+a:hover      {  font-family: ukij tuz tom; TEXT-DECORATION: none; }
+</style> </head>");
+
+<!-- Tor bat exligu chi Ablimitjan Maham  QQ :250092392    Tel: 6722530    E-Mail :Raziman@126.com ,ablmtjan@126.com -->
+			document.write("<li><a href=/Mazmun_more.asp?lm2=192&lmname=0&open=1&n=30&tj=0&hot=0 target=_blank title='كەلىلە ۋە دەېمىنە'><font color=''>كەلىلە ۋە دەېمىنە</font></a><BR>");
+	
+			document.write("<li><a href=/Mazmun_more.asp?lm2=166&lmname=0&open=1&n=30&tj=0&hot=0 target=_blank title='نەسىرلەر'><font color=''>نەسىرلەر</font></a><BR>");
+	
+			document.write("<li><a href=/Mazmun_more.asp?lm2=165&lmname=0&open=1&n=30&tj=0&hot=0 target=_blank title='رېۋايەتلەر'><font color=''>رېۋايەتلەر</font></a><BR>");
+	
+			document.write("<li><a href=/Mazmun_more.asp?lm2=164&lmname=0&open=1&n=30&tj=0&hot=0 target=_blank title='ئەپسانىلەر'><font color=''>ئەپسانىلەر</font></a><BR>");
+	
+			document.write("<li><a href=/Mazmun_more.asp?lm2=163&lmname=0&open=1&n=30&tj=0&hot=0 target=_blank title='ھېكايىلەر'><font color=''>ھېكايىلەر</font></a><BR>");
+	
+			document.write("<li><a href=/Mazmun_more.asp?lm2=162&lmname=0&open=1&n=30&tj=0&hot=0 target=_blank title='چۆچەكلەر'><font color=''>چۆچەكلەر</font></a><BR>");
+	
+			document.write("<li><a href=/Mazmun_more.asp?lm2=161&lmname=0&open=1&n=30&tj=0&hot=0 target=_blank title='مەسەللەر'><font color=''>مەسەللەر</font></a><BR>");
+	
+			document.write("<li><a href=/Mazmun_more.asp?lm2=107&lmname=0&open=1&n=30&tj=0&hot=0 target=_blank title='ئاۋازلىق ئەسەرلەر'><font color=''>ئاۋازلىق ئەسەرلەر</font></a><BR>");
+	

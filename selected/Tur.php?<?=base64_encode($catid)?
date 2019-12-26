@@ -1,0 +1,149 @@
+<?
+	include("Bet_usti.php");
+	$prmlist=$_SERVER['QUERY_STRING'];
+	$plist=base64_decode($prmlist);
+	$catid=$plist;
+	if(count(explode("|",$catid))>1)
+	{
+		$catid=explode("|",$catid);
+		$catid1=$catid[1];
+		$catid=$catid[0];	
+	}else{
+		$catid1=$catid;
+		$catid=$catid;
+	}
+	
+?>
+
+
+<div align="center">
+
+
+	<table border="0" width="950" id="table3" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="640" valign="top">
+			<table border="0" width="100%" id="table4" cellspacing="0" cellpadding="0" class="uchur_tur_tima">
+				<tr>
+					<td height="35"  ><div style="line-height:32px; padding-right:30px;">
+		<a href="Tur.php?<?=base64_encode($catid)?>" target="_blank" style="color:#996600; font-size:12pt;"><?=TurIsmi($catid)?></a>
+		</div></td>
+				</tr>
+				<tr>
+					<td>
+				<table width="95%" border="0" align="center" cellpadding="0" cellspacing="0" >
+  
+<?
+		global $db;
+		$timestamp=time();
+		//$timemod=$timestamp-(86400*1);			
+		$sqllist="select infoid,catid,title,addtime,hits,content,telephone,email,address,author from ".channel_table('info',36)." where status=3 and catid in(".$catid.") ORDER BY infoid DESC ";
+		$result=$db->query($sqllist);
+		$pagesize=10;
+		$total=mysql_num_rows($result);
+		$url=base64_encode($catid);
+		$filename='infolist.php?'.$url.'&';	
+		$currpage=$page? intval($page):$page=1;
+		if(!is_int($currpage))
+		$currpage=1;
+		if(intval($currpage)<1)$currpage=1;
+		if(intval($currpage-1)*$pagesize>$total)$currpage=1;
+		if(($total%$pagesize)==0)
+		{
+			$totalpage=intval($total/$pagesize);
+		}
+		else
+		$totalpage=intval($total/$pagesize)+1;
+		if ($total!=0&&$currpage>1)
+		mysql_data_seek($result,(($currpage-1)*$pagesize));
+		$i=0;
+
+		while($t=$db->fetch_array($result))
+		{
+			$aid=$t['infoid'];
+			$catid=$t['catid'];
+			$title=$t['title'];
+			$content=$t['content'];
+			$addtime=date("Y-m-d",$t['addtime']);
+			$hits=$t['hits'];
+			$tel=$t['telephone'];
+			$author=$t['author'];	
+			$url=base64_encode("aid=".$aid."&catid=".$catid);	
+			$i++;
+			if($i>$pagesize)break; 					
+?> 
+      <tr>
+        <td height="14"></td>
+      </tr>	     
+      <tr>
+        <td height="30" ><li><a href="Mazmun.php?<?=$url?>" target="_blank" style="color:#C30; font-size:16px"><?=$title?></a></td>
+      </tr>
+
+      <tr>
+        <td height="50"><?=str_cut($content,350)?>&nbsp;&nbsp;&nbsp;<a href="Mazmun.php?<?=$url?>"><font color="#FF0000">تەپسىلى ئۇچۇرنى كۆرۈش </font></a></td>
+      </tr>	 
+      <tr>
+        <td height="30" align="center"><hr /></td>
+      </tr>	   
+<?
+		}
+		$db->free_result($result);
+?>
+
+      <tr>
+        <td height="30"><table width="100%" border="0" cellspacing="0" cellpadding="0" dir="rtl">
+                <form method="post" action="">
+                  <tr>
+                    <td height="24" style="text-align:center; font-size:10pt;"> جەمىئىي
+                                            تال ئۇچۇر بار&nbsp;
+                                            <a href="page=1">باش بەت</a>&nbsp;<a href="page=-1">ئالدىنقى بەت</a>&nbsp;
+                                            كىيىنكى بەت&nbsp;ئاخىرقى بەت&nbsp;
+                                            بەت :&nbsp;تال /بەت &nbsp;
+                      <select name='page' size='1' style="direction:rtl;" onchange='javascript:submit()' action="">
+                                              </select>
+                    </td>
+                  </tr>
+                </form>
+            </table></td>
+      </tr>	  
+    </table>
+					</td>
+				</tr>
+				
+			</table>
+			</td>
+			<td width="10" valign="top">&nbsp;</td>
+			<td width="300" valign="top">
+			<table border="0" width="100%" id="table8" cellspacing="0" cellpadding="0" class="uchur_tima">
+				<tr>
+					<td class="uchur_tima_het" height="35">ئەڭ يېڭى ئۇچۇرلار</td>
+				</tr>
+				<tr>
+					<td ><div class="uchur_t"><?=uchur_timisi(22,0,211,'infoid',60,1,1)?></div></td>
+				</tr>
+				
+			</table>
+            <div class="arlik"></div>
+            	<table border="0" width="100%" id="table8" cellspacing="0" cellpadding="0" class="uchur_tima">
+				<tr>
+					<td class="uchur_tima_het" height="35"></td>
+				</tr>
+				<tr>
+					<td  align="center" class="uchur_t"><a target="_blank" href="Uchur_Yollash.php">
+			<img border="0" src="../Raziman_img/uchur/uchur_yollash.gif" width="290" height="90"></a></td>
+				</tr>
+				
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td width="640" valign="top" height="10"></td>
+			<td width="10" valign="top" height="10"></td>
+			<td width="300" valign="top" height="10"></td>
+		</tr>
+	</table>
+</div>
+
+
+<?
+	include("bet_asti.php");
+?>

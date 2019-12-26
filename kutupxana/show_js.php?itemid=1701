@@ -1,0 +1,3 @@
+﻿try {setidval('hits','134');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/kutupxana/show.php?itemid=1700">ماتېماتىكا ئوقۇتۇشىدىكى بىر قانچە ئۇسۇل توغرىسىدىكى قاراشلىرىم</a></li><li>  كىيىنكىسى  :  <a href="/kutupxana/show.php?itemid=1702">بالىلار ئويۇنلىرىنىڭ ساپا مائارىپىدىكى ئورنىغا سەل قارىماسلىق كېرەك</a></li>');}catch(e){}

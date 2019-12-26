@@ -1,0 +1,3 @@
+﻿try {setidval('hits','18570');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/Unwersal/show.php?itemid=175">ئۇچالايدىغان ئادەم</a></li><li>  كىيىنكىسى  :  <a href="/Unwersal/show.php?itemid=177">ئەرلەر تۇرۇشقا بولمايدىغان شەھەر</a></li>');}catch(e){}

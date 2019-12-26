@@ -1,0 +1,344 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ماسسىنىڭ خورىشى ۋە ئاتوم ئېنېرگىيىسى-ئۆگىنىش-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,ئۆگىنىش">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/Ugnish/" class="red"> ئۆگىنىش</a>
+         | <a class="razimantur" href="/Ugnish/list.php?catid=98" > ماتېماتىكا  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=99" >يىزا-ئىگىلىك </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=100" >پسىخولوگىيە </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=101" >ئىقتىساد </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=102" >مۇھىت </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=103" >ئەدەبىيات </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=104" >جۇغراپىيە </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=105" >فىزىكا </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=106" > خىمىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=107" >ئاسترونومىيە </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=108" > بىئولوگىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=109" > دېپلوماتىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=110" > ئېلېكترون  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=111" > تەنتەربىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=112" >مەتبەئەچىلىك </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=113" > گۈزەل- سەنئەت  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/Ugnish/">ئۆگىنىش</a> >> <a href="/Ugnish/list.php?catid=105">فىزىكا </a> >>  ماسسىنىڭ خورىشى ۋە ئاتوم ئېنېرگىيىسى</div>
+<!--主标题--><h1>ماسسىنىڭ خورىشى ۋە ئاتوم ئېنېرگىيىسى </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-03-14 11:25:25&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">65</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<img src="/raziman_img/bash/reng/reng_1.gif" id="img1" style="cursor:hand;"  onclick="conhat(1)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_2.gif" id="img2" style="cursor:hand;"  onclick="conhat(2)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_3.gif" id="img3" style="cursor:hand;"  onclick="conhat(3)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_4.gif" id="img4" style="cursor:hand;"  onclick="conhat(4)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_5.gif" id="img5" style="cursor:hand;"  onclick="conhat(5)">&nbsp;&nbsp;                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">ئەگەر 1kg&nbsp;&nbsp;ئېغىرلىقتىكى بىر تاۋۇز بىلەن 1kg&nbsp;&nbsp;ئېغىرلىقتىكى بىر كاۋىنى بىرلىكتە ئۆلچىسەك، ئۇلارنىڭ ماسسىسى چوقۇم 2kg&nbsp;&nbsp;بولىدۇ. ئەمما، ئالىملار شۇنى بايقىدىكى، ئەگەر1&nbsp;&nbsp;بىرلىك ماسسىدىكى نېيترون بىلەن1&nbsp;&nbsp;بىرلىك ماسسىدىكى پروتوننى بىرلىكتە قويغاندا، ھاسىل بولغان ئاتوم يادروسىنىڭ ماسسىسى2&nbsp;&nbsp;بىرلىك ماسسىغا تەڭ بولمايدۇ. ئىلمىي ئۆلچەشلەر قايتا - قايتا ئىسپاتلىدىكى، ھەرقانداق بىر دانە ئاتوم يادروسىنىڭ ماسسىسى ھامان بۇ يادرونى تۈزگۈچى پروتون بىلەن نېيتروننىڭ يەككە ماسسىلىرىنىڭ يىغىندىسىدىن ھامان كىچىك بولىدۇ. ئالىملار كېمىيىپ كەتكەن ئاشۇ بىر ئۈلۈش ماسسىنى ئاتوم يادروسى ماسسىسىنىڭ خورىشى دەپ ئاتىدى.20
+ - ئەسىرنىڭ باشلىرىدا، ئېينىشتېين نىسپىيلىك نەزەرىيىسىدىن چىقىش قىلىپ، داڭلىق ماسسا ئېنېرگىيىنىڭ ئۆزئارا باغلىنىشىنىڭ مۇناسىۋەت فورمۇلىسىE=cm2نى كەلتۈرۈپ چىقاردى. دېمەك، يورۇقلۇق تېزلىكى ئۆزگەرمىگەن شەرت ئاستىدا، ماسسا m بىلەن ئېنېرگىيە E نىڭ بىر خىل ئوڭ تاناسىپلىق مۇناسىۋىتى مەۋجۇت. ئاتوم يادروسىنىڭ ماسسىسى ئۇنى تۈزگۈچى نۇكلوننىڭ ئومۇمىي ماسسىسىدىن ئاز بولىدىغانلىقى ئۈچۈن، يەككە نۇكلون يېقىنلىشىپ بىرىكىپ ئاتوم يادروسىنى ھاسىل قىلغاندا، چوقۇم بىر قىسىم ئېنېرگىيە قويۇپ بېرىلىدۇ. بۇ بىر بايقاش ئالىملارغا شۇنى ھەقىقىي ئىشەندۈرىدۇكى، پەقەت ماسسا خورىشىنى كەلتۈرۈپ چىقىرىدىغان ھەرقانداق بىر خىل ئۇسۇلنى تاپقاندىلا، ئىنسانىيەت ئاتوم يادروسىدىن ئېنېرگىيىگە ئېرىشەلەيدۇ.
+كىشىنى ھاياجانغا سالىدىغان بۇ بىر ئىدىيىنى تۇنجى بولۇپ فرانسىيىلىك فىزىكا ئالىمى يولىئوت - كيۇرىي ئىسپاتلىدى.1939&nbsp;&nbsp;- يىلنىڭ باشلىرىدا، ئۇ نېيترون »سىنارەدى« ئارقىلىق ئۇران ئاتوم يادروسىنى بومباردىمان قىلىش تەجرىبىسىنى ئىشلىگەندە، ئۇران ئاتوم يادروسىنىڭ سوقۇلۇپ ئىككى پارچىغا بۆلۈنگەنلىكى ھەم غايەت زور ئېنېرگىيىنى قويۇپ بەرگەنلىكىنى بايقىغان. بۇ خىل ئېنېرگىيە ئاتوم يادروسىنىڭ ئىچىدىن قويۇپ بېرىلىدىغانلىقى ئۈچۈن، ئادەتتە ئۇ ئاتوم ئېنېرگىيىسى دەپ ئاتىلىدۇ. شۇنىڭ بىلەن بىر ۋاقىتتا، يولىئوت يەنە ئۇران پارچىلانغاندا2 ～3 دانە يېڭى نېيترون قويۇپ بېرىدىغانلىقى؛ بۇ نېيترونلار يەنە باشقا ئۇران يادرولىرىنىڭ پارچىلىنىشىنى كەلتۈرۈپ چىقىرىپ تېخىمۇ كۆپ ئېنېرگىيە قويۇپ بېرىلىدىغانلىقى، شۇنىڭ بىلەن بىر ۋاقىتتا يەنە تېخىمۇ كۆپ نېيترون قويۇپ بېرىلىپ، ئۇلار يەنە تېخىمۇ كۆپ ئۇران يادرولىرىنىڭ پارچىلىنىشىنى كەلتۈرۈپ چىقىرىدىغانلىقىنى بايقىغان. ئالىملار بۇنداق جەرياننى زەنجىرسىمان رېئاكسىيە دەپ ئاتىغان. ئەگەر ئۇراننىڭ سانلىق مىقدارى يېتەرلىك كۆپ بولسا، بۇ خىل زەنجىرسىمان رېئاكسىيە ئۈزلۈكسىز ھالدا تېز ئېلىپ بېرىلىدۇ - دە، ئاتوم پارتلاش يۈز بېرىدۇ. ئەگەر بۇ خىل زەنجىرسىمان رېئاكسىيە ئامال قىلىپ كونترول قىلىنسا، يەنى ئاتوم رېئاكتورى (رېئاكسىيە قازىنى) ياسالسا، ئۇنىڭدىن پايدىلىنىپ ئاتوم ئېنېرگىيىسى ئارقىلىق توك تارقاتقىلى، يادرو ھەرىكەتلەندۈرگۈچى كۈچ قىلىنىدىغان ھەربىي پاراخوتى، سودا پاراخوتى ۋە ئايروپىلان ياسىغىلى بولىدۇ. يەنە سانائەت، يېزا ئىگىلىك، مېدىتسىنا ۋە دۆلەت مۇداپىئەسىگە كېرەكلىك ھەر خىل رادىئوئاكتىپ ئىزوتوپلارنى ئىشلەپچىقارغىلى ھەم ئۇنىڭدىن پايدىلىنىپ&nbsp;&nbsp;ھەر خىل ئىلمىي تەتقىقاتلارنى ئېلىپ بارغىلى بولىدۇ.
+شۇنداق قىلىپ، ئالىملارنىڭ چىڭ تۇرۇپ ئەستايىدىل تەتقىق قىلىشى ئارقىلىق، ئىنسانىيەتنىڭ ئاتوم ئېنېرگىيىسىدىن پايدىلىنىش پارلاق كەلگۈسى مەنزىرىسى ئېچىلدى.
+</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=837" title="ئۇلترا ئۆتكۈزۈش دۇنياسىنىڭ سىرى"  target="_blank" class="tag_title_link">ئۇلترا ئۆتكۈزۈش دۇ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=836" title="كۈچنىڭ سىرى ھەققىدە ئىزدىنىش − چوڭ بىرلىككە كەلتۈرۈش نەزەرىيىسى"  target="_blank" class="tag_title_link">كۈچنىڭ سىرى ھەققىد...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=835" title="يورۇقلۇق تېزلىكىدىن ئېشىپ كېتىش ۋە ۋاقىتنىڭ كەينىگە يانماسلىقى"  target="_blank" class="tag_title_link">يورۇقلۇق تېزلىكىدى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=834" title="يادرو ئېنېرگىيىسى"  target="_blank" class="tag_title_link">يادرو ئېنېرگىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=833" title="گالىلېينىڭ چوڭ كېمىسى ۋە نىسپىيلىك پرىنسىپى"  target="_blank" class="tag_title_link">گالىلېينىڭ چوڭ كېم...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=832" title="يۇقىرى سۈرئەتلىك دۇنيانىڭ مۆجىزىسى"  target="_blank" class="tag_title_link">يۇقىرى سۈرئەتلىك د...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=831" title="ياشلىق باھارى بۇلىقى ۋە تار مەنىدىكى نىسپىيلىك نەزەرىيىسى"  target="_blank" class="tag_title_link">ياشلىق باھارى بۇلى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=830" title="ماسسىنىڭ خورىشى ۋە ئاتوم ئېنېرگىيىسى"  target="_blank" class="tag_title_link">ماسسىنىڭ خورىشى ۋە ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=829" title="ئاساس بولمىغان ئاساسىي زەررىچىلەر"  target="_blank" class="tag_title_link">ئاساس بولمىغان ئاس...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=828" title="رادىي"  target="_blank" class="tag_title_link">رادىي</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=827" title="«زەمبىرەك»"  target="_blank" class="tag_title_link">«زەمبىرەك»</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=826" title="«قارا بۇلۇت»"  target="_blank" class="tag_title_link">«قارا بۇلۇت»</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=825" title="X نۇرىنىڭ بايقىلىشى"  target="_blank" class="tag_title_link">X نۇرىنىڭ بايقىلىشى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=824" title="ئاتوم دۇنياسىغا كىرىش"  target="_blank" class="tag_title_link">ئاتوم دۇنياسىغا كى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=823" title="لازېر نۇرى"  target="_blank" class="tag_title_link">لازېر نۇرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=822" title="ئىنفرا قىزىل نۇر"  target="_blank" class="tag_title_link">ئىنفرا قىزىل نۇر</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=821" title="كۆزەينەك ھەققىدىكى ئىلىم"  target="_blank" class="tag_title_link">كۆزەينەك ھەققىدىكى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=820" title="مىكروسكوپ"  target="_blank" class="tag_title_link">مىكروسكوپ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=819" title="تېلېسكوپ ۋە لىنزا"  target="_blank" class="tag_title_link">تېلېسكوپ ۋە لىنزا</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=818" title="ئالاھىدە ئادەم ئىزدەش ئىلانى"  target="_blank" class="tag_title_link">ئالاھىدە ئادەم ئىز...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/Ugnish/search.php?catid=105&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=837" title="ئۇلترا ئۆتكۈزۈش دۇنياسىنىڭ سىرى"  target="_blank" class="tag_title_link">ئۇلترا ئۆتكۈزۈش دۇنياسى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=836" title="كۈچنىڭ سىرى ھەققىدە ئىزدىنىش − چوڭ بىرلىككە كەلتۈرۈش نەزەرىيىسى"  target="_blank" class="tag_title_link">كۈچنىڭ سىرى ھەققىدە ئىز...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=835" title="يورۇقلۇق تېزلىكىدىن ئېشىپ كېتىش ۋە ۋاقىتنىڭ كەينىگە يانماسلىقى"  target="_blank" class="tag_title_link">يورۇقلۇق تېزلىكىدىن ئېش...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=834" title="يادرو ئېنېرگىيىسى"  target="_blank" class="tag_title_link">يادرو ئېنېرگىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=833" title="گالىلېينىڭ چوڭ كېمىسى ۋە نىسپىيلىك پرىنسىپى"  target="_blank" class="tag_title_link">گالىلېينىڭ چوڭ كېمىسى ۋ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=832" title="يۇقىرى سۈرئەتلىك دۇنيانىڭ مۆجىزىسى"  target="_blank" class="tag_title_link">يۇقىرى سۈرئەتلىك دۇنيان...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=831" title="ياشلىق باھارى بۇلىقى ۋە تار مەنىدىكى نىسپىيلىك نەزەرىيىسى"  target="_blank" class="tag_title_link">ياشلىق باھارى بۇلىقى ۋە ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=830" title="ماسسىنىڭ خورىشى ۋە ئاتوم ئېنېرگىيىسى"  target="_blank" class="tag_title_link">ماسسىنىڭ خورىشى ۋە ئاتو...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=829" title="ئاساس بولمىغان ئاساسىي زەررىچىلەر"  target="_blank" class="tag_title_link">ئاساس بولمىغان ئاساسىي ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=828" title="رادىي"  target="_blank" class="tag_title_link">رادىي</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/Ugnish/show_js.php?itemid=830"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

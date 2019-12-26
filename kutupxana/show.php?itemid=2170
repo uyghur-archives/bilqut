@@ -1,0 +1,385 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>تەقدىر ۋە تارىخ-كۇتۇپخانا-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,كۇتۇپخانا">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/kutupxana/" class="red"> كۇتۇپخانا</a>
+         | <a class="razimantur" href="/kutupxana/list.php?catid=43" >ھېكايىلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=44" > شېئىر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=45" > كەلىلە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=46" > نەسىرلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=47" > يۇمۇرلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=48" > ھىكمەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=49" > نەسىھەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=50" > ماقالىلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=51" > ياشلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=52" > تۇرمۇش </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=53" > نۇتۇقلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=54" >مەكتۇب  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=55" >غارايىبات</a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=56" > دۇنيادا ئەڭ  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=57" >قان تىپى </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=58" > مۆچەل  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=59" > مىللەتلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=60" > بۈگۈن  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=61" >مۇزېي </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=62" >تارىخ </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=63" >شەھەرلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=64" >دۆلەتلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=65" >كۇتۇبخانىلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=66" >مايلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=67" >مېۋە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=68" >كۆكتاتلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=69" >ئۆسۈملۈكلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=70" > ھايۋاناتلار  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/kutupxana/">كۇتۇپخانا</a> >> <a href="/kutupxana/list.php?catid=53"> نۇتۇقلار  </a> >>  تەقدىر ۋە تارىخ</div>
+<!--主标题--><h1>تەقدىر ۋە تارىخ </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2008-06-20 09:10:12&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">84</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<img src="/raziman_img/bash/reng/reng_1.gif" id="img1" style="cursor:hand;"  onclick="conhat(1)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_2.gif" id="img2" style="cursor:hand;"  onclick="conhat(2)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_3.gif" id="img3" style="cursor:hand;"  onclick="conhat(3)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_4.gif" id="img4" style="cursor:hand;"  onclick="conhat(4)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_5.gif" id="img5" style="cursor:hand;"  onclick="conhat(5)">&nbsp;&nbsp;                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">نىتسې&nbsp; &nbsp; (1844 - 1900)&nbsp; &nbsp;  
+نىتسې - گېرمانىيىلىك ئىدېئالىست پەيلاسوپ، ئىرادىچىلىك تەرەپدارى. ئۇنىڭ ئىدىيىسى شەكىللىنىۋاتقان مونوپول بۇرژۇئازىيىسىنىڭ تەلەپ ۋە ئارزۇلىرىنى ئەكس ئەتتۈرىدۇ. ئۇ ئەينى زاماندىكى لىبېرال بۇرژۇئازىيىنىئەيىبلەپ،ئۇلاrنى كونا قائىدىلەرگە يېپىشىۋالىدىغان، ئەپلەپ - سەپلەپ جان بېقىشىنىڭلا كويىدا يۈرىدىغان چاككىنىلار دەپ ئاتايدۇ. ئۇ:ئەقلىيچىلىك، خرىستىئان دىنى ۋە ئىنساپەرۋەرلىكنىڭ تەسىرىنى قوبۇل قىلغۇچى ھەم كۈندىن - كۈنگە زاۋاللىققا يۈز تۇتقۇچى غەرب مەدەنىيىتىنى ئىنكار قىلىپ، بارلىق قىممەتلەرنى يېڭىۋاشتىن بەلگىلەش يېڭى قىممەت يارىتىش زۆرۈر، دەپ تونۇيدۇ. سۇبيېكتىپ جەڭگىۋارلىقنى ۋە تۇرمۇشقا نىسبەتەن &quot;مۇئەييەنلەشتۈرۈش پوزىتسيىسىنى تەشەببۇس قىلىدۇ. تەرەققىيات، ھوقۇق ئىرادىسنىڭ ئۆزىنىڭ ئەمەلگە ئېشىشى جەريانى، كىشىلىك تۇرمۇشتىن مەقسەت - ھوقۇقنى جارى قىلدۇرۇشتىن ۋە ئۆزىنى زورايتىش تىن ئىبارەت دەپ تەكىتلەيدۇ. ئۇ پەۋقۇلئاددە كىشىلەر پەلسەپىسىنى كۆتۈرۈپ چىقىپ، پەۋقۇلئاددە كىشىلەر پەلسەپىسىنى كۆتۈرۈپ چىقىپ، پەۋقۇلئادە كىشىلەر )ئۈستۈن ئادەم( تارىخنىڭ ياراتقۇچىلىرى، ئۇلاr ئاممىنى قۇل قىلىشقا ھەقلىق، ئاددىي كىشىلەر بولسا، پەۋقۇلئاددە كىشىلەر نىڭ ئۆز ھوقۇق ئىرادىسىنى ئەمەلگە ئاشۇرۇش قورالىدىنلا ئىبارەت دەپ ھېسابلايدۇ.
+1862 - يىلى باھار&nbsp; &nbsp;  ناۋادا بىز خرىستىئان دىنى تەلىماتى بىلەن خرىستىئان جەمئىيىتى تارىخىغا بىمالال سىنچىلاپ قارىساق، چوقۇم ئادەتتىكى قاراشلارغا خىلاپ پىكىرلەرنى ئوتتۇرىغا قويىمىز. بىز بوۋاق چېغىمىزدىن تارتىپ بىر تەرەپلىمە قاراش بىلەن ئادەتنىڭ ئاسارىتىگە بەند بولۇپ قالغانمىز. ئۆسمۈرلۈك دەۋرىمىزدىكى تەسىراتلاr تۈپەيلى روھىيىتىمىز ئەركىن تەرەققىي قىلالمايدۇ. بۇ بىزنىڭ مىجەزىمىزنىڭ شەكىللىنىشىنى بەلگخلىگەن. شۇڭا بىز دىن ۋە خرىستىئان دىنىغا خالىس مەيداندا ترۇپ دەۋرگە ئۇيغۇن باھا بېرىش ئۈچۈن تېخىمۇ ئەركىن نۇقتىئىنەزەرنى تاللىساق، بۇنى مۇرتەدلىك دېگىلى تاس قالىمىز.
+مۇشۇنداق بىر باھا ئۈچۈن قىلىنغان ئۇرۇنۇش ھەرگىزمۇ بىر نەچچە ھەپتىلىك ئىش ئەمەس، بەلكى ئۆمۈرلۈك ئىش.
+بىز ياشلارنىڭ باشقاتۇرۇپ ئېرىشكەن مۇۋەپپەقىيەتلىرى بىلەن 2000 يىلدىن بېرى داۋاملىشىپ كېلىۋاتقان نوپۇزنى قانداقمۇ ئاغدۇرۇۋېتەلەيمىز ۋە ھەرقايسى دەۋرلەردىكى بىلىم ئەھلىلىرىنىڭ ئۆزگەرمەس ئەقىدىلىرىنى چۆرۈۋېتەلەيمىز؟ خام خىيال ۋە خام نۇقتىئىنەزەرلەر بىلەن دىنىي تەرەققىياتلار نەتىجىسىدە بارلىققا كەلگەن، دۇنيا تارىخىغا چوڭقۇر تەسىر كۆرسىتىۋاتقان ئەلەم ۋە تىلەكلەرگە قانداقمۇ سۈكۈت قىلىپ تۇرالايمىز؟
+نەچچە مىڭ يىلدىن بېرى داۋاملىشىپ كېلىۋاتقان تالاش - تارتىشلارنى ھەل قىلماقچى بولۇش بىر خىل تەلىۋىلىكتۇر. بىلىم ئەھلىلىرىنىڭ ئەقىدىلىرىنى قوغلاشقۇچىلار ھەقىقىي ئىنسانىيقارا دەپ كۆككە كۆتۈرگەن نۇقتىئىنەزەرلەر ئاغدۇرۇپ تاشلىنىپ، تەبىئىي پەن بىلەن پەلسەپىنىڭ ئاساسىي مۇۋەپپەقىيەتلىرىدىن بىخەۋەر ھالدا بۇ ئىككى پەن بىرلەشتۈرۈلسە، دۇنيا تارىخىنىڭ بىرلىككە كەلگەن ۋە ئەڭ پرىنسىپال ئاساسى تېخى روھىيەتكە يۈزلەنمىگەن بىر چاغدا تەبىئىي پەنە بىلەن تارىخ ئاخىر بىر خىل چىن سىستېمىنى ئوتتۇرىغا قويىدۇ.
+كومپاسسىز، رەھناماسىز ھالدا قاراملىق بىلەن نامەلۇم دېڭىزغا يۈرۈش قىلىش ئەخمىقانە ھەرىكەت، كەم ئەقىل كىشىلەرنىڭ ئۆزىنى بەربات قىلىشى. مۇتلەق كۆپ كىشىلەرنى بوران ئۇچۇرۇپ كېتىدۇ، پەقەت ئاز سانلىق كىشىلەرلا يېڭى قۇرۇقلۇقنى تاپالايدۇ. ئۇ چاغدا، كىشىلەر ھەمىشە پايانسىز پىكىر دېڭىزىدا يېڭى قۇرۇقلۇققا قايتىشقا تەشنا بولىدۇ: بىھۇدە خىياللار ئىلكىدە تارىخقا ۋە تەبىئىي پەنگە بولغان ئىنتىزارلىق تۇيغۇسى ھەمىشە ماڭا يوپۇرۇلۇپ كېلىدۇ!
+تارىخ ۋە تەبىئىي پەن - پۈتكۈل ئىلگىرىكى دەۋرلەردىن بىزگە قالغان كارامەت بايلىق، كەلگۈسىمىزدىن بېشارەت بېرىدىغان ئەڭگۈشتەر، تەسەۋۋۇرىمىزدىكى مۇنازىرىمىز ئۈچۈن سېلىنىدىغان مۇستەھكەم ئۇل.
+مەن ئۈچۈن، بۇنىڭدىن بولغان پۈتكۈل پەلسەپە گويا بابىل مۇنارى، يۈكسىلىش بارلىق بۈيۈك ئىنتىلىشلارنىڭ نىشانى: كىشىلىك جەننىتىنىڭ تەمى قانداقمۇ مۇشۇنداق بولمىسۇن؟ئاۋام ئىچىدىكى ئىدىيىۋى مالىمانچىلىق دەل ئۈمىدسىزلىك نەتىجىسىدۇر. ناۋادا ئاۋام پۈتكۈل خىرىستىئان دىنىنىڭ پەرەز ئۈستىگە قۇرۇلغانلىقىنى بىلسە، جەزمەن غايەت زور ئۆزگىرىش بولىدۇ؛ ئىلاھىي دېگەنلەر مەڭگۈلۈك بىر مەسىلە بولۇپ قالىدۇ. مەن بۇرۇن ھەممىنى ئىنكار قىلماقچى بولغان: بۇزماق ئاسان، لېكىن قۇرماق ئاسمانغا چىقىشتىنمۇ تەس! ئۆز - ئۆزىنى يوقىتىش تېخىمۇ ئاسان؛ ئۆسمۈرلۈك ئىزنالىرى، ئاتا - ئانىنىڭ ۋە تەربىيىنىڭ تەسىرى قەلبىمىزدىن چوڭقۇر ئورۇن ئالغان. تىرەن يىلتىز تارتقان بىر تەرەپلىمىلىكلەرنى ئىدراكقا ياكى نوقۇل ئىرادىگە تاينىپلا كاللىدىن چىقىرىۋېتىش ئۇنداق ئاسان ئەمەس. ئادەت كۈچى، يۇقىرى ئېھتىياج، بارلىق مەۋجۇت نەرسىلەر بىلەن ئادا - جۇدا بولۇش، جەمئىيەت قۇرۇلمىلىرىنىڭ ھەممىسىنى بىكار قىلىش، ئىنسانىيەت 2000 يىلدىن بۇيان تۇيۇق يولغا كىرىپ قالدىمۇ - نېمە؟ دەيدىغان تەشۋىشلەر، تەلۋىلەرچە ئۆزلۈك تۇيغۇسى - مانا بۇلارنىڭ ھەممىسى يېڭىش ـ يېڭىلىشى ئېنىق بولمىغان كۈرەشلەرنى ئېلىپ بارماقتا. ئازابلىق تەجرىبىلەر ۋە ھەسرەتلىك ۋەقەلەر قەلبىمىزدە ئۆسمۈرلۈك دەۋرىدىكى كونا ئېتىقادلارنى يېڭىۋاشتىن تۇرغۇزىدۇ. لېكىن بۇ خىل كۆزىتىشنىڭ ھېسسىياتقا بولغان تەشۋىشلىك تەسىرى چوقۇم ھەر بىر ئادەمنىڭ ئۆز مەدەنىيەت تارىخىغا قوشقان تۆھپىسى بولۇپ ھېسابلىنىدۇ. بارلىق قۇرۇق خىياللارنىڭ نەتىجىسىدىن باشقا نەرسىلەرنىڭ كۆڭۈلگە ئورناپ قېلىشى مۇمكىن ئەمەس. بۇ خىل نەتىجىنى بىلىم دەۋەرگىلى بولمايدۇ. ئۇ بىر تۈرلۈك ئېتىقاد، ھەتتا ۋاستىلىك قوزغىتىلغان ياكى بېسىلغان بىر تۈرلۈك ئەخلاقىي ھېسىيات بولۇشى مۇمكىن.
+ئادەت بىر دەۋرنىڭ، بىر مىللەتنىڭ ياكى بىر ئىدىيىۋى ئېقىمنىڭ مەھسۇلى بولغانغا ئوخشاش، ئەخلاق ئادەتتە ئىنسانىيەت تەرەققىياتىنىڭ مەھسۇلى. ئەخلاق بىزنىڭ مۇشۇ دۇنيايىمىزدىكى بارلىق ھەقىقەتلەرنىڭ يىغىندىسى. بۇ چەكسىز دۇنيادا ئەخلاق بىزنىڭ مۇشۇ دۇنيايىمىزدىكى بىر خىل ئىدىيىۋى ئېقىمنىڭ قالدۇرۇپ كەتكەن مەھسۇلى بولۇشى مۇمكىن، دۇنيادىكى بارلىق ھەقىقەتلەر خۇلاسىلىنىش داۋامىدا تەرەققىي قىلغان ۋە ھەممىنى ئۆز ئىچىگە ئالغان ھەقىقەت بولۇشىمۇ مۇمكىن! بىراق بىز ئىنسانىيەتنىڭ پەقەت نوقۇل بىر باسقۇچتىكى ئادەتتىكى تەرەققىيات جەريانىنىڭ مەھسۇلىمۇ ياكى پەرۋەردىگارنىڭ ئۆز خاھىشى بويىچە ياراتقان ئوبرازىمۇ؟ ئادەم بەلكىم ئۆسۈملۈك ياكى ھايۋانلارنىڭ ۋاستىسى بىلەن تەرەققىي قىلغان&nbsp; بىر پارچە تاش، شۇنداق ئەمەسمۇ يا؟ ئادەم ئاللىقاچان تەلتۆكۈس تاكامۇللاشمىدىمۇ، يەنە كېلىپ تاكامۇللىشىش تارىخىنى ئۆز ئىچىگە ئالمىدىمۇ؟ بۇنداق تىنىمسىز تەرەققىيات جەريانىنىڭ ئەجەبا ئەبەدىلئەبەد چېكى بولماسمۇ؟ غايەت زور بۇ سائەتنىڭ پۇرژىنىسى نېمە؟ ئۇ پۇرژىنا سائەتنىڭ ئىچىگە يوشۇرۇنغان. لېكىن ئۇ بىز تارىخ دەپ ئاتاپ كېلىۋاتقان بۇ غايەت زور سائەتنىڭ ئىچىدىكى پۇرژىنىدۇر. سائەت يۈزىنىڭ ھەر بىر قىسىمى ئايرىم بىر زور ۋەقەدۇر. ئىسترېلكا بىر سائەت - بىر سائەتتىن توختىماي ماڭىدۇ. سائەت كېچە ئون ئىككىدىن ئاشقاندا، بۇ يەنە يېڭى بىر مۇساپىنى باشلايدۇ، دۇنيانىڭ يېڭى بىر دەۋرى باشلىنىدۇ.
+ئادەم ئاشۇ پۇرژىنا سۈپىتىدە ئىچىدىكى مۇھەببەتنى كۆتۈرەلەرمۇ؟ )بۇنداقتا ھەر ئىككى تەرەپ ماسلىشالايىدۇ( ياكى شۇ بىر پۈتۈنلۈكنى ئەكېتىۋاتقان تېخىمۇ يۈكسەك مەنپەئەت ۋە تېخىمۇ زور پىلانمىدۇ؟ ئادەم پەقەت بىر خىل ۋاسىتىمۇ ياكى مەقسەتمۇ؟
+بىز مەقسەتنى ھېس قىلىمىز، بىز ئۆزگىرىشنى ھېس قىلىمىز، بەزىدە دەۋر بىلەن بۆلۈنۈپ كېتىۋاتقانلىقىمىزنى ھېس قىلىمىز. بىز تېخىمۇ كاتتا پىلانلارنى قانداق كۆرەلەيمىز. بىز پەقەت شۇنىلا كۆرەلەيمىز: بىز ئىدىيىنىڭ ئوخشاش بىر مەنبەدىن قانداق شەكىللىنىدىغانلىقىنى، مۇھەببەتتىن قانداق شەكىللىنىدىغانلىقىنى، سىرتقى تەسىر ئاستىدا قانداق شەكىللىنىدىغانلىقىنى، ھاياتلىققا ۋە شەكىلگە قانداق ئېرىشىدىغانلىقىنى، ۋىجدانغا، مەسئۇلىيەتكە ۋە كۆپچىلىكنىڭ ئورتاق مەنىۋى بايلىقىغا قانداق ئايلىنىدىغانلىقىنى كۆرىمىز؟ مەڭگۈلۈك ئىشلەپچىقىرىش پائالىيىتىنىڭ ئىدىيىنى خام ئەشيا قىلىپ پىششىقلاپ يېڭى ئىدىيىگە ئايلاندۇرىدىغانلىقىنى، ئىدىيىنىڭ تۇرمۇشنى قانداق يارىتىدىغانلىقىنى، تارىخنى قانداق كونترول&nbsp; قىلىدىغانلىقىنى، ئىدىيىنىڭ كۈرەشلەر داۋامىدا قانداق سىڭىشىپ كېتىدىغانلىقىنى ھەم بۇ خىل مۇرەككەپ ئارىلاشما ھالەتتىن قانداق قىلىپ يېڭى شەكىللەرگە كىرىدىغانلىقىنى كۆرىمىز. ھەر خىل ئېقىملار كۈرىشى دولقۇن ياساپ، دەم كۆتۈرۈلۈپ دەم پەسىيىپ، ھەيۋەت بىلەن ئەبەدىيلىك دېڭىزىغا قۇيۇلىدۇ.
+ھەممە بىر - بىرىنى دەۋر قىلىپ ئايلىنىدۇ. سان - ساناقسىز غايەت چوڭ چەمبەرلەر تىنىمسىز كېڭىيىپ تۇرىدۇ. ئادەم ئەڭ ئىچىدىكى بىر چەمبەر. ئادەم سىرتقى چەمبەرلەرنىڭ پائالىيەت دائىرىسىنى مۆلچەرلىمەكچى بولسا، ئۆزىنى ۋە يېنىدىكى قوشنا چەمبەرلەرنى تېخىمۇ چوڭ چەمبەر دەپ پەرەز قىلىشى زۆرۈر، بۇ قوشنا چەمبەرلەر مىللەت تارىخى، جەمئىيەت تارىخى ۋە ئىنسانىيەت تارىخىدۇر. بارلىق چەمبەرلەرنىڭ مەركىزىنى، ئەڭ كىچىك چەمبەرنى تېپىش كېرەك، بۇ تەبىئىي پەننىڭ ئىشى. چۈنكى ئادەم ئاشۇ چەمبەرنى ئۆز جىسمىدىن ئىزدەيدۇ. شۇڭا بىز ھازىر تارىخ بىلەن تەبىئىي پەننىڭ بىز ئۈچۈن چوڭقۇر ئەھمىيەتكە ئىگە پەن ئىكەنلىكىنى تونۇپ يەتتۇق.
+دۇنيا تارىخى چەمبىرى ئادەمنى ئۆزى بىلەن بىللە ئېلىپ ماڭغاندا، شەخسىي ئىرادە بىلەن ئومۇمىي ئىرادە ئوتتۇرىسىدا كۈرەش يۈز بېرىدۇ. بۇ كۈرەشكە ئەگىشىپ، ئىنتايىن مۇھىم بىر مەسىلە - شەخسنىڭ مىللەتكە، مىللەتنىڭ ئىنسانىيەتكە، ئىنسانىيەتنىڭ دۇنياغا بولغان ھوقۇق مەسىلىسىئاشكارىلىنىدۇ، بۇ كۈرەشكە ئەگىشىپ، تەقدىر بىلەن تارىخنىڭ ئاساسىي مۇناسىۋىتىمۇ ئۆز ئىپادىسىنى تاپىدۇ.
+ئادەم ئۈچۈن ئېيتقاندا، پۈتكۈل تارىخقا مۇناسىۋەتلىك يۈكسەك چۈشەنچىلەرنىڭ بولۇشى مۇمكىن ئەمەس. ئۇلۇغ تارىخچىلار بىلەن ئۇلۇغ پەيلاسوپلارنىڭ ھەممىسى دانىشمەندۇر. چۈنكى ئۇلار ئىچكى چەمبەردىن سىرتقى چەمبەرگە كېڭىيەلەيدۇ. تەقدىرنىڭ ئورنى تېخى كاپالەتكە ئىگە ئەمەس. بىز ئايرىم، ھەتتا ئومۇمىي ھوقۇقنى پەرق ئەتمەكچى بولساق، كىشىلىك تۇرمۇشنى كۆزىتىپ بېقىشىمىز كېرەك.
+بىزنىڭ بەختلىك تۇرمۇشىمىزنى نېمە بەلگىلەيدۇ؟ بىزنى ئالغا ئىلگىرىلىتىۋاتقان ئاشۇ ۋەقەلەردىن مىننەتدار بولۇشىمىز كېرەكمۇ؟ ياكى بىزنىڭ تەبىئىتىمىز بارلىق ۋەقەلەرنىڭ خۇسۇسىيىتىگە ماس كەلمەمدىكەن؟ تەبىئىتىمىز ئەينىكىدە كۆرۈنگەن ھەممە نەرسە بىز بىلەن قارشىلىشىپ كېلىۋاتىدۇغۇ؟ ھەر بىر ۋەقە خۇددى تەقدىرىمىزنىڭ مۇقامىنى بەلگىلەيدىغاندەك قىلىدۇ، ھالبۇكى تەقدىر نامى بىلەن بىزگە تەبىئىتىمىزگىلا باغلىقمىدۇ؟ ئېمېرسون بىزنى تالانتلىق دوختۇردىن تەبىئىتىمىزنىڭ قانچىلىك نەرسىدە ھەل قىلغۇچ رول ئوينىيالايدىغانلىقىنى، قانچىلىك نەرسىدە تۈپتىن ھەل قىلغۇچ رول ئوينىيالايدىغانلىقىنى سوراپ بېقىشقا ئۈندىمىگەنمىدى؟
+بىزنىڭ تەبىئىتىمىز بىزنىڭ مىجەز - خاراكتېرىمىزنى بەلگىلەيدۇ، ئۇ بىزنىڭ كەچۈرمىشلىرىمىز ۋە ۋەقەلەر قالدۇرۇپ كەتكەن ئىزنالارنى روشەن نامايەن قىلىدۇ. قانچىلىغان كىشىلەرنى ئادەتتىكى نەرسە قاتارىدا تۆۋەنلىتىۋەتكەن، ئىدىيىنىڭ پەرۋازىنى يۈكسەكلىكتىن چەكلىگەن زادى نېمە؟ تەقدىرچىلىكنىڭ باش ۋە ئومۇرتقا سۆڭىكى، ئۇلارنىڭ ئاتا ـ ئانىلىرىنىڭ تەن ساپاسى ۋە خاراكتېرى، ئۇلارنىڭ زېرىكىشلىك ماكانى. بىز&nbsp; تەسىرگە ئۇچرىدۇق، بۇنىڭغا قارشى تۇرغۇدەك كۈچ بىزدە يوق. بىز&nbsp; تەسىرگە ئۇچرىغانلىقىمىزنى تونۇپ يەتمىدۇق. بۇ تولىمۇ ئېچىنىشلىق تەسىرات:سىرتقى تەسىرنى ئاڭسىز قوبۇل قىلىش داۋامىدا ئۆزىمىزنىڭ مۇستەقىل خاسلىقىمىزنى يوقاتتۇق، ئادەت كۈچىنىڭ قەلب ئىقتىدارىمىزنى بېسىشىغا سۈكۈت قىلىپ، قەلبىىمىزگە ئىرادىمىزگە خىلاپ ھالدا مالامەت ئۇرۇقلىرىنى تېرىدۇق.
+مىللەت تارىخىدا بىز يەنە بۇلارنىڭ ھەممىسىنى بايقىدۇق. نۇرغۇن مىللەتلەر ئوخشاش بولمىغان تۈرلۈك شەكىللەر ئارقىلىق ئوخشاش بىر ئىشنىڭ زەربىسىنىڭ تەسىرىگە ئۇچرىغان.
+شۇڭا پۈتكۈل ئىنسانىيەتنى ئۆلۈك ھالدا مەلۇم ئالاھىدە دۆلەت ياكى جەمئىيەت فورمىسىغا سېلىش - بىر خىل تار ئۇسۇل. بارلىق ئىجتىمائىي ئىدىيە بۇنداق خاتالىقتىن خالىي ئەمەس. بۇنىڭ سەۋەبى شۇكى، بىر ئادەم مەڭگۈ يەنە شۇ ئادەم بولالمايدۇ. كۈچلۈك ئىرادە بىلەن ئىلگىرىكى دۇنيانى ئاغدۇرۇۋېتىش مۇمكىن بولغاندا، بىز دەرھال مۇستەقىل ئىلاھلار قاتارىدىن ئورۇن ئالالايمىز. شۇندىلا دۇنيا تارىخى بىز ئۈچۈن گويا ئۆزلۈك مەستخۇشلۇقىدىكى بىر خىيالەن ھالەتتىن باشقا نەرسە ئەمەس. پەردە چۈشىدۇ، كىشىلەر ئۆزىنى يەنە گويا سىرتقى دۇنيا&nbsp; بىلەن ئوينىشىۋاتقان بالىدەك ھېس قىلىدۇ، گويا سەھەردە كۆتۈرۈلگەن قۇياش بىلەن تەڭ ئويغانغان، قاباھەتلىك چۈشىنى كۈلۈپ تۇرۇپ ئۇزىتىپ قويغان بالىدەك سېزىدۇ.
+ئەركىن ئىرادە چەكلىمىگە ئۇچرىمايدۇ، ئۆز خاھىشى بويىچە ئىش كۆرىدۇ، ئۇ چەكسىز ئەركىنلىككە ئىگە، خالىغانچە قىيغىتىپ يۈرىدىغان نەرسە، ئۇ روھ. لېكىن تەقدىر - ئەگەر بىز دۇنيا تارىخىنىڭ خىيالىي خاتالىق ئىكەنلىكىگە،&nbsp; ئىنسانىيەت تارتىۋاتقان ئازابنىڭ بىر خىل خىيالىي تۇيغۇ ئىكەنلىكىگە، بىز ئۆزىمىزنىڭ ئۆزىمىزنىڭ خىيالىي ئۇيۇنچۇقى ئىكەنلىكىگە ئىشەنمىسەك - بۇ بىر خىل مۇقەررەرلىك. تەقدىر ئەركىن ئىرادىگە قارشى تۇرىدىغان پۈتمەس كۈچ. تەقدىرنىڭ ئەركىن ئىرادىسى بولمىسا، خۇددى تەنسىز روھ بولمىغانغا ئوخشاش، يامانلىقسىز ياخشىلىقنىمۇ تەسەۋۋۇر قىلغىلى بولمايدۇ، چۈنكى قارىمۇ قارشى تەرەپ بولغاندىلا ئالاھىدىلىك بولىدۇ.
+تەقدىرھەممە ئىش ئىشنىڭ ئۆزىگە باغلىق دېگەن پىرىنسىپىنى تەكرار تەشەببۇس قىلىدۇ. ناۋادا بۇ بىردىنبىر ھەقىقىي پىرىنسىپ بولسا، ئۇنداقتا ئادەم قاراڭغۇدا رول ئوينايدىغان كۈچنىڭ ئويۇنچۇقى، ئۇ ئۆز خاتالىقىغا ئىگە بولمايدۇ، ئۇنىڭدا ھېچقانداق ئەخلاق پەرقى بولمايدۇ، ئۇ بىر زەنجىردىكى كەم بولسا بولمايدىغان بىر ھالقا. ناۋادا ئۇ ئۆز ئورنىنى كۆرۈپ يېتەلمىسە، ئەگەر ئۆزىدىكى ئاسارەت زەنجىرىدىن بوشاش ئۈچۈن قاتتىق تىركەشمىسە، ئەگەر بۇ دۇنيانى ۋە ئۇنىڭ ئايلىنىۋاتقان مېخانىزمىنى قالايمىقانلاشتۇرۇۋېتىشكە ئىشتىياق بىلەن ئۇرۇنمىسىلا ئۇ ئىنتايىن بەختلىك بولىدۇ!
+روھ - چەكسىز كىچىك ماددا، ياخشىلىق يامانلىقنىڭ ئۆزىدىكى مۇرەككەپ تەرەققىيات، ئەركىن ئىرادە تەقدىرنىڭ ئەڭ زور يوشۇرۇن كۈچى بولسا كېرەك. ناۋادا بىز ماددا دېگەن ئۇقۇمنىڭ مەنىسىنى چەكسىز كېڭەيتسەك، ئۇ چاغدا دۇنيا تارىخى ماددىنىڭ تارىخى بولۇپ قالىدۇ. بۇنىڭدىنمۇ يۈكسەك پرىنسىپ بولۇشى چوقۇم، يۈكسەك پرىنسىپ ئالدىدا بارلىق پەرقلەر ئالامەت چوڭ ئومۇمىي گەۋدىگە قوشۇلۇپ كېتىدۇ؛ يۈكسەك پرىنسىپ ئالدىدا بارلىق نەرسىلەرنى تەرەققىي قىلىدۇ، پەلەمپەيسىمان تەرەققىي قىلىدۇ، ھەممە نەرسە پايانسىز دېڭىزغا قۇيۇلىدۇ - ئۇ يەردە دۇنيا تەرەققىياتىنىڭ بارلىق پىشاڭلىرى يېڭىۋاشتىن جەم بولۇپ، بىرلىشىپ ۋە بىرىكىپ بىر پۈتۈن نەرسە بولۇپ شەكىللىنىدۇ.</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2178" title="ئەڭ ئاخىرقى نۇتۇق"  target="_blank" class="tag_title_link">ئەڭ ئاخىرقى نۇتۇق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2177" title="سىياسىي كىشىلەردىن بولۇشىمىز زۆرۈر"  target="_blank" class="tag_title_link">سىياسىي كىشىلەردىن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2176" title="ئاددىي بىر ئامېرىكىلىقنىڭ ئۇلۇغ تەرىپى"  target="_blank" class="tag_title_link">ئاددىي بىر ئامېرىك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2175" title="ئامېرىكىنى زىيارەت قىلىشتىن ئىلگىرىكى ئۇزىتىش زىياپىتىدە سۆزلگەنگەن نۇتۇق"  target="_blank" class="tag_title_link">ئامېرىكىنى زىيارەت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2174" title="تىنچلىق بىز كۆپچىلىككە مەنسۇپ"  target="_blank" class="tag_title_link">تىنچلىق بىز كۆپچىل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2173" title="ۋاپاسىزلارچە ھۇجۇم"  target="_blank" class="tag_title_link">ۋاپاسىزلارچە ھۇجۇم</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2172" title="جىددىي ۋەزىيەت"  target="_blank" class="tag_title_link">جىددىي ۋەزىيەت</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2171" title="ئادەم ئۈچۈن ياشاشلا كۇپايە قىلمايدۇ"  target="_blank" class="tag_title_link">ئادەم ئۈچۈن ياشاشل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2170" title="تەقدىر ۋە تارىخ"  target="_blank" class="tag_title_link">تەقدىر ۋە تارىخ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2169" title="يازغۇچى ئۆزىنى مۇئەسسەسىگە ئايلاندۇرۇپ قويماسلىقى كېرەك"  target="_blank" class="tag_title_link">يازغۇچى ئۆزىنى مۇئ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2168" title="ۋەتەننىڭ غەلىبىسى"  target="_blank" class="tag_title_link">ۋەتەننىڭ غەلىبىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2167" title="ئىلىم - پەن تەرەققىياتىدىكى توسالغۇ"  target="_blank" class="tag_title_link">ئىلىم - پەن تەرەققى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2166" title="فرانسىيە ھالاك بولمايدۇ"  target="_blank" class="tag_title_link">فرانسىيە ھالاك بول...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2165" title="خەلق گېزىتى نىڭ نەشر قىلىنغانلىقىنى خاتىرىلەش يىغىنىدا سۆزلەنگەن نۇتۇق"  target="_blank" class="tag_title_link">خەلق گېزىتى نىڭ نەش...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2164" title="ئىلىم - پەننى قەدىرلەيلى، ئىلىم - پەننى ھۆرمەتلەيلى"  target="_blank" class="tag_title_link">ئىلىم - پەننى قەدىر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2163" title="خەلق ئۈچۈن خىزمەت قىلايلى!"  target="_blank" class="tag_title_link">خەلق ئۈچۈن خىزمەت ق...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2162" title="گېيوتېسبورگ دۆلەت قەبرىستانلىقىدا سۆزلەنگەن نۇتۇق"  target="_blank" class="tag_title_link">گېيوتېسبورگ دۆلەت ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2161" title="گۈزەللىك جەننەتتىن چۈشەمدۇ ياكى دوزاختىن چىقامدۇ؟"  target="_blank" class="tag_title_link">گۈزەللىك جەننەتتىن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2160" title="بىز ئۇرۇشقانسېرى قۇدرەت تاپىمىز"  target="_blank" class="tag_title_link">بىز ئۇرۇشقانسېرى ق...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2159" title="تەقدىر ۋە تارىخ"  target="_blank" class="tag_title_link">تەقدىر ۋە تارىخ</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/kutupxana/search.php?catid=53&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2178" title="ئەڭ ئاخىرقى نۇتۇق"  target="_blank" class="tag_title_link">ئەڭ ئاخىرقى نۇتۇق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2177" title="سىياسىي كىشىلەردىن بولۇشىمىز زۆرۈر"  target="_blank" class="tag_title_link">سىياسىي كىشىلەردىن بولۇ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2176" title="ئاددىي بىر ئامېرىكىلىقنىڭ ئۇلۇغ تەرىپى"  target="_blank" class="tag_title_link">ئاددىي بىر ئامېرىكىلىقن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2175" title="ئامېرىكىنى زىيارەت قىلىشتىن ئىلگىرىكى ئۇزىتىش زىياپىتىدە سۆزلگەنگەن نۇتۇق"  target="_blank" class="tag_title_link">ئامېرىكىنى زىيارەت قىلى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2174" title="تىنچلىق بىز كۆپچىلىككە مەنسۇپ"  target="_blank" class="tag_title_link">تىنچلىق بىز كۆپچىلىككە ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2173" title="ۋاپاسىزلارچە ھۇجۇم"  target="_blank" class="tag_title_link">ۋاپاسىزلارچە ھۇجۇم</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2172" title="جىددىي ۋەزىيەت"  target="_blank" class="tag_title_link">جىددىي ۋەزىيەت</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2171" title="ئادەم ئۈچۈن ياشاشلا كۇپايە قىلمايدۇ"  target="_blank" class="tag_title_link">ئادەم ئۈچۈن ياشاشلا كۇپ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2170" title="تەقدىر ۋە تارىخ"  target="_blank" class="tag_title_link">تەقدىر ۋە تارىخ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2169" title="يازغۇچى ئۆزىنى مۇئەسسەسىگە ئايلاندۇرۇپ قويماسلىقى كېرەك"  target="_blank" class="tag_title_link">يازغۇچى ئۆزىنى مۇئەسسەس...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/kutupxana/show_js.php?itemid=2170"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

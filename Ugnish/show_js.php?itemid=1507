@@ -1,0 +1,3 @@
+﻿try {setidval('hits','80');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/Ugnish/show.php?itemid=1506">داۋېد ۋە ئۇنىڭ «ماراتنىڭ ئۆلۈمى» دېگەن رەسىمى ۋە دېلاكرۋانىڭ «ئەركىنلىك ئانىسى خەلقنى ئالغا باشلىماق</a></li><li>  كىيىنكىسى  :  <a href="/Ugnish/show.php?itemid=1508">كوۋربېت ۋە ئۇنىڭ «تاشچى» دېگەن رەسىمى</a></li>');}catch(e){}

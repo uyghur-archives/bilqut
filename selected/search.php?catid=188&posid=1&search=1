@@ -1,0 +1,406 @@
+﻿
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>بىكەت ئىچىدىن خەۋەرئىزدەش-Bilqut Uyghur web</title>
+<meta name="keywords" content="خەۋەر,Bilqut Uyghur web">
+<meta name="description" content="خەۋەر,Bilqut Uyghur web">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/xewer/" class="red"> خەۋەر</a>
+         | <a class="razimantur" href="/xewer/list.php?catid=185" >خـەلقئارا</a>
+
+ | <a class="razimantur" href="/xewer/list.php?catid=186" >مـەملىكەت</a>
+
+ | <a class="razimantur" href="/xewer/list.php?catid=187" >شىنجـــاڭ</a>
+
+ | <a class="razimantur" href="/xewer/list.php?catid=188" >مائارىپ ئۇچۇرى </a>
+
+ | <a class="razimantur" href="/xewer/list.php?catid=189" >تەنتەربىيە </a>
+
+ | <a class="razimantur" href="/xewer/list.php?catid=190" >ئۇنۋېرسال</a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+  <div class="search">
+    <h1>خەۋەرئىزدەش </h1>
+<table width="100%"  cellspacing="1" cellpadding="5" align="center">
+       <tr>
+  <td>
+    <table width="100%"  cellspacing="2" cellpadding="5" align="center">
+<form name="myform" action="/xewer/search.php" method="get">
+<tr>
+<td width="20%" class="search_l">ئىزدەش دائىرسى </td>
+<td class="search_r">
+<input type="radio" class="radio" name="searchtype" value="title" checked>  تېما
+        <input type="radio" class="radio" name="searchtype" value="content" > قىسقىچە مەزمۇنى 
+<input type="radio" class="radio" name="searchtype" value="username" > ئەزا 
+<input type="radio" class="radio" name="searchtype" value="author" > يازغۇچى 
+        </td>
+</tr>
+<tr>
+<td class="search_l">ھالقىلىق سۆز  </td>
+<td class="search_r"><input name="keywords" type="text" size="30" value="">  &nbsp;&nbsp;<font color="red">* بىردىن ئارتۇق ئاچقۇچلۇق سۆز بولسا «بوشلۇق»بەلگىسى بىلەن ئايرىڭ</font></td>
+</tr>
+<tr>
+<td class="search_l">تۈر نامى</td>
+<td class="search_r"><select name='catid' ><option value='0'>سەھىپە تاللاڭ</option><option value='185' >خـەلقئارا</option><option value='186' >مـەملىكەت</option><option value='187' >شىنجـــاڭ</option><option value='188' selected>مائارىپ ئۇچۇرى </option><option value='189' >تەنتەربىيە </option><option value='190' >ئۇنۋېرسال</option></select></td>
+</tr>
+<tr>
+  <td class="search_l">قۇشۇمچە تۈر</td>
+  <td class="search_r"><select name='typeid' >
+<option value='0'>تاللاڭ </option>
+</select></td>
+  </tr>
+<tr>
+<td class="search_l"> ۋاقىت </td>
+<td class="search_r">دىن
+  <script language="javascript">var imgDir = "/include/calendar/";</script>
+<script language="javascript" src="/include/calendar/calendar.js"></script>
+<input type="text" name="fromdate" id="fromdate" value="" size="10">&nbsp;<img src="/include/calendar/date_selector.gif" border="0" align="absMiddle" style="cursor:pointer" onclick="popUpCalendar(this,document.getElementById('fromdate'),'yyyy-mm-dd');">گىچە
+<input type="text" name="todate" id="todate" value="" size="10">&nbsp;<img src="/include/calendar/date_selector.gif" border="0" align="absMiddle" style="cursor:pointer" onclick="popUpCalendar(this,document.getElementById('todate'),'yyyy-mm-dd');">ۋاقىت شەكلى:yyyy-mm-dd</td>
+</tr>
+
+<tr>
+<td class="search_l">تەرتىپى </td>
+<td class="search_r">
+<select name="ordertype">
+<option value="0" selected>ماقالەتەرتىپى بويىچە</option>
+<option value="1" >ۋاقىتنىڭ تۆۋەنلەش تەرتىپى</option>
+<option value="2" >ۋاقىتنىڭ ئۆرلەش تەرتىپى</option>
+<option value="3" >كۆرۈش سانىنىڭ تۆۋەنلەش تەرتىپى</option>
+<option value="4" >كۆرۈش سانىنىڭ ئۆرلەش تەرتىپى</option>
+<option value="5" >باھانىڭ تۆۋەنلەش تەرتىپى</option>
+<option value="6" >باھانىڭ ئۆرلەش تەرتىپى</option>
+</select>
+</td>
+</tr>
+        <tr>
+<td height="30" align="right" bgcolor="#F5F5F5">&nbsp;</td>
+<td class="search_r">
+                <input type="hidden" name="search" value="1">
+<input type="submit" value="ئىزدەش " class="btn" />
+<input type="button" onClick="window.location='search.php'" value="قايتا" class="btn" />
+</td>
+</tr>
+
+</form>
+</table>
+</td>
+</tr>
+<tr>
+<td height="25" align="center" bgcolor="#F5F5F5">سىز كىرگۈزگەن ئاچقۇچلۇق سۆز<b><span class="color_red"></span></b>جەمئىي
+<span class="color_red">424</span><span class="color_red">39</span> پارچە ئۇچۇر تېپىلدى</td>
+</tr>
+<tr>
+<td style="height:25px;padding-left:5px">
+<b><a href="/xewer/show.php?itemid=425" target="_blank" class="searchtitle">سۈرەتلىك خەۋەرلەر</a></b>  2009-12-05</td>
+</tr>
+<tr>
+<td style="padding:15px; WORD-WRAP: break-word;">
+
+
+
+2009– يىل12– ئاينىڭ4– كۈنى11:37تەڭرىتاغ ئۇيغۇر تورى 
+
+
+
+
+    * ئىخ&amp;dK&amp; Uتىيارىي مۇخبىرىمىز ئAKuP-H&amp;XhsuRubEe7LDJ6bdoQ0lARr&amp;v^hابدۇشۈك ...</td>
+</tr>
+<tr>
+<td height="1" bgcolor="#eeeeee"> </td>
+</tr>
+
+<tr>
+<td style="height:25px;padding-left:5px">
+<b><a href="/xewer/show.php?itemid=424" target="_blank" class="searchtitle">‹‹ياشىلى›› گۇرۇھى خوتەن ۋىلايىتىگە 500مىڭ يۈەن قىممىتىدىكى سۈت مەھسۇلاتىنى تەقدىم قىلىدى</a></b>  2009-12-05</td>
+</tr>
+<tr>
+<td style="padding:15px; WORD-WRAP: break-word;">
+
+
+
+2009– يىل12– ئاينىڭ4– كۈنى11:17تەڭرىتاغ ئۇيغۇر تورى 
+
+
+
+
+     ئىختىيارىي مIK)L242TG)hQzgCV61)6Ef)ULۇخبىرىمىز ئېلىجان ئىyhb%ivuTFbJ^eC ...</td>
+</tr>
+<tr>
+<td height="1" bgcolor="#eeeeee"> </td>
+</tr>
+
+<tr>
+<td style="height:25px;padding-left:5px">
+<b><a href="/xewer/show.php?itemid=423" target="_blank" class="searchtitle">ئەخلاق تەربىيىسىدىكى تۆھپىكار باغۋەن</a></b>  2009-12-05</td>
+</tr>
+<tr>
+<td style="padding:15px; WORD-WRAP: break-word;">
+
+
+
+2009– يىل12– ئاينىڭ3– كۈنى11:12شىنجاڭ گېزىتى 
+
+
+
+
+نۇردۇن ئابدۇسەم!Hp&amp;ZDlxX-Nb@PTX554Ai3sLIs7bs1HgBTOeSI*ەد
+     يەكەن0HHs0YLJu1Ym1@(kat!KojLhMRozzr ...</td>
+</tr>
+<tr>
+<td height="1" bgcolor="#eeeeee"> </td>
+</tr>
+
+<tr>
+<td style="height:25px;padding-left:5px">
+<b><a href="/xewer/show.php?itemid=422" target="_blank" class="searchtitle">توقسۇدا ئوقۇغۇچىلارنىڭ ئوقۇشتىن توختاپ قېلىشى تىزگىنلەندى</a></b>  2009-12-05</td>
+</tr>
+<tr>
+<td style="padding:15px; WORD-WRAP: break-word;">
+
+
+
+2009– يىل11– ئاينىڭ30– كۈنى12:21شىنجاڭ گېزىتى 
+
+
+
+
+     نىياD8e5tO94yyxsj+CWCPMg6rSUGnf9Ko1ybDmyG!kd-#L0BmmPF1CEyoaEز ساتتار، خاسىيەت قاG*Z8Q8yV^Iv ...</td>
+</tr>
+<tr>
+<td height="1" bgcolor="#eeeeee"> </td>
+</tr>
+
+<tr>
+<td style="height:25px;padding-left:5px">
+<b><a href="/xewer/show.php?itemid=421" target="_blank" class="searchtitle">ستۇدېنتلار يۈزتۇرا ئىمتىھانىدا ئالتە نۇقتىغا دىققەت قىلىشى كېرەك  </a></b>  2009-12-05</td>
+</tr>
+<tr>
+<td style="padding:15px; WORD-WRAP: break-word;">
+
+
+
+2009– يىل11– ئاينىڭ27– كۈنى11:14شىنجاڭ گېزىتى 
+
+
+
+
+     ئالىي مەكتەپfQse#wZm4uGG lUakQH 6p0mMsvPl(+&amp;MC)(#PmEzP+9!6+B89LZJنى پۈتكۈزگەنلەرنى ت ...</td>
+</tr>
+<tr>
+<td height="1" bgcolor="#eeeeee"> </td>
+</tr>
+
+<tr>
+<td style="height:25px;padding-left:5px">
+<b><a href="/xewer/show.php?itemid=420" target="_blank" class="searchtitle">سۈرەتلىك خەۋەرلەر</a></b>  2009-12-05</td>
+</tr>
+<tr>
+<td style="padding:15px; WORD-WRAP: break-word;">
+
+
+
+2009– يىل11– ئاينىڭ27– كۈنى10:50تەڭرىتاغ ئۇيغۇر تورى 
+
+
+
+
+   * ئىختىيارىي م+N4apGTmGA$qP$$@-GVb9VxJcsۇخبىرىمىز ھۆسىيىن مە nn9ZOaمت ...</td>
+</tr>
+<tr>
+<td height="1" bgcolor="#eeeeee"> </td>
+</tr>
+
+<tr>
+<td style="height:25px;padding-left:5px">
+<b><a href="/xewer/show.php?itemid=419" target="_blank" class="searchtitle">ئۈرۈمچى شەھىرىدىكى 142 تەربىيىلەش ئورنى دەرسنى ئەسلىگە كەلتۈردى</a></b>  2009-12-05</td>
+</tr>
+<tr>
+<td style="padding:15px; WORD-WRAP: break-word;">
+
+
+
+2009– يىل11– ئاينىڭ27– كۈنى11:15شىنجاڭ گېزىتى 
+
+
+
+
+     چېن ob-64Pcsc#$nF&amp;RRtTjE8YL0D H33yشياۋخۇينىڭ Zئۈرۈمچى شەھەرلىك مائ8tUIev!gBBeK)y# ...</td>
+</tr>
+<tr>
+<td height="1" bgcolor="#eeeeee"> </td>
+</tr>
+
+<tr>
+<td style="height:25px;padding-left:5px">
+<b><a href="/xewer/show.php?itemid=345" target="_blank" class="searchtitle">قارامايلىقلار كىتاب سېتىۋېلىشتا مەملىكەت بويىچە ئالدىنقى قاتارغا ئۆتتى</a></b>  2009-11-23</td>
+</tr>
+<tr>
+<td style="padding:15px; WORD-WRAP: break-word;">
+
+
+
+2009– يىل11– ئاينىڭ23– كۈنى10:51شىنجاڭ گېزىتى 
+
+
+
+
+     ليۇ R9B8ideSGQm(ucaTReZ67h6فېڭ خەۋەر ق!UTly5mkZZ4nrsvWTZvE6QKp$G2AeGEARn3-b(ىلىدۇ: بىر ئا ...</td>
+</tr>
+<tr>
+<td height="1" bgcolor="#eeeeee"> </td>
+</tr>
+
+<tr>
+<td style="height:25px;padding-left:5px">
+<b><a href="/xewer/show.php?itemid=344" target="_blank" class="searchtitle">ئۈرۈمچى شەھىرىدىكى 26 مەكتەپ شەھەر دەرىجىلىك ‹‹يېشىل مەكتەپ›› لىككە مەلۇم قىلىندى</a></b>  2009-11-23</td>
+</tr>
+<tr>
+<td style="padding:15px; WORD-WRAP: break-word;">
+
+
+
+2009– يىل11– ئاينىڭ16– كۈنى11:03تەڭرىتاغ ئۇيغۇر تورى 
+
+
+
+
+Pr32I&amp;-UHfWA4fPzx#RuxTAexGLfO@5XzDR4mhaf599aA)6+elVd3RNZ2L5
+ 
+ئۈرۈYOLCTf+sY5&amp;nVQ-C9ryklaRIZRDd^X(PqC ...</td>
+</tr>
+<tr>
+<td height="1" bgcolor="#eeeeee"> </td>
+</tr>
+
+<tr>
+<td style="height:25px;padding-left:5px">
+<b><a href="/xewer/show.php?itemid=343" target="_blank" class="searchtitle">ئىچكىرى ئۆلكىلەردىكى شىنجاڭ تولۇق ئوتتۇرا سىنىپى، ھەمكارلىق پىلانى بويىچە تەييارلىق سىنىپى تەسىس قىل</a></b>  2009-11-23</td>
+</tr>
+<tr>
+<td style="padding:15px; WORD-WRAP: break-word;">   جىڭ OMlC&amp;GAfR KTQO+q!4iq5o#DnaW^Q4gبو خەۋەر قىIniJTfCBtokOi@DEL9VVVGY#QxkS6FBu4NC^Mhcy7QhryFTh)yلىدۇ: ئىچكىرى ئۆلكىلFg0zfB+dRPgWV4Bf#O-yapccst7qRFFyCd!eL Fw6N1wS#)E8xn1 ...</td>
+</tr>
+<tr>
+<td height="1" bgcolor="#eeeeee"> </td>
+</tr>
+
+
+<tr>
+<td class="pages">جەمئى: <b>39</b>&nbsp;&nbsp;&nbsp;&nbsp;باش بەت
+&nbsp;ئالدىنقى بەت
+&nbsp;<a href='https://bilqut.com/xewer/search.php?catid=188&posid=1&search=1&page=2'>كىينكى بەت
+</a>&nbsp;<a href='https://bilqut.com/xewer/search.php?catid=188&posid=1&search=1&page=4'>ئاخىرقى بەت</a>&nbsp;بە ت: <b><font color=red>1</font>/4</b>&nbsp;&nbsp;<input type='text' name='page' id='page' class='page' size='2' onKeyDown="if(event.keyCode==13) {window.location='https://bilqut.com/xewer/search.php?catid=188&posid=1&search=1&page='+this.value; return false;}"> <input type='button' value='GO' class='gotopage' style='width:30px' onclick="window.location='https://bilqut.com/xewer/search.php?catid=188&posid=1&search=1&page='+$('page').value">
+</td>
+</tr>
+</table> 
+</div>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

@@ -1,0 +1,3 @@
+﻿try {setidval('hits','505');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/edebiyat/2007/1012/11023.htm">ﺳﯩﻠﻪﺭ ﺳﯘﻧﻐﺎﻥ،ﺳﯘﻧﺎﻱ ﻣﻪﻧﻤﯘ ﺟﺎﻡ..</a></li><li>  كىيىنكىسى  :  <a href="/edebiyat/show.php?itemid=11025">ﺳﯚﻳﯚﻟﮕﯜﭼﯩﮕﻪ ﺧﯩﺘﺎﺏ</a></li>');}catch(e){}

@@ -1,0 +1,3 @@
+﻿try {setidval('hits','21');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/Ugnish/show.php?itemid=148">ئۇنىۋېرسال ئالدىنى ئېلىش - يوقىتىشتىكى ...</a></li><li>  كىيىنكىسى  :  <a href="/Ugnish/show.php?itemid=150">ئورگانىك يېزا ئىگىلىكىنىڭ مۇراجىئىتى</a></li>');}catch(e){}

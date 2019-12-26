@@ -1,0 +1,223 @@
+﻿<br />
+<b>Warning</b>:  session_start() [<a href='function.session-start'>function.session-start</a>]: open(D:/ԭ���ļ�/Bilqut_web/data/sessions/\sess_t7pj3jmpa4n67nsovkdme5slg2, O_RDWR) failed: Permission denied (13) in <b>D:\ԭ���ļ�\Bilqut_web\include\common.inc.php</b> on line <b>17</b><br />
+<html dir="rtl">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ئالامەت ئىتوت بۇ -كىنو-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,,كىنو">
+<meta name="description" content="--كىنو">
+<link href="/css/nahxa.css" rel="shortcut icon">
+<link href="/css/kino.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+</head>
+<body  >
+
+<div class="header">
+<table width="950" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#0c0c0c">
+<tr>
+<td align="center"><table id="__01" width="950" height="62" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<a href="/xewer"><img src="/raziman_img/kino/top/kino-top_01.gif" width="61" height="62" alt=""></a></td>
+<td>
+<a href="/kutupxana/"><img src="/raziman_img/kino/top/kino-top_02.gif" width="62" height="62" alt=""></a></td>
+<td>
+<a href="/uyghur"><img src="/raziman_img/kino/top/kino-top_03.gif" width="62" height="62" alt=""></a></td>
+<td>
+<a href="/balilar_bagchisi/"><img src="/raziman_img/kino/top/kino-top_04.gif" width="62" height="62" alt=""></a></td>
+<td>
+<a href="/uchur"><img src="/raziman_img/kino/top/kino-top_05.gif" width="62" height="62" alt=""></a></td>
+<td>
+<a href="/resim/"><img src="/raziman_img/kino/top/kino-top_06.gif" width="58" height="62" alt=""></a></td>
+<td>
+<a href="/"><img src="/raziman_img/kino/top/kino-top_07.gif" width="212" height="62" alt=""></a></td>
+<td>
+<a href="/awaz/"><img src="/raziman_img/kino/top/kino-top_08.gif" width="62" height="62" alt=""></a></td>
+<td>
+<a href="/Ugnish/"><img src="/raziman_img/kino/top/kino-top_09.gif" width="62" height="62" alt=""></a></td>
+<td>
+<a href="/mtv/"><img src="/raziman_img/kino/top/kino-top_10.gif" width="61" height="62" alt=""></a></td>
+<td>
+<a href="/oyun/"><img src="/raziman_img/kino/top/kino-top_11.gif" width="62" height="62" alt=""></a></td>
+<td>
+<a href="/kino/"><img src="/raziman_img/kino/top/kino-top_12.gif" width="62" height="62" alt=""></a></td>
+<td>
+<a href="/nahxa/"><img src="/raziman_img/kino/top/kino-top_13.gif" width="62" height="62" alt=""></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+
+
+  <div align="center">
+
+
+
+
+  <table width="950" border="0" cellpadding="0" cellspacing="0" id="table3" bgcolor="#0C0C0C">
+
+
+<tr>
+<td align="center">
+<a href="/kino/"><img src="/raziman_img/kino/index_top.jpg" width="930" height="157" alt=""></a></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table width="950" border="0" cellspacing="0" cellpadding="0" bgcolor="#0C0C0C">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+  </div>
+
+  <!--频道下属栏目列表-->
+<div align="center">
+<table width="950" height="36" border="0" cellpadding="0" cellspacing="0" id="table4" bgcolor="#0C0C0C">
+<tr>
+  <td width="8" rowspan="2" height="36">&nbsp;
+  </td>
+<td height="36" width="197" align="center">
+<a href="/kino/" class="white"> 
+  بـــاش بـــەت </a></td>
+<td height="36" width="737" >
+   | <a class="razimantur" href="/kino/list.php?catid=258" >ئۇيغۇرچە</a>
+
+</td>
+<td width="8" height="36">&nbsp;
+  </td>
+</tr>
+
+</table>
+
+</div>
+
+</div>
+
+<div align="center">
+
+<table width="950" cellpadding="0" cellspacing="0" bgcolor="#0C0C0C">
+  <tr>
+    <td height="10"></td>
+  </tr>
+</table></div>
+
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+    <div class="position">ئورنىڭىز : <a href="/kino/">كىنو</a> >> <a href="/kino/list.php?catid=258">ئۇيغۇرچە</a> >> </div>
+<!--影视文档名称-->
+<h1><font color="#008000">ئالامەت ئىتوت بۇ </font></h1>
+<!--影视地址-->
+<table border="0" width="700" id="table1" cellspacing="0" cellpadding="0" >
+<tr>
+<td width="690"><table border="0" width="690" id="table1" class="raziman_cd">
+<tr >
+    <td width="11" valign="middle">&nbsp;</td>
+<td  width="465px">
+<a href="javascript:openwinx('/kino/play.php?itemid=1&id=0','play10','700','550')">
+<font color="#008000">1- بۆلەك</font></a></td>
+<td></td>
+<td width="80px">
+<a href="javascript:openwinx('/kino/play.php?itemid=1&id=0','play10','700','550')">
+<font color="#008000">كۆرۈش</font></a></td>
+<td width="50px"></td>
+
+</tr></table>
+</td>
+<td width="18" ><div class="nahxajan" ></div>
+</td> </td>
+</tr>
+    </tr>
+</table>
+
+   <td width="10">&nbsp;</td>
+  </tr></table>
+<script type="text/javascript" src="/kino/show_js.php?itemid=1"></script>
+<BR>
+
+</head>
+
+
+
+
+<!-- bet asti bet uchuri-->
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<div align="center">
+
+<table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+<tr>
+<td dpid="td1" align="center" width="950" height=18px >
+<table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+<tr >
+<td align="center" width="135" >
+<a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+<td align="center" width="135">
+<a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+<td align="center" width="135">
+<a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ 
+</a> </td>
+<td align="center" width="135">
+<a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+<td align="center" width="135">
+<a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+<td align="center" width="135">
+<a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+<td align="center" width="135">
+<a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td dpid="td2" align="center" width="950"><font color="#008000">بىلقۇت ئۇنىۋېرسال تور بېكىتى</font></td>
+</tr>
+
+<tr>
+<td dpid="td3" align="center" width="950"><font color="#008000">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+تېلېفون : 09912552897</font></td>
+</tr>
+<tr>
+<td dpid="td4" align="center" width="950"><font color="#008000">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</font></td>
+</tr>
+
+<tr>
+<td dpid="td5" align="center" width="950"><font color="#008000">© 2007-2008  Bilqut Uyghur Website
+</font>   
+<a target="_blank" href="https://www.miibeian.gov.cn">
+<font color="#008000">新ICP备07002316</font></a><font color="#008000">
+</font> </td>
+</tr>
+<td dpid="td6" align="center" width="950">
+</td>
+</tr>
+</table>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body>
+</html><br />
+<b>Warning</b>:  Unknown: open(D:/ԭ���ļ�/Bilqut_web/data/sessions/\sess_t7pj3jmpa4n67nsovkdme5slg2, O_RDWR) failed: Permission denied (13) in <b>Unknown</b> on line <b>0</b><br />
+<br />
+<b>Warning</b>:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (D:/ԭ���ļ�/Bilqut_web/data/sessions/) in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: open(D:/ԭ���ļ�/Bilqut_web/data/sessions/\sess_t7pj3jmpa4n67nsovkdme5slg2, O_RDWR) failed: Permission denied (13) in D:\ԭ���ļ�\Bilqut_web\include\common.inc.php on line 17
+PHP Warning:  Unknown: open(D:/ԭ���ļ�/Bilqut_web/data/sessions/\sess_t7pj3jmpa4n67nsovkdme5slg2, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (D:/ԭ���ļ�/Bilqut_web/data/sessions/) in Unknown on line 0

@@ -1,0 +1,3 @@
+try {setidval('hits','11');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>كېيىنكىسى : <a href="/KutupXana/article_201.php"> قارا مېكىيان ۋە ئاق مېكىيان</a></li><li>ئالدىنقىسى : <a href="/KutupXana/article_203.php"> قازان بىلەن بېلىق</a></li>');}catch(e){}

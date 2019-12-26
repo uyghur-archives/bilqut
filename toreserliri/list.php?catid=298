@@ -1,0 +1,103 @@
+﻿
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>تەرمىلەر-تورداشلار ئەسەرلىرى --Bilqut Uyghur web</title>
+<meta name="keywords" content=",">
+<meta name="description" content="-">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<SCRIPT language=javascript src="/Raziman_img/tor_img/js/adurl.js"></SCRIPT>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="35px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #3ea2ec; " background="/Raziman_img/tor_img/bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" width="950" height="120"><a href="myitem.php?action=add"><img border="0" src="/Raziman_img/tor_img/top.gif" width="950" height="120"></a></td>
+</tr>
+<tr>
+<td align="center" width="950" height="60"><a href="myitem.php?action=add"><img border="0" src="/Raziman_img/tor_img/elan.gif" width="950" height="60"></a></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="tordash_submenu">
+<a href="/toreserliri/" class="red"> تورداشلار ئەسەرلىرى </a>
+         | <a class="razimantur" href="/toreserliri/list.php?catid=296" >ئەدەبىي ئەسەرلەر</a>
+
+ | <a class="razimantur" href="/toreserliri/list.php?catid=297" >دۇنيادىكى ئىشلار</a>
+
+ | <a class="razimantur" href="/toreserliri/list.php?catid=298" >تەرمىلەر</a>
+
+ | <a class="razimantur" href="/toreserliri/list.php?catid=299" >كۆڭۈل سوۋغىسى</a>
+
+ | <a class="razimantur" href="/toreserliri/list.php?catid=300" >تەنتەربىيە</a>
+
+ | <a class="razimantur" href="/toreserliri/list.php?catid=301" >تارىخ</a>
+
+ | <a class="razimantur" href="/toreserliri/list.php?catid=302" >ساغلاملىق</a>
+
+ | <a class="razimantur" href="/toreserliri/list.php?catid=303" >تۇرمۇش</a>
+
+ | <a class="razimantur" href="/toreserliri/list.php?catid=304" >مەدەنىيەت</a>
+
+ | <a class="razimantur" href="/toreserliri/list.php?catid=305" >مائارىپ</a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<!--主体标签-->
+<table width="950" cellpadding="0"  cellspacing="0">
+  <tr>
+    <td width="750" valign="top">
+<!--位置导航-->
+    <div class="tordash_position">ئورنىڭىز : <a href="/toreserliri/">تورداشلار ئەسەرلىرى </a> >> <a href="/toreserliri/list.php?catid=298">تەرمىلەر</a> >> </div>
+     <div class="cat_box_1">
+ <div class="tordash_title">
+     <div class="tordash_name">تەرمىلەر</div>
+ <div class="cat_url"><a href="" class="more"></a></div>
+     </div>
+<!--最新图片文章-->MySQL Query:SELECT articleid,catid,typeid,title,style,islink,introduce,author,hits,thumb,addtime,status,listorder,ishtml,urlruleid,linkurl  FROM phpcms_article_43 WHERE status=3 AND thumb!=''  AND catid=298  ORDER BY listorder DESC, articleid DESC  LIMIT 0, 5   <br> MySQL Error:Table '.\xadlik\phpcms_article_43' is marked as crashed and should be repaired <br> MySQL Errno:145 <br> Message:MySQL Query Error

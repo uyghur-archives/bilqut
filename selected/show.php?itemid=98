@@ -1,0 +1,354 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>لوپنۇر ناھىيىسى-مەدەنىيىتىمىز-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,مەدەنىيىتىمىز">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/madiniytimiz/" class="red"> مەدەنىيىتىمىز</a>
+         | <a class="razimantur" href="/madiniytimiz/list.php?catid=71" >شەھەرلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=72" >ناھىيىلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=73" >ئوبلاستلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=74" >ۋىلايەتلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=75" >رېۋايەتلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=76" >تەمسىللىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=77" >ئۆلچەملىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=78" >چۆچەكلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=79" >سەنئەتكارىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=81" >تىل-يېزىقىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=82" >ئەپسانىلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=83" >مەسەللىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=84" >تائاملىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=85" >شەخسلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=86" >ئويۇنلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=88" > چالغۇلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=89" > ھۈنەرلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=90" > يوسۇنلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=91" > تارىخمىز  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/madiniytimiz/">مەدەنىيىتىمىز</a> >> <a href="/madiniytimiz/list.php?catid=72">ناھىيىلىرىمىز </a> >>  لوپنۇر ناھىيىسى</div>
+<!--主标题--><h1>لوپنۇر ناھىيىسى </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2008-07-14 13:11:47&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">170</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<img src="/raziman_img/bash/reng/reng_1.gif" id="img1" style="cursor:hand;"  onclick="conhat(1)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_2.gif" id="img2" style="cursor:hand;"  onclick="conhat(2)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_3.gif" id="img3" style="cursor:hand;"  onclick="conhat(3)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_4.gif" id="img4" style="cursor:hand;"  onclick="conhat(4)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_5.gif" id="img5" style="cursor:hand;"  onclick="conhat(5)">&nbsp;&nbsp;                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">
+ تەڭرىتاغنىڭ جەنۇبىي ئېتىكىگە، تارىم ئويمانلىقىنىڭ شەرقىي شىمال قىسىمىغا جايلاشقان. ئۇنىڭ شەرقىي تەرىپى چاقىلىق ناھىيىسى بىلەن، جەنۇبىي تەرىپى چەرچەن ناھىيىسى بىلەن، غەربىي تەرىپى شايار، كۇچا ناھىيىسى بىلەن، شىمالىي تەرىپى بۈگۈر، كورلا، باغراش، خوشۇت ناھىيىلىرى، تۇرپان شەھىرى، توخسۇن ناھىيىسى بىلەن تۇتىشىدۇ. شەرقتىن غەربكىچە بولغان ئۇزۇنلۇقى 502.8&nbsp; كىلومېتىر. جەنۇبتىن شىمالغىچە بولغان كەڭلىكى 165 كىلومېتىر. ئومۇمىي كۆلىمى&nbsp; 59 مىڭ&nbsp; 800&nbsp; كۋادرات كىلومېتىر. لوپنۇر ناھىيىسىگە 2&nbsp; بازار، 7 يېزا،&nbsp; 42 كەنت ئاھالە كومىتېتى قارايدۇ. ئۇنىڭ تەۋەسىدە ئىشلەپچىقىرىش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك&nbsp; 2&nbsp; - شىسىنىڭ 5&nbsp; تۇەن - مەيدانى بار. ناھىيە بازىرى بىلەن ئۈرۈمچى شەھىرىنىڭ ئارىلىقى 530&nbsp; كىلومېتىر. 1995 - يىلىنىڭ ئاخىرىدىكى ئومۇمىي نوپۇسى&nbsp; 89 مىڭ&nbsp; 800، بۇنىڭ ئىچىدە ئۇيغۇرلار&nbsp; 28.95% نى، خەنزۇلار&nbsp; 70.28% نى، باشقا مىللەتلەر&nbsp; 0.77% نى تەشكىل قىلىدۇ.
+&nbsp; لوپنۇر غەربىي خەن سۇلالىسى دەۋرىدە ۋايىر، كرورەن قاتارلىق دۆلەتلەرگە تەۋە بولغان. شەرقىي خەن سۇلالىسى دەۋرىدە كىنگىت دۆلىتىگە تەۋە بولغان. تاڭ سۇلالىسى دەۋرىدە كىگىت&nbsp; تۇتۇق مەھكىمىسىنىڭ باشقۇرۇشىدا بولغان. مىڭ سۇلالىسى دەۋرىدە &lt;لوپنۇر&gt; دەپ ئاتالغان. چىڭ سۇلالىسىنىڭ گۇاڭشۈ&nbsp; 24 - يىلى (1898 - يىلى) شىنپىڭ ناھىيىسى تەسىس قىلىنىپ قاراشەھەر مەھكىمىسىگە قارىغان. مىنگونىڭ&nbsp; 3 - يىلى&nbsp; (1914 - يىلى) شىنپىڭ ناھىيىسى لوپنۇر ناھىيىسىگە ئۆزگەرتىلىپ، قاراشەھەر ۋالىي مەھكىمىسىگە قارىغان. جۇڭخۇا خەلق جۇمھۇرىيىتى قۇرۇلغاندىن كېيىن ئىلگىرى كېيىن بولۇپ قاراشەھەر ۋالىي مەھكىمىسى، كورلا ۋالىي مەھكىمىسىگە قارىغان.&nbsp; 1960 - يىلى بايىغولىن موڭغۇل ئاپتونون ئوبلاستىغا قارايدىغان بولغان.
+&nbsp; يېرى بىرقەدەر تۇز. بۇنىڭ ئىچىدە تاغلىق يەر&nbsp; 22.7% نى، تۈزلەڭلىك&nbsp; 24.9% نى، قۇملۇق&nbsp; 52.4% نى تەشكىل قىلىدۇ. چوڭ - كىچىك كۆلدىن&nbsp; 37 سى ۋە ۋە تارىم دەرياسى، كۆنچى دەرياسىدىن ئىبارەت ئىككى چوڭ سۇ سىستېمىسى بار بولۇپ، يىللىق سۇ مىقدارى&nbsp; 2 مىليارد&nbsp; 840&nbsp; مىليون كۇب مېتىرغا يېتىدۇ. تۈزلەڭلىك رايونلىرىدىكى يەر ئاستى سۈيىدىن پايدىلىنىش مىقدارى 98 مىليون كۇب مېتىرغا يېتىدۇ. ياۋايى ھايۋاناتلاردىن قوش لوكىلىق تۆگە، سۈر بۇغا، ئىپار چاشقىنى، ئاق بۇغۇز بۆكەن، ئېيىق قاتارلىقلار بار. ياۋايى ئۆسۈملۈكلەردىن لۇپنۇر كەندىرى، چۈچۈكبۇيا بايلىقى ئەڭ مول. قېزىلما بايلىقلىرىدىن فوسفور، زۈلۈك تېشى، ھاك تېشى، گرانىت، تۆمۈر قاتارلىقلار بايقالدى. بۇنىڭ ئىچىدە زۈلۈك تېشى زاپىسى مەملىكەت بويىچە ئومۇمىي زۈلۈك تېشى زاپىسىنىڭ&nbsp; 92.98% نى تەشكىل قىلىدۇ.
+&nbsp; لوپنۇر ناھىيىسىنىڭ ئىقلىمى چوڭ قۇرۇقلۇق خاراكتېرىدىكى مۆتىدىل بەلۋاغ قۇرغاق ئىقلىمىغا كىرىدۇ. يىللىق ئوتتۇرىچە تېمپېراتۇرىسى&nbsp; 10.6℃، ئەڭ يۇقىرى بولغاندا&nbsp; 42.2℃ قا چىقىدۇ، ئەڭ تۆۋەن بولغاندا&nbsp; - 30.9℃ قا چۈشىدۇ. يىلدا ئوتتۇرا ھېساب بىلەن&nbsp; 103.2 كۈن&nbsp; 30℃ دىن يۇقىرى ئىسسىق بولىدۇ. يىللىق ئوتتۇرىچە قۇياشنىڭ چۈشۈش ۋاقتى 2970.3 سائەت.&nbsp; 10℃ يىغىلىما تېمپېراتۇرىسى 4183.9℃، قىروسىز مەزگىلى214 كۈن. يىللىق ئوتتۇرىچە ھۆل - يېغىن مىقدارى&nbsp; 40.8 مىللىمېتىر. سۇنىڭ يىللىق ئوتتۇرىچە پارغا ئايلىنىش مىقدارى&nbsp; 2910.5 مىللىمېتىر.
+&nbsp; بۇ ناھىيە يېزا ئىگىلىكىنى ئاساس قىلىدۇ. ھازىر&nbsp; 15 مىڭ&nbsp; 600&nbsp; گېكتار (233 مىڭ مو) تېرىلغۇ يەر،&nbsp; 235 مىڭ ( 3 مىليون&nbsp; 525 مىڭ مو) دېھقانچىلىق قىلىشقا بولىدىغان قاقاس يەر،&nbsp; 71&nbsp; مىڭ 100 گېكتار ( 1 مىليون&nbsp; 67 مىڭ مو) ئوتلاق بار. دېھقانچىلىق مەھسۇلاتلىرىدىن شال، بۇغداي، كۆممىقوناق، كېۋەز، كۆكتات، قوغۇن - تاۋۇز، يەل - يېمىش قاتارلىقلار بار. چارۋىلاردىن كالا، قوي، چوشقا بار. سانائەت جەھەتتە ئاشلىق، ماي پىششىقلاپ ئىشلەش، گۈل چېكىش، چۈچۈكبۇيا پىششىقلاپ ئىشلەش كەسىپلىرى بار.
+&nbsp; لوپنۇر ناھىيىسىنىڭ ئاساس مۇئەسسەسەلىرى ئۈزلۈكسىز مۇكەممەللەشمەكتە.&nbsp; 218 - دۆلەت تاشيولى ناھىيە تەۋەسىدىن ئۆتىدۇ. ناھىيە، يېزا تاشيوللىرى تەرەپ - تەرەپكە تۇتۇشۇپ كەتكەن. 2000 پروگراممىلىق تېلېفون ۋە 028 يول سانلىق مىكرو خەۋەرلىشىش ئۈسكۈنىسى ئورنىتىلىپ مەملىكەتنىڭ خەۋەرلىشىش تورى بىلەن تۇتاشتۇرۇلدى.
+&nbsp; مەدەنىي يادىكارلىقلىردىن گۇم جىلغىسى قەبرىستانلىقى، يارقورول تۇز، قۇرۇق تاغ قىياتاش رەسىملىرى، قارا چۆگۈن قەدىمكى شەھىرى، شاردۆڭ قەدىمكى شەھىرى. پىچان شەھىرى، سەكسەنكۆۋرۈك قاتارلىقلار بار.
+</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=98" title="لوپنۇر ناھىيىسى"  target="_blank" class="tag_title_link">لوپنۇر ناھىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=97" title="يوپۇرغا ناھىيىسى"  target="_blank" class="tag_title_link">يوپۇرغا ناھىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=96" title="كۇچا ناھىيىسى"  target="_blank" class="tag_title_link">كۇچا ناھىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=95" title="نىيە ناھىيىسى"  target="_blank" class="tag_title_link">نىيە ناھىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=94" title="شاھدىيار ناھىيىسى"  target="_blank" class="tag_title_link">شاھدىيار ناھىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=93" title="باي ناھىيىسى"  target="_blank" class="tag_title_link">باي ناھىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=92" title="كېرىيە ناھىيىسى"  target="_blank" class="tag_title_link">كېرىيە ناھىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=91" title="لوپ ناھىيىسى"  target="_blank" class="tag_title_link">لوپ ناھىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=90" title="گۇما ناھىيىسى"  target="_blank" class="tag_title_link">گۇما ناھىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=89" title="خوتەن ناھىيىسى"  target="_blank" class="tag_title_link">خوتەن ناھىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=88" title="مارالبېشى ناھىيىسى"  target="_blank" class="tag_title_link">مارالبېشى ناھىيىسى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=87" title="پەيزىۋات ناھىيىسى"  target="_blank" class="tag_title_link">پەيزىۋات ناھىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=86" title="قاغىلىق ناھىيىسى"  target="_blank" class="tag_title_link">قاغىلىق ناھىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=85" title="يەكەن ناھىيىسى"  target="_blank" class="tag_title_link">يەكەن ناھىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=84" title="پوسكام ناھىيىسى"  target="_blank" class="tag_title_link">پوسكام ناھىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=83" title="يېڭىسار ناھىيىسى"  target="_blank" class="tag_title_link">يېڭىسار ناھىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=82" title="ئۇلۇغچات ناھىيىسى"  target="_blank" class="tag_title_link">ئۇلۇغچات ناھىيىسى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=81" title="كەلپىن ناھىيىسى"  target="_blank" class="tag_title_link">كەلپىن ناھىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=80" title="ئۇچتۇرپان ناھىيىسى"  target="_blank" class="tag_title_link">ئۇچتۇرپان ناھىيىسى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=79" title="ئونسۇ ناھىيىسى"  target="_blank" class="tag_title_link">ئونسۇ ناھىيىسى</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/madiniytimiz/search.php?catid=72&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=98" title="لوپنۇر ناھىيىسى"  target="_blank" class="tag_title_link">لوپنۇر ناھىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=97" title="يوپۇرغا ناھىيىسى"  target="_blank" class="tag_title_link">يوپۇرغا ناھىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=96" title="كۇچا ناھىيىسى"  target="_blank" class="tag_title_link">كۇچا ناھىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=95" title="نىيە ناھىيىسى"  target="_blank" class="tag_title_link">نىيە ناھىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=94" title="شاھدىيار ناھىيىسى"  target="_blank" class="tag_title_link">شاھدىيار ناھىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=93" title="باي ناھىيىسى"  target="_blank" class="tag_title_link">باي ناھىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=92" title="كېرىيە ناھىيىسى"  target="_blank" class="tag_title_link">كېرىيە ناھىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=91" title="لوپ ناھىيىسى"  target="_blank" class="tag_title_link">لوپ ناھىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=90" title="گۇما ناھىيىسى"  target="_blank" class="tag_title_link">گۇما ناھىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=89" title="خوتەن ناھىيىسى"  target="_blank" class="tag_title_link">خوتەن ناھىيىسى</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/madiniytimiz/show_js.php?itemid=98"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

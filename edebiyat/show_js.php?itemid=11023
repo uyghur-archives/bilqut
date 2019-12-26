@@ -1,0 +1,3 @@
+﻿try {setidval('hits','468');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/edebiyat/2007/1011/11022.htm"> (ﭘﺎﺳﯫﻥ) ﻗﺎﻧﺪﺍﻕ ﻗﯘﺵ ﯰ</a></li><li>  كىيىنكىسى  :  <a href="/edebiyat/2007/1012/11024.htm">ﻣﯘﯞﻩﺷﺸﻪﻫ</a></li>');}catch(e){}

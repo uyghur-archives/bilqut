@@ -1,0 +1,3 @@
+﻿try {setidval('hits','817');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/xewer/show.php?itemid=422">توقسۇدا ئوقۇغۇچىلارنىڭ ئوقۇشتىن توختاپ قېلىشى تىزگىنلەندى</a></li><li>  كىيىنكىسى  :  <a href="/xewer/show.php?itemid=424">‹‹ياشىلى›› گۇرۇھى خوتەن ۋىلايىتىگە 500مىڭ يۈەن قىممىتىدىكى سۈت مەھسۇلاتىنى تەقدىم قىلىدى</a></li>');}catch(e){}

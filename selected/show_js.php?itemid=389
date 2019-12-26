@@ -1,0 +1,3 @@
+﻿try {setidval('hits','664');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/qanun/show.php?itemid=386">مەمۇرىي ئىجازەت قانۇنى</a></li><li>  كىيىنكىسى  :  <a href="/qanun/show.php?itemid=388">ئۈن - سىن بۇيۇمى باشقۇرۇش نىزامى</a></li>');}catch(e){}

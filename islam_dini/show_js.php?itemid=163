@@ -1,0 +1,3 @@
+﻿try {setidval('hits','5196');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/islam_dini/show.php?itemid=157">تاماكا چېكىش نېمىشقا چەكلىنىدۇ؟</a></li><li>  كىيىنكىسى  :  <a href="/islam_dini/show.php?itemid=165">تۆت مەزھەبنىڭ قايسىسى ئەڭ ساغلام يول؟</a></li>');}catch(e){}

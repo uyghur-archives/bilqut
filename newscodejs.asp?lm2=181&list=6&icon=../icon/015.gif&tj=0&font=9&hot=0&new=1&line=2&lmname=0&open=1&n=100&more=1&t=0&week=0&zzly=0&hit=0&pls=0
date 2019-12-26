@@ -1,0 +1,57 @@
+<!-- Tor bat exligu chi Ablimitjan Maham  QQ :250092392    Tel: 6722530    E-Mail :Raziman@126.com ,ablmtjan@126.com -->
+document.write("<head></head>");
+
+
+document.write("<table border=0 cellpadding=2 cellspacing=0 width=100%>");
+
+document.write("<tr><td align=justify><font style='font-size:9pt'><img src=../icon/015.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1086 target=_blank><font color='' style='font-size:9pt'>سانجى شەھىرى</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:9pt'><img src=../icon/015.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1085 target=_blank><font color='' style='font-size:9pt'>يېڭى تاش قوراللار(نېئولىت)دەۋرى</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:9pt'><img src=../icon/015.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1084 target=_blank><font color='' style='font-size:9pt'>كروران ئېلىنىڭ تارىخى ۋە جۇغراپىيىسىگە   ئائىت مەسىلىل...</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:9pt'><img src=../icon/015.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1083 target=_blank><font color='' style='font-size:9pt'>سانجى خۇيزۇ ئاپتونوم ئوبلاستى</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:9pt'><img src=../icon/015.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1082 target=_blank><font color='' style='font-size:9pt'>ئىپتىدائىي جەمئىيەت دەۋرى </a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:9pt'><img src=../icon/015.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1081 target=_blank><font color='' style='font-size:9pt'>چاقىلىقتىكى شەھەر - بازارلارنىڭ ۋەيران بولۇشى</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=right colspan=2></td></tr>");
+
+document.write("</table>");

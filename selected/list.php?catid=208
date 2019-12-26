@@ -1,0 +1,338 @@
+﻿
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ئېغىز كېسەللىكى-تېبابىتىمىز --Bilqut Uyghur web</title>
+<meta name="keywords" content=",">
+<meta name="description" content="-">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/tibabet/" class="red"> تېبابىتىمىز </a>
+         | <a class="razimantur" href="/tibabet/list.php?catid=195" >باش كېسەللىكى</a>
+
+ | <a class="razimantur" href="/tibabet/list.php?catid=196" >ئۆپكە كېسەللىكى</a>
+
+ | <a class="razimantur" href="/tibabet/list.php?catid=197" >يۈرەك كېسەللىكى</a>
+
+ | <a class="razimantur" href="/tibabet/list.php?catid=198" >سۆڭەك كېسەللىكى</a>
+
+ | <a class="razimantur" href="/tibabet/list.php?catid=199" >جىگەر كېسەللىكى</a>
+
+ | <a class="razimantur" href="/tibabet/list.php?catid=200" >ئاشقازان كېسەللىكى</a>
+
+ | <a class="razimantur" href="/tibabet/list.php?catid=201" >بۆرەك كېسەللىكى</a>
+
+ | <a class="razimantur" href="/tibabet/list.php?catid=202" >ئەرلەر كېسەللىكى</a>
+
+ | <a class="razimantur" href="/tibabet/list.php?catid=203" >ئاياللار كېسەللىكى</a>
+
+ | <a class="razimantur" href="/tibabet/list.php?catid=204" >بالىلار كېسەللىكى</a>
+
+ | <a class="razimantur" href="/tibabet/list.php?catid=205" >كۆز كېسەللىكى</a>
+
+ | <a class="razimantur" href="/tibabet/list.php?catid=206" >قۇلاق كېسەللىكى</a>
+
+ | <a class="razimantur" href="/tibabet/list.php?catid=207" >بۇرۇن كېسەللىكى</a>
+
+ | <a class="razimantur" href="/tibabet/list.php?catid=208" >ئېغىز كېسەللىكى</a>
+
+ | <a class="razimantur" href="/tibabet/list.php?catid=209" >تېرە كېسەللىكى</a>
+
+ | <a class="razimantur" href="/tibabet/list.php?catid=210" >باشقا كېسەللىكلەر</a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<!--主体标签-->
+<table width="950" cellpadding="0"  cellspacing="0">
+  <tr>
+    <td width="750" valign="top">
+<!--位置导航-->
+    <div class="position">ئورنىڭىز : <a href="/tibabet/">تېبابىتىمىز </a> >> <a href="/tibabet/list.php?catid=208">ئېغىز كېسەللىكى</a> >> </div>
+     <div class="cat_box_1">
+ <div class="cat_title">
+     <div class="cat_name">ئېغىز كېسەللىكى</div>
+ <div class="cat_url"><a href="" class="more"></a></div>
+     </div>
+<!--最新图片文章--><table width="100%"  cellpadding="2" cellspacing="0">
+
+
+</table>
+
+<table cellpadding="0" cellspacing="0" class="tag_box_1">
+
+<tr>      <td height="24">
+◇  <a href="/tibabet/2009/0215/537.php" title="قىزىلئۆڭگەچ ۋە يۇتقۇنچاق قىچىشىش كېسىلىنى داۋالاش" 0 class="tag_title_link">قىزىلئۆڭگەچ ۋە يۇتقۇنچاق قىچىشىش كېسىلىنى داۋالاش</a>   
+    
+ <td><span>2009-02-15</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/tibabet/2009/0203/535.php" title="قىزىلئۆڭگەچتىكى يات نەرسىلەر" 0 class="tag_title_link">قىزىلئۆڭگەچتىكى يات نەرسىلەر</a>   
+    
+ <td><span>2009-02-03</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/tibabet/2009/0201/534.php" title="گال ئاغرىقىنى داۋالاش" 0 class="tag_title_link">گال ئاغرىقىنى داۋالاش</a>   
+    
+ <td><span>2009-02-01</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/tibabet/2009/0131/533.php" title="بوغما كېسەللىگىنى داۋالاش" 0 class="tag_title_link">بوغما كېسەللىگىنى داۋالاش</a>   
+    
+ <td><span>2009-01-31</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/tibabet/2009/0130/532.php" title="چىش مىلىكلىرى قاناش" 0 class="tag_title_link">چىش مىلىكلىرى قاناش</a>   
+    
+ <td><span>2009-01-30</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/tibabet/2009/0129/531.php" title="چىش مىدىرلاپ قېلىش" 0 class="tag_title_link">چىش مىدىرلاپ قېلىش</a>   
+    
+ <td><span>2009-01-29</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/tibabet/2009/0127/530.php" title="چىش رەڭگىنىڭ ئۆزگىرىشى" 0 class="tag_title_link">چىش رەڭگىنىڭ ئۆزگىرىشى</a>   
+    
+ <td><span>2009-01-27</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/tibabet/2009/0126/529.php" title="قۇرت يېگەن چىش" 0 class="tag_title_link">قۇرت يېگەن چىش</a>   
+    
+ <td><span>2009-01-26</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/tibabet/2009/0124/528.php" title="چىش قاماپ قېلىش" 0 class="tag_title_link">چىش قاماپ قېلىش</a>   
+    
+ <td><span>2009-01-24</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/tibabet/2009/0123/527.php" title="چىش ئاغرىقى كېسەللىگىنى داۋالاش" 0 class="tag_title_link">چىش ئاغرىقى كېسەللىگىنى داۋالاش</a>   
+    
+ <td><span>2009-01-23</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/tibabet/2009/0120/526.php" title="كالپۇكنىڭ ئاقىرىپ قېلىشى" 0 class="tag_title_link">كالپۇكنىڭ ئاقىرىپ قېلىشى</a>   
+    
+ <td><span>2009-01-20</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/tibabet/2009/0118/525.php" title="ئېغىز يەل يارىسى" 0 class="tag_title_link">ئېغىز يەل يارىسى</a>   
+    
+ <td><span>2009-01-18</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/tibabet/2009/0116/524.php" title="ئېغىز پىشلاق بولۇپ قېلىش" 0 class="tag_title_link">ئېغىز پىشلاق بولۇپ قېلىش</a>   
+    
+ <td><span>2009-01-16</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/tibabet/2009/0113/523.php" title="تىل يارىسى" 0 class="tag_title_link">تىل يارىسى</a>   
+    
+ <td><span>2009-01-13</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/tibabet/2009/0111/522.php" title="تىل قۇرغاقلىق" 0 class="tag_title_link">تىل قۇرغاقلىق</a>   
+    
+ <td><span>2009-01-11</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/tibabet/2009/0109/521.php" title="تىل يېرىلىپ كېتىش" 0 class="tag_title_link">تىل يېرىلىپ كېتىش</a>   
+    
+ <td><span>2009-01-09</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/tibabet/2009/0108/520.php" title="تىل ئاستى ئۆسمىسى" 0 class="tag_title_link">تىل ئاستى ئۆسمىسى</a>   
+    
+ <td><span>2009-01-08</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/tibabet/2009/0104/519.php" title="تىل چوڭىيىپ قېلىش" 0 class="tag_title_link">تىل چوڭىيىپ قېلىش</a>   
+    
+ <td><span>2009-01-04</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/tibabet/2008/1230/518.php" title="كېكەچلىك" 0 class="tag_title_link">كېكەچلىك</a>   
+    
+ <td><span>2008-12-30</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/tibabet/2008/1221/516.php" title="تەم تېتىشنىڭ بۇزۇلۇشى (كېسەللىك)" 0 class="tag_title_link">تەم تېتىشنىڭ بۇزۇلۇشى (كېسەللىك)</a>   
+    
+ <td><span>2008-12-21</span> </td>
+  </tr>
+
+</table>
+
+<div class="pages">جەمئى: <b>26</b>&nbsp;&nbsp;&nbsp;&nbsp;باش بەت
+&nbsp;ئالدىنقى بەت
+&nbsp;<a href='/tibabet/list.php?catid=208&page=2'>كىينكى بەت
+</a>&nbsp;<a href='/tibabet/list.php?catid=208&page=2'>ئاخىرقى بەت</a>&nbsp;بە ت: <b><font color=red>1</font>/2</b>&nbsp;&nbsp;<input type='text' name='page' id='page' class='page' size='3' onKeyDown='if(event.keyCode==13) {window.location="/tibabet/list.php?catid=208&page="+$("page").value+""; return false;}'> <input type='button' value='GO' class='gotopage' style='width:30px' onclick='window.location="/tibabet/list.php?catid=208&page="+$("page").value+""'>
+</div>
+     </div>	
+<!--搜索框--></td>
+    <td width="10"></td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>تەۋسىيە ئەسەر </h1><h2><a href="/tibabet/search.php?catid=208&elite=1&search=1" class="more">يەنە بار </a></h2></div>
+<!--推荐文章js调用-->
+<table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/tibabet/2009/0215/537.php" title="قىزىلئۆڭگەچ ۋە يۇتقۇنچاق قىچىشىش كېسىلىنى داۋالاش"  target="_blank" class="tag_title_link">قىزىلئۆڭگەچ ۋە يۇتقۇنچا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/tibabet/2009/0203/535.php" title="قىزىلئۆڭگەچتىكى يات نەرسىلەر"  target="_blank" class="tag_title_link">قىزىلئۆڭگەچتىكى يات نەر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/tibabet/2009/0201/534.php" title="گال ئاغرىقىنى داۋالاش"  target="_blank" class="tag_title_link">گال ئاغرىقىنى داۋالاش</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/tibabet/2009/0131/533.php" title="بوغما كېسەللىگىنى داۋالاش"  target="_blank" class="tag_title_link">بوغما كېسەللىگىنى داۋال...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/tibabet/2009/0130/532.php" title="چىش مىلىكلىرى قاناش"  target="_blank" class="tag_title_link">چىش مىلىكلىرى قاناش</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/tibabet/2009/0129/531.php" title="چىش مىدىرلاپ قېلىش"  target="_blank" class="tag_title_link">چىش مىدىرلاپ قېلىش</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/tibabet/2009/0127/530.php" title="چىش رەڭگىنىڭ ئۆزگىرىشى"  target="_blank" class="tag_title_link">چىش رەڭگىنىڭ ئۆزگىرىشى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/tibabet/2009/0126/529.php" title="قۇرت يېگەن چىش"  target="_blank" class="tag_title_link">قۇرت يېگەن چىش</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/tibabet/2009/0124/528.php" title="چىش قاماپ قېلىش"  target="_blank" class="tag_title_link">چىش قاماپ قېلىش</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/tibabet/2009/0123/527.php" title="چىش ئاغرىقى كېسەللىگىنى داۋالاش"  target="_blank" class="tag_title_link">چىش ئاغرىقى كېسەللىگىنى...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>ئاۋات ئەسەر </h1><h2><a href="/tibabet/search.php?catid=208&ordertype=3&search=1" class="more">يەنە بار </a></h2></div>
+<table cellpadding="0" cellspacing="0" class="tag_box">
+
+
+</table>
+</td>
+  </tr>
+</table>
+
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

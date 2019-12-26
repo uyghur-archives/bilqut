@@ -1,0 +1,338 @@
+﻿
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title> ئېلېكترون  -ئۆگىنىش--Bilqut Uyghur web</title>
+<meta name="keywords" content=",">
+<meta name="description" content="-">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/Ugnish/" class="red"> ئۆگىنىش</a>
+         | <a class="razimantur" href="/Ugnish/list.php?catid=98" > ماتېماتىكا  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=99" >يىزا-ئىگىلىك </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=100" >پسىخولوگىيە </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=101" >ئىقتىساد </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=102" >مۇھىت </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=103" >ئەدەبىيات </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=104" >جۇغراپىيە </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=105" >فىزىكا </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=106" > خىمىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=107" >ئاسترونومىيە </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=108" > بىئولوگىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=109" > دېپلوماتىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=110" > ئېلېكترون  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=111" > تەنتەربىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=112" >مەتبەئەچىلىك </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=113" > گۈزەل- سەنئەت  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<!--主体标签-->
+<table width="950" cellpadding="0"  cellspacing="0">
+  <tr>
+    <td width="750" valign="top">
+<!--位置导航-->
+    <div class="position">ئورنىڭىز : <a href="/Ugnish/">ئۆگىنىش</a> >> <a href="/Ugnish/list.php?catid=110"> ئېلېكترون  </a> >> </div>
+     <div class="cat_box_1">
+ <div class="cat_title">
+     <div class="cat_name"> ئېلېكترون  </div>
+ <div class="cat_url"><a href="" class="more"></a></div>
+     </div>
+<!--最新图片文章--><table width="100%"  cellpadding="2" cellspacing="0">
+
+
+</table>
+
+<table cellpadding="0" cellspacing="0" class="tag_box_1">
+
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1366" title="ئېلېكترون كۆز" 0 class="tag_title_link">ئېلېكترون كۆز</a>   
+    
+ <td><span>2009-03-20</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1365" title="لازېر نۇرلۇق بېسىش ماشىنىسى" 0 class="tag_title_link">لازېر نۇرلۇق بېسىش ماشىنىسى</a>   
+    
+ <td><span>2009-03-19</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1364" title="ئېلېكترونلۇق مېڭە" 0 class="tag_title_link">ئېلېكترونلۇق مېڭە</a>   
+    
+ <td><span>2009-03-18</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1363" title="ئېلېكترونلۇق ئېلان تاختىسى" 0 class="tag_title_link">ئېلېكترونلۇق ئېلان تاختىسى</a>   
+    
+ <td><span>2009-03-16</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1362" title="ئېلېكترونلۇق لۇغەت" 0 class="tag_title_link">ئېلېكترونلۇق لۇغەت</a>   
+    
+ <td><span>2009-03-15</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1361" title="ھاۋا رايىنى سوراش ئاپپاراتى" 0 class="tag_title_link">ھاۋا رايىنى سوراش ئاپپاراتى</a>   
+    
+ <td><span>2009-03-14</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1360" title="ئېلېكترونلۇق قول سائەت" 0 class="tag_title_link">ئېلېكترونلۇق قول سائەت</a>   
+    
+ <td><span>2009-03-10</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1359" title="ئېلېكترونلۇق فوتو ئاپپارات" 0 class="tag_title_link">ئېلېكترونلۇق فوتو ئاپپارات</a>   
+    
+ <td><span>2009-03-09</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1358" title="لازېر نۇرلۇق كۆرۈش دىسكىسى" 0 class="tag_title_link">لازېر نۇرلۇق كۆرۈش دىسكىسى</a>   
+    
+ <td><span>2009-03-08</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1357" title="سىنئالغۇ" 0 class="tag_title_link">سىنئالغۇ</a>   
+    
+ <td><span>2009-03-07</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1356" title="ئورتاق ئانتېننىلىق تېلېۋىزىيە ۋە سىملىق تېلېۋىزىيە" 0 class="tag_title_link">ئورتاق ئانتېننىلىق تېلېۋىزىيە ۋە سىملىق تېلېۋىزىيە</a>   
+    
+ <td><span>2009-03-04</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1355" title="كۆپ يوللۇق تېلېۋىزىيە ئاڭلىتىشى" 0 class="tag_title_link">كۆپ يوللۇق تېلېۋىزىيە ئاڭلىتىشى</a>   
+    
+ <td><span>2009-02-28</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1354" title="ستېرېئو رەڭلىك تېلېۋىزور" 0 class="tag_title_link">ستېرېئو رەڭلىك تېلېۋىزور</a>   
+    
+ <td><span>2009-02-25</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1353" title="sumsung شىركىتىنىڭ ئەڭ يېڭى&nbsp;&nbsp;LED تېلېۋوزۇرى" 0 class="tag_title_link">sumsung شىركىتىنىڭ ئەڭ يېڭى&nbsp;&nbsp;LED تېلېۋوزۇرى</a>   
+    
+ <td><span>2009-02-25</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1352" title="تەكشى تاختا شەكىللىك تېلېۋىزور" 0 class="tag_title_link">تەكشى تاختا شەكىللىك تېلېۋىزور</a>   
+    
+ <td><span>2009-02-24</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1351" title="بىئو كومپيۇتېر" 0 class="tag_title_link">بىئو كومپيۇتېر</a>   
+    
+ <td><span>2009-02-23</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1350" title="يۈز&nbsp;&nbsp;مىليون قېتىملىق كومپيۇتېر" 0 class="tag_title_link">يۈز&nbsp;&nbsp;مىليون قېتىملىق كومپيۇتېر</a>   
+    
+ <td><span>2009-02-21</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1349" title="كومپيۇتېر ترېنېر" 0 class="tag_title_link">كومپيۇتېر ترېنېر</a>   
+    
+ <td><span>2009-02-19</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1348" title="ئائىلىلەردىكى كومپيۇتېر ئوقۇتقۇچى" 0 class="tag_title_link">ئائىلىلەردىكى كومپيۇتېر ئوقۇتقۇچى</a>   
+    
+ <td><span>2009-02-01</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1347" title="كومپيۇتېر شاھمات ئۇستىسى" 0 class="tag_title_link">كومپيۇتېر شاھمات ئۇستىسى</a>   
+    
+ <td><span>2009-02-08</span> </td>
+  </tr>
+
+</table>
+
+<div class="pages">جەمئى: <b>97</b>&nbsp;&nbsp;&nbsp;&nbsp;باش بەت
+&nbsp;ئالدىنقى بەت
+&nbsp;<a href='/Ugnish/list.php?catid=110&page=2'>كىينكى بەت
+</a>&nbsp;<a href='/Ugnish/list.php?catid=110&page=5'>ئاخىرقى بەت</a>&nbsp;بە ت: <b><font color=red>1</font>/5</b>&nbsp;&nbsp;<input type='text' name='page' id='page' class='page' size='3' onKeyDown='if(event.keyCode==13) {window.location="/Ugnish/list.php?catid=110&page="+$("page").value+""; return false;}'> <input type='button' value='GO' class='gotopage' style='width:30px' onclick='window.location="/Ugnish/list.php?catid=110&page="+$("page").value+""'>
+</div>
+     </div>	
+<!--搜索框--></td>
+    <td width="10"></td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>تەۋسىيە ئەسەر </h1><h2><a href="/Ugnish/search.php?catid=110&elite=1&search=1" class="more">يەنە بار </a></h2></div>
+<!--推荐文章js调用-->
+<table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1366" title="ئېلېكترون كۆز"  target="_blank" class="tag_title_link">ئېلېكترون كۆز</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1365" title="لازېر نۇرلۇق بېسىش ماشىنىسى"  target="_blank" class="tag_title_link">لازېر نۇرلۇق بېسىش ماشى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1364" title="ئېلېكترونلۇق مېڭە"  target="_blank" class="tag_title_link">ئېلېكترونلۇق مېڭە</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1363" title="ئېلېكترونلۇق ئېلان تاختىسى"  target="_blank" class="tag_title_link">ئېلېكترونلۇق ئېلان تاخت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1362" title="ئېلېكترونلۇق لۇغەت"  target="_blank" class="tag_title_link">ئېلېكترونلۇق لۇغەت</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1361" title="ھاۋا رايىنى سوراش ئاپپاراتى"  target="_blank" class="tag_title_link">ھاۋا رايىنى سوراش ئاپپا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1360" title="ئېلېكترونلۇق قول سائەت"  target="_blank" class="tag_title_link">ئېلېكترونلۇق قول سائەت</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1359" title="ئېلېكترونلۇق فوتو ئاپپارات"  target="_blank" class="tag_title_link">ئېلېكترونلۇق فوتو ئاپپا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1358" title="لازېر نۇرلۇق كۆرۈش دىسكىسى"  target="_blank" class="tag_title_link">لازېر نۇرلۇق كۆرۈش دىسك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1357" title="سىنئالغۇ"  target="_blank" class="tag_title_link">سىنئالغۇ</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>ئاۋات ئەسەر </h1><h2><a href="/Ugnish/search.php?catid=110&ordertype=3&search=1" class="more">يەنە بار </a></h2></div>
+<table cellpadding="0" cellspacing="0" class="tag_box">
+
+
+</table>
+</td>
+  </tr>
+</table>
+
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

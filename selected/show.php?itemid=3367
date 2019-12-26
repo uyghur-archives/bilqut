@@ -1,0 +1,404 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>سېرۋانتس-كۇتۇپخانا-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,كۇتۇپخانا">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/kutupxana/" class="red"> كۇتۇپخانا</a>
+         | <a class="razimantur" href="/kutupxana/list.php?catid=43" >ھېكايىلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=44" > شېئىر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=45" > كەلىلە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=46" > نەسىرلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=47" > يۇمۇرلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=48" > ھىكمەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=49" > نەسىھەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=50" > ماقالىلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=51" > ياشلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=52" > تۇرمۇش </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=53" > نۇتۇقلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=54" >مەكتۇب  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=55" >غارايىبات</a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=56" > دۇنيادا ئەڭ  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=57" >قان تىپى </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=58" > مۆچەل  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=59" > مىللەتلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=60" > بۈگۈن  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=61" >مۇزېي </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=62" >تارىخ </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=63" >شەھەرلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=64" >دۆلەتلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=65" >كۇتۇبخانىلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=66" >مايلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=67" >مېۋە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=68" >كۆكتاتلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=69" >ئۆسۈملۈكلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=70" > ھايۋاناتلار  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/kutupxana/">كۇتۇپخانا</a> >> <a href="/kutupxana/list.php?catid=62">تارىخ </a> >>  سېرۋانتس</div>
+<!--主标题--><h1>سېرۋانتس </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2008-12-20 12:09:35&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">104</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">1605 - يىلىنىڭ باشلىرىدا، ئىسپانىيىنىڭ ئەدەبىيات مۇنبىرىدە «دون كىخوت» ناملىق بىر رومان مەيدانغا كەلدى. بۇ رومان دۇنياغا كېلىشى بىلەنلا جەمئىيەتتىكى خىلمۇ - خىل زاتلارنى ئۆزىگە جەلپ قىلدى. روماننىڭ 1 - نەشرى بىرنەچچە ھەپتىدىلا پۈتۈنلەي سېتىلىپ كەتتى، شۇ يىلدىلا تۆت قېتىم نەشر قىلىندى.
+«دون كىخوت» نىمىشقا كىشىلەرنى مۇنچىۋالا ئۆزىگە جەلپ قىلىدۇ؟ بۇنى بىلىش ئۈچۈن روماندىن بىر ئارىيە ئوقۇپ بېقىڭ:
+دون كىخوت جۈدەڭگۈ، خاپىغان بىر كىچىك ئاقسۆڭەك ئىدى. ئۇ چەۋەندازلار ھەققىدىكى رومانلارنى ئوقۇغاندىن كېيىن مەستانە بولۇپ كېتىپ، مۇرۇۋەتلىك چەۋەنداز بولۇش نىيىتىدە ناھەق ئىشلارنى كۆرگەندە كۆكرەك كېرىپ ئوتتۇرىغا چىقىش يولى ئۇسۇلى بىلەن جەمئىيەتنى ئۆزگەرتمەكچى بولدى. كېينكى كۈنلەردە، ئۇ دەرۋەقە بىر ئورۇق ئاتقا مىنىپ، ئۇچىسىغا كونا بىر ساۋۇتنى كىيىپ، قولىغا قالقان، ئۇزۇن نەيزە ئېلىپ، سانچو پانسا دېگەن بىر دېھقاننى ئۆزىگە خىزمەتكار قىلىپ، جاھان كېزىپ يۈرۈپ پالۋانلىق قىلىش ئۈچۈن، قاراملىق بىلەن يولغا چىقتى.
+ئۇلار يىراقتىن كەڭ دالىدا تۇرغان 30 - 40 شامال تۈگمىنىنى كۆرۈشتى. دون كىخوت ئۇلارنى كۆرۈشى بىلەنلا، خىزمەتكارىغا مۇنداق دېدى:
+_ تەقدىرنىڭ يازمىشى بىزنىڭ تەلىپىمىزدىنمۇ ياخشى بولۇشقا باشلىدى، ئىش ئوڭىغا تارتتى. دوستۇم سانچو پانسا، ئۇياققا قارا، ئۇيەردە ئاجايىپ چوڭ 40 نەچچە دىۋە تۇرىدۇ. مەن ئۇلار بىلەن تۇتۇشماقچىمەن، ئۇلارنى بىردىن - بىردىن قىرىپ تاشلايمەن، ئولجا ئالساق، بېيىپ كېتىمىز. بۇ،م ئادالەتلىك ئۇرۇش، يەر يۈزىدىكى بۇنداق يامان نەرسىلەرنى يوقىتىش خۇدانىڭ ئالدىدا چوڭ ساۋاپ.
+- نەدىكى دىۋىنى دەيسىز؟ - دېدى سانچو پانسا.
+- ئاۋۇ ئۇزۇن قوللارنى كۆرمەيۋاتامسەن؟ - دېدى خوجايىن، - بەزى دىۋىلەرنىڭ قولى ئىككى لىۋا (بىر لىۋا 6.4 كىلومېتىرغا تەڭ) چە كېلىدۇ، تېخى.
+- ئوبدان سىنچىلاپ قاراپ بېقىڭ. ئۇلار دىۋە ئەمەس، شامال تۈگمىنى؛ ئۈستىدە قولدەك تۇرغان نەرسە شامال تۈگمىنىنىڭ قانىتى، ئۇلارنى شامال قوزغىسا، تۈگمەن چۆرگىلەيدۇ، - دېدى سانچو پانسا.
+- چەۋەندازلارغا ئۇچرىشىدىغان خەتەرلىك ۋەقەلەر توغرىسىدا ھېچنېمىنى بىلمەيدىكەنسەن - دە، ئۇلار دەل شۇ دىۋىلەر، - دېدى دون كىخوت، - ئەگەر قورقساڭ نېرى تۇرۇپ دۇئايىڭنى ئوقۇۋەر. مەيدانغا مەن ئۆزەم يالغۇز چۈشۈپ، ئۇلار بىلەن جان تىكىپ ئېلىشاي.
+ئۇ مۇشۇ گەپلەرنى قىلدى - دە، ئېتىنى دىۋىتىپ، شۇ تەرەپكە ئېتىلدى. خىزمەتكار سانچو، ئۇلار دىۋە ئەمەس، شامال تۈگمىنى، دەپ ۋارقىرىدى. ئۇ ھېچ پەرۋا قىلمىدى. دىۋە دەپ تۇرۇۋالدى ۋە سانچو ۋارقىرىسىمۇ ئاڭلىمىدى، يېقىن بارغاندىمۇ نېمە ئىكەنلىكىگە سىنچىلاپ قارىمىدى، ھۇجۇمغا ئۆتتى. ئاغزىدا بولسا:
+«توخۇ يۈرەك پەسلەر! قاچماڭلار! سىلەر بىلەن نەيزىۋازلىق قىلىۋاتقان يالغۇز ئاتلىق چەۋەنداز!» - دەپ سۈرەن سالدى.
+دەل شۇ چاغدا يىنىك شامال چىقىپ، زور قاناتلارنى ئايلاندۇرۇشقا باشلىدى. دون كىخوت بۇنى كۆرۈپ:
+- قوللىرىڭلار برىئارېينىڭكىدىن (گرېك ئەپسانىلىرىدىكى ئىلاھ بىلەن ئۇرۇشقان دىۋە، ئۇنىڭ يۈز قولى بارمىش) كۆپ بولسىمۇ ئېلىشىمەن. قېنى، كىم يامان ئىكەن! - دېدى.
+ئۇ بۇ سۆزلەرنى قىلىپ، ئۆزىنىڭ دولسىنېيە خېنىمىغا ئىخلاس بىلەن سېغىنىپ، ئۇنىڭدىن مەدەت تىلىدى. كېيىن قالقىنىنى بەدىنىگە ئوبدان تاقىدى، نەيزىسىنى توغرىلىدى - دە، 1 - تۈگمەنگە ئۇچقاندەك ئېتىلدى. نەيزىسىنى شامال تۈگمىنىنىڭ قانىتىغا سانجىدى؛ شامالدا قاتتىق ئايلىنىۋاتقان قانات نەيزىنى پارچە - پارچە قىلىۋەتتى ۋە دون كىخوتنى ئات - پېتى بىلەن قوشۇۇپ ئىرغىتىپ تاشلىدى.&nbsp; سانچو پانسا خوجايىنىنى قۇتقۇزۇۋالماق بولۇپ ئىشىكىنى ھەيدەپ، يېقىن كېلىپ قارىسا، ئۇ مىدىرلىيالماي قاپتۇ، دوستانت ئۇنى يەرگە قاتتىق يىقىتقان ئىكەن.
+بۇ ھېكايە، دون كىخوتنىڭ چەۋەندازلارنىڭ پالۋانلىق قىلىش ئۇسۇلى بويىچە زالىملارنى يوقىتىپ، ئاجىزلارنىڭ ئىنتىقامىنى ئېلىپ بېرىپ، رىئاللىقنى ئۆزگەرتىش خىيالىدا بولغانلىقىنى؛ ئەمما ئەمىلىيەتتىن ئايرىلىپ، خام خىياللار تۈپەيلى ئەقلىدىن ئادىشىپ، ھەممە يەرنى جىن&nbsp; - ئالۋاستىلار قاپلاپ كەتكەن، دەپ قاراپ، ئۆزىنى چاغلىماي كۈرەش قىلىۋېرىپ، ئاخىرىدا كۈلكىگە قالغانلىقىنى چۈشەندۈرۈپ بېرىدۇ.
+روماندا دون كىخوتنىڭ بۇنداق ئەخمەقلىقلىرى تولىمۇ كۆپ. ئالايلۇق ئۇ ساراينى قورغان دەپ ھېسابلايدۇ. جالاپنى مەلىكە ھېسابلايدۇ، گۇناھكارنى ئاقسۆڭەك ھېسابلايدۇ، مىس داسنى دۇبۇلغا ھېسابلايدۇ، ھەتتا ئىككى توپ پادىنى چوپانلار قوشۇنى دەپ قاراپ، پۈتۈن نىيىتى بىلەن ئۇلار بىلەن قوراللىق ئېلىشىپ كېتىدۇ، نەتىجىدە، قەدەمدە بىر تۇمشۇقىغا يەپ، باش - كۆزى قان بولىدۇ. ئۇنىڭ ياخشى كۆڭلى باشقىلارغا زىيان يەتكۈزۈش بىلەنلا قالماستىن، ئۆزىنىمۇ تىل - تاياق ئازاپقا قويۇپ، ھەممىلا يەردە ئۇ ھۇشىنى تاپالماي، جېنىدىن ئايرىلغىلى تاس قالغاندا، باشقىلار تەرىپىدىن ئۆيگە ئېلىپ كېلىنىپ، ئۆلۈپ كېتىدۇ. ئۆلۈش ئالدىدا، ئۇ ئاقىۋەت ھۇشىنى تېپىپ، چەۋەندازلار ھەققىدىكى رومانلارنى تازا تىللايدۇ ھەمدە ۋەسىيەت قالدۇرۇپ، ئۆزىنىڭ بىردىن بىر ۋارىسى بولغان جىيەن قىزىنى چەۋەندازلار ھەققىدىكى رومانلارنى ئوقۇغان&nbsp; ئادەمگە ياتلىق قىلماسلىقنى، بولمىسا ئۇنىڭغا ئۆزىنىڭ مىراسلىرىنى بەرمەسلىكنى تاپىلايدۇ.
+ئەمەلىيەتتە، «دون كىخوت» دېگەن بۇ رومان، شۇ چاغدا كىشىلەر مەپتۇن بولۇۋاتقان چەۋەندازلار ئەدەبىياتىغا ئەمەس، بەلكى فېئودال ھۆكۈمرانلار جېنىنىڭ بېرىچە قوغداۋاتقان، زاۋاللىققا يۈز تۇتۇۋاتقان چەۋەندازلىق تۈزۈمىگە ھۇجۇم قىلغان. بۇ روماننىڭ ھەجۋىي كۈچى ناھايىتى زور بولغاچقا، ئۇ نەشر قىلىنغاندىن كېيىن، ئىسپانىيىدە چەۋەندازلار ھەققىدە ئىككىنچىلەپ يېڭى رومان چىقمىغان.
+تەسىرى غايەت زور بولغان بۇ روماننىڭ ئاپتورى - ياۋروپانىڭ ئەدەبىيات - سەنئەت گۈللىنىش دەۋرىدىكى مەشھۇر يازغۇچى م. د. سېرۋانتېس ئىدى.
+سېرۋانتېس 1547 - يىلى ئىسپانىيىنىڭ ئوتتۇرا قىسمىدىكى بىر ۋەيران بولغان ئاقسۆڭەك ئائىلىسىدە تۇغۇلدى. ئۇنىڭ ئاتىسى قەرز ئېلىپ قايتۇرالمىغاچقا، شىكايەت قىلىنىپ، كىشىلەرنىڭ رايىدىن قالغان تاشقى كېسەللىكلەر دوختۇرى ئىدى. ئائىلە ئىقتىسادى ھاللىق بولمىغاچقا، سېرۋانتېس پەقەت ئوتتۇرا مەكتەپكىچە ئوقۇدى. ئەمما ئڭ كىتاب ئوقۇشقا بەكمۇ ئامراق ئىدى.
+22 ياشقا كىرگەن يىلى، ياۋروپانىڭ ئەدەبىيات - سەنئەت گۈللىنىش مەنبەسى ئىتالىيىگە بېرىپ، قىزىل چاپانلىق بىر ئېپىسكوپقا ھەمرا بولدى. شۇنىڭ بىلەن، ئۇ ئىتالىيىنىڭ بىرمۇنچە ئاتاقلىق شەھەرلىرىنى كۆرۈش، نۇرغۇن ئەدىپلەر، ئالىملار بىلەن ئۇچرىشىش ھەمدە خوجايىننىڭ مول كىتابلىرىنى ئوقۇۋېلىش پۇرسىتىگە ئىگە بولدى.
+1571 - يىلى، تۈركىيە پاراخوت قوشۇنى ئوتتۇرا يەر دېڭىزىغا تاجاۋۇز قىلىپ كىرگەندە، ئىسپانىيە ۋېنېتسىيە جۇمھۇرىيىتى بىرلەشمە پاراخوت قوشۇنى ئۇيۇشتۇرۇپ تاقابىل تۇردى. ياش سېرۋانتېس ۋەتەنپەرۋەرلىك قىزغىنلىقى بىلەن، ئىسپانىيىنىڭ ئىتالىيىدە تۇرۇشلۇق قوشۇنىغا جەسۇرلۇق بىلەن قاتناشتى.
+شۇ يىلى 10 - ئاينىڭ 7 - كۈنى، مەشھۇر لېپانتۇ دېڭىز ئۇرۇشى بولدى. بۇ ئۇرۇشتا، سېرۋانتېس، ئىسپانىيىنىڭ بىر ئۇرۇش پاراخوتىدا ئەسكەر ئىدى. تەلەي تەتۈر كېلىپ، بۇ كۈنى ئۇنىڭ ئىسسىتمىسى ئۆرلەپ كەتتى. كاپىتان قاتارلىقلار ئۇنى پاراخوت ھۇجرىسىدا دەم ئېلىشقا ئۈندىدى. ئۇ زادىلا ئۇنىماي، پاراخوت ئۈستىگە چىقىپ، باتۇرلۇق بىلەن جەڭ قىلدى. بۇ قېتىمقى دېڭىز ئۇرۇشىدا، بىرلەزمە پاراخوت قوشۇنى ئومۇميۈزلۈك غەلىبە قازاندى. سېرۋانتېسنىڭ مەيدىسى، سول بىلىكى جاراھەتلەندى. نەتىجىدە، سول قولى كېسىۋېتىلىپ، بىر قولى يوق چولاققا ئايلاندى ۋە دوختۇرخانىدا بىر قىش يېتىپ قالدى. كېيىنچە، ئۇ يەنە باشقا بىر قوشۇنغا كىردى.
+1575 - يىلى 9 - ئاينىڭ ئاخىرىدا، كۆپ قېتىم ئۇرۇشتا خىزمەت كۆرسەتكەن سېرۋانتېس، پاراخوت قوشۇنى بىلەن قومانداننىڭ پادىشاھدىن سېرۋانتېسنى ھەربىي مەنسەپكە ئۆستۈرۈش توغرىسىدىكى تونۇشتۇرۇش خېتىنى كۆتىرىپ، ئۆزى تۇرۇۋاتقان قارارگاھتىن «قۇياش» ناملىق ھەربىي پاراخوتقا ئولتۇرۇپ ئىسپانىيىگە قايتتى. لەڭگەر تارتىپ ئەتىسى، تۈركىيىنىڭ ئۈچ دانە ئۇرۇش پاراخوتىنىڭ تۇيۇقسىز زەربىسىگە ئۇچرىدى. شىددەتلىك جەڭ قىلىش ئارقىلىق، ھەربىي پاراخوت ئەسىرگە چۈشتى. سېرۋانتېسنىمۇ تۈركلەر بۇلاپ كېتىپ، ئالجىرىيىگە ئېلىپ باردى. ئۇنىڭدا ھېلىقى تونۇشتۇرۇش خېتى بولغانلىقتىن، تۈركلەر ئۇنى ھەربىي ئەرباب ھېسابلاپ، ئۇنىڭغا كۆپلەپ تۆلەم تۆلەتمەكچى بولدى.
+سېرۋانتېس ئەسىرگە چۈشۈپ قالغاندىن كېيىن، باشقا ئەسىلەر بىلەن بىرلىكتە، ھايۋان كەبىي قۇللۇقتا ياشىدى. ئۇ، يات مىللەتنىڭ قۇل قىلىشىغا چىداپ تۇرالماي، ۋەتىنىگە قېچىپ كېتىش ئۈچۈن، تۈرمىداشلىرىنى بەش قېتىم ئۇيۇشتۇردى، ئەمما بەختكە قارشى ھەممىدە مەغلۇپ بولدى. بىر قېتىم ئۆزى بىلەن بىرلىكتە قېچىپ كەتمەكچى بولغان ئون نەچچە نەپەر كىشىنى بىر غارغا يوشۇرۇپ قويۇپ، يېرىم يىلغىچە مىڭبىر جاپادا ئۇلارغا يېمەكلىك يەتكۈزۈپ بەرگەن بولسىمۇ، ئەڭ ئاخىرىدا بىراۋلارنىڭ سىرنى پاش قىلىپ قويۇشى بىلەن، تۈركلەرگە تۇتۇلدى. ۋەقەدىن كېيىن، ئۇ كۆكرەك كېرىپ ئوتتۇرىغا چىقىپ، بارلىق جاۋابكارلىقنى ئۆز ئۈستىگە ئالدى.
+بەش يىللىق قاماق ھاياتىنى بېشىدىن كەچۈرگەندىن كېيىن، سېرۋانتېسنىڭ ئۇرۇق - تۇققان ۋە يار - بۇرادەرلىرى پۇل يىغىشتۇرۇپ، تۆلەم تۆلىدى ۋە ئۇنى ۋەتىنىگە قايتۇرۇپ كەتتى. ئەمما، بۇ ۋەتەنپەرۋەر باتۇر، پادىشاھنىڭ ئەتىۋارلىشىغا ئېرىشەلمىدى. پادىشاھ ئۇنى ۋاقىتلىق يۈگۈر - يىتىمگە سالدى، سېرۋانتېس تۇرمۇشتىن نامراتلىشىپ كەتكەچكە، ئەسەر يېزىپ جان باقتى.
+1587 - يىلى، سېرۋانتېس ئاخىرقى ھېسابتا بىر باجگىرلىق خىزمىتىگە ئېرىشتى. بىر قېتىم ئۇ ئاپەت بولۇۋاتقان بىر جايغا باج يىغقىلى باردى. ئۇ يەردىكى پۇقرالارنىڭ قورسىقىغا يېگىلى يوق تۇرسا، نەدىمۇ باجغا تۆلىگۈدەك پۇكى بولسۇن دەيسىلەر؟ لېكىن، ئۇ يەردىكى بىر چوڭ ئىبادەتخانا ۋاھىزىنىڭ سېڭىدا لىقمۇ - لىق بۇغداي بار ئىدى. سېرۋانتېس بۇنى بىلىۋالغاندىن كېيىن ئاشۇ بۇغدايلارنى يەرلىك پۇقرالار تۆلەشكە تېگىشلىك باج ھېسابىغا ئېلىشقا بۇيرۇق بەردى. بۇ ئىش دىنىي جەمئىيەتنىڭ جېنىغا تەگدى. دىنىي جەمئىيەت سېرۋانتېسنى شۇ زامان مۇرتەد قىلدى. ئۇ چاغدا، مۇرتەد قىلىش (دىندىن چىقىرىۋېتىش) دىنىي جەمئىيەتنىڭ ئەڭ قاتتىق جازالىرىدىن ئىدى؛ دىن تەۋەلىكى بولمىسا، ھۆكۈمەت ئىدارىلىرىدە خىزمەت قىلىش مۇمكىن ئەمەس ئىدى.
+شۇنىڭدىن كېيىن، سېرۋانتېس بېشىغا دەردى - بالا ۋە بەختسىزلىكلەر يېغىپ كەتتى. چوڭ ئەمەلدارلار ۋە دىنىي جەمئىيەتلەر كۈتۈلمىگەندە ئۇنىڭغا قارىلارنى چاپلىدى ۋە زىيانكەشلىكلەرنى قىلدى. بىرنەچچە قېتىملاپ تۈرمىلەرگە تاشلىدى. 1605 - يىلى، ئۆزىنى تۇتۇۋالالمايدىغان بىر ياش ئاقسۆڭەك، سېرۋانتېسنىڭ ئۆيىنىڭ يېنىدا ئۆلتۈرۈلگەندە، مەمۇرىي دائىرىلەر سېرۋانتېسنى ئائىلىسىدىكىلەر بىلەن بىرلىكتە گۇمانلىق جىنيەتچىلەر ھېسابلاپ سوتلىدى.
+مانا مۇشۇنداق زۇلمەتلىك، پاجىئەلىك ھايات شارائىتلىرىدا، سېرۋانتېس مول تۇرمۇش تەجرىبىلىرىنى توپلاپ، ئۆلمەس ئەسىرى «دون كىخوت» نىڭ 1 - تومىنى يېزىپ چىقىپ، شۇنىڭ بىلەنلا شۆھرەت قازاندى. بۇ چاغدا ئۇ 58 ياشقا كىرگەن ئىدى.
+«دون كىخوت» 1 - تومىنىڭ تىغ ئۇچى بىۋاسىتە چىرىگەن ئەكسىيەتچى فېئودال ئاقسۆڭەكلەر ۋە دىنىي جەمئىيەتلەرگە قارىتىلغان بولۇپ، سىياسىي، ئىقتىسادىي، مەدەنىيەت، ئەخلاق، ئۆرپ - ئادەت قاتارلىق تەرەپلەردىن ئىسپانىيە فېئودالىزم تۈزۈمىنىڭ ساختا چۈمبەردىسىنى يىرتىپ تاشلىغان، شۇ سەۋەبتىن فېئودالىزم كۈچلىرى سېرۋانتېسنى ئىنتايىن يامان كۆرگەن. فېئودال ئاقسۆڭەكلەرنىڭ مەنپەئىتىنى قوغدايدىغان ئەدىبلەرمۇ ئۇنىڭغا ئىنتايىن ھەسەتخورلۇق ۋە ئۆچمەنلىك قىلغان. شۇنىڭ بىلەن بىراقلا «دون كىخوت» نىڭ 2 - تومىنى ئويدۇرۇپ چىقىرىشتەك غەلىتىلىكلەرمۇ پەيدا بولغان.
+ئەسلىدە، سېرۋانتېس، «دون كىخوت» نىڭ 1 - تومىنى نەشر قىلدۇرغاندىن كېيىن، شۇ ھامان 2 - تومىنى يازمايلا، شېئىرىيەت، سەھنە ئەسىرى ۋە ھېكايە ئىجادىيەتلىرىگە بېرىلىپ كەتكەن، 2 - تومىنىڭ 59 - بابىنى يېزىۋاتقاندا، ۋاقىت 1614 - يىلىغا بېرىپ قالغان.
+مۇشۇ يىلى، بىراۋ ياسالما ئىسمى بىلەن «دون كىخوت» - نىڭ 2 - تومىنى نەشر قىلدۇرغان. ئويدۇرۇپ چىقىرىلغان بۇ 2 - توم، سېرۋانتېسنىڭ 1 - تومىنىڭ پۈتۈنلەي ئەكسىچە بولۇپ، دىنىي جەمئىيەت ۋە فېئودال ئاقسۆڭەكلەر مەيدانىدا تۇرۇپ، دونكىخوتنى سەۋدايى ساراڭ، سانچو پانسانى ئاچكۆز، ۋالاقتەككۈر ئەخمەق قىلىپ بۇرمىلاپ تەسۋىرلەپ، ئەسلى كىتابنىڭ مەزمۇنىنى بۇرمىلاپ، ئۇنى بىر مەنىسىز كۈلكىلىك ئويۇنغا ئايلاندۇرۇپ قويغان.
+سېرۋانتېس بۇنى ئۆزىگە نىسبەتەن چوڭ ھاقارەت بىلگەن. ئۇ گەرچە 67 ياشقا كىرىپ ياشىنىپ قالغان بولسىمۇ، ئەمما تولۇپ تاشقان غەزەپ بىلەن، 2 - تومىنى جان سەكرات ھالىتىدە تېزلىكتە يېزىپ پۈتتۈرۈپ، ئويدۇرمىچىغا قاتتىق قارشىلىق بىلدۈرگەن. بىر يىل ئىچىدىلا «دون كىخوت» نىڭ 2 - تومىمۇ نەشردىن چىققان.
+بىراق، كېيىنكىلەر ئويدۇرما نۇسخىنىڭ مەيدانغا چىقىشىغىمۇ رەھمەت ئېيتىشتى. ئەگەر ئۇنىڭ غىدىقلىشى بولمىغاندا، كىشىلەر «دون كىخوت» نىڭ مۇكەممەللەشكەن 2 - تومىنى كۆرەلمىگەن بولاتتى. چۈنكى 2 - يىلى، يەنى 1616 - يىلى 4 - ئاينىڭ 23 - كۈنى _ ئەنگلىيىنىڭ بۈيۈك يازغۇچىسى شىكېسپىر بىلەن بىر كۈندە - سېرۋانتېس بۇ دۇنيادىن ئايرىلىپ ئاخىرەتكە كەتتى.
+كاتولىك دىنىي جەمئىيتى سېرۋانتېسنى ئىچى - ئىچىدىن ئۆچ كۆرۈپ، ھەتتا ئۇنىڭغا بىر قەۋرە تېشىمۇ تىكلەپ قويمىدى. ئەمما خەلق كۆزگە كۆرۈنگەن بۇ يازغۇچىنى ئۇنتۇمىدى. ئۇ ئالەمدىن ئۆتۈپ 200 نەچچە يىلدىن كېيىن، كىشىلەر ئىسپانىيىنىڭ پايتەختى مادرىدتا ئۇنىڭغا ئاتاپ خاتىرە مۇنارىسى تۇرغۇزدى؛ دون كىخوت ۋە سانچو پانسانىڭ ھەيكەللىرىمۇ بۇ شەھەرنىڭ مەيدانىدا تىك قەد كۆتەردى.</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3373" title="تۈرك دۇنياسىغا قىسقىچە نەزەر"  target="_blank" class="tag_title_link">تۈرك دۇنياسىغا قىس...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3372" title="ھەقىقى ئانتى سىمىتىزىمنى چۇشىنەمسىز؟"  target="_blank" class="tag_title_link">ھەقىقى ئانتى سىمىت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3371" title="مارتىن لۇتېر"  target="_blank" class="tag_title_link">مارتىن لۇتېر</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3370" title="چاچقۇن پادىشاھ ئىۋان"  target="_blank" class="tag_title_link">چاچقۇن پادىشاھ ئىۋ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3369" title="ئوتتۇرا ئەسىرنىڭ باشلىنىشى"  target="_blank" class="tag_title_link">ئوتتۇرا ئەسىرنىڭ ب...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3368" title="ئىسپان تىياتىرىنىڭ ئاتىسى"  target="_blank" class="tag_title_link">ئىسپان تىياتىرىنىڭ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3367" title="سېرۋانتس"  target="_blank" class="tag_title_link">سېرۋانتس</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3366" title="«گىگانت ئادەمنىڭ تەرجىمىھالى» ۋە رابلې"  target="_blank" class="tag_title_link">«گىگانت ئادەمنىڭ ت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3365" title="قەلەندەرلەر قوزغىلىڭى"  target="_blank" class="tag_title_link">قەلەندەرلەر قوزغىل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3364" title="قانلىق پەرمان"  target="_blank" class="tag_title_link">قانلىق پەرمان</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3363" title="ئۇتوپىيە"  target="_blank" class="tag_title_link">ئۇتوپىيە</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3362" title="«يېڭىلمەس پاراخوت قوشونى » نىڭ گۇمران بولۇشى"  target="_blank" class="tag_title_link">«يېڭىلمەس پاراخوت ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3361" title="قوي، ئادەملەرنى يەپ كەتكەن ئاپەت"  target="_blank" class="tag_title_link">قوي، ئادەملەرنى يە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3360" title="جەنۋە پاپىسى"  target="_blank" class="tag_title_link">جەنۋە پاپىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3359" title="ئۈچ رەڭلىك بايراق"  target="_blank" class="tag_title_link">ئۈچ رەڭلىك بايراق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3358" title="توماس ميۇنتسېر"  target="_blank" class="tag_title_link">توماس ميۇنتسېر</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3357" title="رىم پاپىسىدىن ئادا - جۇدا بولايلى"  target="_blank" class="tag_title_link">رىم پاپىسىدىن ئادا ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3356" title="بايراققا سىزىلغان چىغ كەش"  target="_blank" class="tag_title_link">بايراققا سىزىلغان ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3355" title="پارچە - پارچە بەگلىكلەرگە بۆلۈنۈپ كەتكەن گېرمانىيە"  target="_blank" class="tag_title_link">پارچە - پارچە بەگلى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3354" title="سان پېتىر ئىبادەتخانىسى"  target="_blank" class="tag_title_link">سان پېتىر ئىبادەتخ...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/kutupxana/search.php?catid=62&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3373" title="تۈرك دۇنياسىغا قىسقىچە نەزەر"  target="_blank" class="tag_title_link">تۈرك دۇنياسىغا قىسقىچە ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3372" title="ھەقىقى ئانتى سىمىتىزىمنى چۇشىنەمسىز؟"  target="_blank" class="tag_title_link">ھەقىقى ئانتى سىمىتىزىمن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3371" title="مارتىن لۇتېر"  target="_blank" class="tag_title_link">مارتىن لۇتېر</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3370" title="چاچقۇن پادىشاھ ئىۋان"  target="_blank" class="tag_title_link">چاچقۇن پادىشاھ ئىۋان</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3369" title="ئوتتۇرا ئەسىرنىڭ باشلىنىشى"  target="_blank" class="tag_title_link">ئوتتۇرا ئەسىرنىڭ باشلىن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3368" title="ئىسپان تىياتىرىنىڭ ئاتىسى"  target="_blank" class="tag_title_link">ئىسپان تىياتىرىنىڭ ئاتى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3367" title="سېرۋانتس"  target="_blank" class="tag_title_link">سېرۋانتس</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3366" title="«گىگانت ئادەمنىڭ تەرجىمىھالى» ۋە رابلې"  target="_blank" class="tag_title_link">«گىگانت ئادەمنىڭ تەرجىم...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3365" title="قەلەندەرلەر قوزغىلىڭى"  target="_blank" class="tag_title_link">قەلەندەرلەر قوزغىلىڭى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3364" title="قانلىق پەرمان"  target="_blank" class="tag_title_link">قانلىق پەرمان</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/kutupxana/show_js.php?itemid=3367"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

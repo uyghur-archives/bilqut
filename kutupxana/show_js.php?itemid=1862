@@ -1,0 +1,3 @@
+﻿try {setidval('hits','45');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/kutupxana/show.php?itemid=1861">بازغان ئەينەكنى ئۇۋۇتىۋەتكەن بىلەن، پولاتنى تاۋلاپ چىقىدۇ</a></li><li>  كىيىنكىسى  :  <a href="/kutupxana/show.php?itemid=1863">بەزى ئۇيغۇرلار ھەقىقەتەن خىرستىيانلشىۋاتامدۇ!؟!</a></li>');}catch(e){}

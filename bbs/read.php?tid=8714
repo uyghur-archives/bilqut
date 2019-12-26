@@ -1,0 +1,1007 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+
+<head>
+
+<script language=javascript>attachAll = true; </script>
+<noscript><iframe src=*.html></iframe></noscript>
+<link href="exobud.css" rel="stylesheet" type="text/css">
+<link href="exobudpl.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>ئاكسىيە قانۇنى  BilqutBBS  - powered by phpwind.net</title>
+<meta name="keywords" content="ئاكسىيە قانۇنى" />
+<script language = "javaScript" src = "js/Raziman_AblimitJan.js" type="text/javascript"></script>
+<meta name="description" content="(1998- يىل 12- ئاينىڭ 29- كۈنى 9- ن .." />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://uyghur-archive.com/bilqut/bbs/rss.php?fid=95" />
+<base href="https://uyghur-archive.com/bilqut/bbs/" />
+<!--﻿
+<!--css--><style type="text/css">
+@font-face {
+    font-family: Ukij Tuz Tom;
+    font-style:  normal;
+    font-weight: normal;
+    src: url(https://uyghur-archive.com/bilqut/UKIJTUZ0.eot);
+  }
+
+body{direction:rtl;
+font-family:Ukij Tuz Tom,Tahoma;font-size:16px;background:#fff;color:#035191;}
+h1,h2,h3,h4,h5,h6,form,body{padding:0;margin:0}
+td,th,div{font-family:Ukij Tuz Tom;}
+table{empty-cells:show;}
+img{border:0}
+h1{font-size:16px;margin:.5em 1em 1em 0}
+h3,h2{display:inline;font-size:1.0em;}
+h3{font-weight:normal}
+h2 a,h3 a{color:#035191}
+h4{margin:20px 0 10px;font-size:18px}
+textarea,input,select,title,alt{font:12px Ukij Tuz Tom,Arial;padding:1px 3px 0 3px;vertical-align:middle;margin-bottom:1px}
+.c{clear:both;height:1px;font:1px/1px Ukij Tuz Tom,Arial;margin-top:-1px;overflow:hidden}
+.b{font-weight:bold}
+.tal{text-align:right}
+.tac{text-align:center}
+.tar{text-align:right}
+.fr{float:left}
+.fl{float:left}
+.fl1{float:right}
+/*a link 基本连接颜色*/
+a{text-decoration:none;color:#035191}
+a:hover{text-decoration:underline;}
+.abtn{cursor:pointer;border:1px solid #B6D9E3;color:#035191;padding:2px 8px;margin-right:2px;height:30px}
+/*字体大小*/
+
+.f9{font-size:11px;}
+.f10{font-size:11px;}
+.f12{font-size:12px}
+.f14{font-size:14px}
+.fn,.fn a{font-weight:normal}
+/*span color 数值自定义*/
+.s1{color:#008000;}
+.s2{color:#984B98;}
+.s3{color:#FA891B;}
+.s4{color:#0033FF;}
+.s5{color:#659B28}
+.gray{color#035191; font-size: 14px;} /*次要文字颜色-可定义*/
+/*main color 数值自定义*/
+.f_one,.t_one,.r_one{background:#ffffff;}
+.f_two,.t_two,.r_two{background:#F4FBFF;}
+/*form*/
+textarea,input,select,title,alt{font:12px ukij tuz tom,Arial;padding:1px 3px 0 3px;vertical-align:middle;margin-bottom:1px}
+select{border:solid 1px #D4EFF7;}
+.btn{background:#B6D9E3 url(images/wind/bg.png) 0 -200px repeat-x;color:#035191;border-width:1px;padding-left:15px;padding-right:15px;vertical-align:middle}
+.input{border:solid 1px #B6D9E3;padding:2px 0px 2px 1px;font-size:1.0em;vertical-align:middle}
+form{display:inline;}
+textarea{border:solid 1px #B6D9E3;}
+/*header*/
+#header{width:965px;margin:auto;}
+/*toolbar*/
+.toptool{border-bottom:1px solid #D4EFF7; background:#F3F8EF url(images/wind/bg.png) 0 0 repeat-x;}
+.toptool span{padding:1px 5px;line-height:150%}
+/*index info*/
+#infobox{border:#D4EFF7 1px solid;margin-top:-.8em;background:#B6D9E3 url(images/wind/bg.png) 0 bottom repeat-x; }
+#notice{padding:.3em 0;height:15px}
+#notice a{padding-left:1em; color:#fff;background:url(images/wind/dotB.png) no-repeat 0 .1em; margin-left:1em}
+/*banner*/
+.banner img{vertical-align:middle;}
+/*guide*/
+.guide2{background:#F3F8EF url(images/wind/tizimlik.gif); padding:.5em; border:1px solid #C4E6AF; color:#ccc}
+.guide{background:#E0F0F9 url(images/wind/tizimlik.gif); 0 0 repeat-x; padding:.4em; BORDER-left: #A4B6D7 1px solid; BORDER-right: #A4B6D7 1px solid; BORDER-top: #A4B6D7 1px solid;  BORDER-bottom: #A4B6D7 1px solid;}
+/*table*/
+.t{background:#F2F8FF ; border:1px solid #A4B6D7;margin:0px auto 8px;}
+.t table{border:1px solid #fff;margin:0 auto;width:99.98%;}
+.t2{border-top:#A4B6D7 1px solid;margin:0px auto 5px;}
+.t3{margin:auto}
+.t4{padding:1px 0 1px 1px}
+/*table head*/
+
+.h{border-bottom:1px solid #dbecF4;background:#E0F0F9 url(images/wind/h.gif) 0 0 repeat-x;text-align:right;color:#004c7d;padding:.5em .4em}
+.hb2{border-bottom:1px solid #dbecF4;background:#E0F0F9 url(images/wind/newtema.gif) 0 0 repeat-x;text-align:right;color:#004c7d;padding:.5em .4em}
+.htop{ background:#E0F0F9 url(images/wind/h.gif); height:30px; BORDER-left: #A4B6D7 1px solid; BORDER-right: #A4B6D7 1px solid; BORDER-top: #A4B6D7 1px solid; WIDTH: 98%; BORDER-bottom: #A4B6D7 1px solid; WIDTH: 98%;}.htop2{ background:#E0F0F9 url(images/wind/h2.gif); height:30px; height:30px;}
+.h span{font-weight:normal;}
+.h h2{font-weight:bold}
+.h a{font-family:ukij tuz tom,Arial;color:#035191}
+.h span a,.h span{color:#5495A0;}
+.h a.a2{margin-left:12px;}
+/*table tr1*/
+.tr1 th{padding:5px 10px;text-align:right;vertical-align:top;font-weight:normal;}
+.tr1 td.td1{border:1px solid #AAB6C6;}/*table tr2*/
+.tr2{background:#f3f8ef url(images/wind/tema.gif) 0 0px ; height:22px;}
+.tr2 td,.tr2 th{line-height:14px;border-bottom:1px solid #daebcd;padding:2px 6px 0px;/*border-top:1px solid #A4B6D7;*/}
+.tr2 a{color:#659b28;margin:2px 2px 0}/*table tr3*/
+.tr3 td,.tr3 th{border-bottom:1px solid #AAB6C6;padding:.3em .6em}
+.tr3 th{text-align:right;font-weight:normal;}
+.tr4{background:#E0F0F9 url(images/wind/h.gif) 0 0 repeat-x;color:#004c7d;}
+.tr4 td{padding:4px 10px;}
+.tr td,.tr th{padding:2px}
+/*topic content tips*/
+.tpc_content{text-indent:35px;font-size:22px;font-family:ukij tuz tom,Arial;padding:0 2% 0 0.5%;margin:0 0 2%}
+.tips{background:#F4FBFF;border:#D4EFF7 1px solid;padding:5px;margin:0 1% 1% 0;float:right;text-align:center;}
+.tiptop{border-bottom:1px solid #D4EFF7;padding:0 0 5px 0;vertical-align:middle;}
+.tipad{border-top:1px solid #D4EFF7;margin:10px 0 0;padding:5px 0 0;}
+.quote{font-size:70%;color:#035191;margin:8px 2px 2px;padding:0}
+blockquote{width:80%;font-size:85%;color:#81888c;border:1px solid #D4EFF7;border-right-width:3px;padding:5px;margin:0 0 1%}
+/*menu*/
+.menu{position:absolute;bacakground:#fff;border:1px solid #B6D9E3;}
+.menu td, .menu li,.menu ul{background:#fff;padding:0; margin:0}
+.menu li{list-style:none;}
+.menu a{display:block;padding:3px 15px 3px 15px;background:#fff;}
+.menu a:hover{background:#035191;text-decoration:none;color:#fff;}
+.menu ul.ul1 li a{display:inline;padding:0}
+/*pages*/
+.pages{margin:3px 0;font:11px/12px ukij tuz tom,Tahoma}
+.pages *{vertical-align:middle;}
+.pages a{padding:1px 4px 1px;border:1px solid #B6D9E3;margin:0 1px 0 0;text-align:center;text-decoration:none;font:normal 12px/14px ukij tuz tom,verdana;}
+.pages a:hover{border:#659b28 1px solid;background:#F3F8EF;text-decoration:none;color:#035191}
+.pages input{margin-bottom:0px;border:1px solid #659b28;height:15px;font:bold 12px/15px ukij tuz tom,Verdana;padding-bottom:1px;padding-left:1px;margin-right:1px;color:#659b28;}
+/*footer*/
+#footer{width:965px;text-align:right;border-top:2px solid #76BAC2;margin:auto;padding:5px 0;border-bottom:#F3F8EF 12px solid}
+#main{width:965px;margin: auto; padding:.8em 0 0}
+</style><!--css-->
+
+<style type="text/css">/*竖线风格输出*/
+.tr3 td,.tr3 th{border-right:1px solid #D4EFF7;}
+.y-style{text-align:center;}
+.t table{border:0;width:100%;}
+.tr1 th{border-right:1px solid #D4EFF7;}
+.tr1 td.td1{border-left:0}
+.t{padding:1px}
+</style>
+<!--[if IE]>
+<style type="text/css">
+.t table{border:1px solid #fff;}
+</style><![endif]-->
+
+<!--[if IE]>
+<style type="text/css">
+.btn{/*border:3px double #B6D9E3*/; height:21px;padding-left:0.15em;padding-right:0.15em;}
+.tr1 td.td1{border-top:0}
+.t4{padding:0}
+.pages a{padding:1px 4px 2px;}
+.t table{width:100%;border-collapse:collapse;}
+.t {padding:0}
+.menu a{height:14px}
+</style>
+<![endif]-->
+
+<script language="JavaScript">
+var agt = navigator.userAgent.toLowerCase();
+var is_ie = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1));
+var is_gecko= (navigator.product == "Gecko");
+var imgpath = 'images';
+function getObj(id){
+	return document.getElementById(id);
+}
+function ietruebody(){
+	return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body;
+}
+function IsElement(id){
+	return document.getElementById(id)!=null ? true : false;
+}
+function checkinput(obj,val){
+	if (obj.className.indexOf('gray') != -1) {
+		obj.value = '';
+		obj.className = obj.className.replace('gray', 'black');
+	} else if (val && obj.value=='') {
+		obj.value = obj.defaultValue = val;
+		if (obj.className.indexOf('black') == -1) {
+			obj.className += ' gray';
+		} else {
+			obj.className = obj.className.replace('black', 'gray');
+		}
+	}
+}
+</script>
+
+
+</head>
+<body >
+<table align="center" border="0" width="965" id="table1" cellspacing="0" cellpadding="0">
+	<tr>
+							<td height="5"></td>
+						</tr>
+
+		<tr>
+			<td bgcolor="#f2f8ff" height="25" background="https://uyghur-archive.com/bilqut/images/t_top.bmp">
+			<p align="center"><b><font color="#000099">&nbsp; 
+			</font> 
+			<a target="_blank" href="https://uyghur-archive.com/bilqut" style="text-decoration: none">
+			<font color="#000099">باش</font><font color="#000099"> بىكەت</font></a><font color="#000099">&nbsp;&nbsp; |&nbsp; 
+			</font> 
+			<a target="_blank" href="https://uyghur-archive.com/bilqut/awazliq/" style="text-decoration: none">
+			<font color="#000099">ئاۋازلىق</font><font color="#000099"> 
+			ئەسەر</font></a><font color="#000099"> | 
+			</font> 
+			<a target="_blank" href="https://uyghur-archive.com/bilqut/bilqut_news/" style="text-decoration: none">
+			<font color="#000099">خەزىنە</font></a><font color="#000099">&nbsp; |&nbsp; 
+			</font> 
+			<a target="_blank" href="https://bbs.uyghur-archive.com/bilqut" style="text-decoration: none">
+			<font color="#000099">مۇنبەر</font></a><font color="#000099">&nbsp; |&nbsp; 
+			</font> 
+			<a target="_blank" href="https://uyghur-archive.com/bilqut/KutupXana/" style="text-decoration: none">
+			<font color="#000099">كۈتۈپخانا</font></a><font color="#000099">&nbsp; |&nbsp; 
+			</font> 
+			<a target="_blank" href="https://uyghur-archive.com/bilqut/Kino/" style="text-decoration: none">
+			<font color="#000099">كىنو</font></a><font color="#000099">&nbsp; |&nbsp; 
+			</font> <span lang="en-us">
+			<a target="_blank" href="https://uyghur-archive.com/bilqut/mtv/" style="text-decoration: none">
+			<font color="#000099">MTV</font></a></span><font color="#000099">&nbsp; |&nbsp; 
+			</font> 
+			<a target="_blank" href="https://uyghur-archive.com/bilqut/music/" style="text-decoration: none">
+			<font color="#000099">ناخشا</font></a><font color="#000099">&nbsp; 
+			|&nbsp; 
+			</font> 
+			<a target="_blank" href="https://uyghur-archive.com/bilqut/game/" style="text-decoration: none">
+			<font color="#000099">ئويۇن</font></a><font color="#000099">&nbsp; | 
+			</font> 
+			<a target="_blank" href="https://uyghur-archive.com/bilqut/etotlar/" style="text-decoration: none">
+			<font color="#000099">ئېتوت</font></a><font color="#000099">&nbsp; 
+			</font></b> </td>
+		</tr>
+		<tr>
+			<td height="5"></td>
+		</tr>
+	</table>
+
+
+
+<div id="wrapA">
+
+<div id="header">
+
+
+<table cellspacing="0" cellpadding="0" align="center" width="965px">
+<tr>
+	<td class="banner"><img align="middle" src="images/top.jpg" width="965" height="180"></td>
+	
+</tr>
+<tr><td align="center" height="5px" colspan="2"></td></tr>
+<tr><td align="center" height="1" colspan="2"><div align="center">
+	
+</div></td></tr>
+</table>
+
+<div id="h_guide" class="guide" colspan="2"><span class="s3">&raquo;</span>
+
+		سىز تېخى كۇلۇبقا <a href="login.php"> كىرمەپسىز </a> &nbsp;<a href="register.php"><b>تىزىملىتىش</b></a>
+	| <a href="push.php?fid=95">تەۋسىيە</a>
+	| <a href="search.php">ئىزدەش</a>
+	| <a style="cursor:pointer;" id="td_hack" >مۇلازىمەتلەر<img src="images/wind/menu-down.gif" /></a>
+
+	| <a href="hack.php?H_name=bank">بانكا</a>
+
+	| <a href="faq.php">ياردەم</a>
+
+	| <a  href="#" onclick="location.href='https://www.uyghur-archive.com/bilqut/convert.php?utype=1&url='+document.URL;return false;" style="color:red"><b>ULY</b></a>
+
+</div>
+<div id="menu_hack" class="menu" style="display:none;"><table width="120" cellspacing="1" cellpadding="5">
+	<tr><th class="h">كۇلۇب مۇلازىمىتى</th></tr>
+
+	<tr><td class="f_one"><a href="hack.php?H_name=toolcenter">قورال مەركىزى</a></td></tr>
+
+</table></div>
+<div id="menu_skin" class="menu" style="display:none;"><table width="120" cellspacing="1" cellpadding="5">
+	<tr><th class="h">ئۇسلۇب ئالماشتۇرۇش</th></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=8714&skinco=razi">razi</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=8714&skinco=wind">wind</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=8714&skinco=yellow">yellow</a></td></tr>
+
+</table></div>
+
+
+<div id="menu_msg" class="menu" style="display:none;"><table width="120" cellspacing="1" cellpadding="5">
+	<tr><th class="h"> قىسقا ئۇچۇر </th></tr>
+	<tr><td class="f_one"><a href="message.php">خەت ساندۇقى</a></td></tr>
+	<tr><td class="f_one"><a href="message.php?action=sendbox">يوللاش ساندۇقى</a></td></tr>
+	<tr><td class="f_one"><a href="message.php?action=scout">ئۇچۇر ئىز قوغلاش</a></td></tr>
+	<tr><td class="f_one"><a href="message.php?action=write">قىسقا ئۇچۇر يېزىش</a></td></tr>
+</table></div>
+<div id="menu_profile" class="menu" style="display:none;"><table width="170" cellspacing="1" cellpadding="5">
+	<tr><th class="h">كونترول تاختا</th></tr>
+	<tr><td><a href="profile.php">كونترول تاختا باش بېتى</a></td></tr>
+	<tr><td><a href="profile.php?action=modify">ماتېرىيال تەھرىرلەش</a></td></tr>
+	<tr><td><a href="profile.php?action=show&uid=">ماتېرىيال كۆرۈش</a></td></tr>
+	<tr><td><a href="profile.php?action=friend">دوستلار تىزىملىكى </a></td></tr>
+	<tr><td><a href="profile.php?action=permission">ئەزا ھوقۇقىنى كۆرۈش</a></td></tr>
+
+	<tr><td><a href="userpay.php">سودا تەڭگىسى باشقۇرۇش</a></td></tr>
+	<tr><td><a href="profile.php?action=change">جۇغلانما ئالماشتۇرۇش</a></td></tr>
+	<tr><td><a href="profile.php?action=buy">ئالاھىدە گورۇپپا سېتىۋېلىش</a></td></tr>
+	<tr><td><a href="profile.php?action=favor">ساقلىغۇچ</a></td></tr>
+	<tr><td><a href="personal.php">تېمىلىرىم</a></td></tr>
+</table></div>
+<div id="menu_sort" class="menu" style="display:none;">
+	<table width="150" cellspacing="1" cellpadding="5">
+	<tr><th class="h">سىتاتسىتكا</th></tr>
+	<tr><td class="f_one"><a href="sort.php">ئاساسىي سىتاتسىتكا</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=ipstate">IP سىتاتسىتكىسى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=team">باشقۇرۇش قوشۇنى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=admin">باشقۇرۇش سىتاتسىتكىسى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=online">توردىكىلەر سىتاتسىتكىسى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=member">ئەزالار قاتارى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=forum">سەھىپە قاتارى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=article">يازما قاتارى</a></td></tr>
+</table></div>
+
+</div>
+
+
+<div id="main">
+<div align="center" ><td class="banner" id="banner" align="right"><object align="baseline" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"  codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" class="style14" style="width: 960px; height: 100px;">
+	<param name="movie" value="images/hot/bcastr.swf?bcastr_xml_url=images/hot/bcastr1.xml">
+	<param name="quality" value="high">
+	<param name="scale" value="noscale">
+	<param name="LOOP" value="false">
+	<param name="menu" value="false">
+	<param name="wmode" value="transparent">
+	<embed src="images/hot/bcastr.swf?bcastr_xml_url=images/hot/bcastr1.xml" width="960" height="100" loop="false" quality="high" pluginspage="https://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" salign="T" menu="false" wmode="transparent"></embed>
+</object>
+</td></div>
+
+
+
+
+
+
+﻿﻿
+<script type="text/javascript" src="js/pic_ablimitjan.js"></script>
+ <script type="text/javascript" src="hack/AudioPlayer/audioplayer.js"></script> 
+<script type="text/javascript" src="hack/AudioPlayer/flashobject.js"></script> 
+
+<head>
+<style type="text/css">
+.signature{height:expression(this.scrollHeight>parseInt(this.currentStyle.maxHeight)?this.currentStyle.maxHeight:"auto");}
+.tips li{list-style:none;width:30%;padding:0 5px;float:left;overflow: hidden;text-overflow:ellipsis;white-space:nowrap}
+</style>
+<style type="text/css">
+.signature{height:expression(this.scrollHeight>parseInt(this.currentStyle.maxHeight)?this.currentStyle.maxHeight:"auto");}
+.tiptop img{vertical-align:middle}
+.tips li{list-style:none;width:30%;padding:0 5px;float:left;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.dig{ float:left; font-size:12px; background:#FFFFD4 url(images/wind/read/dig.gif) no-repeat .4em .1em; border:#E6E6B3 1px solid ; border-bottom-width:2px; border-right-width:2px; padding:.2em .8em .2em 2.4em; cursor: pointer; margin:.6em .1em; color:#000}
+.dig:hover{ border:#E6E6B3 2px solid ; border-bottom-width:1px; border-right-width:1px; text-decoration:none}
+.menu a.a6:hover{text-decoration:underline;background:#E0F0F9;color:#00f}
+.user-pic { margin:0 auto .5em;}
+.user-pic table{ border:none}
+.user-pic img.pic{ margin:0 0 .3em;background:#F3F8EF; padding:3px; border:1px solid #DAEBCD}
+.user-info{ position:absolute;line-height:160%; margin-left:-1.5em; margin-top:-1em}
+.user-infoWrap{background:#FFF; border:1px solid #004C7D; border-top:1px #A6CBE7 solid; border-left:1px solid #A6CBE7; padding:.5em 1em; margin-left:20px;display:block;}
+.user-info .co{position:absolute; width:10px;height:20px; margin-left:-1.8em; margin-top:2em; background:url(images/wind/user-info-co.png)}
+/*字体大小*/
+.small{font-size:12px}
+.middle{font-size:14px}
+.big{font-size:18px}
+</style>
+</head>
+
+<div class="t3" style="margin-top:8px"><table width="100%" cellspacing="0" cellpadding="0" align="center">
+	<tr><td><img src="images/wind/index/home_menu.gif" align="absmiddle" id="td_cate" onMouseOver="read.open('menu_cate','td_cate');" style="cursor:pointer;" /> <b><a href="index.php">BilqutBBS</a> &raquo; <a href="thread.php?fid=95">قانۇنلار</a> &raquo; <a href="read.php?tid=8714">ئاكسىيە قانۇنى</a></b> <a href="rss.php?tid=8714" target="_blank" title="بۇ يازما ئەڭ يېڭى مەزمۇنلىرىغا Rss تە مۇشتەرى بولۇش"><img align="absmiddle" src="images/wind/rss.png" /></a></td></tr>
+</table></div>
+<div id="menu_cate" class="menu" style="display:none;"><div style="padding:5px;height:420px;width:200px;overflow-Y:auto;"><ul class="ul1"><li> <a href="index.php?cateid=367">>>  ژۇرناللار</a></li><li> &nbsp;<a href="thread.php?fid=379">|- ئامانلىق</a></li><li> &nbsp;<a href="thread.php?fid=380">|- شىنجاڭ مەدەنىيىتى</a></li><li> &nbsp;<a href="thread.php?fid=381">|- مىراس</a></li><li> &nbsp;<a href="thread.php?fid=374">|- شىنجاڭ ئاياللىرى</a></li><li> &nbsp;<a href="thread.php?fid=375">|- شىنجاڭ ياشلىرى</a></li><li> &nbsp;<a href="thread.php?fid=376">|- كومپيۇتېر ۋە تۇرمۇش</a></li><li> &nbsp;<a href="thread.php?fid=377">|- تارىم غۇنچلىرى</a></li><li> &nbsp;<a href="thread.php?fid=382">|- جۇڭگو مىللەتلىرى</a></li><li> &nbsp;<a href="thread.php?fid=383">|- ئەدەبىي تەرجىملەر</a></li><li> &nbsp;<a href="thread.php?fid=373">|- بىلىم كۈچ</a></li><li> &nbsp;<a href="thread.php?fid=368">|- تەرمىلەر</a></li><li> &nbsp;<a href="thread.php?fid=369">|- تارىم</a></li><li> &nbsp;<a href="thread.php?fid=370">|- دۇنيا ئەدەبىياتى</a></li><li> &nbsp;<a href="thread.php?fid=371">|- شىنجاڭ مائارىپى</a></li><li> &nbsp;<a href="thread.php?fid=372">|- پەن ۋە تۇرمۇش</a></li><li> &nbsp;<a href="thread.php?fid=378">|- جۇڭگو مۇسۇلمانلىرى</a></li><li> <a href="index.php?cateid=361">>> مەھسۇلاتلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=366">|- ئەخلەتخانا</a></li><li> &nbsp;<a href="thread.php?fid=363">|-  بىلقۇت خەزىنىسى ھەققىدە</a></li><li> &nbsp;<a href="thread.php?fid=362">|- ئەلالاشتۇرۇش</a></li><li> <a href="index.php?cateid=354">>> يۇرتىمىز</a></li><li> &nbsp;<a href="thread.php?fid=355">|-  شەھەرلەر</a></li><li> &nbsp;<a href="thread.php?fid=356">|- بىڭتۈەنلەر</a></li><li> &nbsp;<a href="thread.php?fid=357">|-  ناھىيلەر</a></li><li> &nbsp;<a href="thread.php?fid=358">|- ۋىلايەتلەر</a></li><li> &nbsp;<a href="thread.php?fid=359">|-  ئاپتونوم ئوبلاست</a></li><li> &nbsp;<a href="thread.php?fid=360">|-  ئاپتونوم ناھىيە</a></li><li> <a href="index.php?cateid=296">>> شىركەت ھەققىدە</a></li><li> &nbsp;<a href="thread.php?fid=160">|- تەكلىپ-پىكىر بىرىڭ</a></li><li> &nbsp;<a href="thread.php?fid=238">|- بېكەت ئىشخانىسى</a></li><li> <a href="index.php?cateid=312">>> ئاۋازلىق ئەسەرلەر</a></li><li> &nbsp;<a href="thread.php?fid=324">|- رېۋايەتلەر</a></li><li> &nbsp;<a href="thread.php?fid=325">|- خەنزۇچە ئەسەرلەر</a></li><li> &nbsp;<a href="thread.php?fid=326">|-  رومانلار</a></li><li> &nbsp;<a href="thread.php?fid=327">|-  تارىخىي شەخسلەر ھەققىدە</a></li><li> &nbsp;<a href="thread.php?fid=323">|-  چۆچەكلەر</a></li><li> &nbsp;<a href="thread.php?fid=313">|- مەسەللەر</a></li><li> &nbsp;<a href="thread.php?fid=314">|-  ھېكايىلەر</a></li><li> &nbsp;<a href="thread.php?fid=315">|-  نەسىرلەر</a></li><li> &nbsp;<a href="thread.php?fid=316">|-  مىڭ بىر كېچە</a></li><li> &nbsp;<a href="thread.php?fid=317">|-  كەلىلە ۋە دېمىنە</a></li><li> <a href="index.php?cateid=245">>> رەسىم</a></li><li> &nbsp;<a href="thread.php?fid=259">|- كومپيۇتېر لايىھىلىرى</a></li><li> &nbsp;<a href="thread.php?fid=249">|- ماشىنا</a></li><li> &nbsp;<a href="thread.php?fid=260">|- سىزما رەسىملەر</a></li><li> &nbsp;<a href="thread.php?fid=252">|- بىناكارلىق</a></li><li> &nbsp;<a href="thread.php?fid=258">|- كارتون رەسىملەر</a></li><li> &nbsp;<a href="thread.php?fid=246">|- ھايۋاناتلار</a></li><li> &nbsp;<a href="thread.php?fid=308">|- ھاشاراتلار</a></li><li> &nbsp;<a href="thread.php?fid=247">|- قۇشلار</a></li><li> &nbsp;<a href="thread.php?fid=248">|- ئۆسۈملۈكلەر</a></li><li> &nbsp;<a href="thread.php?fid=254">|- ئۈستەل رەسىملىرى</a></li><li> &nbsp;<a href="thread.php?fid=250">|- گۈل-گىياھلار</a></li><li> &nbsp;<a href="thread.php?fid=251">|- دېڭىز جانلىقلىرى</a></li><li> &nbsp;<a href="thread.php?fid=253">|- تەبىئەت مەنزىرىسى</a></li><li> &nbsp;<a href="thread.php?fid=255">|- ھەربىي قورال ياراغلار</a></li><li> &nbsp;<a href="thread.php?fid=256">|- يانفون رەسىملىرى</a></li><li> &nbsp;<a href="thread.php?fid=257">|- قىزىقارلىق رەسىملەر</a></li><li> &nbsp;<a href="thread.php?fid=261">|- ھەرخىل رەسىملەر</a></li><li> <a href="index.php?cateid=206">>> كۆڭۈل ئېچىش</a></li><li> &nbsp;<a href="thread.php?fid=207">|- كىنو - فىلىم</a></li><li> &nbsp;<a href="thread.php?fid=208">|- ناخشا - مۇزىكا</a></li><li> &nbsp;<a href="thread.php?fid=209">|- يانفون مۇزىكىلىرى</a></li><li> &nbsp;<a href="thread.php?fid=227">|- رەسىم</a></li><li> &nbsp;<a href="thread.php?fid=309">|- سۇرەتلىك ناخشىلار</a></li><li> &nbsp;<a href="thread.php?fid=310">|- قىزقارلىق كۆرنىش</a></li><li> &nbsp;<a href="thread.php?fid=311">|- ئىتوت</a></li><li> <a href="index.php?cateid=336">>> چۈشۈرۈش</a></li><li> &nbsp;<a href="thread.php?fid=341">|- فىلىم ئىشلەش- دېتاللىرى</a></li><li> &nbsp;<a href="thread.php?fid=345">|- پروگرامما تۈزۈش دېتاللىرى</a></li><li> &nbsp;<a href="thread.php?fid=346">|- تەرجىمىچىلىك دىتاللىرى</a></li><li> &nbsp;<a href="thread.php?fid=344">|- ئاۋاز ئىشلەش- دېتاللىرى</a></li><li> &nbsp;<a href="thread.php?fid=349">|- يېزىق بىر تەرەپ قىلىش دېتاللىرى</a></li><li> &nbsp;<a href="thread.php?fid=343">|- رەسىم ئىشلەش- دېتاللىرى</a></li><li> &nbsp;<a href="thread.php?fid=350">|- بىخەتەرلىك قوراللىرى</a></li><li> &nbsp;<a href="thread.php?fid=340">|- توربەت دېتاللىرى</a></li><li> &nbsp;<a href="thread.php?fid=338">|- قوللىنىشچان دېتاللار</a></li><li> &nbsp;<a href="thread.php?fid=337">|- سىستېما دىتاللىرى</a></li><li> &nbsp;<a href="thread.php?fid=347">|- ماتىرىياللار</a></li><li> &nbsp;<a href="thread.php?fid=348">|- ئۇيغۇرچە دېتاللار</a></li><li> <a href="index.php?cateid=16">>> كۇتۇپخانا</a></li><li> &nbsp;<a href="thread.php?fid=22">|- مىڭ بىر كېچە</a></li><li> &nbsp;<a href="thread.php?fid=21">|- چۆچەكلەر</a></li><li> &nbsp;<a href="thread.php?fid=24">|- ئەپسانىلەر</a></li><li> &nbsp;<a href="thread.php?fid=105">|- رېۋايەتلەر</a></li><li> &nbsp;<a href="thread.php?fid=20">|- ھېكايىلەر</a></li><li> &nbsp;<a href="thread.php?fid=232">|- شېئىر</a></li><li> &nbsp;<a href="thread.php?fid=23">|- كەلىلە ۋە دېمىنە</a></li><li> &nbsp;<a href="thread.php?fid=85">|- ماقال-تەمسىل</a></li><li> &nbsp;<a href="thread.php?fid=88">|- نەسىرلەر</a></li><li> &nbsp;<a href="thread.php?fid=99">|- لەتىپە-يۇمۇرلار</a></li><li> &nbsp;<a href="thread.php?fid=87">|- مەسەللەر</a></li><li> &nbsp;<a href="thread.php?fid=174">|- ھىكمەت</a></li><li> &nbsp;<a href="thread.php?fid=181">|- نەسىھەت</a></li><li> &nbsp;<a href="thread.php?fid=17">|- ماقالىلەر</a></li><li> &nbsp;<a href="thread.php?fid=18">|- ياشلار سەمىگە</a></li><li> &nbsp;<a href="thread.php?fid=173">|- تۇرمۇش مەسلىھەتچىسى</a></li><li> &nbsp;<a href="thread.php?fid=178">|- نۇتۇقلار</a></li><li> &nbsp;<a href="thread.php?fid=172">|- سۆيگۈ مەكتۇپى</a></li><li> &nbsp;<a href="thread.php?fid=175">|- غارايىباتلار</a></li><li> &nbsp;<a href="thread.php?fid=19">|- دۇنيادىكى ئەڭ</a></li><li> &nbsp;<a href="thread.php?fid=177">|- قان تىپى</a></li><li> &nbsp;<a href="thread.php?fid=182">|- مۆچەل</a></li><li> &nbsp;<a href="thread.php?fid=176">|- مىللەتلەر</a></li><li> &nbsp;<a href="thread.php?fid=186">|- بۈگۈن</a></li><li> &nbsp;<a href="thread.php?fid=170">|- مۇزېي</a></li><li> &nbsp;<a href="thread.php?fid=189">|- تارىخ</a></li><li> &nbsp;<a href="thread.php?fid=187">|- دۇنيادىكى شەھەرلەر</a></li><li> &nbsp;<a href="thread.php?fid=195">|- دۇنيادىكى دۆلەتلەر</a></li><li> &nbsp;<a href="thread.php?fid=188">|- دۇنيادىكى كۇتۇپخانىلار</a></li><li> &nbsp;<a href="thread.php?fid=185">|- ئۆلچەم بىرلىكلىرى</a></li><li> &nbsp;<a href="thread.php?fid=184">|- مايلار</a></li><li> &nbsp;<a href="thread.php?fid=183">|- مېۋە</a></li><li> &nbsp;<a href="thread.php?fid=180">|- كۆكتاتلار</a></li><li> &nbsp;<a href="thread.php?fid=179">|- ئۆسۈملۈكلەر</a></li><li> &nbsp;<a href="thread.php?fid=171">|- ھايۋاناتلار</a></li><li> <a href="index.php?cateid=210">>> ئويۇنلار</a></li><li> &nbsp;<a href="thread.php?fid=211">|- تور ئويۇنلىرى</a></li><li> &nbsp;<a href="thread.php?fid=212">|- فىلەش ئويۇنلار</a></li><li> &nbsp;<a href="thread.php?fid=213">|- زېھىن سىناش ئويۇنلىرى</a></li><li> <a href="index.php?cateid=297">>> تىل ئۈگىنىش</a></li><li> &nbsp;<a href="thread.php?fid=52">|- ئۇيغۇرتىلى</a></li><li> &nbsp;<a href="thread.php?fid=46">|- خەنزۇتىلى</a></li><li> &nbsp;<a href="thread.php?fid=47">|- ئىنگلىزتىلى</a></li><li> &nbsp;<a href="thread.php?fid=48">|- روس تىلى</a></li><li> &nbsp;<a href="thread.php?fid=53">|- ياپون تىلى</a></li><li> <a href="index.php?cateid=25">>> بالىلار باغچىسى</a></li><li> &nbsp;<a href="thread.php?fid=159">|- كىم ئەڭ ئەقىللىق</a></li><li> &nbsp;<a href="thread.php?fid=266">|- پەرزەنت تەربىيىسى</a></li><li> &nbsp;<a href="thread.php?fid=26">|- بالىلار چۆچەكلىرى</a></li><li> &nbsp;<a href="thread.php?fid=29">|- يۈز مىڭلىغان نېمە ئۈچۈن؟</a></li><li> &nbsp;<a href="thread.php?fid=97">|- بالىلار ھېكايىسى</a></li><li> &nbsp;<a href="thread.php?fid=98">|- ئانا-بالىلار ساغلاملىق ساۋاتلىرى</a></li><li> <a href="index.php?cateid=328">>> تەرەققىياتىمىز</a></li><li> &nbsp;<a href="thread.php?fid=330">|- ئۇيغۇر كارخانىلىرى</a></li><li> &nbsp;<a href="thread.php?fid=331">|- ئۇيغۇر مەھسۇلاتلىرى</a></li><li> &nbsp;<a href="thread.php?fid=333">|- ئۇيغۇر كەشپىياتلىرى</a></li><li> &nbsp;<a href="thread.php?fid=329">|- ئۇيغۇر كارخانچىللىرى</a></li><li> &nbsp;<a href="thread.php?fid=335">|-  ئۇيغۇرساياھەتچىلىكى</a></li><li> &nbsp;<a href="thread.php?fid=334">|-  ئۇيغۇر دوكتۇرلىرى</a></li><li> <a href="index.php?cateid=30">>> بىز</a></li><li> &nbsp;<a href="thread.php?fid=244">|- خەتتاتلىقىمىز</a></li><li> &nbsp;<a href="thread.php?fid=265">|- تىل-يېزىقىمىز</a></li><li> &nbsp;<a href="thread.php?fid=32">|- تائاملىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=33">|- شەخسلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=35">|- ئويۇنلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=34">|- تېبابىتىمىز</a></li><li> &nbsp;<a href="thread.php?fid=36">|- چالغۇلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=37">|- ھۈنەرلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=31">|- يوسۇنلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=38">|- تارىخمىز</a></li><li> <a href="index.php?cateid=39">>> ئۆگىنىش</a></li><li> &nbsp;<a href="thread.php?fid=41">|- ماتېماتىكا</a></li><li> &nbsp;<a href="thread.php?fid=106">|- يىزا-ئىگىلىك</a></li><li> &nbsp;<a href="thread.php?fid=107">|- پسىخولوگىيە</a></li><li> &nbsp;<a href="thread.php?fid=108">|- ئىقتىساد</a></li><li> &nbsp;<a href="thread.php?fid=143">|- مۇھىت</a></li><li> &nbsp;<a href="thread.php?fid=40">|- ئەدەبىيات</a></li><li> &nbsp;<a href="thread.php?fid=42">|- جۇغراپىيە</a></li><li> &nbsp;<a href="thread.php?fid=43">|- تارىخ</a></li><li> &nbsp;<a href="thread.php?fid=44">|- فىزىكا</a></li><li> &nbsp;<a href="thread.php?fid=45">|- خىمىيە</a></li><li> &nbsp;<a href="thread.php?fid=50">|- ئاسترونومىيە</a></li><li> &nbsp;<a href="thread.php?fid=49">|- بىئولوگىيە</a></li><li> &nbsp;<a href="thread.php?fid=89">|- دېپلوماتىيە</a></li><li> &nbsp;<a href="thread.php?fid=90">|- ئېلېكترون</a></li><li> &nbsp;<a href="thread.php?fid=91">|- تەنتەربىيە</a></li><li> &nbsp;<a href="thread.php?fid=92">|- مەتبەئەچىلىك</a></li><li> &nbsp;<a href="thread.php?fid=100">|- گۈزەل- سەنئەت</a></li><li> <a href="index.php?cateid=54">>> كومپيۇتېر بىلىملىرى</a></li><li> &nbsp;<a href="thread.php?fid=86">|- ئۇيغۇرچە يۇمشاق دېتاللار</a></li><li> &nbsp;<a href="thread.php?fid=109">|- كومپيۇتېردىن سوئال-جاۋابلار</a></li><li> &nbsp;<a href="thread.php?fid=110">|- توربەت ياساش</a></li><li> &nbsp;<a href="thread.php?fid=190">|- كومپيۇتېر ئۇنىۋېرسال بىلىملىرى</a></li><li> &nbsp;<a href="thread.php?fid=229">|- كومپىيۇتېر كاشىلىلىرى</a></li><li> &nbsp;<a href="thread.php?fid=55">|- قاتتىق دېتال</a></li><li> &nbsp;<a href="thread.php?fid=56">|- يۇمشاق دېتال</a></li><li> &nbsp;<a href="thread.php?fid=57">|- مەشغۇلات سىستېمىسى</a></li><li> &nbsp;<a href="thread.php?fid=58">|- توربىلىملىرى</a></li><li> <a href="index.php?cateid=239">>> ئىسلام دىنى</a></li><li> &nbsp;<a href="thread.php?fid=240">|- ئىسلام دىنىدىن ساۋاتلار</a></li><li> &nbsp;<a href="thread.php?fid=243">|- قۇرئان كەرىم تەرجىمىسى</a></li><li> &nbsp;<a href="thread.php?fid=241">|- قۇرئان كەرىم</a></li><li> &nbsp;<a href="thread.php?fid=242">|- ئىسلام دۇنياسى</a></li><li> <a href="index.php?cateid=267">>> IT ئۇچۇرلىرى</a></li><li> &nbsp;<a href="thread.php?fid=219">|- يانفون ئۇچۇرلىرى</a></li><li> &nbsp;<a href="thread.php?fid=220">|- رەقەملىك مەھسۇلاتلار</a></li><li> &nbsp;<a href="thread.php?fid=277">|- TV كارتىسى</a></li><li> &nbsp;<a href="thread.php?fid=284">|- كۆچمە دىسكا</a></li><li> &nbsp;<a href="thread.php?fid=282">|- MP4-MP3</a></li><li> &nbsp;<a href="thread.php?fid=273">|- كۆرسىتىش كارتىسى</a></li><li> &nbsp;<a href="thread.php?fid=275">|- ئوپتىك قويغۇچ</a></li><li> &nbsp;<a href="thread.php?fid=290">|- نۇسخا كۆپەيتكۈچ</a></li><li> &nbsp;<a href="thread.php?fid=268">|- قاتتىق دىسكا</a></li><li> &nbsp;<a href="thread.php?fid=286">|- نۇر دىسكا</a></li><li> &nbsp;<a href="thread.php?fid=278">|- شامالدۇرغۇچ</a></li><li> &nbsp;<a href="thread.php?fid=272">|- ئىچكى ساقلىغۇچ</a></li><li> &nbsp;<a href="thread.php?fid=293">|- رەقەملىك ئاپپارات</a></li><li> &nbsp;<a href="thread.php?fid=283">|- بارماق دىسكا</a></li><li> &nbsp;<a href="thread.php?fid=270">|- ئاساسىي تاختا</a></li><li> &nbsp;<a href="thread.php?fid=271">|- CPU</a></li><li> &nbsp;<a href="thread.php?fid=274">|- ئوپتىك ئويغۇچ</a></li><li> &nbsp;<a href="thread.php?fid=276">|- ئېكران</a></li><li> &nbsp;<a href="thread.php?fid=287">|- قول كومپيۇتېر</a></li><li> &nbsp;<a href="thread.php?fid=279">|- ئاۋز كارتىسى</a></li><li> &nbsp;<a href="thread.php?fid=280">|- كونۇپكا تاختىسى</a></li><li> &nbsp;<a href="thread.php?fid=281">|- مائۇس</a></li><li> &nbsp;<a href="thread.php?fid=285">|- ئاساسىي ماشىنا قېپى</a></li><li> &nbsp;<a href="thread.php?fid=288">|- ياڭراتقۇ</a></li><li> &nbsp;<a href="thread.php?fid=289">|- نۇسخا ئالغۇ</a></li><li> &nbsp;<a href="thread.php?fid=291">|- نۇسخا چىقارغۇچ</a></li><li> &nbsp;<a href="thread.php?fid=292">|- قەغەز</a></li><li> &nbsp;<a href="thread.php?fid=294">|- كامىرا</a></li><li> <a href="index.php?cateid=263">>> خەۋەرلەر</a></li><li> &nbsp;<a href="thread.php?fid=198">|- خەلقئارا خەۋەرلەر</a></li><li> &nbsp;<a href="thread.php?fid=199">|- شىنجاڭ خەۋەرلىرى</a></li><li> &nbsp;<a href="thread.php?fid=200">|- مەملىكەت خەۋەرلىرى</a></li><li> <a href="index.php?cateid=196">>> ئۇچۇرلار</a></li><li> &nbsp;<a href="thread.php?fid=197">|- ماشىنا ئۇچۇرلىرى</a></li><li> &nbsp;<a href="thread.php?fid=201">|- خىزمەت ئۇچۇرى</a></li><li> &nbsp;<a href="thread.php?fid=202">|- ئۆي ئۇچۇرلىرى</a></li><li> &nbsp;<a href="thread.php?fid=203">|- ئىقتىسادىي ئۇچۇرلار</a></li><li> &nbsp;<a href="thread.php?fid=204">|- پەن-تېخنىكا ئۇچۇرلىرى</a></li><li> &nbsp;<a href="thread.php?fid=205">|- ئۇنىۋېرسال ئۇچۇرلار</a></li><li> <a href="index.php?cateid=161">>> مائارپ</a></li><li> &nbsp;<a href="thread.php?fid=353">|- كەسپىي مائارىپ</a></li><li> &nbsp;<a href="thread.php?fid=352">|- مائارىپ تارىخى</a></li><li> &nbsp;<a href="thread.php?fid=166">|- مائارىپ تەشكىلاتلىرى</a></li><li> &nbsp;<a href="thread.php?fid=162">|- بالىلار باغچىلىرى</a></li><li> &nbsp;<a href="thread.php?fid=165">|- باشلانغۇچ مەكتەپلەر</a></li><li> &nbsp;<a href="thread.php?fid=163">|- ئوتتۇرا مەكتەپلەر</a></li><li> &nbsp;<a href="thread.php?fid=169">|- ئالىي مەكتەپلەر</a></li><li> &nbsp;<a href="thread.php?fid=168">|- گېزىتلەر</a></li><li> &nbsp;<a href="thread.php?fid=167">|- ژۇرناللار</a></li><li> <a href="index.php?cateid=214">>> خانىم - قىزلار      </a></li><li> &nbsp;<a href="thread.php?fid=215">|- قىزلار پسىخىكىسى</a></li><li> &nbsp;<a href="thread.php?fid=216">|- خانىم - قىزلار ساغلاملىقى</a></li><li> &nbsp;<a href="thread.php?fid=217">|- گۈزەللىك بىلىملىرى</a></li><li> &nbsp;<a href="thread.php?fid=218">|- ئەخلاق</a></li><li> <a href="index.php?cateid=221">>> ھەربىي ئىشلار</a></li><li> &nbsp;<a href="thread.php?fid=222">|- جەڭ پاراخوتلىرى</a></li><li> &nbsp;<a href="thread.php?fid=223">|- كۆرەشچى ئايروپىلانلار</a></li><li> &nbsp;<a href="thread.php?fid=224">|- جان ئالغۇ مىلتىقلار</a></li><li> &nbsp;<a href="thread.php?fid=225">|- سۇ ئاستى كېمىلەر</a></li><li> &nbsp;<a href="thread.php?fid=226">|- قۇرۇقلۇق ئارمىيىلىرى</a></li><li> <a href="index.php?cateid=66">>> قانۇن - نىزاملار</a></li><li> &nbsp;<a href="thread.php?fid=144">|- جىنايەت ۋە جازا</a></li><li> &nbsp;<a href="thread.php?fid=264">|- قانۇندىن مەسلىھەت</a></li><li> &nbsp;<a href="thread.php?fid=95">|- قانۇنلار</a></li><li> &nbsp;<a href="thread.php?fid=94">|- نىزاملار</a></li><li> <a href="index.php?cateid=191">>> ئۇنىۋېرسال</a></li><li> &nbsp;<a href="thread.php?fid=192">|- ئۇنىۋېرسال سەھىپە</a></li><li> <a href="index.php?cateid=234">>> ۋاكالەتچىللىرىمىز</a></li><li> <a href="index.php?cateid=233">>> كىتابخانا</a></li><li> &nbsp;<a href="thread.php?fid=307">|- مىللەتلەر (بېيجىڭ) نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=300">|- شىنجاڭ ياشلار - ئۆسمۈرلەر نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=306">|- قەشقەر ئۇيغۇر نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=302">|- شىنجاڭ ئېلېكترون، ئۈن - سىن نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=298">|- شىنجاڭ مائارىپ نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=303">|- شىنجاڭ پەن - تېخنىكا نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=299">|- شىنجاڭ خەلق نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=301">|- شىنجاڭ گۈزەل - سەنئەت نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=304">|- شىنجاڭ خەلق سەھىيە نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=305">|- شىنجاڭ ئۇنىۋېرسىتېتى نەشرىياتىنىڭ كىتابلىرى</a></li></ul></div></div>
+<!--ads begin-->
+
+<div class="t" style="margin:15px auto"><table width="100%" cellspacing="0" cellpadding="0" align="center">
+
+	<tr class="tr3">
+
+	<td width="25%" class="r_one black y-style"><a href="https://uyghur-archive.com/bilqut/bilqut_news/show.php?itemid=5" target="_blank">خەزىنىنى ئەلالاشتۇرۇش ئۇسۇلى</a></td>
+
+	<td width="25%" class="r_one black y-style"><a href="https://bbs.uyghur-archive.com/bilqut/read.php?tid=8015" target="_blank">خەزىنىنڭ9 - ئايلىق ئەلالاشتۇرۇلشى !</a></td>
+
+	<td width="25%" class="r_one black y-style"><a href="https://uyghur-archive.com/bilqut/bilqut_news/show.php?itemid=7" target="_blank"><<بىلقۇت خەزىنىسى>> ھەققىدە </a></td>
+
+	<td width="25%" class="r_one black y-style"><a href="https://uyghur-archive.com/bilqut/bbs/read.php?tid=2686" target="_blank">ۋاكالەتچى چاقىرىمىز</a></td>
+
+	</tr>
+
+</table></div>
+
+<!--ads end-->
+<div class="t3"><table width="100%" align="center" cellspacing="0" cellpadding="0">
+	<tr><td align="right"><div class="fl"></div></td><td align="right"><a href="post.php?action=reply&fid=95&tid=8714"><br><img src="images/wind/reply.png" /></a> <a href="post.php?fid=95"><img src="images/wind/post.png" id="td_post" /></a></td></tr>
+</table></div>
+<div id="menu_post" class="menu tac f14" style="display:none;"><ul style="width:99px;">
+
+	<li><a href="post.php?fid=95&special=4">سودا</a></li>
+
+	<li><a href="post.php?fid=95&special=1">راي</a></li></ul>
+</div>
+<form name="delatc" action="masingle.php?action=delatc" method="post">
+<input type="hidden" name="fid" value="95" />
+<input type="hidden" name="tid" value="8714" />
+<div class="t" style="margin-bottom:0px; border-bottom:0"><table cellspacing="0" cellpadding="0" width="100%">
+	<th class="h"> نۆۋەتتىكى تېما : </b> ئاكسىيە قانۇنى</th>
+      <td class="h" style="text-align:LEFT;"><span> <a class="fn" style="cursor:pointer;" onclick="sendmsg('pw_ajax.php?action=favor&amp;tid=8714','',this.id)" id="favor"><font color="#000000">
+		تېما ساقلىغۇچتا ساقلاش | </font></a><a href="job.php?action=previous&amp;fid=95&amp;tid=8714&amp;fpage=0&amp;goto=previous" class="fn"><font color="#000000">
+		ئالدىنقى تېما | </font></a> <a href="job.php?action=previous&amp;fid=95&amp;tid=8714&amp;fpage=0&amp;goto=next" class="fn"><font color="#000000">
+		كېيىنكى تېما</font></a></span> </td></a></span> </td>
+	</tr>
+	<tr><td></td></tr></table><table cellspacing="0" cellpadding="0" width="100%">
+	
+    <td background="timabg.gif" align="center"><tr><td>سىز بۇ تېمىنىڭ<span style="color:#FF3300;"> 
+		156</span>ـ كۆرۈرمىنى  </td></tr>	</td>
+	</tr></table>
+	<tr><td></td></tr>
+</table></div>
+
+<a name=a></a><a name=tpc></a>
+
+
+<div class="t t2" style="border-top:0">
+
+  <table cellspacing="0" cellpadding="0" width="100%" style="table-layout:fixed;border-top:0">
+	<tr class="tr1"><th   rowspan="2" class="r_one2" style="width:18%">
+
+      <div align="center" style="padding: 1px; filter: glow(color=green,strength=4); color: white; height: 16px">
+UyMuglaN</div>
+      <div class="user-pic">
+<table style="border:0">
+  <tr>
+    <td width="1" align="center">
+            
+          <img class="pic" src="attachment/upload/59.jpg" width="130" height="140" border="0" />
+          
+    
+    <td></td></td>
+    
+  </tr>
+</table>
+
+  <table  width="23%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center">
+		<img src="images/wind/read/online.gif" title="بۇ ئەزا ھازىر توردا بار" align="center"/>
+ </td>
+      </tr>
+  </table>
+</div>
+		<br><span id="sf_0"></span>
+		دەرىجىسى : <font color="#555555">باش ۋەزىر</font><br />
+		<img style="margin:.2em 0 .6em" src="images/wind/level/4.gif" /><br />
+
+<span class="user-info2" id="showface_0">
+<span class="user-infoWrap2">
+
+<a href="profile.php?action=show&uid=59"><img src="images/wind/read/profile.gif" title="ئاپتور ماتېرىيالىنى كۆرۈش" /></a> <img src="images/wind/read/message.gif" title="قىسقا ئۇچۇر يوللاش" onclick="sendmsg('pw_ajax.php?action=msg&touid=59','','sf_0')" style="cursor:pointer"  /><img onclick="addfriend('59')" style="cursor:pointer" src="images/wind/read/friends.gif" title="دوستقا قوشۇش" />
+
+<a href="https://wpa.qq.com/msgrd?V=1&Uin=396764294&Site=BilqutBBS&Menu=yes" title="QQ:396764294" target="_blank"><img src="images/wind/read/qq.gif" /></a>
+
+<br />
+		نادىر يازمىلار : 
+
+		<a href="search.php?authorid=59&digest=1" target="_blank" class="s4 f9">
+		52</a>
+<br />
+		يوللىغان تېما : <span class="s1 f9">4312</span><br />
+		شۆھرىتى: <span class="s2 f9">4410 نومۇر</span><br />
+		پۇلى: <span class="s3 f9">7713 RMB</span><br />
+
+		تۆھپە: <span class="s1 f9">50 نومۇر</span><br />
+
+		<span class="gray">تىزىملاتقان ۋاقتى : 2008-03-12<br />
+		ئاخىرقى كىرگىنى : 2008-10-23 </span>
+		</span></span>
+		</th>
+		<th style="background-color:#f2f8ff" height="100%" class="r_one" valign="top" id="td_tpc" style="padding:5px 15px 0 15px; border:0;width:80%; overflow:hidden">
+			<div class="tiptop">
+			<span class="fr"><a style="cursor:pointer" onclick="fontsize('small','tpc')">
+			كىچىك</a> <a style="cursor:pointer" onclick="fontsize('middle','tpc')">
+			نورمال</a> <a style="cursor:pointer" onclick="fontsize('big','tpc')">
+			چوڭ</a></span>
+			<a onclick="sendurl(event,'action=quote&fid=95&tid=8714&pid=tpc&article=0',this.id)" id="quote_tpc" style="cursor:pointer"><img src="images/wind/read/quote.gif" title="بۇ يازمىنى نەقىل ئېلىش" /></a> <a style="cursor:pointer" id="recommend_tpc" onclick="sendmsg('pw_ajax.php?action=recommend&tid=8714','',this.id)"><img src="images/wind/read/emailto.gif" title="بۇ يازمىنى تەۋسىيە قىلىش" /></a> <a id="modify_tpc" onclick="sendurl(event,'action=modify&fid=95&tid=8714&pid=tpc&article=0',this.id)" style="cursor:pointer"><img src="images/wind/read/edit.gif" /></a>
+
+			<a href="read.php?tid=8714&uid=59" title="پەقەت ئاپتورنىڭلا يازمىلىرى كۆرسىتىلسۇن"><img src="images/wind/read/only.png" /></a>
+
+			</div>
+			<h1 id="subject_tpc" class="fl1"><div style="padding: 1px; filter: glow(color=green,strength=4); color: white; height: 16px">
+				&nbsp;ئاكسىيە قانۇنى</div></h1>
+			
+			
+		<div id="tt_tpc" dir="ltr" align="left" style="border: #CCCCCC 1px solid; background-color:#fffbf2; font-family:Arial, Helvetica, sans-serif; font-style:normal">
+<table width="755"><tr><td width="48%"><font color="#0033CC" size="18">
+	<a href="javascript:uly('mm_tpc','tt_tpc')" ><font size="5" color="blue" >ULY Da Körüsh</font></a></font></td>
+	<td width="51%" align=right><font color="#0033CC" size="18">
+	<a href="javascript:usy('mm_tpc','tt_tpc')" ><font face="Arial, Helvetica, sans-serif"size="5" color="blue" >уйғурчә</font></a></font></td></tr></table>
+
+	</div><br>
+			
+
+<!-- 
+EOT; 
+if(0==0){print <<<EOT 
+--> 
+
+<!-- 
+EOT; 
+}print <<<EOT 
+-->
+
+
+			<div id="p_tpc" class="c"></div>
+
+			<div id="mag_tpc" class="tpc_content"><h6 class="quote"><span class="s3 f12 fn">
+				باشقۇرۇش ئەسكەرتمىسى : 
+
+			</span></h6><blockquote>بۇ يازمىغا Bilqut_L تەرىپىدىن نادىرلاندى (2008-09-19)</blockquote></div>
+
+
+<div style="background-color:#f2f8ff" class="tpc_content"  id="mm_tpc" >(1998- يىل 12- ئاينىڭ 29- كۈنى 9- نۆۋەتلىك مەملىكەتلىك خەلق قۇرۇلتىيى دائىمىي كومىتىېتىنىڭ 6- سانلىق يىغىنىدا ماقۇللانغان، 2004- يىل 8 - ئاينىڭ 28 - كۈنى 10-نۆۋەتلىك مەملىكەتلىك خەلق قۇرۇلتىي دائىمىي كومىتېتى 11- سانلىق يىغىنىنىڭ )«جۇڭخۇا خەلق جۇمھۇرىيىتىنىڭ ئاكسىيە قانۇنى » غا تۈزىتىش كىرگۈزۈش توغرىسىدىكى قارارى( غا ئاساسەن تۈزىتىلگەن)<br />1 - باب ئومۇمىي پرىنسىپ<br />1- ماددا بۇ قانۇن ئاكسىيە تارقىتىش ۋە ئاكسىيە سودا ھەرىكىتىنى قېلىپلاشتۇرۇش، مەبلەغ سالغۇچىلارنىڭ قانۇنىي ھوقۇق – مەنپەئىتىنى قوغداش، ئىجتىمائىي – ئىقتىسادىي تەرتىپنى ۋە جامائەت مەنپەئىتىنى ھىمايە قىلىش، سوتسىيالىستىك بازار تۈزۈلدى.<br />2- ماددا جۇڭگو زېمىنىدا، پاي چېكى، شىركەت زايومى ۋە گوۋۇيۈەن قانۇن بويىچە بېكىتكەن باشقا ئاكسىيىلەرنى تارقىتىش ۋە سودىغا سېلىشقا مۇشۇ قانۇن تەتبىقلىنىدۇ. <br />ھۆكۈمەت زايومىنى تارقىتىش ۋە سودىغا سېلىش قانۇن ۋە مەمۇرىي نىزامدا ئايرىم بەلگىلىنىدۇ.<br />3- ماددا ئاكسىيە تارقىتىش ۋە ئاكسىيە سودا پائالىيىتىدە ئاشكارا بولۇش، ئادىل بولۇش ۋە ھەققانىي بولۇش پرىنسىپى يولغا قويۇلۇشى شەرت.<br />4 - ماددا ئاكسىيە تارقىتىش ۋە ئاكسىيە سودا پائالىيىتىدىكى ئالاقىدار تەرەپلەر باراۋەر قانۇنىي ئورۇنغا ئىگە، ئۇلار ئىختىيار قىلىش، ھەقلىق بولۇش، سەمىمىي بولۇش- لەۋزىدە تۇرۇش پرىنسىپىغا ئىتائەت قىلىش كېرەك.<br />5- ماددا ئاكسىيە تارقىتىش ۋە ئاكسىيە سودا پائالىيىتىدە قانۇن، مەمۇرىي نىزاملارغا ئىتائەت قىلىش شەرت؛ ئالدامچىلىق قىلىدىغان، يوشۇرۇن سودىلىشىدىغان ۋە ئاكسىيە سودا بازىرىنى تىزگىنلىۋالىدىغان قىلمىشلار مەنئى قىلىنىدۇ.<br />6 - ماددا ئاكسىيە كەسپى بانكا كەسپى، ھاۋالە كەسپى، سۇغۇرتا كەسىپلىرىدىن ئايرىم تىجارەت ئېلىپ بارىدۇ. ئايرىم باشقۇرۇلىدۇ. ئاكسىيە شىركىتى بىلەن بانكا، ھاۋالە، سۇغۇرتا كەسپىي ئاپپاراتلىرى ئايرىم تەسىس قىلىنىدۇ.<br />7 - ماددا گوۋۇيۈەن ئاكسىيە نازارەت قىلىش -&nbsp; باشقۇرۇش ئاپپاراتى پۈتۈن مەملىكەتتىكى ئاكسىيە بازارلىرىنى قانۇن بويىچە مەركەزلەشتۈرۈپ بىرتۇتاش نازارەت قىلىدۇ ۋە باشقۇرىدۇ. <br />گوۋۇيۈەن ئاكسىيە نازارەت قىلىش -&nbsp; باشقۇرۇش ئاپاراتى ئېھتىياجغا قاراپ، ئۆزىگە بېرىلگەن ھوقۇققا ئاساسەن نازارەت قىلىش -&nbsp; باشقۇرۇش مەسئۇلىيىتىنى ئۆتەيدىغان خاس ئاپپارات تەسىس قىلسا بولىدۇ.<br />8 - ماددا دۆلەت ئاكسىيە تارقىتىش ۋە ئاكسىيە سودا پائالىيىتىنى مەركەز لەشتۈرۈپ بىر تۇتاش نازارەت قىلىش – باشقۇرۇش شەرتى ئاستىدا، قانۇن بويىچە ئاكسىيە سودا كەسپى جەمئىيىتى تەسىس قىلىپ، تەلەپچانلىق بىلەن باشقۇرىدۇ.<br />9 - ماددا دۆلەت ئىقتىسادىي تەپتىش ئورگىنى ئاكسىيە بىرژىسى، ئاكسىيە شىركىتى، ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتى، ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى ئۈستىدە قانۇن بويىچە ئىقتىسادىي تەپتىش نازارەتچىلىكى ئېلىپ بارىدۇ.<br />10- ماددا ئاشكارا تارقىتىدىغان ئاكسىيە قانۇن ۋە مەمۇرىي نىزاملاردا بەلگىلەنگەن شەرتكە ئۇيغۇن بولۇشى ھەمدە قانۇن بويىچە گوۋۇيۈەننىڭ ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىنىڭ ياكى گوۋۇيۈەن ھوقۇق بەرگەن تارماقنىڭ تەكشۈرۈپ تەستىقلىشىدىن ئۆتكۈزۇلۈشى كېرەك؛ ھەرقانداق ئورۇن ۋە شەخىسنىڭ قانۇن بويىچە تەكشۈرۈپ تەستىقلاشتىن ئۆتكۈزمەي تۇرۇپ، جەمىئىيەتكە ئاشكارا ئاكسىيە تارقىتىشىغان يول قويۇلمايدۇ.<br />شىركەت زايومىنى تارقىتىشتا شىركەت قانۇنىدا بەلگىلەنگەن شەرتكە ئاساسەن، گوۋۇيۈەن ھوقۇق بەرگەن تارماقنىڭ تەكشۈرۈپ تەستىقلىشىدىن ئۆتكۈزۈش شەرت. تارقاتقۇچى گوۋۇيۈەن ھوقۇق بەرگەن تارماققا شىركەت قانۇنىدا بەلگىلەنگەن ئىلتىماس ھۆججەتلەرنى ۋە گوۋۇيۈەن ھوقۇق بەرگەن تارماق بەلگىلەنگەن ئالاقىدار ھۆججەتلەرنى تاپشۇرۇشى شەرت.<br />2 - باب ئاكسىيە تارقىتىش<br />11-ماددا پاي چېكىنى ئاشكارا تارقىتىشتا شىركەت قانۇنىدا بەلگىلەنگەن شەرتكە ئاساسەن، گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىنىڭ تەكشۈرۈپ تەستىقلىشىدىن ئۆتكۈزۈش شەرت. تارقاتقۇچى گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىغا شىركەت قانۇنىدا بەلگىلەنگەن ئىلتىماس ھۆججەتلىرىنى ۋە گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى بەلگىلىگەن ئالاقىدار ھۆججەتلەرنى تاپشۇرۇش شەرت. <br />شىركەت زايومىنى تارقىتىشتا شىركەت قانۇنىدا بەلگىلەنگەن شەرتكە ئاساسەن، گوۋۇيۈەن ھوقۇق بەرگەن تارماقنىڭ تەكشۈرۈپ تەستىقلىشىدىن ئۆتكۈزۈش شەرت. تارقاتقۇچى گوۋۇيۈەن ھوقۇق بەرگەن تارماققا شىركەت قانۇنىدا بەلگىلەنگەن ئىلتىماس ھۆججەتلەرنى ۋە گوۋۇيۈەن ھوقۇق بەرگەن تارماق بەلگىلەنگەن ئالاقىدار ھۆججەتلەرنى تاپشۇرۇشى شەرت.<br />12 – ماددا تارقاتقۇچى ئاكسىيىنى ئاشكارا تارقىتىشنى قانۇن بويىچە ئىلتىماس قىلىشتا تاپشۇردىغان ئىلتىماسقا دائىر ھۆججەتلەرنىڭ شەكلىنى، يوللاش ئۇسۇلىنى تەكشۈرۈپ تەستىقلاشقا قانۇن بويىچە مەسئول بولغان ئاپپارات ياكى تارماق بەلگىلەيدۇ.<br />13 – ماددا تارقاتقۇچى گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىغا ياكى گوۋۇيۈەن ھوقۇق بەرگەن تارماققا تاپشۇرىدىغان ئاكسىيە تارقىتىشنى ئىلتىماس قىلىشقا دائىر ھۆججەت راست، توغرا، مۇكەممەل بولۇشى شەرت. <br />ئاكسىيە تارقىتىشقا ئالاقىدار ھۆججەت بېرىدىغان كەسپىي ئاپپارات ۋە خادىملار قانۇندا بەلگىلەنگەن مەسئۇليىتىنى ئەستايىدىل ئادىل قىلىپ، بېرىدىغان ھۆججەتلىرىنىڭ راست، توغرا، مۇكەممەل بولىشىغا كاپالەتلىك قىلىش شەرت.<br />14 - ماددا گوۋۇيۈەن ئاكسىيە نازارەت قىلىش - باشقۇرۇش ئاپپاراتىدا پاي چېكى تارقىتىش ئىلتىماسىنى قانۇن بويىچە تەكشۈرىدىغان تارقىتىشنى تەكشۈرۈش كومىتېتى تەسىس قىلىنىدۇ. <br />تارقىتىشنى تەكشۈرۈش كومىتېتى گوۋۇيۈەن ئاكسىيە نازارەت قىلىش - باشقۇرۇش ئاپپاراتىدىكى كەسپىي خادىملاردىن ۋە بۇ ئاپپارات سىرتىدىكىلەردىن تەكلىپ قىلىنغان ئالاقىدار مۇتەخەسسىسلەردىن تەركىب تاپىدۇ، ئۇلار بېلەت تاشلاش شەكلى ئارقىلىق، پاي چېكى تارقىتىش ئىلتىماسىغا ئاۋاز بېرىپ، تەكشۈرۈش پىكرىنى ئوتتۇرغا قويىدۇ. <br />تارقىتىشنى تەكشۈرۈش كومىتېتىنى كونكرېت تەشكىللەش چارىسىنى، ئۇنىڭ تەركىبىدىكىلەرنىڭ ۋەزىپە ئۆتەش مۇددىتىنى، خىزمەت تەرتىپىنى گوۋۇيۈەن ئاكسىيە نازارەت قىلىش - باشقۇرۇش ئاپپاراتى تۈزۈپ چىقىپ، گوۋۇيۈەن تەستىقلىتىدۇ<br />15 – ماددا گوۋۇيۈەن ئاكسىيە نازارەت قىلىش– باشقۇرۇش ئاپپاراتى پاي چېكى تارقىتىش ئىلتىماسىنى قانۇندا بەلگىلەنگەن شەرتكە بىنائەن تەكشۈرۈپ تەستىقلاشقا مەسئۇل بولىدۇ. تەكشۈرۈپ تەستىقلاش رەسمىيىتى ئاشكارا بولۇش، نازارەتنى قانۇن بويىچە قوبۇل قىلىش كېرەك. <br />پاي چېكى تارقىتىش ئىلتىماسىنى تەكشۈرۈپ تەستىقلاشقا قاتنىشىدىغان خادىملارنىڭ تارقىتىشنى ئىلتىماس قىلغۇچى ئورۇن بىلەن مەنپەئەت مۇناسىۋىتى بولۇشىغا، ئۇلارنىڭ تارقىتىشىنى ئىلتىماس قىلغۇچى ئورۇننىڭ سوۋغىتىنى قوبۇل قىلشىغا، تارقىتىش ئىلتىماس تەكشۈرۈپ تەستىقلانغان پاي چېكىنى ئىلكىدە تۇتىشىغا، تارقىتىشنى ئىلتىماس قىلغۇچى ئورۇن بىلەن خۇپىيانە ئۇچرىشىشىغا يول قويۇلمايدۇ. <br />گوۋۇيۈەن ھوقۇق بەرگەن تارماق شىركەت زايومىنى تارقىتىش ئىلتىماسىنى تەكشۈرۈپ تەستىقلاشتا، ئالدىنقى ئىككى تارماقتىكى بەلگىلىمىدىن پايدىلىنىدۇ.<br />16 – ماددا گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى ياكى گوۋۇيۈەن ھوقۇق بەرگەن تارماق ئاكسىيە تارقىتىشنى ئىلتىماس قىلىش ھۆججىتىنى قۇبۇل قىلغان كۈندىن باشلاپ ئۈچ ئاي ئىچىدە قارار چىقىرىشى؛ تەكشۈرۈپ تەستىقلانمىغانلىرى ھەققىدە ئىزاھات بېرىشى كېرەك.<br />17 – ئاكسىيە تارقىتىش ئىلتىماسى تەكشۈرۈپ تەستىقلىغاندىن كېيىن، تارقارقۇچى قانۇن – مەمۇرىي نىزاملاردىكى بەلگىلىمە بويىچە، ئاكسىيىنى ئاشكارا تارقىتىشتىن ئاۋۋال، ئاشكارا تارقىتىشقا مەبلەغ توپلاش ھۆججىتىنى ئېلان قىلىشى ھەمدە ئۇ ھۆججەتنى ئاممىنىڭ كۆرۈشى ئۈچۈن بەلگىلەنگەن ئورۇنغا تەييارلاپ قويۇشى كېرەك. <br />ئاكسىيە تارقىتىش ئۇچۇرىنى قانۇن بويىچە ئاشكارىلاشتىن بۇرۇن، ئۇ ئۇچۇرنى ئەھۋالدىن خەۋەردار ھەرقانداق ئادەمنىڭ ئاشكارلىشىغا ياكى بىلىندۈرۈپ قويۇشىغا يول قويۇلمايدۇ. تارقاتقۇچىنىڭ ئاشكارا تارقىتىشىغا مەبلەغ توپلاش ھۆججىتىنى ئېلان قىلىشتىن ئاۋۋال ئاكسىيە تارقىتىشقا يول قويۇلمايدۇ.<br />18 – ماددا گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى ياكى گوۋۇيۈەن ھوقۇق بەرگەن تارماق ئاكسىيە تارقىتىشنى تەكشۈرۈپ تەستىقلاشقا دائىر چىقارغان قارارنىڭ قانۇن، مەمۇرىي نىزامدىكى بەلگىلىمىگە ئۇيغۇن بولمىغانلىقىنى سەزسە، ئۇنى ئەمەلدىن قالدۇرۇش كېرەك؛ ئاكسىيە تېخى تارقىتىلمىغان بولسا، توختىتىلىدۇ؛ تارقىتىلىپ بولغان بولسا، ئاكسىيە ئىگىسى تارقىتىش باھاسىغا بانكىنىڭ ئوخشاش مەزگىلدىكى ئامانەت پۇل ئۆسۈمىنى قوشۇپ ھېسابلاپ، تارقاتقۇچىدىن قايتۇرۇپ بېرىشنى تەلەپ قىلسا بولىدۇ.<br />19 – ماددا پاي چېكى قانۇن بويىچە تارقىتىلغاندىن كېيىن، تارقاتقۇچىنىڭ تىجارەت قىلىش ۋە پايدا ئېلىش ئۆزگىرىشىگە تارقاتقۇچى ئۆزى مەسئۇل بولىدۇ؛ شۇ ئۆزگىرىشتىن كېلىپ چىقىدىغان مەبلەغ سېلىش خەۋپ – خەتىرىگە مەبلەغ سالغۇچى ئۆزى مەسئۇل بولىدۇ.<br />20 – ماددا پاي چېكى بازارغا سېلىنىدىغان شىركەتنىڭ يېڭى پاي چېكى تارقىتىشى شىركەت قانۇنىدىكى يېڭى پاي چېكى تارقىتىش شەرتىگە ئۇيغۇن بولۇشى كېرەك، بۇنىڭدا جەمىئىيەتتىن ئاشكارا مەبلەغ يىغسىمۇ، ئەسلىدىكى پايچىككە نورمىلىق سېتىپ بەرسىمۇ بولىدۇ. <br />پاي چېكى بازارغا سېلىنىدىغان شىركەت پاي چېكى تارقىتىپ يىغقان مەبلەغنى پاي چېكىگە خېرىدار چاقىرىش چۈشەندۈرمىسىدە كۆرسىتىلگەن مەبلەغ ئىشلىتىش ئورنى بويىچە ئىشلىتىشى كېرەك. پاي چېكىگە خېرىدار چاقىرىش چۈشەندۈرمىسىدە كۆرسىتىلگەن مەبلەغ ئىشلىتىش ئورنىنى ئۆزگەرتىش پايچېكلار يىغىنىنىڭ تەستىقىدىن ئۆتكۈزۈلۈشى شەرت. ئىشلىتىش ئورنىنى ئۆزبېشىمچىلىق بىلەن ئۆزگەرتىۋېلىپ تۈزەتمىگەنلەر ياكى پايچىكلار يىغىنىنىڭ ئېتىراپ قىلىشىدىن ئۆتكۈزمىگەنلەرنىڭ يېڭى پاي چېكى تارقىتىشىغا يول قويۇلمايدۇ.<br />21 – ماددا ئاكسىيە شىركىتى تارقاتقۇچى جەمىئىيەتكە ئاشكارا تارقىتىدىغان ئاكسىيىىنى قانۇن، مەمۇرىي نىزاملاردىكى بەلگىلىمىلەر بويىچە سېتىپ بېرىشى كېرەك. ئاكسىيە سېتىپ بېرىش كەسپىدە ۋاكالىتەن سېتىپ ياكى ھۆددىگە ئېلىپ سېتىپ بېرىش ئۇسۇلى قوللىنىلىدۇ. <br />ئاكسىيىنى ۋاكالىتەن سېتىپ بېرىش – ئاكسىيە شىركىرتى ئاكسىيىنى تارقاتقۇچىغا ۋاكالىتەن سېتىپ بېرىدىغان، سېتىپ بېرىش مۇددىتى توشقاندا، سېتىپ بولمىغان ئاكسىتىنى تارقاتقۇچىغا تولۇق قايتۇرۇپ بېرىدىغان سېتىش ئۇسۇلىنى كۆرسىتىدۇ. <br />ئاكسىيىنى ھۆددىگە ئېلىپ سېتىپ بېرىش – ئاكسىيە شىركىتى تارقاتقۇچىنىڭ ھەممە ئاكسىيىسىنى كېلىشىم بويىچە سېتىۋالىدىغان ياكى سېتىپ بېرىش مۇددىتى توشقاندا، سېتىپ بولالماي ئېشىپ قالغان ئاكسىيىنىڭ ھەممىسىنى ئۆزى سېتىۋالىدىغان&nbsp; سېتىپ بېرىش ئۇسۇلىنى كۆرسىتىدۇ.<br />22 – ماددا ئاكسىيىنى ئاشكارا تارقىتىدىغان تارقاتقۇچى ئاكسىيە سېتىپ بېرىدىغان شىركەتلەرنى قانۇن بويىچە ئۆزئالدىغا تاللاشقا ھوقۇقلۇق. ئاكسىيە شىركىتىنىڭ ئاكسىيە سېتىپ بېرىش كەسپىدە ناتوغرا رىقابەت ۋاستىسى ئارقىلىق خېرىدار چاقىرىشىغا يول قويۇلمايدۇ.<br />23 – ماددا ئاكسىيە شىركىتى ئاكسىيە سېتىپ بېرىشتە، تارقاتقۇچى بىلەن ۋاكالىتەن سېتىپ بېرىش ياكى ھۆددىگە ئېلىپ سېتىپ بېرىش كېلىشىمى تۈزۈشى، كېلىشىمگە تۆۋەندىكى ئىشلار ئېنىق يېزىلىشى كېرەك: <br />(1) – ئالاقىدار تەرەپنىڭ نامى، تۇرۇشلۇق ئورنى ۋە قانۇنىي ۋەكىلىنىڭ ئىسىم – فامىلىسى؛ (2) – ۋاكالىتەن سېتىپ بېرىلىدىغان، ھۆددىگە ئېلىپ سېتىپ بېرىلىدىغان ئاكسىيىنىڭ تۈرى، سانى، سوممىسى ۋە تارقىتىش باھاسى؛ <br />(3) – ۋاكالىتەن سېتىپ بېرىش، ھۆددىگە ئېلىپ سېتىپ بېرىش مۇددىتى، شۇ مۇددەتنىڭ باشلانغان – ئاخىرلاشقان ۋاقتى؛ <br />(4) – ۋاكالىتەن سېتىپ بېرىش، ھۆددىگە ئېلىپ سېتىپ بېرىشتىكى پۇل تاپشۇرۇش ئۇسۇلى ۋە ئۇنىڭ ۋاقتى؛ <br />(5) – ۋاكالىتەن سېتىپ بېرىش، ھۆددىگە ئېلىپ سېتىپ بېرىش خىراجىتى ۋە ئۇنى راسچوت قىلىش ئۇسۇلى؛ <br />(6) – كېلىشىمگە خىلاپلىق قىلىش جاۋابكارلىقى؛ <br />(7) – گوۋۇيۈەن ئاكىسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى بەلگىلىگەن باشقا ئىشلار.<br />25 – ماددا جەمىئىيەتكە ئاشكارا تارقىتىلىدىغان ئاكسىيىنىڭ چەككە يېزىلغان ئومۇمىي قىممىتى خەلق پۇلى ھېسابىدا 50 مىليون يۈزدىن ئېشىپ كەتسە، ئۇنى سېتىپ بەرگۈچى ئۆمەك سېتىپ بېرىشى كېرەك. سېتىپ بەرگۈچى ئۆمەك ئاساسلىق سېتىپ بېرىلىدىغان ۋە سېتىپ بېرىشكە قاتنىشىدىغان ئاكسىيە شىركەتلەردىن تەركىب تېپىشى لازىم.<br />26 – ماددا ئاكسىيىنى ۋاكالىتەن سېتىپ بېرىش، ھۆددىگە ئېلىپ سېتىش مۇددىتىنى ئەڭ ئۇزۇن بولغاندا 90 كۈندىن ئاشۇرۋېتىشكە بولمايدۇ. <br />ئاكسىيە شىركىتى ئاكسىيىنى ۋاكالىتەن سېتىپ بېرىش، ھۆددىگە ئېلىپ سېتىپ بېرىش مۇددىتى ئىچىدە، ۋاكالىتەن سېتىپ بېرىلىدىغان، ھۆددىگە ئېلىپ سېتىپ بېرىدىغان ئاكسىيىنى ئالدى بىلەن سېتىۋالغۇچىلارغا سېتىپ بېرىشكە كاپالەتلىك قىلىشى كېرەك، ئاكسىيە شىركىتىنىڭ ۋاكالىتەن سېتىپ بېرىدىغان ئاكسىيىنى ئاۋۋال ئۆز شىركىتىگە قالدۇرۇپ قويۇشىغا ۋە ھۆددىگە ئېلىپ سېتىپ بېرىدىغان ئاكسىيىنى ئالدىن ئۆز شىركىتى ئۈچۈن سېتىۋېلىشىغا ھەمدە ئىلىپ ساقلاپ قويۇشىغا يول قويۇلمايدۇ.<br />27 – ماددا ئاكسىيىنى ھۆددىگە ئېلىپ سېتىپ بېرىدىغا ئاكسىيە شىركىتى ھۆددىگە ئېلىپ سېتىپ بېرىش مۇددىتى توشقاندىن كېيىن 15 كۈن ئىچىدە، ھۆددىگە ئېلىپ سېتىپ بېرىش ئەھۋالىنى گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىغا ئەنگە ئالدۇرشى كېرەك. <br />ئاكسيىنى ۋاكالىتەن سېتىپ بېرىدىغان ئاكسىيە شىركىتى ۋاكالىتەن سېتىپ بېرىش مۇددىتى توشقاندىن كېيىن 15 كۈن ئىچىدە، ۋاكالىتەن سېتىپ بېرىش ئەھۋالىنى تارقاتقۇچى بىلەن بىرلىكتە گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىغا ئەنگە ئالدۇرۇشى كېرەك.<br />28 – ماددا پاي چېكى تارقىتىشتا ئۆرلىگەن باھادا تارقاتماقچى بولغانلار ئۇنىڭ تارقىتىش باھاسىنى تارقاتقۇچى بىلەن سېتىپ بەرگۈچى ئاكسىيە شىركىتى كېلىشىپ بېكىتىدۇ.<br />29 – ماددا چېگرا ئىچىدىكى كارخانىلاردىن چېگرا سىرتىغا بىۋاسىتە ياكى ۋاستىلىك ھالدا ئاكسىيە تارقاتماقچى بولغانلار ياكى ئۆز ئاكسىيىسىنى چېگرا سىرتىدىكى بازارغا سالماقچى بولغانلار گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىنىڭ تەستىقىدىن ئۆتكۈزۈشى شەرت.<br />3 – باب ئاكسىيە سودىسى<br />1 – پاراگراف ئوممىي بەلگىلىمە<br />30 – ماددا ئاكسىيە سودىسىدىكى ئالاقىدار تەرەپ قانۇن بويىچە ئېلىپ ساتقان ئاكسىيە قانۇن بويىچە تارقاتقان ۋە تاپشۇرغان ئاكسىيە بولۇشى شەرت. <br />قانۇنسىز تارقىتىلغان ئاكسىيىنى ئېلىپ سېتىشقا يول قويۇلمايدۇ.<br />31 – ماددا قانۇن بويىچە تارقىتىلدىغان پاي چېكى، شىركەت زايومى ۋە باشقا ئاكسىيىلەرنىڭ ئۆتۈنۈپ بېرىش مۇددىتى توغرىسىدا قانۇندا چەكلەش خاراكتىرلىك بەلگىلىمەچىقىرىلغان بولسا، ئۇلارنى شۇ چەك قويۇلغان مۇددەت ئىچىدە ئېلىپ سېتىشقا يول قويۇلمايدۇ.<br />32 – ماددا قانۇن بويىچە تەكشۈرۈپ تەستىقلىنىپ بازارغا سېلىنغان پاي چېكى، شىركەت زايومى ۋە باشقا ئاكسىيىلەر ئاكسىيە بىرژىسىدا ۋىۋىسكا ئېسىپ سودىغا سېلىنىشى كېرەك. 33 – ماددا ئاكسىيە بىرژىسىدا ۋىۋىسكا ئېلىپ ئاكسىيە سودىسى قىلغاندا، ئاشكارا كۆجۈم رىقابەت باھا سودىسى ئۇسۇلىنى قوللىنىش كېرەك. <br />ئاكسىيە سودىسىدىكى كۆجۈم رىقابەت باھاسىدا باھانى، ۋاقىتنى بىرىنچى ئورۇنغا قويۇش پىرىنسىپى يولغا قويۇلىدۇ.<br />34 – ماددا ئاكسىيە سودىسىدىكى ئالاقىدار تەرەپ ئېلىپ ساتىدىغان ئاكسىيىدە قەغەز يۈزى شەكلى ياكى گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى بەلگىلىگەن باشقا شەكىللەر قوللىنىلسا بولىدۇ.<br />35 – ماددا ئاكسىيە سودىسى نەق مال ئارقىلىق ئېلىپ بېرىلىدۇ. <br />36 – ماددا ئاكسىيە شىركىتىنىڭ مۇئامىلىدارلارغا مەبلەغ يۈرۈشتۈرۈدىغان ياكى ئاكسىيە يۈرۈشتۈرۈدىغان ئاكسىيە سودا پائالىيىتى بىلەن شۇغۇللىنىشىغا يول قويۇلمايدۇ.<br />37 – ماددا ئاكسىيە بىرژىسى، ئاكسىيە شىركىتى، ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتىدىكى كەسىپتارلار، ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىدىكى خادىملار ۋە قانۇن، مەمۇرىي نىزاملاردا پاي چېكى سودىسىغا قاتنىشىشى مەنئى قىلىنغان باشقا خادىملارنىڭ ۋاكالەت مۇددىتى ئىچىدە ياكى قانۇندا بەلگىلەنگەن چەكلىك مۇددەت ئىچىدە، بىۋاسىتە ياكى ئۆزگەرتكەن نامى، باشقىلارنىڭ نامى بىلەن پاي چېكىنى ئىلكىدە تۇتۇشىغا، ئېلىپ سېتىشىغا يول قويۇلمايدۇ، شۇنداقلا باشقىلار ھەدىيە قىلغان پاي چېكىنى قۇبۇل قىلىشىغىمۇ يول قويۇلمايدۇ. <br />ھەرقانداق كىشى ئالدىنقى تارماقتا كۆرسىتىلگەن خادىم بولغاندا، ئەسلىدە ئۆز ئىلكىدە بولغان پاي چېكىنى قانۇن بويىچە ئۆتۈنۈپ بېرىشى شەرت.<br />38 – ماددا ئاكسىيە بىرژىسى، ئاكسىيە شىركىتى، ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتى مۇئامىلىدارلارغا ئېچىلغان ھېسابنىڭ مەخپىيەتلىكىنى قانۇن بويىچە ساقلىشى شەرت.<br />39 – ماددا پاي چېكى تارقىتىش ئۈچۈن ئىقتىسادىي تەپتىش دوكلاتى، مۈلۈك باھالاش دوكلاتى ياكى قۇنۇن پىكىرنامىسى قاتارلىق ھۆججەتلەرنى يېزىپ بەرگەن كەسپىي ئاپپارات ۋە خادىملارنىڭ شۇ پاي چېكىنى سېتىپ بېرىش مۇددىتى ئىچىدە ۋە مۇددەت توشۇپ ئالتە ئاي ئىچىدە، شۇ خىلدىكى پاي چېكىنى ئېلىپ سېتىشىغا يول قويۇلمايدۇ. <br />ئالدىنقى تارماقتىكى بەلگىلىمىدىن باشقا، پاي چېكى بازارغا سېلىنىدىغان شىركەت ئۈچۈن ئىقتىسادىي تەپتىش دوكلاتى، مۈلۈك باھالاش دۇكلاتى ياكى قانۇن پىكىرنامىسى قاتارلىق ھۆججەتلەرنى يېزىپ بەرگەن كەسپى ئاپپارات ۋە خادىملارنىڭ پاي چېكى بازارغا سېلىنىدىغان شىركەتنىڭ ھاۋالىسىنى قوبۇل قىلغان كۈندىن باشلاپ يۇقىرىدا ئېيتىلغان ھۆججەتلەر ئاشكارىلانغاندىن كېيىنكى بەش كۈن ئىچىدە، شۇ خىلدىكى پاي چېكىنى ئېلىپ سېتىشىغا يول قويۇلمايدۇ.<br />40 – ماددا ئاكسىيە سودىسىدا ھەق ئېلىش مۇۋاپىق بولۇشى ھەمدە ھەق ئېلىنىدىغان تۈرلەر، ھەق ئېلىش ئۆلچىمى ۋە ھەق ئېلىش چارىسى ئوچۇق – ئاشكارا بولۇشى شەرت. <br />ئاكسىيە سودىسىدىكى ھەق ئېلىش تۈرلىرى، ھەق ئېلىش ئۆلچىمى ۋە باشقۇرۇش چارىسىنى گوۋۇيۈەننىڭ ئالاقىدار باشقۇرغۇچى تارمىقى بىر تۇتاش بەلگىلەيدۇ.<br />41 – ماددا بىر چەكلىك پاي شىركىتى تارقاتقان پاينىڭ 5 نى ئىلكىدە تۇتقان پايچىك ئىلكىدىكى پاي سوممىسىنىڭ سانى شۇ نىسبەتكە يەتكەن كۈندىن باشلاپ ئۈچ كۈن ئىچىدە شۇ شىركەتكە مەلۇم قىلىشى كېرەك، شىركەت دۇكىلاتنى تاپشۇرۇۋالغان كۈندىن باشلاپ ئۈچ كۈن ئىچىدە گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىغا دوكلات قىلىشى شەرت؛ چەك پاي چېكى بازارغا سېلىنىدىغان شىركەتنىڭ بولسا، شۇنىڭ بىلەن بىر ۋاقىتتا ئاكسىيە بىرژىسىغا دوكلات قىلىنىشى كېرە%ك.<br />42 – ماددا ئالدىنقى ماددىدا بەلگىلەنگەن پايچىك ئىلكىدىكى شۇ شىركەتنىڭ پاي چېكىنى سېتىۋالغاندىن كېيىنكى ئالتە ئاي ئىچىدە سېتىۋەتسە ياكى سېتىۋەتكەندىن كېيىنكى ئالتە ئاي ئىچىدە يەنە سېتىۋالسا، بۇنىڭدىن تاپقان پايدا شۇ شىركەينىڭ ئىگىدارلىقىدا بولىدۇ، شىركەت مۇدىرىيىتى شۇ پايچىكنىڭ ئالغان پايدىسىنى قايتۇرۇۋېلىشى لازىم. لېكىن، ئاكسىيە شىركىتى سېتىشنى ھۆددىگە ئېلىپ ساتقاندىن كېيىن ئېشىپ قالغان پاي چېكىنى سېتىۋالغانلىقى سەۋەبلىك 5 تىن يۇقىرى پاينى ئىلكىدە تۇتقان بولسا، شۇ پاي چېكىنى سېتىشتا ئالتە ئاي دېيىلگەن ۋاقىت چەكلىمىسىگە ئۇچرىمايدۇ. شىركەت مۇدىرىيىتى ئالدىنقى تارماقتىكى بەلگىلىمىنى ئىجراقىلمىغان بولسا، باشقا پايچىكلار مۇدىرىيەتنىڭ ئىجرا قىلىشىنى تەلەپ قىلىشقا ھوقۇقلۇق. شىركەت مۇدىرىيىتى 1 – تارماقتىكى بەلگىلىمە بويىچە ئىجرا قىلماي، شىركەتنى زىيانغا ئۇچراتقان بولسا، جاۋاپكار مۇدىر چاتما تۆلەم جاۋابكارلىقنى قانۇن بويىچە ئۈستىگە ئالىد%ۇ.<br />2 – پاراگراف ئاكسىيىنى بازارغا سېلىش<br />43 – ماددا چەكلىك پاي شىركىتى ئۆز پاي چېكىنى بازارغا سېلىشنى ئىلتىماس قىلىشتا، گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىنىڭ تەكشۈرۈپ تەستىقلىشىدىن ئۆتكۈرۈش شەرت. <br />گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى ئاكسىيە بىرژىسىغا پاي چېكىنى بازارغا سېلىش ئىلتىماسىنى قانۇندا بەلگىلەنگەن شەرت ۋە قانۇندا بەلگىلەنگەن تەرتىپ بويىچە تەكشۈرۈپ تەستىقلاش ھوقۇقى بەرسە بولىدۇ.<br />44 – ماددا دۆلەت كەسىپ سىياسىتىگە ئۇيغۇن كېلىدىغان، شۇنىڭ بىلەن بىر ۋاقىتتا، يەنە بازارغا سېلىش شەرتىگىمۇ ئۇيغۇن كېلىدىغان شىركەت پاي چېكىنى سودىغا سېلىشقا ئىلھام بېرىدۇ.<br />45 – ماددا گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىغا پاي چېكىنى بازارغا سېلىش توغرىسىدا ئىلتىماس قىلغاندا، تۆۋەندىكى ھۆججەتلەرنىمۇ بىرگە تاپشۇرۇش كېرەك: (1) پاي چېكىنى بازارغا سېلىش دوكىلاتى؛ <br />(2) پاي چېكىنى بازارغا سېلىشنى ئىلتىماس قىلىش توغرىسىدىكى پايچېكلار يىغىنىنىڭ قارارى؛ <br />(3) شىركەت نىزامنامىسى؛ <br />(4) شىركەتنىڭ تىجارەت كىنىشكىسى؛ <br />(5) شىركەتنىڭ قانۇندا بەلگىلەنگەن تەكشۈرۈپ ئىسپاتلاش ئاپپاراتى تەكشۈرۈپ ئىسپاتلىغان يېقىنقى ئۈچ يىللىق مالىيە بۇغالتىرلىق دوكلاتى ياكى شىركەت قۇرۇلغاندىن بۇيانقى مالىيە بۇغالتىرلىق دوكلاتى؛ <br />(6) قانۇن پىكىرنامىسى ۋە ئاكسىيە شىركىتىنىڭ تونۇشتۇرمىسى؛ <br />(7) يېقىنقى بىر قېتىملىق پاي چېكىگە خېرىدار چاقىرىش چۈشندۈرمىسى.<br />46 – ماددا پاي چېكىنى سودىغا سېلىش ئىلتىماسىنى گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى تەكشۈرۈپ تەستىقلىغاندىن كېيىن، ئۇنى تارقاتقۇچى ئاكسىيە بىرژىسىغا تەكشۈرۈپ تەستىقلانغان ھۆججەتنى ۋە ئالدىنقى ماددىدا بەلگىلەنگەن ئالاقىدار ھۆججەتلەرنى تاپشۇرۇشى كېرەك. <br />ئاكسىيە بىرژىسى مەزكۇر پاي چېكىنى تارقاتقۇچى تاپشۇرغان ئالدىنقى تارماقتا بەلگىلەنگەن ھۆججەتنى تاپشۇرۇۋالغان كۈندىن باشلاپ ئالتە ئاي ئىچىدە، شۇ پاي چېكىنى سودىغا سېلىشىنى ئورۇنلاشتۇرۇشى كېرەك.<br />47 – ماددا پايچېكىنى سودىغا سېلىش ئىلتىماسىغا ئاكسىيە بىرژىسى قوشۇلغاندىن كېيىن، پاي چېكى بازارغا سېلىندىغان شىركەت شۇ پاي چېكىنى سودىغا سېلىشتىن بەش كۈن ئىلگىرى تەكشۈرۈپ تەستىقلانغان پاي چېكىنى بازارغا سېلىشقا دائىر ھۆججەتلەرنى ئېلان قىلىشى ھەمدە شۇ ھۆججەتلەرنى ئاممىنىڭ كۆرۈشى ئۈچۈن بەلگىلەنگەن يەرگە تەييارلاپ قويۇشى كېرەك.<br />48 – ماددا پاي چېكى بازارغا سېلىنغان شىركەت ئالدىنقى ماددىدا بەلگىلەنگەن پاي چېكىنى بازارغا سېلىش ئىلتىماسىغا دائىر ھۆججەتلەرنى ئېلان قىلىشتىن باشقا، يەنە تۆۋەندىكى ئىشلارنىمۇ ئېلان قىلىشى كېرەك: <br />(1) پاي چېكى ئاكسىيە بىرژىسىدا سودىغا سېلىنىشقا تەستىقلانغان ۋاقىت؛ <br />(2) شىركەت پاي چېكىنى ئەڭ كۆپ ئىكىلىگەن ئالدىنقى ئون پايچىكىنىڭ ئىسىملىكى ۋە ئۇلار ئىگىلىگەن پايچېكىنىڭ سانى؛ <br />(3) مۇدىر، نازارەتچى، دىرېكتور ۋە ئالاقىدار ئالىي باشقۇرغۇچىلارنىڭ ئىسىم – فامىلىسى ۋە ئۇلارنىڭ ئۆ شىركىتىنىڭ پاي چېكى ۋە زايومىنى ئىگىلەش ئەھۋالى.<br />49 – ماددا پاي چېكى بازارغا سېلىنىدىغان شىركەت شىركەت قانۇنىدا بەلگىلەنگەن پاي چېكىنى بازارغا سېلىش شەرتىنى يوقاتقان بولسا، ئۇنىڭ پاي چېكىنى بازارغا سېلىشى قانۇن بويىچە ۋاقىتلىق توختىتىلىدۇ ياكى ئاخىرلاشتۇرۇلىدۇ.<br />50 – ماددا شىركەت ئۆزى تارقىتىدىغان شىركەت زايومىنى سودىغا سېلىشنى ئىلتىماس قىلسا، ئۇنى ئاكسىيە بىرژىسى قانۇندا بەلگىلەنگەن شەرت ۋە قانۇندا بەلگىلەنگەن تەرتىپ بويىچە تەكشۈرۈپ تەستىقلايدۇ.<br />51 – ماددا شىركەتنىڭ ئۆز شىركىتىنىڭ زايومىنى سودىغا سېلىشنى ئىلتىماس قىلىشى تۆۋەندىكى شەرتكە ئۇيغۇن كېلىشى شەرت: <br />(1) شىركەت زايومىنىڭ مۇددىتى بىر يىلدىن ئارتۇق بولۇش؛ <br />(2) شىركەت زايومىنىڭ ئەمەلىي تارقىتىلىش سوممىسى خەلق پۇلى ھېسابىدا 50 مىليون يۈەندىن كەم بولماسلىق؛ <br />(3) شىركەت ئۆز زايومىنى بازارغا سېلىشنى ئىلتىماس قىلغاندا، يەنىلا قانۇندا بەلگىلەنگەن شىركەت زايومىنى تارقىتىش شەرتىگە ئۇيغۇن بولۇش.<br />52 – ماددا گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىغا شىركەت زايومىنى سودىغا سېلىشنى ئىلتىماس قىلىشتا، تۆۋەندىكى ھۆججەتلەتنى تاپشۇرۇش كېرەك: <br />(1) پاي چېكىنى بازارغا سېلىش دوكلاتى؛ <br />(2) پاي چېكىنى بازارغا سېلىشنى ئىتىماس قىلىش توغرىسىدىكى مۇدىرىيەت قارارى؛ <br />(3) شىركەت نىزامنامىسى؛ <br />(4) شىركەتنىڭ تىجارەت كىنىشكىسى؛ <br />(5) شىركەت زايومىغا مەبلەغ توپلاش چارىسى؛ <br />(6) شىركەت زايومىنىڭ ئەمەلىيەتتە تارقىتىلغان سانى.<br />53 – ماددا شىركەت زايومىنى سودىغا سېلىش ئىلتىماسىنى گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى تەكشۈرۈپ تەستىقلىغاندىن كېيىن، شۇ شىركەت زايومىنى تارقاتقۇچى ئاكسىيە بىرژىسىغا تەكشۈرۈپ تەستىقلانغان ھۆججەتنى ۋە ئالدىنقى ماددىدا بەلگىلەنگەن ئالاقىدار ھۆججەتلەنى تاپشۇرۇشى كېرەك. <br /> ئاكسىيە بىرژىسى شۇ زايومنى تارقاتقۇچى تاپشۇرغان ئالدىنقى تارماقتا بەلگىلەنگەن ھۆججەتنى تاپشۇرۇۋالغان كۈندىن باشلاپ ئۈچ ئاي ئىچىدە، شۇ زايومنى سودىغا سېلىشنى ئورۇنلاشتۇرۇشى كېرەك.<br />54 – ماددا شىركەت زايومىنى سودىغا سېلىش ئىلتىماسىغا ئاكسىيە بىرژىسى قوشۇلغاندىن كېيىن، تارقاتقۇچى شىركەت زايومنى سودىغا سېلىشتىن بەش كۈن بۇرۇن شىركەت زايومىنى بازارغا سېلىش دوكلاتىنى، تەكشۈرۈپ تەستىقلانغان ھۆججەتلەرنى ۋە پاي چېكىنى بازارغا سېلىش ئىلتىماسىغا دائىر ھۆججەتنى ئېلان قىلىشى ھەمدە ئۆزىنىڭ ئىلتىماس ھۆججەتلىرىنى ئاممىنىڭ كۆرۈشى ئۈچۈن بەلگىلەنگەن ئورۇنغا تەييارلاپ قويۇشى كېرەك.<br />55 - ماددا شىركەت زايومى سودىغا سېلىنغاندىن كېيىن، شىركەتتە تۆۋەندىكى ئەھۋاللارنىڭ بىرى كۆرۈلسە، گوۋۇيۈەن ئاكسىيە نازارەت قىلىش - باشقۇرۇش ئاپپاراتى شۇ شىركەت زايومىنى سودىغا سېلىشنى ۋاقىتلىق توختىتىشنى قارار قىلىدۇ: <br />(1) شىركەت زور قانۇنغا خىلاپ قىلمىش كۆرۈلگەن بولسا؛ <br />(2) شىركەت ئەھۋالىدا زور ئۆزگىرىش بولۇپ شىركەت زايومىنى بازارغا سېلىش شەرتىگە ئۇيغۇن كەلمەي قالغان بولسا؛ <br />(3) شىركەت زايومىغا توپلىغان مەبلەغنى تەكشۈرۈپ تەستىقلىغۇچى ئورگان تەستىقلىغان ئىشلىتىش ئورنى بويىچە ئىشلەتمىگەن بولسا؛ <br />(4) مەجبۇرىيەتنى شىركەت زايومىغا مەبلەغ توپلاش چارىسى بويىچە ئادا قىلمىغان بولسا؛ <br />(5) شىركەت يېقىنقى ئىككى يىلدىن بۇيان ئۇدا زىيان تارتىپ كېلىۋاتقان بولسا.<br />56 –ماددا شىركەتتە ئالدىنقى ماددىنىڭ (1)، (4) تارماقچىسىدا كۆرسىتىلگەن ئەھۋاللارنىڭ بىرى كۆرۈلگەن بولۇپ، ئېغىر ئاقىۋەت كېلىپ چىققانلىقى تەكشۈرۈشتە ئېنىقلانغان بولسا ياكى ئالدىنقى ماددىنىڭ (2)، (3)، (5)، تارماقچىسىدا كۆرسىتىلگەن ئەھۋاللارنىڭ بىرى كۆرۈلۈپ، سۈرۈك ئىچىدە شۇ ئەھۋاللار تۈگىتىلمىگەن بولسا، گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى شۇ شىركەت زايومىنى بازارغا سېلىشنى ئاخىر لاشتۇرۇشنى قارار قىلىدۇ. <br />شىركەت تارقىتىۋېتىلگەن، قانۇن بويىچە تاقىۋېتىشكە بويرۇلغان ياكى ۋەيران بولغانلىقى ئېلان قىلىنغان بولسا، ئاكسىيە بىرژىسى شۇ شىركەت زايومىنى بازارغا سېلىشنى ئاخىرلاشتۇرىدۇ ھەمدە ئۇنى گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى ئاكسىيە بىرژىسىغا پاي چېكىنى ياكى شىركەت زايومىنى بازارغا سېلىشنى قانۇن بويىچە ۋاقىتلىق توختىتىش ياكى ئاخىرلاشتۇرۇش ھوقۇقىنى بەرسە بولىدۇ.<br />3 – پاراگراف ئۇچۇرنى سىجىل ئاشكارىلاش<br />58 – ماددا گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىنىڭ تەستىقى ئاقىلىق قانۇن بويىچە پاي چېكى تارقىتىشتا ياكى گوۋۇيۈەن ھوقۇق بەرگەن تارماقنىڭ تەستىقى ئارقىلىق قانۇن بويىچە شىركەت زايومى تارقىتىشتا، شىركەت قانۇنىدىكى بەلگىلىمە بويىچە پاي چېكىگە خېرىدار چاقىرىش چۈشەندۈرمىسىنى، شىركەت زايومىغا مەبلەغ توپلاش چارىسىنى ئېلان قىلىش كېرەك. قانۇن بويىچە يېڭى پاي چېكى ياكى شىركەت زايومى تارقىتىدىغانلار يەنە مالىيە – بۇغالتىرلىق دۇكلاتىنىمۇ ئېلان قىلىشى كېرەك.<br />59 – ماددا شىركەت ئېلان قىلغان پاي چېكىنى ياكى شىركەت زايومىنى تارقىتىش ۋە ئۇنى بازارغا سېلىش توغرىسىدىكى ھۆججەتلەر راست، مۇكەممەل بولۇشى شەرت، ئۇنىڭدا يالغان نەرسىلەرنىڭ يېزىلىشىغا، ئازدۇرۇش خاراكتېرىدىكى بايانلارنىڭ بولۇشىغا ياكى مۇھىم مەزمۇنلارنىڭ چۈشۈپ قېلىشىغا يول قويۇلمايدۇ.<br />60 – ماددا پاي چېكىنى ياكى شىركەت زايومىنى سودىغا سالغان شىركەت ھەربىر بوغالتىرىيە يىلىنىڭ ئالدىنقى يېرىم يىلى ئاياغلاشقان كۈندىن باشلاپ ئىككى ئاي ئىچىدە، گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىغا ۋە ئاكسىيە بىرژىسىغا تۆۋەندىكى مەزمۇنلار&nbsp;  يېزىلغان ئوتتۇرا مەۋسۈملۈك دوكلات يوللىشى ھەمدە ئۇنى ئېلان قىلىشى كېرەك: <br />(1)شىركەتنىڭ مالىيە – بوغالتىرلىق دوكلاتى ۋە تىجارەت ئەھۋالى؛ <br />(2) شىركەتكە چېتىشلىق زور دەۋا ئىشلىرى؛ <br />(3) تارقىتىلىپ بولغان پاي چېكى، شىركەت زايومىدا كۆرۈلگەن ئۆزگىرىش ئەھۋالى؛ <br />(4) پايچىكلار يىغىنىنىڭ قاراپ چىقىشىغا سۇنۇلغان مۇھىم ئىشلار؛ (5) گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى بەلگىلىگەن باشقا ئىشلار.<br />61 – ماددا پاي چېكىنى ياكى شىركەت زايومىنى بازارغا سالغان شىركەت ھەربىر بوغالتىرىيە يىلى ئاياغلاشقان كۈندىن باشلاپ تۆت ئاي ئىچىدە، گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىغا ۋە ئاكسىيە بىرژىسىغا تۆۋەندىكى مەزمۇنلار يېزىلغان يىللىق دوكلات يوللىشى ھەمدە ئۇنى ئېلان قىلىشى كېرەك: <br />(1) شىركەتنىڭ ئومومىي ئەھۋالى؛ <br />(2) شىركەتنىڭ مالىيە – بۇغالتىرلىق دوكلاتى ۋە تىجارەت ئەھۋالى؛ <br />(3) مۇدىر، نازارەتچى، دىرېكتور ۋە ئالاقىدار ئالىي باشقۇرغۇچىلارنى قىسقىچە تونۇشتۇرۇش ۋە ئۇلارنىڭ پاي چېكىنى ئىلكىدە تۇتۇش ئەۋالى؛ <br />(4) تارقىتىلىپ بولغان پاي چېكى، شىركەت زايومىنىڭ ئەھۋالى جۈملىدىن شىركەتنىڭ پاي چېكىنى ئەڭ كۆپ ئىگىلەپ تۇرغان ئالدىنقى ئون پايچىكنىڭ ئىسىملىكى ۋە ئۇلار ئىگىلەپ تۇرغان پاي چېكىنىڭ سانى؛ <br />گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى بەلگىلىگەن باشقا ئىشلار.<br />62 – ماددا پاي چېكى بازارغا سېلىنغان شىركەتنىڭ پاي چېكى سودىسى باھاسىغا چوڭراق تەسىر كۆرسىتىش ئېھتىمالى بولغان، لېكىن بۇنىڭدىن مەبلەغ سالغۇچىلار تېخى خەۋەر تاپمىغان زور ۋەقە يۈز بەرگەندە، پاي چېكى بازارغا سېلىنغان شىركەت شۇ زور ۋەقەگە ئالاقىدار ئەھۋالنى گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىغا ۋە ئاكسىيە بىرژىسىغا دەرھال قەرەلسىز دوكلات يوللىشى ھەمدە ئۇنى ئېلان قىلىپ، ۋەقەنىڭ ماھىيىتىنى چۈشەندۈرۈشى كېرەك. <br />تۆۋەندىكى ئەھۋاللار ئالدىنقى تارماقتا ئېيتىغان زور ۋەقەجۈملىسىگە كىرىدۇ: <br />(1)&nbsp; &nbsp; شىركەتنىڭ تىجارەت فاڭجېنى ۋە تېجارەت دائىرىسىدە كۆرۈلگەن زور ئۆزگىرىش؛ <br />(2)&nbsp; &nbsp; شىركەتنىڭ زور مەبلەغ سېلىش ھەركىتى ۋە مال – مۈلۈك سېتىۋېلىشقا دائىر مۇھىم قارارى؛ <br />(3)&nbsp; &nbsp; شىركەت تۈزگەن شىركەتنىڭ مۈلكى، قەرزى، ھوقۇق – مەنپەئىتى ۋە تىجارەت&nbsp; مۇۋەپپەقىيىتىگە مۇھىم تەسىر كۆرسىتىش ئېھتىمالى بولغان مۇھىم توختام؛ <br />(4)&nbsp; &nbsp; شىركەتتە زور قەرزدارلىق ئەھۋال ۋە مۇددىتى توشقان زور قەرزنى قايتۇرالماي، ۋەدىگە خلاپلىق قىلىش ئەھۋالى يۈزبېرىش؛ <br />(5)&nbsp; &nbsp; شىركەتتە زور زىيان كېلىپ چىقىش ياكى ئۇ ساپ مۈلۈلكنىڭ 10 ىدىن ئاشىدىغان زور زىيانغا ئۇچراش؛ <br />(6)&nbsp; &nbsp; شىركەتنىڭ ئىشلەپچىقىرىش – تىجارىتىگە دائىر تاشقى شارائىتىدا يۈز بەرگەن زور ئۆزگىرىش؛ <br />(7)&nbsp; &nbsp; شىركەتنىڭ باش مۇدىرى، ئۈچتىن بىر قىسىمىدىن ئارتۇق مۇدىرلىرى ياكى دىرېكتورىدا ئۆزگىرىش بولۇش؛ <br />(8)&nbsp; &nbsp; شىركەتنىڭ 5 تىن يۇقىرى پاي چېكىنى ئىلگىلەپ تۇرغان پايچىكنىڭ شۇ پاي چېكىنى ئىلگىلەپ تۇرۇش ئەھۋالىدا كۆرۈلگەن چوڭراق ئۆزگىرىش؛ <br />(9)&nbsp; &nbsp; شىركەتنىڭ مەبلەغنى كېمەيتىش، قوشۇلۇپ كېتىش، بۆلۈنۈپ كېتىش، تارقىلىپ كېتىش، تارقىلىپ كېتىش ۋە ۋەيران بولۇشنى ئىلتىماس قىلىش توغرىسىدىكى قارارى؛<br />(10)&nbsp; &nbsp; شىركەتكە چىتىلىدىغان زور دەۋا، سوت مەھكىمىسىنىڭ پايچىكلار يىغىنىنىڭ، مۇدرىيەتنىڭ قارارىنى قانۇن بويىچە ئەمەلدىن قالدۇرۇشى؛ <br />(11)&nbsp; &nbsp; قانۇن، مەمۇرىي نىزاملاردا بەلگىلەنگەن باشقا ئىشلا%ر.<br />63 – ماددا تارقاتقۇچى، سېتىپ بەرگۈچى ئاكسىيە شىركىتى ئېلان قىلغان پاي چېكىگە خېرىدار چاقىرىش چۈشەندۈرمىسى، شىركەت زايومىغا مەبلەغ توپلاش چارىسى، مالىيە – بۇغارتىرلىق دوكلارتى، پاي چېكىنى بازارغا سېلىش دوكلاتىغا دائىر ھۆججەتلەر، يىللىق دوكلات، ئوتتۇرا مەۋسۈملۈك دوكلات، قەرەلسىز دوكلاتلاردا يالغان نەرسىلەر يېزىلغانلىقى، ئازدۇرۇش خاراكتېرىدىكى بايانلار بولغانلىقى ياكى مۇھىم مەزمۇنلارنىڭ چۈشۈپ قالغانلىقى تۈپەيلىدىن، مەبلەغ سالغۇچى ئاكسىيە سودىسىدا زىيانغا ئۇچىرىغان بولسا، تارقاتقۇچى، سېتىپ بەرگۈچى ئاكسىيە شىركىتى تۆلەم جاۋابكارلىقىنى ئۈتىگە ئالىدۇ، تارقاتقۇچى، سېتىپ بەرگۈچى ئاكسىيە شىركىتىنىڭ جاۋابكار مۇدىرى، نازارەتچىسى، دىرېكتورى چاتما تۆلەم جاۋابكارلىقىنى ئۈستىگە ئالىدۇ.<br />64 – ماددا قانۇن، مەمۇرىي نىزاملاردىكى بەلگىلىمىگە ئاساسەن ئېلان قىلىش شەرت بولغان ئېلان دۆلەتنىڭ ئالاقىدار تارماقلىرى بەلگىلەنگەن گېزىت – ژۇرناللارغا ياكى مەخسۇس نەشىر قىلىندىغان ئاخباراتقا بېسىلىشى، شۇنىڭ بىلەن بىر ۋاقىتتا ئۇنى ئاممىنىڭ كۆرۈشى ئۈچۈن شىركەتنىڭ تۇرۇشلۇق ئورنىغا، ئاكسىيە بىرژىسىغا تەييارلاپ قويۇش كېرەك.<br />65 – ماددا گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى پاي چېكى بازارغا سېلىنىدىغان شىركىتىنىڭ يىللىق دوللاتى، ئوتتۇرا مەۋسۈملۈك دوكلاتى، قەرەلسىز دوكلاتى شۇنىڭدەك ئېلان قىلغان ئەھۋالى ئۈستىدىن نازارەت قىلىدۇ، پاي چېكى بازارغا سېلىنىدىغان شىركەت تەقسىم قىلىدىغان ياكى نورمىلىق ساتىدىغان يېڭى پاي چېكى ئەھۋالى ئۈستىدىن نازارەت قىلىدۇ. <br />ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى، ئاكسىيە بىرژىسى، سېتىپ بەرگۈچى ئاكسىيە شىركىتى ۋە ئالاقىدار خادىملارنىڭ شىركەت قانۇن، مەمۇرىي نىزامدىكى بەلگىلىمىلەر بويىچە ئېلان قىلىشى شەرت بولغان ئېلاننىڭ مەزمۇنىنى شۇ ئېلان چىقىرىشتىن بۇرۇن ئاشكارىلاپ قويۇشىغا يول قويۇلمايدۇ.<br />66 – ماددا گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى پاي چېكى بازارغا سېلىنىدىغان شىركەتلەردىن قانۇنغا خىلاپ زور قىلمىشى بولغان ياكى پاي چېكىنى بازارغا سېلىش شەرتىنى ھازىرلىمىغانلىرىنىڭ پاي چېكىنى بازارغا سېلىش سالاھىتىنى ئېلىپ تاشلىغان بولسا، ۋاقتىدا ئېلان چىقىرىشى كېرەك. <br />ئاكسىيە بىرژىسى ئۆزىگە بېرىلگەن ھوقۇققا بىنائەن ئالدىنقى تارماققا بەلگىلەنگەن قارارنى چىقارغاندا ، ۋاقتىدا ئېلان قىلىشى ھەمدە گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتلارغا ئەنگە ئالدۇرۇشى لازىم.<br />4 – پاراگراف مەنئى قىلىنىدىغان سودا ھەرىكىتى<br />67 – ماددا ئاكسىيە سودىسىغا دائىر ئىچكى ئۇچۇردىن خەۋەردار خادىملارنىڭ شۇ ئىچكى ئۇچۇردىن پايدىلىنىپ ئاكسىيە سودا پائالىيتى ئېلىپ بېرىش مەنئى قىلىنىدۇ.<br />68 – ماددا تۆۋەندىكى خادىملار ئاكسىيە سودىسىغا دائىر ئىچكى ئۇچۇردىن خەۋەردار خادىملار&nbsp; ھېسابلىنىدۇ:<br />(1) پاي چېكى ياكى شىركەت زايومى تارقىتىدىغان شىركەت مۇدىرى، نازارەتچىسى، دىرېكتورى، مۇئاۋىن دىرېكتورى ۋە ئالاقىدار ئالىي باشقۇرغۇچىلار؛<br />(2) – شىركەتنىڭ 5تىن ئارتۇق پېيىنى ئىگىلەپ تۇرغان پايچىكلار؛ <br />(3) – پاي چېكى تارقىتىدىغان شىركەتنىڭ پاي چېكىنى كونترول قىلىدىغان شىركەتنىڭ ئالىي باشقۇرغۇچىلىرى؛ <br />(4) – شىركەتتە ئۆتەۋەتقان ۋەزىپىسى بىلەن شىركەتنىڭ ئاكسىيە سودىسىغا دائىر ئۇچۇرلىرىغا ئىگە بولالايدىغان خادىملار؛ <br />(5) – ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىدىكى خادىملار ۋە قانۇندا بەلگىلەنگەن ۋەزىپىسى بويىچە ئاكسىيە سودىسىنى باشقۇرىدىغان باشقا خادىملار؛ <br />(6) – قانۇندا بەلگىلەنگەن ۋەزىپىسى بويىچە ئاكسىيە سودىسىغا ئارىلىشىدىغان ئىجتىمائىي ۋاسىتىچى ئاپپاراتلار ياكى ئاكسيە تىزىملاش – راسچوت قىلىش ئاپپاراتى ۋە ئاكسىيە سودىسى ئۈچۈن مۇلازىمەت قىلىدىغان ئاپپاراتنىڭ ئالاقىدار خادىمىلىرى؛<br />69 – ماددا ئاكسىيە سودا پائالىيىتىدە شىركىتىنىڭ تىجارىتى، مالىيىسىگە چېتىلىدىغان ياكى شۇ شىركەت ئاكسىيىىنىڭ بازار باھاسىغا زور تەسىر كۆرسىتىدىغان لېكىن تېخى ئاشكارىلانمىغان ئۇچۇر ئىچكى ئۇچۇر ھېسابلىنىدۇ. <br />تۆۋەندىكى ئۇچۇرلارنىڭ ھەممىسى ئىچكى ئۇچۇر ھېسابلىنىدۇ: <br />(1)&nbsp; &nbsp; مۇشۇ قانۇننىڭ 62 – ماددىسىنىڭ 2 – تارمىقىدا كۆرسىتىلگەن زور ۋەقەلەر؛ <br />(2)&nbsp; &nbsp; شىركەتنىڭ پاي چېكى پايدىسىنى تەقسىم قىلىش ياكى مەبلەغنى كۆپەيتىش پىلانى؛ <br />(3)&nbsp; &nbsp; شىركەتنىڭ پاي ھوقۇقى قۇرۇلىمىسىغا دائىر زور ئۆزگىرىشلەر؛ <br />(4)&nbsp; &nbsp; شىركەتنىڭ قەرز كېپىللىكىگە دائىر زور ئۆزگىرىشلەر؛ <br />(5)&nbsp; &nbsp; شىركىتىنىڭ تىجارەتكە ئىشىلىتىدىغان ئاساسىلىق مۈلۈكنى رەنىگە قويۇشى، سېتىشى ياكى بىراك قىلىشى بىر قېتىمدا شۇ مۈلۈكنىڭ 30 ىدىن ئېشىپ كېتىش؛ <br />(6)&nbsp; &nbsp; شىركەت مۇدىرى، نازارەتچىسى، دىرېكتورى، مۇئاۋىن دىرېكتورى ياكى باشقا ئالىي باشقۇرغۇچىلىرىنىڭ&nbsp; قىلمىشى تۈپەيلىدىن قانۇن بويىچە ئۈستىگە ئېلىش ئېھتىمالى بولغان زور زىيانغا دائىر تۆلەم جاۋابكارلىقى؛ <br />(7)&nbsp; &nbsp; پاي چېكى بازارغا سېلىنىدىغان شىركەتنى سېتىۋېلىشقا ئالاقىدار لايىھە؛ <br />(8)&nbsp; &nbsp; گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى ئېتىراپ قىلغان، ئاكسىيە سودا ئىچكى ئۇچۇردىن خەۋەردار خادىملارنىڭ ياكى ئىچكى ئۇچۇرغا قانۇنسىز ئېرىشكەن باشقا خادىملارنىڭ شۇ شىركەتنىڭ ئۆزى ئىگىلەپ تۇرغان ئاكسىيىسىنى سېتىۋېلىشىغا ياكى سېتىشىغا، ياكى شۇ ئۇچۇرنى ئاشكارلىشىغا، ياكى باشقىلارنى شۇ ئاكسىيىنى سېتىۋېلىش – سېتىشقا تەۋسىيە قىلىشىغا يول قويۇلمايد%ۇ.5 تىن ئارتۇق پاينى ئىگىلەپ تۇرغان پايچېكنىڭ پاي چېكى بازارغا سېلىنىدىغان شىركەتنىڭ پېيىنى سېتىۋېلىشى توغرىسىدا مۇشۇ قانۇندا ئايرىم بەلگىلىمە بولسا، ئۇنىڭغا شۇ بەلگىلىمە تەتبىقلىنىد%ۇ.<br />71 – ماددا ھەرقانداق ئادەمنىڭ تۆۋەندىكى ۋاستىلەر ئارقىلىق نامۇۋاپىق مەنپەئەتكە ئېرىشىشى ياكى خەۋپ – خەتەرنى باشقىلارغا ئىتتىرىپ قۇيۇشى مەنئى قىلىنىدۇ: <br />(1) – ئۆز ئالدىغا ياكى بىرلىشىپ سۈيقەست قىلىپ، مەبلەغ ئۈستۈنلۈكى، پاي ئىگىلەپ تۇرۇش ئۈستۈنلۈكى ياكى ئۇچۇردىن پايدىلىنىش ئۈستۈنلۈكىنى مەركەزلەشتۈرۈپ، بىرلىشىپ ياكى ئۇدا ئېلىپ سېتىش ئارقىلىق ئاكسىيە سودا باھاسىنى تىزگىنلەش؛ <br /> (2) – باشقىلار بىلەن تىل بىرىكتۈرۈش، ئالدىنئالا كېلىشۋالغان ۋاقىت، باھا ۋە ئۇسۇل بىلەن ئۆزئارا ئاكسىيە سودىسى قىلىپ ياكى ئۆز ئىلكىدە بولمىغان ئاكسىيىنى ئۆزئارا سېتىۋېلىپ – سېتىپ، ئاكسىيە سودىسى باھاسغا ياكى ئاكسىيە سودىسىنىڭ مىقدارىغا تەسىر تەتكۈزۈش؛ <br />(3) – ئۆزىنى سودا ئوبيېكتى قىلىپ، ئىگىدارلىق ھوقۇقىنى يۆتكىمەي ئۆزى ئېلىپ، ئۆزى سېتىپ، ئاكسىيە سودا باھاسىغا ياكى ئاكسىيە سودىسىنىڭ مىقدارىغا تەسىر يەتكۈزۈش؛ <br />(4) – باشقا ئۇسۇللار ئارقىلىق ئاكسىيە سودا باھاسىنى تىزگىنلەش.<br />72 – ماددا دۆلەت خادىملىرىنىڭ، ئاخبارات تارقىتىش ۋاستىسى كەسپىي خادىملىرىنىڭ ۋە باشقا خادىملارنىڭ يالغان ئۇچۇر توقۇپ ۋە تارقىتىپ، ئاكسىيە سودىسىغا ئېغىر تەسىر يەتكۈزۈشى مەنئى قىلىنىدۇ. <br />ئاكسىيە بىرژىسى، ئاكسىيە شىركىتى، ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتى، ئاكسىيە سودىسى ئۈچۈن مۇلازىمەت قىلىدىغان ئاپپاراتلار، ئىجتىمائىي ۋاسىتىچى ئاپپاراتلار ۋە شۇ ئاپپاراتلاردىكى كەسيىي خادىملارنىڭ، ئاكسىيە ئىشلىرى جەمىئىيىتى، ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتلىرى ۋە ئۇنىڭ خادىملىرىنىڭ ئاكسىيە سودىسى پائالىيىتى داۋامىدا يالغان سۆزلەش ياكى ئۇچۇر جەھەتتە ئازدۇرۇشى مەنىئى قىلىنىدۇ. <br />تۈرلۈك ئاخبارات تارقىتىش ۋاسىتىسى تارقىتىدىغان ئاكسىيە سودا ئۇچۇرى راست، ئوبيېكتىپ بولۇشى شەرت، ئۇلارنىڭ ئازدۇرۇشى مەنئى قىلىنىدۇ.<br />73 – ماددا ئاكسىيە سودىسىدا، ئاكسىيە شىركەتلىرىنىڭ ۋە شۇ شىركەتلەردىكى كەسيىي خادىملارنىڭ مۇئامىلىدارلارنىڭ مەنپەئىتىگە زىيان يەتكۈزىدىغان تۆۋەندىكىدەك ئالدامچىلىق ھەركەتلىرى بىلەن شۇغۇللىنىشى مەنئى قىلىنىدۇ؛ <br />(1) مۇئامىلىدارلارنىڭ ھاۋالىسىگە خىلاپلىق قىلىپ ئۇلارغا ئاكسىيە ئېلىپ سېتىپ بېرىش؛ <br />(2) مۇئامىلىدارلارغا سودىنىڭ يازما مۇئەييەنلەشتۈرۈلگەن ھۆججەتلىرنى بەلگىلەنگەن ۋاقىتتا بەرمەسلىك؛ <br />(3) مۇئامىلىدارلار سېتىۋېلىش – سېتىشقا ھاۋالە قىلغان ئاكسىيىنى ياكى مۇئامىلىدارلارنىڭ ھېسابىدىكى مەبلەغنى ئىشلىتىۋېلىش؛ <br />(4) مۇئامىلىدارلارنىڭ ھېسابىدىكى ئاكسىيىنى ئۆز مەيلىچە سېتىۋېلىش – سېتىش ياكى مۇئامىلىدارلارنىڭ نامىدىن پايدىلىنىپ ئاكسىيە سېتىۋېلىش – سېتىش؛ <br />(5) شېرىنكانە كىرىمىنى كۆزلەپ مۇئامىلىدارلارنى زۆرۈرىيىتى بولمىغان ئاكسىيە سودىسىغا قىزىقتۇرۇش؛ <br />(6) مۇئامىلىدارلارنىڭ ھەقىقىي نىيىتىگە خىلاپلىق قىلىپ، ئۇلارنىڭ مەنپەئىتىگە زىيان يەتكۈزىدىغان باشقا قىلمىشلار.<br />74 – ماددا ئاكسىيە سودىسىدا، قانۇنىي ئىگىنىڭ ئۆز شەخسىي نامىدا ھېساب ئېچىپ، ئاكسىيە سېتىۋېلىش – سېتىشى مەنئى قىلىنىدۇ.<br />75 – ماددا ئاكسىيە سودىسىدا، ھارقانداق ئادەمنىڭ ھۆكۈمەت پۇلىنى ئاكسىيە سېتىۋېلىش – سېتىشقا ئىشلىتىۋېلىشى مەنئى قىلىنىدۇ. <br />76 – ماددا دۆلەت كەرخانلىرىنىڭ ۋە دۆلەت مۈلكى ئارقىلىق پاي چېكى كونترول قىلىنىدىغان كارخانىلارنىڭ بازارغا سېلىنغان پاي چېكىنى سېتىۋېلىش – سېتىشىغا يول قويۇلمايدۇ.<br />77 – ماددا ئاكسىيە بىرژىسى، ئاكسىيە شىركىتى، ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتى، ئاكسىيە سودىسى ئۈچۈن مۇلازىمەت قىلىدىغان ئاپپاراتلار، ئىجتىمائىي ۋاسىتىچى ئاپپاراتلار ۋە ئۇلارنىڭ كەسىپكارلىرى ئاكسىيە سودىسى داۋامىدا سەزگەن مەنئى قىلىنىدىغان سودا ھەرىكەتلىرىنى دەرھال ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىغا مەلۇم قىلىشى كېرەك.<br />4 – باب پاي چېكى بازارغا سېلىنىدىغان شىركەتنى سېتىۋېلىش.<br />78 – ماددا پاي چېكى بازارغا سېلىنىدىغان شىركەتنى سېتىۋېلىشتا تەكلىپ بويىچە سېتىۋېلىش ياكى كېلىشىم بويىچە سېتىۋېلىش ئۇسۇلى قوللىنىلسا بولىدۇ.<br />79 – ماددا مەبلەغ سالغۇچى ئاكسىيە بىرژىسىنىڭ ئاكسىيە سودىسى ئارقىلىق، پاي چېكى بازارغا سېلىندىغان بىر شىركەت تارقاتقان پاينىڭ 5 ىنى ئىكىلىگەنلىكى پاكىتقا ئايلانغان كۈنىدىن باشلاپ ئۈچ كۈن ئىچىدە گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىغا، ئاكسىيە بىرژىسىغا يازما دوكلات قىلىش، پاي چېكى بازارغا سېلىنىدىغان شۇ شىركەتكە ئۇقتۇرۇپ قويۇش ھەمدە ئۇنى ئېلان قىلىشى كېرەك؛ يۇقىرىدا بەلگىلەنگەن مۇددەت ئىچىدە، پاي چېكى بازارغا سېلىنىدىغان شۇ شىركەتنىڭ پاي چېكىنى يەنە ئېلىپ سېتىشقا يول قويۇلمايدۇ. <br />مەبلەغ سالغۇچى پاي چېكى بازارغا سېلىنىدىغان بىر شىركەت تارقاتقان پاينىڭ 5 ىنى ئىگىلىگەندىن كېيىن، ئاكسىيە بىرژىسىنىڭ ئاكسىيە سودىسى ئارقىلىق پاي چېكى بازارغا سېلىنىدىغان شۇ شىركەت تارقاتقان پايدىن ئۆزى ئىگىلەپ تۇرغان پاي نىسبىتى ھەر 5 ئاشقاندا ياكى كېمەيگەندە، ئالدىنقى تارماقتىكى بەلگىلىمە يويىچە دوكلات قىلىشى ۋە ئېلان قىلىشى كېرەك. دوكلارت قىلىش مۇددىتى ئىچىدە ۋە دوكلات قىلغان، ئېلان قىلغاندىن كېيىنكى ئىككى كۈن ئىچىدە، پاي چېكى بازارغا سېلىنىدىغان شۇ شىركەتنىڭ پاي چېكىنى يەنە ئېلىپ سېتىشقا يول قويۇلمايد%ۇ.<br />80 – ماددا ئالدىنقى ماددىدىكى بەلگىلىمە بويىچە قىلىنغان يازما دوكلات ۋە ئېلان تۆۋەندىكىدەك مەزمۇنلارنى ئۆزئىچىگە ئېلىشى كېرەك: <br />(1) پاي چېكىنى ئىلكىدە تۇتقۇچىنىڭ نامى، تۇرار جايى؛ <br />(2) ئىلكىدىكى پاي چېكىنىڭ نامى، سانى؛ <br />(3) ئىلكىدىكى پاي چېكى قانۇندا بەلگىلەنگەن نىسبەتكە يەتكەن ياكى ئىلكىدىكى پاي چېكىنىڭ ئېشىش – كېمىيىش ئۆزگىرىش قانۇندا بەلگىلەنگەن نىسبەتكە يەتكەن ۋاقىت.<br />81 – ماددا مابلەغ سالغۇچى ئاكسىيە بىرژىسىنىڭ ئاكسىيە سودىسى ئارقىلىق، پاي چېكى بازارغا سېلىنىدىغان بىر شىركەت تارقاتقان پاينىڭ 30 ىنى ئىلكىدە تۇتقاندىن كېيىن، ئۇنى داۋاملىق سېتىۋالماقچى بولسا، پاي چېكى بازارغا سېلىنىدىغان شۇ شىركەتنىڭ بارلىق پايچىكلىرىغا قانۇن يويىچە سېتىۋېلىش تەكلىپى بېرىشى كېرەك. لېكىن گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى تەكلىپ بېرىشنى ئەمەلدىن قالدۇرغانلىرى بۇنىڭ سىرتىد%ا.<br />82 – ماددا سېتىۋالغۇچى ئالدىنقى ماددىدىكى بەلگىلىمە بويىچە سېتىۋېلىش تەكلىپى بېرىشتە، ئالدى بىلەن گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىغا پاي چېكى بازارغا سېلىنىدىغان شىركەتنى سېتىۋېلىش توغرىسىدىكى دوكلات يوللىشى ھەمدە ئۇ دوكلاتقا تۆۋەندىكى ئىشلارنى ئېنىق يېزىشى كېرەك: <br />(1) سېتىۋالغۇچىنىڭ نامى، تۇرارجايى؛ <br />(2) سېتىۋالغۇچىنىڭ سېتۋېلىش توغرىسىدىكى قارارى؛ <br />(3) سېتىۋېلىنىدىغان پاي چېكى بازارغا سېلىنىدىغان شىركەتنىڭ نامى؛ <br />(4) سېتىۋېلىش مۇددىئاسى؛ <br />(5) سېتىۋېلىنىدىغان پاينىڭ تەپسىلىي نامى ۋە ئالدىن بەلگىلەنگەن سېتىۋېلىندىغان پاي چېكىنىڭ سانى؛ <br />(6) سېتىۋېلىش مۇددىتى ۋە سېتىۋېلىش باھاسى؛<br /> (7) سېتىۋېلىشقا كېتىدىغان مەبلەغنىڭ سانى ۋە مەبلەغ كاپالىتى؛ <br />(8) پاي چېكى بازارغا سېلىنىدىغان شىركەتنى سېتىۋېلىش دوكىلاتىنى يوللىغان چاغدىكى ئىلكىدىكى سېتىۋېلىنىدىغان شىركەتنىڭ پاي چېكى سانىنىڭ شۇ شىركەت تارقاتقان پاي چېكىنىڭ ئومۇمىي سانىدا تۇتقان نىسبىتى. <br />سېتىۋالغۇچى يەنە ئالدىنقى تارماقتا بەلگىلەنگەن شىركەتنى سېتىۋېلىش دوكىلاتىنىمۇ ئاكسىيە بىرژىسىغا شۇنىڭ بىلەن بىر ۋاقىتتا تاپشۇرۇشى كېرەك.<br />83&nbsp; &nbsp; ماددا سېتىۋالغۇچى ئالدىنقى ماددىدىكى بەلگىلىمە بويىچە پاي چېكى بازارغا سېلىنىدىغان شىركەتنى سېتىۋېلىش دوكىلاتىنى يوللىغان كۈندىن باشلاپ 15 كۈندىن كېيىن، ئۆزىنىڭ سېتىۋېلىش تەكلىپىنى ئېلان قىلىشى كېرەك. <br />سېتىۋېلىش تەكلىپى بېرىش مۇددىتىنى 30 كۈندىن كەم قىلىشقا ۋە 60 كۈندىن ئاشۇرۇۋېتىشكە بولمايدۇ.<br />84&nbsp; &nbsp; – ماددا سېتىۋېلىش تەكلىپى كۈچكە ئىگە مۇددەت ئىچىدە، ئۆزى بەرگەن سېتىۋېلىش تەكلىپىدىن يېنىۋالسا بولمايدۇ. <br />سېتىۋالغۇچى سېتىۋېلىش تەكلىپى كۈچكە ئىگە مۇددەت ئىچىدە، سېتىۋېلىش تەكلىپىدىكى ئىشلارنى ئۆزگەتمەكچى بولسا، ئالدى بىلەن گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىغا ۋە ئاكسىيە بېرژىسىغا دوكلات يوللاپ، تەستىقلانغاندىن كېتىن ئىلان قىلىشى شەرت.<br />85&nbsp; &nbsp; – ماددا سېتىۋېلىش تەكلىپىدە ئوتتۇرغا قويۇلغان سېتىۋېلىش شەرتلىرى سېتىۋېلىنىدىغان شىركەت پايچىكىلىرىنىڭ ھەممىسىگە تەتبىقلىنىدۇ. <br />86 – ماددا سېتىۋېلىش تەكلىپىنى بېرىش مۇددىتى توشقاندا، سېتىۋالغۇچىنىڭ ئىلكىدىكى سېتىۋېلىنىدىغان شىركەت پاي چېكىنىڭ سانى شۇ شىركەت تارقاتقان پاي چېكى ئومۇمىي سانىنىڭ 75 ىدىن ئېشىپ كەتكەن بولسا، پاي چېكى بازارغا سېلىنىدىغان شۇ شىركەتنىڭ پاي چېكىنى ئاكسىيە بىرژىسىدا سودىغا سېلىش ئاخىرلاشتۇرۇلۇشى كېرە%ك.<br />87 – ماددا سېتىۋېلىش تەكلىپىنى بېرىش مۇددىتى توشقاندا، سېتىۋالغۇچىنىڭ ئىلكىدىكى سېتىۋېلىنىدىغان شىركەت پاي چېكىنىڭ سانى شۇ شىركەت تارقاتقان ئومۇمىي پاي چېكى سانىنىڭ 90ىدىن ئېشىپ كەتكەن بولسا، شۇ سېتىۋېلىنىدىغان شىركەتنىڭ پاي چېكىنى يەنىلا ئىلكىدە تۇتۇپ تۇرغان باشقا پايچىكلار ئۆز ئىلكىدىكى پاي چېكىنى سېتىۋالغۇچىغا سېتىۋېلىش تەكلىپىدىكى ئوخشاش شەرت بويىچە سېتىپ بېرىشكە ھوقۇقلۇق، سېتىۋالغۇچى ئۇنى سېتىۋېلىشى كېرەك. <br />سېتىۋېلىش ھەركىتى تارماقلانغاندىن كېيىن، سېتىۋېلىندىغان شىركەت شىركەت قانۇنىدا بەلگىلەنگەن شەرتكە توشمايدىغان بولۇپ قالسا، قانۇن بويىچە ئۇنىڭ كارخانىلىق شەكلىنى ئۆزگرتىش كېرە%ك.<br />88 – ماددا تەكلىپ بويىچە سېتىۋېلىش ئۇسۇلىنى قوللانغان سېتىۋالغاچىنىڭ سېتىۋېلىش تەكلىپىنى بېرىش مۇددىتى ئىچىدە، سېتىۋېلىنىدىغان شىركەتنىڭ پاي چېكىنى تەكلىپتە بەلگىلەنگەن شەكلىدىن باشقا شەكىلى قوللىنىپ ۋە تەكلىپتىكى شەرتلەردىن ھالقىغان ھالدا ئېلىپ سېتىشىغا يول قويۇلمايدۇ.<br />89 – ماددا كېلىشىم بويىچە سېتىۋېلىش ئۇسۇلىنى قوللانغان سېتىۋالغۇچى سېتىۋېلىنىدىغان شىركەتنىڭ پايچىكىلىرى بىلەن كېلىشىش ئۇسۇلى ئارقىلىق قانۇن، مەمۇرىي نىزاملاردىكى بەلگىلىمىلەر بويىچە پاي چېكى ھوقۇقىنى ئۆتۈنۈپ بېرىش ئىشىنى ئېلىپ بارسا بولىدۇ. <br />سېتىۋالغاچى پاي چېكى بازارغا سېلىنىدىغان شىركەتنى كېلىشىش ئۇسۇلى ئارقىلىق سېتىۋېلىشتا، كېلىشىم ھاسىل قىلغاندىن كېيىنكى ئۈچ كۈن ئىچىدە، شۇ سېتىۋېلىش كېلىشىمى ئۈستىدە گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىغا ۋە ئاكسىيە بىرژىسىغا يازما دوكلات قىلىشى ھەمدە ئۇنى ئېلان قىلىشى شەرت. ئېلان چىقىرىشتىن بۇرۇن سېتىۋېلىش كېلىشىمىنى ئىجرا قىلىشىقا يول قويۇلمايدۇ.<br />90 – ماددا كېلىشىم بويىچە سېتىۋېلىش ئۇسۇلىنى قوللىنىشتا، كېلىشىم تۈزگۈچى ئىككى تەرەپ كېلىشىم بويىچە ئۆتۈنىدىغان پاي چېكىنى ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتىغا ساقلاپ بېرىشكە ۋاقىتلىق ھاۋالە قىلسا ھەمدە مەبلەغنى كۆرسىتىلگەن بانكىغا قويۇپ تۇرسا بولىدۇ.<br />91 – ماددا پاي چېكى بازارغا سېلىنىدىغان شىركەتنى سېتىۋېلىشتا، سېتىۋالغۇچىنىڭ ئىلكىدىكى سېتىۋېلىنىدىغان، پاي چېكى بازارغا سېلىنغان شىركەتنىڭ پاي چېكىنى سېتىۋېلىش ھەرىكىتى تاماملانغاندىن كېيىنكى ئالتە ئاي ئىچىدە ئۆتۈنۈپ بېرىشىگە يول قويۇلمايدۇ.<br />92 – ماددا سېتىۋېلىنىدىغان شىركىتىنىڭ پاي چېكىنى تەكلىپ بىلەن سېتىۋېلىش ياكى كېلىشىپ سېتىۋېلىش ئۇسۇلى ئارقىلىق قولغا كەلتۈرۈش ھەمدە ئۇ شىركەتنى ئەمەلىدىن قالدۇرۇش شىركەتنى قوشۇۋېتىش دائىرسىگە كىرىدۇ، ئەمەلدىن قالدۇرۇلغان شۇ شىركەتنىڭ ئىلگىرىكى پاي چېكىنى سېتىۋالغۇچى قانۇن بويىچە ئالماشتۇرۇپ بېرىدۇ.<br />93 – ماددا پاي چېكى بازارغا سېلىنىدىغان شىركەتنى سېتىۋېلىش ھەرىكىتى تاماملانغاندىن كېيىن، سېتىۋالغۇچى سېتىۋېلىش ئەھۋالىنى 15 كۈن ئىچىدە گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىغا ۋە ئاكسىيە بىرژىسىغا دوكلات قىلىشى ۋە ئېلان قىلىشى كېرەك.<br />94 – ماددا پاي چېكى بازارغا سېلىنىدىغا شىركەتنى سېتىۋېلىش دۆلەت مەبلەغ سېلىشقا ھوقۇق بەرگەن ئاپپارات ئىلكىدىكى پايغا تاقالسا، گوۋۇيۈەننىڭ بەلگىلىمىسى بويىچە، ئالاقىدار مەسئۇل تارماقنىڭ تەستىقىدىن ئۆتكۈزۈش كېرەك.<br />5 – باب ئاكسىيە بىرژىسى<br />95 – ماددا ئاكسىيە بىرژىسى پايدا ئېلىشنى كۆزلىمەيدىغان، ئاكسىيە كۆجۈم رىقابەتلىك باھا سودىسى ئۈچۈن سورۇن ھازىرلاپ بېرىدىغان قانۇنىي ئىگە. <br />ئاكسىيە بىرژىسىنى تەسىس قىلىش ۋە تارقىتىۋېتىشنى گوۋۇيۈەن بەلگىلەيدۇ.<br />96 – ماددا ئاكسىيە بىرژىسىنى تەسىس قىلىشتا نىزامنامە تۈزۈش شەرت. <br />ئاكسىيە بىرژىسى نىزامنامىسىنى تۈزۈش ۋە ئۇنىڭغا تۈزىتىش كىرگۈرۈش گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىنىڭ تەستىقىدىن ئۆتكۈرۈلۈشى شەرت.<br />97 – ماددا ئاكسىيە بىرژىسىنىڭ نامىغا ئاكسىيە بىرژىسى دېگەن سۆز ئېنىق يېزىلىشى شەرت. باشقا ھەرقانداق ئورون ياكى شەخىسنىڭ ئاكسىيە بىرژىسى دېگەن نامىنى ياكى ئۇنىڭغا ئوخشاپ كېتىدىغان نامىنى ئىشلىتىشىگەن يول قويۇلمايدۇ.<br />98 – ماددا ئاكسىيە بىرژىسى ئۆز ئالدىغا باشقۇرىدىغان تۈرلۈك خىراجەرت ۋە كىرىمنى ئالدى بىلەن ئۆز ئاكسىيە سودىسى سورۇننىڭ ۋە ئەسلىھەلىرىنىڭ نورمال يۈرۈشۈپ تۇرۇشىغا كاپالەتلىك قىلىشقا ھەمدە ئۇلارنى پەيدىنپەي ياخشىلاشقا ئىشلىتىشى كېرەك. <br />ئاكسىيە بىرژىسىنىڭ جۇغلانمىسى ئۇنىڭ ئەزالىرىنىڭ ئىگىدارلىقىدا بولىدۇ، ئۇنىڭ ھوقۇق – مانپەئىتىدىن ئەزالار تەڭ بەھرىمەن بولىدۇ، ئۇ مەۋجۇت بولۇپ تۇرغان مەزگىلىدە ئۇنىڭ جۇغلانمىسىنى ئەزالارغا تەقسىم قىلىپ بېرشكە بولمايدۇ.<br />99 – ماددا ئاكسىيە بىرژىسىدا مۇدىرىيەت تەسىس قىلىنىدۇ.<br />100 – ماددا ئاكسىيە بىرژىسىدا بىر باش دىرېكتور قويۇلىدۇ، ئۇنى گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى ۋەزىپىگە تەيىنلەيدۇ ۋە ۋەزىپىدىن قالدۇرىدۇ.<br />101 – ماددا شىركەت قانۇنىنىڭ 57 – ماددىسىدا بەلگىلەنگەن ئەھۋاللارنىڭ ياكى تۆۋەندە كۆرسىتىلگەن ئەھۋاللارنىڭ بىرىنى سادىر قىلغانلارنىڭ ئاكسىيە بىرژىسىنىڭ مەسئۇللۇقىنى ئۈستىگە ئېلىشغا يول قويۇلمايدۇ: <br />(1) قانۇنغا ياكى ئىنتىزامغا خىلاپ قىلمىشى بولغانلىقى ئۈچۈن ۋەزىپىسىدىن قالدۇرۇلغان ئاكسىيە بىرژىسى، ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتىنىڭ مەسئۇلى ياكى ئاكسىيە شىركىتىنىڭ مۇدىرى، نازارەتچىسى، دىرېكتورى بولۇپ ۋەزىپىسىدىن قالدۇرۇلغان كۈندىن باشلاپ ھېسابلىغاندا بەش يىلدىن ئاشمىغانلار؛ <br />(2) قانۇنغا ياكى ئىنتىزامغا خىلاپ قىلمىشى بولغانلىقى ئۈچۈن سالاھىيىتىدىن ئېلىپ تاشلانغان ئادۋۇكات، رويخەتكە ئېلىنغان بوغالتىر ياكى قۇنۇندا بەلگىلەنگەن مۈلۈك باھالاش ئاپپاراتى، دەلىللىگۈچى ئاپپاراتنىڭ كەسپىي خادىملىرى بولۇپ، سالاھىيىتى ئېلىپ تاشلانغان كۈندىن باشلاپ ھېسابلىغاندا بەش يىلدىن ئاشمىغانلار.<br />102 – ماددا قانۇنغا ياكى ئىنتىزامغا خىلاپ قىلمىشى بولغانلىقى ئۈچۈن خىزمەتتىن قوغلانغان ئاكسىيە بىرژىسى، ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتى، ئاكسىيە شىركىتىنىڭ كەسىپىكارلىرىنى ۋە خىزمەتتىن قوغلانغان دۆلەرت ئورگانلىرىنىڭ خادىملىرىنى ئاكسىيە بىرژىسىنىڭ كەسىپكارلىقىغا تەكلىپ قىلىشقا بولمايدۇ.<br />103 – ماددا ئاكسىيە بىرژىسىغا كىرىپ كۆجۈم رىقابەتلىك باھا سودىسىغا قاتنىشىدىغانلار ئاكسىيە بىرژىسىنىڭ ئەزاسىلىقى سالاھىيىتىگە ئىگە ئاكسىيە شىركىتى بولۇشى شەرت.<br />104 – ماددا مەبلەغ سالغۇچى ئاكسىيە شىركىتىدە ئاكسىيە سودىسىغا دائىر ھېساب ئېچىپ، ئۆزىگە ۋاكالىتەن ئاكسىتە سودىسى قىلىشىنى ئۆزى ئۈچۈن ھېساب ئاچقان ئاكسىيە شىركىرىگە&nbsp; يېزىق، تېلىفۇن ۋە باشقا ئۇسۇللار ئارقىلىق ھاۋالە قىلىشى كېرەك. <br />مەبلەغ سالغۇچى ئۆزى ھېساب ئاچقان ئاكسىيە شىركىتى ئارقىلىق ئاكسىيە سودىسى قىلماقچى بولسا، بازار باھاسى بويىچە ھاۋالە قىلىشى ياكى چەك قويۇلغان باھا بويىچە ھاۋالە قىلىشى كېرەك.<br />105 – ماددا ئاكسىيە شىركىتى مەبلەغ سالغۇچىنىڭ ھاۋالىسى بويىچە، ۋاقىت ئۈستۈنلۈكى قائىدىسىگە ئاساسەن سودا باشلاشنى تەلەپ قىلىپ، ئاكسىيە بىرژىسى سورۇنىدىكى كۆجۈم رىقابەتلىك باھا سودىسىغا ئارىلىشىدۇ؛ ئاكسىيە تىزىملاش – راشچوت قىلىش ئاپپاراتى پۈتۈشۈش نەتىجىسىگە ئاساسەن، راسچوت قىلىپ ھېسابىنى ئۈزۈش قائىدىسى بويىچە، ئاكسىيە ۋە مەبلەغنىڭ ھېسابىنى ئۈزۈپ، ئاكسىيە تىزىملاش – مۈلۈك ئىگىسىنىڭ ئىسمىنى يەڭگۈشلەش رەسمىيىتىنى ئۆتەيدۇ.<br />106 – ماددا ئاكسىيە شىركىتى ھاۋالىنى قوبۇل قىلىپ ياكى ئۆز ئالدىغا تىجارەت قىلىپ، شۇ كۈن سېتىۋالغان ئاكسىيىنى شۇ كۈنى ساتسا بولمايدۇ.<br />107 – ماددا ئاكسىيە بىرژىسى ئادىل بولغان كۆجۈم رىقابەتلىك باھا سودىسىنى ئۇيۇشتۇرۇشقا كاپالەتلىك قىلىشى، ئاكسىيە سودىسىغا دائىر بازار ئەھۋالىنى ۋاقتىدا ئېلان قىلىپ تۇرۇشى ھەمدە سودا كۈنى بويىچە ئاكسىيە بازىرى ئاھۋالىغا دائىر جەدۋەل تۈزۈپ، ئېلان قىلىش كېرەك.<br />108 – ماددا ئاكسىيە بىرژىسى قانۇن، مەمۇرىي نىزاملاردىكى بەلگىلىمىگە ئاساسەن، پاي چېكى، شىركەت زايومىنى بازارغا سېلىشىنى ۋاقىتلىق توختىتىش، بازارغا سېلىشنى ئەسلىگە كەلتۈرۈش ياكى ئاخىرلاشتۇرۇش ئىشىنى بېجىرىدۇ، ئۇنىڭ كونكرېت چارىسىنى گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى تۈزۈپ چىقىدۇ.<br />109 – ماددا تۇيۇقسىز يۈز بەرگەن ۋەقەلەر تۈپەيلىدىن ئاكسىيە سودىسىنىڭ نورمال ئېلىپ بېرىلىشىغا تەسىر يەتكەندە، ئاكسىيە بىرژىسى باھا چىقىرىشىنى توختىتىش بويىچە تېخنىكىلىق تەدبىر قوللانسا بولدۇ؛ تەڭگىلى بولمايدىغان تۇيۇقسىز ۋەقە تۈپەيلىدىن ياكى ئاكسىيە سودىسىنىڭ نورمال تەرتىپىنى قوغداش ئۈچۈن، ئاكسىيە بىرژىسى بازارنى ۋاقىتلىق توختىتىشنى قارار قىلسا بولىدۇ. <br />ئاكسىيە بىرژىسى باھا چىقىرىشىنى توختىتىش بويىچە تېخنىكىلىق تەدبىر قوللانغاندا ياكى بازارنى ۋاقىتلىق توختىتىشنى قارار قىلغاندا، ئۇنى گوۋۇيۈەن ئاكسىيە نازارەت قىلىش– باشقۇرۇش ئاپپاراتىغا ۋاقتىدا دوكلات قىلىش شەرت.<br />110 – ماددا ئاكسىيە بىرژىسى بىرژىدا ئېلىپ بېرىلىدىغان ئاكسىيە سودىسىنى دەل ۋاقتىدا نازارەت قىلىدۇ ۋە تىزگىنلەيدۇ ھەمدە گوۋۇيۈەن ئاكسىتە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىنىڭ تەلپىگە بىنائەن، بىنورمال سودا ئەھۋالى ئۈستىدە دوكلات يوللاپ تۇرىدۇ. <br />ئاكسىيە بىرژىسى پاي چېكى بازارغا سېلىنغان شىركەت ئېلان قىلغان ئۇچۇر ئۈستىدە نازارەتچىلىك قىلىشى، پاي چېكى بازارغا سېلىنىدىغان شىركەتنىڭ ئۇچۇرنى قانۇن بويىچە ۋاقتىدا، توغرا ئېلان قىلىشىغا ھەيدەكچىلىك قىلىشى كېرەك.<br />111 – ماددا ئاكسىيە بىرژىسى ئۆزى يىغىدىغان سودا خىراجىتىدىن ۋە ئەزالىق بەدىلىدىن، ئورۇن ھەققىدىن مەلۇم نىسبەتتە پۇل ئاجرىتىپ خەۋپ – خەتەر فوندى تەسىس قىلىشى كېرەك. خەۋپ – خەتەر فوندىنى ئاكسىيە بىرژىسى مۇدىرىيىتى باشقۇرىدۇ. <br />خەۋپ – خەتەر فوندى ئاجرىتىشنىڭ كونكرېت نىسبىتىنى ۋە ئۇنى ئىشلىتىش چارىسىنى گوۋۇيۈەننىڭ مالىيە تارمىقى بىلەن بىرلىكتە بەلگىلەيدۇ.<br />112 – ماددا ئاكسىيە بىرژىسى يىغىپ ساقلايدىغان سودا كاپالەت پۇلى، خەۋپ – خەتەر فوندىنى ئۆزى ھېساب ئاچقان بانكىنىڭ مەخسۇس ھېسابىغا كىرگۈزۈپ ساقلىشى كېرەك، ئۇنى ئۆز بېشىمچىلىق بىلەن ئىشلىتىشكە يول قويۇلمايدۇ.<br />113 – ماددا ئاكسىيە بىرژىسى ئاكسىيىگە دائىر قانۇن، مەمۇرىي نىزاملارغا ئاساسەن، ئاكسىيە كۆجۈم رىقابەت باھا سودىسىنىڭ كونكرېت قائىدىسىنى، ئاكسىيە بىرژىسى ئەزالىرىنى باشقۇرۇش نىزامىنى ۋە ئاكسىيە بىرژىسى كەسپكارلىرىنىڭ كەسىپ قائىدىسى تۈزۈپ چىقىشى ھەمدە ئۇنى گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىغا يوللاپ تەستىقلىتىشى كېرەك.<br />114 – ماددا ئاكسىيە بىرژىسىنىڭ مەسئۇلى ۋە باشقا كەسىپكارلىرى ئاكسىيە سودىسىغا ئالاقىدار ۋەزىپە ئىجرا قىلغاندا، ئۆزى ياكى ئۆزىنىڭ تۇغقانلىرى بىلەن مەنپەئەت مۇناسىۋىتى بولسىلا چەتلەپ تۇرۇشى كېرەك.<br />115 - ماددا قانۇن بويىچە تۈزۈلگەن سودا نىزامىغا ئاساسەن ئېلىپ بېرىلغان سودىنىڭ نەتىجىسىنى ئۆزگەرتىشكە بولمايدۇ. <br />سودىدا قائىدىگە خىلاپ قىلغۇچىلارنىڭ ئۈستىگە ئېلىشقا تىگىشلىك ھەق تەلەپ جاۋابكارلىقىنى كەچۈرۈم قىلىشىقا بولمايدۇ؛<br />قائىدىگە خىلاپ سودىدا ئالغان پايدا ئالاقىدار بەلگىلىمىلەر بويىچە بىر تەرەپ قىلىنىدۇ.<br />116 – ماددا ئاكسىيە بىرژىسىدا ئاكسىيە سودىسى بىلەن شۇغۇللانغان خادىملاردىن ئاكسىيە بىرژىسىنىڭ ئالاقىدار سودا قائىدىسىگە خىلاپلىق قىلىغانلارغان ئاكسىيە بىرژىسى ئىنتىزام جازاسى بېرىدۇ؛ قىلمىشى ئېغىر بولغانلارنىڭ سالاھىيىتى ئېلىپ تاشلىنىدۇ، ئۇنىڭ مەيدانىغا كىرىپ ئاكسىيە سودىسى قىلىشى مەنئى قىلىنىدۇ.<br />6 – باب ئاكسىيە شىركىتى.<br />117 – ماددا ئاكسىيە شىركىتى تەسىس قىلىشىنى گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىنىڭ تەكشۈرۈپ تەستىقلىشىدىن ئۆتكۈزۈش شەرت. گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىغا تەستىقلاتمىغانلارنىڭ ئاكسىيە كەسپى بىلەن شوغۇللىنىشىغا يول قويۇلمايدۇ.<br />118 – ماددا بۇ قانۇندا ئېيتىغان ئاكسىيە شىركىتى شىركەت قانۇنىدىكى بەلگىلىمىگە ئاساسەن ۋە ئالدىنقى ماددىدىكى بەلگىلىمە بويىچە تەستىقلىنىپ، ئاكسىيە تىجارىتى كەسپى بىلەن شوغۇللىنىدىنغان چەكلىك مەسئۇلىيەت شىركىتىنى ياكى چەكلىك پاي شىركىتىنى كۆرسىتىدۇ.<br />119 – ماددا دۆلەت ئاكسىيە شىركەيلىرىنى تۈرگە ئايرىپ باشقۇرىدۇ، ئۇلار ئۇنىۋېرسال تۈردىكى ئاكسىيە شىركىتى ۋە ۋاستىچىلىك تۈردىكى ئاكسىيە شىركىتى دەپ ئايرىلىدۇ ھەمدە گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى ئۇلارغا ئۆز تۈرى بويىچە كەسىپ ئىجازەتنامىسى بېرىدۇ.<br />120 – ماددا ئاكسىيە شىركىتى ئۆز نامىغا ئاكسىيە چەكلىك مەسئۇلىيەت شىركىتى ياكى ئاكسىيە چەكلىل پاي شىركىتى دەپ ئېنىق يېزىلىپ قويۇشى شەرت. <br />ۋاستىچىلىك تۈرىدىكى ئاكسىيە شىركىتى ئۆز نامىغا ۋاستىچىلىك دەپ ئېنىق يېزىپ قۇيۇشى شەرت.<br />121 – ماددا ئۇنىۋېرسال تۈردىكى ئاكسىيە شىركىتىنى تەسىس قىلىشىتا تۆۋەندىكىدەك شەرتلەرنى ھازىرلاش شەرت: <br />(1) رۇيخەتكە ئېلىنغان كاپتالىنىڭ ئەڭ تۆۋەن چېكى خەلق پۇلى ھېسابدا 500 مىلىيون يۈەن بولۇش؛ <br />(2) ئاساسلىق باشقۇرغۇچى خادىملىرى ۋە كەسپىي خادىملىرى ئاكسىيە كەسپى بىلەن شۇغۇللىنىش سالاھىيىتىگە ئىگە بولۇش؛<br />(3) تۇراقلىق تىجارەت سورۇنى ۋە ياراملىق سودا ئەسلىھەلىرى بولۇش؛<br />(4) مۇكەممەل باشقۇرۇش تۈزۈمى ۋە قېلىپلاشقان، ئۆز ئالدىغا باشقۇرىدىغان كەسپ بىلەن ۋاستىچىلىك كەسپىنى ئايرىپ باشقۇرىدىغان سىستېمىسى بولۇش.<br />122 – ماددا ۋاستىچىلىك تۈرىدىكى ئاكسىيە شىركىتىنىڭ رويخەتكە ئېلىنغان كاپىتالىنىڭ ئەڭ تۆۋەن چېكى خەلق پۇلى ھېسابىدا 50 مىليون يۈەن بولىدۇ؛ ئاساسلىق باشقۇرغۇچى خادىملىرى ۋە كەسىپىي خادىملىرى ئاكسىيە كەسپى بىلەن شوغۇللىنىش سالاھىيىتىگە ئىگە بولۇشى شەرت؛ تۇرۇقلىق تىجارەت سورۇنى ۋە يارەملىق سودا ئەسلىھەلىرى بولۇشى؛ مۇكەممەل باشقۇرۇش تۈزۈمى بولۇش كېرەك.<br />123 – ماددا ئاكسىيە شىركىتى شۆبە ئاپپارات تەسىس قىلماقچى ئۇنى ئەمەلدىن قالدۇرماقچى بولسا، كەسىپ دائىرسىنى ياكى رويخەتكە ئېلىنغان مەبلىغىنى ئۆزگەرتمەكچى بولسا، شىركەت نىزامنامسىنى ئۆزگەتمەكچى،قۇشۇلۇپ كەرمەكچى، بۆلۈنۈپ كەتمەكچى بولسا، شىركەت شەكلىنى ئۆزگەرتمەكچى ياكى ئۇنى تارقىتىۋەتمەكچى بولسا، ئۇنى گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىغا تەستىقلىتىشى شەرت.<br />124 – ماددا ئاكسىيە شىركىتىنىڭ تاشقى قەرز ئومۇمىي سوممىسى ئۇنىڭ ساپ مۈلكىنىڭ بەلگىلەنگەن ھەسسىسىدىن ئېشىپ كەتمەسلىكى، ئۇنىڭ تۇراقسىز ئومۇمىي قەرز سوممىسى تۇراقسىز مۈلۈك ئومۇمىي سوممىسىنىڭ مەلۇم نىسبىتىدىن ئېشىپ كەتمەسلىكى كېرەك؛ ئۇنىڭ كونكرېت ھەسسىسى، نىسبىتى ۋە باشقۇرۇش چارىسىنى گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى بەلگىلەيدۇ.<br />125 – ماددا شىركەت قانۇنىنىڭ 57 – ماددىسىدا بەلگىلەنگەن ئەھۋاللارنىڭ ياكى تۆۋەندىكىدەك ئەھۋاللارنىڭ ئاكسىيە شىركىتىنىڭ مۇدىرلىقىنى، نازارەتچىسىلىكىنى ياكى دىرېكتورلۇقىنى ئۈستىگە ئېلىشقا يول قويۇلمايدۇ: <br />(1) قانۇنغا ياكى ئىنتىزامغا خىلاپ قىلمىشى بولغانلىقى ئۈچۈن ۋەزىپىسىدىن قالدۇرۇلغان ئاكسىيە بىرژىسىنىڭ مەسئۇلى ياكى ئاكسىيە شىركىتىنىڭ مۇدىرى، نازارەتچىسى، دىرېكتورى بولۇپ، ۋەزىپىسىدىن قالدۇرۇلغان كۈندىن باشلاپ ھېسابلىغاندا بەش يىلدىن ئاشمىغانلار؛ <br />(2) قانۇنغا ياكى ئىنتىزامغا خىلاپ قىلمىش بولغانلىقى ئۈچۈن سالاھىيىتى ئېلىپ تاشلانغان ئادۋۇكات، رويخەتكە ئېلىنغان نوغالتىر ياكى قانۇندا بەلگىلەنگەن مۈلۈك باھالاش ئاپپاراتى، دەلىللىگۈچى ئاپپاراتنىڭ كەسپىي خادىملىرى بولۇپ، سالاھىيىتى ئېلىپ تاشلانغان كۈندىن باشلاپ ھېسابلىغاندا بەش يىلىدىن ئاشمىغانلار.<br />126 – ماددا قانۇنغا ياكى ئىنتىزامغا خىلاپ قىلمىشى بولغانلىقى ئۈچۈن خىزمەتتىن قوغلانغان ئاكسىيە بىرژىسىنىڭ، ئاكسىيە تىزىملاش – راشچوت قىلىش ئاپپاراتىنىڭ، ئاكسىيە شىركىتىنىڭ كەسپكارلىرىنى ۋە خىزمەتتىن قوغلانغان دۆلەت ئورگانلىرىنىڭ خادىملىرىنى ئاكسىيە شىركىتىنىڭ كەسپكارلىقىغا تەكلىپ قىلىشقا بولمايدۇ.<br />127 – ماددا دۆلەت ئورگانلىرىدىكى خادىملارنىڭ ۋە قانۇن، مەمۇرىي نىزاملاردا شىركەتلەردە قوشۇمچە ۋەزىپە ئۆتىشى مەنئى قىلىنغانلىقى بەلگىلەنگەن باشقا خادىملارنىڭ ئاكسىيە شىركەتلىرىدە قوشۇمچە ۋەزىپە ئۆتىشىگە يول قويۇلمايدۇ. <br />ئاكسىيە شىركەتلىرىنىڭ مۇدىرى، نازارەتچىسى، دىرېكتورى ۋە كەسپىي خادىملىرىنىڭ باشقا ئاكسىيە شىركەتلىرىدە قوشۇمچە ۋەزىپە ئۆتىشىگە يول قويۇلمايدۇ.<br />128 – ماددا ئاكسىيە شىركىتى ھەر يىلى باج تاپشۇرغاندىن كېيىنكى پايدىدىن سودا خەۋپ – خەتىرى ئېھتىيات فوندى ئاجرىتىپ، ئاكسىيە سودىسىدا كۆرۈلگەن زىياننى تولدۇرۇشقا ئىشلىتىدۇ، ئۇنىڭ ئاجرىتىۋېلىنىدىغان كونكرېت نىسبىتىنى گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى بەلگىلەيدۇ.<br />129 – ماددا ئۇنىۋېرسال تۈردىكى ئاكسىيە شىركىتى تۆۋەندىكى ئاكسىيە كەسپىنى يولغا قويسا بولىدۇ: <br />(1) ئاكسىيە ۋاستىچىلىك كەسپى؛ <br />(2) ئاكسىيىنى ئۆز ئالدىغا تىجارەتكە سېلىش كەسپى؛ <br />(3) ئاكسىيە سېتىپ بېرىش كەسپى؛ <br />(4) گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باقۇرۇش ئاپپاراتىنىڭ تەكشۈرۈپ بېكىتىشىدىن ئۆتكۈزۈلگەن باشقا ئاكسىيە كەسىپلىرى.<br />130 – ماددا ۋاستىچىلىك تۈردىكى ئاكسىيە شىركەتلىرىنىڭ مەخسۇس ئاكسىيە ۋاستىچىلىك كەسپى بىلەن شۇغۇللىنىشىغىلا يول قويۇلىدۇ.<br />131 – ماددا ئاكسىيە شىركىتى ئالدىنقى ئىككى ماددىدا بەلگىلەنگەن كەسىپلەر بويىچە، كەسىپ دائىرىسىگە ئالاقىدار ئىلتىماس سۇنۇپ، گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىنىڭ تەكشۈرۈپ بېكىتىشىدىن ئۆتكۈزۈشى كېرەك. <br />ئاكسىيە شىركىتىنىڭ تەكشۈرۈپ بېكىتىلگەن كەسىپ دائىرىسىدىن ھالقىپ ئاكسىيە كەسپى ۋە باشقا كەسىپلەر بىلەن شۇغۇللىنىشىغا يول قويۇلمايدۇ.<br />132 – ماددا ئۇنۋىرسال تۈردىكى ئاكسىيە شىركەتلىرى ئۆزىنىڭ ۋاستىچىلىك كەسپى بىلەن ئۆز ئالدىغا تىجارەتكە سېلىش كەسپىنى ئايرىم – ئايرىم بېجىرىشى، كەسپىي خادىملىرىنى، مالىيە ھېسابىنى ئايرىۋېتىشى كېرەك، ئۇنى ئارىلاشتۇرۇپ باشقۇرۇشقا يول قويۇلمايدۇ. <br />مۇئامىلىدارلارنىڭ سودا راسچوت مەبلىغى بەلگىلەنگەن سودا بانكىسىغا تولۇق قويۇلۇشى، ئايرىم ھېساب ئېچىپ باشقۇرۇلۇشى شەرت. مۇئامىلىدارلارنىڭ سودا راسچوت مەبلىغىنى باشقا ئىشلارغا ئىشلىتىۋېلىش قەتئي مەنئى قىلىنىدۇ.<br />133 – ماددا بانكا مەبلىغىنىڭ قائىدىگە خىلاپ ھالدا پاي چېكى بازىرىغا ئېقىپ كىرىشى مەنئى قىلىنىدۇ. <br />ئاكسىيە شىركىتىنىڭ ئۆز ئالدىغا تىجارەتكە سېلىش كەسپىدە ئۆز ئىختىيارىدىكى مەبلەغ ۋە قانۇن بويىچە جۇغلانغان مەبلەغ ئىشلىتىلىشى شەرت.<br />134 – ماددا ئاكسىيە شىركىتى ئۆز ئالدىغا تىجارەتكە سېلىش كەسپىنى ئۆز نامىدا ئېلىپ بېرىشى شەرت، ئۇنى باشقىلارنىڭ نامىدا ياكى شەخىس نامىدا ئېلىپ بېرىشقا يول قويۇلمايدۇ. <br />ئاكسىيە شىركىتى ئۆزىنىڭ ئۆز ئالدىغا باشقۇرىدىغان ھېسابىنى باشقىلارنىڭ ئىشلىتىشىگە بېرىپ تۇرسا بولمايدۇ.<br />135 – ماددا ئاكسىيە شىركىتى قانۇن بويىچە ئۆز ئالدىغا تىجارەت قىلىش ھوقۇقىدىن بەھرىمەن بولىدۇ، ئۇنىڭ قانۇنلۇق تىجارىتى دەخلى – تەرۇزغا ئۇچرىمايدۇ.<br />136 – ماددا ئاكسىيە شىركىتىنىڭ رويخەتكە ئالدۇرغان كاپىتالى مۇشۇ قانۇندا بەلگىلەنگەن مۇناسىپ كەسىپ بىلەن شۇغۇللىنىش تەلپىدىكىگە يەتمىسە، گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى ئۇنىڭ ئالاقىدار كەسىپ دائىرىسى ئۈستىدىكى بېكىتمىسىنى ئەمەلدىن قالدۇرىدۇ.<br />137 – ماددا ئاكسىيە سودىسىدا، مۇئامىلىدارلارغا ۋاكالىتەن ئاكسىيە سودىسى قىلىدىغان، ۋاستىچىلىك كەسپى بىلەن شۇغۇللىنىدىغان ئاكسىيە شىركىتى قانۇنىي ئىگىلىك سالاھىيتىنى ھازىرلىغان ئاكسىيە ۋاستىچىسى بولىدۇ.<br />138 – ماددا ئاكسىيە شىركىتى ۋاستىچىلىك كەسپىنى بىجىرگەندە، مۇئامىلىدارلارغا ئايرىم – ئايرىم ھالدا ئاكسىيە ھېسابى ۋە مەبلەغ ھېسابى ئىچىپ بېرىشى ھەمدە مۇئامىلىدارلار تاپشۇرغان ئاكسىيە ۋە مەبلەغنى ھەربىر مۇئامىلىنىڭ ھېسابى بويىچە ئايرىپ باشقۇرۇشى، سودا خاتىرىسىنى ساختىپەزلىك قىلماي، ئەينەن خاتىرىلىشى شەرت. <br />مۇئامىلىدارلارنىڭ ھېساب ئاچقاندا، ئۆزىنىڭ جۇڭگو پۇقراسىلىق سالاھىيىتىنى ياكى جۇڭگو قانۇنىي ئىگىلىك سالاھىيتىنى ئىسپاتلايدىغان قانۇنلۇق گۇۋاھنامىسى بولۇشى شەرت.<br />139 – ماددا ئاكسىيە شىركىتى ۋاستىچىلىك كەسپىنى بېجىرىشتە، ھاۋالە قىلغۇچىنىڭ ئىشلىتىشى ئۈچۈن بىرتۇتاش تۈزۈلگەن ئاكسىيە سودا ھاۋالىنامىسىنى تەييارلاپ قويۇشى كېرەك. باشقا ھاۋالە ئۇسۇلىنى قوللانسا،&nbsp; ھاۋالە خاتىرىسى يېزىش شەرت. <br />مۇئامىلىدارلارنىڭ ئاكسىيە سودا ھاۋالىسى ۋۇجۇدقا چىقىش – چىقماسلىقىدىن قەتئىينەزەر، ئۇنىڭ ھاۋالە خاتىرسى بەلگىلەنگەن مۇددەتكىچە ئاكسىيە شىركىتىدە ساقلىنىشى كېرەك.<br />140 – ماددا ئاكسىيە شىركىتى ئاكسىيە سودا ھاۋالىسىنى قۇبۇل قىلغاندىن كېيىن، ھاۋالىنامىدە ئېنىق يېزىلغان ئاكسىيە نامى، ئېلىپ سېتىلىش سانى، باھا قويۇش ئۇسۇلى، باھا دائىرىسى قاتارلىقلارغا ئاساسەن، سودا قائىدىسى بويىچە ئاكسىينى ۋاكالىتەن ئېلىپ سېتىشى كېرەك؛ سودا ۋۇجۇدقا چىققاندىن كېيىن، بەلگىلىمە بويىچە سودا ۋۇجۇدقا چىققانلىق مەلۇمات تالونى تەييارلاپ مۇئامىلىدارغا بېرىشى كېرەك. <br />ئاكسىيە سودىسىدا سودا ھەرىكىتى ۋە سودا نەتىجىسى مۇئەييەنلەشتۈرۈلىدىغان ھېساب سېلشتۇرۇش تالونى ھەقىقىي بولۇشى ھەمدە ئۇنى سودا بېجىرگۈچى خادىملاردىن باشقا تەكشۈرۈپ سېلىشتۇرغۇچى خادىملار بىرمۇبىر سېلىشتۇرۇپ چىقىپ، ھېسابتىكى قالدۇق ئاكسىيە بىلەن ئەمەلىيەتتە ئىلكىدە تۇتۇپ تۇرغان ئاكسىيىنىڭ بىردەك چىقىشىغا كاپالەتلىك قىلىشى شەرت.<br />141 – ماددا ئاكسىيە شىركىتى ھاۋالىنى قۇبۇل قىلىپ ساتقان ئاكسىيە مۇئامىلىدارلارنىڭ ئاكسىيە ھېسابىدىكى نەق ئاكسىيە بولۇشى شەرت، مۇئامىلدارلارغا ئاكسىيە يۈرۈشتۈرۈش سودىسى قىلىپ بېرىشكە بولمايدۇ. <br />ئاكسىيە شىركىتى ھاۋالىنى قۇبۇل قىلىپ سېتىۋالغان ئاكسىيە مۇئامىلىدارلارنىڭ مەبلەغ ھېسابىدا نەق مەبلەغ يۈرۈشتۈرۈش سودىسى قىلىپ بېرىشكە بولمايدۇ.<br />142 – ماددا ئاكسىيە شىركىتىنىڭ ۋاستىچىلىك كەسپىنى بېجىرىشتە، مۇئامىلىدارنىڭ تولۇق ھوقۇقلۇق ھاۋالىسىنى قوبۇل قىلىپ، ئاكسىيە سودىسى قىلىشنى، ئاكسىيە تۈرىنى تاللاشنى قارارقىلىشىغا، ئېلىپ سېتىش سانىنى – باھاسىنى بەلگىلىشىگە يول قويۇلمايدۇ.<br />143 – ماددا ئاكسىيە شىركىتىنىڭ مۇئامىلىدارنىڭ ئاكسىيە سودىسىدا پايدا ئېلىش توغرىسىدا ياكى ئاكسىيە سودىسىدا تارتقان زىيىنىنى تۆلەپ بېرىش توغرىسىدا ھەرقانداق ئۇسۇل بىلەن ۋەدە بېرىشىگە يول قويۇلمايدۇ.<br />144 – ماددا ئاكسىيە شىركىتىنىڭ ۋە ئۇنىڭ كەسىپكارلىرىنىڭ ئۆزىنىڭ قانۇنلۇق تەسىس قىلىنغان تىجارەت سورۇنىدىن باشقا يەردە مۇئامىلىدارلارنىڭ ئاكسىيە ئېلىپ سېتىش توغرسىدىكى ھاۋالىسىنى يەڭ ئىچىدە قۇبۇل قىلىشىغا يول قويۇلمايدۇ.<br />145 – ماددا ئاكسىيە شىركىتىنىڭ كەسىپكارلىرى ئاكسىيە سودىسى پائالىيتىدە، ئۆزى قاراشلىق ئاكسىيە شىركىتىنىڭ كۆرسەتمىسى بويىچە ياكى ۋەزىپىسىدىن پايدىلىنىپ سودا قائىدىسىگە خىلاپلىق قىلسا، ئۇنىڭ بارلىق جاۋابكارلىقىنى ئۇ قاراشلىق ئاكسىيە شىركىتى ئۈستىگە ئاكىدۇ.<br />7 - باب ئاكسىيە تىزىملاش - راسچوت قىلىش ئاپپاراتى<br />146 – ماددا ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتى ئاكسىيە سودىسىنى مەركەزلەشتۈرۈپ تىزىملاش، ھاۋالە بىلەن باشقۇرۇش ۋە راسچوت قىلىش مۇلازىمىتى بىلەن تەمىنلەيدىغان، پايدا ئېلىشنى كۆزلىمەيدىغان قانۇنىي ئىگە. <br />ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتىنى تەسىس قىلىشتا گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىنىڭ تەستىقىدىن ئۆتكۈزۈش شەرت.<br />147 – ماددا ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتىنى تەسىس قىلىشتا تۆۋەندىكى شەرتلەرنى ھازىرلىشى كېرەك: <br />(1) ئۆز مەبلىغى خەلق پۇلى ھېسابىدا 200 مىليون يۈەندىن كەم بولماسلىق؛ <br />(2) ئاكسىيە تىزىملاش، ھاۋالە بىلەن باشقۇرۇش ۋە راسچوت قىلىش مۇلازىمىتى ئۈچۈن زۆرۈر بولغان سورۇن ۋە ئەالىھەلەرگە ئىگە بولۇش؛ <br /> (3) ئاساسلىق باشقۇرۇغۇچىلىرى ۋە كەسپىي خادىملىرى ئاكسىيە كەسپى بىلەن شۇغۇللىنىش سالاھىتىگە ئىگە بولۇش؛ <br />(4) گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى بەلگىلىگەن باشقا شەرتلەر. <br />ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتىنىڭ نامىغا ئاكسىيە تىزىملاش – راسچوت قىلىش دېگەن سۆزلەر ئېنىق يېزىلىشى كېرەك.<br />148 – ماددا ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتى تۆۋەندىكىدەك فۇنكسىيىلەرنى ئادا قىلىدۇ: <br />(1) ئاكسىيە ھېسابى، راسچوت ھېسابى تەسىس قىلىش؛ <br />(2) ئاكسىيىنى ھاۋالە بىلەن باشقۇرۇش ۋە مۈلۈك ئىگىسىنىڭ ئىسمىنى يەڭگۈشلەش؛ <br />(3) ئاكسىيە ئىگىسىنىڭ نامىنى رويخەتكە ئېلىپ تىزىملاش؛ <br />(4) ئاكسىيە بىرژىسى بازارغا سالغان ئاكسىيىنىڭ سودا ھېسابىنى قىلىش ۋە ئۇنى تاپشۇرۇپ بېرىش – ئۆتكۈزۋېلىش؛ (5) تارقاتقۇچىنىڭ ھاۋالىسى بويىچە ئاكسىيە ھوقۇق – مەنپەئەت ۋەزىپىسىنى يۈكلەش؛ <br />(6) يۇقىرىدا ئېيتىلغان كەسپلەرگە مۇناسىۋەتلىك سۈرۈشتۈرۈش ئىشلىرىنى بېجىرىش؛ <br />(7) گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى تەستىقلىغان باشقا كەسىپلەر.<br />149 – ماددا ئاكسىيە تىزىملاش – راسچوت قىلىشتا مەملىكەت بويىچە مەركەزلەشتۈرۈپ بىرلىككە كەلتۈرگەن تىجارات ئۇسۇلى قوللىنىلىدۇ. <br />ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتىنىڭ نىزامنامىسى، كەسىپ قائىدىسى قانۇن بويىچە تۈزۈلۈشى ھەمدە گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىنىڭ تەستىقىدىن ئۆتكۈزۈلۈشى كېرەك.<br />150 – ماددا ئاكسىيە ئىگىسى ئىلكىدىكى ئاكسىيىنى سودىغا سېلىشتىن ئىلگىرى، ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتىنىڭ باشقۇرۇشىغا تولۇق ھاۋالە قىلىشى كېرەك. <br />ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتىنىڭ مۇئامىلىدارنىڭ ئاكسىيىسىنى كۆرۈگەن قويۇشىغا ياكى باشقىلارغا ئۆتنە بېرىپ تۇرۇشىغا يول قويۇلمايدۇ.<br />151 – ماددا ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتى ئاكسىيە تارقاتقۇچىغا ئاكسىيە ئىگىسىنىڭ ئىسملىكىنى ۋە ئۇلارنىڭ ئالاقىدار ماتېرىيالىنى بېرىشى لازىم. <br />ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتى ئاكسىيىنى تىزىملاش – راسچوت قىلىش نەتىجىسىگە ئاساسەن، ئاكسىيە ئىگىسى ئىلكىدىكى ئاكسىيىنىڭ ئەمەلىيەت ئىكەنلىكىنى مۇئەييەنلەشتۈراشى، ئاكسىيە ئىگىسىگە تىزىملاش ماتېرىيالى يەتكۈزۈپ بېرىشى كېرەك. <br />ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتى ئاكسىيە ئىگىسى ئىسىملىكنىڭ ۋە تىزىملاش، مۈلۈك ئىگىسىنىڭ ئىسمىنى يەڭگۈشلەش خاتىرىسىنىڭ ھەقىقىي، توغرا، مۇكەممەل بولۇشىغا كاپالەتلىك قىلىشى كېرەك، ئۇنى ياسىۋېلىشقا، ئۆزگەرتىۋېتىشكە، كېرەكسىز قىلىۋېتىشكە بولمايدۇ.<br />152 – ماددا ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتى تۆۋەندىكىدەك تەدبىرلەرنى قوللىنىپ، كەسپىنىڭ نورمال يۈرۈشۈپ تۇرۇشىغا كاپالەتلىك قىلىشى كېرەك: <br />(1) زۆرۈر مۇلازىمەت ئەسلىھەلىرى ۋە سانلىق مەلۇمات بىخەتەرلىكىنى قوغداشقا دائىر مۇكەممەل تەدبىرلىرى بولۇش؛ <br />(3) كەسىپ، مالىيە ۋە بىخەتەرلىك – ئېھتىيات قاتارلىقلارغا دائىر مۇكەممەل باشقۇرۇش تۈزۈملىرىنى ئورنىتىش؛ <br />(3) خەۋپ – خەتەر ئىشلىرىنى باشقۇرۇش بويىچە مۇكەممەل سىستېما قۇرۇش؛<br />153 – ماددا ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتى تىزىملاش، ھاۋالە بىلەن باشقۇرۇش ۋە راسچوت قىلىشقا دائىر دەسلەپكى دوكومېنتلارنى ئوبدان ساقلىشى كېرەك. مۇھىم دەسلەپكى دوكومېنتىلارنى ساقلاش مۇددىتى 20 يىلدىن كەم بولماسلىقى كېرەك.<br />154 – ماددا ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپارتى راسچوت خەۋپ – خەتەر فوندى تەسىس قىلىشى ھەمدە ئۇنى بەلگىلەنگەن بانكىنىڭ مەخسۇس ھېسابىغا كىرگۈزۈپ ساقلىشى كېرەك. راسچوت خەۋپ – خەتەر فوندى تېخنىكىلىق چاتاق، مەشغۇلات سەۋەنلىكى ۋە قارشى تۇرغىلى بولمايدىغان كۈچ سەۋەبىدىن كېلىپ چىققان ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتىنىڭ زىيىنى ئۈچۈن ئىشلىتىلىدۇ. <br />ئاكسىيە راسچوت خەۋپ – خەتەر فوندى ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتىنىڭ كەسپى كىرىمىدىن ۋە تاپاۋىتىدىن ئاجرىتىلىدۇ ھەمدە ئاكسىيە شىركىتى ئاكسىيە سودىسى تىجارەت مىقدارىنىڭ مەلۇم نىسبىتى بويىچە تاپشۇرسىمۇبولىدۇ. <br />ئاكسىيە راسچوت خەۋپ – خەتەر فوندى توپلاش، باشقۇرۇش چارىسىنى گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى گوۋۇيۈەننىڭ مالىيە تارمىقى بىلەن بىرلىكتە بەلگىلەيدۇ.<br />155 – ماددا ئاكسىيە راسچوت خەۋپ – خەتەر فوندى مەخسۇس تۈر بويىچە باشقۇرۇلۇشى كېرەك. <br />ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتى زىياننى خەۋپ – خەتەر فوندى بىلەن تۆلىگەندىن كېيىن، ئالاقىدار جاۋابكارلاردىن تۆلىتىۋېلىشى كېرەك.<br />156 – ماددا ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتى تارقىلىپ كېتىشىنى ئىلتىماس قىلسا، گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىنىڭ تەستىقىدىن ئۆتكۈزۈشى كېرەك.<br />8 – باب ئاكسىيە سودىسى ئۈچۈن مۇلازىمەت قىلىدىغان ئاپپاراتلار.<br />157 – ماددا ئاكسىيىگە مەبلەغ سېلىش ۋە ئاكسىيە سودىسى كەسىپنىڭ ئېھتىياجىغا ئاساسەن، ئاكسىيىگە مەبلەغ سېلىشقا كەسپىي مەسلىھەت بېرىش ئاپپاراتى، ئىناۋەت باھالاش ئاپپاراتى تەسىس قىلىنسا بولىدۇ. ئاكسىيىگە مەبلەغ سېلىشقا مەسلىھەت بېرىش ئاپپاراتى، ئىناۋەت باھالاش ئاپپاراتىنى تەسىس قىلىش شەرتى، تەكشۈرۈپ تەستىقلاش رەسمىيىتى ۋە كەسىپ قائىدىسىنى گوۋۇيۈەن ئاكسىيە نازارەت قىلىش ئاپپاراتى بەلگىلەيدۇ.<br />158 – ماددا ئاكسىيىگە مەبلەغ سېلىشقا كەسپىي مەسلىھەت بېرىش ئاپپاراتى، ئىناۋەت باھالاش ئاپپاراتىنىڭ كەسپىي خادىملىرى ئاكسىيە كەسپى بىلىمىگە ئىگە بولۇشى ۋە ئاكسىيە كەسپى بىلەن شۇغۇللىنىش جەھەتتە ئىككى يىلدىن ئارتۇق تەجرىبىگە ئىگە بولۇشى شەرت. ئۇلارنىڭ ئاكسىيە كەسپى بىلەن شوغۇللىنىش سالاھىيىتىنى بېكىتىش ئۆلچىمىنى&nbsp; ۋە ئۇلارنى باشقۇرۇش چارىسىنى گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى تۈزىدۇ.<br />159 – ماددا ئاكسىيىگە مەبلەغ سېلىشقا مەسلىھەت بېرىش ئاپپاراتى كەسىپكارلىرىنىڭ تۆۋەندىكىدەك ھەركەتلەر بىلەن شوغۇللىنىشىغا يول قويۇلمايدۇ:<br />(1) ھاۋالە قىلغۇچىغا ۋاكالىتەن ئاكسىيىگە مەبلەغ سېلىشقا مەسلىھەت بېرىش ئاپپاراتى كەسىپكارلارنىڭ تۆۋەندىكىدەك ھەرىكەتلەر بىلەن شوغۇللىنىش؛ <br />(2) ھاۋالە قىلغۇچىغا ۋاكالىتەن ئاكسىيىگە مەبلەغ سېلىشتىن ئېرىشكەن پايدىدىن تەڭ بەھرىمەن بولۇش ياكى ئاكسىيىگە مەبلەغ سېلىشتىن يەتكەن زىياننى تەڭ ئۈستىگە ئېلىش توغرىسىدا پۈتۈشۈش؛<br />(3) ئۆز مەسلىھەت بېرىش ئاپپاراتى مۇلازىمەت قىلىدىغان، پاي چېكى بازارغا سېلىنغان شىركەتنىڭ پاي چېكىنى ئېلىپ سېتىش؛ <br />(4) قانۇن، مەمۇرىي نىزاملاردا مەنئى قىلىنغان باشقا ھەركەتلەر.<br />160 – ماددا ئاكسىيىگە مەبلەغ سېلىشقا كەسپىي مەسلىھەت بېرىش ئاپپاراتى ۋە ئىناۋەت باھالاش ئاپپاراتى گوۋۇيۈەننىڭ ئالاقىدار باشقۇرغۇچى تارمىقى بەلگىلىگەن ئۆلچەم ياكى ھەق ئېلىش چارىسى بويىچە مۇلازىمەت ھەققى ئېلىشى لازىم.<br />161 – ماددا ئاكسىيە تارقىتىش، پاي چېكىنى بازارغا سېلىش ئۈچۈن ياكى ئاكسىيە سودىسى پائالىيىتى ئۈچۈن ئىقتىسادىي تەپتىش دوكلاتى، مۈلۈكنى باھالاش دوكلاتى ياكى قانۇن پىكىر نامىسىگە ئوخشاش ھۆججەتلەرنى بېرىدىغان كەسپىي ئاپپارات ۋە خادىملار كەسىپ بىلەن شۇغۇللىنىش قائىدىسىدە بەلگىلەنگەن خىزمەت تەرتىپى بويىچە دوكلات بېرىشى، ئۆزى بەرگەن شۇ دوكلات مەزمۇنىنىڭ چىنلىقى، توغرىلىقى ۋە مۇكەممەللىكىنى سېلىشتۇرۇپ تەكشۈرۈشى ۋە ئىسپاتلىشى ھەمدە ئۆزى مەسئۇل بولىدىغان قىسمىدا چاتما جاۋابكارلىقنى ئۈستىگە ئېلىش شەرت.<br />9 – باب ئاكسىيە جەمئىيىتى<br />162 – ماددا ئاكسىيە كەسپى جەمئىيىتى – ئاكسىيە كەسپىنىڭ تەلەپچان تەشكىلاتى، ئىجتىمائىي تەشكىلات تىپىدىكى قانۇنىي ئىگە. <br />ئاكسىيە شىركىتى ئاكسىيە كەسپى جەمئىيىتىگە قاتنىشىشى كېرەك. <br />ئاكسىيە كەسپى جەمئىيىتىنىڭ بارلىق ئەزاسىدىن تەركىب تاپقان ئەزالار يىغىنى ئاكسىيە كەسپى جەمئىيىتىنىڭ ھوقۇقلۇق ئاپپاراتىدۇر.<br />163 – ماددا ئاسىيە كەسپى جەمئىيىتىنىڭ نىزامنامىسىنى ئەزالار يىغىنى تۈزۈپ چىقىدۇ ۋە گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىغا ئەنگە ئالدۇرىدۇ.<br />164 – ماددا ئاكسىيە كەسپى جەمئىيىتى تۆۋەندىكىدەك مەسئۇلىيەتلەرنى ئادا قىلىدۇ:<br />(1) ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىغا ھەمكارلىشىپ ئەزالارنى ئاكسىيىگە دائىر قانۇن، مەمۇرىي نىزاملارنى ئىجرا قىلىشقا تەربىيلەيدۇ ۋە تەشكىللەيدۇ؛<br />(2) ئەزالارنىڭ قانۇنىي ھوقۇق – مەنپەئىتىنى قانۇن بويىچە قوغدايدۇ، ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىغا ئەزالارنىڭ تەۋسىيە ۋە تەلەپلىرىنى ئىنكاس قىلىدۇ؛ <br />(3) ئاكسىيىگە دائىر ئۇچۇرلارنى يىغىپ، رەتلەپ، ئەزالار ئۈچۈن مۇلازىمەت قىلىدۇ؛<br />(4) ئەزالار ئەمەل قىلىشقا تېگىشلىك قائىدە – نىزاملارنى تۈزىدۇ، ئەزا ئورۇنلاردىكى كەسپكارلارنى كەسىپ جەھەتتىن تەربىيىلەشكە تەشكىلاتچىلىق قىلىدۇ، ئەزالار ئارا كەسپىي تەجەرىبە ئالماشتۇرۇشنى قانات يايدۇرىدۇ؛<br />(5) ئەزالار ئوتتۇرىسىدا، ئەزالار بىلەن مۇئامىلىدارلار ئوتتۇرىسىدا كېلىپ چىققان ماجىرانى ياراشتۇرىدۇ؛<br />(6) ئەزالارنى ئاكسىيە كەسپىنىڭ تەرەققىياتى، يۈرۈشۈپ تۇرۇشى ئۈستىدە ۋە ئالاقىدار مەزمۇنلار ئۈستىدە تەتقىقات ئېلىپ بېرىشقا تەشكىللەتدۇ؛<br />(7)ئەزالارنىڭ&nbsp; ھەركىتىنى نازارەت قىلىدۇ، تەكشۈرىدۇ، قانۇن، مەمۇرىي نىزام ياكى جەمئىيەت نىزامنامىسىگە خىلاپلىق قىلغانلارغا بەلگىلىمە بويىچە ئىنتىزام جازاسى بېرىلىدۇ؛<br />(8) گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى يۈكلىگەن باشقا مەجبۇرىيەتلەر.<br />165 – ماددا ئاكسىيە كەسپى جەمئىيىتى مۇدرىيەت تەسىس قىلىدۇ. مۇدىرىيەت ئەزالىرى نىزامنامىدىكى بەلگىلىمە بويىچە سايلام ئارقىلىق ۋۇجۇدقا كېلىدۇ.<br />10 – باب ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى<br />166– ماددا گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى قۇنۇن بويىچە ئاكسىيە بازىرىنى نازارەت قىلىدۇ ۋە باشقۇرىدۇ، ئاكسىيە بازىرىنىڭ تەرتىپىنى قوغدايدۇ، ئۇنىڭ قانۇنلۇق يۈرۈشۈشىگە كاپالەتلىك قىلىدۇ.<br />167 – ماددا گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى ئاكسىيە بازىرىنى نازارەت قىلىش – باشقۇرۇش جەريانىدا تۆۋەندىكى مەسئۇلىيەتلەرنى ئادا قىلىشى كېرەك:<br />(1) ئاكسىيە بازىرىنى نازارەت قىلىش – باشقۇرۇشقا دائىر قائىدە، نىزاملارنى قانۇن بويىچە تۈزۈش ھەمدە تەكشۈرۈپ تەستىقلاش ھوقۇقىنى قانۇن بويىچە يۈرگۈزۈش؛<br />(2) ئاكسىيە تارقىتىش، ئاكسىيە سودىسى، تىزىملاش، ھاۋالە بىلەن باشقۇرۇش، راسچوت قىلىش ئىشلىرىنى قانۇن بويىچە نازارەت قىلىش ۋە باشقۇرۇش؛ <br />(3) ئاكسىيە تارقاتقۇچى، پاي چېكى بازارغا سېلىنىدىغان شىركەت، ئاكسىيە بىرژىسى، ئاكسىيە شىركىتى ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتى، ئاكسىيىگە مەبلەغ سېلىش فوندىنى باشقۇرۇش ئاپپاراتى، ئاكسىيىگە مەبلەغ سېلىشقا مەسلىھەت بېرىش ئاپپاراتى، ئىناۋەت باھالاش ئاپپاراتى شۇنىڭدەك ئاكسىيە كەسپى بىلەن شۇغۇللىنىدىغان ئادۇكاتلىق ئورنى، بۇغالتىرلىق ئورنى، مۈلۈك باھالاش ئاپپاراتىنىڭ ئاكسىيە كەسپى پائالىيەتلىرىنى قانۇن بويىچە نازارەت قىلىش – باشقۇرۇش؛ <br />(4) ئاكسىيە كەسپى بىلەن شۇغۇللىنىدىغان خادىملارنىڭ سالاھىيەت ئۆلچىمىنى ۋە ھەرىكەت مىزانىنى قانۇن بويىچە تۈزۈش ھەمدە ئۇنىڭ يولغا قويۇلۇشىنى نازارەت قىلىش؛ <br />(5) ئاكلسىيە تاقىتىش ۋە ئاكسىيە سودىسىغا دائىر ئۇچۇرنى ئاشكارىلاش ئەھۋالىنى قانۇن بويىچە نازارەت قىلىش – تەكشۈرۈش؛ <br />(6) ئاكسىيە كەسپى جەمئىيىتىنىڭ پائالىيىتىگە قانۇن بويىچە يېتەكچىلىك ۋە نازارەتچىلىك قىلىش؛ <br />(7) ئاكسىيە بازىرىنى نازارەت قىلىش – باشقۇرۇشقا دائىر قانۇن، مەمۇرىي نىزاملارغا خىلاپ قىلىمىشلارنى قانۇن بويىچە تەكشۈرۈپ بىر تەرەپ قىلىش؛ <br />(8) قانۇن، مەمۇرىي نىزاملاردا بەلگىلەنگەن باشقا مەسئۇلىيەتلەر.<br />168 – ماددا گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى مەسئۇلىيىتىنى قانۇن بويىچە ئادا قىلغاندا تۆۋەندىكى تەدبىرلەرنى قوللىنىشقا ھوقۇقلۇق: <br />(1) قانۇنغا خىلاپ قىلىمىش يۈز بەرگەن ئورۇنغا كىرىپ تەكشۈرۈپ ئىسپات ئېلىش؛ <br />(2) ئالاقىدار تەرەپلەردىن ۋە تەكشۈرۈلىدىغان ۋەقە بىلەن ئالاقىدا ئورۇن ۋە شەخستىن سۇئال سوراش، ئۇلاردىن تەكشۈرۈلىدىغان ۋەقەگە ئالاقىدار ئىشلار ئۈستىدە ئىزاھات بېرىشنى تەلەپ قىلىش؛ <br />(3) ئالاقىدا ر تەرەپلەر ۋە تەكشۈرۈلدىغان ۋەقەگە ئالاقىدار ئورۇن ۋە شەخسنىڭ ئاكسىيە سودا خاتىرىسى، مۈلۈك ئىگىسىنىڭ ئىسمىنى تىزىملاپ يەڭگۈشلەش خاتىرىسى، مالىيە – بوغالتىرلىق ماتېرىيالىلىرى ۋە باشقا ئالاقىدار ھۆججەت، ماتېرىياللارنى كۆرۈش، تەقلىد قىلىپ ئىشلەش، يۆتكىۋېتىلىش ياكى يۇشۇرۇلۇش ئېھتىمالى بولغان ھۆججەت، ماتېرىياللارنى پېچەتلەپ ساقلىسا بولىدۇ؛ <br />(4) ئالاقىدار تەرەپلەر ۋە تەكشۈرۈلىدىغان ۋەقەگە ئالاقىدار ئورۇن ۋە شەخسىنىڭ مەبلەغ ھېسابى، ئاكسىيە ھېسابىنى تەكشۈرۈش، قانۇنىغا خىلاپ مەبلەغ ۋە ئاكسىيىنىڭ يۆتكىۋېتىلىش ياكى يوشۇرۇلۇش ئالامەتلىرىنىڭ بالىقىنى ئىسپاتلاپ بېرىدىغان دەلىل – ئىسپات بولسا، ئەدلىيە ئورگانلىرىنىڭ توڭلىتىپ قويۇشىنى ئىلتىماس قىلسا بولىدۇ.<br />169 – ماددا گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىدىكى خادىملار مەسئۇلىيىتىنى قانۇن بويىچە ئادا قىلىپ، نازارەت، تەكشۈرۈش ئېلىپ بارغاندا ياكى ئەھۋال ئىگىكىگەندە، ئالاقىدار گۇۋاھنامىلىرىنى كۆرسىتىشى ھەمدە خەۋەر تاپقان ئالاقىدار ئورۇن ۋە شەخسنىڭ سودا مەخپىيىتىنى ساقلاش مەجبۇرىيىتىنى ئۈستىگە ئېلىشى كېرەك.<br />170 – ماددا گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىدىكى خادىملار ئۆز ئىشىغا سادىق بولۇشى، قانۇن بويىچە ئىش بېچىرىشى، ھۆكۈمەت ئىشىدا ئادىل – پاك بولۇشى، ئۆزىنىڭ خىزمىتىدىكى قولايلىقتىن پايدىلىنىپ نامۇۋاپىق پايدا ئالىدىغان ئىشنى قىلماسلىقى شەرت.<br />171 – ماددا گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى قۇنۇن بويىچە مەجبۇرىيىتىنى ئۆتىگەندە، تەكشۈرۈلىدىغان ھەم ئەھۋال ئىگىلىنىدىغان ئورۇن ۋە شەخس ئۇنىڭغا ماسلىشىپ، ئالاقىدار ھۆججەت، ماتېرىياللارنى يوشۇرماي ئەينەن يەتكۈزۈپ بېرىش لازىم. ئۇنى رەت قىلىشقا، ئۇنىڭغا توسقۇنلۇق قىلىشقا بولمايدۇ.<br />172 – ماددا گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى قانۇن بويىچە تۈزگەن قائىدە، نىزام ۋە نازارەت قىلىش – باشقۇرۇش خىزمەت تۈزۈمى ئاشكارا بولۇشى كېرەك. <br />گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى تەكشۈرۈزش نەتىجىسىگە ئاساسەن، ئاكسىيىگە دائىر قانۇنغا خىلاپ قىلمىشلار ئۈستىدە چىقارغان جازا قارارى ئاشكارا بولۇشى كېرەك.<br />173 – ماددا گوۋۇيۈەن ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى مەجبۇرىيىتىنى قانۇن بويىچە ئۆتىگەندە، ئاكسىيىگە دائىر قانۇنغا خىلاپ قىلمىشنىڭ گۇمانىي جىنايەتكە چېتىلىدىغانلىقىنى سەزسە، دېلونى ئەدلىيە ئورگانلىرىنىڭ بىر تەرەپ قىلىش – باشقۇرۇش ئاپپاراتىدىكى خادىملارنىڭ نازارەت قىلىنىدىغان ۋە باشقۇرۇلىدىغان ئاپپاراتتا قوشۇمچە ۋەزىپە ئۆتۈشىگە يول قويۇلمايدۇ.<br />11 – باب قانۇن جاۋابكارلىقى<br />175 – ماددا قانۇنىي ئورگاننىڭ تەكشۈرۈپ تەستىقلىشىدىن ئۆتكۈزمەي تۇرۇپ، ئۆز بېشىمچىلىق بىلەن ئاكسىيە تارقاتقان ياكى يالغان تارقىتىش ھۆججىتى تەييارلاپ ئاكسىيە تارقاتقانلار ئاكسىيە تارقىتىشىنى توختىتىشقا بويرۇلىدۇ، توپلىغان مەبلىغى قايتۇرغۇزۇلىدۇ ۋە بانكىنىڭ شۇ مەزگىلدىكى ئامانەت پۇل ئۆسۈمى قوشۇپ ھېسابلىنىدۇ، قۇشۇمچە قانۇنسىز توپلىغان مەبلەغ سوممىسىنىڭ 1 ىدىن يۇقىرى، 5 ىدىن تۆۋەن جەرىمانە قويۇلىدۇ. بىۋاستە جاۋابكار مەسئۇل خادىمغا ۋە بىۋاستە جاۋابكار باشقا خادىملارغا ئاگاھلاندۇرۇش بېرىلىدۇ، قوشۇمچە ئۇلارغا 30 مىڭ يۈەندىن يۇقىرى، 300 مىڭ يۈەندىن تۆۋەن جەرىغانە قويۇلىدۇ. جىنايەت شەكىللەنگەنلەرنىڭ جىنايى جاۋابكارلىقى قانۇن بويىچە سۈرۈشتۈرۈلىد%ۇ.<br />176 – ماددا سېتىپ بېرىش ياكى ۋاكالىتەن سېتىۋېلىش – سېتىشنى تەكشۈرۈپ تەستىقلاشتىن ئۆتكۈزمەي تۇرۇپ، ئۆز بېشىمچىلىق بىلەن ئاكسىيە تارقاتقان ئاكسىيە شىركىتىنىڭ ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى ئەمەلدىن قالدۇرىدۇ، قانۇنسىز تاپقان تاپاۋىتىنى مۇسادىرە قىلىدۇ، قوشۇمچە قانۇنسىز تاپاۋىتىنىڭ بىر ھەسسىسىدىن يۇقىرى، بەش ھەسسىسىدىن تۆۋەن جەرىمانە قويۇلىدۇ. بىۋاسىتە جاۋابكار مەسئۇل خادىمغا ۋە بىۋاستە جاۋابكار باشقا خادىملارغا ئاگاھلاندۇرۇش بېرىلىدۇ، قوشۇمچە 30 مىڭ يۈەندىن يۇقىرى، 300 مىڭ يۈەندىن تۆۋەن جەرىمانە قويۇلىدۇ. جىنايەت شەكىللەندۈرگەنلەرنىڭ جىنايى جاۋابكارلىقى قانۇن بويىچە سۈرۈشتۈرۈلىدۇ.<br />177 – ماددا مۇشۇ قانۇندىكى بەلگىلىمە بويىچە، تەكشۈرۈپ تەستىقلاشتىن ئۆتكۈزۈلۈپ سودىغا سېلىنىدىغان ئاكسىيىنى تارقاتقۇچى ئۇچۇرنى ئالاقىدار بەلگىلىمە بويىچە ئاشكارىلىمىغان ياكى ئاشكارلىغان ئۇچۇردا يالغان نەرسىلەر يېزىلغان، ئازدۇرۇش خاراكتېرىدىكى نەرسىلەر بايان قىلىنغان ياكى مۇھىم مەزمۇنلار&nbsp; چۈشۈپ قالغان بولسا، ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى تۈزىتىشكە بويرۇيدۇ، تارقاتقۇچىغا 300 مىڭ يۈەندىن يۇقىرى، 600 مىڭ يۈەندىن تۆۋەن جەرىمانە قويىدۇ. بىۋاسىتە جاۋابكار مەسئۇل خادىمغا ۋە بىۋاستە جاۋابكار باشقا خادىملارغا ئاگاھلاندۇرۇش بېرىلىدۇ، قوشۇمچە 30 مىڭ يۈەندىن يۇقىرى، 300 مىڭ يۈەندىن تۆۋەن جەرىمانە قويۇلىدۇ. جىنايەت شەكىللەندۈرگەنلەرنىڭ جىنايى جاۋابكارلىقى قانۇن بويىچە سۈرۈشتۈرۈلىدۇ. <br />ئالدىنقى تارماقتا ئېيتىلغان تارقاتقۇچى ئۆزىنىڭ پاي چېكىنى بازارغا سېلىش توغرىسىدىكى ھۆججەتلىرىنى ئۆز ۋاقتىدا ئېلان قىلمىغان ياكى ئالاقىدا دوكلاتلارنى ئۆز ۋاقتىدا يەتكۈزۈپ بەرمىگەن بولسا، ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى تۈزىتىشكە بويرۇيدۇ، تارقاتقۇچىغا 50 مىڭ يۈەندىن يۇقىرى، 100 مىڭ يۈەندىن تۆۋەن جەرىمانە قويىدۇ.<br />178 – ماددا ئاكسىيە سودا ئورنىنى قانۇنسىز ئېچىۋالغانلارنى ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى ئەمەلدىن قالدۇرىدۇ، قانۇنغا خىلاپ تاپاۋىتىنى مۇسادىرە قىلىدۇ، قوشۇمچە قانۇنغا خىلاپ تاپقان تاپاۋىتىنىڭ بىر ھەسسىسىدىن يۇقىرى، بەش ھەسسىسىدىن تۆۋەن جەرىمانە قويىدۇ. قانۇنغا خىلاپ تاپاۋىتى بولمىسا، 100 مىڭ يۈەندىن يۇقىرى، 500 مىڭ يۈەندىن تۆۋەن جەرىمانە قويىدۇ. بىۋاستە جاۋابكار مەسئۇل خادىمغا ۋە بىۋاستە جاۋابكار باشقا خادىملارغا ئاگاھلاندۇرۇش بېرىلىدۇ، قوشۇمچە 30 مىڭ يۈەندىن يۇقىرى، 300 مىڭ يۈەندىن تۆۋەن جەرىمانە قويىدۇ. جىنايەت شەكىللەندۈرگەنلەرنىڭ جىنايى جاۋابكارلىقى قانۇن بويىچە سۈرۈشتۈرۈلىدۇ.<br />179 – ماددا تەستىقتىن ئۆتكۈزمەي ھەمدە كەسىپ ئىجازەتنامىسىنى ئالماي تۇرۇپ، ئۆز بېشىمچىلىق بىلەن ئاكسىيە شىركىتى قۇرۇپ، ئاكسىيە كەسپى بىلەن شۇغۇللانغانلارنى ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى ئەمەلىدىن قالدۇرىدۇ، قانۇنغا خىلاپ تاپقان تاپاۋىتىنى مۇسادىرە قىلىدۇ، قوشۇمچە قانۇنغا خىلاپ تاپقان تاپاۋىتىنىڭ بىر ھەسسىسىدىن يۇقىرى، بەش ھەسسىسىدىن تۆۋەن جەرىمانە قويىدۇ. قانۇنغا خىلاپ تاپاۋىتى بولمىغانلارغا 30 مىڭ يۈەندىن يۇقىرى، 100 مىڭ يۈەندىن تۆۋەن جەرىمانە قويىدۇ. جىنايەت شەكىللەندۈرگەنلەرنىڭ جىنايى جاۋابكارلىقى قانۇن بويىچە سۈرۈشتۈرۈلىدۇ.<br />180 – ماددا قانۇن ۋە مەمۇرىي نىزاملاردا پاي چېكى سودىسىغا قاتنىشىشى مەنئى قىلىنغانلىقى بەلگىلەنگەن خادىملاردىن بىۋاستە ياكى ئۆزگەرتىۋالغان نامى، باشقىلارنىڭ نامى بىلەن پاي چېكىنى ئىلكىدە تۇتقان، ئېلىپ ساتقانلار قانۇنسىز ئىلكىدە تۇتقان پاي چېكىنى قانۇن بويىچە بىر تەرەپ قىلىشقا بويرۇلىدۇ، قانۇنغا خىلاپ تاپقان تاپاۋىتى مۇسادىرە قىلىنىدۇ، قوشۇمچە ئېلىپ ساتقان پاي چېكى قىممىتىدىن تۆۋەن جەرىمانە قويۇلىدۇ؛ دۆلەت خادىمى بولغانلارغا قانۇن بويىچە يەنە مەمۇرىي چارە كۆرۈلىدۇ.<br />181 ماددا ئاكسىيە بىرژىسى، ئاكسىيە شىركىتى، ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتى، ئاكسىيە سودىسى ئۈچۈن مۇلازىمەت قىلىدىغان ئاپپاراتلارنىڭ كەسىپكارلىرى ئاكسىيە كەسپى جەمئىيىتى ياكى ئاكسىيە نازارەت قىلىش– باشقۇرۇش ئاپپاراتىنىڭ خادىملىرىدىن قەستەن يالغان ماتېرىيال بىلەن تەمىنلىگەن، سودا خاتىرىسىنى ئويدۇرۇپ چىقارغان، ئۆزگەرتكەن ياكى كۆيدۈرۈۋەتكەن، مەبلەغ سالغۇچىلارنى ئاكسىيە ئېلىپ سېتىشقا ئالدىغانلارنىڭ كەسىپ بىلەن شۇغۇللىنىش سالاھىيىتى ئېلىپ تاشلىنىدۇ، قوشۇمچە ئۇلارغا 30 مىڭ يۈەندىن يۇقىرى، 50 مىڭ يۈەندىن يۆۋەن جەرىمانە قويۇلىدۇ؛ دۆلەت خادىمى بولغانلارغا يەنە قانۇن بويىچە مەمۇرىي چارە كۆرۈلىدۇ. جىنايەت شەكللەندۈرگەنلەرنىڭ جىنايى جاۋابكارلىقى قانۇن بويىچە سۈرۈشتۈرۈلىدۇ.<br />182 – ماددا پاي چېكىنى تارقىتىش ياكى بازارغا سېلىش ئۈچۈن ئىقتىسادىي تەپتىش دوكلاتى، مۈلۈكىنى باھالاش دوكلاتى ياكى قانۇن پىكىرنامىسى قاتارلىق ھۆججەتلەرنى بېرىدىغان كەسپىي ئاپپارات ۋە خادىملاردىن مۇشۇ قانۇننىڭ 39 – ماددىسىدىكى بەلگىلىمىگە خىلاپلىق قىلىپ، پاي چېكى ئېلىپ ساتقانلار قانۇنسىز ئېرىشۋالغان پاي چېكىنى قانۇن بويىچە بىر تەرەپ قىلىشقا بۇيرۇلىدۇ، قانۇنغا خىلاپ تاپقان تاپاۋىتى مۇسادىرە قىلىنىدۇ، قوشۇمچە ئۇلارغا ئېلىپ ساتقان پاي چېكىنىڭ قىممىتىدىن تۆۋەن جەرىمانە قويۇلىدۇ.<br />183 – ماددا ئاكسىيە سودىسىغا دائىر ئىچكى ئۇچۇرنى بىلىدىغان خادىملار ياكى ئاكسىيە سودىسىغا دائىر ئىچكى ئۇچۇرغا قانۇنسىز ئېرىشىۋالغان خادىملاردىن ئاكسىيە تارقىتىش، ئاكسىيە سودىسى قىلىشقا چېتىلىدىغان ئۇچۇرلار ياكى ئاكسىيە باھاسىغا زور تەسىر كۆرسىتىدىغان باشقا ئۇچۇرلار تېخى ئاشكارىلانماي تۇرۇپ، شۇ ئاكسىيىنى سېتىۋالغان ياكى ساتقان، ياكى شۇ ئۇچۇرلارنى ئاشكارىلاپ قويغان ياكى باشقىلارغا شۇ ئاكسىيىنى ئېلىپ سېتىش ھەققىدە تەكلىپ بەرگەنلەر قانۇنسىز ئېرىشكەن ئاكسىيىنى قانۇن بويىچە بىر تەرەپ قىلىشقا بۇيرۇلىدۇ، ئۇلارنىڭ قانۇنغا خىلاپ تاپقان تاپاۋىتى مۇسادىرە قىلىنىدۇ، قوشۇمچە ئۇلارغا قانۇنغا خىلاپ تاپقان تاپاۋىتىنىڭ بىر ھەسسىسدىن يۇقىرى، بەش ھەسسىسىدىن تۆۋەن ياكى قانۇنسىز ئېلىپ ساتقان پاي چېكى قىممىتىدىن تۆۋەن جەرىمانە قويۇلىدۇ. جىنايەت شەكىللەندۈرگەنلەرنىڭ جىنايى جاۋابكارلىق قانۇن بويىچە سۈرۈشتۈرۈلىدۇ. <br />ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىدىكى خادىملاردىن يوشۇرۇن سودا قىلغانلىرىغا ئېغىر جازا بېرىلىدۇ.<br />184 – ماددا ھەرقانداق ئادەم مۇشۇ قانۇننىڭ 71 – ماددىسىدىكى بەلگىلىمىگە خىلاپلىق قىلىپ، ئاكسىيە سودا باھاسىنى تىزگىنلىۋېلىش ياكى ئاكسىيە سودىسىغا دائىر يالغان باھا ياكى يالغان ئاكسىيە سودا مىقدارىنى ئويدۇرۇپ چىقىرىش يولى بىلەن نامۇۋاپىق مەنپەئەتكە ئېرىشىۋالغان ياكى خەۋپ – خەتەرنى باشقىلارغا ئىتتىرىپ قويغانلارنىڭ قانۇنغا خىلاپ تاپقان تاپاۋىتى مۇسادىرە قىلىنىدۇ، قوشۇمچە ئۇلارغا قانۇنغا خىلاپ تاپقان تاپاۋىتىنىڭ بىر ھەسسىسىدىن يۇقىرى، بەش ھەسسىسىدىن تۆۋەن جەرىمانە قويۇلىدۇ. جىنايەت شەكىللەندۈرگەنلەرنىڭ جىنايى جاۋابكارلىقى قانۇن بويىچە سۈرۈشتۈرۈلىدۇ.<br />185 – ماددا مۇشۇ قانۇندىكى بەلگىلىمىلەرگە خىلاپلىق قىلىپ، ھۆكۈمەت پۇلنى ئاكسىيە ئېلىپ سېتىشقا ئىشلىتىۋالغانلارنىڭ قانۇنغا خىلاپ تاپقان تاپاۋىتى مۇسادىرە قىلىنىدۇ، قوشۇمچە ئۇلارغا قانۇنغا خىلاپ تاپقان تاپاۋىتىنىڭ بىر ھەسسىسىدىن يۇقىرى، بەش ھەسسىسىدىن تۆۋەن جەرىمانە قويۇلىدۇ. جىنايەت شەكىللەندۈرگەنلەرنىڭ جىنايى جاۋابكارلىقى قانۇن بويچە سۈرۈشتۈرۈلىدۇ.<br />186 – ماددا ئاكسىيە شىركىتى مۇشۇ قانۇندىكى بەلگىلىمىلەرگە خىلاپلىق قىلىپ، مۇئامىلىدارلارغا ئۆزىنىڭ ھېسابىغا كىرگۈزۈلمىگەن ئاكسىيىنى سېتىپ بەرگەن ياكى مۇئامىلىدارلارغا مەبلەغ يۈرۈشتۈرۈپ ئاكسىيە سېتىۋالغانلارنىڭ قانۇنغا خىلاپ تاپقان تاپاۋىتى مۇسادىرە قىلىنىدۇ، قوشۇمچە ئۇلارغا قانۇنسىز ئېلىپ ساتقان ئاكسىيە قىممىتىگە تەڭ جەرىمانە قويۇلىدۇ. بىۋاسىتە جاۋابكار مەسئۇل خادىمغا ۋە بىۋاستە جاۋابكار باشقا خادىملارغا ئاگاھلاندۇرۇش بېرىلىدۇ، قۇشۇمچە 30 مىڭ يۈەندىن يۇقىرى، 300 مىڭ يۈەندىن تۆۋەن جەرىمانە قويۇلىدۇ. جىنايەت شەكىللەندۈرگەنلەرنىڭ جىنايى جاۋابكارلىقى قانۇن بويىچە سۈرۈشتۈرۈلىدۇ.<br />187 – ماددا مۇشۇ قانۇندىكى بەلگىلىمىلەرگە خىلاپلىق قىلىپ، مۇئامىلىدارلارنىڭ ھاۋالىسىنى قۇبۇل قىلغان كۈنى سېتىۋالغان ئاكسىيىنى ياكى ئۆز ئالدىغا سېتىۋالغان ئاكسىيىنى شۇ كۈنى قايتا ساتقان ئاكسىيە شىركىتىنىڭ قانۇنغا خىلاپ تاپقان تاپاۋىتى مۇسادىرە قىلىنىدۇ، قوشۇمچە ئۇنىڭغا قانۇنسىز ئاكسىيە سودىسىدا پۈتۈشكەن سوممىسىنىڭ 5 ىدىن يۇقىرى، 20&nbsp; ىدىن تۆۋەن جەرىمانە قويۇلىد%ۇ.<br />188 – ماددا ئاكسىيە سودىسىغا تەسىر يەتكۈزىدىغان يالغان ئۇچۇرنى توقۇپ چىقىپ ۋە تارقىتىپ، ئاكسىيە سودا بازىرىنى قالايمىقانلاشتۇرغانلارغا 30 مىڭ يۈەندىن يۇقىرى، 200 مىڭ يۈەندىن تۆۋەن جەرىمانە قويۇلىدۇ. جىنايەت شەكىللەندۈرگەنلەرنىڭ جىنايى جاۋابكارلىق قانۇن بويىچە سۈرۈشتۈرۈلىدۇ.<br />189 – ماددا ئاكسىيە بىرژىسى، ئاكسىيە شىركىتى، ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتى، ئاكسىيە سودىسى ئۈچۈن مۇلازىمەت قىلىدىغان ئاپپاراتلار، ئىجتىمائىي ۋاستىچى ئاپپاراتلار ۋە ئۇلارنىڭ كەسىپكارلىرىدىن ياكى ئاكسىيە كەسپى جەمئىيىتى، ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى ۋە ئۇلارنىڭ خادىملىرىدىن ئاكسىيە سودىسى پائالىيىتىدە يالغان نەرسىلەرنى بايان قىلغان ياكى ئۇچۇر جەھەتتە ئازدۇرغانلار تۈزىتشكە بۇيرۇلىدۇ، ئۇلارغا 30 مىڭ يۈەندىن يۇقىرى، 200 مىڭ يۈەندىن تۆۋەن جەرىمانە قويۇلىدۇ؛ دۆلەت خادىمى بولغانلىرىغا يەنە قانۇن بويىچە مەمۇرىي جازا بېرىلىدۇ. جىنايەت شەكىللەندۈرگەنلەرنىڭ جىنايى جاۋابكارلىقى قانۇن بويىچە سۈرۈشتۈرۈلىدۇ.<br />190 – ماددا مۇشۇ قانۇندىكى بەلگىىمىلەرگە خىلاپلىق قىلىپ، شەخس نامىدا ھېساب ئېچىپ ئاكسىيە ئېلىپ ساتقان قانۇنىي ئىگە تۈزىتىشكە بۇيرۇلدۇ، قانۇنغا خىلاپ تاپقان تاپاۋىتى مۇسادىرە قىلىنىدۇ، قوشۇمچە ئۇنىڭغا قانۇنسىز تاپقان تاپاۋىتىنىڭ بىر ھەسسىسىدىن يۇقىرى، بەش ھەسسىسىدىن تۆۋەن جەرىمانە قويۇلىدى؛ ئۇنىڭ بىۋاسىتە جاۋابكارى مەسئۇل خادىمى ۋە بىۋاستە جاۋابكار باشقا خادىملىرىدىن دۆلەت خادىمى بولغانلىرىغا قانۇن بويىچە مەمۇرىي جازا بېرىلىدۇ.<br />191 – ماددا ئۇنۋېرسال تۈردىكى ئاكسىيە شىركەرلىرىدىن مۇشۇ قانۇندىكى بەلگىلىمىلەرگە خىلاپلىق قىلىپ، باشقىلارنىڭ نامىدا ياكى شەخس نامىدا ئۆز ئالدىغا ئاكسىيە تىجارىتى كەسپى بىلەن شۇغۇللانغانلىرى تۈزىتىشكە بۇيرۇلىدۇ، قانۇنغا خىلاپ تاپقان تاپاۋىتى مۇسادىرە قىلىنىدۇ، قوشۇمچە ئۇنىڭغا قانۇنغا خىلاپ تاپقان تاپاۋىتىنىڭ بىر ھەسسىسىدىن يۇقىرى، بەش ھەسسىسىدىن تۆۋەن جەرىمانە قويۇلىدۇ؛ قىلمىشى ئېغىر بولغانلارنىڭ ئۆز ئالدىغا تىجارەتكە سېلىش كەسپى توختىتىلىدۇ.<br />192 – ماددا مۇئامىلىدارلارنىڭ ھاۋالىسىگە خىلاپلىق قىلىپ ئاكسىيە ئېلىپ سېتىپ، سودا ئىشلىرىنى بېجىرىپ، شۇنىڭدەك مۇئامىلىدارلارنىڭ ھەقىقىي دېمەكچى بولغىنىغا خىلاپلىق قىلىپ سودىغا ياتمايدىغان باشقا ئىشلارنى بېجىرىپ، مۇئامىلىدارلارنى زىيانغا ئۇچراتقان ئاكسىيە شىركىتى قانۇن بويىچە تۆلەم جاۋابكارلىقىنى ئۈستىلگە ئالىدۇ، قۇشۇمچە 10 مىڭ يۈەندىن يۇقىرى، 100 مىڭ يۈەندىن تۆۋەن جەرىمانە قويۇلىدۇ.<br />193 – ماددا ئاكسىيە شىركىتى، ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتى ۋە ئۇنىڭ كەسىپكارلىرىدىن مۇئامىلىدارلارنىڭ ھاۋالىسىدىن ئۆتكۈزمەي تۇرۇپ، مۇئامىلىدارلارنىڭ ھېسابىدىكى ئاكسىيىنى ئېلىپ ساتقان، ئىشلىتىۋالغان، ئۆتنە بەرگەنلىرى ياكى مۇئۇمىلىدارنىڭ ئاكسىيىسىنى گۆرۈگە قويغانلىرى ياكى مۇئامىلىدارنىڭ ئاكسىيىسىنى گۆرۈگە قويغانلىرى ياكى مۇئامىلىدارنىڭ&nbsp; ھېسابىدىكى مەبلەغنى ئىشلىتىۋالغانلىرى تۈزىتىشكە بۇيرۇلىدۇ، قانۇنغا خىلاپ تاپقان تاپاۋىتى مۇسادىرە قىلىنىدۇ، قانۇنغا خىلاپ تاپقان تاپاۋىتىنىڭ بىر ھەسسىسىدىن يۇقىرى، بەش ھەسسىسىدىن تۆۋەن جەرىمانە قويۇلىدۇ ھەمدە ئۇلار تاقىۋېتىشكە بۇيرۇلىدۇ ياكى جاۋابكار خادىملارنىڭ كەسىپ بىلەن شۇغۇللىنىش سالاھىيەت كىنىشكىسى ئىناۋەتسىز قىلىنىدۇ. جىنايەت شەكىللەندۈرگەنلەرنىڭ جىنايى جاۋاكارلىق قانۇن بويىچە سۈرۈشتۈرۈلىدۇ.<br />194 – ماددا ۋاستىچىلىك كەسپىنى بىجىرىپ، مۇئامىلدارنىڭ تولۇق ھوقۇقلۇق ھاۋالىسنى قوبۇل قىلىپ ئاكسىيە ئېلىپ ساتقان ياكى مۇئامىلىدارلارغا ئېلىپ ساتقان ئاكسىيە پايدىسى توغرىسىدا ياكى ئاكسىيە سودىسىدىن تارتقان زىيىنىنى تۆلەپ بېرىش توغرىسىدا ۋەدە بەرگەن ئاكسىيە شىركىتى تۈزىتىشكە بۇيرۇلىدۇ، 50 مىڭ يۈەندىن يۇقىرى، 200 مىڭ يۈەندىن تۆۋەن جەرىمانە قويۇلىدۇ.<br />195 – ماددا پاي چېكى بازارغا سېلىنغان شىركەتنى سېتىۋېلىش ھەققىدە قانۇندا بەلگىلەنگەن رەسمىيەتلەرگە خىلاپلىق قىلىپ، پاي چېكى بازارغا سېلىنغان شىركەتنى سېتىۋېلىشتىن پايدىلىنىپ نامۇۋاپىق پايدا ئالغانلار تۈزىتىشكە بۇيرۇلىدۇ، ئۇلارنىڭ قانۇنغا خىلاپ تاپقان تاپاۋىتى تاپاۋىتىنىڭ بىر ھەسسىسىدىن يۇقىرى، بەش ھەسسىسىدىن تۆۋەن جەرىمانە قويۇلىدۇ.<br />196 – ماددا ئاكسىيە شىركىتى ۋە ئۇنىڭ كەسىپكارلىرىدىن مۇشۇ قانۇندىكى بەلگىلىمىلەرگە خىلاپلىق قىلىپ، مۇئامىلىدارلارنىڭ ھاۋالىسىنى يوشۇرۇن قوبۇل قىلىپ ئاكسىيە ئېلىپ ساتقانلارنىڭ قانۇنغا خىلاپ تاپقان تاپاۋىتى مۇسادىرە قىلىنىدۇ، قوشۇمچە قانۇنغا خىلاپ تاپقان تاپاۋىتىنىڭ بىر&nbsp; ھەسسىسىدىن يۇقىرى، بەش ھەسسىسىدىن تۆۋەن جەرىمانە قويۇلىدۇ.<br />197 – ماددا مۇشۇ قانۇندىكى بەلگىلىمىلەرگە خىلاپلىق قىلىپ، ۋىۋىسكا ئېسىپ بازارغا سېلىشقا بولمايدىغان ئاكسىيىنى تەستىقتىن ئۆتكۈزمەي تۇرۇپ تىجارەتكە سالغان ئاكسىيە شىركىتى تۈزىتىشكە بۇيرۇلىدۇ، قانۇنغا خىلاپ تاپقان تاپاۋىتى مۇسادىرە قىلىنىدۇ، قوشۇمچە قانۇنغا خىلاپ تاپقان تاپاۋىتىنىڭ بىر ھەسسىسىدىن يۇقىرى، بەش ھەسسىسىدىن تۆۋەن جەرىمانە قويۇلىدۇ.<br />198 – ماددا ئاكسىيە شىركىتى قۇرۇلغاندىن كېيىن، ئورۇنسىز سەۋەبلەر بىلەن ئۈچ ئايدىن ئېشىپ كەتكۈچە تىجارەتنى باشلىمىغان بولسا ياكى تىجارەتنى باشلىغاندىن كېيىن كەسپنى ئۇدا ئۈچ ئايدىن ئارتۇقراق ئۆز ئالدىغا توختىتىپ قويغان بولسا، شىركەت تىزىملاش ئورگىنى شۇ شىركەتنىڭ تىجارەت كىنىشكىسىنى ئىناۋەتسىز قىلىدۇ.<br />199 - ماددا مۇشۇ قانۇندىكى بەلگىلىمىلەرگە خىلاپلىق قىلىپ، كەسىپ بىلەن شۇغۇللىنىشقا ئىجازەت قىلىنغان دائىرىدىن ھالقىپ ئاكسىيە كەسپى بىلەن شۇغۇللانغان ئاكسىيە شىركىتى تۈزىتىشكە بويرۇلىدۇ، قانۇنغا خىلاپ تاپقان تاپاۋىتى مۇسادىرە قىلىنىدۇ، قوشۇمچە قانۇنغا خىلاپ تاپقان تاپاۋىتىنىڭ بىر ھەسسىسىدىن يۇقىرى، بەش ھەسسىسىدىن تۆۋەن جەرىمانە قويۇلىدۇ. قىلىمىشى ئېغىر بولغانلار تاقىۋېتىشكە بۇيرۇلىدۇ.<br />200 - ماددا ئاكىسىيە شىركىتى ئاكسىيە ۋاسىتىچىلىك كەسپى ۋە ئاكسىيىنى ئۆز ئالدىغا تىجارەتكە سېلىش كەسپى بىلەن تەڭ شۇغۇللانغان، قانۇن بويىچە ئايرىپ بېجىرىمەي ئارلاشتۇرۇپ مەشغۇلات قىلغان بولسا، تۈزۈتىشكە بۇيرۇلىدۇ، قانۇنغا خىلاپ تاپقان تاپاۋىتىنىڭ بىر ھەسسىسىدىن يۇقىرى، بەش ھەسسىسىدىن تۆۋەن جەرىمانە قويۇلىدۇ؛ قىلمىشى ئېغىر بولغانلارنىڭ ئەسلىدە تەكشۈرۈپ بېكىتلگەن ئاكسىيە كەسپىنى ئاكسىيە نازارەت قىلىش - باشقۇرۇش ئاپپاراتى ئەمەلدىن قالدۇرىدۇ.<br />201 – ماددا يالغان ئىسپات ھۆججىتى بېرىلىپ ياكى باشقا ئالدامچىلىق ۋاسىتىلىرىنى قوللىنىپ، مۇھىم پاكىتلارنى يۇشۇرۇپ ئاكسىيە كەسپى بىلەن شۇغۇللىنىشقا ئالداپ ئىجازەت ئېلىۋالغان ياكى ئاكسىيە شىركىتى ئاكسىيە سودىسىدا قانۇنغا خىلاپ ئېغىر قىلمىشلارنى سادىر قىلىپ، يەنە تىجارەت قىلىشقا سالاھىيىتى قالمىغانلارنىڭ ئاكسىيە كەسپى ئىجازەتنامىسىنى ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى ئەمەلدىن قالدۇرىدۇ ھەمدە ئۇنى تاقىۋېتىشكە بۇيرۇيدۇ.<br />202 – ماددا ئاكسىيە تارقىتىش، بازارغا سېلىش ياكى ئاكسىيە سودا پائالىيىتى ئۈچۈن ئىقتىسادىي تەپتىش دوكلاتى، مۈلۈكنى باھالاش دوكلاتى ياكى قانۇن پىكىرنامىسى قاتارلىق ھۆججەتلەرنى تەييارلاپ بېرىدىغان كەسپىي ئاپپاراتلاردىن ئۆزى مەسئۇل بولغان مەزمۇنلار ئۈستىدە ساختىپەزلىك قىلغانلىرىنىڭ قانۇنغا خىلاپ تاپقان تاپاۋىتى مۇسادىرە قىلىنىدۇ، قانۇنغا خىلاپ تاپقان تاپاۋىتىنىڭ بىر ھەسسىسىدىن يۇقىرى، بەش ھەسسىسىدىن تۆۋەن جەرىمانە قويۇلىدۇ ھەمدە ئالاقىدار مەسئۇل تارماق شۇ ئاپپاراتنى كەسىپنى توختىتىشقا بۇيرۇيدۇ، بىۋاستە جاۋابكار خادىملارنىڭ سالاھىيەت كىنىشكىسنى ئېلىۋالىدۇ. زىيان كەلتۈرۈپ چىقارغانلار چاتما تۆلەم جاۋابكارلىقىنى ئۈستىگە ئالىدۇ. جىنايەت شەكىللەندۈرگەنلەرنىڭ جىنايى جاۋابكارلىقى قانۇن بويىچە سۈرۈشتۈرۈلىدۇ.<br />203 – ماددا ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىنىڭ تەستىقىدىن ئۆتكۈزمەي تۇرۇپ، ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتى ياكى ئاكسىيە سودىسى ئۈچۈن مۇلازىمەت قىلىدىغان ئاپپاراتنى ئۆز بېشىمچىلىق بىلەن تەسىس قىلغانلارنى ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى ئەمەلدىن قالدۇرىدۇ، ئۇلارنىڭ قانۇنغا خىلاپ تاپقان تاپاۋىتىنى مۇسادىرە قىلىدۇ، قوشۇمچە قانۇنغا خىلاپ تاپقان تاپاۋىتىنىڭ بىر ھەسسىسىدىن يۇقىرى، بەش ھەسسىسىدىن تۆۋەن جەرىمانە قويىدۇ. <br />ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپاراتى ۋە ئاكسىيە سودىسى ئۈچۈن مۇلازىمەت قىلىدىغان ئاپپاراتلاردىن مۇشۇ قانۇندىكى بەلگىلىمىلەرگە ياكى ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى بىر تۇتاش تۈزگەن كەسىپ قائىدىلەرگە خىلاپلىق قىلغانلارنى ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى تۈزىتىشكە بۇيرۇيدۇ، قانۇنغا خىلاپ تاپاۋىتىن مۇسادىرە قىلىدۇ ھەمدە قانۇنغا خىلاپ تاپقان تاپاۋىتىنىڭ بىر ھەسسىسىدىن يۇقىرى، بەش ھەسسىسىدىن تۆۋەن جەرىمانە قويىدۇ. قىلمىشى ئېغىر بولغانلار تاقىۋېتىشكە بويرۇلىدۇ.<br />204 – ماددا ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى مۇشۇ قانۇندىكى بەلگىلىمىلەرگە ئۇيغۇن كەلمەيدىغان ئاكسىيە تارقىتىش، بازارغا سېلىش توغرىسىدىكى ئىلتىماسنى تەكشۈرۈپ تەستىقلىغان ياكى مۇشۇ قانۇندا بەلگىلەنگەن شەرتلەرگە ئۇيغۇن كەلمەيدىغان ئاكسىيە شىركىتى، ئاكسىيە تىزىملاش – راسچوت قىلىش ئاپپارتى ياكى ئاكسىيە سودىسى ئۈچۈن مۇلازىمەت قىلىدىغا ئاپپاراتنى تەسىس قىلىش توغرىسىدىكى ئىلتىماسنى تەستىقلاپ بەرگەنلەردىن قىلمىشى ئېغىر بولغان بىۋاسىتە جاۋابكار مەسئۇل خادىمغا ۋە بىۋاستە جاۋابكار باشقا خادىملارغا قانۇن بويىچە مەمۇرىي چارە كۆرۈلىدۇ. جىنايەت شەكىللەندۈرگەنلەرنىڭ جىنايى جاۋابكارلىقى قانۇن بويىچە سۈرۈشتۈرۈلىدۇ.<br />205 – ماددا ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىنىڭ خادىملىرى ۋە تارقىتىشنى تەكشۈرۈش كومىتېتى تەركىبىدىكى خادىملاردىن مۇشۇ قانۇندا بەلگىلەنگەن مەسئۇلىيىتىنى ئادا قىلماي، شەخىسىي غەرەز بىلەن كۆزبويامچىلىق قىلغان، خىزمەت ئورنىدا بىپەرۋالىق قىلغان ياكى مۇناسىۋەتلىك ئالاقىدار تەرەپنى قەستەن تەڭقىسلىقتا قالدۇرغانلارغا قانۇن بويىچە مەمۇرىي چارە كۆرۈلىدۇ. جىنايەت شەكىللەندۈرگەنلەنىڭ جىنايى جاۋابكارلىقى قۇنۇن بويىچە سۈرۈشتۈرۈلىدۇ.<br />206 – ماددا مۇشۇ قانۇندىكى بەلگىلىمىلەرگە خىلاپلىق قىلىپ، شىركەت زايومىنى تارقىتىپ بەرگەن، سېتىپ بەرگەنلەرگە گوۋۇيۈەن ھوقۇق بەرگەن تارماق مۇشۇ قانۇننىڭ 175 –، 176 ، ۋە 202 – ماددىدىكى بەلگىلىمە بويىچە جازا بېرىدۇ.<br />207 – ماددا مۇشۇ قانۇندىكى بەلگىلىمىلەرگە خىلاپلىق قىلغانلار، ھەق تەلەپ تۆلەم جاۋابكارلىقىنى ئۈستىگە ئېلىشى ۋە جەرىمانە، شتراف تۆلىشى كېرەك، ئۇلارنىڭ مال – مۈلكى بىرلا ۋاقىتتا تۆلەشكە يېتىشمىگەندە، ئالدى بىلەن ھەق تەلەپ تۆلەم جاۋابكارلىقىنى ئۈستىگە ئېلىشى كېرەك.<br />208 – ماددا ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتىنىڭ قىلىش – تەكشۈرۈش خىزمەت ھوقۇقىنى قانۇن بويىچە يۈرگۈزۈشىگە زورلۇق كۈچ ئىشلىتىش، تەھدىت سېلىش يولى بىلەن توسقۇنلۇق قىلغانلارنىڭ جىنايى جاۋابكارلىقى قانۇن بويىچە سۈرۈشتۈرۈلىدى؛ ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى ۋە ئۇنىڭ خادىملىرىنىڭ نازارەت قىلىش – تەكشۈرۈش خىزمەت ھوقۇقىنى قانۇن بويىچە يۈرگۈزۈشىنى رەت قىلىش، ئۇنىڭغا توسقۇنلۇق قىلىشتا زورلۇق كۈچ ئىشلىتىش، تەھدىت سېلىش ئۇسۇلىنى قوللانمىغانلارغا ئامانلىق باشقۇرۇش بويىچە جازالاش نىزامىدىكى بەلگىلىمىلەرگە ئاساسەن جازا بېرىلىدۇ.<br />209 – ماددا مۇشۇ قانۇن بويىچە ئاكسىيە تارقىتىش، ئاكسىيە سودىسىغا دائىر قانۇنغا خىلاپ قىلمىشلار تۈپەيلىدىن مۇسادىرە قىلىنغان قانۇنغا خىلاپ تاپاۋەت ۋە جەرىمانە پۈتۈنلەي دۆلەتنىڭ خەزىنىسىگە تاپشۇرۇلىدۇ.<br />210 – ماددا ئالاقىدار تەرەپ ئاكسىيە نازارەت قىلىش – باشقۇرۇش ئاپپاراتى ياكى گوۋۇيۈەن ھوقۇق بەرگەن تارماقنىڭ جازا قارارىغا قايىل بولمىسا، قانۇن بويىچە قايتا قاراپ چىقىشنى ئىلتىماس قىلسا بولىدۇ ياكى قۇنۇن بويىچە خەلق سوت مەھكىمىسىگە بىۋاستە ئەرز قىلسا بولىدۇ.<br />12 – باب قوشۇمچە پرىنسىپ<br />211 – ماددا بۇ قانۇن يولغا قويۇلۇشتىن بۇرۇن مەمۇرىي نىزاملار بويىچە تەستىقلىنىپ، ئاكسىيە بىرژىسىدا بازارغا سېلىنىۋاتقان ئاكسىيە قانۇن بويىچە داۋاملىق بازارغا سېلىنىۋېرىدۇ. <br />بۇ قانۇن يولغا قويۇلۇشتىن بۇرۇن مەمۇرىي نىزام ۋە گوۋۇيۈەننىڭ پۇل مۇئامىلە مەمۇرىي باشقۇرۇش تارمىقىنىڭ بەلگىلىمىسى بويىچە تەستىقلىنىپ تەسىس قىلىنغان ئاكسىيە تىجارەت ئاپپاراتلىرىدىن مۇشۇ قانۇندىكى بەلگىلىمىلەرگە ئانچە ئۇيغۇن كەلمىگەنلىرى بەلگىلەنگەن مۇددەت ئىچىدە مۇشۇ قانۇندىكى تەلەپكە يېتىش كېرەك. كونكرېت يولغا قويۇش چارىسىنى گوۋۇيۈەن ئايرىم بەلگىلەيدۇ.<br />212 - ماددا مۇشۇ قانۇندىكى مۇئامىلدارلارنىڭ سودا راسچوت مەبلىغى توغرىسىدىكى بەلگىلىمىنى يولغا قۇيۇشنىڭ قەدەم - باسقۇچىلىرىنى گوۋۇيۈەن ئايرىم بەلگىلەيدۇ.<br />213 – ماددا چېگرا ئىچىدىكى شىركەت پاي چېكىنى دۆلەت سىرتىدىكى زاتلار ۋە ئاپپاراتلارنىڭ كونكرېت چارىسىنى گوۋۇيۈەن ئايرىم بەلگىلەيدۇ.<br />214 – ماددا بۇ قانۇن 1999– يىل 7 – ئاينىڭ 1 – كۈنىدىن باشلاپ يولغا قويۇلىدۇ.<br />&quot;</div>
+
+
+<script language=javascript> 
+document.body.oncopy=function(){ 
+event.returnValue=false; 
+var t=document.selection.createRange().text; 
+var s="كەچۈرۈڭ ، تورىمىزنىڭ مەزمۇنىنى خالىغانچە كۆچۈرمەڭ . بارلىق مەزمۇن BilqutBBSىغا مەنسۇپ .تور ئادىرسىمىز: https://uyghur-archive.com/bilqut/bbs ."; 
+window.clipboardData.setData('Text', s); 
+} 
+</script>
+
+
+
+
+		</th>
+	</tr>
+	<tr style="background-color:#f2f8ff" class="tr1 r_one">
+		<th style="vertical-align:bottom;padding-left:15px;border:0">
+
+		<div id="w_tpc" class="c"></div>
+
+		<div class="tips black" style="width:auto" id="ads_c_tpc"><a href="https://uyghur-archive.com/bilqut/awazliq/" target="_blank"><img src="https://uyghur-archive.com/bilqut/elan/bilqut/1.jpg" width="612" height="80" alt="awazlik"></a></div><div class="c"></div>
+
+		<div><img src="images/wind/sigline.gif" align="absbottom" /></div>
+		<div class="signature" style="max-height:60px;maxHeight:60px; overflow:hidden;"><table width="100%"><tr><td>
+			بىلقۇت مۇنبىرى كەڭ تورداشلارنىڭ ياخشى تاللىشى بولغۇسى!!!!!!<td></tr></table></div>
+
+		<div class="tipad"><span style="float:right">
+
+			<a href="javascript:scroll(0,0)"><img src="images/wind/read/top.gif" title="يۇقىرىغا قايتىش" /></a> </span>
+			<span class="gray">Posted: 2008-09-19 11:41 |  </span>
+
+			<span><a class="s3" title="بۇ قەۋەتكە ئىنكاس قايتۇرۇش" style="cursor:pointer;" onclick="postreply('ئاپتور (UyMuglaN) نىڭ يازمىسىغا ئىنكاس قايتۇرۇش');">
+			[ئاپتور]</a></span>
+
+		</div></th>
+	</tr></table>
+</div>
+
+</form>
+<div class="t3"><table cellspacing="0" cellpadding="0" width="100%" align="center">
+	<tr><td align="right"></td>
+		<td valign="center" align="right">
+		<a class="abtn f_two" id="readlog" onclick="sendmsg('pw_ajax.php?action=readlog','',this.id);">
+		يازما كۆرۈلۈش خاتىرىسى<img src="images/wind/menu-down.gif" /></a>
+		<a class="abtn f_two" id="threadlog" onclick="sendmsg('pw_ajax.php','action=threadlog',this.id);">
+		سەھىپە كۆرۈلۈش خاتىرىسى<img src="images/wind/menu-down.gif" /></a>
+		<select onchange="Fjump(this.options[this.selectedIndex].value)"><option value="" selected>
+		سەھىپە يۆتكىلىش</option>
+<option value="367">>>  ژۇرناللار</option>
+<option value="379"> &nbsp;|- ئامانلىق</option>
+<option value="380"> &nbsp;|- شىنجاڭ مەدەنىيىتى</option>
+<option value="381"> &nbsp;|- مىراس</option>
+<option value="374"> &nbsp;|- شىنجاڭ ئاياللىرى</option>
+<option value="375"> &nbsp;|- شىنجاڭ ياشلىرى</option>
+<option value="376"> &nbsp;|- كومپيۇتېر ۋە تۇرمۇش</option>
+<option value="377"> &nbsp;|- تارىم غۇنچلىرى</option>
+<option value="382"> &nbsp;|- جۇڭگو مىللەتلىرى</option>
+<option value="383"> &nbsp;|- ئەدەبىي تەرجىملەر</option>
+<option value="373"> &nbsp;|- بىلىم كۈچ</option>
+<option value="368"> &nbsp;|- تەرمىلەر</option>
+<option value="369"> &nbsp;|- تارىم</option>
+<option value="370"> &nbsp;|- دۇنيا ئەدەبىياتى</option>
+<option value="371"> &nbsp;|- شىنجاڭ مائارىپى</option>
+<option value="372"> &nbsp;|- پەن ۋە تۇرمۇش</option>
+<option value="378"> &nbsp;|- جۇڭگو مۇسۇلمانلىرى</option>
+<option value="361">>> مەھسۇلاتلىرىمىز</option>
+<option value="366"> &nbsp;|- ئەخلەتخانا</option>
+<option value="363"> &nbsp;|-  بىلقۇت خەزىنىسى ھەققىدە</option>
+<option value="362"> &nbsp;|- ئەلالاشتۇرۇش</option>
+<option value="354">>> يۇرتىمىز</option>
+<option value="355"> &nbsp;|-  شەھەرلەر</option>
+<option value="356"> &nbsp;|- بىڭتۈەنلەر</option>
+<option value="357"> &nbsp;|-  ناھىيلەر</option>
+<option value="358"> &nbsp;|- ۋىلايەتلەر</option>
+<option value="359"> &nbsp;|-  ئاپتونوم ئوبلاست</option>
+<option value="360"> &nbsp;|-  ئاپتونوم ناھىيە</option>
+<option value="296">>> شىركەت ھەققىدە</option>
+<option value="160"> &nbsp;|- تەكلىپ-پىكىر بىرىڭ</option>
+<option value="238"> &nbsp;|- بېكەت ئىشخانىسى</option>
+<option value="312">>> ئاۋازلىق ئەسەرلەر</option>
+<option value="324"> &nbsp;|- رېۋايەتلەر</option>
+<option value="325"> &nbsp;|- خەنزۇچە ئەسەرلەر</option>
+<option value="326"> &nbsp;|-  رومانلار</option>
+<option value="327"> &nbsp;|-  تارىخىي شەخسلەر ھەققىدە</option>
+<option value="323"> &nbsp;|-  چۆچەكلەر</option>
+<option value="313"> &nbsp;|- مەسەللەر</option>
+<option value="314"> &nbsp;|-  ھېكايىلەر</option>
+<option value="315"> &nbsp;|-  نەسىرلەر</option>
+<option value="316"> &nbsp;|-  مىڭ بىر كېچە</option>
+<option value="317"> &nbsp;|-  كەلىلە ۋە دېمىنە</option>
+<option value="245">>> رەسىم</option>
+<option value="259"> &nbsp;|- كومپيۇتېر لايىھىلىرى</option>
+<option value="249"> &nbsp;|- ماشىنا</option>
+<option value="260"> &nbsp;|- سىزما رەسىملەر</option>
+<option value="252"> &nbsp;|- بىناكارلىق</option>
+<option value="258"> &nbsp;|- كارتون رەسىملەر</option>
+<option value="246"> &nbsp;|- ھايۋاناتلار</option>
+<option value="308"> &nbsp;|- ھاشاراتلار</option>
+<option value="247"> &nbsp;|- قۇشلار</option>
+<option value="248"> &nbsp;|- ئۆسۈملۈكلەر</option>
+<option value="254"> &nbsp;|- ئۈستەل رەسىملىرى</option>
+<option value="250"> &nbsp;|- گۈل-گىياھلار</option>
+<option value="251"> &nbsp;|- دېڭىز جانلىقلىرى</option>
+<option value="253"> &nbsp;|- تەبىئەت مەنزىرىسى</option>
+<option value="255"> &nbsp;|- ھەربىي قورال ياراغلار</option>
+<option value="256"> &nbsp;|- يانفون رەسىملىرى</option>
+<option value="257"> &nbsp;|- قىزىقارلىق رەسىملەر</option>
+<option value="261"> &nbsp;|- ھەرخىل رەسىملەر</option>
+<option value="206">>> كۆڭۈل ئېچىش</option>
+<option value="207"> &nbsp;|- كىنو - فىلىم</option>
+<option value="208"> &nbsp;|- ناخشا - مۇزىكا</option>
+<option value="209"> &nbsp;|- يانفون مۇزىكىلىرى</option>
+<option value="227"> &nbsp;|- رەسىم</option>
+<option value="309"> &nbsp;|- سۇرەتلىك ناخشىلار</option>
+<option value="310"> &nbsp;|- قىزقارلىق كۆرنىش</option>
+<option value="311"> &nbsp;|- ئىتوت</option>
+<option value="336">>> چۈشۈرۈش</option>
+<option value="341"> &nbsp;|- فىلىم ئىشلەش- دېتاللىرى</option>
+<option value="345"> &nbsp;|- پروگرامما تۈزۈش دېتاللىرى</option>
+<option value="346"> &nbsp;|- تەرجىمىچىلىك دىتاللىرى</option>
+<option value="344"> &nbsp;|- ئاۋاز ئىشلەش- دېتاللىرى</option>
+<option value="349"> &nbsp;|- يېزىق بىر تەرەپ قىلىش دېتاللىرى</option>
+<option value="343"> &nbsp;|- رەسىم ئىشلەش- دېتاللىرى</option>
+<option value="350"> &nbsp;|- بىخەتەرلىك قوراللىرى</option>
+<option value="340"> &nbsp;|- توربەت دېتاللىرى</option>
+<option value="338"> &nbsp;|- قوللىنىشچان دېتاللار</option>
+<option value="337"> &nbsp;|- سىستېما دىتاللىرى</option>
+<option value="347"> &nbsp;|- ماتىرىياللار</option>
+<option value="348"> &nbsp;|- ئۇيغۇرچە دېتاللار</option>
+<option value="16">>> كۇتۇپخانا</option>
+<option value="22"> &nbsp;|- مىڭ بىر كېچە</option>
+<option value="21"> &nbsp;|- چۆچەكلەر</option>
+<option value="24"> &nbsp;|- ئەپسانىلەر</option>
+<option value="105"> &nbsp;|- رېۋايەتلەر</option>
+<option value="20"> &nbsp;|- ھېكايىلەر</option>
+<option value="232"> &nbsp;|- شېئىر</option>
+<option value="23"> &nbsp;|- كەلىلە ۋە دېمىنە</option>
+<option value="85"> &nbsp;|- ماقال-تەمسىل</option>
+<option value="88"> &nbsp;|- نەسىرلەر</option>
+<option value="99"> &nbsp;|- لەتىپە-يۇمۇرلار</option>
+<option value="87"> &nbsp;|- مەسەللەر</option>
+<option value="174"> &nbsp;|- ھىكمەت</option>
+<option value="181"> &nbsp;|- نەسىھەت</option>
+<option value="17"> &nbsp;|- ماقالىلەر</option>
+<option value="18"> &nbsp;|- ياشلار سەمىگە</option>
+<option value="173"> &nbsp;|- تۇرمۇش مەسلىھەتچىسى</option>
+<option value="178"> &nbsp;|- نۇتۇقلار</option>
+<option value="172"> &nbsp;|- سۆيگۈ مەكتۇپى</option>
+<option value="175"> &nbsp;|- غارايىباتلار</option>
+<option value="19"> &nbsp;|- دۇنيادىكى ئەڭ</option>
+<option value="177"> &nbsp;|- قان تىپى</option>
+<option value="182"> &nbsp;|- مۆچەل</option>
+<option value="176"> &nbsp;|- مىللەتلەر</option>
+<option value="186"> &nbsp;|- بۈگۈن</option>
+<option value="170"> &nbsp;|- مۇزېي</option>
+<option value="189"> &nbsp;|- تارىخ</option>
+<option value="187"> &nbsp;|- دۇنيادىكى شەھەرلەر</option>
+<option value="195"> &nbsp;|- دۇنيادىكى دۆلەتلەر</option>
+<option value="188"> &nbsp;|- دۇنيادىكى كۇتۇپخانىلار</option>
+<option value="185"> &nbsp;|- ئۆلچەم بىرلىكلىرى</option>
+<option value="184"> &nbsp;|- مايلار</option>
+<option value="183"> &nbsp;|- مېۋە</option>
+<option value="180"> &nbsp;|- كۆكتاتلار</option>
+<option value="179"> &nbsp;|- ئۆسۈملۈكلەر</option>
+<option value="171"> &nbsp;|- ھايۋاناتلار</option>
+<option value="210">>> ئويۇنلار</option>
+<option value="211"> &nbsp;|- تور ئويۇنلىرى</option>
+<option value="212"> &nbsp;|- فىلەش ئويۇنلار</option>
+<option value="213"> &nbsp;|- زېھىن سىناش ئويۇنلىرى</option>
+<option value="297">>> تىل ئۈگىنىش</option>
+<option value="52"> &nbsp;|- ئۇيغۇرتىلى</option>
+<option value="46"> &nbsp;|- خەنزۇتىلى</option>
+<option value="47"> &nbsp;|- ئىنگلىزتىلى</option>
+<option value="48"> &nbsp;|- روس تىلى</option>
+<option value="53"> &nbsp;|- ياپون تىلى</option>
+<option value="25">>> بالىلار باغچىسى</option>
+<option value="159"> &nbsp;|- كىم ئەڭ ئەقىللىق</option>
+<option value="266"> &nbsp;|- پەرزەنت تەربىيىسى</option>
+<option value="26"> &nbsp;|- بالىلار چۆچەكلىرى</option>
+<option value="29"> &nbsp;|- يۈز مىڭلىغان نېمە ئۈچۈن؟</option>
+<option value="97"> &nbsp;|- بالىلار ھېكايىسى</option>
+<option value="98"> &nbsp;|- ئانا-بالىلار ساغلاملىق ساۋاتلىرى</option>
+<option value="328">>> تەرەققىياتىمىز</option>
+<option value="330"> &nbsp;|- ئۇيغۇر كارخانىلىرى</option>
+<option value="331"> &nbsp;|- ئۇيغۇر مەھسۇلاتلىرى</option>
+<option value="333"> &nbsp;|- ئۇيغۇر كەشپىياتلىرى</option>
+<option value="329"> &nbsp;|- ئۇيغۇر كارخانچىللىرى</option>
+<option value="335"> &nbsp;|-  ئۇيغۇرساياھەتچىلىكى</option>
+<option value="334"> &nbsp;|-  ئۇيغۇر دوكتۇرلىرى</option>
+<option value="30">>> بىز</option>
+<option value="244"> &nbsp;|- خەتتاتلىقىمىز</option>
+<option value="265"> &nbsp;|- تىل-يېزىقىمىز</option>
+<option value="32"> &nbsp;|- تائاملىرىمىز</option>
+<option value="33"> &nbsp;|- شەخسلىرىمىز</option>
+<option value="35"> &nbsp;|- ئويۇنلىرىمىز</option>
+<option value="34"> &nbsp;|- تېبابىتىمىز</option>
+<option value="36"> &nbsp;|- چالغۇلىرىمىز</option>
+<option value="37"> &nbsp;|- ھۈنەرلىرىمىز</option>
+<option value="31"> &nbsp;|- يوسۇنلىرىمىز</option>
+<option value="38"> &nbsp;|- تارىخمىز</option>
+<option value="39">>> ئۆگىنىش</option>
+<option value="41"> &nbsp;|- ماتېماتىكا</option>
+<option value="106"> &nbsp;|- يىزا-ئىگىلىك</option>
+<option value="107"> &nbsp;|- پسىخولوگىيە</option>
+<option value="108"> &nbsp;|- ئىقتىساد</option>
+<option value="143"> &nbsp;|- مۇھىت</option>
+<option value="40"> &nbsp;|- ئەدەبىيات</option>
+<option value="42"> &nbsp;|- جۇغراپىيە</option>
+<option value="43"> &nbsp;|- تارىخ</option>
+<option value="44"> &nbsp;|- فىزىكا</option>
+<option value="45"> &nbsp;|- خىمىيە</option>
+<option value="50"> &nbsp;|- ئاسترونومىيە</option>
+<option value="49"> &nbsp;|- بىئولوگىيە</option>
+<option value="89"> &nbsp;|- دېپلوماتىيە</option>
+<option value="90"> &nbsp;|- ئېلېكترون</option>
+<option value="91"> &nbsp;|- تەنتەربىيە</option>
+<option value="92"> &nbsp;|- مەتبەئەچىلىك</option>
+<option value="100"> &nbsp;|- گۈزەل- سەنئەت</option>
+<option value="54">>> كومپيۇتېر بىلىملىرى</option>
+<option value="86"> &nbsp;|- ئۇيغۇرچە يۇمشاق دېتاللار</option>
+<option value="109"> &nbsp;|- كومپيۇتېردىن سوئال-جاۋابلار</option>
+<option value="110"> &nbsp;|- توربەت ياساش</option>
+<option value="190"> &nbsp;|- كومپيۇتېر ئۇنىۋېرسال بىلىملىرى</option>
+<option value="229"> &nbsp;|- كومپىيۇتېر كاشىلىلىرى</option>
+<option value="55"> &nbsp;|- قاتتىق دېتال</option>
+<option value="56"> &nbsp;|- يۇمشاق دېتال</option>
+<option value="57"> &nbsp;|- مەشغۇلات سىستېمىسى</option>
+<option value="58"> &nbsp;|- توربىلىملىرى</option>
+<option value="239">>> ئىسلام دىنى</option>
+<option value="240"> &nbsp;|- ئىسلام دىنىدىن ساۋاتلار</option>
+<option value="243"> &nbsp;|- قۇرئان كەرىم تەرجىمىسى</option>
+<option value="241"> &nbsp;|- قۇرئان كەرىم</option>
+<option value="242"> &nbsp;|- ئىسلام دۇنياسى</option>
+<option value="267">>> IT ئۇچۇرلىرى</option>
+<option value="219"> &nbsp;|- يانفون ئۇچۇرلىرى</option>
+<option value="220"> &nbsp;|- رەقەملىك مەھسۇلاتلار</option>
+<option value="277"> &nbsp;|- TV كارتىسى</option>
+<option value="284"> &nbsp;|- كۆچمە دىسكا</option>
+<option value="282"> &nbsp;|- MP4-MP3</option>
+<option value="273"> &nbsp;|- كۆرسىتىش كارتىسى</option>
+<option value="275"> &nbsp;|- ئوپتىك قويغۇچ</option>
+<option value="290"> &nbsp;|- نۇسخا كۆپەيتكۈچ</option>
+<option value="268"> &nbsp;|- قاتتىق دىسكا</option>
+<option value="286"> &nbsp;|- نۇر دىسكا</option>
+<option value="278"> &nbsp;|- شامالدۇرغۇچ</option>
+<option value="272"> &nbsp;|- ئىچكى ساقلىغۇچ</option>
+<option value="293"> &nbsp;|- رەقەملىك ئاپپارات</option>
+<option value="283"> &nbsp;|- بارماق دىسكا</option>
+<option value="270"> &nbsp;|- ئاساسىي تاختا</option>
+<option value="271"> &nbsp;|- CPU</option>
+<option value="274"> &nbsp;|- ئوپتىك ئويغۇچ</option>
+<option value="276"> &nbsp;|- ئېكران</option>
+<option value="287"> &nbsp;|- قول كومپيۇتېر</option>
+<option value="279"> &nbsp;|- ئاۋز كارتىسى</option>
+<option value="280"> &nbsp;|- كونۇپكا تاختىسى</option>
+<option value="281"> &nbsp;|- مائۇس</option>
+<option value="285"> &nbsp;|- ئاساسىي ماشىنا قېپى</option>
+<option value="288"> &nbsp;|- ياڭراتقۇ</option>
+<option value="289"> &nbsp;|- نۇسخا ئالغۇ</option>
+<option value="291"> &nbsp;|- نۇسخا چىقارغۇچ</option>
+<option value="292"> &nbsp;|- قەغەز</option>
+<option value="294"> &nbsp;|- كامىرا</option>
+<option value="263">>> خەۋەرلەر</option>
+<option value="198"> &nbsp;|- خەلقئارا خەۋەرلەر</option>
+<option value="199"> &nbsp;|- شىنجاڭ خەۋەرلىرى</option>
+<option value="200"> &nbsp;|- مەملىكەت خەۋەرلىرى</option>
+<option value="196">>> ئۇچۇرلار</option>
+<option value="197"> &nbsp;|- ماشىنا ئۇچۇرلىرى</option>
+<option value="201"> &nbsp;|- خىزمەت ئۇچۇرى</option>
+<option value="202"> &nbsp;|- ئۆي ئۇچۇرلىرى</option>
+<option value="203"> &nbsp;|- ئىقتىسادىي ئۇچۇرلار</option>
+<option value="204"> &nbsp;|- پەن-تېخنىكا ئۇچۇرلىرى</option>
+<option value="205"> &nbsp;|- ئۇنىۋېرسال ئۇچۇرلار</option>
+<option value="161">>> مائارپ</option>
+<option value="353"> &nbsp;|- كەسپىي مائارىپ</option>
+<option value="352"> &nbsp;|- مائارىپ تارىخى</option>
+<option value="166"> &nbsp;|- مائارىپ تەشكىلاتلىرى</option>
+<option value="162"> &nbsp;|- بالىلار باغچىلىرى</option>
+<option value="165"> &nbsp;|- باشلانغۇچ مەكتەپلەر</option>
+<option value="163"> &nbsp;|- ئوتتۇرا مەكتەپلەر</option>
+<option value="169"> &nbsp;|- ئالىي مەكتەپلەر</option>
+<option value="168"> &nbsp;|- گېزىتلەر</option>
+<option value="167"> &nbsp;|- ژۇرناللار</option>
+<option value="214">>> خانىم - قىزلار      </option>
+<option value="215"> &nbsp;|- قىزلار پسىخىكىسى</option>
+<option value="216"> &nbsp;|- خانىم - قىزلار ساغلاملىقى</option>
+<option value="217"> &nbsp;|- گۈزەللىك بىلىملىرى</option>
+<option value="218"> &nbsp;|- ئەخلاق</option>
+<option value="221">>> ھەربىي ئىشلار</option>
+<option value="222"> &nbsp;|- جەڭ پاراخوتلىرى</option>
+<option value="223"> &nbsp;|- كۆرەشچى ئايروپىلانلار</option>
+<option value="224"> &nbsp;|- جان ئالغۇ مىلتىقلار</option>
+<option value="225"> &nbsp;|- سۇ ئاستى كېمىلەر</option>
+<option value="226"> &nbsp;|- قۇرۇقلۇق ئارمىيىلىرى</option>
+<option value="66">>> قانۇن - نىزاملار</option>
+<option value="144"> &nbsp;|- جىنايەت ۋە جازا</option>
+<option value="264"> &nbsp;|- قانۇندىن مەسلىھەت</option>
+<option value="95"> &nbsp;|- قانۇنلار</option>
+<option value="94"> &nbsp;|- نىزاملار</option>
+<option value="191">>> ئۇنىۋېرسال</option>
+<option value="192"> &nbsp;|- ئۇنىۋېرسال سەھىپە</option>
+<option value="234">>> ۋاكالەتچىللىرىمىز</option>
+<option value="233">>> كىتابخانا</option>
+<option value="307"> &nbsp;|- مىللەتلەر (بېيجىڭ) نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="300"> &nbsp;|- شىنجاڭ ياشلار - ئۆسمۈرلەر نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="306"> &nbsp;|- قەشقەر ئۇيغۇر نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="302"> &nbsp;|- شىنجاڭ ئېلېكترون، ئۈن - سىن نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="298"> &nbsp;|- شىنجاڭ مائارىپ نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="303"> &nbsp;|- شىنجاڭ پەن - تېخنىكا نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="299"> &nbsp;|- شىنجاڭ خەلق نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="301"> &nbsp;|- شىنجاڭ گۈزەل - سەنئەت نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="304"> &nbsp;|- شىنجاڭ خەلق سەھىيە نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="305"> &nbsp;|- شىنجاڭ ئۇنىۋېرسىتېتى نەشرىياتىنىڭ كىتابلىرى</option>
+</select></td>
+	</tr>
+	<tr><td style="padding-top: 12px;text-align: right;"><img src="images/wind/index/home.gif" align="absbottom" /> <b><a href="index.php">
+		BilqutBBS</a> » <a href="thread.php?fid=95&page=0">
+		قانۇنلار</a></b> </td>
+	<td style="padding-top: 12px;text-align: right;"><a href="post.php?action=reply&fid=95&tid=8714"><img src="images/wind/reply.png" /></a> <a href="post.php?fid=95"><img src="images/wind/post.png" id="td_post1" /></a></td>
+	</tr>
+</table></div>
+<script language="JavaScript">
+var tid = 8714;
+var mt;
+function Addtoie(value,title){
+	window.external.AddFavorite(value,title);
+}
+function sendurl(event,url,id){
+	if(!event.ctrlKey){
+		window.location.href = 'post.php?'+url;
+	} else{
+		sendmsg('ajax.php?'+url,'',id);
+	}
+}
+function edited(){
+	var str = ajax.request.responseText.split("\t");
+	if(str[0] == 'success'){
+		var id  = read.obj.id;
+		id = id.substr(id.lastIndexOf('_')+1);
+		getObj('subject_'+id).innerHTML = ''+str[1];
+		getObj('read_'+id).innerHTML = str[2];
+	} else{
+		ajax.guide();
+	}
+}
+function favor(type){
+	closep();
+	ajax.send('pw_ajax.php?action=favor&tid='+tid+'&type='+type,'',ajax.get);
+}
+function addfriend(uid){
+	ajax.send('pw_ajax.php','action=addfriend&touid='+uid,ajax.guide);
+}
+function delatt(pid,aid){
+	if(!confirm('确定要删除此附件？')) return false;
+	ajax.send('pw_ajax.php','action=deldownfile&tid='+tid+'&pid='+pid+'&aid='+aid,function(){
+		if(ajax.request.responseText == 'success'){
+			var o = getObj('att_'+aid);
+			o.parentNode.removeChild(o);
+		} else{
+			ajax.guide();
+		}
+	});
+}
+function Fjump(value){
+	if(value!='') window.location=('https://uyghur-archive.com/bilqut/bbs/thread.php?fid='+value);
+}
+function CopyCode(obj){
+	var js = document.body.createTextRange();
+	js.moveToElementText(obj);
+	js.select();
+	js.execCommand("Copy");
+}
+function postreply(txt){
+	if(typeof document.FORM != "undefined"){
+		document.FORM.atc_title.value = txt;
+		document.FORM.atc_content.focus();
+	}
+}
+function dig(){
+	ajax.send('pw_ajax.php?action=dig&tid='+tid,'',function(){
+		var str = ajax.request.responseText.split("\t");
+		ajax.guide();
+		if(typeof str[1] != 'undefined'){
+			getObj('r_dig').innerHTML = str[1];
+		} else{
+			setTimeout("location.href='push.php?fid=95'",500);
+		}
+	});
+}
+function marked(){
+	var str = ajax.request.responseText.split("\t");
+	var id  = read.obj.id;
+	id = id.substr(id.lastIndexOf('_')+1);
+	if(str[0] == 'success'){
+		if(IsElement('mark_'+id)){
+			if(str[1] == ''){
+				getObj('mark_'+id).parentNode.removeChild(getObj('mark_'+id));
+			} else{
+				getObj('mark_'+id).lastChild.innerHTML = str[1];
+			}
+		} else{
+			var o = getObj('w_'+id);
+			var s = document.createElement("div");
+			s.id = 'mark_' + id;
+			s.className = 'tips tal';
+			s.cssText   = 'word-break:keep-all;word-wrap:no-wrap';
+			s.innerHTML = '<div class="tal s3">بۇ يازمىنىڭ يېقىنقى باھالىنىش خاتىرىسى : </div><div class="tal">'+str[1]+'</div>';
+			o.parentNode.insertBefore(s,o);
+		}
+	} else{
+		ajax.guide();
+	}
+}
+function usetool(id){
+	if(id>0 && confirm('你确定要使用该道具吗?')){
+		closep();
+		read.obj = getObj('usetool');
+		ajax.send('hack.php?H_name=toolcenter&action=ajax&tid='+tid+'&toolid='+id,'',ajax.get);
+	}
+}
+function usertool(uid,id){
+	if(confirm('你确定要使用该道具吗?')){
+		closep();
+		ajax.send('hack.php?H_name=toolcenter&action=ajax&uid='+uid+'&toolid='+id,'',ajax.get);
+	}
+}
+function fontsize(text,id){
+	getObj("read_"+id).className=text;
+}
+var totalpage=1;
+var page=1;
+if(totalpage > 1){
+	document.onkeydown=function(e){
+		var e = is_ie ? window.event : e;
+		var tagname = is_ie ? e.srcElement.tagName : e.target.tagName;
+		if(tagname == 'INPUT' || tagname == 'TEXTAREA'){
+			return;
+		}
+		actualCode = e.keyCode ? e.keyCode : e.charCode;
+		if(actualCode == 39 && page<totalpage){
+			window.location = 'read.php?tid=8714&fpage=0&toread=&page=' + (page+1);
+		} else if(actualCode == 37 && page>1){
+			window.location = 'read.php?tid=8714&fpage=0&toread=&page=' + (page-1);
+		}
+	}
+}
+</script>
+<script type="text/javascript" language="JavaScript" src="js/pw_ajax.js"></script>
+﻿
+</div>
+<div id="bottom"></div><br />
+<center class="gray">
+<div align="center" style="color:red">
+<p dir="ltr">ﺋﻪﺳﻜﻪﺭﺗﯩﺶ : ﺗﻮﺭ ﺑﯧﻜﯩﺘﯩﻤﯩﺰﺩﻩ ﯞﻩﻣﯘﻧﺒﯩﺮﯨﻤﯩﺰﺩﻩ ﺩﯙﻟﻪﺗﻨﯩﯔ ﺗﯜﺭﻟﯜﻙ ﻗﺎﻧﯘﻥ - 
+ﺳﯩﻴﺎﺳﻪﺕ ﭘﻪﺭﻣﺎﻧﻠﯩﺮﯨﻐﺎ ﺧﯩﻼﭖ ﻣﺎﻗﺎﻟﯩﻠﻪﺭ ﯞﻩ ﻳﻮﻟﻼﻧﻤﯩﻼﺭﻧﻰ ، ﺳﯜﺭﻩﺗﻠﻪﺭﻧﻰ ﻳﻮﻟﻼﺷﻘﺎ 
+ﺑﻮﻟﻤﺎﻳﺪﯗ. <br />ﺑﯚﻟﮕﯜﻧﭽﯩﻠﯩﻚ ، ﻗﯘﺗﺮﺍﺗﻘﯘﻟﯘﻕ ﺧﺎﺭﺍﻛﺘﺮﯨﺪﯨﻜﻰ ﻣﺎﻗﺎﻟﯩﻠﻪﺭﻧﻰ ﻳﻮﻟﻠﯩﻐﺎﻥ 
+ﺋﺎﭘﺘﻮﺭﻻﺭ ﺋﺎﻗﯩﯟﯨﺘﯩﮕﻪ ﺋﯚﺯﻯ ﻣﻪﺳﺌﯘﻝ ﺑﻮﻟﯩﺪﯗ . ﺗﻮﺭ ﭘﻮﻧﻜﯩﺘﯩﻤﯩﺰ ﮬﯧﭽﻘﺎﻧﺪﺍﻕ ﻣﻪﺳﺌﯘﻟﯩﻴﻪﺗﻨﻰ 
+ﺋﯜﺳﺘﯩﮕﻪ ﺋﺎﻟﻤﺎﻳﺪﯗ . ﺋﯚﺯ ﺗﻮﺭ ﻣﻪﺩﻩﻧﯩﻴﺘﯩﻤﯩﺰﻧﯩﯔ ﺳﺎﻏﻼﻡ ﺗﻪﺭﻩﻗﻘﯩﻲ ﻗﯩﻠﯩﺸﻰ ﯞﻩ ﺗﻮﺳﺎﻟﻐﯘﺳﯩﺰ 
+ﺋﯩﻠﮕﯩﺮﻟﯩﺸﻰ ﺋﯜﭼﯜﻥ ﺑﯘ ﻣﯘﻧﺒﻪﺭﻧﻰ ﺋﯚﺯ ﻛﯚﺯ ﻗﺎﺭﭼﯘﻗﯩﯖﯩﺰﺩﻩﻙ ﺋﺎﺳﺮﯨﺸﯩﯖﯩﺰﻧﻰﺋﯜﻣﯩﺪ ﻗﯩﻠﯩﻤﯩﺰ. <br />
+ﻛﯧﻴﯩﻨﻜﻰ ﭘﯘﺷﺎﻳﻤﺎﻥ ، ﺋﯚﺯﯛﯕﮕﻪ ﺩﯛﺷﻤﻪﻥ . ﻣﯩﻠﻠﻪﺗﻨﻰﺳﯚﻳﮕﯜﭼﯩﻠﻪﺭ ﺋﯚﺯ ﻧﻪﺭﺳﯩﺴﯩﻨﻰ ﻗﻪﺩﯨﺮﻟﻪﻳﺪﯗ 
+.<br /><br />ئاخىرىدا ھەربىر كۈنىڭىزنىڭ خۇشاللىق بىلەن ئۆتشىنى تىلەيمىز !</div>
+<p><p>
+
+<script language="javascript" src="https://count32.51yes.com/click.aspx?id=320168560&logo=1"></script>
+&nbsp;&nbsp;&nbsp; <script src='https://s78.cnzz.com/stat.php?id=866085&web_id=866085&show=pic1' language='JavaScript' charset='gb2312'></script><br /><small><span id="windspend">Total 0.076506(s) query 3, Time now is:10-23 02:58, Gzip disabled</span> <br />
+</center><br />
+<center>Uyghur Version Powered by Sazgur & RaZiMan Code &copy; 2007-2008 <a href="https://www.uyghur-archive.com/bilqut/" target="_blank"><b style="color:#FF9900">uyghur-archive.com/bilqut</b></a> Corporation</center><div id="footer">
+	<span class="f12 fl"></span><a href="https://www.phpwind.net/sendemail.php?username=fengyu">Contact us</a> | <a href="wap/index.php">Wap</a> | <a href="javascript:scroll(0,0)">Top</a>
+</div>
+</div>
+</body></html>
+<script language="JavaScript" src="js/global.js"></script>
+<script language="JavaScript">
+var openmenu = {'td_hack' : 'menu_hack','td_skin' : 'menu_skin','td_sort' : 'menu_sort','td_msg' : 'menu_msg','td_profile' : 'menu_profile','td_post' : 'menu_post','td_post1' : 'menu_post'};
+read.InitMenu();
+</script>
+<script language="JavaScript" src="https://init.phpwind.com/init.php?sitehash=10AVJVB1VVA1NeUwFXCQNQAVMNBQZWAFEOBwQHVVAGBVg&v=6.0&c=0"></script>

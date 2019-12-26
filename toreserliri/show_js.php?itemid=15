@@ -1,0 +1,3 @@
+﻿try {setidval('hits','2193');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/toreserliri/show.php?itemid=6">بىن لادېن ئوباماغا يەنە تەھدىت سالدى</a></li><li>  كىيىنكىسى  :  <a href="/toreserliri/show.php?itemid=35"> روسىيە ۋىيتنام سېتىۋالغان 12 دانە سۇ 30MK2 ئۇرۇش ئايرۇپىلانىنى 2011 يىلىدىن 2012 يىلغىچە ئىشلىتىشكە</a></li>');}catch(e){}

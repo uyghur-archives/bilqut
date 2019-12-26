@@ -1,0 +1,339 @@
+﻿
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ئوبلاستلىرىمىز -مەدەنىيىتىمىز--Bilqut Uyghur web</title>
+<meta name="keywords" content=",">
+<meta name="description" content="-">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/madiniytimiz/" class="red"> مەدەنىيىتىمىز</a>
+         | <a class="razimantur" href="/madiniytimiz/list.php?catid=71" >شەھەرلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=72" >ناھىيىلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=73" >ئوبلاستلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=74" >ۋىلايەتلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=75" >رېۋايەتلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=76" >تەمسىللىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=77" >ئۆلچەملىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=78" >چۆچەكلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=79" >سەنئەتكارىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=81" >تىل-يېزىقىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=82" >ئەپسانىلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=83" >مەسەللىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=84" >تائاملىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=85" >شەخسلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=86" >ئويۇنلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=88" > چالغۇلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=89" > ھۈنەرلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=90" > يوسۇنلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=91" > تارىخمىز  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<!--主体标签-->
+<table width="950" cellpadding="0"  cellspacing="0">
+  <tr>
+    <td width="750" valign="top">
+<!--位置导航-->
+    <div class="position">ئورنىڭىز : <a href="/madiniytimiz/">مەدەنىيىتىمىز</a> >> <a href="/madiniytimiz/list.php?catid=73">ئوبلاستلىرىمىز </a> >> </div>
+     <div class="cat_box_1">
+ <div class="cat_title">
+     <div class="cat_name">ئوبلاستلىرىمىز </div>
+ <div class="cat_url"><a href="" class="more"></a></div>
+     </div>
+<!--最新图片文章--><table width="100%"  cellpadding="2" cellspacing="0">
+
+
+</table>
+
+<table cellpadding="0" cellspacing="0" class="tag_box_1">
+
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=125" title="شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى بىناكارلىق قۇرۇلۇش بىرىنچى شىسى" 0 class="tag_title_link">شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى بىناكارلىق قۇرۇلۇش بىرىنچى شىسى</a>   
+    
+ <td><span>2008-05-09</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=124" title="شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك ئونىنچى شىسى" 0 class="tag_title_link">شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك ئونىنچى شىسى</a>   
+    
+ <td><span>2008-05-05</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=123" title="شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك ئونىنچى شىسى" 0 class="tag_title_link">شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك ئونىنچى شىسى</a>   
+    
+ <td><span>2008-04-30</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=122" title="شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك توققۇزىنچى شىسى" 0 class="tag_title_link">شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك توققۇزىنچى شىسى</a>   
+    
+ <td><span>2008-04-28</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=121" title="شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك سەككىزىنچى شىسى" 0 class="tag_title_link">شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك سەككىزىنچى شىسى</a>   
+    
+ <td><span>2008-04-24</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=120" title="شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك يەتتىنچى شىسى" 0 class="tag_title_link">شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك يەتتىنچى شىسى</a>   
+    
+ <td><span>2008-04-23</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=119" title="شىنجاڭ ئىشلەپچىقىرىش - قۇرلۇش بىڭتۇەنى يېزا ئىگىىك ئالتىنچى شىسى" 0 class="tag_title_link">شىنجاڭ ئىشلەپچىقىرىش - قۇرلۇش بىڭتۇەنى يېزا ئىگىىك ئالتىنچى شىسى</a>   
+    
+ <td><span>2008-04-21</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=118" title="شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك بەشىنچى شىسى" 0 class="tag_title_link">شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك بەشىنچى شىسى</a>   
+    
+ <td><span>2008-04-19</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=117" title="نىلقا ناھىيىسى" 0 class="tag_title_link">نىلقا ناھىيىسى</a>   
+    
+ <td><span>2008-04-19</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=116" title="شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك تۆتىنچى شىسى" 0 class="tag_title_link">شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك تۆتىنچى شىسى</a>   
+    
+ <td><span>2008-04-17</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=115" title="شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك ئۈچىنچى شىسى" 0 class="tag_title_link">شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك ئۈچىنچى شىسى</a>   
+    
+ <td><span>2008-04-15</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=114" title="شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك ئىككىنچى شىسى" 0 class="tag_title_link">شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك ئىككىنچى شىسى</a>   
+    
+ <td><span>2008-04-12</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=113" title="شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك بىرىنچى شىسى" 0 class="tag_title_link">شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك بىرىنچى شىسى</a>   
+    
+ <td><span>2008-04-08</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=112" title="شىنجاڭ ئىشلەپچىقىرىش - قۇرۇلۇش بىڭتۇەنى" 0 class="tag_title_link">شىنجاڭ ئىشلەپچىقىرىش - قۇرۇلۇش بىڭتۇەنى</a>   
+    
+ <td><span>2008-04-05</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=111" title="قىزىلسۇ قىرغىز ئاپتونوم ئوبلاستى" 0 class="tag_title_link">قىزىلسۇ قىرغىز ئاپتونوم ئوبلاستى</a>   
+    
+ <td><span>2008-01-19</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=110" title="بايىنغۇلىن موڭغۇل ئاپتونوم ئوبلاستى" 0 class="tag_title_link">بايىنغۇلىن موڭغۇل ئاپتونوم ئوبلاستى</a>   
+    
+ <td><span>2008-01-19</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=109" title="بورتالا موڭغۇل ئاپتونوم ئوبلاستى" 0 class="tag_title_link">بورتالا موڭغۇل ئاپتونوم ئوبلاستى</a>   
+    
+ <td><span>2008-01-19</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=108" title="ئىلى قازاق ئاپتونوم ئوبلاستى" 0 class="tag_title_link">ئىلى قازاق ئاپتونوم ئوبلاستى</a>   
+    
+ <td><span>2008-01-19</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=107" title="سانجى خۇيزۇ ئاپتونوم ئوبلاستى" 0 class="tag_title_link">سانجى خۇيزۇ ئاپتونوم ئوبلاستى</a>   
+    
+ <td><span>2007-12-30</span> </td>
+  </tr>
+
+</table>
+
+<div class="pages">جەمئى: <b>19</b>&nbsp;&nbsp;&nbsp;&nbsp;باش بەت
+&nbsp;ئالدىنقى بەت
+&nbsp;كىينكى بەت
+&nbsp;ئاخىرقى بەت&nbsp;بە ت: <b><font color=red>1</font>/1</b>&nbsp;&nbsp;<input type='text' name='page' id='page' class='page' size='3' onKeyDown='if(event.keyCode==13) {window.location="/madiniytimiz/list.php?catid=73&page="+$("page").value+""; return false;}'> <input type='button' value='GO' class='gotopage' style='width:30px' onclick='window.location="/madiniytimiz/list.php?catid=73&page="+$("page").value+""'>
+</div>
+     </div>	
+<!--搜索框--></td>
+    <td width="10"></td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>تەۋسىيە ئەسەر </h1><h2><a href="/madiniytimiz/search.php?catid=73&elite=1&search=1" class="more">يەنە بار </a></h2></div>
+<!--推荐文章js调用-->
+<table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=125" title="شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى بىناكارلىق قۇرۇلۇش بىرىنچى شىسى"  target="_blank" class="tag_title_link">شىنجاڭ ئىشلەپچىقىرش - قۇ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=124" title="شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك ئونىنچى شىسى"  target="_blank" class="tag_title_link">شىنجاڭ ئىشلەپچىقىرش - قۇ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=123" title="شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك ئونىنچى شىسى"  target="_blank" class="tag_title_link">شىنجاڭ ئىشلەپچىقىرش - قۇ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=122" title="شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك توققۇزىنچى شىسى"  target="_blank" class="tag_title_link">شىنجاڭ ئىشلەپچىقىرش - قۇ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=121" title="شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك سەككىزىنچى شىسى"  target="_blank" class="tag_title_link">شىنجاڭ ئىشلەپچىقىرش - قۇ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=120" title="شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك يەتتىنچى شىسى"  target="_blank" class="tag_title_link">شىنجاڭ ئىشلەپچىقىرش - قۇ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=119" title="شىنجاڭ ئىشلەپچىقىرىش - قۇرلۇش بىڭتۇەنى يېزا ئىگىىك ئالتىنچى شىسى"  target="_blank" class="tag_title_link">شىنجاڭ ئىشلەپچىقىرىش - ق...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=118" title="شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك بەشىنچى شىسى"  target="_blank" class="tag_title_link">شىنجاڭ ئىشلەپچىقىرش - قۇ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=117" title="نىلقا ناھىيىسى"  target="_blank" class="tag_title_link">نىلقا ناھىيىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=116" title="شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك تۆتىنچى شىسى"  target="_blank" class="tag_title_link">شىنجاڭ ئىشلەپچىقىرش - قۇ...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>ئاۋات ئەسەر </h1><h2><a href="/madiniytimiz/search.php?catid=73&ordertype=3&search=1" class="more">يەنە بار </a></h2></div>
+<table cellpadding="0" cellspacing="0" class="tag_box">
+
+
+</table>
+</td>
+  </tr>
+</table>
+
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

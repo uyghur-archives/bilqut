@@ -1,0 +1,129 @@
+<!-- Tor bat exligu chi Ablimitjan Maham  QQ :250092392    Tel: 6722530    E-Mail :Raziman@126.com ,ablmtjan@126.com -->
+document.write("<head></head>");
+
+
+document.write("<table border=0 cellpadding=2 cellspacing=0 width=100%>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1028 target=_blank><font color='' style='font-size:10pt'>ئون توققۇزنجى كى...</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1027 target=_blank><font color='' style='font-size:10pt'>ئون سەككىزىنجى ك...</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1026 target=_blank><font color='' style='font-size:10pt'>ئون يەتتنجى كىچە...</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1007 target=_blank><font color='' style='font-size:10pt'>ئون ئالتىنچى كىچ...</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1006 target=_blank><font color='' style='font-size:10pt'>ئون بەشىنچى كىچە...</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1005 target=_blank><font color='' style='font-size:10pt'>ئون تۆتىنچى كىچە...</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1004 target=_blank><font color='' style='font-size:10pt'>ئون ئۇچىنچى كىچە...</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1003 target=_blank><font color='' style='font-size:10pt'>ئون ئىككىنچى كىچ...</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1002 target=_blank><font color='' style='font-size:10pt'>ئون بىرنىچى كىچە...</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1001 target=_blank><font color='' style='font-size:10pt'>ئونىنچى كىچە</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1000 target=_blank><font color='' style='font-size:10pt'>توققۇزىنچى كىچە</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=936 target=_blank><font color='' style='font-size:10pt'>سەككىزىنچى كىچە</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=935 target=_blank><font color='' style='font-size:10pt'>يەتىتنچى كىچە</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=934 target=_blank><font color='' style='font-size:10pt'>ئالتىنچى كىچە</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=933 target=_blank><font color='' style='font-size:10pt'>بەشىنچى كىچە</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=right colspan=2></td></tr>");
+
+document.write("</table>");

@@ -1,0 +1,343 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>تۆۋەن بېسىم ئوقۇرى ۋە يۇقىرى بېسىم ئومۇرتقىسى-ئۆگىنىش-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,ئۆگىنىش">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/Ugnish/" class="red"> ئۆگىنىش</a>
+         | <a class="razimantur" href="/Ugnish/list.php?catid=98" > ماتېماتىكا  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=99" >يىزا-ئىگىلىك </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=100" >پسىخولوگىيە </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=101" >ئىقتىساد </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=102" >مۇھىت </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=103" >ئەدەبىيات </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=104" >جۇغراپىيە </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=105" >فىزىكا </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=106" > خىمىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=107" >ئاسترونومىيە </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=108" > بىئولوگىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=109" > دېپلوماتىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=110" > ئېلېكترون  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=111" > تەنتەربىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=112" >مەتبەئەچىلىك </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=113" > گۈزەل- سەنئەت  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/Ugnish/">ئۆگىنىش</a> >> <a href="/Ugnish/list.php?catid=102">مۇھىت </a> >>  تۆۋەن بېسىم ئوقۇرى ۋە يۇقىرى بېسىم ئومۇرتقىسى</div>
+<!--主标题--><h1>تۆۋەن بېسىم ئوقۇرى ۋە يۇقىرى بېسىم ئومۇرتقىسى </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2008-09-19 11:21:19&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">45</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<img src="/raziman_img/bash/reng/reng_1.gif" id="img1" style="cursor:hand;"  onclick="conhat(1)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_2.gif" id="img2" style="cursor:hand;"  onclick="conhat(2)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_3.gif" id="img3" style="cursor:hand;"  onclick="conhat(3)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_4.gif" id="img4" style="cursor:hand;"  onclick="conhat(4)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_5.gif" id="img5" style="cursor:hand;"  onclick="conhat(5)">&nbsp;&nbsp;                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">ھاۋا رايىدىن مەلۇمات بېرىش پروگراممىسىدا، بىز دائىم «تۆۋەن بېسىم ئوقۇرى» ۋە «يۇقىرى بېسىم ئومۇرتقىسى» دېگەن سۆزنى ئاڭلايمىز، ئەمەلىيەتتە بۇلار سىكلون ۋە ئانتىسىكلوننى كۆرسىتىدۇ.
+شىمالىي يېرىم شاردىكى غەرب شامىلى بەلۋېغىدا، ئاتموسفېرا دولقۇنسىمان ھەرىكەت قىلىدۇ. دولقۇننىڭ پەس جىلغا رايونى تۆۋەن بېسىم ئوقۇرى بولۇپ، ھاۋا ئېقىمى سائەت ئىسترېلكىسىغا قارشى يۆنىلىشتە ئايلىنىدۇ، مەركىزىنىڭ ھاۋا بېسىمى تۆۋەن، تۆت ئەتراپىنىڭ يۇقىرى بولىدۇ. ھاۋا ئوقۇر سىرتىدىن ئىچىگە قاراپ ھەرىكەت قىلىدۇ، ئوقۇر ئىچىدە ھاۋا يىغىلىپ يۇقىرى كۆتۈرۈلۈپ يامغۇرلۇق ھاۋا رايىنى شەكىللەندۈرىدۇ. دولقۇننىڭ ئېگىز چوققا رايونى يۇقىرى بېسىم ئومۇرتقىسى بولۇپ، ھاۋا ئېقىمى سائەت ئىسترېلكىسى يۆنىلىشى بويىچە ئايلىنىدۇ، ھاۋا بېسىمى مەركىزىنىڭ يۇقىرى، تۆت ئەتراپىنىڭ تۆۋەن بولىدۇ، ھاۋا مەركەزدىن ئەتراپقا قاراپ تارقىلىدۇ، ئومۇرتقا ئىچىدە تۆۋەنگە&nbsp; ئولتۇرۇشقان ھاۋا ئېقىمى ئەۋج ئالىدۇ، ئادەتتە ھاۋا ئوچۇق بولىدۇ. ئومۇرتقا بىلەن ئوقۇرنىڭ بىرى ئېگىز، بىرى پەس بولۇپ، دولقۇن ھاسىل قىلىدۇ. غەرب شامىلى بەلۋېغىنىڭ يۇقىرىسىدىكى ئوقۇر - ئومۇرتقا سىستېمىلىرى غەرب شامىلى دولقۇنى دەپ ئاتىلىدۇ.
+يۇقىرى بوشلۇقتىكى ئوقۇر - ئومۇرتقا سىستېمىلىرى بىلەن يەر يۈزىدىكى ھاۋا رايىنىڭ ئۆزگىرىشى زىچ مۇناسىۋەتلىك. مەسىلەن، شىمالىي يېرىم شاردىكى غەرب شامىلى بەلۋېغىدا يۇقىرى بوشلۇق ئوقۇرىنىڭ ئالدى تەرىپىدە ئادەتتە غەربىي جەنۇب شامىلى چىقىدۇ، بۇ خىل شامال بېنگال قولتۇقى بىلەن ھىندى ئوكياننىڭ ھاۋا بوشلۇقىدىكى ئىللىق نەم ھاۋانى ئېلىمىزنىڭ ئوتتۇرا كەڭلىك رايونىغا ئېلىپ كېلىپ، بۇلۇت ۋە ھۆل - يېغىننىڭ شەكىللىنىشى ئۈچۈن شارائىت ھازىرلايدۇ. يۇقىرى بوشلۇق ئوقۇرىنىڭ كەينىدە (يۇقىرى بېسىم ئومۇرتقىسىنىڭ ئالدىدا) ئادەتتە غەربىي شىمال شامىلى چىقىدۇ - دە، يەر يۈزىدە يۇقىرى بېسىم رايونى شەكىللىنىپ، ھاۋا ئېچىلىدۇ.
+يۇقىرى بوشلۇق ئوقۇرى بىلەن ئومۇرتقىسى شەكىللەنگەندىن كېيىن توختىماستىن يۆتكىلىپ ۋە ئۆزگىرىپ تۇرىدۇ، بەزىدە كۈچىيىدۇ، بەزىدە ئاجىزلايدۇ. يۇقىرى بوشلۇق ئوقۇرى ۋە ئومۇرتقىسىنىڭ يۆتكىلىشى، ئۆزگىرىشى ھەمدە كۈچىيىشى، ئاجىزلىشىشىغا ئەگىشىپ، يەر يۈزىدىكى ھاۋا رايى ئەھۋالىدا مۇناسىپ ئۆزگىرىشلەر يۈز بېرىدۇ، شۇڭا يۇقىرى بوشلۇق ئوقۇر - ئومۇرتقا سىستېمىلىرىنىڭ پائالىيىتى ۋە ئۆزگىرىشى ھەققىدە ئالدىن مەلۇمات بېرىش ھاۋا رايىدىن ئالدىن مەلۇمات بېرىشتىكى مۇھىم مەزمۇن ھېسابلىنىدۇ.</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=508" title="ھاۋا رايى خەرىتىسى"  target="_blank" class="tag_title_link">ھاۋا رايى خەرىتىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=507" title="يەر شارىنىڭ قېلىنلىقى زادى قانچىلىك ؟"  target="_blank" class="tag_title_link">يەر شارىنىڭ قېلىنل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=506" title="فرونت يۈزى"  target="_blank" class="tag_title_link">فرونت يۈزى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=505" title="تۆۋەن بېسىم ئوقۇرى ۋە يۇقىرى بېسىم ئومۇرتقىسى"  target="_blank" class="tag_title_link">تۆۋەن بېسىم ئوقۇرى ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=504" title="سىكلون ۋە ئانتىسىكلون"  target="_blank" class="tag_title_link">سىكلون ۋە ئانتىسىك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=503" title="شەھەرلەردىكى يېشىللىق ۋە كىچىك سەيلىگاھلار"  target="_blank" class="tag_title_link">شەھەرلەردىكى يېشىل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=502" title="پاسسات شامىلى"  target="_blank" class="tag_title_link">پاسسات شامىلى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=501" title="ھايۋانات باغچىسى"  target="_blank" class="tag_title_link">ھايۋانات باغچىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=500" title="ئىقلىمنىڭ ئۆزگىرىشى"  target="_blank" class="tag_title_link">ئىقلىمنىڭ ئۆزگىرىش...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=499" title="ئاتموسفېرا ھەرىكىتى"  target="_blank" class="tag_title_link">ئاتموسفېرا ھەرىكىت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=498" title="ئۆگزە گۈللۈكى ۋە ئۆي گۈللۈكى"  target="_blank" class="tag_title_link">ئۆگزە گۈللۈكى ۋە ئۆ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=497" title="غايەت زور ھاۋا ماسسىسى"  target="_blank" class="tag_title_link">غايەت زور ھاۋا ماسس...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=496" title="ئېل نىنو ئىللىق ئېقىمى"  target="_blank" class="tag_title_link">ئېل نىنو ئىللىق ئېق...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=495" title="شىپاڭ مەنزىرىلىرى"  target="_blank" class="tag_title_link">شىپاڭ مەنزىرىلىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=494" title="ئوكيان ئېقىمى"  target="_blank" class="tag_title_link">ئوكيان ئېقىمى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=493" title="يەرلىك ئىقلىم"  target="_blank" class="tag_title_link">يەرلىك ئىقلىم</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=492" title="ئوتتۇرا دېڭىز ئىقلىمى"  target="_blank" class="tag_title_link">ئوتتۇرا دېڭىز ئىقل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=491" title="مۇسسۇن شامىلى"  target="_blank" class="tag_title_link">مۇسسۇن شامىلى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=490" title="دۇنيا يەرشارى كۈنى"  target="_blank" class="tag_title_link">دۇنيا يەرشارى كۈنى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=489" title="ئۆسۈملۈك باغچىسى"  target="_blank" class="tag_title_link">ئۆسۈملۈك باغچىسى</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/Ugnish/search.php?catid=102&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=508" title="ھاۋا رايى خەرىتىسى"  target="_blank" class="tag_title_link">ھاۋا رايى خەرىتىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=507" title="يەر شارىنىڭ قېلىنلىقى زادى قانچىلىك ؟"  target="_blank" class="tag_title_link">يەر شارىنىڭ قېلىنلىقى ز...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=506" title="فرونت يۈزى"  target="_blank" class="tag_title_link">فرونت يۈزى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=505" title="تۆۋەن بېسىم ئوقۇرى ۋە يۇقىرى بېسىم ئومۇرتقىسى"  target="_blank" class="tag_title_link">تۆۋەن بېسىم ئوقۇرى ۋە يۇ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=504" title="سىكلون ۋە ئانتىسىكلون"  target="_blank" class="tag_title_link">سىكلون ۋە ئانتىسىكلون</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=503" title="شەھەرلەردىكى يېشىللىق ۋە كىچىك سەيلىگاھلار"  target="_blank" class="tag_title_link">شەھەرلەردىكى يېشىللىق ۋ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=502" title="پاسسات شامىلى"  target="_blank" class="tag_title_link">پاسسات شامىلى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=501" title="ھايۋانات باغچىسى"  target="_blank" class="tag_title_link">ھايۋانات باغچىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=500" title="ئىقلىمنىڭ ئۆزگىرىشى"  target="_blank" class="tag_title_link">ئىقلىمنىڭ ئۆزگىرىشى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=499" title="ئاتموسفېرا ھەرىكىتى"  target="_blank" class="tag_title_link">ئاتموسفېرا ھەرىكىتى</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/Ugnish/show_js.php?itemid=505"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

@@ -1,0 +1,3 @@
+﻿try {setidval('hits','557');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/xanim_qiz/show.php?itemid=7">ئائىلە ئەخلاقى توغرسىدا ھېكمەتلەر</a></li><li>  كىيىنكىسى  :  <a href="/xanim_qiz/show.php?itemid=9">بىز رېئاللىقتىن ئۆزىنى قاچۇرىدىغان ئالدامچىلار ؟</a></li>');}catch(e){}

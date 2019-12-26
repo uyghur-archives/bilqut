@@ -1,0 +1,3 @@
+﻿try {setidval('hits','33');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/maarip/show.php?itemid=165">تارغاباتاي شەھەرلىك 3 - ئوتتۇرا مەكتەپ</a></li><li>  كىيىنكىسى  :  <a href="/maarip/show.php?itemid=167">خوتەن ۋىلايەتلىك 2 - ئوتتۇرا مەكتەپ</a></li>');}catch(e){}

@@ -1,0 +1,349 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>خىلمۇخىل كىتابلار-ئۆگىنىش-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,ئۆگىنىش">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/Ugnish/" class="red"> ئۆگىنىش</a>
+         | <a class="razimantur" href="/Ugnish/list.php?catid=98" > ماتېماتىكا  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=99" >يىزا-ئىگىلىك </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=100" >پسىخولوگىيە </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=101" >ئىقتىساد </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=102" >مۇھىت </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=103" >ئەدەبىيات </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=104" >جۇغراپىيە </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=105" >فىزىكا </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=106" > خىمىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=107" >ئاسترونومىيە </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=108" > بىئولوگىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=109" > دېپلوماتىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=110" > ئېلېكترون  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=111" > تەنتەربىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=112" >مەتبەئەچىلىك </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=113" > گۈزەل- سەنئەت  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/Ugnish/">ئۆگىنىش</a> >> <a href="/Ugnish/list.php?catid=112">مەتبەئەچىلىك </a> >>  خىلمۇخىل كىتابلار</div>
+<!--主标题--><h1>خىلمۇخىل كىتابلار </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2008-01-21 15:18:41&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">72</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<img src="/raziman_img/bash/reng/reng_1.gif" id="img1" style="cursor:hand;"  onclick="conhat(1)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_2.gif" id="img2" style="cursor:hand;"  onclick="conhat(2)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_3.gif" id="img3" style="cursor:hand;"  onclick="conhat(3)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_4.gif" id="img4" style="cursor:hand;"  onclick="conhat(4)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_5.gif" id="img5" style="cursor:hand;"  onclick="conhat(5)">&nbsp;&nbsp;                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">ھازىر دۇنيادا قەغەز كىتابلاردىن باشقا شەكلى خىلمۇخىل كىتابلارمۇ بار.
+بامبۇك پوستى كىتاب. بۇنداق كىتاب بامبۇكنىڭ نېپىز پوستى ئاجرىتىۋېلىنىپ، ئوتقا قاقلاپ قۇرۇتۇلغاندىن كېيىن خەت ئويۇپ ئىشلىنىدۇ. ئۇ ئېلىمىزدىكى بامبۇك كىتابقا ئوخشاپ كېتىدۇ. ھازىر ھىندۇنېزىيىنىڭ بەزى جايلىرىدا قات - قات دەستىلەنگەن بامبۇك پوستى كىتابلارنى سېتىۋالغىلى بولىدۇ.
+يوپۇرماق كىتاب. بۇنداق كىتاب ھىندىستان، بىرما قاتارلىق دۆلەتلەردىكى بىر قىسىم بۇددا ئىبادەتخانىلىرىدا ھېلىمۇ بار. يەرلىك كىشىلەر پالما، كوكۇس يوپۇرماقلىرىنى قىرقىپ تۈزلەپ قۇرۇتۇپ، ئالدى - كەينىگە خەت يېزىپ تۈپلەپ كىتاب قىلىدۇ، بۇنداق كىتابنى ئۇزاق ساقلىغىلى بولىدۇ. 
+تارىشا كىتاب. ئېلىمىزدە چىڭ سۇلالىسىنىڭ چيەنلۇڭ زامانىدا ئىشلەنگەن «گادىنجۇر نومى» دۇنياغا مەشھۇر كىتاب بولۇپ، ئۇنىڭغا790&nbsp; مىڭ پارچە تارىشا ئىشلىتىلگەن، ئېغىرلىقى400&nbsp; توننا كېلىدۇ. بۇ تارىشىلار بىر - بىرىگە ئۇلىنىدىغان بولسا،120&nbsp; كىلومېتىر چىقىدۇ. «گادىنجۇر نومى» غا بۇددا نومىنىڭ7240&nbsp; جىلدى كىرگۈزۈلگەن بولۇپ، خەت سانى67&nbsp; مىليوندىن ئاشىدۇ.
+پولات ياپراقچە كىتاب. برازىلىيىنىڭ سان پاۋلو مەيدانىغا بىر پولات ياپراقچە كىتاب قويۇپ قويۇلغان، ئۇ1000&nbsp; نەچچە بەتلىك بولۇپ، ئېغىرلىقى3000&nbsp; كىلوگرامغا يېتىدۇ. ئۇ پۈتۈنلەي دات باسماس پولات ياپراقچىلىرىدىن ئىشلەنگەن بولۇپ، ئۇنىڭغا سان پاۋلو شەھىرىنىڭ تارىخى پۈتۈلگەن. 
+تاش كىتاب. ئېلىمىزنىڭ لوياڭ شەھىرىدىكى «خەن سۇلالىسى تاش نومى»، شىئەن شەھىرىدىكى «كەيچىڭ تاش نومى»&nbsp; ھازىرغىچە مۇكەممەل ساقلانغان تاش كىتابلاردۇر. بۇ ئىككى تاش&nbsp; نوم شەرقىي خەن ۋە تاڭ سۇلالىلىرى زامانلىرىدا ئويۇلغان بولۇپ، ئۇلارغا كۇڭزىچىلارنىڭ كلاسسىك ئەسەرلىرى كىرگۈزۈلگەن. بىرمىدا دۇنيا بويىچە ئەڭ چوڭ، ئەڭ ئېغىر تاش كىتاب بار، ئۇ جەمئىي731&nbsp; بەت بولۇپ، بىر بېتى ئىككى توننا چىقىدۇ، ئۇنىڭغا بۇددا پەلسەپىسى ئويۇلغان.
+ئادەم تېرىسى بىلەن تاشلانغان كىتاب. ھازىر دۇنيادا بۇنداق كىتابتىن ئاز دېگەندە100 ى بار. فرانسىيىلىك شائىر كامىل دوكتورنىڭ شېئىرلىرى توپلىمى «بوشلۇقتىكى زېمىن» نىڭ مۇقاۋىسىدا «بىر خانىمنىڭ ئارزۇسىغا ئاساسەن، ئۇنىڭ تېرىسىدىن تاشلاندى،1882&nbsp; - يىلى» دېگەن سۆزلەر بار. ئەسلىي بىر گرافنىڭ ئايالى ھايات ۋاقتىدا بۇ كىتابنى ئىنتايىن ياقتۇرۇپ قېلىپ، ۋەسىيىتىدە ئۆز مۈرىسىنىڭ تېرىسى بىلەن بۇ كىتابنى تاشلاپ قويۇشنى ۋەسىيەت قىلغان ئىكەن. ئىككىنچى دۇنيا ئۇرۇشى مەزگىلىدە فاشىستلار بەدىنىگە تامغا بېسىلغان ئەسىرلەرنى ئۆلتۈرۈپ، ئۇلارنىڭ تېرىسى بىلەن گىتلېر سۈرەتلىرى ئالبومىنى ھەم گىتلېرنىڭ «مېنىڭ كۈرەشلىرىم» دېگەن كىتابىنى تاشلىغان، ھازىر ئۇلار فاشىستلارنىڭ بىگۇناھلارنى قىرغىن قىلغانلىقىنىڭ پولاتتەك دەلىلى بولۇپ قالدى.
+ئېلېكترونلۇق كىتاب. گېرمانىيە لوڭگىنشات نەشرىياتى ئېغىرلىقى ئاران70&nbsp; گرام كېلىدىغان كىچىك ئېلېكترونلۇق لۇغەت نەشر قىلدى، ئۇنىڭ كۆرۈنۈشى ھېسابلىغۇچقا ئوخشاش بولۇپ، ئۇنىڭغا4000&nbsp; دىن ئارتۇق سۆزلەم كىرگۈزۈلگەن. تېپىش توغرا كەلگەندە، سۆزلەمنىڭ بېشىدىكى ئىككى ھەرپنى كومپيۇتېرغا كىرگۈزۈپ، بەلگىلەنگەن بىرنەچچە كۇنۇپكا بېسىلسىلا تەلەپ ئورۇندىلىدۇ.
+«گەپ قىلالايدىغان كىتاب». ياپونىيىدە&nbsp; ئېلېكترونلۇق ئاۋازلىق ئەپچىل لۇغەت ئىشلەندى، ئۇنىڭ «ئاڭلاش» ئىقتىدارى بولغاندىن تاشقىرى، ئاڭلىغان سۆزلەرنى باشقا بىر تىلغا تەرجىمە قىلىپ ئوقۇپ بېرىش ئىقتىدارىغىمۇ ئىگە. ھازىر ياپونىيە ئوتتۇرا مەكتەپ ئوقۇغۇچىلىرىنىڭ خېلى بىر قىسمى ئىنگلىز تىلى ئۆگىنىشتە مۇشۇ «كىتاب» تىن پايدىلىنىۋاتىدۇ.
+كىتاب ھەققىدە تەرىپلەر
+كىتاب − ئىنسانلارنىڭ ئوزۇقى.
+تۇرمۇشتا كىتاب بولمىسا، قۇياش بولمىغانغا ئوخشايدۇ؛ ئەقىلغا كىتاب بولمىسا، قۇشقا قانات بولمىغانغا ئوخشايدۇ.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; − شېكېسپېر
+
+كىتاب − ئىنسانىيەت تەرەققىياتىنىڭ شوتىسى.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  − گوركىي
+
+كىتاب − دەۋر دولقۇنىدا ئۈزۈپ كېتىۋاتقان ئىدىيە كېمىسى، ئۇ قىممەتلىك ماللارنى ئېھتىيات بىلەن ئەۋلادمۇئەۋلاد يەتكۈزىدۇ.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; − باكون
+كۆڭۈلدىكىدەك كىتاب − ئەقىلنىڭ ئاچقۇچى.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  − تولستوي
+
+كىتاب بىلەن بىللە ياشىغان كىشى مەڭگۈ ھەسرەت چەكمەس.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  − رومىن روللان
+
+ياخشى كىتاب − بىباھا گۆھەردۇر.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  −ـ بېلىنسكىي
+
+ياخشى كىتابنى ئوقۇساڭ، ئالىيجانابلار بىلەن سۆزلەشكەندەك بولىسەن. 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; − گودې
+
+كىتاب دورىغا ئوخشايدۇ، ئوقۇشقا ماھىر بولساڭ، كېسىلىڭگە شىپا بولىدۇ.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  − ليۇ شياڭ
+
+ياخشى كىتابلارنى ھەر كۈنى ئوقۇپ بېرىشىڭنىڭ تەسىرىدە، ئەخمىقانە ئىشلار ئوتقا قاقلانغانغا ئوخشاش تەدرىجىي ئېرىپ يوقىلىدۇ.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; − خۇگو
+
+ناچار كىتاب خاتا ئۇقۇملارنى ئۆگىتىپ، ناداننى تېخىمۇ نادانلاشتۇرۇۋېتىدۇ.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  − بېلىنسكىي
+
+كىتاب بەئەينى دوستقا ئوخشايدۇ، تاللاشتا ئېھتىيات قىلمىسىڭىز بولمايدۇ.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; − خېدېس</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1451" title="كىتاب دېڭىزى قانچىلىك چوڭ"  target="_blank" class="tag_title_link">كىتاب دېڭىزى قانچى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1450" title="كىتابلار ئىچىدىكى ئەڭ"  target="_blank" class="tag_title_link">كىتابلار ئىچىدىكى ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1449" title="نەشر قىلىش خىزمىتىنىڭ ئۈچ ھالقىسى"  target="_blank" class="tag_title_link">نەشر قىلىش خىزمىتى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1448" title="ئۆسمۈرلەر ۋە بالىلار گېزىت - ژۇرناللىرى"  target="_blank" class="tag_title_link">ئۆسمۈرلەر ۋە بالىل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1447" title="تەيۋەن ئۆلكىسىدىكى ئاساسلىق گېزىتلەر"  target="_blank" class="tag_title_link">تەيۋەن ئۆلكىسىدىكى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1446" title="«سېرىق چاكىنا گېزىت» لەرنىڭ بارلىققا كېلىشى"  target="_blank" class="tag_title_link">«سېرىق چاكىنا گېزى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1445" title="خىلمۇخىل كىتابلار"  target="_blank" class="tag_title_link">خىلمۇخىل كىتابلار</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1444" title="كىتابنىڭ تەركىب تېپىشى"  target="_blank" class="tag_title_link">كىتابنىڭ تەركىب تې...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1443" title="كىتابنىڭ تەرەققىياتى"  target="_blank" class="tag_title_link">كىتابنىڭ تەرەققىيا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1442" title="بەت"  target="_blank" class="tag_title_link">بەت</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1441" title="جۇڭگو ۋە چەت ئەللەردە ئەڭ بالدۇر نەشر قىلىنغان گېزىتلەر"  target="_blank" class="tag_title_link">جۇڭگو ۋە چەت ئەللەر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1440" title="جۇڭگونىڭ ھەرقايسى ساھەلىرىدىكى ئاساسلىق گېزىتلەر"  target="_blank" class="tag_title_link">جۇڭگونىڭ ھەرقايسى ...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/Ugnish/search.php?catid=112&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1451" title="كىتاب دېڭىزى قانچىلىك چوڭ"  target="_blank" class="tag_title_link">كىتاب دېڭىزى قانچىلىك چ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1450" title="كىتابلار ئىچىدىكى ئەڭ"  target="_blank" class="tag_title_link">كىتابلار ئىچىدىكى ئەڭ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1449" title="نەشر قىلىش خىزمىتىنىڭ ئۈچ ھالقىسى"  target="_blank" class="tag_title_link">نەشر قىلىش خىزمىتىنىڭ ئ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1448" title="ئۆسمۈرلەر ۋە بالىلار گېزىت - ژۇرناللىرى"  target="_blank" class="tag_title_link">ئۆسمۈرلەر ۋە بالىلار گې...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1447" title="تەيۋەن ئۆلكىسىدىكى ئاساسلىق گېزىتلەر"  target="_blank" class="tag_title_link">تەيۋەن ئۆلكىسىدىكى ئاسا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1446" title="«سېرىق چاكىنا گېزىت» لەرنىڭ بارلىققا كېلىشى"  target="_blank" class="tag_title_link">«سېرىق چاكىنا گېزىت» لە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1445" title="خىلمۇخىل كىتابلار"  target="_blank" class="tag_title_link">خىلمۇخىل كىتابلار</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1444" title="كىتابنىڭ تەركىب تېپىشى"  target="_blank" class="tag_title_link">كىتابنىڭ تەركىب تېپىشى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1443" title="كىتابنىڭ تەرەققىياتى"  target="_blank" class="tag_title_link">كىتابنىڭ تەرەققىياتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1442" title="بەت"  target="_blank" class="tag_title_link">بەت</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/Ugnish/show_js.php?itemid=1445"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

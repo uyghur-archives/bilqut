@@ -1,0 +1,472 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>تىلسىزلار دىئالۇگلىرى-كۇتۇپخانا-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,كۇتۇپخانا">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/kutupxana/" class="red"> كۇتۇپخانا</a>
+         | <a class="razimantur" href="/kutupxana/list.php?catid=43" >ھېكايىلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=44" > شېئىر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=45" > كەلىلە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=46" > نەسىرلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=47" > يۇمۇرلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=48" > ھىكمەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=49" > نەسىھەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=50" > ماقالىلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=51" > ياشلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=52" > تۇرمۇش </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=53" > نۇتۇقلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=54" >مەكتۇب  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=55" >غارايىبات</a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=56" > دۇنيادا ئەڭ  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=57" >قان تىپى </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=58" > مۆچەل  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=59" > مىللەتلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=60" > بۈگۈن  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=61" >مۇزېي </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=62" >تارىخ </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=63" >شەھەرلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=64" >دۆلەتلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=65" >كۇتۇبخانىلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=66" >مايلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=67" >مېۋە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=68" >كۆكتاتلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=69" >ئۆسۈملۈكلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=70" > ھايۋاناتلار  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/kutupxana/">كۇتۇپخانا</a> >> <a href="/kutupxana/list.php?catid=48"> ھىكمەت  </a> >>  تىلسىزلار دىئالۇگلىرى</div>
+<!--主标题--><h1>تىلسىزلار دىئالۇگلىرى </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-06-28 12:43:42&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">311</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut"> بۈرگە پىتتىن سوراپتۇ:
+- ئىلگىرى پات - پات كۆرۈشۈپ قالاتتۇق، يېقىنقى يىللاردىن بۇين دىارلىشالمىدۇق. نەلەردە يۈرۈيسەن ئۇكىجان؟
+پىت جاۋاپ بېرىپ دەپتۇ:
+- ئىلگىرى يوتقان - كۆپە، ئىشتان - كۆۇينەكلەرنىڭ ئەسترىنى ماكان قىلغان چاغلىرىمىزدا پات - پات دىدار كۆرۈشۈپ تۇرغىنىمىز راس. ئەمما يېقىنقى يىللاردىن بۇيان بىزمۇ ئدەملەرگە ئەگىشىپ مىىلسىز تەرەققىي قىلىپ، ماكان ئالماشتۇردۇق. يەنى ئادەملەرنىڭ تېنىدىن روھىغا كۆچتۇق. بۇنىڭ بىلەن ھە دىسىلا تۇتۇلۇپ ئۆلتۈرلۈش خەۋىپىدىن قۇتۇلۇپ خېلى خاتىرجەم بولۇپ قالدۇق.
+&nbsp;&nbsp;بىر پاشا پاشىلارنىڭ ئاقساقلىدىن سوراپتۇ:
+- ئادەملەر يازغان بىر ماتېريالغا قارىسام، &gt;پاشا دۇنيادىكى بىرىنچى قاتىل&lt; دېيىلىپتۇ. بۇ راسمۇ؟
+پاشىلارنىڭ ئاقساقىلى جاۋاپ بېرىپ دەپتۇ:
+- ئادەملەر بىز تارتقان بەزگەك كېسىلىدە ئۆلگەنلەرنى ھېساپلاپ شۇندق دېگىنى بىلەن، ئۆزلىرى ئىجات قىلغان ئۇرۇش، خىروئىن، ئەيدىز دېگەندەك ئاپەتلەردە ئۆلگەنلەرنى ھېساپلاپ باقسا، دۇنيادىكى بىرىنچى قاتىلنىڭ ئادەملەنرىڭ ئۆزى ئىكەنلىگىنى بىلگەن بولاتتى.
+&nbsp;&nbsp;بىر چىۋىن ئىككىنچى چىۋىنگە دەپتۇ:
+- ئادەملەر بىزنى شەھەرلەردىن قوغلاپ چىقارغاندىن كېيىن، قايتا بېرىپ باقمىدۇق بۇرادەر. بۈگۈن ئىكىمىز بىر بېرىپ باقمايلىمۇ؟
+ئىككىنچى چىۋىن جاۋاپ بېرىپتۇ:
+- ئاڭلىسام ئادەملەر بىزنى ئوغلاپ چىقارغاندىن كېيىن ئۆزلىرى چىۋىنگە ئايلىنىپ، رېستۇران، ئاشخانا، ماگىزىن، كوچا - كويلاردا مىژىلداپ يۈرگىدەك. بىز بارساقمۇ قونcىدەك جاي تاپالمىغۇدەكمىز بۇرادەر.
+&nbsp;&nbsp;چايان بالىسى ئانىسىدىن سوراپتۇ:
+ - ئادەملەردىن قورقۇپ ئۇۋىمىزدىن چىقالمىغىنىمىزغا خېلى يىللار بولۇپ قالدى ئانا. قاچامۇ ئۇۋىمىزدىن چىقىپ دۇنيانى بىر كۆرەرمىز؟
+ئانا چايان جاۋاپ بېرىپتۇ:
+- ئىلگىرى ئادەملەر &gt;زەھەرلىك&lt; دەپ بىزدىن قورقاتتى بالام. مانا ئەمدى ئادەملەرنىڭ تىلى شىكەر بولغىنى بىلەن دىلى زەھەر ئامبىرىغا ئايلاندى. ھازىر بىز ئادەملەرنى چېقىۋالساقمۇ ،ئۇنىڭدىكى زەھەر بىزنىڭكىدىن كۈچلۈك بولغاچقا، يەنىلا بىز ئۆلۈپ قالىمىز. شۇڭا ئۇۋىدىن چىقمىغىنىمىز تۈزۈك.
+&nbsp;&nbsp;بالا قۇچقاچ ئانىسىدىن سوراپتۇ:
+- مۇمامدىن ئاڭلىسام، ئىلگىرى قۇچقاچلار توپ - توپ بولۇپ ئۇچۇپ كېلىپ بىر دەرەخكە قونسا، بىر تال شاخمۇ ئاق قالمايدىكەنتۇق. مانا ئەمدى پۈتكۈل ئورماندا بىر نەچچىمىزلا قېلىپ، تولىمۇ غېرىپسىنىپ قالدۇق ئانا. قاچانمۇ يەنە توپ - توپ ياشارمىز؟
+ئانا قۇچقاچ جاۋاپ بېرىپتۇ:
+- بۇ ئادەملەرەە باغلىق بالام. ئەسلىدە بىز ئادەملەرنىڭ دوستى ئىدۇق. ئادەملەر تېرىغان زەل - زىرائەت، گۈل - گىياھلارغا قۇرت چۈشكىدەك بولسا، دەرھال جەڭگە ئاتلىنىپ ئادەملەرگە ياردەم قىلاتتۇق. ئەمما ئادەملەر بىزنىڭ ياردىمىمىزگە سەل قاراپ، زىيانداش قۇرۇتلارنى يوقۇتۇشتا زەھەرلىك دورىلارغىلا تاياندى. بۇنىڭ بىلەن مۇھىت بۇلغۇنۇپ، جانۇ ـ جانىۋارلارنىڭ نەسلى قۇرۇشقا يۈزلەندى. مانا ئەمدى ئادەملەرنىڭ ئۆزىمۇ بۇلغانغان مۇھىتتىن زەھەرلىنىپ، راك دەپ ئاتىلىدىغان ساقايماس كېسەلگە ئاسانلا گىرىپتار بولىدىغان بولدى. ھەي ئىسىت! ئادەملەر ئۆزگىمۇ قىلدى، بىزگىمۇ قىلدى.
+&nbsp;&nbsp;باچكا ئانا كەپتەردىن سوراپتۇ:
+- ئادەملەر نېمە ئۈچۈن بىزنى تېچلىق سىمۋولى قىلىپ تاللايدۇ ئانا؟
+ئانا كەپتەر جاۋاپ بېرىپتۇ:
+- چۈنك بىز ئۆزىمىزدىن كۈچلۈك بولغان لاچىن - قارچۇغالارغا يەم بولساقمۇ، ئۆزىمىزدىن ئاجىز بولغان قۇچقاچ - تورغايلارنى ئەسلا بوزەك قىلمايمىز بالام.
+&nbsp;&nbsp;ئاسلان ئانىسىدىن سوراپتۇ:
+- ئانا، ئادەملەر بىزنى نېمە ئۈچۈن باقىدۇ؟
+مۈشۈك جاۋاپ بېرىپتۇ:
+- چاشقان تۇتۇدۇ، دەپ باقىدۇ بالام.
+- ئەمىسە يەنە نېمە ئۈچۈن بوينىمىزدىن باغلاپ قويىدۇ؟
+- زەھەرلەنگەن چاشقاننى تۇتۇپ يەپ بولسا ئۆلۈپ قالىدۇ، دەپ شۇنداق قىلىدۇ بالام.
+- ئەمىسە چاشقاننى كىم زەھەرلەيدۇ؟
+- ئادەملەر بالام.
+ئاسلان بىز ھازا كۆزلىرىنى چىمچىقلىتىپ تۇرۇپ كېتىپ، يەنە سوراپتۇ:
+- مەن ھىچ چۈشەنمىدىم ئانا، ئادەملەر ئالجىپ ئەقىلىدىن ئېزىش دەرىجىسىگە بېرىپ يەتتىمۇ نېمە؟!
+&nbsp;&nbsp;چۈجە مېكياندىن سوراپتۇ:
+- ئانا، بىزنڭمۇ باشقا قۇشلارغا ئوخشاش قانىتىمىز تۇرۇغلۇق، نېمىشقا باشقا قۇشلارغا ئوخشاش ئۇچالمايمىز؟
+مىكيان جاۋاپ بېرىپ دەپتۇ:
+- بۇ ئادەملەر كەلتۈرۈپ چىقارغان ئاقىۋەت بالام. ئادەملەر بىزنىڭ ئاتا - بوۋىلىرىمىزنى تۇتىۋېلىپ، ئەسىرلەپ كاتەكتىن چىقارمىغاچقا، قاناتنىڭ كۈچى چېكىنىپ، ئاخىرى ئۇچۇشقا ئەسقاتمايدىغان بولۇپ قالغان.
+&nbsp;&nbsp;كۈچلۈك قانجىتىن سوراپتۇ:
+- ئىنسانلار بىر - بىرىنى تىلىسا &gt;ئىت!&lt; دەپ تىللايدىكەن. بىز شۇنچە ئەسكىمۇ ئانا؟
+قانجىق جاۋاپ بېىپتۇ:
+- ياق بالام. بىز باققاننى بىلىمىز، بىراق ئىنسانلار بىلمەيدۇ؛ بىز ۋاپاغا مەڭگۈ جاپا قىلمايمىز، بىراق ئىنسان دېگەن، كىم ياخشىلىق قىلسا شۇنىڭغا يامانلىق قىلىدۇ؛ بىز تونۇش كىشىلەرگە قۇيرۇق شىپاڭلىتىپ سەمىمىي خوشامەت قىلىمىز، بىراق ئىنسانلار باشلىقلىرىغىلا قۇيرۇق شىپاڭلىتىپ، ساختا خوشامەت قىلىدۇ. قېنى ئۆزەك ئايرىپ باققىنا، كىم ئەسكىكەن؟
+- ئىنسان ئەسكىكەن ئانا. بىزمۇ ئەسكىلەرنى تىللىساق، &gt;ھۇ ئىنسان!&lt; دېسەك بولغىدەك.
+&nbsp;&nbsp;قۇزا ئانىسىدىن سوراپتۇ:
+- ئدەملەر ھەجەپ ئوبدان ئىكەن - ھە ئانا، ئۇلار ئۆزلىرى جاپا تارتىسىمۇ، ئوت - چۆپ، يەم - بوغۇزنى ئۆكسىتمەي بىزنى باقىدىكەن.
+ساغلىق جاۋاپ بېرىپتۇ:
+- ئادەملەرنىڭ بىزنى بېقىشىدىكى مەخسىدىنى كېيىن بىلىپ قالىسەن نادان قوزام.
+- ئەمىسە نېمىشقا ھازىر دەپ بەرمەيسەن؟
+- سېنى ئازاپلاشنى خالىمايمەن قوزام. قۇرابلىق ئۈچۈن بېقىلىدىغىنىڭنى بىلىپ ياشىغىنڭدىن كۆرە بىلمەي ياشىساڭ، ئازاۋىڭ ئازاۋىڭ ئازراق بولىدۇ.
+&nbsp;&nbsp;تەخەي ئىشەكتىن سوراپتۇ:
+- ئادەملەر بىزنى ھىمىشە &gt;دۆت ئېشەك&lt; دەيدىكەن ئانا. بىز راستىنلا دۆتمۇ؟
+ئېشەك جاۋاپ بېرىپتۇ:
+- دەل ئۇنىڭ ئەكسى بالام. بىز بىر قېتىم سېپىلىپ كەتكەن كۆۋرۈكنى مەڭگۈ ئەستە تۇتۇپ، ئۇنىڭدىن ھەرگىز قايتا ئۆتمەيمىز. بىراق ئادەملەر قانلىق ساۋاقلارنىمۇ بىردەمدە ئۇنتۇپ، بىرخىل خاتالىقنى تەكرار - تەكرار سادىر قىلىدۇ. بۇ گەپلەنرى يەنە ئادەملەرگە دەپ يۈرمە بالام. چۈنكى ئادەملەر ئۆز خاتالىقىنى ھەرەىز ئىتراپ قىلمايدۇ. مانا بۇ ئۇلارنىڭ تېخىمۇ دۆتلىگى.
+&nbsp;&nbsp;موزاي ئېنەكتىن سوراپتۇ:
+- ئادەملەر سېنىڭ ئۆز بالاڭ، مەن ئۆگەي بالاڭمۇ ئانا؟
+ئىنەك موزايدىن قايتۇرۇپ سوراپتۇ:
+- بۇ نېمە دېگىنىڭ بالام؟ قانداق بولۇپ بۇنداق خىيالغا كېلىپ قالدىڭ؟
+ - قارىسام ھەر كۈنى سۈتۈڭنىڭ كۆپ قىسمىنى ئادەملەرگە بېرىپ، ئازغىنا قىسمىنى ماڭا بېرىدىكەنسە. شۇنىڭغا قاراپ شۇنداق ئويلاپ قالدىم ئانا.
+- مېنىڭچە بولسىغۇ سۈتۈمنىڭ ھممىسىنى ساڭىلا بەرگۈم بار بالام. لېكىن ئۇنداق قىلسام ئادەملەر مېنى ئۇرىدۇ شۇ.
+- مەنغۇ كىچىك، ئادەملەرگە تېخى كۈچۈم يەتمەيدۇ. بىراق دادام بىلەن ئىككىڭلار شۇنچە كۈچتۈڭگۈر تۇرۇپ، شۇنچە ئۇچلۇق مۈڭگۈزىڭلار تۇرۇپ، ئادەملەردىن قورققىنىڭلار نېمىسى؟
+- ئويلاشنىغۇ توغرا ئويلاپسەن بالام. بىراق مۈڭگۈز ئەسلىدە بىزنىڭ قوغدىنىش قورلاىمىز بولسىمۇ، ئاتا - بوۋىمىز كۆندۈرلىشكە باشلىغان چاغدىلا ئادەملەر دەل ئاشۇ مۈڭگۈزىمىزدىن باغلىۋالغان ئىكەن. مانا ئەمدى مۈڭگۈزىمىزنىڭ قوغداش رولى يوقاپ، بىز بالىنىدىغان نەرسىگە ئايلىنىپ قالغاچقا، ھەممىمىز ئاشۇ مۈڭگۈز دېگەن نەرسىدىن بىزار بولىدىغان بولۇپ قالدۇق.
+&nbsp;&nbsp;ياۋا غاز چۈجىسى ئانىسىدىن سوراپتۇ:
+- ھەر يىلى كۈزدە ئىسسىق جايلارغا كۆچۈپ، باھاردا يەنە قايتىپ قىينىلىپ يۈرگۈچە، بىزمۇ ئادەملەردىن ئۆگىنىپ ئۆي سېلىپ، مۇدھىش قىشنى شۇ ئىسسىق ئۆيدە ئۆتكۈزسەك بولمامدۇ ئانا؟
+ئانا غاز جاۋاپ بېرىپتۇ:
+- بىز بۇ خىل كۆچۈشنى دەل ئادەملەردىن ئۆگەنگەن بالام. ئوخشىمايدىغان يىرى، بىز كۈزدە كۆچۈپ كەتكەن بىلەن، ئەتىيازدا يەنە قايتىپ كېلىمىز. مۇھىتقا پەقەت بۇزغۇنچىلىق قىلمايمىز. بىراق دىققەت قىلساڭ، ئادەملەرنىڭ شۇ تاپتا يەر شارىنىڭ بۇلۇڭ - پۇچقاقلىرىغىچە كۆچۈپ، بايلىقلارنى بۇلاڭ ـ تاراڭ قىلىپ تۈگۈتۈپ، مۇھىتنى بۇلغاپ بولغاندىن كېيىن، مانا ئامدى يەر شارىنى تاشلاپ، مارىسقا كۆچۈشكە تەرەددۇت قىلىۋاتقانلىقىنى كۆرىسەن بالام.
+&nbsp;&nbsp;بوتۇلاق ئانىسىدىن سوراپتۇ:
+- نېمە ئۈچۈن ئادەملەرنىڭ قارىسىنى كۆرسەكلا قاچىمىز ئانا؟
+ئانا تۈگە جاۋاپ بېرىپتۇ:
+- ئادەملەر بەكمۇ نامەرت كېلىدۇ بالام. ئەسلىدە ئۇلار بىزگە رەھمەت ئېيتىشى، بىزنى ئارسىرىشى لازىم ئىدى. چۈنكى ماشىنا، پويىز، ئايرۇپىلان دېەەندەك نەرسىلەر يوق چاغدا، بىز ئادەملەرنى ئۇلارنىڭ ئېغىر يۈكلىرىنى كۆتىرىپ، دۆلەت بىلەن دۆلەت، ھەتتا قىتئە بىلەن قىتئەلەرنى تۇتاشتۇرۇپ، &gt;چۆل كىمىسى&lt; دېگەن چىرايلىق نامغا ئېرىشكەن. ئۇ چاغدىكى &gt;چۆل كىمىسى&lt; دېگەن بۇ نام، ھازىرقى &gt;ئالەم كىمىسى&lt; دېگەنگە باراۋەر ئىدى. ئەمما ھالا بۈگۈنكى كۈنەگە كەلگەندە ئادەملەر ھەممىنى ئۇنتۇپ، بىزنى ئاسراش ئۇياقتا تۇرسۇن، كۆرگەنلا يىرىدە تۇتۇپ ئۆلتۈرۈپ يەيدىغان بولدى. نەسلىمىزنى ساقلاپ قېلىش ئۈچۈن بولسىمۇ ئادەمەلرنىڭ كۆزىدىن يىراق تۇرمىساق بولمايدۇ بالام.
+&nbsp;&nbsp;بۈركۈت چۆجىسى ئانىسىدىن سوراپتۇ:
+- سەن ئۈچۈن كەتىلى نەۋاخ ئانا، يەنە ھىچنەرسە تۇتالماي قۇرۇق قايتىپ كەپسەنغۇ؟
+ئانا بۈركۈت جاۋاپ بېرىپتۇ:
+- ئادەملەر جانلىقلارنىڭ نەسلىنى قۇرتىۋەتتى بالام. جانلىقلارنىڭ ئەمەس، دەل ـ دەرەخلەرنى كېسىپ، ئورمانلارنىمۇ قۇرىتىۋەتتى. يىشىللىق يوقاپ قاقاسلىققا ئايلىنىۋاتقان زېمىندا، نە ئۇچار قۇش، نە كىيىك - توشقانلار ككرۈنمەيدۇ.
+- بىرەر چاشقان بولسىمۇ مەيلىتى ئانا، قۇرسۇغۇم بەك ئېچىپ كەتتى.
+- يەنە بىر ئاز چىدىغىن بالام، يىراقتا بىر ئوۋچى كېلىۋاتىدۇ. ناۋادا ئوۋ تاپالماي ئاچلىقتىن ئۆلسە، شۇنىڭ گۆشىنى يەرمىز.
+&nbsp;&nbsp;ئارىسلان ئانا شىردىن سوراپتۇ:
+- بىز پۈتكۈل ھايۋانات دۇنياسىنىڭ پادىشاھى تۇرۇغلۇق، ئادەمدىن نېمىشقا قورقۇپ قاچىمىز ئانا؟ 
+ئانا شىر جاۋاپ بېرىپتۇ:
+- سەن تېخى كىچىك بولغاچقا بىلمەيسەن بالام. ئادەملەر بەكمۇ ۇۋ، ھىلىگەر، نامەرت كېلىدۇ. ئۇلار تېخى بۇ خىل ھىلە - مىكىرنى &gt;ئەقىل - پاراسەتلىگى&lt; دىن پەخىرلىنىدۇ. ناۋادا يەكمۇ - يەك ئېلىشساق ئادەملەر بىزگە تەڭ كېلەلمىگىنى بىلەن، ئۇلار ھىلە ـ مىكىرگە تايىنىپ، ھەرخىل زامانىۋى قوراللار بىلەن بىزنى يىراقتىنلا ئېتىپ ئۆلتۈرىدۇ. شۇڭا ئۇلاردىن يىراق تۇرمىساق، نەسلىمىز قۇرۇيدۇ بالام.
+&nbsp;&nbsp;پىلچاق ئانىسىدىن سوراپتۇ:
+- ئاەملەر بىزنىڭ ەۆشىمىزنى يىمەيدىغان تۇرغلۇق، يەنە نېمىشكە بىزنى ئۆلتۈرىدۇ ئانا؟
+ئانا پىل جاۋاپ بېرىپتۇ:
+- چىشىمىزنى كېسىۋېلىپ سېتىپ پۇل تېپىش ئۈچۈن شۇنداق قىلدۇق بالام.
+- پۇلنى يىگىلى بولامدۇ؟
+- ياق بالام، پۇل دېگەن ئادەملەر ئۆزلىرى ياسايدىغان بىر خىل رەڭلىك قەغەز. ئۇنىڭ بىلەن ھەتتا كۆتنى ئېيتقىلىمۇ بولمايدۇ.
+- توۋا، كۆت ئېيقىلىمۇ بولمايدىغان قەغەزنى دەپ بىزنى ئۆلتۈرسە، ئادەملەر ھەجەپ رەھىمسىز، ھەجەپ تەلۋە، ھەجەپ ئادالەتسىز ئىكەن.
+&nbsp;&nbsp;ئانا لەڭەڭ بالىلىرىغا بۇيرۇق قىپتۇ:
+- بالىلىرىم، ئادەملەر ئۆز ماكانى بولغان قۇرۇقلۇقنى بۇلغاپ بولۇپ، مانا ئەمدى بىز ياشايدىغان دېڭىز - ئوكيانلارنىمۇ بۇلغاشقا باشلىدى. بىز بۇ يەرنىڭ گىگانىتلىرى تۇرۇپ كاىرمىز بولمىسا، باشقىلارنىڭ تېخىمۇ كارى بولمايدۇ. شۇڭا كەكسىن ئىنكاس قايتۇرشىمىز كېرەك. تەييار بولۇڭلار!
+- مانا بىز تەييار ئانا. بىراق قانداق ئىنكاس قايتۇرىمىز؟
+- ھەممىمىز قىرغاقا چىقىپ قۇربان بولىمىز.
+- نېمىشقا باشقا ئۇسۇللار بىلەن ئىنكاس قايتۇرماي، قۇربان بولۇشنىلا تاللايمىز ئانا؟
+- بىز ئۈچۈن باشقا تاللاش يولى يوق بالىلىرىم. قېنى ئۆزەڭلار ئويلاپ بېقىڭلار: بىز نارازىلىق بىلدۈرسەك ئادەملەر بىزنىڭ سۆزىمىزنى ئۇقامدۇ؟ ئۇققان تەقدىردىمۇ تەلىۋىمىزگە ماقۇل بولامدۇ؟ تارىختىن بۇيان ئۇلار بىزنى مىڭلاپ - ئونمىڭلاپ ئۆلتۈرسە ھېچگەپ يوق، لېكىن بىز بىر ئادەمنى يارىلاندۇرۇپ قويساق، &gt;قاتىل لەھەڭ&lt; دەپ ئاتىلىپ، يۈزلەپ - مىڭلاپ قىرىپ تاشلاشقا ئۇچراپ كەلدۇق. بۇ يەردە ھېچقاندق ئىنكاسسىز ياشىساقمۇ، بۇلغۇنۇشتىن بەرىبىر ئۆلۈپ كېتىمىز. ئۇنىڭدىن كۆرە قىرغاققا چىقىپ قۇربان بولۇپ، ئادەملەر ئارىسىدىكى ئاقىللارنى تەسىرلەندۈرەلسەك، بەلكىم ئانا ماكانىمىزنىڭ بۇلغۇنىشى توسۇپ قالارمىز. دېمەك بىزگە ئۇنىڭدىن باشقا تاللاش يولى يوق. قېنى ئەمىسە، قىرغاققا قاراپ ئالغا!
+&nbsp;&nbsp;بالا شەيتان ئانىسىدىن سوراپتۇ:
+- نېمە بولدۇڭ ئانا، بېشىڭنى تۇتۇپ ئولتۇرۇپ كېتىپسەن، مىجەزىڭ يوقمۇ؟
+ ئان شەيتان جاۋاپ بېرىپتۇ:
+- ئالداش مۇسابىقىسىدا ئىنسانلارغا ئۇتتۇرۇپ قويدۇق. بالام. شۇنىڭغا ئۆگىنىۋاتىمەن.
+-مەن ئىشەنمەيمەن. ئەلمىساقتىن بۇيان بىز ئىنسانلارنى ئالداپ، ئېزىقتۇرۇپ كېلىۋاتساق، سەن ئۇتتۇرپ قويغىدەك قانداق مۇسابىقە ئىكەن ئۇ؟
+- ئالداشنىڭ يېڭى تۈرلىرى مۇسابىقىسى ئىدى بالام. باشقا تۈرلەردە تەڭلەشكەن بولساممۇ، بىراق &gt;ئۆز - ئۆزىنى ئالداش&lt; تۈرىدە ئىنسانلاردىن يېڭلىپ قالدىم.
+- بۇ قانداق گەپ ئەمدى، ئالداشنىڭ شۇنداقمۇ تۈرى بارمىكەن تېخى؟
+- ئىنسانلار يېقىندىن بۇيان شۇنداق بىر تۈرنى كەشىپ قىلىپ، باشقىلارنى ئالداشتىن باشقا، ئۆزىنى - ئۆزى ئالداشقا بشلاپتۇ بالام.
+- ئەمىسە چاتاق بوپتۇ. ئالداش قوشقەۋەتلىشىپ كەتسە، قىيامەتنىڭ قەدىمى تىزلىشىدۇ. ئىنسانلار ئۆزىگىمۇ قىپتۇ، بىزگىمۇ قىپتۇ…
+</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=951" title="ئۆيلىنەي دېسەڭ"  target="_blank" class="tag_title_link">ئۆيلىنەي دېسەڭ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=950" title="كىم زورو ؟ ئۇيغۇر ئارسدا زورو بارمۇ ؟"  target="_blank" class="tag_title_link">كىم زورو ؟ ئۇيغۇر ئ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=949" title="تىلسىزلار دىئالۇگلىرى"  target="_blank" class="tag_title_link">تىلسىزلار دىئالۇگل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=948" title="ئەرنىڭ ئىپپىتى دېگەن نىمە؟"  target="_blank" class="tag_title_link">ئەرنىڭ ئىپپىتى دېگ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=947" title="دوستۇڭنى پايدا - زىيان ئىچىدە سىنا"  target="_blank" class="tag_title_link">دوستۇڭنى پايدا - زى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=946" title="بەگلەر كىمنى يېقىن تۇتسا، كىشىلەر دائىم ئۇنىڭ بار - يوقلۇقىنى سۈرۈشتۈرىدۇ."  target="_blank" class="tag_title_link">بەگلەر كىمنى يېقىن ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=945" title="مۇڭلان ئەپەندىم ۋە مۇنبەر ئەزالىرىغا !!!"  target="_blank" class="tag_title_link">مۇڭلان ئەپەندىم ۋە ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=944" title="گۇمانخورلۇق ۋە غەيۋەتتىن يىراق تۇرايلى!!!!"  target="_blank" class="tag_title_link">گۇمانخورلۇق ۋە غەي...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=943" title="ئەس - ھوشى بولمىسا، كىشى دوست تاللىيالمايدۇ."  target="_blank" class="tag_title_link">ئەس - ھوشى بولمىسا، ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=942" title="قايسى بەگ (ئەتراپىغا) جەسۇر جەڭچىلەر توپلانسا، بۇ بەگ دۇنياغا ساھىبقىران بولىدۇ."  target="_blank" class="tag_title_link">قايسى بەگ (ئەتراپىغ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=941" title="ناپاك كىشى ۋەزىرلىككە يارىمايدۇ"  target="_blank" class="tag_title_link">ناپاك كىشى ۋەزىرلى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=940" title="قۇتادغۇبلىك تىن جەۋھەرلەر"  target="_blank" class="tag_title_link">قۇتادغۇبلىك تىن جە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=939" title="قۇتادغۇبلىك جەۋھەرلىرى"  target="_blank" class="tag_title_link">قۇتادغۇبلىك جەۋھەر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=938" title="قۇتادغۇبلىك جەۋھەرلىرىدىن پارچە"  target="_blank" class="tag_title_link">قۇتادغۇبلىك جەۋھەر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=937" title="قۇتادغۇبلىك جەۋھەرلىرى"  target="_blank" class="tag_title_link">قۇتادغۇبلىك جەۋھەر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=936" title="قۇتادغۇبلىك جەۋھەرلىرى ھوزۇرلىنىڭ"  target="_blank" class="tag_title_link">قۇتادغۇبلىك جەۋھەر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=935" title="قۇتادغۇبلىك جەۋھەرلىرىدىن"  target="_blank" class="tag_title_link">قۇتادغۇبلىك جەۋھەر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=934" title="قۇتادغۇبلىك جەۋھەرلىرىدىن پارچە"  target="_blank" class="tag_title_link">قۇتادغۇبلىك جەۋھەر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=933" title="تۇردى سامساقنىڭ &lt;ئاخىرەتتىن كەلگەنلەر&gt;ناملىق ئەسىرىدىن تاللانما"  target="_blank" class="tag_title_link">تۇردى سامساقنىڭ &lt;ئا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=932" title="قۇتادغۇبلىك جەۋھەرلىرىدىن"  target="_blank" class="tag_title_link">قۇتادغۇبلىك جەۋھەر...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/kutupxana/search.php?catid=48&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=951" title="ئۆيلىنەي دېسەڭ"  target="_blank" class="tag_title_link">ئۆيلىنەي دېسەڭ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=950" title="كىم زورو ؟ ئۇيغۇر ئارسدا زورو بارمۇ ؟"  target="_blank" class="tag_title_link">كىم زورو ؟ ئۇيغۇر ئارسدا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=949" title="تىلسىزلار دىئالۇگلىرى"  target="_blank" class="tag_title_link">تىلسىزلار دىئالۇگلىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=948" title="ئەرنىڭ ئىپپىتى دېگەن نىمە؟"  target="_blank" class="tag_title_link">ئەرنىڭ ئىپپىتى دېگەن نى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=947" title="دوستۇڭنى پايدا - زىيان ئىچىدە سىنا"  target="_blank" class="tag_title_link">دوستۇڭنى پايدا - زىيان ئ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=946" title="بەگلەر كىمنى يېقىن تۇتسا، كىشىلەر دائىم ئۇنىڭ بار - يوقلۇقىنى سۈرۈشتۈرىدۇ."  target="_blank" class="tag_title_link">بەگلەر كىمنى يېقىن تۇتس...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=945" title="مۇڭلان ئەپەندىم ۋە مۇنبەر ئەزالىرىغا !!!"  target="_blank" class="tag_title_link">مۇڭلان ئەپەندىم ۋە مۇنب...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=944" title="گۇمانخورلۇق ۋە غەيۋەتتىن يىراق تۇرايلى!!!!"  target="_blank" class="tag_title_link">گۇمانخورلۇق ۋە غەيۋەتتى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=943" title="ئەس - ھوشى بولمىسا، كىشى دوست تاللىيالمايدۇ."  target="_blank" class="tag_title_link">ئەس - ھوشى بولمىسا، كىشى ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=942" title="قايسى بەگ (ئەتراپىغا) جەسۇر جەڭچىلەر توپلانسا، بۇ بەگ دۇنياغا ساھىبقىران بولىدۇ."  target="_blank" class="tag_title_link">قايسى بەگ (ئەتراپىغا) جە...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/kutupxana/show_js.php?itemid=949"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

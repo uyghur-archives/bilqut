@@ -1,0 +1,3 @@
+﻿try {setidval('hits','1010');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/mahsus/show.php?itemid=20">ھاۋا قاچىلاپ ماڭىدىغان ماشىنا ياسالدى!</a></li><li>  كىيىنكىسى  :  <a href="/mahsus/2009/0705/22.htm">ئەھمەدجان ئىكرام</a></li>');}catch(e){}

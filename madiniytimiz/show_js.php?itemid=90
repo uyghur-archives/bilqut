@@ -1,0 +1,3 @@
+﻿try {setidval('hits','59');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/madiniytimiz/show.php?itemid=89">خوتەن ناھىيىسى</a></li><li>  كىيىنكىسى  :  <a href="/madiniytimiz/show.php?itemid=91">لوپ ناھىيىسى</a></li>');}catch(e){}

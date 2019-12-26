@@ -1,0 +1,3 @@
+try {setidval('hits','5');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>كېيىنكىسى : <a href="/KutupXana/article_402.php">دوستۇڭنىڭ بىرى بولسىمۇ كۆپەيسۇن</a></li><li>ئالدىنقىسى : <a href="/KutupXana/article_404.php">شان - شەرەپ</a></li>');}catch(e){}

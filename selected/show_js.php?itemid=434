@@ -1,0 +1,3 @@
+﻿try {setidval('hits','7877');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/xewer/show.php?itemid=433">مۇساۋىنىڭ جىيەنى توقۇنۇشتا قازا قىلغان</a></li><li>  كىيىنكىسى  :    يوق</li>');}catch(e){}

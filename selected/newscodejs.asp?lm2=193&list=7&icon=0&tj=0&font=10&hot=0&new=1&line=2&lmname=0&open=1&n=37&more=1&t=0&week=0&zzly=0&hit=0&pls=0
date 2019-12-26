@@ -1,0 +1,65 @@
+<!-- Tor bat exligu chi Ablimitjan Maham  QQ :250092392    Tel: 6722530    E-Mail :Raziman@126.com ,ablmtjan@126.com -->
+document.write("<head></head>");
+
+
+document.write("<table border=0 cellpadding=2 cellspacing=0 width=100%>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'></font>");
+
+document.write("<a href=/Mazmun.asp?NewsID=963 target=_blank><font color=005CA1 style='font-size:10pt'>سىرلىق ئاۋاز</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'></font>");
+
+document.write("<a href=/Mazmun.asp?NewsID=962 target=_blank><font color=005CA1 style='font-size:10pt'>ئۆلۈم پەيتىدىكى چۈش ...</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'></font>");
+
+document.write("<a href=/Mazmun.asp?NewsID=961 target=_blank><font color=005CA1 style='font-size:10pt'>رېئاللىق يۈز بەرگەن ...</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'></font>");
+
+document.write("<a href=/Mazmun.asp?NewsID=960 target=_blank><font color=005CA1 style='font-size:10pt'>ئۆتكۈر كۆز</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'></font>");
+
+document.write("<a href=/Mazmun.asp?NewsID=959 target=_blank><font color=005CA1 style='font-size:10pt'>غەلىتە ئەرەب بوتۇلك...</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'></font>");
+
+document.write("<a href=/Mazmun.asp?NewsID=958 target=_blank><font color=005CA1 style='font-size:10pt'>مىسر مەلىكىسىنىڭ سىر...</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'></font>");
+
+document.write("<a href=/Mazmun.asp?NewsID=957 target=_blank><font color=005CA1 style='font-size:10pt'>سىرلىق غايىپ بولۇش ۋ...</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=left colspan=2><a href=/Mazmun_more.asp?lm=&lm2=193&open=_blank&tj=0&hot=0 target=_blank><font style='font-size:10pt'>&#1610;&#1749;&#1606;&#1749; &#1576;&#1575;&#1585;...</font></a></td></tr>");
+
+document.write("</table>");

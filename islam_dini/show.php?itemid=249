@@ -1,0 +1,320 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>سۈرە رازىياتنىڭ تەرجىمىسى-ئىسلام دىنى-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,ئىسلام دىنى">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/islam_dini/" class="red"> ئىسلام دىنى</a>
+         | <a class="razimantur" href="/islam_dini/list.php?catid=121" >ئىسلام دىنىدىن ساۋاتلار </a>
+
+ | <a class="razimantur" href="/islam_dini/list.php?catid=122" >قۇرئان كەرىم </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/islam_dini/">ئىسلام دىنى</a> >> <a href="/islam_dini/list.php?catid=122">قۇرئان كەرىم </a> >>  سۈرە رازىياتنىڭ تەرجىمىسى</div>
+<!--主标题--><h1>سۈرە رازىياتنىڭ تەرجىمىسى </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-06-11 09:56:01&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">2434</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">[align=center]ناھايىتى شەپقەتلىك ۋە مېھرىبان اﷲ نىڭ ئىسمى بىلەن باشلايمەن[/align]
+&nbsp;&nbsp;(تۇپراقنى) سورىغۇچى شاماللار بىلەن قەسەمكى1&nbsp;&nbsp; (يامغۇرلارنىڭ) ئېغىرلىقىنى كۆتۈرگۈچى بۇلۇتلار بىلەن قەسەمكى2&nbsp;&nbsp; (سۇ ئۇستىدە) يېنىك ماڭغۇچى كېمىلەر بىلەن قەسەمكى3&nbsp;&nbsp; ئىشنى (يەنى بەندىلەر ئارىسىدا رىزقلارنى يۇتلار ئارىسىدا يامغۇرلارنى) تەقسىم قىلغۇچى پەرىشتىلەر بىلەن قەسەمكى4&nbsp;&nbsp; سىلەرگە ۋەدە قىلىنغان (ساۋاب ئازاب قىيامەت قاتارلىق)لار ئەلۋەتتە راستۇر.5&nbsp;&nbsp; (ياخشى ئەمەللەرنى) مۇكاپاتلاش (يامان ئەمەللەرنى) جازالاش چۇقۇم بىلىدىغان ئىشتۇر.6&nbsp;&nbsp; يوللىرى بار ئاسمانلار بىلەن قەسەمكى (پەيغەمبەر ھەققىدە) سىلەرنىڭ سۆزۈڭلار ھەقىقەتەن خىلمۇ- خىلدۇر.7&nbsp;&nbsp; يوللىرى بار ئاسمانلار بىلەن قەسەمكى (پەيغەمبەر ھەققىدە) سىلەرنىڭ سۆزۈڭلار ھەقىقەتەن خىلمۇ- خىلدۇر.8&nbsp;&nbsp; (اﷲتائالانىڭ ئىلمىي ئەزەلىسىدە ھىدايەتتىن)&nbsp;&nbsp;بۇرىۋېتىلگەن ئادەم (قۇرئانغا ۋە مۇھەممەد ئەلەيھىسسالامغا ئىمان كەلتۇرىشتىن) بۇرىۋېتىلىدۇ.9&nbsp;&nbsp; كاززاپلارغا لەنەت بولسۇنكى ئۇلار جاھالەتكە چۆمگەن بولۇپ(ئاخىرەت ئىشىدىن) غەپلەتتىدۇر.10&nbsp;&nbsp; كاززاپلارغا لەنەت بولسۇنكى ئۇلار جاھالەتكە چۆمگەن بولۇپ(ئاخىرەت ئىشىدىن) غەپلەتتىدۇر.11&nbsp;&nbsp; ئۇلار رەسۇلۇللادىن:«قىيامەت قاچان بۇلىدۇ» دەپ سورايدۇ.12&nbsp;&nbsp; ئۇ بولسا ئۇلار دەۋزەختە ئازابلىنىدىغان كۈندۇر.13&nbsp;&nbsp; (دەۋزەخكە مۇئەككەل پەرىشتىلەر ئۇلارغا) «سىلەرگە قىلىنىدىغان ئازابنى تېتىڭلار مانا بۇ سىلەر (دۇنيادىكى چېغىڭلاردا) ئالدىراتقان نەرسىدۇر» دەيدۇ14&nbsp;&nbsp; شۈبھىسىزكى تەقۋادارلار جەننەتلەردە ۋە (ئېقىپ تۇرغان) بۇلاقلارنىڭ ئارىسىدا بولىدۇ.15&nbsp;&nbsp; ئۇلار پەرۋەردىگارى ئاتا قىلغان نەرسىلەرنى قۇبۇل قىلىدۇ ئۇلار بۇنىڭدىن ئىلگىرى (يەنى دۇنيادىكى چاغدا) ياخشى ئىش قىلغۇچىلار ئىدى.16&nbsp;&nbsp; ئۇلار كېچىسى ئاز ئۇخلايتتى.17&nbsp;&nbsp; ئۇلار سەھەرلەردە (پەرۋەردىگارىدىن) مەغفىرەت تىلەيتتى.18&nbsp;&nbsp; ئۇلارنىڭ پۇل- ماللىرىدا سائىللار ۋە (ئىپپەتلىكىدىن سائىللىق قىلمايدىغان) موھتاجلار ھوقۇققا ئىگە ئىدى (يەنى ئۇلار سائىللارغا ۋە موھتاجلارغا سەدىقە قىلاتتى).19&nbsp;&nbsp; زېمىندا ۋە ئۆزەڭلاردا اﷲغا چىن ئىتىقاد قىلىدىغانلار ئۈچۈن (اﷲنىڭ قۇدرىتىنى ۋە بىرلىكىنى&nbsp;&nbsp;كۆرسىتىدىغان) نۇرغۇن ئالامەتلەر بار (بۇنى) كۆرمەمسىلەر.20&nbsp;&nbsp; زېمىندا ۋە ئۆزەڭلاردا اﷲغا چىن ئىتىقاد قىلىدىغانلار ئۈچۈن (اﷲنىڭ قۇدرىتىنى ۋە بىرلىكىنى&nbsp;&nbsp;كۆرسىتىدىغان) نۇرغۇن ئالامەتلەر بار (بۇنى) كۆرمەمسىلەر.21&nbsp;&nbsp; ئاسماندا سىلەرنىڭ رىزقىڭلار بار سىلەرگە ۋەدە قىلىنغان ساۋاب بار.22&nbsp;&nbsp; ئاسماننىڭ ۋە زېمىننىڭ پەرۋەردىگارى بىلەن قەسەمكى سىلەرگە ۋەدە قىلىنغان نەرسە ئۆزەڭلارنىڭ سۆزلەۋاتقىنىڭلاردەك (يەنى سۆزلىشىڭلارنىڭ ئۆزەڭلارغا ئېنىق بولغىنىدەك) ھەقتۇر.23&nbsp;&nbsp; (ئى مۇھەممەد!) ساڭا ئىبراھىمنىڭ ھۆرمەتلىك مېھمانلىرىنىڭ خەۋىرى يەتتىمۇ.24&nbsp;&nbsp; ئۆز ۋاقتىدا ئۇلار ئىبراھىمنىڭ يېنىغا كىرىپ سالام دېدى ئىبراھىم سالامنى ئىلىك ئالدى. (ئىچىدە) «ناتۇنۇش ئادەملەرغۇ» دېدى.25&nbsp;&nbsp; شۇنىڭ بىلەن ئۇ ئاستا ئائىلىسىگە چىقىپ (پىشۇرۇلغان) بىر سېمىز مۇزاينى ئېلىپ كىرىپ ئۇلارنىڭ ئالدىغا قويۇپ:«يېمەمسىلەر» دېدى.26&nbsp;&nbsp; شۇنىڭ بىلەن ئۇ ئاستا ئائىلىسىگە چىقىپ (پىشۇرۇلغان) بىر سېمىز مۇزاينى ئېلىپ كىرىپ ئۇلارنىڭ ئالدىغا قويۇپ:«يېمەمسىلەر» دېدى.27&nbsp;&nbsp; (ئۇلارنىڭ تاماق يېمىگەنلىكىنى كۆرۈپ) دىلىدا ئۇلاردىن قورقتى ئۇلار:«قورقمىغىن (بىز پەرۋەردىگارىڭنىڭ ئەلچىللىرىمىز)» دېدى ئۇلار ئىبراھىمغا بىلىملىك بىر ئۇغۇل بىلەن خوش خەۋەر بەردى.28&nbsp;&nbsp; ئىبراھىمنىڭ ئايالى سۈرەن سېلىپ كېلىپ (ئەجەپلەنگەنلىكىدىن ئۆزىنىڭ) يۈزىنى كاچاتلاپ:«مەن تۇغماس موماي تۇرسام (قانداق تۇغىمەن)» دېدى.29&nbsp;&nbsp; ئۇلار:«پەرۋەردىگارىڭ شۇنداق دېدى. ئۇ ھەقىقەتەن ھېكمەت بىلەن ئىش قىلغۇچىدۇر ھەممىنى بىلگۈچىدۇر» دېدى.30&nbsp;&nbsp; ئىبراھىم: «ئى ئەلچىلەر! سىلەر نېمە ئىش بىلەن ئەۋەتىلدىڭلار» دېدى.31&nbsp;&nbsp; ئۇلار:«بىز ھەقىقەتەن بىر گۇناھكار قەۋىمنى (ھالاك قىلىش ئۈچۈن) ئەۋەتىلدۇق (يەنى لۇت قەۋمىنىڭ ئۇستىگە لايدىن پىشۇرۇلغان تاش ياغدۇرۇش ئۈچۈن ئەۋەتىلدۇق).32&nbsp;&nbsp; ئۇلارنىڭ ئۈستىگە پەرۋەردىگارىڭنىڭ دەرگاھىدا (گۇناھى) ھەددىدىن ئاشقۇچىلار ئۈچۈن بەلگە قويۇلغان (يەنى ھالاك قىلىنغۇچىنىڭ ئىسمى يېزىلغان) لايدىن پىشۇرۇلغان تاش ياغدۇرىمىز».33&nbsp;&nbsp; ئۇلارنىڭ ئۈستىگە پەرۋەردىگارىڭنىڭ دەرگاھىدا (گۇناھى) ھەددىدىن ئاشقۇچىلار ئۈچۈن بەلگە قويۇلغان (يەنى ھالاك قىلىنغۇچىنىڭ ئىسمى يېزىلغان) لايدىن پىشۇرۇلغان تاش ياغدۇرىمىز».34&nbsp;&nbsp; (ھالاك بولمىسۇن دەپ لۇتنىڭ) شەھرىدىكى مۇئمىنلارنى (سىرتقا) چىقىرىۋەتتۇق.35&nbsp;&nbsp; بىز ئۇ شەھەردىكى مۇسۇلمانلاردىن پەقەت بىر ئائىلىنىلا تاپتۇق.36&nbsp;&nbsp; ئۇ شەھەردە قاتتىق ئازابتىن قورقىدىغانلار ئۈچۈن نىشان قالدۇردۇق.37&nbsp;&nbsp; مۇسانىڭ (قىسسىسىدىمۇ) بىر تۈرلۈك ئالامەت بار ئۆز ۋاقتىدا ئۇنى بىز فىرئەۋنگە روشەن دەلىل بىلەن ئەۋەتتۇق.38&nbsp;&nbsp; فىرئەۋن ئۆز قۇشۇنى بىلەن (ئىماندىن)&nbsp;&nbsp;يۇز ئورىدى ئۇ:«(مۇسا) سېھىرگەردۇر ياكى مەجنۇندۇر» دېدى.39&nbsp;&nbsp; فىرئەۋننى ۋە ئۇنىڭ قۇشۇنىنى جازالىدۇق ئۇلارنى دېڭىزغا تاشلىدۇق فىرئەۋن ئەيىپلەنگۈچىدۇر.40&nbsp;&nbsp; ئادنىڭ (قىسسىسىدىمۇ) بىر تۇرلۈك ئالامەت بار ئۆز ۋاقتىدا ئۇلارغا يامان بوراننى ئەۋەتتۇق.41&nbsp;&nbsp; ئۇ (يەنى بوران) ھەر قانداق نەرسىنىڭ يېنىدىن ئۆتسە ئۇنى چىرىگەن سۆڭەكتەك (تىتما- تالاڭ) قېلىۋېتەتتى.42&nbsp;&nbsp; سەمۇتنىڭ (قىسسىسىدىمۇ) بىر تۈرلۈك ئالامەت بار ئۆز ۋاقتىدا ئۇلارغا:«سىلەر ۋاقىتلىق پايدىلىنىڭلار» دېدۇق.43&nbsp;&nbsp; ئۇلار پەرۋەردىگارىنىڭ ئەمرىگە قارشى چىقتى ئۇلارنى چاقماق ھالەك قىلدى ھالبۇكى ئۇلار (ئازابنىڭ چۈشۈۋاتقانلىقىنى) كۆزلىرى بىلەن كۆرۈپ تۇراتتى.44&nbsp;&nbsp; ئۇلار (ئازاب چۈشكەن ۋاقىتتا) ئورۇنلىرىدىن تۇرۇشقىمۇ ئۆزلىرىنى قوغداشقىمۇ قادىر بولالمىدى.45&nbsp;&nbsp; ئىلگىرى نۇھنىڭ قەۋمىنى ھالاك قىلدۇق ئۇلار ھەقىقەتەن پاسىق قەۋم ئىدى.46&nbsp;&nbsp; ئاسماننى قۇدرەت بىلەن بەرپا قىلدۇق بىز ھەقىقەتەن قۇدرەتلىكمىز.47&nbsp;&nbsp; زېمىننى يايدۇق بىز نېمىدېگەن ياخشى يايغۇچىمىز.48&nbsp;&nbsp; سىلەرنىڭ ئىبرەت ئېلىشىڭلار ئۈچۈن ھەر بىر نەرسىنى جۇپ ياراتتۇق.49&nbsp;&nbsp; (ئى مۇھەممەد!)&nbsp;&nbsp;ئېتقىنكى «اﷲ تەرەپكە قېچىڭلار (يەنى اﷲغا ئىلتىجا قىلىڭلار) مەن ھەقىقەتەن سىلەرگە اﷲ تەرەپتىن (كەلگەن) ئوچۇق ئاگاھلاندۇرغۇچىمەن.50&nbsp;&nbsp; سىلەر باشقا مەبۇدنى اﷲغا شېرىك قىلماڭلار مەن ھەقىقەتەن ئۇنىڭ تەرىپىدىن (كەلگەن) ئوچۇق ئاگاھلاندۇرغۇچىمەن».51&nbsp;&nbsp; ئۇلاردىن ئىلگىرىكى ئۈممەتلەرمۇ شۇنداق ئىدى ئۇلارغا ھەر پەيغەمبەر كەلسىلا ئۇلار (ئۇنى):«بىر سېھىرگەر ياكى بىر مەجنۇن» دېدى.52&nbsp;&nbsp; ئۇلار ( پەيغەمبەرلەرنى ئىنكار قىلىشنى) بىر- بىرىگە تەۋسىيە قىلىشقانمۇ ھەرگىز ئۇنداق ئەمەس (يەنى ئۇلار بىر- بىرىگە ئۇنداق تەۋسىيە قىلىشقان ئەمەس) ئۇلار ھەددىدىن ئاشقۇچى قەۋمدۇر.53&nbsp;&nbsp; ئۇلاردىن يۇز ئۆرۈگىن سەن مالامەت قىلىنغۇچى ئەمەسسەن.54&nbsp;&nbsp; ۋەز- نەسىھەت قىلغىن ۋەز نەسىھەت مۇئمىنلارغا پايدىلىق.55&nbsp;&nbsp; جىنلارنى ئىنسانلارنى پەقەت ماڭا ئىبادەت قىلىش ئۈچۈنلا ياراتتىم.56&nbsp;&nbsp; ئۇلاردىن مەن رىزق تىلىمەيمەن ۋە ئۇلارنىڭ مېنى ئۇزۇقلاندۇرۇشىنى تىلىمەيمەن.57&nbsp;&nbsp; اﷲ ھەقىقەتەن ھەممىگە رىزق بەرگۈچىدۇر قۇدرەتلىكتۇر (اﷲنىڭ) قۇۋۋىتى ئارتۇقتۇر.58&nbsp;&nbsp; (ئۆزلىرىگە) زۇلۇم قىلغانلارنىڭ (ئازابتىن) ئۆتكەنكى (ھالاك بولغان) دوستلىرىنىڭ نېسىۋىسىدەك نېسىۋىسى بولىدۇ ئۇلار (ئازابىمغا) ئالدىراتمىسۇن59&nbsp;&nbsp; كافىرلارغا ۋەدە قىلىنغان كۈندىن كافىرلارغا ۋاي!.60 </span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=251" title="سۈرە نەجىمنىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە نەجىمنىڭ تەرج...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=250" title="سۈرە تۇرنىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە تۇرنىڭ تەرجىم...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=249" title="سۈرە رازىياتنىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە رازىياتنىڭ تە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=246" title="سۈرە قافنىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە قافنىڭ تەرجىم...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=245" title="سۈرە ھۇجۇراتنىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە ھۇجۇراتنىڭ تە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=244" title="سۈرە فەتىھنىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە فەتىھنىڭ تەرج...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=243" title="سۈرە مۇھەممەدنىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە مۇھەممەدنىڭ ت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=242" title="سۈرە ئەھقاپنىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە ئەھقاپنىڭ تەر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=241" title="سۈرە جاسىيەنىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە جاسىيەنىڭ تەر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=240" title="سۈرە دۇخاننىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە دۇخاننىڭ تەرج...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=239" title="سۈرە زۇخرۇفنىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە زۇخرۇفنىڭ تەر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=238" title="سۈرە شۇرانىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە شۇرانىڭ تەرجى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=237" title="سۈرە فۇسسىلاتنىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە فۇسسىلاتنىڭ ت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=236" title="سۈرە غافىرنىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە غافىرنىڭ تەرج...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=235" title="سۈرە زۇمرەتنىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە زۇمرەتنىڭ تەر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=234" title="سۈرە ساففاتنىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە ساففاتنىڭ تەر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=233" title="سۈرە سادنىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە سادنىڭ تەرجىم...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=232" title="سۈرە ياسىننىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە ياسىننىڭ تەرج...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=231" title="سۈرە فاتىرنىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە فاتىرنىڭ تەرج...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=230" title="سۈرە سابانىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە سابانىڭ تەرجى...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/islam_dini/search.php?catid=122&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=251" title="سۈرە نەجىمنىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە نەجىمنىڭ تەرجىمىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=250" title="سۈرە تۇرنىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە تۇرنىڭ تەرجىمىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=249" title="سۈرە رازىياتنىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە رازىياتنىڭ تەرجىمى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=246" title="سۈرە قافنىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە قافنىڭ تەرجىمىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=245" title="سۈرە ھۇجۇراتنىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە ھۇجۇراتنىڭ تەرجىمى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=244" title="سۈرە فەتىھنىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە فەتىھنىڭ تەرجىمىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=243" title="سۈرە مۇھەممەدنىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە مۇھەممەدنىڭ تەرجىم...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=242" title="سۈرە ئەھقاپنىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە ئەھقاپنىڭ تەرجىمىس...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=241" title="سۈرە جاسىيەنىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە جاسىيەنىڭ تەرجىمىس...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=240" title="سۈرە دۇخاننىڭ تەرجىمىسى"  target="_blank" class="tag_title_link">سۈرە دۇخاننىڭ تەرجىمىسى</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/islam_dini/show_js.php?itemid=249"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

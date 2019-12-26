@@ -1,0 +1,73 @@
+<!-- Tor bat exligu chi Ablimitjan Maham  QQ :250092392    Tel: 6722530    E-Mail :Raziman@126.com ,ablmtjan@126.com -->
+document.write("<head></head>");
+
+
+document.write("<table border=0 cellpadding=2 cellspacing=0 width=100%>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=441 target=_blank><font color='' style='font-size:10pt'>ئۇيغۇرلارنىڭ قاتناش قورالل...</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=440 target=_blank><font color='' style='font-size:10pt'>يول - قاتناش توغرىسىدا</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=439 target=_blank><font color='' style='font-size:10pt'>ئوزۇقلىنىش ئادەتلىرى</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=438 target=_blank><font color='' style='font-size:10pt'>بۆشۈك توي</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=437 target=_blank><font color='' style='font-size:10pt'>ئون ئىككى مۇقام</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=436 target=_blank><font color='' style='font-size:10pt'>ئۇيغۇرلارنىڭ ئولتۇراق ئادى...</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=435 target=_blank><font color='' style='font-size:10pt'>توي مۇراسىمى ۋە جەريانى</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=434 target=_blank><font color='' style='font-size:10pt'>ئۇيغۇرلار جەمئىيىتىنىڭ تەش...</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=right colspan=2></td></tr>");
+
+document.write("</table>");

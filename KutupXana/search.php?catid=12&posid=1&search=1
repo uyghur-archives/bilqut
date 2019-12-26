@@ -1,0 +1,67 @@
+﻿<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">         
+<meta http-equiv="cache-control" content="no-cache">  
+<title>RahetCMS</title>
+<style type="text/css">
+<!--
+*{
+direction:rtl;
+margin:0;
+padding:0;
+font-family:"Ukij Tuz Tom";
+}
+body{
+text-align:center;
+}
+td{
+font-size: 14px;
+line-height:150%;
+}
+h1{
+height:20px;
+line-height:20px;
+font-size:14px;
+text-align:center;
+background-color:#f1f1f1;
+color:#CC0000;
+}
+.box_border{
+margin:50px auto;
+border:1px solid #dcdcdd;
+width:450px;
+}
+a:link {
+color: #0000FF;
+text-decoration: none;
+}
+a:visited {
+text-decoration: none;
+color: #003399;
+}
+a:hover {
+text-decoration: underline;
+color: #0066FF;
+}
+a:active {
+text-decoration: none;
+color: #0066FF;
+}
+-->
+</style>
+<script language="JavaScript" src="/include/js/common.js"></script>
+</head>
+<body>
+<div class="box_border">
+<h1>ئەسكەرتىش ئۇچۇرى</h1>
+<table width="100%" cellspacing="5" cellpadding="0" bgcolor="#f5f5f5">
+  <tr>
+    <td align="center" bgcolor="#FFFFFF">
+<br/>
+ئىككى قېتىملىق ئىزدەش ۋاقىت ئارىلىقى 10 سېكۇنتتىن كەم بولمىسۇن<br/>
+<br/><a href="javascript:history.back();" >[ئالدىنقى بەتكە قايتىڭ]</a>    </td>
+  </tr>
+</table>
+</div>
+</body>
+</html>

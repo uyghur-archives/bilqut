@@ -1,0 +1,1768 @@
+﻿﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<link href="/movie.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>تۇرمۇش بۇيۇملىرى -رەسىم -Bilqut Uyghur web</title>
+<meta name="keywords" content=",,رەسىم ">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+</head>
+<body bgcolor="#ffba00"  >
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div class="header">
+
+<table width="980" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="980" height="130" align="center">
+<img border="0" src="/Raziman_img/resim/resim_top.png" width="980" height="130"></td>
+    </tr>
+</table>
+
+
+<!--频道下属栏目列表-->
+      <div align="center">
+      <table width="980px" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="resim_submenu"><a href="/resim/">باش بەت </a>
+   | <a class="razimantur" href="/resim/list.php?catid=1" >لايىھە</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=3" >سىزما</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=4" >قاتناش</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=5" >قۇشلار</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=6" >كارتون</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=7" >ماشىنا  </a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=8" >يانفون</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=9" > ھەربىي</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=10" >ھەرخىل</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=11" >ئىقتىساد</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=12" >تۇرمۇش</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=13" >مەنزىرە</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=14" >قىستۇرما</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=15" >بىناكارلىق</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=16" >تەنتەربىيە</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=17" >ئۆسۈملۈك</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=18" >مەدەنىيەت</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=19" >ھاشاراتلار</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=20" >ھايۋاناتلار</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=21" >كىيىم</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=22" >كۆڭۈل ئېچىش</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=23" >پەن - تېخنىكا</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=24" >سەنئەت</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=25" >بالىلار</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=26" >قىزىقارلىق </a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=276" >ماتېرىيال</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=277" >نەقىش</a>
+
+</td>
+       </tr>
+       </table>
+</div>
+</div>
+
+<div class="main"> 
+<div align="center">
+<table width="980" cellpadding="0" cellspacing="0">
+<tr>
+   <td height="10"> </td>
+</tr>
+</table>
+</div>
+
+
+
+
+
+
+
+<script language=javascript type="text/javascript">
+function fontZoom(size){
+$('content').style.fontSize=size+'px'
+}
+</script>
+
+
+
+
+<table border="0" width="980" cellspacing="0" cellpadding="0">
+<tr>
+<td width="690"  background="/Raziman_img/resim/raziman_tur_bg.gif" height="36">
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/resim/">رەسىم </a> >> <a href="/resim/list.php?catid=12">تۇرمۇش</a> >> </td>
+<td width="10" valign="top" rowspan="2">&nbsp;</td>
+<td width="280" valign="top" rowspan="2">
+<table border="0" width="100%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+<td id="resimjan" background="/Raziman_img/resim/raziman_tur_bg.gif" height="36" align="center">
+يېڭى يوللانغان رەسىملەر</td>
+</tr>
+<tr>
+<td class="raziman_x"><table class="tag_box"  cellpadding="0" cellspacing="0">
+
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=646" title="قانداق رەسىم ئىزدەيسىز " 0 class="tag_title_link">قانداق رەسىم ئىزدەيسىز </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=645" title="مۇنداق ئاياقلارنى سېتىۋېلىڭ " 0 class="tag_title_link">مۇنداق ئاياقلارنى سېتىۋېلىڭ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=644" title="زىراپە ماۋۇ " 0 class="tag_title_link">زىراپە ماۋۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=643" title="زىراپە بىلەن بۇغا " 0 class="tag_title_link">زىراپە بىلەن بۇغا </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=642" title="يۇپۇرماق ھايۋانلار " 0 class="tag_title_link">يۇپۇرماق ھايۋانلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=641" title="يۇڭلۇق گېنراللار " 0 class="tag_title_link">يۇڭلۇق گېنراللار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=640" title="يۇڭدالغان ھايۋانلار " 0 class="tag_title_link">يۇڭدالغان ھايۋانلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=639" title="يولۋاسنىڭ سۇ ئۈزىشى " 0 class="tag_title_link">يولۋاسنىڭ سۇ ئۈزىشى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=638" title="يىرىتقۇچلار " 0 class="tag_title_link">يىرىتقۇچلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=637" title="يىلپىز دىگەن مۇشۇ " 0 class="tag_title_link">يىلپىز دىگەن مۇشۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=636" title="شىرنىمۇ كۆندىرۋاپتۇ " 0 class="tag_title_link">شىرنىمۇ كۆندىرۋاپتۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=635" title="شىمالى قۇتۇپ ئېيىقى " 0 class="tag_title_link">شىمالى قۇتۇپ ئېيىقى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=634" title="ۋەھشى ئېيىقلار " 0 class="tag_title_link">ۋەھشى ئېيىقلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=633" title="ۋەھشى ھايۋانلارنى ئوۋلاش ئۇسۇلى  " 0 class="tag_title_link">ۋەھشى ھايۋانلارنى ئوۋلاش ئۇسۇلى ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=632" title="ۋەھشى ھايۋانلار " 0 class="tag_title_link">ۋەھشى ھايۋانلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=631" title="ئۇنىڭ بۇنىڭ رەسىملىرى " 0 class="tag_title_link">ئۇنىڭ بۇنىڭ رەسىملىرى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=630" title="توشقانمۇ چاشقانمۇ بۇ " 0 class="tag_title_link">توشقانمۇ چاشقانمۇ بۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=629" title="تىيىننىڭ ھەركىتى " 0 class="tag_title_link">تىيىننىڭ ھەركىتى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=628" title="تىمساھ بىلەن ئويناشماڭ " 0 class="tag_title_link">تىمساھ بىلەن ئويناشماڭ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=627" title="تىمساھ بىلەن ئاغىنە ئىكەن ھە " 0 class="tag_title_link">تىمساھ بىلەن ئاغىنە ئىكەن ھە </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=626" title="تاشپاقىچاقلار " 0 class="tag_title_link">تاشپاقىچاقلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=625" title="تاغىل ئات ماۋۇ " 0 class="tag_title_link">تاغىل ئات ماۋۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=624" title="تەبئەت ۋە جانلىقلار " 0 class="tag_title_link">تەبئەت ۋە جانلىقلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=623" title="تەبىيئەت دۇنياسىدىكى ھەركەت " 0 class="tag_title_link">تەبىيئەت دۇنياسىدىكى ھەركەت </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=622" title="تەبىيئەتنىڭ كۈچلۈك  ئەزالىرى " 0 class="tag_title_link">تەبىيئەتنىڭ كۈچلۈك  ئەزالىرى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=621" title="سىز قانداق ھىسياتتا بولاۋاتىسىز " 0 class="tag_title_link">سىز قانداق ھىسياتتا بولاۋاتىسىز </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=620" title="سېرىك مەيدانىدىكى يولۋاس ئەمەس جۇما " 0 class="tag_title_link">سېرىك مەيدانىدىكى يولۋاس ئەمەس ج...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=619" title="شىرنى يىقېتىش " 0 class="tag_title_link">شىرنى يىقېتىش </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=618" title="شىمالى قۇتۇپ ئېيىقىنىڭ بالىسى " 0 class="tag_title_link">شىمالى قۇتۇپ ئېيىقىنىڭ بالىسى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=617" title="قىزقارلىق ھايۋانلار " 0 class="tag_title_link">قىزقارلىق ھايۋانلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=616" title="قىلمىغان مۇشۇ ئىش قالغان " 0 class="tag_title_link">قىلمىغان مۇشۇ ئىش قالغان </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=615" title="قانداق جانۋار " 0 class="tag_title_link">قانداق جانۋار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=614" title="قاماقتا " 0 class="tag_title_link">قاماقتا </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=613" title="پاپىنىڭ توي مۇراسىمى " 0 class="tag_title_link">پاپىنىڭ توي مۇراسىمى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=612" title="پىلمۇزە چوڭ ئۆلىدىغان نەرسىكەن " 0 class="tag_title_link">پىلمۇزە چوڭ ئۆلىدىغان نەرسىكەن </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=611" title="پىل ۋە پىلچاقلار " 0 class="tag_title_link">پىل ۋە پىلچاقلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=610" title="پىنگىۋىنلا " 0 class="tag_title_link">پىنگىۋىنلا </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=609" title="پاقا دەپ قاپسىلە " 0 class="tag_title_link">پاقا دەپ قاپسىلە </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=608" title="ئۆزىنى داڭلاۋاتامدۇ نېمە " 0 class="tag_title_link">ئۆزىنى داڭلاۋاتامدۇ نېمە </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=607" title="ئۆيدە بېقىلىدىغان دېڭىز ھايۋىنى   " 0 class="tag_title_link">ئۆيدە بېقىلىدىغان دېڭىز ھايۋىنى ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=606" title="ئۆي قۇشلىرى " 0 class="tag_title_link">ئۆي قۇشلىرى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=605" title="ئوماق توشقانچاقلار " 0 class="tag_title_link">ئوماق توشقانچاقلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=604" title="ئوماق مۈشۈكچاقلار " 0 class="tag_title_link">ئوماق مۈشۈكچاقلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=603" title="ئوماق جۇما لىكىن " 0 class="tag_title_link">ئوماق جۇما لىكىن </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=602" title="ئوماق جانۋارلار " 0 class="tag_title_link">ئوماق جانۋارلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=601" title="نىمە دىگەن پەيزى " 0 class="tag_title_link">نىمە دىگەن پەيزى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=600" title="نىمىنداق رومانتىك ھايۋانلار بۇ " 0 class="tag_title_link">نىمىنداق رومانتىك ھايۋانلار بۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=599" title="نىمىنداق قىلىپ يۈرۈيدۇ " 0 class="tag_title_link">نىمىنداق قىلىپ يۈرۈيدۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=598" title="نىمىنداق يوغان پىل بۇ " 0 class="tag_title_link">نىمىنداق يوغان پىل بۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=597" title="نىمىنداق ئوماق ھايۋانلار بۇ " 0 class="tag_title_link">نىمىنداق ئوماق ھايۋانلار بۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=596" title="نىمىنداق چوڭ بېلىق بۇ " 0 class="tag_title_link">نىمىنداق چوڭ بېلىق بۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=595" title="نىمە دىگەن قىلىقى تاتلىق" 0 class="tag_title_link">نىمە دىگەن قىلىقى تاتلىق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=594" title="نىمە دىگەن ئوماق ھە  " 0 class="tag_title_link">نىمە دىگەن ئوماق ھە  </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=593" title="نىمە دىگەن ئوماق ئاسلان بۇ " 0 class="tag_title_link">نىمە دىگەن ئوماق ئاسلان بۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=592" title="نىمېنداق سەت بېلىق بۇ " 0 class="tag_title_link">نىمېنداق سەت بېلىق بۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=591" title="مۇزلۇقتىكى توڭماسجان " 0 class="tag_title_link">مۇزلۇقتىكى توڭماسجان </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=590" title="مۈشۈكلەرنىڭ قەدىر قېممىتى " 0 class="tag_title_link">مۈشۈكلەرنىڭ قەدىر قېممىتى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=589" title="مىدوزا ئىكەن ماۋۇ " 0 class="tag_title_link">مىدوزا ئىكەن ماۋۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=588" title="كۆنمەيدىغان نىمە با دەيسىز " 0 class="tag_title_link">كۆنمەيدىغان نىمە با دەيسىز </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=587" title="كىت بىلەن دىلفىن ئاغىنە ئوخشىمامدۇ " 0 class="tag_title_link">كىت بىلەن دىلفىن ئاغىنە ئوخشىمام...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=586" title="قارا ئوماقلىقىنى " 0 class="tag_title_link">قارا ئوماقلىقىنى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=585" title="قالتىس ئىت " 0 class="tag_title_link">قالتىس ئىت </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=584" title="ھايۋانلارمۇ ئەقىللىق نەرسە دە " 0 class="tag_title_link">ھايۋانلارمۇ ئەقىللىق نەرسە دە </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=583" title="ھەر خىل ھايۋانلار " 0 class="tag_title_link">ھەر خىل ھايۋانلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=582" title="گىرىم قىلىدىغان ھايۋانلار " 0 class="tag_title_link">گىرىم قىلىدىغان ھايۋانلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=581" title="دېڭىز دۇنياسىدىكى كۆرىنىش " 0 class="tag_title_link">دېڭىز دۇنياسىدىكى كۆرىنىش </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=580" title="ياستۇق ئېتىش مۇسابىقىسى " 0 class="tag_title_link">ياستۇق ئېتىش مۇسابىقىسى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=579" title="يەل گۇمپىسى " 0 class="tag_title_link">يەل گۇمپىسى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=578" title="ۋېلىسپىت ماھارەتلىرى " 0 class="tag_title_link">ۋېلىسپىت ماھارەتلىرى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=577" title="ئۇخلاش مۇسابىقىسىمۇ نېمە بۇ " 0 class="tag_title_link">ئۇخلاش مۇسابىقىسىمۇ نېمە بۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=576" title="توپ دىگەننى ماندا ئوينىسا " 0 class="tag_title_link">توپ دىگەننى ماندا ئوينىسا </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=575" title="توپ دىگەننى " 0 class="tag_title_link">توپ دىگەننى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=574" title="تېيلىڭە تازا " 0 class="tag_title_link">تېيلىڭە تازا </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=573" title="تەنتەربىيە ماھارەتلىرى " 0 class="tag_title_link">تەنتەربىيە ماھارەتلىرى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=572" title="تەنتەربىيە " 0 class="tag_title_link">تەنتەربىيە </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=571" title="تەنھەركەت قىياپەتلىرى " 0 class="tag_title_link">تەنھەركەت قىياپەتلىرى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=570" title="تاغدا ۋېلىسپىت مىنېش " 0 class="tag_title_link">تاغدا ۋېلىسپىت مىنېش </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=569" title="سۇ دىگەننى ماندا تېيلىمىز " 0 class="tag_title_link">سۇ دىگەننى ماندا تېيلىمىز </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=568" title="سىم پالىۋانلار " 0 class="tag_title_link">سىم پالىۋانلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=567" title="سىللەرمۇ سۇ ئۈزەمسىلەر " 0 class="tag_title_link">سىللەرمۇ سۇ ئۈزەمسىلەر </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=566" title="شارغا ئېسىلماڭ " 0 class="tag_title_link">شارغا ئېسىلماڭ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=565" title="چاشقان تەننەركەتچىللىرى " 0 class="tag_title_link">چاشقان تەننەركەتچىللىرى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=564" title="قارغا ئېلىش " 0 class="tag_title_link">قارغا ئېلىش </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=563" title="قار دىگەننى ئۆلگىدەك تېيلىمىز " 0 class="tag_title_link">قار دىگەننى ئۆلگىدەك تېيلىمىز </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=562" title="پويېز دىگەننى چىشتىلا سۆرەيمىز " 0 class="tag_title_link">پويېز دىگەننى چىشتىلا سۆرەيمىز </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=561" title="يەر شارى ئوبرازلىرى " 0 class="tag_title_link">يەر شارى ئوبرازلىرى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=560" title="سۈزۈك لاھىيە " 0 class="tag_title_link">سۈزۈك لاھىيە </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=556" title="ئوخشىتىلغان تەبىيئەت " 0 class="tag_title_link">ئوخشىتىلغان تەبىيئەت </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=555" title="مۇسابىقە لاھىيەلىرى " 0 class="tag_title_link">مۇسابىقە لاھىيەلىرى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=554" title="لاھىيە دىگەن مانا " 0 class="tag_title_link">لاھىيە دىگەن مانا </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=553" title="قۇرال لاھىيەلىرى  " 0 class="tag_title_link">قۇرال لاھىيەلىرى  </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=552" title="يۈرەكنى ئالىدىغان ئويۇنچۇق " 0 class="tag_title_link">يۈرەكنى ئالىدىغان ئويۇنچۇق </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=551" title="يىلان ئويناتقۇچىلار " 0 class="tag_title_link">يىلان ئويناتقۇچىلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=550" title="يېرىمى يوققۇ " 0 class="tag_title_link">يېرىمى يوققۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=549" title="يانا بىر كۈلىۋېلىڭ " 0 class="tag_title_link">يانا بىر كۈلىۋېلىڭ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=548" title="شىر بىلەن يۇيۇنۇپ باققانمۇ " 0 class="tag_title_link">شىر بىلەن يۇيۇنۇپ باققانمۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=547" title="ۋوججو نىمىداق قورقۇنۇشلۇق " 0 class="tag_title_link">ۋوججو نىمىداق قورقۇنۇشلۇق </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=546" title="ۋاي  قىزىق دەيمەن " 0 class="tag_title_link">ۋاي  قىزىق دەيمەن </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=545" title="ئۇخلىشىنى ماۋۇلارنىڭ " 0 class="tag_title_link">ئۇخلىشىنى ماۋۇلارنىڭ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=544" title="ئۇچۇپ يۈرەمدۇ  نېمە " 0 class="tag_title_link">ئۇچۇپ يۈرەمدۇ  نېمە </a>
+    
+</td>
+</tr>
+
+</table>
+</td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+</table>
+
+<table border="0" width="100%" id="resimjan" cellspacing="0" cellpadding="0">
+<tr>
+<td id="resimjan" background="/Raziman_img/resim/raziman_tur_bg.gif" height="36" align="center">
+تەۋسىيە رەسىملەر</td>
+</tr>
+<tr>
+<td class="raziman_x"><table class="tag_box"  cellpadding="0" cellspacing="0">
+
+
+</table>
+</td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td width="690" valign="top" height="100%" class="raziman_x">
+
+       <table border="0" width="100%" id="table2">
+<tr>
+<td align="center"><!--主标题--><h1><a href="https://www.bilqut.com/resim/show.php?itemid=502">تۇرمۇش بۇيۇملىرى </a></h1>
+</td>
+</tr>
+<tr>
+<td align="center"><!--文件属性--><div id="property">يوللانغان ۋاقتى : 2009-10-23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">0</span>&nbsp;&nbsp; </div>
+</td>
+</tr>
+<tr>
+<td><table width="690" align="center" cellPadding="0" cellSpacing="0" class="mar_10">
+    <tbody>
+      <tr>
+        <td valign="top" align="center">
+<table width="650" cellspacing="0" cellpadding="0" id="content" class="mar_10">
+
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=1"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (0).jpg" alt="1" id="img_1"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=2"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (1).jpg" alt="1" id="img_2"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=3"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (2).jpg" alt="1" id="img_3"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=4"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (3).jpg" alt="1" id="img_4"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=5"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (4).jpg" alt="1" id="img_5"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=6"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (5).jpg" alt="1" id="img_6"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=7"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (6).jpg" alt="1" id="img_7"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=8"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (7).jpg" alt="1" id="img_8"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=9"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (8).jpg" alt="1" id="img_9"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=10"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (9).jpg" alt="1" id="img_10"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=11"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (10).jpg" alt="1" id="img_11"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=12"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (11).jpg" alt="1" id="img_12"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=13"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (12).jpg" alt="1" id="img_13"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=14"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (13).jpg" alt="1" id="img_14"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=15"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (14).jpg" alt="1" id="img_15"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=16"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (15).jpg" alt="1" id="img_16"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=17"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (16).jpg" alt="1" id="img_17"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=18"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (17).jpg" alt="1" id="img_18"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=19"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (18).jpg" alt="1" id="img_19"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=20"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (19).jpg" alt="1" id="img_20"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=21"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (20).jpg" alt="1" id="img_21"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=22"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (21).jpg" alt="1" id="img_22"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=23"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (22).jpg" alt="1" id="img_23"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=24"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (23).jpg" alt="1" id="img_24"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=25"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (24).jpg" alt="1" id="img_25"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=26"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (25).jpg" alt="1" id="img_26"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=27"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (26).jpg" alt="1" id="img_27"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=28"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (27).jpg" alt="1" id="img_28"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=29"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (28).jpg" alt="1" id="img_29"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=30"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (29).jpg" alt="1" id="img_30"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=31"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (30).jpg" alt="1" id="img_31"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=32"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (31).jpg" alt="1" id="img_32"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=33"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (32).jpg" alt="1" id="img_33"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=34"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (33).jpg" alt="1" id="img_34"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=35"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (34).jpg" alt="1" id="img_35"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=36"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (35).jpg" alt="1" id="img_36"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=37"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (36).jpg" alt="1" id="img_37"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=38"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (37).jpg" alt="1" id="img_38"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=39"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (38).jpg" alt="1" id="img_39"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=40"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (39).jpg" alt="1" id="img_40"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=41"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (40).jpg" alt="1" id="img_41"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=42"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (41).jpg" alt="1" id="img_42"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=43"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (42).jpg" alt="1" id="img_43"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=44"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (43).jpg" alt="1" id="img_44"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=45"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (44).jpg" alt="1" id="img_45"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=46"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (45).jpg" alt="1" id="img_46"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=47"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (46).jpg" alt="1" id="img_47"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=48"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (47).jpg" alt="1" id="img_48"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=49"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (48).jpg" alt="1" id="img_49"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=50"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (49).jpg" alt="1" id="img_50"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=51"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (50).jpg" alt="1" id="img_51"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=52"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (51).jpg" alt="1" id="img_52"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=53"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (52).jpg" alt="1" id="img_53"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=54"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (53).jpg" alt="1" id="img_54"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=55"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (54).jpg" alt="1" id="img_55"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=56"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (55).jpg" alt="1" id="img_56"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=57"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (56).jpg" alt="1" id="img_57"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=58"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (57).jpg" alt="1" id="img_58"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=59"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (58).jpg" alt="1" id="img_59"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=60"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (59).jpg" alt="1" id="img_60"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=61"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (60).jpg" alt="1" id="img_61"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=62"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (61).jpg" alt="1" id="img_62"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=63"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (62).jpg" alt="1" id="img_63"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=64"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (63).jpg" alt="1" id="img_64"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=65"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (64).jpg" alt="1" id="img_65"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=66"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (65).jpg" alt="1" id="img_66"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=67"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (66).jpg" alt="1" id="img_67"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=68"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (67).jpg" alt="1" id="img_68"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=69"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (68).jpg" alt="1" id="img_69"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=70"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (69).jpg" alt="1" id="img_70"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=71"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (70).jpg" alt="1" id="img_71"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=72"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (71).jpg" alt="1" id="img_72"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=73"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (72).jpg" alt="1" id="img_73"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=74"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (73).jpg" alt="1" id="img_74"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=75"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (74).jpg" alt="1" id="img_75"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=76"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (75).jpg" alt="1" id="img_76"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=77"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (76).jpg" alt="1" id="img_77"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=78"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (77).jpg" alt="1" id="img_78"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=79"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (78).jpg" alt="1" id="img_79"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=80"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (79).jpg" alt="1" id="img_80"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=81"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (80).jpg" alt="1" id="img_81"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=82"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (81).jpg" alt="1" id="img_82"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=83"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (82).jpg" alt="1" id="img_83"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=84"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (83).jpg" alt="1" id="img_84"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=85"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (84).jpg" alt="1" id="img_85"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=86"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (85).jpg" alt="1" id="img_86"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=87"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (86).jpg" alt="1" id="img_87"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=88"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (87).jpg" alt="1" id="img_88"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=89"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (88).jpg" alt="1" id="img_89"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=90"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (89).jpg" alt="1" id="img_90"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=91"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (90).jpg" alt="1" id="img_91"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=92"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (91).jpg" alt="1" id="img_92"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=93"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (92).jpg" alt="1" id="img_93"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=94"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (93).jpg" alt="1" id="img_94"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=95"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (94).jpg" alt="1" id="img_95"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=96"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (95).jpg" alt="1" id="img_96"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=97"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (96).jpg" alt="1" id="img_97"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=98"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (97).jpg" alt="1" id="img_98"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=99"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (98).jpg" alt="1" id="img_99"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=100"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (99).jpg" alt="1" id="img_100"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=101"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (100).jpg" alt="1" id="img_101"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=102"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (101).jpg" alt="1" id="img_102"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=103"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (102).jpg" alt="1" id="img_103"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=104"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (103).jpg" alt="1" id="img_104"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=105"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (104).jpg" alt="1" id="img_105"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=106"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (105).jpg" alt="1" id="img_106"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=107"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (106).jpg" alt="1" id="img_107"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=108"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (107).jpg" alt="1" id="img_108"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=109"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (108).jpg" alt="1" id="img_109"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=110"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (109).jpg" alt="1" id="img_110"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=111"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (110).jpg" alt="1" id="img_111"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=112"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (111).jpg" alt="1" id="img_112"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=113"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (112).jpg" alt="1" id="img_113"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=114"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (113).jpg" alt="1" id="img_114"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=115"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (114).jpg" alt="1" id="img_115"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=116"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (115).jpg" alt="1" id="img_116"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=117"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (116).jpg" alt="1" id="img_117"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=118"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (117).jpg" alt="1" id="img_118"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=119"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (118).jpg" alt="1" id="img_119"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=120"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (119).jpg" alt="1" id="img_120"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=121"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (120).jpg" alt="1" id="img_121"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=122"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (121).jpg" alt="1" id="img_122"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=123"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (122).jpg" alt="1" id="img_123"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=124"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (123).jpg" alt="1" id="img_124"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=125"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (124).jpg" alt="1" id="img_125"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=126"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (125).jpg" alt="1" id="img_126"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=127"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (126).jpg" alt="1" id="img_127"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=128"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (127).jpg" alt="1" id="img_128"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=129"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (128).jpg" alt="1" id="img_129"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=130"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (129).jpg" alt="1" id="img_130"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=131"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (130).jpg" alt="1" id="img_131"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=132"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (131).jpg" alt="1" id="img_132"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=133"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (132).jpg" alt="1" id="img_133"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=134"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (133).jpg" alt="1" id="img_134"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=135"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (134).jpg" alt="1" id="img_135"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=136"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (135).jpg" alt="1" id="img_136"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=137"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (136).jpg" alt="1" id="img_137"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=138"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (137).jpg" alt="1" id="img_138"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=139"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (138).jpg" alt="1" id="img_139"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=140"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (139).jpg" alt="1" id="img_140"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=141"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (140).jpg" alt="1" id="img_141"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=142"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (141).jpg" alt="1" id="img_142"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=143"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (142).jpg" alt="1" id="img_143"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=144"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (143).jpg" alt="1" id="img_144"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=145"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (144).jpg" alt="1" id="img_145"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=146"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (145).jpg" alt="1" id="img_146"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=147"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (146).jpg" alt="1" id="img_147"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=148"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (147).jpg" alt="1" id="img_148"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=149"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (148).jpg" alt="1" id="img_149"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=150"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (149).jpg" alt="1" id="img_150"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=151"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (150).jpg" alt="1" id="img_151"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=152"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (151).jpg" alt="1" id="img_152"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=153"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (152).jpg" alt="1" id="img_153"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=154"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (153).jpg" alt="1" id="img_154"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=155"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (154).jpg" alt="1" id="img_155"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=156"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (155).jpg" alt="1" id="img_156"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=157"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (156).jpg" alt="1" id="img_157"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=158"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (157).jpg" alt="1" id="img_158"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=159"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (158).jpg" alt="1" id="img_159"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=160"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (159).jpg" alt="1" id="img_160"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=161"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (160).jpg" alt="1" id="img_161"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=162"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (161).jpg" alt="1" id="img_162"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=163"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (162).jpg" alt="1" id="img_163"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=164"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (163).jpg" alt="1" id="img_164"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=165"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (164).jpg" alt="1" id="img_165"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=166"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (165).jpg" alt="1" id="img_166"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=167"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (166).jpg" alt="1" id="img_167"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=168"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (167).jpg" alt="1" id="img_168"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=169"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (168).jpg" alt="1" id="img_169"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=170"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (169).jpg" alt="1" id="img_170"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=171"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (170).jpg" alt="1" id="img_171"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=172"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (171).jpg" alt="1" id="img_172"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=173"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (172).jpg" alt="1" id="img_173"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=174"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (173).jpg" alt="1" id="img_174"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=175"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (174).jpg" alt="1" id="img_175"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=176"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (175).jpg" alt="1" id="img_176"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=177"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (176).jpg" alt="1" id="img_177"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=178"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (177).jpg" alt="1" id="img_178"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=179"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (178).jpg" alt="1" id="img_179"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=180"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (179).jpg" alt="1" id="img_180"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=181"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (180).jpg" alt="1" id="img_181"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=182"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (181).jpg" alt="1" id="img_182"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=183"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (182).jpg" alt="1" id="img_183"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=184"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (183).jpg" alt="1" id="img_184"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=185"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (184).jpg" alt="1" id="img_185"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=186"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (185).jpg" alt="1" id="img_186"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=187"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (186).jpg" alt="1" id="img_187"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=188"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (187).jpg" alt="1" id="img_188"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=189"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (188).jpg" alt="1" id="img_189"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=190"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (189).jpg" alt="1" id="img_190"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=191"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (190).jpg" alt="1" id="img_191"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=192"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (191).jpg" alt="1" id="img_192"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=193"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (192).jpg" alt="1" id="img_193"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=194"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (193).jpg" alt="1" id="img_194"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=195"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (194).jpg" alt="1" id="img_195"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=196"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (195).jpg" alt="1" id="img_196"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=197"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (196).jpg" alt="1" id="img_197"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=198"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (197).jpg" alt="1" id="img_198"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=199"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (198).jpg" alt="1" id="img_199"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=200"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (199).jpg" alt="1" id="img_200"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=201"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (200).jpg" alt="1" id="img_201"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=202"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (201).jpg" alt="1" id="img_202"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=203"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (202).jpg" alt="1" id="img_203"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=204"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (203).jpg" alt="1" id="img_204"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=205"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (204).jpg" alt="1" id="img_205"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=206"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (205).jpg" alt="1" id="img_206"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=207"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (206).jpg" alt="1" id="img_207"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=208"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (207).jpg" alt="1" id="img_208"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=209"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (208).jpg" alt="1" id="img_209"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=210"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (209).jpg" alt="1" id="img_210"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=211"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (210).jpg" alt="1" id="img_211"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=212"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (211).jpg" alt="1" id="img_212"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=213"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (212).jpg" alt="1" id="img_213"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=214"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (213).jpg" alt="1" id="img_214"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=215"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (214).jpg" alt="1" id="img_215"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=216"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (215).jpg" alt="1" id="img_216"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=217"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (216).jpg" alt="1" id="img_217"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=218"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (217).jpg" alt="1" id="img_218"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=219"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (218).jpg" alt="1" id="img_219"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=220"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (219).jpg" alt="1" id="img_220"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=221"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (220).jpg" alt="1" id="img_221"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=222"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (221).jpg" alt="1" id="img_222"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=223"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (222).jpg" alt="1" id="img_223"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=224"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (223).jpg" alt="1" id="img_224"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=225"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (224).jpg" alt="1" id="img_225"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=226"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (225).jpg" alt="1" id="img_226"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=227"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (226).jpg" alt="1" id="img_227"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=228"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (227).jpg" alt="1" id="img_228"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=229"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (228).jpg" alt="1" id="img_229"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=230"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (229).jpg" alt="1" id="img_230"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=231"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (230).jpg" alt="1" id="img_231"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=232"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (231).jpg" alt="1" id="img_232"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=233"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (232).jpg" alt="1" id="img_233"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=234"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (233).jpg" alt="1" id="img_234"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=235"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (234).jpg" alt="1" id="img_235"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=236"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (235).jpg" alt="1" id="img_236"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=237"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (236).jpg" alt="1" id="img_237"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=238"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (237).jpg" alt="1" id="img_238"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=239"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (238).jpg" alt="1" id="img_239"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=240"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (239).jpg" alt="1" id="img_240"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=241"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (240).jpg" alt="1" id="img_241"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=242"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (241).jpg" alt="1" id="img_242"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=243"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (242).jpg" alt="1" id="img_243"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=244"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (243).jpg" alt="1" id="img_244"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=245"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (244).jpg" alt="1" id="img_245"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=246"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (245).jpg" alt="1" id="img_246"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=247"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (246).jpg" alt="1" id="img_247"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=248"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (247).jpg" alt="1" id="img_248"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=249"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (248).jpg" alt="1" id="img_249"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=250"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (249).jpg" alt="1" id="img_250"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=251"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (250).jpg" alt="1" id="img_251"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=252"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (251).jpg" alt="1" id="img_252"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=253"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (252).jpg" alt="1" id="img_253"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=254"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (253).jpg" alt="1" id="img_254"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=255"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (254).jpg" alt="1" id="img_255"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=256"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (255).jpg" alt="1" id="img_256"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=257"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (256).jpg" alt="1" id="img_257"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=258"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (257).jpg" alt="1" id="img_258"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=259"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (258).jpg" alt="1" id="img_259"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=260"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (259).jpg" alt="1" id="img_260"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=261"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (260).jpg" alt="1" id="img_261"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=262"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (261).jpg" alt="1" id="img_262"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=263"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (262).jpg" alt="1" id="img_263"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=264"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (263).jpg" alt="1" id="img_264"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=265"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (264).jpg" alt="1" id="img_265"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=266"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (265).jpg" alt="1" id="img_266"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=502&page=267"><img src="https://pic.bilqut.com//24_turmush/turmush_boyumliri/turmush_boyumliri (266).jpg" alt="1" id="img_267"/></a>
+</td>
+     </tr>
+
+</table>
+<script type="text/javascript">
+function ImgZoom(Id)//重新设置图片大小 防止撑破表格
+{
+var w = $(Id).width;
+var m = 200;
+if(w < m)
+{
+return;
+}
+else
+{
+var h = $(Id).height;
+$(Id).height = parseInt(h*m/w);
+$(Id).width = m;
+}
+}
+window.onload = function()
+{
+var Imgs = $("content").getElementsByTagName("img");
+var i=0;
+for(;i<Imgs.length;i++)
+{
+ImgZoom(Imgs[i]);
+}
+}
+</script>
+
+<!--自定义字段//-->
+<table width="100%" align="center" cellspacing="0" cellpadding="0">
+             
+ </table>
+ <!--自定义字段\\-->
+
+        </td>
+      </tr>
+    </tbody>
+  </table></td>
+</tr>
+<tr>
+<td><div class="border_1 mar_10" id="content"></div>
+
+</td>
+</tr>
+</table>
+   
+</td>
+</tr>
+
+</table>
+
+
+
+
+
+
+<script type="text/javascript" src="/resim/show_js.php?itemid=502"></script>
+
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

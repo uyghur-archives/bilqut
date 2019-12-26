@@ -1,0 +1,3 @@
+﻿try {setidval('hits','498');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/edebiyat/show.php?itemid=11021">ﯴﭺ ﺷﺎﺋﯩﺮ ﻳﺎﺯﻏﺎﻥ ﺑﯩﺮ ﭘﺎﺭﭼﻪ ﺷﯧﺌﯩﺮ ﺗﻮﻏﺮﯨﺴﯩﺪﺍ</a></li><li>  كىيىنكىسى  :  <a href="/edebiyat/2007/1012/11023.htm">ﺳﯩﻠﻪﺭ ﺳﯘﻧﻐﺎﻥ،ﺳﯘﻧﺎﻱ ﻣﻪﻧﻤﯘ ﺟﺎﻡ..</a></li>');}catch(e){}

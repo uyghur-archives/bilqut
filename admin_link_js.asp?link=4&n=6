@@ -1,0 +1,27 @@
+<!-- Tor bat exligu chi Ablimitjan Maham  QQ :250092392    Tel: 6722530    E-Mail :Raziman@126.com ,ablmtjan@126.com -->
+
+<!--
+function FP_jumpMenu(el,frm,sel) {//v1.0
+ var href=el.options[el.selectedIndex].value; if(sel) el.selectedIndex=0;
+ if('_new'==frm) open(href); else eval(frm+".location='"+href+"'");
+}
+// -->
+
+
+
+	    document.write("<table border=0 cellpadding=0 cellspacing=0 width=100% id=table1><tr>");
+	    
+		   document.write("<td align=center><a href=https://www.bilqut.com target=_blank><img width=88 height=31 border=0 src=image/logo.gif></a></td>");
+		
+		   document.write("<td align=center><a href=https://www.xabnam.com target=_blank><img width=88 height=31 border=0 src=logo/xabnam.gif></a></td>");
+		
+		   document.write("<td align=center><a href=https://www.diyarim.com target=_blank><img width=88 height=31 border=0 src=logo/diyarim.gif></a></td>");
+		
+		   document.write("<td align=center><a href=https://bilik.cn target=_blank><img width=88 height=31 border=0 src=logo/bilik.gif></a></td>");
+		
+		   document.write("<td align=center><a href=https:// target=_blank><img width=88 height=31 border=0 src=logo/salkin.gif></a></td>");
+		
+		   document.write("<td align=center><a href=https://www.alyar.cn target=_blank><img width=88 height=31 border=0 src=logo/alyar.gif></a></td>");
+		
+		document.write("</tr></table>");
+		

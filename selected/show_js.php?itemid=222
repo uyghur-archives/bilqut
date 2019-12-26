@@ -1,0 +1,3 @@
+try {setidval('hits','13');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>كېيىنكىسى : <a href="/awazliq/article_217.php">شەيىخ ۋە  دەرۋىشنىڭ ھېكايىسى </a></li><li>ئالدىنقىسى : <a href="/awazliq/article_227.php">ئۈچ ھەسەتخورنىڭ  ھېكايىسى</a></li>');}catch(e){}

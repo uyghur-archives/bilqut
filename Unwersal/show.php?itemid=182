@@ -1,0 +1,317 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>كةچۈرۈڭ، ئايالصڭصزغا چېقصلصپ قويدۇم (3)-ئۇنىۋېرسال-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,ئۇنىۋېرسال">
+<meta name="description" content="زۇلفصرة دةرھال كصلصپ دۇمبةمگة مۇشلاپ قۇيدص، نةچچصنص ئ ...">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/Unwersal/" class="red"> ئۇنىۋېرسال</a>
+         | <a class="razimantur" href="/Unwersal/list.php?catid=131" > ئۇنىۋېرسال سەھىپە</a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/Unwersal/">ئۇنىۋېرسال</a> >> <a href="/Unwersal/list.php?catid=131"> ئۇنىۋېرسال سەھىپە</a> >>  كةچۈرۈڭ، ئايالصڭصزغا چېقصلصپ قويدۇم (3)</div>
+<!--主标题--><h1>كةچۈرۈڭ، ئايالصڭصزغا چېقصلصپ قويدۇم (3) </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-11-16 19:14:15&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">5462</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">زۇلفصرة دةرھال كصلصپ دۇمبةمگة مۇشلاپ قۇيدص، نةچچصنص ئۇرغاندصن كېيصن سةل ئوڭشۇلۇپ قالدصم. قةستةنگة گةپنص باشقا ياققا بۇراپ «شۇنچة يصراق تۇرۋېلصپ قانداق مۇشلاش بۇ، يېقصنراق كةلسصڭصز يةۋةتمةيمةن» زۇلفصرة تۇلغان قصپقصزصل لةۋلصرصنص چصشلةپ تۇرۇپ،كۆزلصرصنص چصمصقلصتصپ: « ھص،ھص، يةنة يېقصن كةلسةم كۆمپيۇتصر تاختصسصنص نصقتاپ ئورصۋةتمةڭ يةنة».ئصختصيارسصز يۇزلصرصم قصزصرصپ چصمصلداپ كةتتص . ھصم..... ! ئو بصلصدصكةن، ھةممصنص بصلصدصكةن. دةل شۇ تاپتا ئا مۇدصر كصرصپ كةلدص;«ئوخوي، پارصڭصڭلار قصزصپ كصتصپتصغۇ، ھوي دولقۇن ۋۇي، ئوپكصدةك قصزصرصپ كصتصپسةغۇ،نصمة بولدوڭ؟» بصردصنلا نصمة دصيصشصمنص بصلةلمصدصم. «ئالصم مۇدصر،ياخشصمۇسصز!» زۇلفصرة ياڭراقلصق سالامدصن بصرنص بةردص مۇدصرغا، چصرايصنص ئوزگةرتمةي تۇرۇپ&nbsp;: «دولقۇنكام بةك تارتصنچاقكةن، كومپيۇتصر غا بةك پصششصقكةنسصز دةپ ماختاپ قۇيسام،قاراڭ بۇپكةتكصننص»!!! «ھا،ھا ھا، ئۇ راست تارتصنچاق،ھة راست،دولقۇن، ھېلص سةن 'قۇرۇق گةپنص ئاز قصلصپ،ئةمةلص ئصشنص كۆپ قصلايلص' دصگةن تېمصدا دوكصلاتتصن بصرنص يازة،ئۇزۇن بۇلۇپ كةتمصسۇن، 40-50 بةت بۇلسصلا بۇلصدۇ.ئةتة چۈشتصن كېيصن 3 دة ئصشچصلار ئۇيۇشمصسص 22 -نوۋةتلصك خصزمةتچصلةر ۋةكصلص يصغصنص نصڭ تةييارلصق يصغصنص بۇلغان سةپةرۋةر يصغصنصنصڭ 7-قېتصملصق تةييارلصق يصغصنص ئېچصلماقچص، ئصشچصلار ئۇيۇشمصسصنصڭ رةھبصرص يۇلداش ۋاڭشاۋ مېنص سۆزلةشكة تةكلصپ قصلدص» .«بولدۇ،مةن يېزصپ بۇلۇپلا سصزگة ئةپېرصپ بېرةي». ئا مۇدصر ئصشصكنص ئصتصپ قۇيۇپ چصقصپ كةتتص. زولفېرة يةنة مۇغةمبةر قصياپةتگة قايتتص.توۋا، ھازصرقص بۇ كصچصك شۇمتةكلةر ھةجةپ يامانلصشصپ كصتصپتۇ يا، ئۇ،ئۇ......قانداق تةسۋصرلةي ئۇنص، 40 قا يېقصنلصشپ قالاي دةپ قالغان بصر ئةركةك تۇرۇپ،ئةمدص مةكتةپنص پۈتتۈرگةن بصر شۇمتةك قصز تةرصپصدصن خصجصل قۇيدصيا، ھةجةپ يۈزۈم چۈشتص. «دولقۇن~~شۇنص جةزصملةشتۇرمةنكص،سصز تۇي قصلصشتصن بۇرۇن چۇقۇم ئالتۇن مصداللصق يۈزص ئېچصلمصغان يصگصت ،بصزنصڭ مةكتةپتة بولسصڭصز،چوقۇم ئالتۇن كوسار مصدالص بېرةتتۇق سصزگة.» بۇ ئصش بولمصدص! «99%لصق ئالتۇن بولسا،خوشال بۇلۇپ قۇبول قصلاتتصم.» ئاناڭنص، مةنمۇ يانمايمةن، ئېغصز دصكص جةڭغۇ بۇ،بۇ شۇمتةكتصن قۇرققاتتصممۇ. «راست گةپ قصلسام دولقۇن، قارسام شۇنداق يۇۋاش ياخشص ئادةمكةنسصز، جصنسص ھةۋصسصڭصز راستصللا قانمايدصغان بولسا، مةن سصزگة ئامالصنص قصلصپ بېرةلةيمةن» دصدص ئۇ يېقصن كصلصپ قۇلۇقۇم تۈۋصدة پةس ھةم يېقصملصق ئاۋاز بصلةن. ئۇنصڭ خوش ھصددص قۇلاق تۈۋۈمنص غصدصقلاپ تۈكۈلۈپ چۈشكةن چېچص بوينۇمغا تصگصپ توك سوقصۋةتكةندةك بۇلۇپ كةتتص. قايرصلصپ ئۇنصڭ يېقصن تۇرغان يۈزصگة سةپسېلصپ قاردصم،پۇۋلةپ قۇيسا تصشصلصپ كصتصدصغاندةك يۈز تېرصسسصدا غۇۋا بصر قةۋةت نصپصز تۈكنص كۆرگصلص بۇلاتتص، قصپ-قصزصل لةۋلصرص تۇلۇپ ئېقصپ تۇرغاندةك تۇراتتص. ' غارررررررررت ' قصلصپ بصر پارچة شالۋاقنص ئصچصمگة يۈتۈپ «راستما؟»دةپ سورصدصم. تةلصيصم مۇشۇنداقمۇ ياخشصمۇ،ئصچصمدا گۈلقةقةلصرصم ئۇيناقشصپ كةتتص.«راست! ئةلصۋةتتة راست!»چصرايلصق كۆزلصرصنص يۇغان ئېچصپ تۇرۇپ: «ئالدصسام ئصشةك بۇلۇپ كېتةي!»&nbsp; ئۇنصڭ تولۇپ تۇرغان كۆكسصگة يةنة تصكصلصپ قاراپ قالدصم، بورادصرصم يةنة گةپ ئاڭلصماي تۇرصۋالدص،شةھۋانة بۇلۇش نصيصتصم پةيدا بولدص، كاللام ئصسسصپ،ئۇيدصكص يۇلۋاسنص ئۇنتۇپ يةتتة پةلةك ئاسمانغا چورصۋةتتصم. قۇرۇپ كةتكةن لةۋلصرصمنص يالاپ،سةل تۇرۋالغاندصن كېيصن ،ئصككصلصنصپ تۇرۇپ: «قاچان؟قةيةردة؟»دةپ سورصدصم، خۇددص ئصككص يصل گةپ قصلمصغان ئادةمدةك ئاۋازلصرصم داتلصشصپ ،پۈتۈپ قالغاندةك چصقاتتص. زولفصرة كۆزلصرصنص مصدصرتصپ: «ئۇرۇن قةيةردة بۇلسا بۇلصۋةردۇ،ئادةم بولمصسصلا بولدص، قاچان مةسصلسصگة كةلسةك.......» قۇلصدصكص سائصتصگة بصر قاراپ قۇيۇپ «ھازصرقص ۋاقصت يامان ئةمةسكةن.» ھازصر ئصشتصن چۈشۈشكة ئاز قالغان ۋاقصت، بصنادا چورگصلةپ يۈرگةن ئادةم ئاز،بۇلارنص ئويلاپ قان بېسصمصم ۋاششششش لا ئورلةپ كةتتص،كاللام ۋصصصصصصصصصصڭ لا قصلصپ كۆزۇم سةل غۇۋالاشتص. چصشصمنص چصشلةپ، يۈرۈگۈمنص چوڭايتصپ «ئةمسة،،،،ئةمسة،،،ھازصرلا باشلايلص» دصدصم مةن. زولفصرة دةرھال گۈلقةقةلصرص ئېچصلصپ،يۇزلصرص شاپتۇلدةك بۇلۇپ :«يةنة دولقۇنكام ياخشصكةن، ئصسصڭصزدة تۇتۇڭ،بۇ ئصشنص مةخپص تۇتۇڭ، كصيصن ياخشصلصغصڭصزنص ئۇنتصمايمةن» گپصگة ھةيران قالدصم، نصمة دةيدۇ بۇ؟ مېنصڭ ياخشصلصقصمنص ئۇنتصمايمةن دةيدا؟ جصنسص ھةۋصسص ئېغصر دةرصجصدا قانمصغان مةن ئةمةس ئةسلص ئۇزصكةنغۇ، ھة...<BR>&nbsp;بۇنصمۇ تۇغرا چۈشۈنۈشكة بۇلدۇ، ئوقۇغۇچصلارنصڭ دةرصس بېسصمص ئېغصر،يةنة كصلصپ ئانچة تةجصربصسص يۇق، ھةم تۈزۈك پۇلصمۇ يۇق،ماڭغا ئۇخشصمايدۇ،'ئالتۇن تۇخماق 'گوڭپصسصنص تۇختصماي مةشصق قصلصپ، يةنة كۆندة يةتمصش ئصككص سصلاپ، ئوتتۇز ئالتة سۇزۇپ، داۋاملصق بةلنص كۈچةيتصدصغان نةرسة يةپ، بةدةن سۈپصتصم ۋة كةسپص ئصقتصدارصم پۇختا قةدةم بصلةن يۇقصرص كۈتۈرۈلدص.كارۋاتتصكص ئصپادةم،ئۇيدصكص يۇلۋاسنصڭ ماڭغا ئوچ بولمايدصغان بصردصنبصر سةۋةبص بۇلۇپ قالدص، ئويدصكص يۇلۋاس ھازصر 34 ياش،تازا شصردةك قانمايدصغان ۋاقتص،ئةمما ئصقتصدارصم سةل توۋةنگة قاراپ مېڭصۋاتصدۇ، بۇ قېتصملصق پۇرسةتنص چصڭ تۇتۇپ،ئۇزةمنصڭ چصدامچانلصقصم ۋة ئۇزۇنۋاقصتقا سوزۇش ئصقتصدارصمنص ساقلاش ئۈچۈن بۇ دةرياغا سةكرصمصسةم بۇلمصدص.بۇلارنص كاللامدصن بصر قۇر ئوتكۈزۈپ بۇلۇپ،قةتئص نصيةتكة كصلصپ ئةمدص ھةركةت باشلاي دةپ قۇلۇمنص ئۇزاتسام، زولفصرة تۇيۇقسصز كةينصگة يېنصپ «توختاپ تۇروڭ»دصگصنصچة بېرصپ ئصشخانا ئصشصگصنص ئصچصدصن تاقصۋةتتص..........</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=188" title="كةچۈرۈڭ، ئايالصڭصزغا چېقصلصپ قويدۇم (9)"  target="_blank" class="tag_title_link">كةچۈرۈڭ، ئايالصڭصز...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=187" title="كةچۈرۈڭ، ئايالصڭصزغا چېقصلصپ قويدۇم (4)"  target="_blank" class="tag_title_link">كةچۈرۈڭ، ئايالصڭصز...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=186" title="كةچۈرۈڭ، ئايالصڭصزغا چېقصلصپ قويدۇم (8)"  target="_blank" class="tag_title_link">كةچۈرۈڭ، ئايالصڭصز...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=185" title="كةچۈرۈڭ، ئايالصڭصزغا چېقصلصپ قويدۇم (7)"  target="_blank" class="tag_title_link">كةچۈرۈڭ، ئايالصڭصز...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=184" title="كةچۈرۈڭ، ئايالصڭصزغا چېقصلصپ قويدۇم (6)"  target="_blank" class="tag_title_link">كةچۈرۈڭ، ئايالصڭصز...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=183" title="كةچۈرۈڭ، ئايالصڭصزغا چېقصلصپ قويدۇم (5)"  target="_blank" class="tag_title_link">كةچۈرۈڭ، ئايالصڭصز...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=182" title="كةچۈرۈڭ، ئايالصڭصزغا چېقصلصپ قويدۇم (3)"  target="_blank" class="tag_title_link">كةچۈرۈڭ، ئايالصڭصز...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=181" title="كةچۈرۈڭ، ئايالصڭصزغا چېقصلصپ قويدۇم (3)"  target="_blank" class="tag_title_link">كةچۈرۈڭ، ئايالصڭصز...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=180" title="كةچۈرۈڭ، ئايالصڭصزغا چېقصلصپ قويدۇم (2)"  target="_blank" class="tag_title_link">كةچۈرۈڭ، ئايالصڭصز...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=179" title="كةچۈرۈڭ، ئايالصڭصزغا چېقصلصپ قويدۇم 1 "  target="_blank" class="tag_title_link">كةچۈرۈڭ، ئايالصڭصز...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/2009/0220/178.htm" title="سىڭلىم مېنى كەچۈرگىن"  target="_blank" class="tag_title_link">سىڭلىم مېنى كەچۈرگ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=177" title="ئەرلەر تۇرۇشقا بولمايدىغان شەھەر"  target="_blank" class="tag_title_link">ئەرلەر تۇرۇشقا بول...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/2009/0608/176.htm" title="21 قىزغا باسقۇنچىلىق قىلغان ئوقۇتقۇچى"  target="_blank" class="tag_title_link">21 قىزغا باسقۇنچىلى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=175" title="ئۇچالايدىغان ئادەم"  target="_blank" class="tag_title_link">ئۇچالايدىغان ئادەم</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=174" title="80ياشلىق بوۋايغا مۆڭگۈز&nbsp;&nbsp;چىقىتى"  target="_blank" class="tag_title_link">80ياشلىق بوۋايغا مۆ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=173" title="تىلەمچىلەر تورى تاقالدى"  target="_blank" class="tag_title_link">تىلەمچىلەر تورى تا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=172" title="كىنو تەرجىمە سېپىدىكى تۇنجى ئەۋلاد تۆھپىكار&nbsp;&nbsp;_&nbsp;&nbsp;ئەخمەتجان مامۇت"  target="_blank" class="tag_title_link">كىنو تەرجىمە سېپىد...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=171" title="مەختۇمسۇلا دىگەن ئەسەر نىڭ ئاخىرقى قىسمى يوقما؟"  target="_blank" class="tag_title_link">مەختۇمسۇلا دىگەن ئ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=170" title="ئېلانغا ھۆ بولۇپ كەتتىم"  target="_blank" class="tag_title_link">ئېلانغا ھۆ بولۇپ كە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=169" title="10 كويلۇق قــــــىـــــز(تەۋسىيە)"  target="_blank" class="tag_title_link">10 كويلۇق قــــــىـ...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/Unwersal/search.php?catid=131&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=188" title="كةچۈرۈڭ، ئايالصڭصزغا چېقصلصپ قويدۇم (9)"  target="_blank" class="tag_title_link">كةچۈرۈڭ، ئايالصڭصزغا چې...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=187" title="كةچۈرۈڭ، ئايالصڭصزغا چېقصلصپ قويدۇم (4)"  target="_blank" class="tag_title_link">كةچۈرۈڭ، ئايالصڭصزغا چې...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=186" title="كةچۈرۈڭ، ئايالصڭصزغا چېقصلصپ قويدۇم (8)"  target="_blank" class="tag_title_link">كةچۈرۈڭ، ئايالصڭصزغا چې...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=185" title="كةچۈرۈڭ، ئايالصڭصزغا چېقصلصپ قويدۇم (7)"  target="_blank" class="tag_title_link">كةچۈرۈڭ، ئايالصڭصزغا چې...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=184" title="كةچۈرۈڭ، ئايالصڭصزغا چېقصلصپ قويدۇم (6)"  target="_blank" class="tag_title_link">كةچۈرۈڭ، ئايالصڭصزغا چې...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=183" title="كةچۈرۈڭ، ئايالصڭصزغا چېقصلصپ قويدۇم (5)"  target="_blank" class="tag_title_link">كةچۈرۈڭ، ئايالصڭصزغا چې...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=182" title="كةچۈرۈڭ، ئايالصڭصزغا چېقصلصپ قويدۇم (3)"  target="_blank" class="tag_title_link">كةچۈرۈڭ، ئايالصڭصزغا چې...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=181" title="كةچۈرۈڭ، ئايالصڭصزغا چېقصلصپ قويدۇم (3)"  target="_blank" class="tag_title_link">كةچۈرۈڭ، ئايالصڭصزغا چې...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=180" title="كةچۈرۈڭ، ئايالصڭصزغا چېقصلصپ قويدۇم (2)"  target="_blank" class="tag_title_link">كةچۈرۈڭ، ئايالصڭصزغا چې...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Unwersal/show.php?itemid=179" title="كةچۈرۈڭ، ئايالصڭصزغا چېقصلصپ قويدۇم 1 "  target="_blank" class="tag_title_link">كةچۈرۈڭ، ئايالصڭصزغا چې...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/Unwersal/show_js.php?itemid=182"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

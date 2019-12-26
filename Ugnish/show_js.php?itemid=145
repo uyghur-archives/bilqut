@@ -1,0 +1,3 @@
+﻿try {setidval('hits','18');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/Ugnish/show.php?itemid=144">ئىللىق پەسىلدىكى مۆلدۈر</a></li><li>  كىيىنكىسى  :  <a href="/Ugnish/show.php?itemid=146">ھاشارات ئاپىتى ۋە كېسەللىك زىيانداشلىقى</a></li>');}catch(e){}

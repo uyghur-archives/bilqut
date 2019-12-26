@@ -1,0 +1,306 @@
+﻿<br />
+<b>Warning</b>:  session_start() [<a href='function.session-start'>function.session-start</a>]: open(D:/ԭ���ļ�/Bilqut_web/data/sessions/\sess_3gbt93iaa62pj28m175l72a1f1, O_RDWR) failed: Permission denied (13) in <b>D:\ԭ���ļ�\Bilqut_web\include\common.inc.php</b> on line <b>17</b><br />
+<html>
+<head>
+<title>bilqut.com</title>
+<META NAME="Generator" CONTENT="EditPlus">
+<META NAME="Author" CONTENT="">
+<META NAME="Keywords" CONTENT="">
+<META NAME="Description" CONTENT="">
+<SCRIPT language=javascript src="js/nip_common.js"></SCRIPT>
+<script language="javascript" src="js/check.js"></script>
+<script language="javascript">
+	function ShowThis(idname,id)
+	{
+		if(id==1)
+		{
+			document.all[idname+id].style.display='block';
+			document.all[idname+'2'].style.display='none';								
+		}
+		if(id==2)
+		{
+			document.all[idname+id].style.display='block';
+			document.all[idname+'1'].style.display='none';						
+		}
+	}	
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+/* CSS Document */
+  @font-face {
+    font-family: Times New Roman;
+    font-style:  normal;
+    font-weight: normal;
+    src: url(/css/TIMESNE1.eot);
+	
+  }
+  @font-face {
+    font-family: Ukij tuz tom;
+    font-style:  normal;
+    font-weight: normal;
+    src: url(/css/ALPIDAU1.eot);
+	
+	
+  } 
+
+.nahxa {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #FFB784;
+	border-right-color: #FFB784;
+	border-bottom-color: #FFB784;
+	border-left-color: #FFB784;
+}
+.nahxa1 {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #FFDFDF;
+	border-right-color: #FFDFDF;
+	border-bottom-color: #FFDFDF;
+	border-left-color: #FFDFDF;
+}
+body {
+background-color:#FFFFFF;
+	background-attachment:fixed;
+	font-size:12px;font-family:Ukij tuz tom,Times New Roman,Arial;
+}
+.uyunmenu{font-family:Ukij tuz tom,Times New Roman,Arial;}
+h1,h2,h3,h4,h5,h6,form,body{padding:0;margin:0;font-family:Ukij tuz tom,Times New Roman,Arial;}
+a{text-decoration:none;color:#914F1E;font-family:Ukij tuz tom,Times New Roman,Arial;}
+.bnt{font-family:Ukij tuz tom,Times New Roman,Arial; font-size:11pt; background-color:#A35D2A; color:#fff; width:80px; height:20px; border:#A35D2A solid 1px;}
+.bntplay{font-family:Ukij tuz tom,Times New Roman,Arial; font-size:11pt; background-color:#A35D2A;border:#A35D2A solid 1px; color:#FFFFFF; width:40px; height:20px;}
+b{font-weight:normal; text-align:right; margin-right:25px; font-size:12pt; float:right;}
+input,select{font-family:Ukij tuz tom,Times New Roman,Arial;}
+.borderbottom{border-bottom:#FFCC99 dotted 1px; line-height:24px;}
+.bordmusic{border:#FFF1AB solid 1px;}
+#uyghur1{margin:3px 3px 3px 3px; line-height:24px;}
+.songname{ color:#AD6027;}
+#uyghur2{margin:3px 3px 3px 3px; line-height:24px; display:none;}
+#uzbak1{margin:3px 3px 3px 3px; line-height:24px;}
+#uzbak2{margin:3px 3px 3px 3px; line-height:24px; display:none;}
+#turky1{margin:3px 3px 3px 3px; line-height:24px;}
+#turky2{margin:3px 3px 3px 3px; line-height:24px; display:none;}
+#india1{margin:3px 3px 3px 3px; line-height:24px;}
+#india2{margin:3px 3px 3px 3px; line-height:24px; display:none;}
+#hanzu1{margin:3px 3px 3px 3px; line-height:24px;}
+#hanzu2{margin:3px 3px 3px 3px; line-height:24px; display:none;}
+#english1{margin:3px 3px 3px 3px; line-height:24px;}
+#english2{margin:3px 3px 3px 3px; line-height:24px; display:none;}
+.bgmoren{background-image:url(images/sol.gif);}
+.bgmoren1{background-image:url(images/ong.gif);}
+.numur{width:15px; height:15px; background-color:#914F1E; color:#fff; font-size:9pt; line-height:15px; font-weight:normal;}
+.music1 {
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #e1e1e1;
+	border-right-color: #e1e1e1;
+	border-bottom-color: #e1e1e1;
+	border-left-color: #e1e1e1;
+}
+.music2 {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #fcda7d;
+	border-right-color: #fcda7d;
+	border-bottom-color: #fcda7d;
+	border-left-color: #fcda7d;
+}
+.music3 {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #ffb16d;
+	border-right-color: #ffb16d;
+	border-bottom-color: #ffb16d;
+	border-left-color: #ffb16d;
+}
+.STYLE1 {
+	color: #A25100
+}
+</style>
+</head>
+<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<body  bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<style type="text/css"> 
+body{background:#fff5d7 url('awazjan/body.gif') repeat-x;color:#815f00; font-family:ukij tuz tom; text-align:right; background-attachment:fixed;}
+.tur{ direction:rtl; padding-right:50px; font-size:14px;}
+.Tallash{ width:100px; height:25px; background-color:#ffecb4; border:1px solid #f1c443}
+@font-face {
+font-family: Ukij tuz Tom;
+src: url(../UkijTT.ttf);
+}
+</style>
+
+<div align="center">
+
+<table border="0" width="950" id="table3" cellspacing="0" cellpadding="0" bgcolor="#fff5d7">
+	<tr>
+			<td background="awazjan/U_bg.gif" align="center" height="35">&nbsp;</td>
+		</tr>
+	<tr>
+			<td align="center" height="5"></td>
+		</tr>
+		<tr>
+			<td background="awazjan/top_bg.gif" align="center" height="90">&nbsp;</td>
+		</tr>
+        <tr>
+			<td align="center" height="5"></td>
+		</tr>
+        <tr>
+			<td background="awazjan/U_bg.gif" align="center" height="35" style="font-family:ukij tuz tom"> <a href="default.php" style="font-size:11pt ;font-family:ukij tuz tom">باش بەت </a> |<a href="AwazTur.php?catid=168" target="_blank" class="uyunmenu" style="font-size:11pt;font-family:ukij tuz tom">رومان</a> | <a href="AwazTur.php?catid=169" target="_blank" class="uyunmenu" style="font-size:11pt;font-family:ukij tuz tom">پوۋېست</a> | <a href="AwazTur.php?catid=170" target="_blank" class="uyunmenu" style="font-size:11pt;font-family:ukij tuz tom">ھېكايە</a> | <a href="AwazTur.php?catid=171" target="_blank" class="uyunmenu" style="font-size:11pt;font-family:ukij tuz tom">نەسىر</a> | <a href="AwazTur.php?catid=172" target="_blank" class="uyunmenu" style="font-size:11pt;font-family:ukij tuz tom">شېئىر</a> | <a href="AwazTur.php?catid=173" target="_blank" class="uyunmenu" style="font-size:11pt;font-family:ukij tuz tom">مەسەل</a> | <a href="AwazTur.php?catid=174" target="_blank" class="uyunmenu" style="font-size:11pt;font-family:ukij tuz tom">ھېكايەت</a> | <a href="AwazTur.php?catid=175" target="_blank" class="uyunmenu" style="font-size:11pt;font-family:ukij tuz tom">چۆچەك</a> | <a href="AwazTur.php?catid=176" target="_blank" class="uyunmenu" style="font-size:11pt;font-family:ukij tuz tom">تېپىشماق</a> | <a href="AwazTur.php?catid=177" target="_blank" class="uyunmenu" style="font-size:11pt;font-family:ukij tuz tom">قوشاق</a> | <a href="AwazTur.php?catid=178" target="_blank" class="uyunmenu" style="font-size:11pt;font-family:ukij tuz tom">رېۋايەت</a> | <a href="AwazTur.php?catid=179" target="_blank" class="uyunmenu" style="font-size:11pt;font-family:ukij tuz tom">شەخس</a> | <a href="AwazTur.php?catid=180" target="_blank" class="uyunmenu" style="font-size:11pt;font-family:ukij tuz tom">لەتىپە</a> | <a href="AwazTur.php?catid=181" target="_blank" class="uyunmenu" style="font-size:11pt;font-family:ukij tuz tom">تۇرمۇش</a> | <a href="AwazTur.php?catid=182" target="_blank" class="uyunmenu" style="font-size:11pt;font-family:ukij tuz tom">خەنزۇچە</a> | <a href="AwazTur.php?catid=183" target="_blank" class="uyunmenu" style="font-size:11pt;font-family:ukij tuz tom">ياشلار</a> | <a href="AwazTur.php?catid=184" target="_blank" class="uyunmenu" style="font-size:11pt;font-family:ukij tuz tom">باشقا</a> | </td>
+		</tr>
+	</table>
+
+</div>
+<table width="950" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="10"></td>
+  </tr>
+</table>
+<div align="center">
+<table width="950" border="0" cellpadding="0" cellspacing="0" bgcolor="#faf6f1">
+  <tr>
+    <td width="601" height="1322" valign="top"><table width="609" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td height="30" background="awazjan/U_bg.gif"><b style="color:#914e1f; margin-right:30px;">نۆۋەتتىكى ئورنىڭىز:<a href="default.php"> باش بەت </a>&gt;&gt;<a href="AwazTur.php?catid=179" target="_blank" class="uyunmenu">شەخس</a></b></td>
+      </tr>
+      <tr>
+        <td height="1250" align="center" valign="top" class="music1"><table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:5px;">
+          <tr>
+            <td width="50%" height="600" valign="top"><table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="73%" height="600" align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0" dir="rtl" align="center" style="margin-top:2px;">
+                                                <tr>
+                                                  </tr>
+                                            </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:10px; margin-bottom:10px;">
+                        <form method="post" action="AwazTur.php?catid=179&">
+                          <tr>
+                            <td height="24" style="text-align:center; direction:rtl; font-size:11pt;"><span>جەمىئىي
+                              0                              تال ئۇچۇر بار&nbsp;</span>
+                                                              باش بەت&nbsp;ئالدىنقى بەت&nbsp;
+                                                            <a href=AwazTur.php?catid=179&page=2>كىيىنكى بەت</a>&nbsp;<a href=AwazTur.php?catid=179&page=0>ئاخىرقى بەت</a>&nbsp;
+                                                            بەت :&nbsp;
+                              28                              تال/بەت &nbsp;
+                              <select name='page' size='1' onchange='javascript:submit()' action=AwazTur.php?catid=179&>
+                                                              </select>
+                            </td>
+                          </tr>
+                        </form>
+                    </table></td>
+                </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+    <td width="12" valign="top">&nbsp;</td>
+    <td width="327" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+   
+      <tr>
+        <td height="30" background="awazjan/U_bg.gif"><b style="color:#914e1f; margin-right:30px;">  
+		ئاۋات ئەسەرلەر</b></td>
+      </tr>
+      <tr>
+        <td height="350" align="center" class="music1"><table width="98%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom:2px; margin-top:2px;">
+          <tr>
+            <td align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="margin-top:5px; margin-bottom:5px; font-size:11pt;direction:rtl"><tr><td><div style="margin-top:5px;"><a href="EserTur.php?cdid=30&chid=32" target="_blank"><img src="../uploadfile/awaz/uploadfile/201002/20100222115743532.gif" border="0" width="80" height="65" style="border:#fff solid 1px; padding:3px 3px 3px 3px;"></a></div></td><td><div style="margin-right:5px;line-height:20px;text-align:right; margin-top:5px;"><a href="EserTur.php?cdid=30&chid=32" target="_blank">زىنا ئالدىدا ئو ...</a><br>زىنا ئالدىدا ئولتۇرغان قىز</div><td><td><div style="margin-top:5px;"><a href="EserTur.php?cdid=50&chid=32" target="_blank"><img src="../uploadfile/awaz/uploadfile/201002/20100222044935139.gif" border="0" width="80" height="65" style="border:#fff solid 1px; padding:3px 3px 3px 3px;"></a></div></td><td><div style="margin-right:5px;line-height:20px;text-align:right; margin-top:5px;"><a href="EserTur.php?cdid=50&chid=32" target="_blank">ئامەت ۋە ئاپەت  ...</a><br>رومان</div><td></tr><tr><td><div style="margin-top:5px;"><a href="EserTur.php?cdid=52&chid=32" target="_blank"><img src="../uploadfile/awaz/uploadfile/201002/20100222045452382.gif" border="0" width="80" height="65" style="border:#fff solid 1px; padding:3px 3px 3px 3px;"></a></div></td><td><div style="margin-right:5px;line-height:20px;text-align:right; margin-top:5px;"><a href="EserTur.php?cdid=52&chid=32" target="_blank">ئەنجانباي روما ...</a><br>رومان</div><td><td><div style="margin-top:5px;"><a href="EserTur.php?cdid=40&chid=32" target="_blank"><img src="../uploadfile/awaz/uploadfile/201002/20100222112406517.gif" border="0" width="80" height="65" style="border:#fff solid 1px; padding:3px 3px 3px 3px;"></a></div></td><td><div style="margin-right:5px;line-height:20px;text-align:right; margin-top:5px;"><a href="EserTur.php?cdid=40&chid=32" target="_blank">پوۋېسىت توپلىم ...</a><br>پوۋېست </div><td></tr><tr><td><div style="margin-top:5px;"><a href="EserTur.php?cdid=36&chid=32" target="_blank"><img src="../uploadfile/awaz/uploadfile/201002/20100222110929218.gif" border="0" width="80" height="65" style="border:#fff solid 1px; padding:3px 3px 3px 3px;"></a></div></td><td><div style="margin-right:5px;line-height:20px;text-align:right; margin-top:5px;"><a href="EserTur.php?cdid=36&chid=32" target="_blank">تېنىگەن كۆڭۈل</a><br>پوۋېست </div><td><td><div style="margin-top:5px;"><a href="EserTur.php?cdid=186&chid=32" target="_blank"><img src=".././images/nopic.gif" border="0" width="80" height="65" style="border:#fff solid 1px; padding:3px 3px 3px 3px;"></a></div></td><td><div style="margin-right:5px;line-height:20px;text-align:right; margin-top:5px;"><a href="EserTur.php?cdid=186&chid=32" target="_blank">ھېكايەت</a><br>23-توپلام </div><td></tr><tr><td><div style="margin-top:5px;"><a href="EserTur.php?cdid=48&chid=32" target="_blank"><img src="../uploadfile/awaz/uploadfile/201002/20100222034510742.gif" border="0" width="80" height="65" style="border:#fff solid 1px; padding:3px 3px 3px 3px;"></a></div></td><td><div style="margin-right:5px;line-height:20px;text-align:right; margin-top:5px;"><a href="EserTur.php?cdid=48&chid=32" target="_blank"> يېگانە ئارال ر ...</a><br>رومان</div><td><td><div style="margin-top:5px;"><a href="EserTur.php?cdid=88&chid=32" target="_blank"><img src="../uploadfile/awaz/uploadfile/201002/20100228021629339.gif" border="0" width="80" height="65" style="border:#fff solid 1px; padding:3px 3px 3px 3px;"></a></div></td><td><div style="margin-right:5px;line-height:20px;text-align:right; margin-top:5px;"><a href="EserTur.php?cdid=88&chid=32" target="_blank">تۇرمۇش</a><br>توپلام —8</div><td></tr><tr><td><div style="margin-top:5px;"><a href="EserTur.php?cdid=68&chid=32" target="_blank"><img src="../uploadfile/awaz/uploadfile/201002/20100228014745853.gif" border="0" width="80" height="65" style="border:#fff solid 1px; padding:3px 3px 3px 3px;"></a></div></td><td><div style="margin-right:5px;line-height:20px;text-align:right; margin-top:5px;"><a href="EserTur.php?cdid=68&chid=32" target="_blank">باشقا</a><br>توپلام —1</div><td><td><div style="margin-top:5px;"><a href="EserTur.php?cdid=22&chid=32" target="_blank"><img src="../awaz/img/1.gif" border="0" width="80" height="65" style="border:#fff solid 1px; padding:3px 3px 3px 3px;"></a></div></td><td><div style="margin-right:5px;line-height:20px;text-align:right; margin-top:5px;"><a href="EserTur.php?cdid=22&chid=32" target="_blank">ھېكايە </a><br>1– توپلام </div><td></tr><tr><td><div style="margin-top:5px;"><a href="EserTur.php?cdid=184&chid=32" target="_blank"><img src=".././images/nopic.gif" border="0" width="80" height="65" style="border:#fff solid 1px; padding:3px 3px 3px 3px;"></a></div></td><td><div style="margin-right:5px;line-height:20px;text-align:right; margin-top:5px;"><a href="EserTur.php?cdid=184&chid=32" target="_blank">ھېكايەت</a><br>22-توپلام </div><td><td><div style="margin-top:5px;"><a href="EserTur.php?cdid=134&chid=32" target="_blank"><img src=".././images/nopic.gif" border="0" width="80" height="65" style="border:#fff solid 1px; padding:3px 3px 3px 3px;"></a></div></td><td><div style="margin-right:5px;line-height:20px;text-align:right; margin-top:5px;"><a href="EserTur.php?cdid=134&chid=32" target="_blank">نەسىر </a><br>4-توپلام </div><td></tr><tr></tr></table></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td height="10"></td>
+      </tr>
+      <tr>
+        <td height="30" background="awazjan/U_bg.gif"><b style="color:#914e1f; margin-right:30px;">  ئاۋات ئەسەرلەر</b></td>
+      </tr>
+      <tr>
+        <td height="734" align="center" valign="top" class="music1"><table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><table width="98%" border="0" align="center" cellpadding="0" cellspacing="0" style="font-size:11pt;margin-top:10px;"><tr><td width="7%" align="center" height="24">46483</td><td width="40%" align="right"><a href="player/Anglash.php?check=7&catid=168" target="_blank">ئانا يۇرت رومانى</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">01</span></td></tr><tr><td width="7%" align="center" height="24">25416</td><td width="40%" align="right"><a href="player/Anglash.php?check=64&catid=168" target="_blank">جاللات خېنىم رومانى</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">02</span></td></tr><tr><td width="7%" align="center" height="24">22931</td><td width="40%" align="right"><a href="player/Anglash.php?check=119&catid=168" target="_blank">تەقدىر رومانى</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">03</span></td></tr><tr><td width="7%" align="center" height="24">19268</td><td width="40%" align="right"><a href="player/Anglash.php?check=110&catid=168" target="_blank">قۇم باسقان شەھەر رومانى</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">04</span></td></tr><tr><td width="7%" align="center" height="24">12017</td><td width="40%" align="right"><a href="player/Anglash.php?check=172&catid=169" target="_blank">ئوغرى يىگىت بىلەن پاھىشە قىزنىڭ مۇھەببىتى</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">05</span></td></tr><tr><td width="7%" align="center" height="24">11962</td><td width="40%" align="right"><a href="player/Anglash.php?check=105&catid=168" target="_blank">ناتىۋانلار رومانى</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">06</span></td></tr><tr><td width="7%" align="center" height="24">10461</td><td width="40%" align="right"><a href="player/Anglash.php?check=118&catid=168" target="_blank">سەيىدخان رومانى</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">07</span></td></tr><tr><td width="7%" align="center" height="24">10253</td><td width="40%" align="right"><a href="player/Anglash.php?check=117&catid=168" target="_blank">سەرسان روھ رومانى</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">08</span></td></tr><tr><td width="7%" align="center" height="24">8419</td><td width="40%" align="right"><a href="player/Anglash.php?check=88&catid=168" target="_blank">كۆمۈرچى بالا رومانى</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">09</span></td></tr><tr><td width="7%" align="center" height="24">7064</td><td width="40%" align="right"><a href="player/Anglash.php?check=641&catid=175" target="_blank">ياماقچى بىلەن پادىشاھ</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">10</span></td></tr><tr><td width="7%" align="center" height="24">6609</td><td width="40%" align="right"><a href="player/Anglash.php?check=178&catid=169" target="_blank">تېنىگەن كۆڭۈل</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">11</span></td></tr><tr><td width="7%" align="center" height="24">6490</td><td width="40%" align="right"><a href="player/Anglash.php?check=2742&catid=168" target="_blank">زىنا ئالدىدا ئولتۇرغان قىز</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">12</span></td></tr><tr><td width="7%" align="center" height="24">6047</td><td width="40%" align="right"><a href="player/Anglash.php?check=169&catid=169" target="_blank">جاسارەتلىك قىز</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">13</span></td></tr><tr><td width="7%" align="center" height="24">5789</td><td width="40%" align="right"><a href="player/Anglash.php?check=59&catid=168" target="_blank">چالىقۇشى رومانى</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">14</span></td></tr><tr><td width="7%" align="center" height="24">5786</td><td width="40%" align="right"><a href="player/Anglash.php?check=112&catid=168" target="_blank">سىرلىق مىراس رومانى</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">15</span></td></tr><tr><td width="7%" align="center" height="24">5592</td><td width="40%" align="right"><a href="player/Anglash.php?check=124&catid=184" target="_blank">مىڭبىر كېچە</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">16</span></td></tr><tr><td width="7%" align="center" height="24">5446</td><td width="40%" align="right"><a href="player/Anglash.php?check=509&catid=170" target="_blank">يەردە قالغان قىز</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">17</span></td></tr><tr><td width="7%" align="center" height="24">5251</td><td width="40%" align="right"><a href="player/Anglash.php?check=1045&catid=169" target="_blank">ئەمدى ئاق چەكمەيمەن ئۈچىنچى قىسىم</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">18</span></td></tr><tr><td width="7%" align="center" height="24">5027</td><td width="40%" align="right"><a href="player/Anglash.php?check=1403&catid=178" target="_blank">ئۇيغۇرلار</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">19</span></td></tr><tr><td width="7%" align="center" height="24">4789</td><td width="40%" align="right"><a href="player/Anglash.php?check=2736&catid=176" target="_blank">چاشقان ۋە تاختامۇش</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">20</span></td></tr><tr><td width="7%" align="center" height="24">4568</td><td width="40%" align="right"><a href="player/Anglash.php?check=548&catid=180" target="_blank">پۇللىرىڭنى چىقار</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">21</span></td></tr><tr><td width="7%" align="center" height="24">4368</td><td width="40%" align="right"><a href="player/Anglash.php?check=1406&catid=181" target="_blank">ئىللىتقان تۇخۇمنىڭ پايدىسى ۋە زىيىنى</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">22</span></td></tr><tr><td width="7%" align="center" height="24">4219</td><td width="40%" align="right"><a href="player/Anglash.php?check=114&catid=168" target="_blank">يېگانە دۇنيا رومانى</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">23</span></td></tr><tr><td width="7%" align="center" height="24">3951</td><td width="40%" align="right"><a href="player/Anglash.php?check=55&catid=168" target="_blank">ئاي يامغۇرى رومانى</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">24</span></td></tr><tr><td width="7%" align="center" height="24">3888</td><td width="40%" align="right"><a href="player/Anglash.php?check=164&catid=169" target="_blank">چېڭدۇدىن باشلانغان مۇھەببەت</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">25</span></td></tr><tr><td width="7%" align="center" height="24">3719</td><td width="40%" align="right"><a href="player/Anglash.php?check=1404&catid=178" target="_blank">ئۆمۈر تەقسىماتى ھەققىدە رىۋايەتلەر</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">26</span></td></tr><tr><td width="7%" align="center" height="24">3714</td><td width="40%" align="right"><a href="player/Anglash.php?check=1043&catid=169" target="_blank">ئەمدى ئاق چەكمەيمەن بىرىنچى قىسىم</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">27</span></td></tr><tr><td width="7%" align="center" height="24">3626</td><td width="40%" align="right"><a href="player/Anglash.php?check=639&catid=175" target="_blank">ئۈچ يالغاندا قىرىق يالغان</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">28</span></td></tr><tr><td width="7%" align="center" height="24">3527</td><td width="40%" align="right"><a href="player/Anglash.php?check=1408&catid=181" target="_blank">بۇغا مۈڭگۈزىنىڭ شىپالىق رولى</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">29</span></td></tr><tr><td width="7%" align="center" height="24">3522</td><td width="40%" align="right"><a href="player/Anglash.php?check=513&catid=170" target="_blank">زەڭگەر پەردىلىك دېرىزە</a></td><td width="6%" align="center" style="font-weight:bold;"><span class="numur">30</span></td></tr><tr></table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</div>
+<table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="10"></td>
+  </tr>
+</table>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2" style="font-size: 14px">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px >
+		<table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan" style="font-size: 14px">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备07002316</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+</div></body>
+</html><br />
+<b>Warning</b>:  Unknown: open(D:/ԭ���ļ�/Bilqut_web/data/sessions/\sess_3gbt93iaa62pj28m175l72a1f1, O_RDWR) failed: Permission denied (13) in <b>Unknown</b> on line <b>0</b><br />
+<br />
+<b>Warning</b>:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (D:/ԭ���ļ�/Bilqut_web/data/sessions/) in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: open(D:/ԭ���ļ�/Bilqut_web/data/sessions/\sess_3gbt93iaa62pj28m175l72a1f1, O_RDWR) failed: Permission denied (13) in D:\ԭ���ļ�\Bilqut_web\include\common.inc.php on line 17
+PHP Warning:  Unknown: open(D:/ԭ���ļ�/Bilqut_web/data/sessions/\sess_3gbt93iaa62pj28m175l72a1f1, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (D:/ԭ���ļ�/Bilqut_web/data/sessions/) in Unknown on line 0

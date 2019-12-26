@@ -1,0 +1,344 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>كۆزنەكلەرنى تىزىش-كومپيۇتېر بىلىملىرى-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,كومپيۇتېر بىلىملىرى">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/kompiyotir/" class="red"> كومپيۇتېر بىلىملىرى</a>
+         | <a class="razimantur" href="/kompiyotir/sual/" > كومپيۇتېردىن سوئال- جاۋابلار  </a>
+
+ | <a class="razimantur" href="/kompiyotir/unwersal/" > ئۇنىۋېرسال بىلىملىرى  </a>
+
+ | <a class="razimantur" href="/kompiyotir/kashila/" >كومپيۇتېر كاشىلىلىرى </a>
+
+ | <a class="razimantur" href="/kompiyotir/qattiq/" > قاتتىق دېتال  </a>
+
+ | <a class="razimantur" href="/kompiyotir/yumshaq/" >يۇمشاق دېتال </a>
+
+ | <a class="razimantur" href="/kompiyotir/mashgulat/" >مەشغۇلات سىستېمىسى </a>
+
+ | <a class="razimantur" href="/kompiyotir/tor/" > توربىلىملىرى  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/kompiyotir/">كومپيۇتېر بىلىملىرى</a> >> <a href="/kompiyotir/mashgulat/">مەشغۇلات سىستېمىسى </a> >>  كۆزنەكلەرنى تىزىش</div>
+<!--主标题--><h1>كۆزنەكلەرنى تىزىش </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-04-23 15:33:16&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">256</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut"> كۆزنەكلەرنى تىزىش 
+ئۈستەل يۈزىدە&nbsp;&nbsp;بىر نەچچە كۆزنەكنى ئاچقاندا&nbsp;&nbsp;تولىمۇ رەتسىز كۆرۈنىدۇ ، بۇۋاقىتتا&nbsp;&nbsp;كۆزنەكلەرنى&nbsp;&nbsp;قايتىدىن تىزغىلى بولدۇ.
+WindowsXP نىڭ «كۆزنەكلەرنى&nbsp;&nbsp;قەۋەتسىمان تىزىش &lt;层叠窗口 &gt;»، «كۆزنەكلەرنى توغرىسىغا تەكشى تىزىش&lt;横向平铺窗口 &gt;» ۋە «كۆزنەكلەر تىك يۆلىىنىشتە&nbsp;&nbsp;تەكشى تىزىش &lt;纵向平铺窗口 &gt;» قاتارلىق كۆزنەكلەرنى ئاپتوماتىك تىزىشنىڭ&nbsp;&nbsp;ئۈچ خىل ئۇسۇلى بار.
+ 1 . كۆزنەكلەرنى قەۋەتسىمان تىزىش
+ كۆزنەكلەرنى قەۋەتسىمان تىزىش بىرنەچچە قارتىنى ئۈسۈتمۇ ئۈسۈت قويغانغا ئوخشايدۇ. بۇخىل ئۇسۇلدا&nbsp;&nbsp;تىزىلغان كۆزنەكلەرنىىڭ&nbsp;&nbsp;پەقەت تېما ئىستونىلا&nbsp;&nbsp;كۆرۈنۈپ تۇرىدۇ. دېمەك، ئېكراندا&nbsp;&nbsp;پەقەت ئەڭ ئۈستىدىكى&nbsp;&nbsp;كۆزنەكنىڭ مەزمۇنىلا كۆرۈنىدۇ.
+ كۆزنەكلەرنى قەۋەتسىمان تىزىماقچى بولسىڭىز، ۋەزىپەئىستونىدىكى بوش ئورۇن &lt;سىنبەلگە ۋە كۇنۇپكا بولمىغان ئورۇن &gt; نى&nbsp;&nbsp;مائۇسنىڭ ئوڭ كۇنۇپكىسى بىلەن&nbsp;&nbsp;بىر چەكسىڭىز تېز قوزغىتىش تىزىملىكى&nbsp;&nbsp;ئېچىلىدۇ. ئاندىن كېيىن، تىزىملىكتىن&nbsp;&nbsp;«كۆزنەكلەرنى قەۋەتسىمان تىزىش &lt;&nbsp;&nbsp;层叠窗口 &gt;» كوماندىسنى&nbsp;&nbsp;تاللىسىڭىزلا بولىدۇ.
+ * ئېچىلغان كۆزنەكلەر بەك كۆپ بولۇپ كەتكەندە، ئەڭ ئاستىدىكى بىر قىسىم&nbsp;&nbsp;كۆزنەكنىڭ تېما&nbsp;&nbsp;ئىستونىمۇ&nbsp;&nbsp;ئۈستىدىكى كۆزنەك&nbsp;&nbsp;تەرىپىدىن&nbsp;&nbsp;توسۇۋېلىنىشى مۇمكىن. 
+ * كۆزنەكلەرنى تىزغاندا، پەقەت ئېكرانىدىكى&nbsp;&nbsp;كۆزنەكلەرگە&nbsp;&nbsp;قارىتا تىزىش ئېلىپ بارغىلى بولىدۇ، ئەڭ كىچىك ھالەتكە&nbsp;&nbsp;كەلتۈرۈلگەن&nbsp;&nbsp;كۆزنەكلەر&nbsp;&nbsp;بۇنىڭ سىرتىدا.
+ 2 . كۆزنەكلەرنى تەكشى تىزىش
+ بەزىدە ئېچىلغان ھەربىر كۆزنەكنىڭ مەزمۇنىنى بىرلاۋاقىتتا&nbsp;&nbsp;كۆرۈش ئۈچۈن،&nbsp;&nbsp;كۆزنەكلەرنى تەكشى تىزىشقا توغرا كېلىدۇ، ئېچىلغان كۆزنەكلەر بەك كۆپ بۇلۇپ كەتكەندە، ھەربىر كۆزنەك&nbsp;&nbsp;ئىنتايىن كىچىك كۆرۈنىدۇ. WindowsXP داتوغرىسىغا تەكشى تىزىش&nbsp;&nbsp;ۋە بوي يۆنىلىشتە&nbsp;&nbsp;تەكشى تىزىشتىن&nbsp;&nbsp;ئىبارەت ئىككى خىل تەكشى تىزىش ئۇسۇلى بار. كۆزنەكلەرنى&nbsp;&nbsp;توغرىسىغا تىزغاندا، كۆزنەكلەر تىك يۆنىلىشتە تىزىلىدۇ. كۆزنەكلەرنى بوي يۆلىنىشتە تېزغاندا، كۆزنەكلەر تىزىلىدۇ.
+ 3 . * كۆزنەكلەرنى ئالماشتۇرۇش 
+ئەمەلىي قوللىنىلىدىغان بىر نەچچە پروگراممىنى بىرلا ۋاقىتتا ئىجراقىلغىلى ھەمدە ئۇلارنى ئۆزئارا ئالماشتۇرغىلى بولۇش&nbsp;&nbsp;WindowsXP نىڭ چوڭ ئالاھىدىلىكىدۇر، ئەگەر ئالماشتۇرىدىغان كۆزنەكنى&nbsp;&nbsp;ئېكراندا كۆرگىلى بولسا، ئۇنى بىر چەكسەكلابولىدۇ.
+ . كۆزنەكنى ئالماشتۇرغاندا،&nbsp;&nbsp;نۆۋەتتە ئىجراقىلىنۋاتقان كۆزنەك&nbsp;&nbsp;تاقالمايدۇ، پەقەت ئېكراندىكى كۆزنەكلا ئالمىشىدۇ.ئەگەر ئالماشتۇرماقچى بولغان كۆزنەكنى&nbsp;&nbsp;ئېكراندا كۆرگىلى بولمىسا، ۋەزىپە ئىستونىدىكى مەزكۇر&nbsp;&nbsp;كۆزنەككە ۋەكىللىك قىلىدىغان كۇنۇپكىنى بىر چەكسەكلا، ئەسلىدىكى&nbsp;&nbsp;كۆزنەكنىڭ ئورنىغا بىز تاللىغان كۆزنەك ئالمىشىدۇ.
+ئۇنىڭدىن باشقا، كۇنۇپكا تاختىسىنى ئىشلىتىپ كۆنۈپ قالغان ئابونىتلار&nbsp;&nbsp;كۇنۇپكا تاختىسىدىكى&nbsp;&nbsp;Tab+Alt كۇنۇپكىسى ئارقىلىق كۆزنەكنى&nbsp;&nbsp;ئالماشتۇرسىمۇ بولىدۇ.&nbsp;&nbsp;Alt بېسىپ تۇرۇپ Tab كۇنۇپكىسنى باسساق، كۆزنەكلەر تەرتىپ بويىچە ئۆزئارا ئالمىشىدۇ&nbsp;&nbsp;ئالماشتۇرماقچى بولغان كۆزنەك ئېكراندا كۆرۈنگەندىن كېيىن&nbsp;&nbsp;Alt كۇنۇپكىسنى قۇيۇپ بەرسەكلا بولىدۇ. 
+&nbsp;&nbsp;Tab+Alt كۇنۇپكىسىدىن پايدىلىنىپ&nbsp;&nbsp;كۆزنەكلەرنى ئالماشتۇرۇش&nbsp;&nbsp;ئىشلەتمەيدىغان&nbsp;&nbsp;كۆزنەكنى تاقىۋېتىش كېرەك، بۇنداق قىلغاندا، ئېكراندا ئىشلىتىلىۋاتقان&nbsp;&nbsp;كۆزنەكلەرگە قارىتا مەشغۇلات ئېلىپ بېرىش&nbsp;&nbsp;ئاسانلىشىدۇ ۋەئىچكى ساقلىغۇچ مەنبەسىنى ئىقتىساد قىلغىلى بولىدۇ. كۆزنەك تېما ئسىتونىنىڭ ئوڭ تەرىپىدىكى «تاقاش &lt;关闭 &gt;» كۇنۇپكىسنى بىر چەكسەك ياكى ھۆججەت تىزىملىكىدىكى&nbsp;&nbsp;تاقاش&nbsp;&nbsp;كوماندىسنى&nbsp;&nbsp;تاللىساق كۆزنەك تاقىلىدۇ.
+&nbsp;&nbsp;** سىستېما تىزىملىكىدىكى&nbsp;&nbsp;«تاقاش &lt;关闭 &gt;» كوماندىسى&nbsp;&nbsp;ياكى Alt+F4 كۇنۇپكىسى ئارقىلىقمۇ&nbsp;&nbsp;كۆزنەكنى&nbsp;&nbsp;تاقىغىلى بولىدۇ. </span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=428" title="ماتېرىيال مەنبەسى باشقۇرغۇچى"  target="_blank" class="tag_title_link">ماتېرىيال مەنبەسى ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=427" title="ماگېنىتلىق دىسكا قوزغاتقۇچ ۋە&nbsp;&nbsp;ھۆججەت"  target="_blank" class="tag_title_link">ماگېنىتلىق دىسكا ق...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=426" title="دىئالوگ رامكىسى"  target="_blank" class="tag_title_link">دىئالوگ رامكىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=425" title="ۋەزىپە ئىستونىنىڭ قوللىنىلىشى"  target="_blank" class="tag_title_link">ۋەزىپە ئىستونىنىڭ ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=424" title="WindowsXP دا كومپيۇتېردا نورمال ئۆچۈرگىلى بولماسلىق"  target="_blank" class="tag_title_link">WindowsXP دا كومپيۇتېرد...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=423" title="كۆزنەكلەرنى تىزىش"  target="_blank" class="tag_title_link">كۆزنەكلەرنى تىزىش</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=422" title="قاتتىق دىسكىدىكى ھۆججەتلارنى ئەسلىگە قايتۇررۇش"  target="_blank" class="tag_title_link">قاتتىق دىسكىدىكى ھ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=421" title="كۆزنەكنىڭ سىرتقى كۆرۈنۈشىنى ئۆزگەرتىش"  target="_blank" class="tag_title_link">كۆزنەكنىڭ سىرتقى ك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=420" title="باشلىنىش تىزىملىكى"  target="_blank" class="tag_title_link">باشلىنىش تىزىملىكى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=419" title="WindowsXP&nbsp;&nbsp;دىن چېكىنىپ چىقىش"  target="_blank" class="tag_title_link">WindowsXP  دىن چېكىنىپ چ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=418" title="WindowsXP نى  قوزغىتىش"  target="_blank" class="tag_title_link">WindowsXP نى  قوزغىتىش</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=417" title="Windowsنىڭ مەخپى نۇمۇرىنى ئۇنتۇپ..."  target="_blank" class="tag_title_link">Windowsنىڭ مەخپى نۇمۇر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=416" title="WindowsXP دېگەن نېمە؟"  target="_blank" class="tag_title_link">WindowsXP دېگەن نېمە؟</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=415" title="كومپيۇتېرنى توكقا ئۇلاش بىلەنلا ئۆزلۈكىدىن قوزغىلىشى"  target="_blank" class="tag_title_link">كومپيۇتېرنى توكقا ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=414" title="[ھۈنەر]ھەرقانداق ھۆججەتكە شىفىر بېكىتىش ئۇسۇلى"  target="_blank" class="tag_title_link">[ھۈنەر]ھەرقانداق ھۆ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=413" title="BIOS دەرىجىسىنى يۇقىرى كۆتۈرگىلى بولماسلىق."  target="_blank" class="tag_title_link">BIOS دەرىجىسىنى يۇقى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=412" title="BIOS نىڭ تەڭشىكى تۇرماسلىق"  target="_blank" class="tag_title_link">BIOS نىڭ تەڭشىكى تۇرم...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=411" title="مەشغۇلات سىستېمىسى قاچىلاش جەريانىدا قاچىلاش مەغلۇپ بولۇش"  target="_blank" class="tag_title_link">مەشغۇلات سىستېمىسى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=410" title="Windows نى قاچىلاش جەريانىدا..."  target="_blank" class="tag_title_link">Windows نى قاچىلاش جەر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=409" title="بىلىدىغانلار ياردەم قىلساڭلار!"  target="_blank" class="tag_title_link">بىلىدىغانلار ياردە...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/kompiyotir/search.php?catid=119&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=428" title="ماتېرىيال مەنبەسى باشقۇرغۇچى"  target="_blank" class="tag_title_link">ماتېرىيال مەنبەسى باشقۇ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=427" title="ماگېنىتلىق دىسكا قوزغاتقۇچ ۋە&nbsp;&nbsp;ھۆججەت"  target="_blank" class="tag_title_link">ماگېنىتلىق دىسكا قوزغات...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=426" title="دىئالوگ رامكىسى"  target="_blank" class="tag_title_link">دىئالوگ رامكىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=425" title="ۋەزىپە ئىستونىنىڭ قوللىنىلىشى"  target="_blank" class="tag_title_link">ۋەزىپە ئىستونىنىڭ قوللى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=424" title="WindowsXP دا كومپيۇتېردا نورمال ئۆچۈرگىلى بولماسلىق"  target="_blank" class="tag_title_link">WindowsXP دا كومپيۇتېردا نور...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=423" title="كۆزنەكلەرنى تىزىش"  target="_blank" class="tag_title_link">كۆزنەكلەرنى تىزىش</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=422" title="قاتتىق دىسكىدىكى ھۆججەتلارنى ئەسلىگە قايتۇررۇش"  target="_blank" class="tag_title_link">قاتتىق دىسكىدىكى ھۆججەت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=421" title="كۆزنەكنىڭ سىرتقى كۆرۈنۈشىنى ئۆزگەرتىش"  target="_blank" class="tag_title_link">كۆزنەكنىڭ سىرتقى كۆرۈنۈ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=420" title="باشلىنىش تىزىملىكى"  target="_blank" class="tag_title_link">باشلىنىش تىزىملىكى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=419" title="WindowsXP&nbsp;&nbsp;دىن چېكىنىپ چىقىش"  target="_blank" class="tag_title_link">WindowsXP  دىن چېكىنىپ چىقىش...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/kompiyotir/show_js.php?itemid=423"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

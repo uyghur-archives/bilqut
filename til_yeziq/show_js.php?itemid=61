@@ -1,0 +1,3 @@
+﻿try {setidval('hits','2312');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/til_yeziq/show.php?itemid=60">ﮬﻪﺳﺮﻩﺗﻠﯩﻚ ﺗﯩﻨﯩﻘﻼﺭ</a></li><li>  كىيىنكىسى  :  <a href="/til_yeziq/show.php?itemid=62">ﮬﺎﻳﺎﺕ ﮬﻪﻗﯩﻘﻪﺗﻠﯩﺮﻯ</a></li>');}catch(e){}

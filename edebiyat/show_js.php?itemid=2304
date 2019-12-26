@@ -1,0 +1,3 @@
+﻿try {setidval('hits','62');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/edebiyat/show.php?itemid=2303">دات باسقان تېغ</a></li><li>  كىيىنكىسى  :  <a href="/edebiyat/show.php?itemid=2305">ﺑﯜﮔﯜﻧﻜﻰ ﭘﺎﺭﺍﯓ</a></li>');}catch(e){}

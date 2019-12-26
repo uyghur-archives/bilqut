@@ -1,0 +1,3 @@
+﻿try {setidval('hits','615');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :    يوق</li><li>  كىيىنكىسى  :  <a href="/qanun/2008/1012/322.php">مۇشۇنداقمۇ بىلىمسىز يۈزسىز كىشلەرمۇ باركەن</a></li>');}catch(e){}

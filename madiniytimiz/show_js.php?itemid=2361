@@ -1,0 +1,3 @@
+﻿try {setidval('hits','769');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/madiniytimiz/show.php?itemid=2360">تىل - ئەدەبىيات دەرسلىكىدىكى تېكىستلەرنىڭ ئېستېتىك  قىممىتى ھەققىدە</a></li><li>  كىيىنكىسى  :  <a href="/madiniytimiz/show.php?itemid=2362">ئۇيغۇر تىلىدىكى تۇراقلىق سۆز بىرىكمىسى ۋە تۇراقسىز  سۆز بىرىكمىسىنى ئوقۇتۇش ھەققىدە</a></li>');}catch(e){}

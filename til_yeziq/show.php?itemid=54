@@ -1,0 +1,415 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>روس تىلى ئۆگىنىش (سالاملىشىش)-تىل - يېزىق-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,تىل - يېزىق">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/til_yeziq/" class="red"> تىل - يېزىق</a>
+         | <a class="razimantur" href="/til_yeziq/list.php?catid=36" >ئۇيغۇر تىلى</a>
+
+ | <a class="razimantur" href="/til_yeziq/list.php?catid=37" >خەنزۇ تىلى</a>
+
+ | <a class="razimantur" href="/til_yeziq/list.php?catid=38" >ئىنگلىز تىلى </a>
+
+ | <a class="razimantur" href="/til_yeziq/list.php?catid=39" >روس تىلى</a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/til_yeziq/">تىل - يېزىق</a> >> <a href="/til_yeziq/list.php?catid=39">روس تىلى</a> >>  روس تىلى ئۆگىنىش (سالاملىشىش)</div>
+<!--主标题--><h1>روس تىلى ئۆگىنىش (سالاملىشىش) </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2008-07-15 14:19:39&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">648</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">
+ Здравствуйте,Андрей Сергеевич!
+ تىنچلىقمۇ ،ئاندرېي سېرگېيۋىچ!
+ Добрый день,Илья Васильевич.!
+ خەيرلىك سەھەر ئىليا ۋاسىليېۋېچ !
+ Здравствуте, Нина!
+ نىنا ،ياخشىمۇ سىز !
+ Привет, Таня!
+ تىنچلىقمۇ، تانىيا!
+ Доброеутро,товарищдиректор!
+ خەيرلىك سەھەر ،يولداش مۇدىر
+ ПриветствуювасАндрей Борисович!
+ تىنچلىقمۇ ئاندرېي بورسوۋىچ
+ Сдобрымутром,Максим,пора вставать.
+ خەيرلىك سەھەر ماكسىم ،ئورنىڭدىن توردىغان ۋاقىت بولدى.
+ Сейчас.
+ مانا ،ھازىرلا تۇرىمەن.
+ Привет Саша!
+ تىنچلىقمۇ ،ساشا!
+ Приветик,&nbsp; Алёша!
+ تىنچلىقمۇ ئاليۇشا!
+ Здорова,ребята!
+ تىنچلىقمۇ ،بالىلار !
+ Здорова!
+ تىنچلىقمۇ!
+ Дорогиетоварищи,добро пожаловать!
+ خۇش كەپسىلەر ، قەدىرلىك يولداشلار !
+ Очень рады.
+ بىز بەك خۇشال بولدۇق .
+ Разрешите мне приветствовать васотименинашего университета.
+ ئىنستىتۇتىمىز نامىدىن سىلەرنى تەبرىكلىشىمگە روخسەت قىلىشىڭلارنى سورايمەن .
+ Спасибо.
+ رەھمەت .
+ Здравствуйте,Георгий Акимович!&nbsp; Как (вы)&nbsp; живёте?
+ تىنچلىقمۇ ،گېئورگىي ئاكىموۋىچ !ئوبدان تۇرۇۋاتامسىز ؟
+ Здравствуйте,Анна Васильевна. Спасибо,хороню.  А вы(как)?
+ تىنچلىقمۇ ،ئاننا ۋاسليېۋنا، رەھمەت ، ياخشى ، ئۆزىڭىزچۇ؟
+ Здравствуй,Анна! как (вдёт твоя)&nbsp; жизнь?
+ تىنچلىقمۇ ئاننا! ئوبدان تۇرۇۋاتامسىز ؟
+ Спасибо,неплохо,А как у тебя?
+ رەھمەت&nbsp; ، يامان ئەمەس ، ئۆزىڭىزچۇ؟
+ Добрый день,Оля!как (идут)&nbsp; твои дела?
+ ئوليا تىنچلىقمۇ ؟يېقىندىن بېرى قانداقراق تۇرۇۋاتىسىز ؟
+ Спасибо,какбудто,всёв порядке.
+ رەھمەت . ھەممە ئىش جايىدا .
+ Как дела?
+ يېقىندىن بېرى ئەھۋالىڭىز (خىزمىتىڭىز )قانداقراق ؟
+ Как вам сказать,&nbsp; так себе.
+ نېمە دىسەم بولار ،يامان ئەمەس .
+ Николай,приветствую!Ну,как дела?&nbsp; Как диссертация?
+ تىنچلىقمۇ نىكولاي !ئىشلار قانداقراق ؟ئىلمىي ماقالىڭىزنى يېزىپ بولىدىڭىزمۇ؟
+ Ой,неспрашивай!Доконцаещё далеко.
+ ۋاي سورىمايلا قويۇڭ، تېخى خېلى بار .
+ Как вы поживаете?
+ يېقىندىن بېرى ئەھۋالىڭىز قانداقراق ؟
+ Спасибо,не жалуюсь.
+ رەھمەت .يامان ئەمەس .
+ Я слышал,чтовы болели.Как (ваше) здоровье?
+ ئاڭلىسام مىجەزىڭىز يوق بولۇپ قاپتۇ ،ھازىر قانداقراق بولۇپ قالدىڭىز ؟
+ Спасибо, теперь всё хорошо.
+ رەھمەت .ھازىر خېلى ياخشى بولۇپ قالدىم .
+ Здравствуйте.Прохор Матвеевич!Каквысебя чувствуете?
+ تىنچلىقمۇ پروخور ماتۋيېۋىچ !ئوبدان تۇرۇۋاتامسىز ؟
+ Спасибо,нормально.
+ رەھمەت . يامان ئەمەس .
+ Здравствуйте!Как самочувствие,&nbsp;  Поправляетесь?
+ تىنچلىقمۇ ،ئەھۋالىڭىز قانداقراق ؟ساقىيىپ قالدىڭىزمۇ؟
+ Да,вроде ничего.
+ ھە، ياخشى بولۇپ قالغاندەك قىلىمەن .
+ ПётрИванович,приятная неожиданность. Здравствуйте!
+ تىنچلىقمۇ كۆرۈشكەنلىكىمدىن خۇشالمەن ،پيوتر ئىۋانوۋىچ!
+ Мария Сергеевна! ,Давно мы с вами не виделись,ну как живёте?
+ مارىيا سېرگيېۋنا!خېلىدىن بېرى سىز بىلەن كۆرۈشەلىمىدۇق ،ئوبدان&nbsp; تۇرۇۋاتامسىز ؟
+ Когоя вижу!&nbsp; Олег!&nbsp; Ты ли это? Как ты попал в наш край!
+ كىمنى كۆرۈۋاتىمەن !ئولېگ! بۇسەنمۇ ؟ سەن بۇ تەرەپلەرگە قانداق كېلىپ قالدىڭ ؟
+ Здравствуй,Надя!Целую вечность тебя не видел.
+ تىنچلىقمۇ .نادە !كۆرۈنمەيسەنغۇ؟
+ Какаявстреча!Скольколет,&nbsp; сколько зим!&nbsp; Здравствуй Нина!
+ سېنى ئۇچىرىتىپ قالارمەن دەپ ئويلاپمۇ باقمىغان!تىنچلىقمۇ نىنا!
+ Недумала,чтовстречутебя здесь. Как жизнь?
+ سېنى بۇ يەردە ئۇچىرتىمەن دەپ ئويلاپمۇ باقىمغان ئىكەنمەن ،قانداقراق تۇرىۋاتىسەن؟
+ Любаэтоты?Откуда?Какты оказалась здесь?
+ بۇ سەنمۇ ليوبا؟نەدىن سورايمىز ؟بۇ يەرگە قانداق بولۇپ كېلىپ قالدىڭ؟
+ Я приехала в командировку.
+ خىزمەت بىلەن كەلگەن .
+ НиколайВасильевич,&nbsp; здравтвуйте!&nbsp; Счаслив,что вижу вас в добром здравии
+ تىنچلىقمۇ نىكولاي ۋاسىليېۋىچ !سالامەت تۇرغانلىقىڭىزنى كۆرۈپ ئىنتايىن خۇشال بولدۇم.
+ Я тоже очень рад вас видеть,&nbsp;  Яков Герасимович.
+ مەنمۇ سىزنى كۆرگەنلىكىمدىن ئىنتايىن خۇشالمەن ياكوف گېراسىموۋىچ
+ ФилипАндреевич,ктобымог подумать,что встречувас здесь! Какими судьбами?
+ سىزنى بۇ يەردە ئۇچىرىتىپ قالارمەن دەپ ئويلىماپتىمەن ،قانداق شامال ئۇچۇرۇپ كەلدى ،فىلىپ ئاندرېيېۋىچ
+ Какясчастлив,чтовстретил вас, Иван Осипович!
+ نېمىدىگەن تەلەيلىك مەن ،سىزنى ئۇچراتتىم ،ئىۋان ئاسىپوۋىچ
+ Миша,здравствуй!Кого-кого,но тебя не ожидал встретить.
+ تىنچلىقمۇ مىشا!سېنى بۇ يەردە ئۇچرىتىپ قالارمەن دەپ ئويلاپمۇ باقىمغان ئىكەنمەن .
+ Я тоже.
+ مەنمۇ&nbsp; ھەم شۇنداق .
+ Лида,здравствуй!Тысячулет тебя не видел.
+ تىنچلىقمۇ لىدا!سېنى كۆرمىگىنمگە بەك ئۇزۇن بوپتىكەن .
+ Здравствуй.Андрей,ябылав командировке.
+ سالام ئاندرېي ،مەن خىزمەت بىلەن سىرتقا چىقىپ كەتكەن .
+ Какаянеожиданнаявстреча!&nbsp;  Мы не виделись целый век.
+ نېمىدىگەن تاسادىپى ئۇچىرشىش بۇ . بىز&nbsp; كۆرۈشمىگىلى ناھايىتى ئۇزۇن بوپتىكەن .
+ Да,послеокончания университетамыне встречались.
+ شۇنداق ،ئۇنىۋېرسىتېتىنى پۈتتۈرگەندىن كېيىن&nbsp; ،بىز ئۇچراشمىدۇق .
+ Андрей Иванович,&nbsp; никак это вы?!&nbsp; Сколько лет прошло,&nbsp; как мы не виделись.
+ ئاندرېي&nbsp; ئىۋانوۋىچ ،بۇ راستىنلا سىزمۇ ؟كۆرۈشمىگىنىمزگە قانچە يىللار بولدى-ھە!
+ АлександрСергеевич, здравствуйте!Неожидалвас встретить.
+ تىنچلىقمۇ ئالېكساندىر ،سېرگېيېۋىچ !كۆرۈەرمىز دەپ ئويلاپمۇ باقماپتىكەنمەن.
+ Когда мы виделись в последний раз? Год тому назад?
+ ئاخىرقى قېتىم بىز قاچان كۆرۈشكەن ئىدۇق ؟بىر يىل ئىلگىرىمۇ ؟
+ По-моему,мывиделисьна симпозиуме прошлой весной.
+ مېنىڭچە بىز ئۆتكەن يىل باھاردىكى ئىلىمىي مۇھاكىمە يىغىندا&nbsp; كۆرۈشكەندەك قىلىمىز .
+ Спасибо вамза встречу,заваше внимание.
+ بىزگە كۆڭۈل بۆلۈپ سەمىمىي كۈتۈۋالغىنىڭلارغا رەھمەت .
+ Слова и выражения
+ سۆز ۋە ئىبارىلەر
+ Привет
+ تىنچلىقمۇ (ياشلار ئارىسىدا ئىشلىتىلىدۇ).
+ Как здаровье?
+ سالامەتلىكىڭىز قانداقراق ؟
+ Как самочувствие?
+ ئۆزىڭىزنى قانداقراق&nbsp; ھېس قىلىۋاتىسىز ؟
+ Как (идут)&nbsp; дела?
+ ئىشلىرىڭىز قانداقراق كېتىۋاتىدۇ؟
+ Как (вы)жашёте?
+ قانداقراق تۇرۇۋاتىسىز ؟
+ Как (вы)поживаете?
+ ئوبدان تۇرۇۋاتامسىلەر (كۆپرەك چوڭلار&nbsp; ئارىسىدا ئىشلىتىلىدۇ).
+ Как жизнь?
+ ئوبدان تۇرۇۋاتامسىز؟
+ Здорово.
+ ئىنتايىن ياخشى (ياشلار ئارىسىدا ئىشلىتىلىدۇ).
+ Как секья?
+ ئۆيىڭىزدىكىلەر ياخشىمۇ؟
+ Как успехи?
+ قانداق ئۇتۇقلار بار ؟
+ Что нового? (Какие новости?)
+ قانداق خەۋەرلەر بار؟
+ Какаявстреча (вотэто встреча?)
+ ئويلىمىغان ئۇچرىشىش بولدى -ھە !
+ Какая неожиданная встреча!
+ نېمدېگەن كۈتۈلمىگەن ئۇچرىشىش -ھە !
+ Какая&nbsp; неожиданность!
+ ھېچ ئويلىمغان ئىدىم !
+ Какими судьбами?
+ قايسى شامال ئۇچۇرۇپ كەلدى ؟
+ Приветствую вас!
+ سىزنى تەبرىكلەيمەن .
+ Сколько лет,сколько зим!
+ كۆرۈشمىگىلى خېلى ئۇزۇن بولغان ئىدى .
+ Тысяча лет вас не вадел!
+ كۆرۈشمىگىنىمزگە خېلى يىللار بوپتىكەن .
+ Целую вечность&nbsp; (целый век)&nbsp; мы не виделись!
+ خېلىدىن بېرى كۆرۈشمىدۇق .
+ Кого-кого,&nbsp; но вас неожидал.
+ سىز ئىكەنلىكىڭىزنى ئويلىماپتىمەن .
+ Добро пожаловать!
+ خۇش كەپسىلەر !
+ Я не верю сваоим глазам.
+ كۆزۈمگە ئىشەنمەيلا قالدىم .
+ Вы изменились.&nbsp;  Ещё как!
+ بەكمۇ ئۆزگىرىپ كېتىپسىز !
+ Вы совсем не изменились!
+ سىز پەقەتلا ئۆزگەرمەپسىز .
+ Всё в порядке.
+ ھەممە ئىشلار جايىدا .
+ Ничего.
+ بوپقالىدۇ.
+ Жаловатьсянельзя.Немогу жаловаться,не жалуюсь)
+ يامان ئەمەس . (ھەممە ئىشلار كۆڭۈلدىكىدەك )
+ Ни хорошо,ни плохо.
+ ياخشىمۇ ئەمەس ، يامانمۇ ئەمەس .</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=57" title="جىددى ياردەم سورايمەن~روس تىلىدىن~"  target="_blank" class="tag_title_link">جىددى ياردەم سوراي...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=56" title="ياخشىمۇ سىز! ( Привег!)"  target="_blank" class="tag_title_link">ياخشىمۇ سىز! ( Приве...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=55" title="روس تىلىدىن دەسلەپكى ساۋات"  target="_blank" class="tag_title_link">روس تىلىدىن دەسلەپ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=54" title="روس تىلى ئۆگىنىش (سالاملىشىش)"  target="_blank" class="tag_title_link">روس تىلى ئۆگىنىش (س...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=53" title="رۇس تىلى ئۆگىنىش(تونۇشۇش، تىنچلىق سوراش)"  target="_blank" class="tag_title_link">رۇس تىلى ئۆگىنىش(تو...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/til_yeziq/search.php?catid=39&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=57" title="جىددى ياردەم سورايمەن~روس تىلىدىن~"  target="_blank" class="tag_title_link">جىددى ياردەم سورايمەن~ر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=56" title="ياخشىمۇ سىز! ( Привег!)"  target="_blank" class="tag_title_link">ياخشىمۇ سىز! ( Привег!)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=55" title="روس تىلىدىن دەسلەپكى ساۋات"  target="_blank" class="tag_title_link">روس تىلىدىن دەسلەپكى سا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=54" title="روس تىلى ئۆگىنىش (سالاملىشىش)"  target="_blank" class="tag_title_link">روس تىلى ئۆگىنىش (سالامل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=53" title="رۇس تىلى ئۆگىنىش(تونۇشۇش، تىنچلىق سوراش)"  target="_blank" class="tag_title_link">رۇس تىلى ئۆگىنىش(تونۇشۇ...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/til_yeziq/show_js.php?itemid=54"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

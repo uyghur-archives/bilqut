@@ -1,0 +1,354 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>فۇكاڭ شەھىرى-مەدەنىيىتىمىز-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,مەدەنىيىتىمىز">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/madiniytimiz/" class="red"> مەدەنىيىتىمىز</a>
+         | <a class="razimantur" href="/madiniytimiz/list.php?catid=71" >شەھەرلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=72" >ناھىيىلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=73" >ئوبلاستلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=74" >ۋىلايەتلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=75" >رېۋايەتلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=76" >تەمسىللىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=77" >ئۆلچەملىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=78" >چۆچەكلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=79" >سەنئەتكارىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=81" >تىل-يېزىقىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=82" >ئەپسانىلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=83" >مەسەللىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=84" >تائاملىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=85" >شەخسلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=86" >ئويۇنلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=88" > چالغۇلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=89" > ھۈنەرلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=90" > يوسۇنلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=91" > تارىخمىز  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/madiniytimiz/">مەدەنىيىتىمىز</a> >> <a href="/madiniytimiz/list.php?catid=71">شەھەرلىرىمىز </a> >>  فۇكاڭ شەھىرى</div>
+<!--主标题--><h1>فۇكاڭ شەھىرى </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2008-01-19 11:14:27&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">53</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<img src="/raziman_img/bash/reng/reng_1.gif" id="img1" style="cursor:hand;"  onclick="conhat(1)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_2.gif" id="img2" style="cursor:hand;"  onclick="conhat(2)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_3.gif" id="img3" style="cursor:hand;"  onclick="conhat(3)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_4.gif" id="img4" style="cursor:hand;"  onclick="conhat(4)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_5.gif" id="img5" style="cursor:hand;"  onclick="conhat(5)">&nbsp;&nbsp;                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut"> 
+&nbsp; 
+&nbsp; فۇكاڭ شەھىرى تەڭرىتاغنىڭ شەرقىي شىمالىي، جۇڭغار ئويمانلىقىنىڭ جەنۇبىغا جايلاشقان. شەرقتە جىمىسار ناھىيىسى، غەربتە مىچۇەن شەھىرى، جەنۇبتا ئۈرۈمچى ناھىيىسى، شىمالدا بورۇلتوقاي ناھىيىسى بىلەن تۇتىشىدۇ. جەنۇبتىن شىمالغىچە بولغان ئۇزۇنلۇقى 819 كىلومېتىر، شەرقتىن غەربكىچە بولغان كەڭلىكى 76 كىلومېتىر. ئومۇمىي يەر مەيدانى 8247.6&nbsp; كۋادرات كىلومېتىر. تەۋەسىدە ئۈچ بازار، ئۈچ يېزا، ئۈچ مەھەللە باشقارمىسى، 6 ئاھالە كومىتېتى، 22 كەنت ئاھالە كومىتېتى بار. يەنە ئىشلەپچىقىرىش - قۇرۇلۇش بىڭتۇەنىگە بىۋاسىتە قاراشلىق 222 - تۇەن - مەيدانى ۋە يېزا ئىگىلىك 6 - شىسىنىڭ ئىككى تۇەن - مەيدانى بار. ئۈرۈمچى شەھىرىگە 62 كىلومېتىر كېلىدۇ. 1995 - يىلىنىڭ ئاخىرىدكى ئومۇمىي نوپۇسى 141 مىڭ 200، بۇنىڭ ئىچىدە خۇيزۇلار% 11.4، ئۇيغۇرلار% 5.61 نى، خەنزۇلار 74.02% نى، باشقا مىللەتلەر% 8.90 نى ئىگىلەيدۇ.
+&nbsp; فۇكاڭ خەن سۇلالىسى دەۋرىدە ئارقا قاڭقىلغا تەۋە بولغان. تاڭ سۇلالىسى دەېرىدە بېشبالىق ئايمىقىغا قاراشلىق تېنگىر ناھىيىسىنىڭ باشقۇرۇشىدا بولغان. چەنلوڭنىڭ 41 - يىلى (1776) ناھىيە قۇرۇلۇپ، ئۈرۈمچى ئايمىقىنىڭ باشقۇرۇشىدا بولغان. گۇاڭشۈينىڭ 10 - يىلى (1884) ئۈرۈمچى مەھكىمىسىنىڭ باشقۇرۇشىدا بولغان. مىنگو دەۋرىدە ئۈرۈمچى ۋىلايىتىگە قارىغان. جۇڭخۇا خەلق جۇمھۇرىيىتى قۇرۇلغاندىن كېيىن ئۈرۈمچى ۋىلايىتىگە قارىغان، 1958 - يىلى سانجى خۇيزۇ ئاپتونوم ئوبلاستىغا ئۆتكۈزۈپ بېرىلگەن. 1992 - يىلى ناھىيە ئەمەلدىن قالدۇرۇلۇپ شەھەر قۇرۇلغان.
+&nbsp; يەر تۈزۈلۈشى: جەنۇبى ئېگىز، شىمالى پەس، جەنۇبىي قىسمىدا ئېگىز تاغلار قەد كۆتۈرۈپ تۇرىدۇ، شىمالىي قىسمى بولسا كەڭ كەتكەن چۆللۈك. بۇنىڭ ئىچىدە تاغلىق% 15.5، تۈزلەڭلىك% 19.3، قۇملۇق، چۆللۈك% 65.2 نى ئىگىلەيدۇ. جەنۇبىي قىسمىدىكى تاغلىق رايونلاردا 54 مۇزلۇق بار، دەريالاردىن شۈيمۇ دەرياسى، سەنگۇڭ دەرياسى، سىگۇڭ دەرياسى، گەنجېزى دەرياسى، بەيياڭ دەرياسى، شىگو دەرياسى، خۇاڭشەن دەرياسى قاتارلىقلار بار. يەر ئۈستى سۇ بايلىقى 334 مىليون كۇب مېتىر، تۈزلەڭلىكتىكى يەر ئاستى سۈيىدىن پايدىلىنىش مىقدارى 718 مىليون كۇب مېتىر. ياۋايى ھايۋان بايلىقىدىن يىلپىز، بۇلغۇن، سۈلەيسۈن، قارا تايغان بۇغا، ئاق بوغۇز بۆكەن، ئۇلار قاتارلىقلار بار. ياۋ دورا ئۆسۈملۈك بايلىقىدىن قار لەيلىسى، سوغىگۈل، كىرەش، قان تېپەر، پەربۇن، چۈچۈك بۇيا، چىڭ قاتارلىقلار بار. بايقالغان قېزىلما بايلىقلاردىن كۆمۈر، نېفىت، تەبىئىي گاز، ھاك، تۆمۈر فوسفور، شور قاتارلىقلار بار.
+&nbsp; فۇكاڭ شەھىرى مۆتىدىل بەلۋاغ قۇرغاق كىلىمات رايونىغا كىرىدۇ. يىللىق ئوتتۇرىچە تېمپېراتۇرىسى℃ 6.6، يىللىق ئوتتۇرىچە كۈن چۈشۈش ۋاقتى 2933 سائەت، قىروسىز مەزگىلى 174 كۈن. يىللىق ئوتتۇرىچە ھۆل - يېغىن مىقدارى 187.5 مىللىمېتىر. يىللىق پارغا ئايلىنىش مىقدارى 2064.1 مىللىمېتىر.
+&nbsp; مەزكۇر شەھەرنىڭ دېھقانچىلىق، چارۋىچىلىقى بىر قەدەر تەرەققىي قىلغان. ھازىر بار تېرىلغۇ يېرى 19 مىڭ 400 گېكتار (291 مىڭ مو)، ئورمان 49 مىڭ 500 گېكتار (742 مىڭ 500 مو)، ئوتلارق 183 مىڭ گېكتار (1 مىليون 624 مىڭ 500 مو). يەنە دېھقانچىلىق قىلغىلى بولىدىغان 133 مىڭ گېكتار بوز يەر (1 مىليون 55O مىڭ مو)، ئورمان قىلغىلى بولىدىغان 151 مىڭ 300 گېكتار بوز يەر (2 مىليون 270 مىڭ&nbsp; مو) بار. دېھقانچىلىق مەھسۇلاتلىرىدىن بۇغداي، كۆممىقۇناق، شال، كېۋەز، قىزىلچا، مايلىقدان، مېۋە - چېۋە، كۆكتات قاتارلىقلار بار. چارۋىلاردىن قوي، ئات، كالا ئاساس قىلىنىدۇ. چارۋىچىلارنىڭ ھەممىسى ئولتۇراقلاشقان. سانائىتىدىن كۆمۈرچىلىك، خىمىيە سانائىتى، ئېلېكتر قۇۋۋىتى، بىناكارلىق ماتېرىياللىرى، قۇيمىچىلىق، ئاشلىق - ماي پىششىقلاپ ئىشلەش قاتارلىقلار بار.
+&nbsp; فۇكاڭ شەھىرىنىڭ ئۇل مۇئەسسەسەلىرى ئۈزلۈكسىز ياخشىلانماقتا. 216 دۆلەت يولى شەھەرنى كېسىپ ئۆتىدۇ. ياسىلىۋاتقان تۇرپان - ئۈرۈمچى - داخۇاڭشەن يۇقىرى دەرىجىلىك تاشيولى مەزكۇر شەھەردىن ئۆتىدۇ. ئۈرۈمچى - گەنخېزى تۆمۈر يولى مەزكۇر شەھەرنىڭ گەنخېرزى بازىرىدىن باشلىنىدۇ. شەھەر - يېزا تاشيولى تەرەپ - تەرەپكە تۇتىشىدۇ. تېلگراف - خەۋەرلىشىش ۋە سانلىق مىكرو دولقۇن ۋە نۇر كابېل ئارقىلىق يەتكۈزۈش ئىشقا ئاشۇرۇلدى. 10 مىڭ پروگراممىلىق تېلېفون پۈتۈن مەملىكەت بىلەن تورلاشتۇرۇلدى.
+&nbsp; مەدەنىي يادىكارلىقلىرىدىن تاڭ سۇلالىسى دەۋرىدىكى جۇلو قۇرۇل شەھەر خارابىسى ۋە يېلى قۇرۇل شەھەر خارابىسى بار. مەنزىرىلىك جايلىرىدىن مەشھۇر بۇغدا كۆلى ۋە بۇغدا چوققىسى بار.</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=30" title="ئىسىت دىھقانلىرىم. ھالىڭغا ۋاي!"  target="_blank" class="tag_title_link">ئىسىت دىھقانلىرىم. ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=29" title="خوتەن شەھىرى"  target="_blank" class="tag_title_link">خوتەن شەھىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=28" title="ئۈرۈمچى شەھىرى"  target="_blank" class="tag_title_link">ئۈرۈمچى شەھىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=27" title="قەشقەر شەھىرى"  target="_blank" class="tag_title_link">قەشقەر شەھىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=26" title="كورلا شەھىرى"  target="_blank" class="tag_title_link">كورلا شەھىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=25" title="ئاتۇش شەھىرى"  target="_blank" class="tag_title_link">ئاتۇش شەھىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=24" title="بورتالا شەھىرى"  target="_blank" class="tag_title_link">بورتالا شەھىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=23" title="ئالتاي شەھىرى"  target="_blank" class="tag_title_link">ئالتاي شەھىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=22" title="ئاقسۇ شەھىرى"  target="_blank" class="tag_title_link">ئاقسۇ شەھىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=21" title="تۇرپان شەھىرى"  target="_blank" class="tag_title_link">تۇرپان شەھىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=20" title="قۇمۇل شەھىرى"  target="_blank" class="tag_title_link">قۇمۇل شەھىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=19" title="غۇلجا شەھىرى"  target="_blank" class="tag_title_link">غۇلجا شەھىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=18" title="شىخۇ شەھىرى"  target="_blank" class="tag_title_link">شىخۇ شەھىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=17" title="چۆچەك شەھىرى"  target="_blank" class="tag_title_link">چۆچەك شەھىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=16" title="مىچۇەن شەھىرى"  target="_blank" class="tag_title_link">مىچۇەن شەھىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=15" title="كۈيتۈن شەھىرى"  target="_blank" class="tag_title_link">كۈيتۈن شەھىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=14" title="فۇكاڭ شەھىرى"  target="_blank" class="tag_title_link">فۇكاڭ شەھىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=13" title="قاراماي شەھىرى"  target="_blank" class="tag_title_link">قاراماي شەھىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=12" title="شىخەنزە شەھىرى"  target="_blank" class="tag_title_link">شىخەنزە شەھىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=11" title="سانجى شەھىرى"  target="_blank" class="tag_title_link">سانجى شەھىرى</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/madiniytimiz/search.php?catid=71&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=30" title="ئىسىت دىھقانلىرىم. ھالىڭغا ۋاي!"  target="_blank" class="tag_title_link">ئىسىت دىھقانلىرىم. ھالى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=29" title="خوتەن شەھىرى"  target="_blank" class="tag_title_link">خوتەن شەھىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=28" title="ئۈرۈمچى شەھىرى"  target="_blank" class="tag_title_link">ئۈرۈمچى شەھىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=27" title="قەشقەر شەھىرى"  target="_blank" class="tag_title_link">قەشقەر شەھىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=26" title="كورلا شەھىرى"  target="_blank" class="tag_title_link">كورلا شەھىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=25" title="ئاتۇش شەھىرى"  target="_blank" class="tag_title_link">ئاتۇش شەھىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=24" title="بورتالا شەھىرى"  target="_blank" class="tag_title_link">بورتالا شەھىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=23" title="ئالتاي شەھىرى"  target="_blank" class="tag_title_link">ئالتاي شەھىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=22" title="ئاقسۇ شەھىرى"  target="_blank" class="tag_title_link">ئاقسۇ شەھىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=21" title="تۇرپان شەھىرى"  target="_blank" class="tag_title_link">تۇرپان شەھىرى</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/madiniytimiz/show_js.php?itemid=14"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

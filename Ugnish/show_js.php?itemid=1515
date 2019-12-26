@@ -1,0 +1,3 @@
+﻿try {setidval('hits','421');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/Ugnish/show.php?itemid=1514">تام رەسىمى(رەسساملىق)</a></li><li>  كىيىنكىسى  :  <a href="/Ugnish/show.php?itemid=1516">مەڭگۇ قىزىل گۇلدەك خۇش پۇراق چاچقۇسى</a></li>');}catch(e){}

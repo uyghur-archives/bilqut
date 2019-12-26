@@ -1,0 +1,669 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>مېھمان بولۇش zuò kè 作客-تىل - يېزىق-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,تىل - يېزىق">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/til_yeziq/" class="red"> تىل - يېزىق</a>
+         | <a class="razimantur" href="/til_yeziq/list.php?catid=36" >ئۇيغۇر تىلى</a>
+
+ | <a class="razimantur" href="/til_yeziq/list.php?catid=37" >خەنزۇ تىلى</a>
+
+ | <a class="razimantur" href="/til_yeziq/list.php?catid=38" >ئىنگلىز تىلى </a>
+
+ | <a class="razimantur" href="/til_yeziq/list.php?catid=39" >روس تىلى</a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/til_yeziq/">تىل - يېزىق</a> >> <a href="/til_yeziq/list.php?catid=37">خەنزۇ تىلى</a> >>  مېھمان بولۇش zuò kè 作客</div>
+<!--主标题--><h1>مېھمان بولۇش zuò kè 作客 </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2008-12-25 16:16:55&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">326</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">今天晚上您有空吗? (明天您有空吗? 、后天您有空吗? 、现在您有空吗?有空吗?
+jīn tiān wǎn shang nín yǒu kōng ma ? (míng tiān nín yǒu kōng ma ? 、hòu tiān nín yǒu kōng ma ? 、xīng qī liù nín yǒu kōng ma ? 、xiàn zài nín yǒu kōng ma ? )nín yǒu kōng ma ?
+بۈگۈن كەچتە (ئەتە، ئۆگۈن، شەنبە، ھازىر) ۋاقتىڭىز بارمۇ؟
+
+是的，我(他、我们、他们)有空。
+shì de ，wǒ (tā 、wǒ men 、tā men )yǒu kōng 。
+شۇنداق، مېنىڭ ۋاقتىم بار.(شۇنداق ئۇنىڭ ۋاقتى بار.، شۇنداق ئۇلارنىڭ ۋاقتى بار.،شۇنداق بىزنىڭ ۋاقتىمىز) بار.
+
+不，我没有空。
+bú ，wǒ méi yǒu kōng 。
+ياق، ۋاقتىم يوق.
+
+我现在有事。
+wǒ xiàn zài yǒu shì 。
+ھازىر ئىشىم بار.
+
+我现在没有时间。
+wǒ xiàn zài méi yǒu shí jiān 。
+ھازىر ۋاقتىم يوق.
+
+我没空。
+wǒ méi kōng 。
+ۋاقتىم يوق.
+
+我想请您星期六去我家作客。
+wǒ xiǎng qǐng nín xīng qī liù qù wǒ jiā zuò kè 。
+سىزنى شەنبە كۈنى ئۆيۈمگە مېھمانغا چاقىرماقچى ئىدىم.
+
+我想请您到我家作客。
+wǒ xiǎng qǐng nín dào wǒ jiā zuò kè 。
+سىزنى ئۆيۈمگە مېھمانغا چاقىرماقچى ئىدىم.
+
+请允许我邀请您去我家做客。
+qǐng yǔn xǔ wǒ yāo qǐng nín qù wǒ jiā zuò kè 。
+سىزنى ئۆيۈمگە چاقىرۋالايمىكىن.
+
+我想请您到我家去吃晚饭。
+wǒ xiǎng qǐng nín dào wǒ jiā qù chī wǎn fàn 。
+سىزنى ئۆيۈمگە كەچلىك تاماققا چاقىرماقچى ئىدىم.
+
+我想请您去作客，您能否光临?
+wǒ xiǎng qǐng nín qù zuò kè ，nín néng fǒu guāng lín ?
+سىزنى مېھمانغا چاقىرماقچى ئىدىم، كېلەلەمسىزكىن؟
+
+明天您能到我们家去作客吗?
+míng tiān nín néng dào wǒ men jiā qù zuò kè ma ?
+ئەتە بىزنىڭ ئۆيگە مېھمانغا بارالامسىز؟
+
+请来吧，我们恳求您了。
+qǐng lái ba ，wǒ men kěn qiú nín le 。
+ئۆتۈنۈپ قالايلى، چوقۇم كېلىڭ جۇمۇ.
+
+请到我家去作客。
+qǐng dào wǒ jiā qù zuò kè 。
+ئۆيۈمگە بېرىپ مېھمان بولۇپ كېتىڭ.
+
+很乐意。
+hěn lè yì 。
+خالايمەن (بارىمەن).
+
+很高兴。
+hěn gāo xìng 。
+ئىنتايىن خۇشالمەن.
+
+很乐意接受您的邀请。
+hěn lè yì jiē shòu nín de yāo qǐng 。
+تەكلىپىڭىزنى خۇشاللىق بىلەن قوبۇل قىلىمەن.
+
+谢谢您的邀请。只是不知道能不能去。
+xiè xiè nín de yāo qǐng 。zhī shì bú zhī dào néng bú néng qù 。
+تەكلىپىڭىزگە رەھمەت، بارالامدىم، يوق بىلمەيمەن.
+
+那么，好吧，我争取去。
+nà me ，hǎo ba ，wǒ zhēng qǔ qù 。
+بولىدۇ، ئامال قىلىپ باراي.
+
+遗憾，我不能参加您家的喜庆日。
+yí hàn ，wǒ bú néng cān jiā nín jiā de xǐ qìng rì 。
+ئەپسۇس، ئائىلەڭلارنىڭ قۇتلۇق كۈنىگە قاتنىشالمايدىغان بولدۇم.
+
+对不起，我工作太忙，实在抽不出时间。
+duì bu qǐ ，wǒ gōng zuò tài máng ，shí zài chōu bù chū shí jiān 。
+كەچۈرۈڭ، مەن بەك ئالدىراش، ۋاقتىم يوق.
+
+对不起，我要出差，去不了。
+duì bu qǐ ，wǒ yào chū chà ，qù bù liǎo 。
+كەچۈرۈڭ، مەن كاماندىروپكىغا چىقىدىغان بولۇپ قالدىم، بارالمىغۇدەكمەن.
+
+客人啥时候到?
+kè rén shá shí hòu dào ?
+مېھمانلار قاچان كېلىدۇ؟
+
+客人们8点到。
+kè rén men 8diǎn dào 。
+مېھمانلار سائەت سەككىزدە كېلىدۇ.
+
+有人敲门。
+yǒu rén qiāo mén 。
+ئىشىكنى بىرسى چېكىۋاتىدۇ.
+
+您找谁?
+nín zhǎo shuí ?
+كىمنى ئىزدەيسىز؟
+
+我找艾山先生。
+wǒ zhǎo ài shān xiān shēng 。
+ ئەپەندىنى ئىزدەيمەن.
+
+我找迪里夏提先生。
+wǒ zhǎo dí lǐ xià tí xiān shēng 。
+دىلشات ئەپەندىنى ئىزدەيمەن.
+
+请进！
+qǐng jìn ！
+كىرىڭ!
+
+请把大衣脱了!
+qǐng bǎ dà yī tuō le !
+پەلتويىڭىزنى سېلىۋېتىڭ.
+
+这儿有拖鞋。
+zhè er yǒu tuō xié 。
+ساپما كەش بۇ يەردە.
+
+您来了，我很高兴。
+nín lái le ，wǒ hěn gāo xìng 。
+كېلىڭ، كەلگىنىڭىز ئۈچۈن ئىنتايىن خۇشالمەن.
+
+您来了，太好了。
+nín lái le ，tài hǎo le 。
+كەلگىنىڭىز بەك ياخشى بولدى.
+
+您总算来了！
+nín zǒng suàn lái le ！
+سىز ئاخىر كەلدىڭىز.
+
+您可来了。
+nín kě lái le 。
+ئاخىر كەلدىڭىز.
+
+瞧，我们来了。
+qiáo ，wǒ men lái le 。
+قاراڭ، بىز كەلدۇق.
+
+我没让您久等吧?
+wǒ méi ràng nín jiǔ děng ba ?
+سىزنى ساقلىتىپ قويمىغاندىمىز؟
+
+我没有来迟吧?
+wǒ méi yǒu lái chí ba ?
+كېچىكىپ قالمىغاندىمەن؟
+
+请原谅，我们来迟了一点。
+qǐng yuán liàng ，wǒ men lái chí le yī diǎn 。
+كەچۈرۈڭ، ئازراق كېچىكىپ قالدق.
+
+请原谅，我们迟到了。
+qǐng yuán liàng ，wǒ men chí dào le 。
+كەچۈرۈڭ، كېچىكىپ قالدۇق.
+
+请坐，请坐!
+qǐng zuò ，qǐng zuò !
+ئولتۇرۇڭ، ئولتۇرۇڭ!
+
+您要喝茶(咖啡，饮料)还是喝白开水?
+nín yào hē chá (kā fēi ，yǐn liào )hái shì hē bái kāi shuǐ ?
+چاي (قەھۋە، سوغۇق ئىچىملىك) ئىچەمسىز، قايناقسۇمۇ؟
+
+您抽烟吗?
+nín chōu yān ma ?
+تاماكا چېكەمسىز؟
+
+请吃糖。
+qǐng chī táng 。
+كەمپۈت يەڭ.
+
+请入席。
+qǐng rù xí 。
+قېنى ئولتۇرۇڭ.
+
+请坐下与我们共进午餐。
+qǐng zuò xià yǔ wǒ men gòng jìn wǔ cān 。
+بىز بىلەن بىللە چۈشلۈك تاماق يەڭ.
+
+您想吃什么就吃什么吧。
+nín xiǎng chī shén me jiù chī shén me ba 。
+نېمىنى كۆڭلىڭىز تارتسا شۇنى يەڭ.
+
+我刚吃过午饭。
+wǒ gāng chī guò wǔ fàn 。
+مەن بايىلا چۈشلۈك تاماق يېگەنىدىم.
+
+我在家饱饱地吃了一顿。
+wǒ zài jiā bǎo bǎo dì chī le yī dùn 。
+ئۆيدە تويغۇچە يەۋاپتىمەن.
+
+别客气!
+bié kè qi !
+تارتىنماڭ!
+
+就像是在自己家一样！
+jiù xiàng shì zài zì jǐ jiā yí yàng ！
+ئۆز ئۆيىڭىزدەك بىلىڭ.
+
+您随便一点。
+nín suí biàn yì diǎn 。
+ئازادە ئولتۇرۇڭ.
+
+您太客气了，
+nín tài kè qi le ，
+سىز بەكلا تۈزۈت قىلىدىكەنسىز.
+
+不用麻烦了，
+bú yòng má fan le ，
+ئاۋارە بولماڭ.
+
+小心，饭很热，别烫着。
+xiǎo xīn ，fàn hěn rè ，bié tàng zhe 。
+تاماق بەك قىزىق، كۆيدۈرۈۋالماڭ.
+
+咱们干杯吧!
+zán men gān bēi ba !
+قېنى، قەدەھ كۆتۈرەيلى.
+
+我去热一热。
+wǒ qù rè yī rè 。
+مەن ئىسسىتىپ كېلەي.
+
+她是按这个菜谱做了这些菜。
+tā shì àn zhè ge cài pǔ zuò le zhè xiē cài 。
+ئۇ بۇ قورۇما قورۇش قوللانمىسى بويىچە ماۋۇ قورۇمىلارنى قورۇغان.
+
+您真是个烹调能手。
+nín zhēn shì gè pēng tiáo néng shǒu 。
+سىز ھەقىقەتەن تاماققا ئۇستا ئىكەنسىز.
+
+我吃饱了。
+wǒ chī bǎo le 。
+مەن تويدۇم.
+
+我不能再吃了，
+wǒ bù néng zài chī le ，
+ئەمدى يېگۈچىلىكىم قالمىدى.
+
+我不能再喝了，不然的话要醉了，回不了家了。
+wǒ bù néng zài hē le ，bú rán de huà yào zuì le ，huí bù liǎo jiā le 。
+ئىچەلمەيمەن، يەنە ئىچسەم مەست بولۇپ قېلىپ ئۆيۈمگە كېتەلمەي قالىمەن.
+
+在我们这里呆一天吧!
+zài wǒ men zhè lǐ dāi yì tiān ba !
+بىزنىڭ ئۆيدە بىر كۈن تۇرۇڭ.
+
+留在我们这里过夜吧。
+liú zài wǒ men zhè lǐ guò yè ba 。
+بىزنىڭ ئۆيدە قونۇپ قېلىڭ.
+
+我有点事，对不起我得先走了。
+wǒ yǒu diǎn shì ，duì bú qǐ wǒ dé xiān zǒu le 。
+كەچۈرۈڭلار، مېنىڭ بىرئاز ئىشىم بار ئىدى، مېڭىپ تۇراي.
+
+请允许我告辞吧。
+qǐng yǔn xǔ wǒ gào cí ba 。
+رۇخسەت قىلساڭلار مەن قايتىۋالسام.
+
+我想我们该走了，要不回家就有点迟了。
+wǒ xiǎng wǒ men gāi zǒu le ，yào bú huí jiā jiù yǒu diǎn chí le 。
+ئەمدى قايتساقمىكىن، ئۆيگە كەچ قالمايلى يەنە.
+
+我们坐得太久了。
+wǒ men zuò dé tài jiǔ le 。
+ۋوي بەك كەچ بولۇپ كېتىپتىغۇ.
+
+时间过得很快，已经很晚了。
+shí jiān guò dé hěn kuài ，yǐ jīng hěn wǎn le 。
+ۋاقىت بەك تېز ئۆتىدىكەن، خېلى كەچ بولۇپ كېتىپتۇ.
+
+哎呀，我们说得太晚了。
+āi yā ，wǒ men shuō dé tài wǎn le 。
+ۋاي، بەك كەچ بولۇپ كېتىپتۇ.
+
+再坐一会儿，还早着呢。
+zài zuò yì huì er ，hái zǎo zhe ne 。
+يەنە بىرئاز ئولتۇرۇڭلار، تېخى بالدۇر.
+
+再坐一会儿吧。
+zài zuò yì huì er ba 。
+يەنە بىرئاز ئولتۇرۇڭلار.
+
+谢谢您的招待。
+xiè xiè nín de zhāo dài 。
+بەك جۇۋاپسىز.
+
+谢谢您的盛情款待。
+xiè xiè nín de shèng qíng kuǎn dài 。
+داستىرخانىڭىزغا بەرىكەت بەرسۇن.
+
+谢谢您的款待。
+xiè xiè nín de kuǎn dài 。
+بەك مېھماندوست ئىكەنسىز، سىزگە كۆپ رەھمەت.
+
+不用谢。
+bú yòng xiè 。
+ئەرزىمەيدۇ.
+
+对不起，耽误了您这么多时间。
+duì bu qǐ ，dān wù le nín zhè me duō shí jiān 。
+كەچۈرۈڭ، سىزنىڭ كۆپ ۋاقتىڭىزنى ئالدىم.
+
+瞧您说哪儿去了。
+qiáo nín shuō nǎ er qù le 。
+ئۇنچىلىك دېمىسىڭىزمۇ بولىدۇ.
+
+谢谢您来看我。
+xiè xiè nín lái kàn wǒ 。
+يوقلاپ كەلگىنىڭىزگە رەھمەت.
+
+谢谢您来看望我，
+xiè xiè nín lái kàn wàng wǒ ，
+يوقلاپ كەلگىنىڭىزگە رەھمەت.
+
+请代我向您夫人问好。
+qǐng dài wǒ xiàng nín fū rén wèn hǎo 。
+مەندىن يولدىشىڭىزغا سالام ئېيتىڭ.
+
+请向您的父母转达我的问候。
+qǐng xiàng nín de fù mǔ zhuǎn dá wǒ de wèn hòu 。
+ئاتا - ئانىڭىزغا سالىمىمنى يەتكۈزۈپ قويۇڭ.
+
+那么我就不留您了。
+nà me wǒ jiù bú liú nín le 。
+ئۇنداق بولسا سىزنى تۇتۇۋالمىدىم.
+
+请慢走。
+qǐng màn zǒu 。
+ئاۋايلاپ مېڭىڭ.
+
+请走好。
+qǐng zǒu hǎo 。
+خەير، ئامان بولۇڭ.
+
+再见!
+zài jiàn !
+خەير!
+
+一切如意!
+yí qiè rú yì !
+ئىشلىرىڭىز كۆڭۈلدىكىدەك بولسۇن!
+
+晚安!
+wǎn ān !
+خەيرلىك كەچ!
+
+请保重！
+qǐng bǎo zhòng ！
+ئۆزىڭىزنى ئاسراڭ!
+
+祝您幸福！
+zhù nín xìng fú ！
+سىزگە بەخت تىلەيمەن!</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=27" title="پويىزدا خەنزۇچە سۆزلىشىش"  target="_blank" class="tag_title_link">پويىزدا خەنزۇچە سۆ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=26" title="بېلەت سېتىش ئورنىدا (خەنزۇچە ئۆگىنىش)"  target="_blank" class="tag_title_link">بېلەت سېتىش ئورنىد...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=25" title="خەنزۇ تىلىدىكى&nbsp;&nbsp;&lt;再&gt;,&lt;还&gt; ئىشلىتىلىشى توغرىسىدا"  target="_blank" class="tag_title_link">خەنزۇ تىلىدىكى  &lt;再&gt;,&lt;...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=24" title="قاتناش"  target="_blank" class="tag_title_link">قاتناش</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=23" title="2009–يىللىق HSK ئىمتىھانى ئورۇنلاشتۇرۇلىشى"  target="_blank" class="tag_title_link">2009–يىللىق HSK ئىمتىھ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=22" title="*&amp;ئىشەنسىڭىز دەرھال كۆرۈڭ!(مەندىن خوش بوپ قالىسىز!!)&amp;*"  target="_blank" class="tag_title_link">*&amp;ئىشەنسىڭىز دەرھال...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=21" title="كومپىيوتېر   لۇغىتى 电脑  词汇"  target="_blank" class="tag_title_link">كومپىيوتېر   لۇغىت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=20" title="مېھمان بولۇش zuò kè 作客"  target="_blank" class="tag_title_link">مېھمان بولۇش zuò kè 作...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=19" title="运动,yùn dòng,تەنتەربىيە,"  target="_blank" class="tag_title_link">运动,yùn dòng,تەنتەربىي...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=18" title="خەنزۇچە سۆزلىشىش (كۇتۇپخانىدا)"  target="_blank" class="tag_title_link">خەنزۇچە سۆزلىشىش (ك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=17" title="[خەنزۇتىلى]مەكتەپ"  target="_blank" class="tag_title_link">[خەنزۇتىلى]مەكتەپ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=16" title="[خەنزۇتىلى]قاتناش قورالى"  target="_blank" class="tag_title_link">[خەنزۇتىلى]قاتناش ق...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=15" title="خەنزۇچە ئۆگىنىش (مېھمان بولۇش)"  target="_blank" class="tag_title_link">خەنزۇچە ئۆگىنىش (مې...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=14" title="可以用“您们”吗"  target="_blank" class="tag_title_link">可以用“您们”吗</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=13" title="خەنزۇچە سۆزلىشىش&nbsp; ( ئائىلە)"  target="_blank" class="tag_title_link">خەنزۇچە سۆزلىشىش  ( ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=12" title="خەنزۇچە (ئائىلە)"  target="_blank" class="tag_title_link">خەنزۇچە (ئائىلە)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=11" title="خەنزۇچە ئۆگىنىش (ئۇچرىشىش، تونۇشۇش)"  target="_blank" class="tag_title_link">خەنزۇچە ئۆگىنىش (ئۇ...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/til_yeziq/search.php?catid=37&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=27" title="پويىزدا خەنزۇچە سۆزلىشىش"  target="_blank" class="tag_title_link">پويىزدا خەنزۇچە سۆزلىشى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=26" title="بېلەت سېتىش ئورنىدا (خەنزۇچە ئۆگىنىش)"  target="_blank" class="tag_title_link">بېلەت سېتىش ئورنىدا (خەن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=25" title="خەنزۇ تىلىدىكى&nbsp;&nbsp;&lt;再&gt;,&lt;还&gt; ئىشلىتىلىشى توغرىسىدا"  target="_blank" class="tag_title_link">خەنزۇ تىلىدىكى  &lt;再&gt;,&lt;还&gt; ئى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=24" title="قاتناش"  target="_blank" class="tag_title_link">قاتناش</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=23" title="2009–يىللىق HSK ئىمتىھانى ئورۇنلاشتۇرۇلىشى"  target="_blank" class="tag_title_link">2009–يىللىق HSK ئىمتىھانى ئ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=22" title="*&amp;ئىشەنسىڭىز دەرھال كۆرۈڭ!(مەندىن خوش بوپ قالىسىز!!)&amp;*"  target="_blank" class="tag_title_link">*&amp;ئىشەنسىڭىز دەرھال كۆرۈ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=21" title="كومپىيوتېر   لۇغىتى 电脑  词汇"  target="_blank" class="tag_title_link">كومپىيوتېر   لۇغىتى 电脑 ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=20" title="مېھمان بولۇش zuò kè 作客"  target="_blank" class="tag_title_link">مېھمان بولۇش zuò kè 作客</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=19" title="运动,yùn dòng,تەنتەربىيە,"  target="_blank" class="tag_title_link">运动,yùn dòng,تەنتەربىيە,</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=18" title="خەنزۇچە سۆزلىشىش (كۇتۇپخانىدا)"  target="_blank" class="tag_title_link">خەنزۇچە سۆزلىشىش (كۇتۇپ...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/til_yeziq/show_js.php?itemid=20"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

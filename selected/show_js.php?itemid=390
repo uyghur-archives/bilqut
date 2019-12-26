@@ -1,0 +1,3 @@
+﻿try {setidval('hits','788');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/qanun/show.php?itemid=387">‹‹ئەمگەك توختامى قانۇنى››غا پۇل مۇئامىلە</a></li><li>  كىيىنكىسى  :  <a href="/qanun/show.php?itemid=389">سودا بانكىسى قانۇنى</a></li>');}catch(e){}

@@ -1,0 +1,57 @@
+<!-- Tor bat exligu chi Ablimitjan Maham  QQ :250092392    Tel: 6722530    E-Mail :Raziman@126.com ,ablmtjan@126.com -->
+document.write("<head></head>");
+
+
+document.write("<table border=0 cellpadding=2 cellspacing=0 width=100%>");
+
+document.write("<tr><td align=justify><font style='font-size:9pt'><img src=../icon/008.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=448 target=_blank><font color='' style='font-size:9pt'>قىيمىلىق پولۇ</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:9pt'><img src=../icon/008.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=447 target=_blank><font color='' style='font-size:9pt'>بېھى پولۇسى</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:9pt'><img src=../icon/008.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=446 target=_blank><font color='' style='font-size:9pt'>تۇخۇم باسقان پولۇ</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:9pt'><img src=../icon/008.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=445 target=_blank><font color='' style='font-size:9pt'>تاتلىق پولۇ</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:9pt'><img src=../icon/008.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=444 target=_blank><font color='' style='font-size:9pt'>قېزى پولۇسى</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:9pt'><img src=../icon/008.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=443 target=_blank><font color='' style='font-size:9pt'>ماش - گۈرۈچ پولۇسى</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=right colspan=2></td></tr>");
+
+document.write("</table>");

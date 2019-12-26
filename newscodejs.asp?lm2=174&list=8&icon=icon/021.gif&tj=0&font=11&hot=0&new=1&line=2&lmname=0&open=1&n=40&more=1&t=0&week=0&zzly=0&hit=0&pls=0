@@ -1,0 +1,73 @@
+<!-- Tor bat exligu chi Ablimitjan Maham  QQ :250092392    Tel: 6722530    E-Mail :Raziman@126.com ,ablmtjan@126.com -->
+document.write("<head></head>");
+
+
+document.write("<table border=0 cellpadding=2 cellspacing=0 width=100%>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=icon/021.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=578 target=_blank><font color='' style='font-size:11pt'>مىسىر مۇزېيى</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=icon/021.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=577 target=_blank><font color='' style='font-size:11pt'>نەنتۇڭ مۇزېيي</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=icon/021.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=576 target=_blank><font color='' style='font-size:11pt'>ئىچكى موڭغۇل ئاپتونوم...</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=icon/021.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=575 target=_blank><font color='' style='font-size:11pt'>شەنشى ئۆلكىلىك مۇزېي</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=icon/021.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=574 target=_blank><font color='' style='font-size:11pt'>جۇڭگو خەلق ئىنقىلابى ھ...</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=icon/021.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=573 target=_blank><font color='' style='font-size:11pt'>جۇڭگو تارىخ مۇزېيى</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=icon/021.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=572 target=_blank><font color='' style='font-size:11pt'>شىئەن بەنپو خارابىلىك...</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=icon/021.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=571 target=_blank><font color='' style='font-size:11pt'>خىلمۇخىل مۇزېيلار</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=right colspan=2></td></tr>");
+
+document.write("</table>");

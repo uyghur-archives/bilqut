@@ -1,0 +1,3 @@
+﻿try {setidval('hits','1874');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/Unwersal/show.php?itemid=170">ئېلانغا ھۆ بولۇپ كەتتىم</a></li><li>  كىيىنكىسى  :  <a href="/Unwersal/show.php?itemid=172">كىنو تەرجىمە سېپىدىكى تۇنجى ئەۋلاد تۆھپىكار&nbsp;&nbsp;_&nbsp;&nbsp;ئەخمەتجان مامۇت</a></li>');}catch(e){}

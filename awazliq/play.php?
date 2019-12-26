@@ -1,0 +1,101 @@
+﻿<!--
+-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir=rtl  xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<title>信息提示 - Powered byuyghur-archive.com/bilqut</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<META content="Ghost" name=author>
+<META name="copyright" content="بىلقۇت تور بېتى" >
+<meta name="keywords" content="بىلقۇت تور بېتى">
+<meta HTTP-EQUIV=REFRESH CONTENT="2;URL=javascript:window.close()">
+<style type="text/css" title="currentStyle" media="screen">
+/* ============全局============ */
+html {height:100%;}
+div,ul,ol,form {
+	margin:0;
+	padding-top: 0;
+	padding-right: 0;
+	padding-bottom: 0;
+	padding-left: 0px;
+}
+img {border:0;}
+table {font-size:12px;}
+input {font-family:tahoma,Arial,Helvetica,sans-serif;font-size:12px;}
+h1,h2,h3,h4,h5,h6,h7 {margin:0;padding:0;text-align:left;font-size:12px;font-weight:400;}
+p {margin:0;}
+
+body {
+margin:0;
+height:100%;
+font-size:12px;
+font-family:Ukij tuz tom,tahoma,Arial,Century Gothic,verdana,Helvetica,sans-serif;
+color:#999;
+line-height:150%;
+word-break:break-all;
+background:#E2E2E2;
+}
+a:link{text-decoration:none;color:#0E91CF;}
+a:visited {text-decoration:none;color:#0E91CF;}
+a:hover {text-decoration:underline;color:#FF9900;}
+a:active {text-decoration:none;color:#0E91CF;}
+#Content {
+	line-height: 100%;
+	width: auto;
+	height: 100%;
+	text-align: center;
+	vertical-align: middle;
+}
+#Content #Main{
+	width: 550px;
+	border:1px solid #0E91CF;
+	background:#F1FAFF;
+	padding: 20px;
+	margin-top: 100px;
+}
+#Content #Main .pic {
+	float: left;
+	padding:15px;
+	width: 100px;
+}
+#Content #Main .info {
+	font-size: 14px;
+	font-weight: 600;
+	text-align: left;
+	float: left;
+	height: 50px;
+	line-height:50px;
+	padding-left: 10px;
+	width: 400px;
+}
+#Content #Main .goto {
+	float: left;
+	height: 50px;
+	width: 400px;
+	padding-left: 30px;
+	list-style-type: disc;
+	text-align: left;
+}
+.no{color:red;}
+.yes{color:green;}
+#Content #Main .goto li {
+}
+.style1 {
+	text-align: right;
+}
+</style>
+<!--Content Begin -->
+<div id="Content">
+  <div id="Main">
+    <div class="pic"><img src="template/default/images/no.png" width="70" height="70"/></div>
+	<div class="info" style="width: 409px; text-align: right"><span class="no">خاتا مەشخۇلات!</span></div>
+	<div class="goto"><ul>
+	  <li class="style1"><a href="javascript:window.close()">كۆزنەكنى تاقاش</a></li>
+	</ul></div>
+ </div>
+</div>
+<!--Content End -->
+</body>
+</html>
+<!---->
+

@@ -1,0 +1,3 @@
+﻿try {setidval('hits','1464');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/xewer/show.php?itemid=429">دۆلەت پۇتبولچىلار جەمئىيىتىنىڭ پۇتبولغا دو تىكىش ‹‹ بورىنى ›› شاڭخەيگە يېتىپ كەلدى</a></li><li>  كىيىنكىسى  :  <a href="/xewer/show.php?itemid=431">2010 – يىللىق جەنۇبىي ئافرىقا دۇنيا پۇتبول مۇسابىقىسىگە قاتنىشىدىغان كوماندىلار قاتلاملارغا ئايرىلىپ</a></li>');}catch(e){}

@@ -1,0 +1,3 @@
+﻿try {setidval('hits','26');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/edebiyat/show.php?itemid=1967">ﺳﯧﻐﯧﻨﯩﺶ ﮔﯜﻟﻠﯩﺮﻯ</a></li><li>  كىيىنكىسى  :  <a href="/edebiyat/2009/0403/1969.htm">ﭘﯩﺸﺎﻧﻪ ﺗﻪﺭﻟﯩﺮﯨﻢ ﭼﺎﻗﻨﺎﺭ ﻳﺎﻟﺘﯩﺮﺍﻕ</a></li>');}catch(e){}

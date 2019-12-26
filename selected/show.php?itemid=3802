@@ -1,0 +1,377 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ھىندىستان(ھىندى دەرياسىنىڭ نامىدىن كەلگەن)-كۇتۇپخانا-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,كۇتۇپخانا">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/kutupxana/" class="red"> كۇتۇپخانا</a>
+         | <a class="razimantur" href="/kutupxana/list.php?catid=43" >ھېكايىلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=44" > شېئىر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=45" > كەلىلە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=46" > نەسىرلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=47" > يۇمۇرلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=48" > ھىكمەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=49" > نەسىھەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=50" > ماقالىلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=51" > ياشلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=52" > تۇرمۇش </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=53" > نۇتۇقلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=54" >مەكتۇب  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=55" >غارايىبات</a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=56" > دۇنيادا ئەڭ  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=57" >قان تىپى </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=58" > مۆچەل  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=59" > مىللەتلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=60" > بۈگۈن  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=61" >مۇزېي </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=62" >تارىخ </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=63" >شەھەرلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=64" >دۆلەتلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=65" >كۇتۇبخانىلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=66" >مايلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=67" >مېۋە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=68" >كۆكتاتلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=69" >ئۆسۈملۈكلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=70" > ھايۋاناتلار  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/kutupxana/">كۇتۇپخانا</a> >> <a href="/kutupxana/list.php?catid=64">دۆلەتلەر </a> >>  ھىندىستان(ھىندى دەرياسىنىڭ نامىدىن كەلگەن)</div>
+<!--主标题--><h1>ھىندىستان(ھىندى دەرياسىنىڭ نامىدىن كەلگەن) </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-06-06 11:15:23&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">146</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<img src="/raziman_img/bash/reng/reng_1.gif" id="img1" style="cursor:hand;"  onclick="conhat(1)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_2.gif" id="img2" style="cursor:hand;"  onclick="conhat(2)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_3.gif" id="img3" style="cursor:hand;"  onclick="conhat(3)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_4.gif" id="img4" style="cursor:hand;"  onclick="conhat(4)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_5.gif" id="img5" style="cursor:hand;"  onclick="conhat(5)">&nbsp;&nbsp;                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">
+印度
+ھىندىستان
+(ھىندى دەرياسىنىڭ نامىدىن كەلگەن)
+ئومۇمىي چۈشەندۈرۈشى 
+جەنۇبىي ئاسىياغا جايلاشقان ئەڭ چوڭ قەدىمىي دۆلەت. يەر مەيدانى 2 مىليون 974 مىڭ كۋادرات كىلومېتىردىن ئاشىدۇ، ئۇنىڭ شىمالىنى ئېگىز تاغلىقلار ئىگىلەپ تۇرىدۇ. ئوتتۇرا قىسمىدا كەڭ كەتكەن ھىندى - گانكى دەريا بويى تۈزلەڭلىكىرى جايلاشقان بولۇپ، پۈتۈن دۆلەت يېرىنىڭ 4／1 نى ئىگىلەيدۇ. بۇ تۈزلەڭلىكلەرنىڭ ھىندىستان دائىرىسىدىكى مەيدانى 700 مىڭ كۋادرات كىلومېتىر كېلىدۇ، ھىندىستاندىكى تۈزلەڭلىكلەر مەيدانى پۈتۈن ھىندىستان يەر مەيدانىنىڭ 43% نى ئىگىلەيدۇ. دۆلەتنىڭ جەنۇبىي قىسمىغا دىكان ئېگىز تەكشىلىكى جايلاشقان، ئۇ پۈتۈن ھىندىستان يېرىنىڭ 3／1 قىسمىنى ئىگىلەيدۇ. بۇ ئېگىزلىكلەرنىڭ دېڭىز يۈزىدىن ئوتتۇرىچە ئېگىزلىكى 1000 مېتىرغا يەتمەيدۇ. دىكان ئېگىزلىكىنى غەربىي گات تاغلىرى، شەرقىي گات تاغلىرى قورشاپ تۇرىدۇ. تاغلىقلارنىڭ دېڭىز قىرغاقلىرىدا تار دېڭىز قىرغاق تۈزلەڭلىكىرى جايلاشقان. ھىندىستاننىڭ ئىقلىمى تروپىك، سۇبتروپىك ئىقلىم تىپىغا كىرىدۇ، بىر يىلدا ئىسسىق پەسلى )3 - ئايدىن 5 - ئايغىچە(، ھۆل - يېغىن پەسلى )6 - ئايدىن 9 - ئايغىچە(، سالقىن پەسلى )10 - ئايدىن ئىككىنچى يىلىنىڭ 2 - ئايغىچە( دەپ ئۈچ پەسىلگە ئايرىلىدۇ. يىللىق ھۆل - يېغىن مىقدارى 500-1500 مىللىمېتىر كېلىدۇ، غەربىي شىمالدىكى تار چۆللۈكنىڭ ھۆل - يېغىنى 200 مىللىمېتىر ئەتراپىدا بولۇپ، ھىندىستاننىڭ ئەڭ قۇرغاق رايونى ھېسابلىنىدۇ، دۆلەتنىڭ غەربىي جەنۇبى قىسمى تروپىك يامغۇرلۇق ئورمان ئىقلىمىغا، دىكان ئېگىزلىكىنىڭ كۆپ قىسمى سۇبتروپىك ئوتلاق ئىقلىمىغا، دۆلەتنىڭ شەرقىي شىمال قىسىملىرى سۇبتروپىك نەم ئىقلىمىغا كىرىدۇ، بۇ جايدىكى كاشى ئېدىرلىقلىرى دۇنيا بويىچە ئەڭ نەم، كۆپ يامغۇرلۇق جايلار بولۇپ، يىللىق ھۆل - يېغىنى ئەڭ كۆپ بولغاندا 13 مىڭ 923 مىللىمېتىرغا يېتىدۇ. ھىندىستاننىڭ ئاھالىسى 752 مىليون 938 مىڭدىن ئاشىدۇ )1985(، بۇنىڭ ئىچىدە ئەڭ كۆپى ھىندىستان مىللىتى بولۇپ، ئاھالىسى 200 مىليوندىن ئاشىدۇ. ئۇنىڭدىن قالسا ماراتى، بېنگال، ئورىيا، ئاسسام، تېگوگو، تايمىل، كانادا قاتارلىق بىرنەچچە يۈز مىللەت ۋە قەبىلىنى ئۆز ئىچىگە ئالىدۇ. ھىندىستان ئاھالىسىنىڭ 82% ى ھىندى دىنىغا، 12% ى ئىسلام دىنىغا، قالغانلىرى خرىستىئان، شىك، بۇددا، لاما دىنلىرىغا ئېتىقاد قىلىدۇ )1982(. ھىندى تىلى دۆلەت تىلى بولۇپ، ئىنگلىز تىلىنى ھۆكۈمەت ئەمەلدارلىرى قوللىنىدۇ. ھىندىستان ئەڭ قەدىمىي مەدەنىيەتلىك دۆلەتلەرنىڭ بىرى بولۇپ، 5000 يىللىق تارىخقا ئىگە. ھىندىستان خەلقى تارىختىن بۇيان خېلى تەرەققىي قىلغان يېزا ئىگىلىك، قول سانائەت، پارلاق مەدەنىيەتنى يارىتىپ، ئىنسانىيەتنىڭ تەرەققىياتى ئۈچۈن زور تۆھپە قوشقان. بىراق 16 - ئەسىرنىڭ باشلىرىدىن باشلاپ پورتۇگالىيە، گوللاندىيە، ئەنگلىيە، فرانسىيىلەرنىڭ بۇلاڭ - تالىڭىغا ئۇچرىغان. 1757 - يىلدىن باشلاپ ئەنگلىيىنىڭ مۇستەملىكىسىگە ئايلانغان. 1947 - يىلى 8 - ئايدا ھىندىستان ئاپتونومىيىسى قۇرۇلغان. 1950 - يىلى 1 - ئاينىڭ 26 - كۈنى ھىندىستان جۇمھۇرىيىتى بولۇپ قۇرۇلغان، ئۇ ھازىر يەنىلا ئەنگلىيە ئىتتىپاقىنىڭ بىر ئەزاسى. ھىندىستان تەرەققىي قىلىۋاتقان يېزا ئىگىلىك دۆلەت، ئاھالىنىڭ 80% ى يېزا ئىگىلىكى بىلەن شۇغۇللىنىدۇ. تېرىلغۇ يېرى پۈتۈن دۆلەت يېرىنىڭ 42% نى تەشكىل قىلىدۇ. يېزا ئىگىلىك ئىشلەپچىقىرىش ئومۇمىي قىممىتى پۈتۈن دۆلەت ئىگىلىكى ئومۇمىي قىممىتىنىڭ 35% نى تەشكىل قىلىدۇ. ھىندىستان يېزا ئىگىلىكىدە ئەڭ ئاساسلىق شال، بۇغداي، ئارپا، پۇرچاق، قىچا، خاسىڭ، كېۋەز، سېرىق كەندىر، شېكەر قومۇشى، چاي، كوكۇس پالمىسى، كاۋچۇك، قارامۇچ قاتارلىقلار ئۆستۈرۈلىدۇ. چارۋىچىلىقىدا ئاساسلىق كالا، قوي، ئۆچكە بېقىلىدۇ. بېلىقچىلىقى تەرەققىي قىلغان. سانائەتتە ماشىنىسزلىق، توقۇمىچىلىق، پولات - تۆمۈر، خىمىيە، يېقىلغۇ، كان سانائەتلىرى ئەڭ ئاساسىي ئورۇندا تۇرىدۇ. بۇلاردىن باشقا نېفىت ئايرىش، سېمونت، يېمەك - ئىچمەك، نەشرىياتچىلىق سانائەتلىرىمۇ بار. ھىندىستاننىڭ قول سانائىتى تارىختىن بۇيان مۇھىم ئورۇن تۇتۇپ كەلمەكتە. ھىندىستان 1948 - يىلدىن باشلاپ ئاپتوموبىل ئىشلەپچىقارغان، 1961 - يىلى تراكتۇر ئىشلەپچىقىرىشتا باشلىغان. 1972 - يىلى بىرىنچى تۈركۈم Mr-21 ماركىلىق ئايروپىلان بىلەن ئوكيان چارلىغۇچى پاراخوتلارنى ئىشلەپچىقىرىش ئىقتىدارىغا ئىگە بولغان. ھىندىستان ھازىر خېلى زور بىر قىسىم سانائەت مەھسۇلاتلىرى بىلەن ئۆز ئېھتىياجىنى تەمىنلەش باسقۇچىغا يەتتى. بىر قىسىم سانائەت مەھسۇلاتلىرىنى ئېكسپورت قىلىدۇ. بىراق ئىلغار تېخنىكا بىلەن نازۇك ئەسۋاب - ئۈسكۈنىلەر جەھەتتە سىرتقا تايىنىدۇ. ھىندىستاننىڭ قاتناش - ترانسىپورتى تەرەققىي قىلغان. تۆمۈر يوللىرىنىڭ ئومۇمىي ئۇزۇنلۇقى 67 مىڭ كىلومېتىر بولۇپ، ئاسىيادا بىرىنچى ئورۇننى ئىگىلەيدۇ. تاشيوللىرىنىڭ ئوڭمۇمىي ئۇزۇنلۇقى 1 مىليون 337 مىڭ كىلومېتىرغا يېتىدۇ. دەريا قاتناش لىنىيىسىنىڭ ئۇزۇنلۇقى 66 مىڭ كىلومېتىرغا يېتىدۇ. خەلقئارا دېڭىز قاتنىشىدا بومباي، مورموگان، ۋىساكا پاتنام، كالكۇتتا، مادراستىن ئىبارەت بەش چوڭ پورت مۇھىم رول ئوينايدۇ. ھىندىستان سىرتقى دۆلەتلەرگە كەندىر مەھسۇلاتلىرى، پاختا توقۇمىچىلىق مەھسۇلاتلىرى، چاي، تېرە، تۆمۈر، مارگانېتىس رۇدىسى ئېكسپورت قىلىدۇ. سىرتتىن ماشىنا، پاختا، قاتناش ئۈسكۈنىلىرى، پولات، نېفىت مەھسۇلاتلىرى، خىمىيىۋى ئوغۇت قاتارلىقلارنى ئىمپورت قىلىدۇ.
+دۆلەت نامىنىڭ چۈشەندۈرۈشى 
+ھىندىستاننىڭ تولۇق نامى &gt;ھىندىستان جۇمھۇرىيىتى&lt; بولۇپ، جەنۇبىي ئاسىيا ئىككىنچى چوڭ قۇرۇقلۇقىدىكى ھىندىستان يېرىم ئارىلىغا جايلاشقان. دۆلەت نامى ھىندى دەرياسىنىڭ نامىدىن كەلگەن. قەدىمكى دەۋىرلەردە ھىندىستانلىقلار &gt;ھىندى&lt; سۆزى ئارقىلىق دەريانى ئىپادىلىگەن بولۇپ، بۇ نام ئەڭ دەسلەپ ھىندى دەرياسى ۋادىسىنى كۆرسەتكەن، كېيىن تەرەققى قىلىپ پۈتكۈل جەنۇبىي ئاسىيا ئىككىنچى چوڭ قۇرۇقلۇقىنى كۆرسىتىدىغان بولغان. ھىندىستان بىلەن پاكىستان ئايرىلغاندىن كېيىن نوقۇل ھىندىستان دۆلىتىنىلا كۆرسەتكەن. قەدىمكى پارس تىلىدا &gt;ھىندى&lt; سۆزى &gt;ھىندۇ&lt; قىلىپ ئۆزگەرتىلگەن؛ قەدىمكى يۇنانلىقلار بولسا &gt;ھىندو&lt; سۆزىنى &gt;ھىندۇئى&lt; قىلىپ ئۆزگەرتكەن؛ كېيىنچە رىملىقلار بۇ سۆزنى يەنىمۇ ئۆزگەرتىپ &gt;ھىندۇئىس&lt; قىلغان؛ ئەنگلىيىلىكلەر ئۇنى &gt;ھىندى&lt; دەپ ئاتىغان. ھازىرقى دۆلەت نامى ھىندى تىلىدىكى &gt;ھىندى&lt; سۆزىگە پارس تىلىدىكى &gt;دۆلەت، رايۇن، يەر، جاي&lt; مەنىلىرىنى بىلدۈرىدىغان كەينى قوشۇلغۇچى &gt;ستان&lt; سۆزىنى قوشۇش ئارقىلىق ھاسىل بولغان بولۇپ، مەنىسى &gt;ھىندىلارنىڭ دۆلىتى&lt; دېگەنلىك بولىدۇ. ھىندىستان دۇنيادىكى تۆت چوڭ قەدىمىي مەدەنىيەتلىك دۆلەتنىڭ بىرى، پارلاق قەدىمىي مەدەنىيەتكە ئىگە. ھىندىستاندا مىلادىدىن بۇرۇنقى 4 - ئەسىردە بىرلىككە كەلگەن ماگادخا دۆلىتى قۇرۇلغان بولۇپ، دۇنيادىكى فىئوداللىق تۈزۈمگە ئەڭ دەسلەپ قەدەم قويغان دۆلەتلەرنىڭ بىرى ھېساپلىنىدۇ. دۇنيادىكى ئۈچ چوڭ دىننىڭ بىرى - - بۇددا دىنى مۇشۇ يەردە پەيدا بولغان. مىلادى 12 - ئەسىردىن باشلاپ تۈركلەر، پۇرتوگالىيە، گوللاندىيە، ئەنگلىيە ۋە فرانسىيە قاتارلىق دۆلەتلەر ئارقىمۇ ئارقا بېسىپ كىرگەن. 1600 - يىلى ئەنگلىيە مۇستەملىكچىلىرى &gt;شەرقىي ھىندىستان شىركىتى&lt; نى قۇرۇپ، ھىندىستانغا سودا ئېكىسپىلاتاتسىيىسى يۈرگۈزگەن ۋە ھىندىستان دېڭىز بويلىرىدا تەدرىجى ھالدا بىر قىسىم تايانچ بازىلارنى قۇرغان.&nbsp;&nbsp;1849 - يىلى ئەنگلىيە پۈتكۈل ھىندىستاننى بېسىۋالغان.&nbsp;&nbsp;1947 - يىلى&nbsp;&nbsp;8 - ئاينىڭ&nbsp;&nbsp;15 - كۈنى، ئەنىگلىيىنىڭ لاھىيىسىگە ئاساسەن ھىندىستان ۋە پاكىستان ئايرىۋېتىلگەن.&nbsp;&nbsp;1950 - يىلى&nbsp;&nbsp;1 - ئاينىڭ&nbsp;&nbsp;26 - كۈنى &gt;ھىندىستان جۇمھۇرىيىتى&lt; قۇرۇلغانلىقى جاكارلانغان.
+ھىندىستاننىڭ يەر مەيدانى 2.9747 مىليون كۋادرات كىلومېتىر )ئۆزى ئېلان قىلغان ماتېرىياللاردا، جۇڭگو - ھىندى توقۇنۇش بەلۋىغى، كەشمىر ۋە سىككىمنى قوشۇپ&nbsp;&nbsp;3.2878 مىليون كۋادرات كىلومېتىر دەپ ھېساپلايدۇ(، ئاھالىسى&nbsp;&nbsp;911 مىليون&nbsp;&nbsp;700 مىڭ، ھىندى ۋە ئىنگلىز تىلى ئومۇميۈزلۈك قوللىنىلىدۇ. ئۇندىن باشقا&nbsp;&nbsp;10 مىليوندىن ئارتۇق نوپۇسقا ئىگە مىللەتلەر&nbsp;&nbsp;15تىن ئاشىدۇ.&nbsp;&nbsp;28%ى ھىندى دىنىغا،&nbsp;&nbsp;12%ى ئىسلام دىنىغا ئېتىقاد قىلىدۇ. پايتەختى يېڭى دېھلى، پۇل بىرلىكى دۇپىيە )رۇپىيە سۆزى قەدىمكى سانسكرىت ۋە قەدىمكى پارىس تىللىرىدا &gt;پۇل&lt; دېگەن مەنىنى بىلدۈرىدۇ(.
+دۆلەت بايرىقىنىڭ چۈشەندۈرۈشى 
+گانگ دەريا ساھىلىدىكى ھىندىستان دۇنيا بويىچە تۆت چوڭ قەدىمكى مەدەنىي دۆلەتلەرنىڭ بىرى، ئۇ بۇددا دىنىنىڭ بۆشۈكى ساكيامۇنىنىڭ يۇرتى بولۇپ، ئاجايىپ خىسلەتلىك ماكاندۇر. ھىدىستانلىقلار پەخىرلەنگەن ھالدا بۇ تارىخنى&nbsp;&nbsp; 24سىملىق كۆك &gt;&gt; دارماساكرا&lt;&lt; بىلەن ئۆزلىرىنىڭ دۆلەت بايرىقىغا خاتىرلىۋالغان. بۇ &gt;&gt;دارماساكرا&lt;&lt; ھىندىستاننىڭ قەدىمكى ماتخۇرا خاندانلىقىنىڭ تازا گۈللەنگەن ئاسوكاخان دەۋرىدە بۇددا دىنىدا مۇقەددەس بىلىدىغان تۈۋرۈكسىمان تاش ئۈستىدىكى شىرنىڭ باش سۈرئىتىدۇر. ئۇ ئۈنسىز تىل ئارقىلىق قەدىمكى ھىندىستاننىڭ گۈللەنگەنلىكىنى ۋە روناق تاپقانلىقىنى بايان قىلىپ، ھىدىستانلىقلارنىڭ ئىلگىرىكى كۈنلىرىگە بولغان ئەسلىمىسى بېغىشلانغان. ئاسوكاخاننىڭ &gt; دارماساكرا&lt; مۇقەددەس&nbsp;&nbsp;چاق بولۇپ، ھەم ھەقىقەت ۋە ئەخلاقىنىڭ سىمۋولى بولغان، ھەم ھىندىستالىقنىڭ ھەركىتىنىڭ تىنچلىق ۋە ئېنېرگىيە كۈچىدىن ئايلانغانلىقىنى بىلدۈرگەن. ھىندىستانلىقلارنىڭ يەنە ئۆزلىرى ياقتۇردىغان قىزىل، ئاق ۋە يېشىلدىن ئىبارەت ئۈچ خىل رەڭنى چەكسىز مۆجىزىلىك كۈچ &gt;&gt; دارماساكرا&lt;&lt; بىلەن بىرلەشتۈرۈپ، ئۆر ئارا نۇر چاقناتتۇرغان. قىزىل رەڭ خالىس، تەلەپچان، پىداكار ۋە ئۆر- ئۆزىنى قۇربان قىلىشتەك گۈزەل ئەخلاقنىڭ سىمۋولى، ئاق رەڭ نۇر ۋە ھەقىقەتنىڭ سىمۋولى بولغان؛ يېشىل رەڭ ھىندىستانلىقلارنىڭ يەر بىلەن بىرلەشكەنلىكىنىڭ سىمۋولى بولۇپ، ئنسانلار بېقىنىپ تۇرىدىغان ئىشلەپچىقىرىش كۈچلىرنى بىلدۈرگەن. قەدىمكى &gt;&gt; دارماساكرا&lt;&lt; نىڭ ئۈچ خىل رەڭ بىلەن بەدئىي ھالدا بىرلىشىشى ھىندىستان دۆلەت بايرىقىنى شەرقنىڭ قەدىمكى زامان سەمىمىي پەلسەپىۋى مەنىسىگە ئىگە قىلغان.
+دۆلەت گېربىنىڭ چۈشەندۈرۈشى 
+ئاسوكاخان بۇددا دىنى قانۇنىغا ئاساسەن ئۆز خەلقىگە قاتتىق ئەخلاقىي قائىدە تۈزۈپ چىققان. ئەمرىمەرۇپنى چىڭىتىپ، جامائەتكە ئېلان قىلىش ۋە ئەبەدىلئەبەد ساقلاپ قېلىش ئۈچۈن، ئاسوكاخان پەرمان چىقىرىپ پەرمان ۋە ئەمرىمەرۇپنى مەملىكەتلىك ھەر قايسى جايلىرىدىكى شىر باشلىق تۈۋرۈكسىمان تاشقا ئويدۇرغان. بىرـ بىرىگە ئارقىسىنى قىلىپ تىڭ تۇرغان ھەيۋەتلىك شىر باشلىق تاش تۈۋرۈكىگە قەدىمكى ھىندىستاننىڭ قۇدرەتلىكى يېزىلغان، ھازىر ھىندىستاننىڭ دۆلەت گۆھىرىگە ئايلانغان.1950- يىلى ھىندىستان خەلقى ھىندىستاننىڭ ئۇزاق تارىخىي ۋە مەدەنىيتىنى جەۋلان قىلىش يۈزىسىدىن، بۇ قەدىمكى شىرنىڭ سۈرئىتىنى دۆلەت گېرنى قىلغان.
+</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3805" title="ئەزەربەيجان"  target="_blank" class="tag_title_link">ئەزەربەيجان</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3804" title="سولومون تاقىم ئاراللىرى"  target="_blank" class="tag_title_link">سولومون تاقىم ئارا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3803" title="ساينت كرىستوفېر ۋە نېۋىس"  target="_blank" class="tag_title_link">ساينت كرىستوفېر ۋە ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3802" title="ھىندىستان(ھىندى دەرياسىنىڭ نامىدىن كەلگەن)"  target="_blank" class="tag_title_link">ھىندىستان(ھىندى دە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3801" title="يېڭى زېلاندىيە(دېڭىزدىكى يېڭى قۇرۇقلۇق)"  target="_blank" class="tag_title_link">يېڭى زېلاندىيە(دېڭ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3800" title="كامبودژ(كېخمىرلارنىڭ دۆلىتى)"  target="_blank" class="tag_title_link">كامبودژ(كېخمىرلارن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3799" title="تونگا(مۇقەددەس جاي)"  target="_blank" class="tag_title_link">تونگا(مۇقەددەس جاي)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3798" title="پاپۇئا يېڭى گۋېنىيىسى(بۈدرە چاچلىقلارنىڭ ماكانى)"  target="_blank" class="tag_title_link">پاپۇئا يېڭى گۋېنىي...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3797" title="ئومان(جىمجىت زېمىن)"  target="_blank" class="tag_title_link">ئومان(جىمجىت زېمىن)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3796" title="ترىنىداد ۋە توباگو(ھەرە قۇشى ۋە تاماكا)"  target="_blank" class="tag_title_link">ترىنىداد ۋە توباگو(...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3795" title="بۇتان(شىزاڭنىڭ چېتى)"  target="_blank" class="tag_title_link">بۇتان(شىزاڭنىڭ چېت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3794" title="سانت لۇيىس"  target="_blank" class="tag_title_link">سانت لۇيىس</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3793" title="نىگاراگۇئا(ئىندىئان قەبىلە باشلىقى نىكارۇنىڭ فامىلىسى)"  target="_blank" class="tag_title_link">نىگاراگۇئا(ئىندىئا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3792" title="ئوكيانىيە (ناۋرۇ)"  target="_blank" class="tag_title_link">ئوكيانىيە (ناۋرۇ)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3791" title="گايتى"  target="_blank" class="tag_title_link">گايتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3790" title="پاكىستان(پاك ئەل)"  target="_blank" class="tag_title_link">پاكىستان(پاك ئەل)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3789" title="ساينت لۇسىيە"  target="_blank" class="tag_title_link">ساينت لۇسىيە</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3788" title="گوندۇراس(تېگى يوق ھاڭ)"  target="_blank" class="tag_title_link">گوندۇراس(تېگى يوق ھ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3787" title="پاناما(بېلىق ماكانى)"  target="_blank" class="tag_title_link">پاناما(بېلىق ماكان...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3786" title="گۋاتېمالا (بۈركۈت مىللىتىنىڭ زېمىنى)"  target="_blank" class="tag_title_link">گۋاتېمالا (بۈركۈت م...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/kutupxana/search.php?catid=64&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3805" title="ئەزەربەيجان"  target="_blank" class="tag_title_link">ئەزەربەيجان</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3804" title="سولومون تاقىم ئاراللىرى"  target="_blank" class="tag_title_link">سولومون تاقىم ئاراللىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3803" title="ساينت كرىستوفېر ۋە نېۋىس"  target="_blank" class="tag_title_link">ساينت كرىستوفېر ۋە نېۋى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3802" title="ھىندىستان(ھىندى دەرياسىنىڭ نامىدىن كەلگەن)"  target="_blank" class="tag_title_link">ھىندىستان(ھىندى دەرياسى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3801" title="يېڭى زېلاندىيە(دېڭىزدىكى يېڭى قۇرۇقلۇق)"  target="_blank" class="tag_title_link">يېڭى زېلاندىيە(دېڭىزدىك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3800" title="كامبودژ(كېخمىرلارنىڭ دۆلىتى)"  target="_blank" class="tag_title_link">كامبودژ(كېخمىرلارنىڭ دۆ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3799" title="تونگا(مۇقەددەس جاي)"  target="_blank" class="tag_title_link">تونگا(مۇقەددەس جاي)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3798" title="پاپۇئا يېڭى گۋېنىيىسى(بۈدرە چاچلىقلارنىڭ ماكانى)"  target="_blank" class="tag_title_link">پاپۇئا يېڭى گۋېنىيىسى(ب...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3797" title="ئومان(جىمجىت زېمىن)"  target="_blank" class="tag_title_link">ئومان(جىمجىت زېمىن)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3796" title="ترىنىداد ۋە توباگو(ھەرە قۇشى ۋە تاماكا)"  target="_blank" class="tag_title_link">ترىنىداد ۋە توباگو(ھەرە ...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/kutupxana/show_js.php?itemid=3802"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

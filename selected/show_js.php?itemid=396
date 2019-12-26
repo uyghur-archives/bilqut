@@ -1,0 +1,3 @@
+﻿try {setidval('hits','1239');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/qanun/show.php?itemid=393">كىتاب سۈپىتىنى باشقۇرۇش توغرىسىدىكى بەلگىلىمە</a></li><li>  كىيىنكىسى  :  <a href="/qanun/show.php?itemid=395">ئۇرۇقچىلىق قانۇنى</a></li>');}catch(e){}

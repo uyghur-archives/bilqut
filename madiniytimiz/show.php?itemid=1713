@@ -1,0 +1,359 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ئوردا تۆشۈكى ئويۇنى-مەدەنىيىتىمىز-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,مەدەنىيىتىمىز">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/madiniytimiz/" class="red"> مەدەنىيىتىمىز</a>
+         | <a class="razimantur" href="/madiniytimiz/list.php?catid=71" >شەھەرلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=72" >ناھىيىلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=73" >ئوبلاستلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=74" >ۋىلايەتلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=75" >رېۋايەتلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=76" >تەمسىللىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=77" >ئۆلچەملىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=78" >چۆچەكلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=79" >سەنئەتكارىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=81" >تىل-يېزىقىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=82" >ئەپسانىلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=83" >مەسەللىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=84" >تائاملىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=85" >شەخسلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=86" >ئويۇنلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=88" > چالغۇلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=89" > ھۈنەرلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=90" > يوسۇنلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=91" > تارىخمىز  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/madiniytimiz/">مەدەنىيىتىمىز</a> >> <a href="/madiniytimiz/list.php?catid=86">ئويۇنلىرىمىز </a> >>  ئوردا تۆشۈكى ئويۇنى</div>
+<!--主标题--><h1>ئوردا تۆشۈكى ئويۇنى </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-03-05 10:46:14&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">70</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">ئوردا تۆشۈكى جەنۇبىي شىنجاڭنىڭ بىر قىسىم جايلىرىدا، بولۇپمۇ خوتەن ۋىلايىتى تەۋەسىدە كەڭ ئومۇملاشقان ئەنئەنىۋى ئويۇنلارنىڭ بىرى.
+ئۇيغۇر مىللىتى مەملىكىتىمىزدىكى باشقا مىللەتلەرگە ئوخشاش ئۇزاق يىللىق تارىخىي تەرەققىياتلار جەريانىدا ئۆزلىرى ياشىغان شارائىتقا ماس كېلىدىغان مىللىي ئالاھىدىلىككە ئىگە ۋە مىللىي ئۇسلۇبقا ئىگە بولغان نۇرغۇن ئويۇن تۈرلىرىنى ئىجاد قىلغان. بۇ ئويۇنلارنىڭ كۆپلىرى ئەۋلادتىن - ئەۋلادقا مىراس بولۇپ تا ھازىرغا قەدەر ئۈزۈلۈپ قالماي ئوينىلىپ كەلمەكتە. لېكىن، بەزىلىرى دەۋرنىڭ ئۆتۈشى، زاماننىڭ تەرەققىي قىلىشى، ئېلېكترونلۇق ئويۇنچۇقلار تەرىپىدىن شاللىنىشى تۈپەيلىدىن ئوينىلىشتىن قالدى.
+ئوردا تۆشۈكى ئويۇنى يېقىنقى ۋاقىتلارغىچە ئوينالغان بولسىمۇ، ھازىر يوقاپ كېتىش ھالىتىگە كېلىپ قالدى. مانا مۇشۇ خىلدىكى ئويۇنلارنى قايتا ئەسلىگە كەلتۈرۈپ ۋە ئويناشقا دەۋەت قىلىشىمىزغا، بۇ ئەتىۋارلىق مىراسلارنى قۇتۇلدۇرۇپ قېلىشىمىزغا توغرا كېلىۋاتىدۇ.
+ئويناش ئۇسۇلى: توپ، مەيدان ۋە ئادەم.
+توپ: ئادەتتىكى خام يىپنى يۆگەپ ئالمىدەك چوڭلۇقتا چىرايلىق توپ قىلىپ ياسايمىز، مۇسابىقىگە مەيلى قانچە ئادەم چۈشسۇن، پەقەت بىر توپ بولسىلا بولىدۇ. مەيدان ۋە ئادەم: مۇسابىقىلىشىشتە ئادەم سانى چەكلەنمەيدۇ. ئويۇنغا قاتناشقان ئادەم قانچە بولسا شۇنچە ئورەك كولىنىدۇ. ئورەكلەر ئاتقان توپ بىمالال چۈشكىدەك، ئارىلىقلىرى يېقىن - يېقىن قىلىپ كولىنىدۇ، كولانغان ئورەكلەردىن بىر دۈگىلەك ھاسىل قىلىنىدۇ. كولانغان ئورەكلەر ئوتتۇرىسىدا چوڭراق بولغان ئىگىسىز ئوردا تۆشىكى بولىدۇ.
+ئويناش ئۇسۇلى: توپ ئېتىش ئارىلىقى بەش مېتىر بولۇپ، مۇسابىقىگە چۈشكۈچىلەر بىر يەرگە يىغىلغاندىن كېيىن، چەك تاشلاش ياكى باشقا ئۇسۇللار ئارقىلىق ئورەكلەرگە توپ تاشلىغۇچى بەلگىلىنىپ، بەلگىلەنگەن ئارىلىقتىن ئوتتۇرىدىكى ئوردا تۆشۈكىگە توپ تاشلايدۇ. ئەگەر تاشلانغان توپ ئوردا تۆشۈكىگە چۈشمەي ئۆزىنىڭ تۆشۈكىگە چۈشۈپ قالسا ياكى ھېچقايسى ئورەككە چۈشمىسە ئۇ ھالدا يەنىلا شۇ كىشى توپ تاشلايدۇ. ئەگەر تاشلانغان توپ باشقىلارنىڭ ئورىكىگە چۈشۈپ قالسا، توپ تاشلاش نۆۋىتى توپ چۈشكەن ئورەك ئىگىسىگە ئۆتىدۇ. ئەگەر تاشلانغان توپ ئوردا تۆشۈكىگە چۈشۈپ قالسا، ئۇ ھالدا توپ تاشلىغان كىشى توپنى دەرھال تۆشۈكتىن ئېلىپ باشقىلارنى قوغلاپ، ئاندىن بېكىتىلگەن قېچىش پەللىسىگە قەدەر قوغلاپ تۇتۇۋالالمىسا، توپنى يەنىلا شۇ كىشى تاشلايدۇ. ئەگەر ئوردا تۆشۈكىگە توپ چۈشۈرگەن كىشى قېچىش پەللىسىگە قاراپ يۈگۈرگۈچىنى توپ بىلەن ئۇرۇۋالسا ۋە ئۇرۇلغۇچى كىشى توپ بىلەن ئۇرۇۋالغۇچى كىشىنى قايتىدىن قېچىش پەللىسىگىچە بولغان ئارىلىقتا يەنە قايتۇرۇپ ئۇرۇۋالسا، ئۇ ھالدا توپنى يەنىلا توپنى باشتا تاشلىغۇچى تاشلايدۇ.
+قېچىش پەللىسى ئوردا تۆشۈكىدىن 30 - 40 مېتىر يىراقلىقتا بولسا بولىدۇ. ئويۇن شۇ تەرىقىدە قانچە ئۇزۇن داۋاملاشسا بولىۋېرىدۇ&quot;</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1717" title="تاۋۇز تېرىش ئويۇنى"  target="_blank" class="tag_title_link">تاۋۇز تېرىش ئويۇنى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1716" title="چىكۇڭ ئويۇنى"  target="_blank" class="tag_title_link">چىكۇڭ ئويۇنى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1715" title="تەپكۈچ ئويۇنى"  target="_blank" class="tag_title_link">تەپكۈچ ئويۇنى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1714" title="رەگەتكە ئويۇنى"  target="_blank" class="tag_title_link">رەگەتكە ئويۇنى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1713" title="ئوردا تۆشۈكى ئويۇنى"  target="_blank" class="tag_title_link">ئوردا تۆشۈكى ئويۇن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1712" title="قۇم خالتا ئويۇنى"  target="_blank" class="tag_title_link">قۇم خالتا ئويۇنى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1711" title="ئوردا ئېتىش ئويۇنى"  target="_blank" class="tag_title_link">ئوردا ئېتىش ئويۇنى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1710" title="ئالىقان بىلەن ئىتتىرىش ئويۇنى"  target="_blank" class="tag_title_link">ئالىقان بىلەن ئىتت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1709" title="ئۆستەڭدىن سەكرەش ئويۇنى"  target="_blank" class="tag_title_link">ئۆستەڭدىن سەكرەش ئ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1708" title="سەگۈنچەك ئويۇنى"  target="_blank" class="tag_title_link">سەگۈنچەك ئويۇنى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1707" title="ئانىكام چۆچۈرە ئويۇنى"  target="_blank" class="tag_title_link">ئانىكام چۆچۈرە ئوي...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1706" title="قارا - قارا قۇشلارىم ئويۇنى"  target="_blank" class="tag_title_link">قارا - قارا قۇشلارى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1705" title="ئوشۇق ئويۇنى"  target="_blank" class="tag_title_link">ئوشۇق ئويۇنى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1704" title="قۇۋۇز چېلىش ئويۇنى"  target="_blank" class="tag_title_link">قۇۋۇز چېلىش ئويۇنى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1703" title="قارىغۇ چاشقان ئويۇنى"  target="_blank" class="tag_title_link">قارىغۇ چاشقان ئويۇ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1702" title="چاچ كېسىش ئويۇنى"  target="_blank" class="tag_title_link">چاچ كېسىش ئويۇنى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1701" title="تاش ئويۇنى"  target="_blank" class="tag_title_link">تاش ئويۇنى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1700" title="غىل تېيىلىش ئويۇنى"  target="_blank" class="tag_title_link">غىل تېيىلىش ئويۇنى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1699" title="چانا ئويۇنى"  target="_blank" class="tag_title_link">چانا ئويۇنى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1698" title="ئات ياساپ ئويناش ئۇسۇلى"  target="_blank" class="tag_title_link">ئات ياساپ ئويناش ئۇ...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/madiniytimiz/search.php?catid=86&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1717" title="تاۋۇز تېرىش ئويۇنى"  target="_blank" class="tag_title_link">تاۋۇز تېرىش ئويۇنى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1716" title="چىكۇڭ ئويۇنى"  target="_blank" class="tag_title_link">چىكۇڭ ئويۇنى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1715" title="تەپكۈچ ئويۇنى"  target="_blank" class="tag_title_link">تەپكۈچ ئويۇنى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1714" title="رەگەتكە ئويۇنى"  target="_blank" class="tag_title_link">رەگەتكە ئويۇنى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1713" title="ئوردا تۆشۈكى ئويۇنى"  target="_blank" class="tag_title_link">ئوردا تۆشۈكى ئويۇنى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1712" title="قۇم خالتا ئويۇنى"  target="_blank" class="tag_title_link">قۇم خالتا ئويۇنى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1711" title="ئوردا ئېتىش ئويۇنى"  target="_blank" class="tag_title_link">ئوردا ئېتىش ئويۇنى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1710" title="ئالىقان بىلەن ئىتتىرىش ئويۇنى"  target="_blank" class="tag_title_link">ئالىقان بىلەن ئىتتىرىش ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1709" title="ئۆستەڭدىن سەكرەش ئويۇنى"  target="_blank" class="tag_title_link">ئۆستەڭدىن سەكرەش ئويۇنى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1708" title="سەگۈنچەك ئويۇنى"  target="_blank" class="tag_title_link">سەگۈنچەك ئويۇنى</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/madiniytimiz/show_js.php?itemid=1713"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

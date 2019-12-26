@@ -1,0 +1,367 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>تاغۇ تاشلار ھەققىدە رىۋايەتلەر-مەدەنىيىتىمىز-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,مەدەنىيىتىمىز">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/madiniytimiz/" class="red"> مەدەنىيىتىمىز</a>
+         | <a class="razimantur" href="/madiniytimiz/list.php?catid=71" >شەھەرلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=72" >ناھىيىلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=73" >ئوبلاستلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=74" >ۋىلايەتلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=75" >رېۋايەتلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=76" >تەمسىللىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=77" >ئۆلچەملىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=78" >چۆچەكلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=79" >سەنئەتكارىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=81" >تىل-يېزىقىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=82" >ئەپسانىلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=83" >مەسەللىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=84" >تائاملىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=85" >شەخسلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=86" >ئويۇنلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=88" > چالغۇلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=89" > ھۈنەرلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=90" > يوسۇنلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=91" > تارىخمىز  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/madiniytimiz/">مەدەنىيىتىمىز</a> >> <a href="/madiniytimiz/list.php?catid=75">رېۋايەتلىرىمىز </a> >>  تاغۇ تاشلار ھەققىدە رىۋايەتلەر</div>
+<!--主标题--><h1>تاغۇ تاشلار ھەققىدە رىۋايەتلەر </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-05-01 11:21:51&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">63</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<img src="/raziman_img/bash/reng/reng_1.gif" id="img1" style="cursor:hand;"  onclick="conhat(1)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_2.gif" id="img2" style="cursor:hand;"  onclick="conhat(2)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_3.gif" id="img3" style="cursor:hand;"  onclick="conhat(3)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_4.gif" id="img4" style="cursor:hand;"  onclick="conhat(4)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_5.gif" id="img5" style="cursor:hand;"  onclick="conhat(5)">&nbsp;&nbsp;                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;بوغدا تېغى
+&nbsp;&nbsp;قەدىمكى زاماندا بىر ئەۋلىيا ئۆتكەنىكەن. ئۇنىڭ ئىسمى بوغداتۇ ئىكەن.
+&nbsp;&nbsp;بوغداتۇ توققۇز ياشقا كىرگەندە&nbsp;&nbsp;ئاتا - ئانىسىنىڭ تاپشۇرۇقى بويىچە جاڭگالغا قوي باققىلى مېڭىپتۇ. ئۇ ئېلىپ ماڭغان قوي توقسان توققۇزتۇياق ئىكەن.&nbsp;&nbsp;مىنگەن ئېتى ئۈچ پۇتلۇق بوز ئات ئىكەن. ئۈچ تايغىنىنىڭ قۇيرۇقى يوق بولۇپ، ئۇ ئىتلار قويلارنى مۇھاپىزەت قىلىپ بىللە ماڭدىكەن. بۇغداتۇ جاڭگالدا مىڭ يىل قوي باققان بولسىمۇ، لېكىن توقسان توققۇز قويى يۈز تۇياققا يەتمەپتۇ. ئۈچ پۇتلۇق ئېتى تۆت پۇتلۇق بولماپتۇ، ئىتلىرىنىڭ قۇيرۇقى ئۇزارماپتۇ.
+&nbsp;&nbsp;بوغداتۇ: مەن ئۆزۈم ئەۋلىيا تۇرۇپ نېمە ئۈچۈن قىلغان ئىشىمنىڭ نەتىجىسى چىقمايدۇ، - دەپ كۆپ ئويلىنىدىكەن. ئۇ ئۆزىنىڭ ئويىنى جاڭگالدا ئۆزىگە دائىم سۇ توشۇپ بېرىدىغان كەمپىرگە ئېيتىپ بېرىدىكەن، كەمپىر «سەۋر قىل، بىر كۈنى بولمىسا بىر كۈنى&nbsp;&nbsp;مۇراد&nbsp;&nbsp;-مەقستىڭ ئەمەلگە ئاشىدۇ. سەن بۇ ئىشنى&nbsp;&nbsp;ھەرگىز ئاتا - ئاناڭغا ئېيتقۇچى بولما. ئەگەر ئيېتىپ قويىدىغان بولساڭ ئەۋلىيالىق مەرتىۋەڭدىن قۇرۇق قالىسەن» دەيدىكەن.
+&nbsp;&nbsp;بوغداتۇ كەمپىرنىڭ ئېيتقىنى بويىچە ئەۋلىيالىق مەرتىۋەم&nbsp;&nbsp;قولدىن كېتىپ قالمىسۇن، دەپ ئۆزىنىڭ ئىشلىرىنى ئاتا - ئانىسىغا زادى ئېيتماپتۇ. ئاتا - ئانىسىمۇ، بالىمىز كۆپەيگەن قويلارنى ۋاقتىنچە بىزگە كۆرسەتمەي يۈرگەن بولۇشى مۇمكىن، ئۇنىڭ ئەمگەك نەتىجىسى بەرىبىر ئائىلىمىزگە تەئەللۇق بولغاندىن كېيىن سۈرۈشتۈرۈپ نېمە قىلاتتۇق، - دەپ يۈرۈۋېرىپتۇ.
+&nbsp;&nbsp;بوغداتۇ بىركۈنى ئويلىنىپ، دەرد - ئەلەمنى ئىچىگە سىغدۇرالماي بولغان ۋەقەنى ئاتا - ئانىسىغا ئېيتىپتۇ. ئاتا - ئانا ئوغلىنىڭ ئېيتقانلىرىنى دىققەت بىلەن ئاڭلاپ بولغاندىن كېيىن كۆپ ئۆكۈنۈپتۇ ۋە «بالام، بۈگۈندىن باشلاپ&nbsp;&nbsp;ئۇسسۇزلۇقۇڭ ئۈچۈن سۇنى بىز ئەكىلىپ بېرەيلى، كەمپىر ئېلىپ كەلگەن سۇنى ھەرگىز ئىچمىگىن» دەپتۇ. ئەتىسى قاق چۈش ۋاقىتىدا بوغداتۇنىڭ ئۇسسۇزلۇقى ئۈچۈن ئۇنىڭ ئاتا - ئانىسى جاڭگالنىڭ كۈنچىقىش تەرىپىدىن، كەمپىر كۈنپېتىش تەرىپىدىن بىر ھېجىر سوغۇق سۇ ئەكىلىش ئۈچۈن كېتىپتۇ. كەمپىر بۇرۇنقى ئادىتى بويىچە ھېچ ئىش بولمىغاندەك سۇنى كۆتۈرۈپ كەپتۇ. بوغداتۇنىڭ ئاتا - ئانىسى بولسا، بۇ چاغدا تېخى يېتىپ كېلەلمىگەنىكەن.
+&nbsp;&nbsp;بوغداتۇ كەمپىرنىڭ&nbsp;&nbsp;سۈيىنى ئىچكىلى ئۇنىماپتۇ. ئۇ ئاتا - ئانىسىنىڭ سۇ ئېلىپ كېلىۋاتقانلىقىنى، سۇنى ئىچىمىسە بولمايدىغانلىقىنى ئېيتىپ ئۆزرىخالىق بىلدۈرۈپتۇ. كەمپىر :
+&nbsp;&nbsp;_ نەچچە ۋاقىتتىن بېرى مېنىڭ سۈيۈمنى ئىچىپ&nbsp;&nbsp;ھېچقانداق رەھمەت - ھەشقاللايىڭ يوق. ھالا بۈگۈنكى كۈنگە كەلگەندە&nbsp;&nbsp;مېنىڭ سۈيۈمنى ياراتمايدىغان بولۇپ قالدىڭمۇ؟ - دەپ كايىپتۇ. بوغداتۇ:
+&nbsp;&nbsp;_ سېنىڭكىنىمۇ ئىچىمەن، ئەمما بۈگۈنچە ئالدى بىلەن ئاتا - ئانامنىڭ سۈيىنى ئىچىمەن. ئۇلار يىراق يول يۈرۈپ مىڭبىر مۇشەققەتتە ماڭا سۇ ئېلىپ كەلسە ئۇنى ئىچمىسەم بولامدۇ؟ - دەپتۇ . كەمپىر:
+&nbsp;&nbsp;_ ئۇنداق بولسا ساڭا بۇندىن كېيىن ھەرگىز سۇ ئېلىپ كەلمەيمەن،&nbsp;&nbsp;-دەپ&nbsp;&nbsp;قېيدىغان بولۇپ ئارقىسىغا يېنىپتۇ. ئاتا - ئانىسىنىڭ&nbsp;&nbsp;سۇ ئېلىپ كېلىشى ئۈچۈن توققۇز ئوت دەرياسىدىن ئۆتىشكە توغرا كېلىدىغانلىقىنى بىلىدىغان بوغداتۇ، بۇ ئىشنىڭ بۇنداق ئوڭايلا ئارقىسىغا يېنىپ، كەمپىر بىلەن ئادا - جۇدا بولۇپ كېتىشتىن ئەنسىرەپ ، كەمپىرنى چاقىرىپ:
+&nbsp;&nbsp;_ بوپتۇ، بۈگۈن ئاۋۋال سېنىڭ سۈيۈڭنى ئىچەي ، ئەتىدىن باشلاپ كىمنىڭ سۈيىنى ئىچىشنى ئزۈم بەلگىلەيمەن. بۇنىڭ ئۈچۈن رەنجىمەيسەن، - دەپ كەمپىرنىڭ قولىدىن ھېجىرنى تارتىپ ئېلىپ بىر ئوتلىشى بىلەن تەڭ ئاتا - ئانىسى يېتىپ كەپتۇ ۋە :
+&nbsp;&nbsp;- توختا بالام، بۈگۈن يەنە ئازدىڭ، دەرھال ئارقاڭغا قارا، - دەپتۇ. بوغداتۇ دەرھال ئارقىسىغا قارىغۇدەك بولسا، توقسان توققۇز يالماۋۇز توقسان توققۇز ساغلىقنىڭ بالىسىنى يەۋاتقۇدەك، كەپمىرنىڭ چىرايىدا قان قالماپتۇ. بوغداتۇنىڭ ئەرۋاھى قىرىق گەز ئۆرلەپ، غەزەپ ئوتى پەلەككە يېتىپتۇ - دە، قولىغا قامچىسىنى ئېلىپ كەمپىر باشلىق توقسان توققۇز يالماۋۇزنى ئۇر - سۈر قىلىپ قوغلاپ مېڭىپتۇ.
+&nbsp;&nbsp;ئەسلىدە بوغداتۇ ھەر قېتىم كەمپىرنىڭ سۈيىنى ئىچىۋاتقان دەقىقىدە، يالماۋۇزلار كەمپىر بىلەن كېلىشىپ قويغىنىچە تاپ باستۇرماي يېتىپ كېلىپ قوزىلارنى يەپ قورسىقىنى تويغۇزىدىكەن. ئاتنىڭ بىر پۇتىنى كېسىپ ئېلىپ توقماق قىلىدىكەن. ئىتلارنىڭ قۇيرۇقىنى ئۈزۈپ چاچ سالىدىكەن. شۇ يايلاقتىكى باشقا پادىچىلارنىڭ ماللىرىنىمۇ شۇنداق قىلىپ يەيدىكەن.&nbsp;&nbsp;شۇ يايلاقتىكى قىرىق مىڭ پادىچى كەمپىرنىڭ بڭ ھىيلىسىنى ئۇقۇپ قېلىپ، ئۇنىڭ ئەدىبىنى بېرىشنى نىيەت قىلغان بولسىمۇ، لېكىن ئۇلاردا ئەۋلىيالىق سۈپەت بولمىغاچقا، بۇ ئىشنىڭ ھۆددىسىدىن چىقالمىغانىكەن.
+&nbsp;&nbsp;بوغداتۇ ئىبلىسلار بىلەن قىرىق كۈن قاتتىق ئېلىشىپ ئۇلارنى يۇقىتىپتۇ. بۇغداتۇ ئۆزىنى مىڭ يىل ئەخمەق قىلغان كەمپىر ۋە يالماۋۇزلارنى ئۇجۇقتۇرغانلىقىدىن چەكسىز خۇشاللىققا چۆمگەن بولسىمۇ،&nbsp;&nbsp;لېكىن ئۆزىنىڭ كەمپىرنىڭ دامىغا چۈشۈپ ، ئۇزۇن يىل سىر ساقلىغانلىقى، ئۇلارنىڭ ھالىدىن خەۋەر ئالىمىغانلىقى&nbsp;&nbsp;ۋە گېپىنى ئاڭلىماي كەلگەنلىكىنى ئويلىغاندا ئىچ - ئىچىدىن قاتتىق ھەسرەتلىنىپتۇ. ئۇ «نېمە ئۈچۈن ھەممە ئىشنى ئالدى بىلەن ئاتا - ئانامغا ئېيتمىغان بولغىيتتىم، ئەسلىدە ئەۋلىيانىڭ ئاتا - ئانىسى ئەۋلىيا بولىدىكەن ئەمەسمۇ» دېگەنلەرنى قايتا - قايتا ئويلاپ ئۆكۈنۈپتۇ. نەتىجىدە خۇشاللىقىنى ھەسرىتى بېسىپ چۈشۈپتۇ. بوغداتۇ تەڭرىگە يېلىنىپ:«ئەي، ئۇلۇغ تەڭرىم، مەن ئەمدى ئاتا - ئانامنىڭ قېشىغا قانداق بارىمەن؟ يۈزىگە قانداق قارايمەن؟ » دەپ ئىلتىجا قىلغانىكەن. تەرڭىرىدىن : «ئەقلىڭگە بارىكاللا! ئەۋلىيالىقىڭنى ساڭا مىڭ يىل بەردىم، ھازىر مىڭ ياشقا كىردىڭ، بۇ مىڭ يىل ئەۋلىيالىق ئىشلىرىنىڭ تەييارلىق باسقۇچى. ئەۋلىيالىقىڭنى بىر ئاش پىشىم ۋاقىت ئىشلىتىپ مىڭ يىلدا ئورۇندىغىلى بولىدىغان ئىشنى ئورۇندىدىڭ. مۇبادا ئاتا - ئاناڭنىڭ ئالىدىدا ھەقىقەتەن يۈز كېلەلمىگۈدەك بولساڭ، يەنە بىر ئىشنى بېجىرگىن» دېگەن سادا كەپتۇ.
+&nbsp;&nbsp;_ ئۇلۇغ تەڭرىم، مەن ئاتا - ئانامنى رازى قىلىش ئۈچۈن قانچە يىل جاپا چەكسەممۇ مەيلى، - دەپتۇ بوغداتۇ.
+&nbsp;&nbsp; _ ئۇنداق بولسا، داداڭنى دولاڭغا ئېلىپ، ئاناڭنى ئىككى قولۇڭ بىلەن كۆتۈرۈپ، ئۆزۈڭ پادا باققان يايلاقتا قىرىق مىڭ قېتىم شەرقتىن غەربكە ئايلاندۇرۇپ چىققىن. شۇ چاغدا پۈتۈن خالايىق ساۋابلىق ئىشلىرىنىڭنى كۆرۈپ تەسىرلەنسە، ئاندىن سەن ئۆتكۈزگەن سەۋەنلىكنى مەنمۇ ۋە ئاتا - ئاناڭمۇ كەچۈرىمىز، - دەپتۇ.
+&nbsp;&nbsp;بوغداتۇ تەڭرىنىڭ ئورۇنلاشتۇرۇشى بويىچە ئاتا - ئانىسىنىڭ ئونىمىغىنىغا قويماي بىرىنى يۈدۈپ، بىرىنى قولىدا كۆتۈرۈپ يايلاقنى قىرىق مىڭ قېتىم ئايلىنىپتۇ. تەڭرى ئۇنىڭ چىداملىقىدىن تەسىرلىنىپ، ئۇنى ئىنسان سۈپىتىدە&nbsp;&nbsp;ھايات قالدۇرسام بۇ دۇنيادا&nbsp;&nbsp;ھېچقانچە قەدىر - قىممىتى بولمايدۇ. شۇڭا، ئۇنى ئەۋلىيا تېغىغا ئايلاندۇرۇۋېتەي، دەپ ئەمىر قىلغانىكەن، بوغداتۇ بىلەن ئاتا - ئانىسى قوشۇلۇپ چوڭ بىر&nbsp;&nbsp;تاغقا ئايلىنىپ كېتىپتۇ.&nbsp;&nbsp;بۇ تاغ شۇنىڭدىن باشلاپ بوغداتۇ تېغى دەپ ئاتىلىپتۇ، كېينگە ئۆزگىرىپ بوغدا تېغى دېيىلىدىغان بوپتۇ. بوغدا تېغى دېگەنلىك - ئەۋلىيا تېغى دېگەنلىك ئىكەن.
+&nbsp;&nbsp;بوغداتۇنىڭ دادىسىنىڭ بېشى ئاق بولغاچقا، بوغدا تېغىنىڭ چوققىسىمۇ ئاق ئىكەن. ئۇ شىمالغا قاراپ تۇرغانلىقى ئۈچۈن&nbsp;&nbsp;ساقال - بۇرۇتلىرى قارىغايغا ئۆزگىرىپ كېتىپتۇ. بوغداتۇنىڭ ئانىسىنىڭ قورسىقى چوڭ بىر كۆلگە ئايلىنىپتۇ. ئۇ كۆل بوغدا كۆلى دەپ ئاتىلىپتۇ. ئاتا - بالا ئىككسىنىڭ ئارىسىدا سۇ سىرغىپ چىقىپ كەمپىر بىلەن يالماۋۇزنىڭ بېشىغا قويۇلىدىكەن، ئاشقىنى باشقا ياققا ئېقىپ&nbsp;&nbsp; كىشىلەرنىڭ ئۇسسۇزلۇقىنى قاندۇرىدىكەن. ئۇ سۇ بىر كۈن توختاپ قالسا كەمپىر ۋە يالماۋۇزلار باش كۆتۈرۈپ چىقارمىش.
+&nbsp;&nbsp;دېمەك، بوغدا تېغى، بوغدا كۆلى مانا مۇشۇنداق بارلىققا كەلگەنىكەن.&nbsp;&nbsp;
+&nbsp;&nbsp;</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=793" title="قىپچاق ھەققىدەرېۋايەت"  target="_blank" class="tag_title_link">قىپچاق ھەققىدەرېۋا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=792" title="ھەزرىتى موللام مازىرى"  target="_blank" class="tag_title_link">ھەزرىتى موللام ماز...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=791" title="قارايۈزى"  target="_blank" class="tag_title_link">قارايۈزى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=790" title="تۇزتاغ"  target="_blank" class="tag_title_link">تۇزتاغ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=789" title="تەلەمەت"  target="_blank" class="tag_title_link">تەلەمەت</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=788" title="ئالتۇنتاغ"  target="_blank" class="tag_title_link">ئالتۇنتاغ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=787" title="چەشتاغ"  target="_blank" class="tag_title_link">چەشتاغ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=786" title="تاغۇ تاشلار ھەققىدە رىۋايەتلەر"  target="_blank" class="tag_title_link">تاغۇ تاشلار ھەققىد...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=785" title="نۇزۇگۇم ئۆڭكۈرى"  target="_blank" class="tag_title_link">نۇزۇگۇم ئۆڭكۈرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=784" title="ئون ئىككى مۈچەل توغىرىسىدا رىۋايەتلەر"  target="_blank" class="tag_title_link">ئون ئىككى مۈچەل توغ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=783" title="ئۇيغۇرلار ھەققىدە رېۋايەت"  target="_blank" class="tag_title_link">ئۇيغۇرلار ھەققىدە ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=782" title="بۈۋى مەريەم خېنىم مازىرى"  target="_blank" class="tag_title_link">بۈۋى مەريەم خېنىم م...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=781" title="يەتتە قىز قەبرىسى"  target="_blank" class="tag_title_link">يەتتە قىز قەبرىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=780" title="ساتار قانداق ياسالغان؟"  target="_blank" class="tag_title_link">ساتار قانداق ياسال...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=779" title="مارجان بۇلاق رېۋايىتى"  target="_blank" class="tag_title_link">مارجان بۇلاق رېۋاي...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=778" title="ھېيتگاھ رېۋايىتى"  target="_blank" class="tag_title_link">ھېيتگاھ رېۋايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=777" title="ئالتۇن قان رېۋايىتى"  target="_blank" class="tag_title_link">ئالتۇن قان رېۋايىت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=776" title="ئاقئۆستەڭ رېۋايىتى"  target="_blank" class="tag_title_link">ئاقئۆستەڭ رېۋايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=775" title="نۇرۇز بۇلاق رېۋايىتى"  target="_blank" class="tag_title_link">نۇرۇز بۇلاق رېۋايى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=774" title="ئايدىڭكۆل رېۋايىتى"  target="_blank" class="tag_title_link">ئايدىڭكۆل رېۋايىتى</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/madiniytimiz/search.php?catid=75&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=793" title="قىپچاق ھەققىدەرېۋايەت"  target="_blank" class="tag_title_link">قىپچاق ھەققىدەرېۋايەت</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=792" title="ھەزرىتى موللام مازىرى"  target="_blank" class="tag_title_link">ھەزرىتى موللام مازىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=791" title="قارايۈزى"  target="_blank" class="tag_title_link">قارايۈزى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=790" title="تۇزتاغ"  target="_blank" class="tag_title_link">تۇزتاغ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=789" title="تەلەمەت"  target="_blank" class="tag_title_link">تەلەمەت</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=788" title="ئالتۇنتاغ"  target="_blank" class="tag_title_link">ئالتۇنتاغ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=787" title="چەشتاغ"  target="_blank" class="tag_title_link">چەشتاغ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=786" title="تاغۇ تاشلار ھەققىدە رىۋايەتلەر"  target="_blank" class="tag_title_link">تاغۇ تاشلار ھەققىدە رىۋ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=785" title="نۇزۇگۇم ئۆڭكۈرى"  target="_blank" class="tag_title_link">نۇزۇگۇم ئۆڭكۈرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=784" title="ئون ئىككى مۈچەل توغىرىسىدا رىۋايەتلەر"  target="_blank" class="tag_title_link">ئون ئىككى مۈچەل توغىرىس...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/madiniytimiz/show_js.php?itemid=786"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

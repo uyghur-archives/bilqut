@@ -1,0 +1,187 @@
+﻿<?
+require "Raziman.php";
+?>
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Bilqut oyun kani li  !!!!      ^_^   !!!!</title>
+<meta name="keywords" content="{$head[keywords]}">
+<meta name="description" content="{$head[description]}">
+<link href="../Bilqut.ico" rel="shortcut icon">
+<link href="../Bilqut_oyun.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="../data/js/config.js"></script>
+<script language="javascript" src="../include/js/common.js"></script>
+<script language="javascript" src="../include/js/prototype.js"></script>
+
+</head>
+<body>
+<div class="header">
+<div align="center">
+	<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+	<td style="padding:1px; border:1px solid #fee601; " background="../Raziman_img/resim/top_bg.jpg" align="center"  >
+	<table border="0" width="950px" id="table2" cellspacing="1" height="30">
+		<tr>
+			<td width="350" align="center"><span lang="ar-sa" style="color:#000">بىلقۇت تورغا 
+			كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+			<td width="600" align="center">&nbsp;</td>
+		</tr>
+	</table>
+	</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+	<table border="0" width="950px" cellspacing="0" cellpadding="0">
+		<tr>
+			<td>
+			<iframe name="RAZIMAN" src="../raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+		</tr>
+		</table>
+</div>
+  <table width="960" border="0" align="center" cellpadding="0" cellspacing="0" id="table3">
+    
+  <tr>
+		<td width="80" background="../raziman_img/oyun/bg.gif">&nbsp;</td>
+		<td>
+			<img src="../raziman_img/oyun/index_06.png" width="124" height="170" alt=""></td>
+		<td>
+			<img src="../raziman_img/oyun/index_05.png" width="156" height="170" alt=""></td>
+		<td>
+			<img src="../raziman_img/oyun/index_04.png" width="131" height="170" alt=""></td>
+		<td>
+			<img src="../raziman_img/oyun/index_03.png" width="131" height="170" alt=""></td>
+		<td>
+			<img src="../raziman_img/oyun/index_02.png" width="135" height="170" alt=""></td>
+		<td>
+			<img src="../raziman_img/oyun/index_01.png" width="123" height="170" alt=""></td>
+		<td width="80" background="../raziman_img/oyun/bg.gif">&nbsp;</td>
+	</tr>
+</table>
+  <!--频道下属栏目列表-->
+
+<table width="960" height="38" border="0" align="center" cellpadding="0" cellspacing="0" id="table4">
+  <tr>
+		<td width="80" rowspan="2" height="38" background="../raziman_img/oyun/index_11.gif">&nbsp;</td>
+		<td height="29" background="../raziman_img/oyun/index_10.gif" width="24">&nbsp;</td>
+		<td height="29" background="../raziman_img/oyun/top_02.gif" width="101" dir="ltr"><a href="./" class="white"> بـــاش بـــەت </a></td>
+		<td height="29" width="49" background="../raziman_img/oyun/top_01.gif">&nbsp;</td>
+		<td height="29" width="602" background="../raziman_img/oyun/top_02.gif">&nbsp;</td>
+		<td height="29" background="../raziman_img/oyun/index_08.gif" width="24">&nbsp;</td>
+		<td width="80" rowspan="2" height="38" background="../raziman_img/oyun/index_11.gif">&nbsp;</td>
+	</tr>
+	<tr>
+		<td height="9" colspan="5" background="../raziman_img/oyun/index_12.gif"></td>
+	</tr>
+</table>
+
+  <!--End-->
+</div>
+<div class="arlik"></div>
+
+<table border="0" width="795" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td background="../raziman_img/oyun/none.gif" width="214" height="30"  style="font-size:14px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ئەڭ يېڭى ئويۇنلار   </td>
+    <td background="../raziman_img/oyun/index_16.gif" width="565"></td>
+    <td width="16" height="30"><img src="../raziman_img/oyun/index_15.gif" width="16" height="30" alt=""></td>
+  </tr>
+  <tr>
+    <td colspan="3" width="795" valign="top"><table border="0" width="100%" cellspacing="0" cellpadding="0" height="100%">
+        <tr>
+          <td width="17" valign="top"><table border="0" width="100%" id="table3" cellspacing="0" cellpadding="0" height="100%">
+              <tr>
+                <td background="../raziman_img/oyun/right_top.gif" height="35">&nbsp;</td>
+              </tr>
+              <tr>
+                <td background="../raziman_img/oyun/right_down.gif"></td>
+              </tr>
+            </table></td>
+          <td align="center" width="760"><table width="98%" border="0" align="center" cellpadding="0" cellspacing="0" style="direction:rtl; font-size:11pt;">
+              <tr>
+                <?
+	$result = $db->query("SELECT movieid,title,thumb FROM ".channel_table('movie', 38)."  where status=3");
+	$pagesize=100;
+	$total=mysql_num_rows($result);
+	$filename='index.php?'.$catid.'&';	
+	$currpage=$page? intval($page):$page=1;
+	if(!is_int($currpage))
+	$currpage=1;
+	if(intval($currpage)<1)$currpage=1;
+	if(intval($currpage-1)*$pagesize>$total)$currpage=1;
+	if(($total%$pagesize)==0)
+	{
+		$totalpage=intval($total/$pagesize);
+	}
+	else
+	$totalpage=intval($total/$pagesize)+1;
+	if ($total!=0&&$currpage>1)
+	mysql_data_seek($result,(($currpage-1)*$pagesize));
+	$i=0;			  
+	while($r = $db->fetch_array($result))
+	{
+		$i=$i+1;
+		$keywords='uploadfile';
+		$okey='uploadfile_mtv';
+		$listurl=$r['thumb'];
+		$murl=explode("/",$listurl);
+		$lurl=$murl[2];
+		if($lurl!=$okey){
+			$listurl=str_replace($keywords,$okey,$lurl);				
+			$listurl='/uploadfile/mtv/'.$listurl.'/'.$murl[3].'/'.$murl[4];
+		}else{
+			$listurl='/'.$listurl;
+		}		
+		if($i>$pagesize)break; 	
+?>
+                <td align="center"><div class="img" ><a href="oyun_oynash.php?oyun=<?=$r['movieid']?>" target="_blank"><img style="border:#999 1px  solid"src="<?=$r['thumb']?>" width="130" border="0" height="100"/></a>
+                    <div style="background-color:#660000; line-height:22px; padding:2px ;"><a href="oyun_oynash.php?oyun=<?=$r['movieid']?>" target="_blank">
+                      <?=$r['title']?>
+                      </a></div>
+                  </div></td>
+                <?
+		if($i%5==0)
+		{
+			echo('</tr><tr>');
+		}
+	}
+	$db->free_result($result);
+?>
+              </tr>
+            </table>
+            <div class="bet_numuri">
+              <table width="100%" border="0" cellspacing="0" cellpadding="0" dir="rtl">
+                <form method="post" action="">
+                  <tr>
+                    <td height="24" style="text-align:center; font-size:11pt;"> جەمىئىي
+                                            دانە ئويۇن بار &nbsp;
+                                            <a href="page=1">باش بەت</a>&nbsp;<a href="page=-1">ئالدىنقى بەت</a>&nbsp;
+                                            كىيىنكى بەت&nbsp;ئاخىرقى بەت&nbsp;
+                                            بەت :&nbsp;تال /بەت &nbsp;
+                      <select name='page' size='1' onchange='javascript:submit()' " action="">
+                                              </select></td>
+                  </tr>
+                </form>
+              </table>
+            </div></td>
+          <td width="16" valign="top"><table border="0" width="100%" id="table2" cellspacing="0" cellpadding="0" height="100%">
+              <tr>
+                <td background="../raziman_img/oyun/left_top.gif" height="36"></td>
+              </tr>
+              <tr>
+                <td background="../raziman_img/oyun/left_down.gif"></td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr>
+          <td background="../raziman_img/oyun/index_24.gif" width="17" height="17"></td>
+          <td background="../raziman_img/oyun/index_23.gif" width="754" height="17px"></td>
+          <td background="../raziman_img/oyun/index_22.gif" width="16" height="17"></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<?
+	include("Bet_asti.php");
+?>

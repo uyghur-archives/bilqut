@@ -1,0 +1,338 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ئىلى ۋىلايەتلىك تېخنىك ئىشچىلار مەكتىپى-مائارپ-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,مائارپ">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/maarip/" class="red"> مائارپ</a>
+         | <a class="razimantur" href="/maarip/list.php?catid=133" >پايدىلىنىش ماتېرىيالى </a>
+
+ | <a class="razimantur" href="/maarip/list.php?catid=134" >خەلقئارا مائارىپ </a>
+
+ | <a class="razimantur" href="/maarip/list.php?catid=135" >كەسپىي مائارىپ </a>
+
+ | <a class="razimantur" href="/maarip/list.php?catid=136" > مائارىپ تارىخى  </a>
+
+ | <a class="razimantur" href="/maarip/list.php?catid=137" >مائارىپ تەشكىلاتلىرى </a>
+
+ | <a class="razimantur" href="/maarip/list.php?catid=138" >بالىلار باغچىلىرى </a>
+
+ | <a class="razimantur" href="/maarip/list.php?catid=139" >باشلانغۇچ مەكتەپلەر </a>
+
+ | <a class="razimantur" href="/maarip/list.php?catid=140" >ئوتتۇرا مەكتەپلەر </a>
+
+ | <a class="razimantur" href="/maarip/list.php?catid=141" >ئالىي مائارىپ </a>
+
+ | <a class="razimantur" href="/maarip/list.php?catid=142" > گېزىتلەر  </a>
+
+ | <a class="razimantur" href="/maarip/list.php?catid=143" > ژۇرناللار  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/maarip/">مائارپ</a> >> <a href="/maarip/list.php?catid=135">كەسپىي مائارىپ </a> >>  ئىلى ۋىلايەتلىك تېخنىك ئىشچىلار مەكتىپى</div>
+<!--主标题--><h1>ئىلى ۋىلايەتلىك تېخنىك ئىشچىلار مەكتىپى </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-04-20 11:07:00&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">118</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">مەملىكەت دەرىجىلىك نۇقتىلىق تېخنىك ئىشچىلار مەكتىپى. 1979 - يىلى 10 - ئايدا قۇرۇلغان. مۇقىم مۈلۈك 20000000 دىن ئارتۇق. ئاپتوموبىل رېمونتچىلىقى ۋە شوپۇرلۇق، مانتيورلۇق، ئاشپەزلىك، پارقازان، كومپيۇتېر، باغۋەنچىلىك، توقۇمىچىلىق، سېلىسارلىق قاتارلىق 15 خىل كەسىپ تەسىس قىلغان. 1999 - يىل 50 ئوقۇتۇش سىنىپى، 2200 نەپەر ئوقۇغۇچىسى، 102 نەپەر ئوقۇتقۇچى بار ئىدى. ئالىي دەرىجىلىك ئوقۇتقۇچىلار قوشۇنىغا ئىگە. ئالىي ئوقۇتقۇچى 10 نەپەر، 20 يىلدىن بۇيان 8500 نەپەردىن ئارتۇق ئوقۇغۇچى تەربىيىلىگەن.&#39;
+</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=48" title="شىنجاڭ رادىئو - تېلېۋىزىيە ئۇنىۋېرسىتېتى"  target="_blank" class="tag_title_link">شىنجاڭ رادىئو - تېل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=47" title="شىنجاڭ ئىگىلىك باشقۇرۇش كادىرلار مەكتىپى"  target="_blank" class="tag_title_link">شىنجاڭ ئىگىلىك باش...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=46" title="شىنجاڭ ئىشچى - خىزمەتچىلەر ئۇنىۋېرسىتېتى"  target="_blank" class="tag_title_link">شىنجاڭ ئىشچى - خىزم...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=45" title="يېزا رادىئو - تېلېۋىزىيە مەكتىپى"  target="_blank" class="tag_title_link">يېزا رادىئو - تېلېۋ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=44" title="يېزا قوللىنىشچان تېخنىكا تەربىيىسى"  target="_blank" class="tag_title_link">يېزا قوللىنىشچان ت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=43" title="&#39;شىخەنزە شەھەرلىك يۇيىڭ مەكتىپى&#39;"  target="_blank" class="tag_title_link">&amp;#39;شىخەنزە شەھەرلى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=42" title="ئىلى ۋىلايەتلىك تېخنىك ئىشچىلار مەكتىپى"  target="_blank" class="tag_title_link">ئىلى ۋىلايەتلىك تې...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=41" title="شىنجاڭ خىمىيە سانائىتى تېخنىك ئىشچىلار مەكتىپى"  target="_blank" class="tag_title_link">شىنجاڭ خىمىيە سانا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=40" title="شىخەنزە موساۋەن كەسپىي تېخنىكا مەكتىپى"  target="_blank" class="tag_title_link">شىخەنزە موساۋەن كە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=39" title="جىڭ ناھىيىلىك كەسپىي تېخنىكا مەكتىپى"  target="_blank" class="tag_title_link">جىڭ ناھىيىلىك كەسپ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=38" title="كورلا شەھەرلىك كەسپىي ئوتتۇرا تېخنىكوم"  target="_blank" class="tag_title_link">كورلا شەھەرلىك كەس...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=37" title="مەكىت ناھىيىلىك كەسپىي ئوتتۇرا تېخنىكوم"  target="_blank" class="tag_title_link">مەكىت ناھىيىلىك كە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=36" title="فۇكاڭ شەھەرلىك كەسپىي ئوتتۇرا تېخنىكومى"  target="_blank" class="tag_title_link">فۇكاڭ شەھەرلىك كەس...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=35" title="ئالتاي ۋىلايەتلىك تېببىي مەكتەپ"  target="_blank" class="tag_title_link">ئالتاي ۋىلايەتلىك ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=34" title="&#39;غۇلجا تېببىي مەكتەپ&#39;"  target="_blank" class="tag_title_link">&amp;#39;غۇلجا تېببىي مەك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=33" title="ئىلى مال دوختۇرلۇق مەكتىپى"  target="_blank" class="tag_title_link">ئىلى مال دوختۇرلۇق ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=32" title="ئىلى ۋىلايەتلىك تەنتەربىيە مەكتىپى"  target="_blank" class="tag_title_link">ئىلى ۋىلايەتلىك تە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=31" title="تارباغاتاي ۋىلايەتلىك تېببىي مەكتەپ"  target="_blank" class="tag_title_link">تارباغاتاي ۋىلايەت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=30" title="&#39;تارباغاتاي ۋىلايەتلىك مالىيە - سودا مەكتىپى&#39;"  target="_blank" class="tag_title_link">&amp;#39;تارباغاتاي ۋىلا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=29" title="خوتەن يېزا ئىگىلىك ماشىنىلىرى مەكتىپى"  target="_blank" class="tag_title_link">خوتەن يېزا ئىگىلىك ...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/maarip/search.php?catid=135&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=48" title="شىنجاڭ رادىئو - تېلېۋىزىيە ئۇنىۋېرسىتېتى"  target="_blank" class="tag_title_link">شىنجاڭ رادىئو - تېلېۋىزى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=47" title="شىنجاڭ ئىگىلىك باشقۇرۇش كادىرلار مەكتىپى"  target="_blank" class="tag_title_link">شىنجاڭ ئىگىلىك باشقۇرۇش...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=46" title="شىنجاڭ ئىشچى - خىزمەتچىلەر ئۇنىۋېرسىتېتى"  target="_blank" class="tag_title_link">شىنجاڭ ئىشچى - خىزمەتچىل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=45" title="يېزا رادىئو - تېلېۋىزىيە مەكتىپى"  target="_blank" class="tag_title_link">يېزا رادىئو - تېلېۋىزىيە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=44" title="يېزا قوللىنىشچان تېخنىكا تەربىيىسى"  target="_blank" class="tag_title_link">يېزا قوللىنىشچان تېخنىك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=43" title="&#39;شىخەنزە شەھەرلىك يۇيىڭ مەكتىپى&#39;"  target="_blank" class="tag_title_link">&amp;#39;شىخەنزە شەھەرلىك يۇي...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=42" title="ئىلى ۋىلايەتلىك تېخنىك ئىشچىلار مەكتىپى"  target="_blank" class="tag_title_link">ئىلى ۋىلايەتلىك تېخنىك ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=41" title="شىنجاڭ خىمىيە سانائىتى تېخنىك ئىشچىلار مەكتىپى"  target="_blank" class="tag_title_link">شىنجاڭ خىمىيە سانائىتى ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=40" title="شىخەنزە موساۋەن كەسپىي تېخنىكا مەكتىپى"  target="_blank" class="tag_title_link">شىخەنزە موساۋەن كەسپىي ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=39" title="جىڭ ناھىيىلىك كەسپىي تېخنىكا مەكتىپى"  target="_blank" class="tag_title_link">جىڭ ناھىيىلىك كەسپىي تې...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/maarip/show_js.php?itemid=42"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

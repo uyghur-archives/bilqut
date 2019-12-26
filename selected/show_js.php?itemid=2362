@@ -1,0 +1,3 @@
+﻿try {setidval('hits','983');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/madiniytimiz/show.php?itemid=2361">ئۇيغۇر تىلى دەرسلىكىدىكى تۈپ سۆز ۋە ياسالما سۆزلەرنى ئوقۇتۇش توغرىسدا</a></li><li>  كىيىنكىسى  :  <a href="/madiniytimiz/show.php?itemid=2363">ئوتتۇرا مەكتەپ تىل - ئەدەبىيات ئوقۇتقۇچىلىرى پائالىيەتچان بولۇشى كېرەك</a></li>');}catch(e){}

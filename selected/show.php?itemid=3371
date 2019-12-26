@@ -1,0 +1,397 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>مارتىن لۇتېر-كۇتۇپخانا-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,كۇتۇپخانا">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/kutupxana/" class="red"> كۇتۇپخانا</a>
+         | <a class="razimantur" href="/kutupxana/list.php?catid=43" >ھېكايىلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=44" > شېئىر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=45" > كەلىلە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=46" > نەسىرلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=47" > يۇمۇرلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=48" > ھىكمەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=49" > نەسىھەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=50" > ماقالىلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=51" > ياشلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=52" > تۇرمۇش </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=53" > نۇتۇقلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=54" >مەكتۇب  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=55" >غارايىبات</a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=56" > دۇنيادا ئەڭ  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=57" >قان تىپى </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=58" > مۆچەل  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=59" > مىللەتلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=60" > بۈگۈن  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=61" >مۇزېي </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=62" >تارىخ </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=63" >شەھەرلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=64" >دۆلەتلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=65" >كۇتۇبخانىلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=66" >مايلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=67" >مېۋە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=68" >كۆكتاتلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=69" >ئۆسۈملۈكلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=70" > ھايۋاناتلار  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/kutupxana/">كۇتۇپخانا</a> >> <a href="/kutupxana/list.php?catid=62">تارىخ </a> >>  مارتىن لۇتېر</div>
+<!--主标题--><h1>مارتىن لۇتېر </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2008-09-09 13:37:50&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">167</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">شۇ كۈنلەردە چېركاۋ ئالدىدىكى سەينا باشقىچە قىزىپ كەتتى. رىم پاپىسى ئۇنداق كاتتا زات ئەۋەتىپتۇ. بۇنداق كاتتا زات ئەۋەتىپتۇ دېگەنلەردىن باشقا يەنە بىرمۇنچە ئاجايىپ - غارايىپ «مۇقەددەس نەرسە» لەرنى ساتىدىكەن دېگەن گەپ - سۆزلەر تارقالدى.
+سەيناغا ياغاچتىن ياسالغان «بۇت كىرىست» (كىرىست بەلگىلىك موما) تۇرغۇزۇلغان بولۇپ، ئۇنىڭغا «مۇقەددەس ھەلەم» ئېسىلغان ئىدى، مۇقەددەس ھەلەمنىڭ ئاستى قىرغىقىغا چىقىرىلغان تۆت تال چۇچا شامالدا لەپىلدەپ تۇراتتى. بۇت كىرىستنىڭ يېنىغا بىر ئۇزۇنچاق شىرە قويۇلغان ئىدى. 
+- مانا بۇ «مۇقەددەس سۆڭەك»، كىم مەرھەمەت قىلدۇرسا ئون تىللالىقتىن بىرنى تاشلىسۇن! - بىر پوپ ئاشۇنداق سۈرەن سالغىنىچە قولىدىكى كىچىككىنە بىر تال سۆڭەكنى كۆرسىتىپ، - بۇ ئەيسا ئەلەيھىسسالامنىڭ مۇقەددەس سۆڭىكى، كىمكى مەرھەمەت قىلدرۇسا ئۇدۇل جەننەتكە كىرىدۇ، - دېدى.
+بىرمۇنچە دېھقان ئۇنىڭغا قاراپ بېشىنى چايقىدى - دە: 
+- بەكمۇ قىممەت ئىكەن، _دەپ&nbsp; پىچىرلاشتى. 
+- ياق! - دېدى پوپ شۇ ھامان، - بالىلىرىم، بۇ دېگەن سودا - سېتىق ئەمەس، مۇقەددەس سۆڭەكنى «مەھەمەت قىلدۇرۇش». بۇ مەزھىپىمىزدىكى بىر مۇرىدىمىزنىڭ تەقۋادارلىق ۋىجدانى ئۈستىدىكى سىناق! ھە، راست، بۇ يەردە يەنە ئەۋلىيا ماتتايوست بىلەن ئەۋلىيا پېروسنىڭ مۇقەددەس سۆڭىكىمۇ بار، كىمكى مەرھەمەت قىلدۇرسا، بەش تىللالىقتىن بىرنى تاشلىسۇن! - پوپ يەنە شۇنداق كىچىك سۆڭەكتىن ئىككى تالنى ئېلىپ بازارغا سالدى. 
+دېھقانلار ئۇلارنى كۆرۈپمۇ يەنە سەل يىراقلاپلا: «بۇ چوقۇم يالغان...» - دەپ غۇدۇراشتى. 
+- مۇقەددەس نەرسە! مۇقەددەس! _ پوپ يەنە بىر پارچە كونىراپ قالغان بورىنى چىقاردى، - بۇ - ئەۋلىيا ئانا مارىيە، ئەيسا ئەلەيھىسسالامنى تۇققاندا كۆرپە قىلغان بورا، ئەيسا ئەلەيھىسسالام مانا مۇشۇ بورىغا تۇغۇلغان! ئۈچ تىللا تاشلىغانلار مەرھەمەت قىلدۇرالايدۇ. ھەي مۆمىنلەر، تېز كېلىڭلار، تېز! 
+بىرمۇنچە كان ئىشچىلىرى ئۇنىڭغا قاراپ قويدى - يۇ، لام - جىم دېمىدى.
+- يەنە بار، يەنە!&nbsp; مانا بۇ - پەرىشتىنىڭ قانىتى، بىر تىللا تاشلىغانلار مەرھەمەت قىلدۇرالايدۇ! - پوپ سۈرەن سالغىنىچە بىر نەچچە تال پەينى كۆرسەتتى.
+كان ئىشچىلىرى بۇرۇلۇپ كېتىپ قالدى ۋە كېتىۋېتىپ پىچىرلىدى: 
+- تازا پەسلىك - دە، بۇ ئەسكى - تۈسكىلەرنى كۆتىرىپ چىقىپ پۇل تاپماقچى بولغىنىنى قاراڭ!
+پوپنىڭ تەرى شۇ ھامان ئۆزگىرىپ، جاۋغايلىرى ئولتۇرۇشۇپ كەتتى. توساتتىن ئۇ يەنە كۆزىنى يوغان ئېچىپ، تەرىنى ئوڭلاپ، جاۋغايلىرىنى تۈزەشتۈرۈپ، زومۇ - زو ھىجىيىپ، ئىززەت - ئىكرام بىلەن تۇردى.
+شۇئان چېركاۋ دەرۋازىسىدىن قىزىل چاپانلىق بىر باش ئېپىسكوپ چىقىپ كەلدى، بىر ئېپىسكوپ ۋە ئىككى راھىپمۇ ئۇنىڭ كەينىدىن چىقىپ كەلدى. راھىپلار سىلىندىر شەكىللىك بىر سوۋغىنى كۆتۈرۈلۋالغان بولۇپ، سوۋغىنىڭ كىچىككىنە بىر تۆشۈكى بار ئىدى. دېمەك، بۇ غەللە ساندۇقى ئىدى. ئېپىسكوپ قولىغا خەت پۈتۈلگەن بىر تۇتام قېلىن قەغەزنى ئالغان ھالدا، غەللە ساندۇقىنىڭ يېنىغا كېلىپ ئولتۇردى. بۇ _ «گۇناھ يۇيۇش تۇمارى» ئىدى.
+قىزىل چاپانلىق باش ئېپىسكوپ دەرۋازا ئالدىدىكى پەشتاقنىڭ ئوتتۇرىسىغا كەلدى - دە، قۇرۇق يۆتىلىپ قويۇپ، سەينادىكى تاماشا كۆرۈپ تۇرغانلارغا سۆز قىلىشقا باشلىدى:
+- بالىلىرىم! خۇدا مېھرى - شەپقەتلىك. ئۇنىڭ پانىي دۇنيادىكى ۋەكىلى پاپا، مېنى بۇ يەرگە سىلەرگە گۇناھ يۇيۇش تۇمارى سېتىشقا ئەۋەتتى. ھەق راستكى، سىلەرنىڭ گۇناھىڭلار چوڭ، دوزاققا كىرىپ ئازاپلىنىشىڭلار تۇرغان گەپ!
+تاماشا كۆرگۈچىلەر رىم پاپىسى ئەۋەتكەن بۇ كاتتا زاتنى كۆرۈش ئۈچۈن تەدرىجىي توپلاندى.
+_ گۇناھكار بەندىلەر، پۇلۇڭلارنى تېز تاشلاڭلار! - قىزىل چاپانلىق باش ئېپىسكوپ يەنە بىر قۇرۇق يۆتىلىپ قويۇپ سۆزىنى تەكرارلىدى، - بالىلىرىم، خۇدا مېھرى - شەپقەتلىكتۇر. ھەرقانداق كىشى ھەرقانچە چوڭ گۇناھ قىلغان بولسىمۇ، پاپا ئەمىر قىلغان گۇناھ يۇيۇش تۇمارىنى پۇل تۆلەپ سېتىۋالسا، خۇدا ئۇنىڭ بارلىق گۇناھىنى كەچۈرىدۇ!
+تاماشا كۆرۈۋاتقانلاردىن بىرى توپ ئارىسىدا تۇرۇپ: 
+«ئەجەپ گەپقۇ؟ زادى راستمىدۇ؟» دەپ غۇدۇڭشىدى.
+قىزىل چاپانلىق باش ئېپىسكوپ كۆزىنىڭ پاختىسىنى چىقىرىپ، غەرەزلىك ھالدا كامىتىنى رۇسلىدى - دە، داۋاملىق توۋلىدى:
+- بالىلىرىم، خۇدا ئەڭ مېھرى - شەپقەتلىكتۇر. گۇناھ يۇيۇش تۇمارى سېتىۋالماقچى بولغان پۇللارنى ئۈشبۇ ساندۇققا تاشلاڭلار! پۇل غەللىگە «تاراڭڭىدە» چۈشكەن ھامان، گۇناھكارلارنىڭ روھى دەرھال جەننەتكە كىرىدۇ!
+- قىزىق گەپقۇ بۇ، قاتىل، قاراقچى، ئاتا - ئانا ۋە قېرىنداشلىرىنى ئۆلتۈرگەنلەرمۇ گۇناھ تۇمارىنى سېتىۋالسا روھى جەننەتكە كىرەمدىكەن؟ - تاماشا كۆرۈۋاتقانلاردىن بىرى قىزىقسىنىپ سورىدى.
+- ھە راست، ھە راست! خۇدا ئەو مېھرى - شەپقەتلىك. قاتىل، قاراقچى، ئاتا - ئانىسىنى ۋە قېرىنداشلىرىنى ئۆلتۈرگەنلەرنىڭ ھەرقانداق چوڭ گۇناھى بولسىمۇ كەچۈرىدۇ! پاپا ئەمىر قىلىدۇكى، قاتىللار يەتتە تىللا، چېركاۋنى بۇلىغان قاراقچىلار توققۇز تىللا، ئاتا - ئانا ۋە قېرىنداشلىرىنى ئۆلتۈرگەنلەر تۆت تىللا تۆلىسە كەچۈرۈم قىلىنىدۇ. گۇناھ يۇيۇش تۇمارى سېتىۋالماقچى بولغان پۇللارنى ئۈشبۇ غەللىگە تاشلاڭلار! پۇلۇڭلار غەللىگە «تاراڭڭىدە» چۈشكەن ھامان روھىڭلار جەننەتكە كىرىدۇ!
+- ئاغزىغا كەلگەننى جۆيلۈۋاتىدۇ! ئالداپ پۇل تېپىش نەيرىڭىدىن باشقا نەرسە ئەمەس، - بىرمۇنچە كىشىلەر پەس ئاۋازدا غۇدۇڭشىدى. بىرمۇنچە كىشىلەر ئارقا - ئارقىدىن سەينادىن چىقىپ كەتتى. 
+بۇ ۋەقە 1517 - يىلى يۈز بەرگەن ئىدى. قىزىل چاپانلىق باش ئېپىسكوپ تېزىل، رىم پاپىسى گېرمانىيىگە ئەۋەتكەن پەۋقۇلئاددە ئەلچى ئىدى. ئۇنىڭ ۋەزىپىسى رىم پاپىسىنىڭ ئاتالىيىدە سان پېتىر ئىبادەتخانىسىنى ياسىتىشنى باھانە قىلىپ تۇرۇپ، گېرمانىيىدە گۇناھ يۇيۇش تۇمارى سېتىش ئىدى.
+</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3373" title="تۈرك دۇنياسىغا قىسقىچە نەزەر"  target="_blank" class="tag_title_link">تۈرك دۇنياسىغا قىس...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3372" title="ھەقىقى ئانتى سىمىتىزىمنى چۇشىنەمسىز؟"  target="_blank" class="tag_title_link">ھەقىقى ئانتى سىمىت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3371" title="مارتىن لۇتېر"  target="_blank" class="tag_title_link">مارتىن لۇتېر</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3370" title="چاچقۇن پادىشاھ ئىۋان"  target="_blank" class="tag_title_link">چاچقۇن پادىشاھ ئىۋ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3369" title="ئوتتۇرا ئەسىرنىڭ باشلىنىشى"  target="_blank" class="tag_title_link">ئوتتۇرا ئەسىرنىڭ ب...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3368" title="ئىسپان تىياتىرىنىڭ ئاتىسى"  target="_blank" class="tag_title_link">ئىسپان تىياتىرىنىڭ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3367" title="سېرۋانتس"  target="_blank" class="tag_title_link">سېرۋانتس</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3366" title="«گىگانت ئادەمنىڭ تەرجىمىھالى» ۋە رابلې"  target="_blank" class="tag_title_link">«گىگانت ئادەمنىڭ ت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3365" title="قەلەندەرلەر قوزغىلىڭى"  target="_blank" class="tag_title_link">قەلەندەرلەر قوزغىل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3364" title="قانلىق پەرمان"  target="_blank" class="tag_title_link">قانلىق پەرمان</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3363" title="ئۇتوپىيە"  target="_blank" class="tag_title_link">ئۇتوپىيە</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3362" title="«يېڭىلمەس پاراخوت قوشونى » نىڭ گۇمران بولۇشى"  target="_blank" class="tag_title_link">«يېڭىلمەس پاراخوت ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3361" title="قوي، ئادەملەرنى يەپ كەتكەن ئاپەت"  target="_blank" class="tag_title_link">قوي، ئادەملەرنى يە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3360" title="جەنۋە پاپىسى"  target="_blank" class="tag_title_link">جەنۋە پاپىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3359" title="ئۈچ رەڭلىك بايراق"  target="_blank" class="tag_title_link">ئۈچ رەڭلىك بايراق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3358" title="توماس ميۇنتسېر"  target="_blank" class="tag_title_link">توماس ميۇنتسېر</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3357" title="رىم پاپىسىدىن ئادا - جۇدا بولايلى"  target="_blank" class="tag_title_link">رىم پاپىسىدىن ئادا ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3356" title="بايراققا سىزىلغان چىغ كەش"  target="_blank" class="tag_title_link">بايراققا سىزىلغان ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3355" title="پارچە - پارچە بەگلىكلەرگە بۆلۈنۈپ كەتكەن گېرمانىيە"  target="_blank" class="tag_title_link">پارچە - پارچە بەگلى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3354" title="سان پېتىر ئىبادەتخانىسى"  target="_blank" class="tag_title_link">سان پېتىر ئىبادەتخ...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/kutupxana/search.php?catid=62&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3373" title="تۈرك دۇنياسىغا قىسقىچە نەزەر"  target="_blank" class="tag_title_link">تۈرك دۇنياسىغا قىسقىچە ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3372" title="ھەقىقى ئانتى سىمىتىزىمنى چۇشىنەمسىز؟"  target="_blank" class="tag_title_link">ھەقىقى ئانتى سىمىتىزىمن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3371" title="مارتىن لۇتېر"  target="_blank" class="tag_title_link">مارتىن لۇتېر</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3370" title="چاچقۇن پادىشاھ ئىۋان"  target="_blank" class="tag_title_link">چاچقۇن پادىشاھ ئىۋان</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3369" title="ئوتتۇرا ئەسىرنىڭ باشلىنىشى"  target="_blank" class="tag_title_link">ئوتتۇرا ئەسىرنىڭ باشلىن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3368" title="ئىسپان تىياتىرىنىڭ ئاتىسى"  target="_blank" class="tag_title_link">ئىسپان تىياتىرىنىڭ ئاتى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3367" title="سېرۋانتس"  target="_blank" class="tag_title_link">سېرۋانتس</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3366" title="«گىگانت ئادەمنىڭ تەرجىمىھالى» ۋە رابلې"  target="_blank" class="tag_title_link">«گىگانت ئادەمنىڭ تەرجىم...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3365" title="قەلەندەرلەر قوزغىلىڭى"  target="_blank" class="tag_title_link">قەلەندەرلەر قوزغىلىڭى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3364" title="قانلىق پەرمان"  target="_blank" class="tag_title_link">قانلىق پەرمان</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/kutupxana/show_js.php?itemid=3371"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

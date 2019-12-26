@@ -1,0 +1,336 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ئۇيغۇرچە asp لىق بېلەت تاشلاش سېستىمىسى تارقىتىلدى-كومپيۇتېر بىلىملىرى-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,كومپيۇتېر بىلىملىرى">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/kompiyotir/" class="red"> كومپيۇتېر بىلىملىرى</a>
+         | <a class="razimantur" href="/kompiyotir/sual/" > كومپيۇتېردىن سوئال- جاۋابلار  </a>
+
+ | <a class="razimantur" href="/kompiyotir/unwersal/" > ئۇنىۋېرسال بىلىملىرى  </a>
+
+ | <a class="razimantur" href="/kompiyotir/kashila/" >كومپيۇتېر كاشىلىلىرى </a>
+
+ | <a class="razimantur" href="/kompiyotir/qattiq/" > قاتتىق دېتال  </a>
+
+ | <a class="razimantur" href="/kompiyotir/yumshaq/" >يۇمشاق دېتال </a>
+
+ | <a class="razimantur" href="/kompiyotir/mashgulat/" >مەشغۇلات سىستېمىسى </a>
+
+ | <a class="razimantur" href="/kompiyotir/tor/" > توربىلىملىرى  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/kompiyotir/">كومپيۇتېر بىلىملىرى</a> >> <a href="/kompiyotir/tor/"> توربىلىملىرى  </a> >>  ئۇيغۇرچە asp لىق بېلەت تاشلاش سېستىمىسى تارقىتىلدى</div>
+<!--主标题--><h1>ئۇيغۇرچە asp لىق بېلەت تاشلاش سېستىمىسى تارقىتىلدى </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-01-17 21:43:21&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">269</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">ئۇيغۇرچە asp لىق بېلەت تاشلاش سېستىمىسى تارقىتىلدى
+بەزىدە بىز مۇنبەرلەرنىڭ بېلەت تاشلاش ئىقتىدارىنى ئىشلىتىپ بېلەت تاشلاش ئېلىپ بارىمىز، ئەمما مۇھىم بېلەت تاشلاشلاردا قارىساق بۇ بېلەت تاشلاشنىڭ يەنىلا كۆڭۈلدىكىدەك بولمىغانلىقىنى، بەزى ئالدامچىلىق، ساختىپەزلىك ئىشلىرىنىڭ مەۋجۇت ئىكەنلىكىنى ھېس قىلىمىز، يەنى بىر ئەزا بىر قانچە خىل ئىسىمدا تىزىملىتىپ، تورنى بىر ئۈزۈپ-ئۇلاپلا ipسىنى ئۆزگەرتىپ يەنە بېلەت تاشلايدىغان، ... دېگەندەك .
+بۇ asp بېلەت تاشلاش سېستىمىسىدا&nbsp;&nbsp;سىز تورنى ئۈزۈپ ئۇلاڭ، ياكى كومپيۇتېرنى نەچچە قېتىم ئۆچۈرۈپ-قوزغۇتۇڭ، ئىككى قېتىم بېلەت تاشلاش ئېلىپ بارالمايدۇ .
+بېلەت تاشلىنىغانلارنىڭ سۈرىتى، ئىسمى،تۇنۇشتۇرلۇشى بىلەن قوشۇپ بېلەت تاشلاشقا چىقارغىلى بولىدۇ .
+كۆرۈش ئادرىسى:&nbsp;&nbsp;[url]https://www.rohlan.cn/belat/[/url] 
+ھازىر سىناق ئۈچۈن ئىككى ئىسىم ۋە رەسىم چىقىرىپ قۇيۇلدى، تورداشلارنىڭ كۆرۈپ قىممەتلىك تەكلىپ-پىكىرلەرنى بېرىشىنى ئۈمىت قىلىمىز، ئەگەر ئىشلىتىدىغان بىكەت باشلىقلىرى بولسا تەرجىمە قىلغۇچى ئۇچۇرلىرىنى ئۆزگەرتمىگەن ئاساستا ئىشلەتسە بولىدۇ، پۈتۈنلەي ھەقسىز تارقىتىلدۇ . ئىچىدە ياردەم ھۆججىتى بىرگە تەمىنلەندى .
+مېنىڭ مۇشۇنداق ئېلان تېمىسى يوللاش بىلەن خۇشام يوق ئىدى، ئەمما قوشۇمچە يوللاش ھوقۇقۇم بولمىغاچقا ئامال بولمىدى.
+چۈشۈرۈش مەنزىلى: [url]https://www.rohlan.cn/bbs/viewthread.php?tid=765[/url] </span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=472" title="qqمۇلازىمەتلىرى بەلگىسىنى ياندۇرۇش ئۇسۇلى"  target="_blank" class="tag_title_link">qqمۇلازىمەتلىرى بەل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=471" title="تور بەتتا دائىم ئىشلىتىدىغان بىر نەچچە خىل ئېلان كودلىرى"  target="_blank" class="tag_title_link">تور بەتتا دائىم ئىش...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=470" title="چاقماق(迅雷)نىڭ تىرىسىنى ھەقسىز ئىشلىتىش"  target="_blank" class="tag_title_link">چاقماق(迅雷)نىڭ تىرىس...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=469" title="phpwindتىكى تېما ئېلىشتا ئەمدى قىينالمايسىز"  target="_blank" class="tag_title_link">phpwindتىكى تېما ئېلىش...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=468" title="2009-يىلى 4-ئاينىڭ 27-كۈنى بەرگەن ئالى مەكتەپ تەنتەربىيە ئىمتاھانىنىڭ نەتىجىسى چىقتىمۇ؟"  target="_blank" class="tag_title_link">2009-يىلى 4-ئاينىڭ 27-ك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=467" title="QQ توپتىكى بىكار تەلەتلەرنى ئايرىش ئۇسۇلى (يېڭى)"  target="_blank" class="tag_title_link">QQ توپتىكى بىكار تەل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=466" title="شىنجاڭ كۆچمە خەۋەرلىشىش گوروھى ئۇيغۇريېزىقىدىكى تور تىجارەتخانىسى"  target="_blank" class="tag_title_link">شىنجاڭ كۆچمە خەۋەر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=465" title="رەسىمدىكى&nbsp;&nbsp;Font نى تىپىش"  target="_blank" class="tag_title_link">رەسىمدىكى  Font نى تى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=464" title="56Kbps مودىم ئورناتقاندىن كېيىن كومپيۇتېرنىڭ ئۆچمەسلىكى"  target="_blank" class="tag_title_link">56Kbps مودىم ئورناتقا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=463" title="نۆۋەتتكى توربەتنىڭ URLنى كۆچۈرۈش&nbsp;&nbsp;كودى"  target="_blank" class="tag_title_link">نۆۋەتتكى توربەتنىڭ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=462" title="QQ «پۇلى» نى ئۆتۈنۈپ بەرگىلى بولامدۇ؟"  target="_blank" class="tag_title_link">QQ «پۇلى» نى ئۆتۈنۈپ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=461" title="تىلفۇنغا ھەقسىز ناخشا تەلەپ قىلىۋىلىڭ!ھەقسىز،ھەقسىز،ھەقسىز....."  target="_blank" class="tag_title_link">تىلفۇنغا ھەقسىز نا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=460" title="«ئۇيغۇرچە سۆزلەشكۈ» دە ھەمكارلىشىش..."  target="_blank" class="tag_title_link">«ئۇيغۇرچە سۆزلەشكۈ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=459" title="ADSL بىلەن تورغا چىققاندا ئۈزۈلۈپ كېتىش، ھەتتا كومپيۇتېر قېتىۋېلىش ھادىسىسى"  target="_blank" class="tag_title_link">ADSL بىلەن تورغا چىقق...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=458" title="تور بېكتىڭىزگە ئالىي مەكتەپ ئىمتاھان نەتىجىسى سۈرۈشتۈرۈش جايى ياسىۋېلىڭ"  target="_blank" class="tag_title_link">تور بېكتىڭىزگە ئال...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=457" title="توردا دەرىس ئېلىشنىڭ ۋاقتى كەلدىمۇ؟"  target="_blank" class="tag_title_link">توردا دەرىس ئېلىشن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=456" title="DDN ئۇقۇمى"  target="_blank" class="tag_title_link">DDN ئۇقۇمى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=455" title="خەنزۇچە كىرگۈزگۈچ يوق شارائىتتا خەنزۇچە كىرگۈزۈش ئۇسۇلى"  target="_blank" class="tag_title_link">خەنزۇچە كىرگۈزگۈچ ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=454" title="ئۇيغۇرچە asp لىق بېلەت تاشلاش سېستىمىسى تارقىتىلدى"  target="_blank" class="tag_title_link">ئۇيغۇرچە asp لىق بېل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=453" title="ماڭا ftpبوشلۇقتىن يارىدەم قىلغان بولساڭلار"  target="_blank" class="tag_title_link">ماڭا ftpبوشلۇقتىن يا...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/kompiyotir/search.php?catid=120&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=472" title="qqمۇلازىمەتلىرى بەلگىسىنى ياندۇرۇش ئۇسۇلى"  target="_blank" class="tag_title_link">qqمۇلازىمەتلىرى بەلگىسى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=471" title="تور بەتتا دائىم ئىشلىتىدىغان بىر نەچچە خىل ئېلان كودلىرى"  target="_blank" class="tag_title_link">تور بەتتا دائىم ئىشلىتى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=470" title="چاقماق(迅雷)نىڭ تىرىسىنى ھەقسىز ئىشلىتىش"  target="_blank" class="tag_title_link">چاقماق(迅雷)نىڭ تىرىسىنى ھ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=469" title="phpwindتىكى تېما ئېلىشتا ئەمدى قىينالمايسىز"  target="_blank" class="tag_title_link">phpwindتىكى تېما ئېلىشتا ئە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=468" title="2009-يىلى 4-ئاينىڭ 27-كۈنى بەرگەن ئالى مەكتەپ تەنتەربىيە ئىمتاھانىنىڭ نەتىجىسى چىقتىمۇ؟"  target="_blank" class="tag_title_link">2009-يىلى 4-ئاينىڭ 27-كۈنى ب...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=467" title="QQ توپتىكى بىكار تەلەتلەرنى ئايرىش ئۇسۇلى (يېڭى)"  target="_blank" class="tag_title_link">QQ توپتىكى بىكار تەلەتلە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=466" title="شىنجاڭ كۆچمە خەۋەرلىشىش گوروھى ئۇيغۇريېزىقىدىكى تور تىجارەتخانىسى"  target="_blank" class="tag_title_link">شىنجاڭ كۆچمە خەۋەرلىشىش...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=465" title="رەسىمدىكى&nbsp;&nbsp;Font نى تىپىش"  target="_blank" class="tag_title_link">رەسىمدىكى  Font نى تىپىش...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=464" title="56Kbps مودىم ئورناتقاندىن كېيىن كومپيۇتېرنىڭ ئۆچمەسلىكى"  target="_blank" class="tag_title_link">56Kbps مودىم ئورناتقاندىن ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=463" title="نۆۋەتتكى توربەتنىڭ URLنى كۆچۈرۈش&nbsp;&nbsp;كودى"  target="_blank" class="tag_title_link">نۆۋەتتكى توربەتنىڭ URLنى ...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/kompiyotir/show_js.php?itemid=454"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

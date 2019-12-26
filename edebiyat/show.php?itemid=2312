@@ -1,0 +1,334 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>نىزار قەببانىيغا خەت(نىزار قەببانىي ۋاپاتىنىڭ 10يىللىغا )-ئەدەبىيات-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,ئەدەبىيات">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/edebiyat/" class="red"> ئەدەبىيات</a>
+         | <a class="razimantur" href="/edebiyat/list.php?catid=259" >شېئىرىيەت گۈلزارى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=261" >تەڭرىتاغ چېچەكلىرى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=262" >نەسرىي ئەسەرلەر </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=263" >فانتازىيىلىك ئەسەرلەر </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=264" >سەھنە ئەسەرلىرى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=265" >دېرىزىنىڭ سىرتىدا...    </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=266" >مەشھۇر ئەسەر مەزمۇنى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=268" >ئەدىپلەر ئارخىپى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=269" >ئەسەر ۋە باھا</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=271" >قانۇن ۋە ئەدەبىيات</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=272" >ئەدەبىيات يېڭلىقلىرى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=274" > تەرمە گۈللەر </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=275" >ئۇنىۋېرسال ئەدەبىي ئەسەرلەر</a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/edebiyat/">ئەدەبىيات</a> >> <a href="/edebiyat/list.php?catid=259">شېئىرىيەت گۈلزارى</a> >>  نىزار قەببانىيغا خەت(نىزار قەببانىي ۋاپاتىنىڭ 10يىللىغا )</div>
+<!--主标题--><h1>نىزار قەببانىيغا خەت(نىزار قەببانىي ۋاپاتىنىڭ 10يىللىغا ) </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2008-04-05 02:11:06&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">111</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<img src="/raziman_img/bash/reng/reng_1.gif" id="img1" style="cursor:hand;"  onclick="conhat(1)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_2.gif" id="img2" style="cursor:hand;"  onclick="conhat(2)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_3.gif" id="img3" style="cursor:hand;"  onclick="conhat(3)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_4.gif" id="img4" style="cursor:hand;"  onclick="conhat(4)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_5.gif" id="img5" style="cursor:hand;"  onclick="conhat(5)">&nbsp;&nbsp;                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">[color=Red][size=5][align=center]نىزار قەببانىيغا خەت [/align][/size][/color]<br><br>[color=Green][size=3][align=center](نىزار قەببانىي ۋاپاتىنىڭ 10يىللىغا )[/align][/size][/color]<br><br>[color=Blue][size=4]مىنىڭمۇ سويۇملۇكۇم ئولتۇرۋىتىلگەن نىزار قەببانى .بۇنىڭ سەۋەبىنى سوزلەپ بىرىش ئۇچۇن &quot;ئۇيغۇر &quot;ئاتلىق شەھەرنىڭ سۇيقەسىتكە ئۇچراش تارىخنى مەنسىتمەسلىك بىلەن ئوتتۇرغا قويۇشنى خالايمەن .قۇملۇقتا ئولتۇرۇپ &quot;يىراقلىق&quot;نىڭ مەنزىرسىنى تاماششا قىلىۋاتقىنىمدا &quot;شېئىرلىرىمنىڭمۇ &quot;سۇيقەسىت ئىچىدە ئىكەنلىكىنى بىلدىم .ئەخمەقلەرچە سىزىپ چىققان شەھەرلىرىمدە بۇينى قىسىلغان شېئىرلىرىم &quot;رەھمەت سىلەرگە ،&quot;رەھمەت سىلەرگە &quot;سوزلىرىنى تەكرارلاشقا باشلاپتۇ .<br>قۇملۇقتا ئۇچۇپ يۇرگەن لەگلەكنىڭ مەھەللەمدىن قويىۋىتىلگەنلىكىنى باھاردىن ئاڭلىدىم .داستانلىرىمنى يىرتىپ تاشلاپ قەلبىمدە ئوزۇم ياسىۋالغان تۇپراقتىكى تۇرمىگە كىرىپ كىتىۋاتقىنىمدا كىشەنلەردىن مەڭگۇ ئازات بولالمايدىغانلىغىمنى ،گۇزەللىكتىكى ئىنىقلىمىنىڭ مەڭگۇ سوزلەنمەيدىغانلىغىنى ھەم ئىتىراپقا ئىرىشمەيدىغانلىغىنى سەزدىم .<br>شېئىردىكى مىللەتنىڭ كۇلكىلىرىنى سىزگە سوزلەشتىن بۇرۇن ئىراق زىمىندا ئىقىۋاتقان قاننىڭ ماڭا كوچىۋاتقانلىغىنى .ئىسرىق سىلىپ ئولتۇرغان مۆمامنىڭ بامداتتىكى دۇئاسىنى قانداق ئاخىرلاشتۇرغانلىغىنى بىلمەيمەن .بۇ خەۋەردىكى پېئىلنى يوق قىلىشقا ئۇرۇنغان بولساممۇ ئامال بولمىدى .نىرۋامنىڭ ئاغرىۋاتقانلىغىنى بىلدىم .مەندىكى بۇ نىرۋا كىسىلى سويۇملۇكۇم ئولتۇرۋىتىلگەن كۇنى سەھەردە باشلانغان .ئۇنىڭ ياپ –يېشىل چوپ ئۇستىدىكى جەسىدى شېئىرلىرىمنىڭ بىشىغا چىققان بولسىمۇ بۇ خەۋەردىكى قان، قەلبىمنى دېڭىزغا ئايلاندۇرۇپ قۇملۇققا قۇيۇلۇش ئالدىدا تۇرۇدۇ .سەيىر قىلىشنىڭ شۇ پەيتىدىكى كۇنلەردە ئوزۇمنى ئولتۇرۋىلىش ئىستىكىدە يۇرگىنىمدە شېئىرلىرىمنىڭ يەنىلا ماڭا ئەگىشىپ يۇرگەنلىكىنى بىلىمەن .جىنىمنى ئۇنىڭغا تاپشۇرۇپ بىرىشتىن بۇرۇن جەنۇپتا ياشاۋاتقان تىنىم قاشالانمىغان تۇرمىلەردە يەنىلا سىزىمغا مۇراجەت قىلىپ تۇرۇپتۇ .شېئىرنىڭ مىنى قۇتقىزىۋالغان پەيتلەردىكى كۇنلەرنىڭ ماڭا ئەگىشىپ يۇرگەن قىسمەتلىرىدە  ھىچكىمگە ئوخشىماسلىققا ئۇرۇنغان بولساممۇ &quot;يىلاننىڭ يىلاننى يەۋاتقانلىغىنى &quot;كورۇپ تۇرغان كوزلىرىم قەلبىمدىكى سۇرەتنى يىرتىۋىتىشكە ئۇرىنىۋاتقاندا سىنىڭ 36-توپلىمىنىڭنى ئوقۇپ چىقتىم نىزار قەببانىي .<br>ماڭا كەلگەن خەت-چەكلەرنىڭ ئىچىدە سىنىڭ ئاۋازىڭنىڭ يوق ئىكەنلىگىنى بىلگەن بولساممۇ ماڭا پىچىرلاۋاتقان زەيتۇن چىشلىگەن كەپتەرنىڭ نامراتلىق يىغىپ تۇرغان كۇلبىسىنى كورسىتىپ قويدۇڭ .ئەمدى بىلدىم .قۇياش بىلەن زىمىننى يۇرۇتقىلى بولغان بىلەن  قەلبىمنى يۇرىتالمايدىغانلىغىنى بىلدىم .مەن جۇدا بولغان سۇيگۇنۇمنىڭ جەسىدى نۇر ئىچىدە جۇلالىنىپ تۇرغاندا سوز ئىبارىلەر ئىچىدە قورشاۋغا چۇشكەن تىنىمنى نىمە دەپ چاقىرماقچى بولىۋاتىسەن .دەرەخ تۇۋىدىكى سايىلەردە مەھمۇد دەرۋىشنىڭ ساڭا نىمە دىگەنلىكىنى بىلگۇم بار .مىنىڭ قاقاقلاپ كۇلىشىم جىنايەتكە ئايلانغاندا مەنمۇ ئاشۇ دەرەخ ئاستىغا بارماقچى بولدۇم .قەلبىمدە يۇشۇرنۇپ ياتقان جارائەتنى ئاللاھنىڭ ھۇزۇردا ساقايتىشنى نىيەت قىلغاندا ۋەتىنىم دەپ قىسە پۇتكۇچىنىڭ بارلىق جەڭلەردىن قايتىپ كەلگەنلىكىدىن خەۋەر تاپتىم .ھازىرلىقلىرىم شېئىرنىڭ دىمۇگىراتىريەسىنىڭ سەن بىلەن باشلىنىپ سەندە ئاخىرلاشقانلىغىنى جاكارلىغاندا ئىشىگى تاقىۋىتىلگەن پاھىشخاننىڭ ئالدىدا نىمە ئۇچۇن ساقلاپ تۇرىمەن .نىمىنى ساقلايمەن .نىمە ئۇچۇن قاقاقلاپ كۇلىمەن .قەلبىم ماڭا مۇنداق خىتاپ قىلىدۇ .-ئەي شائېر سەن پەرىشتىنىڭ كوزلىرىنى ساقلاۋاتىسەن .ئەتە ئولۇپ كىتىدىغانلىغىڭ ئۇچۇن قاقاقلاپ كۇلىۋاتىسەن .سەن شېئىرنىڭ ئىچىگە قايتىپ كەت .!!!شېئىرلىرىڭدا جەننەت بار ،ھەم دوزاق بار .سىنىڭ يەتتەدىن ئىبارەت سانغا ئوچمەنلىكىڭ قوزغالغان كۇنى ئوزۇڭنىڭ تىل بىلەن ئوينىشىۋاتقانلىغىڭنى بىلىسەن .<br><br>شۇ كۇنلەرنىڭ مىنى ئىزلەۋاتقانلىغى ھىلىمۇ ئېسىمدە .مەن ھادىسلەرنىڭ ئىچىدىن شەكىل تونىغا ئورىنىۋالغان جىمجىتلىقنىڭ ئاۋازىغا قىزىقمايمەن .مەندىكى &quot;قورقۇنۇشلۇق شېئىريەت بوشلىغى &quot;قەلبىمدە غەليان قىلىۋاتقان بىرلىكنى كوزۇمگە دەپىن قىلغاندا تۇپراقتىن ئۇنۇپ چىققان تىنىمنىڭ دانچىلىرى كېچىلەرگە چىچىلدى .يىغلاۋاتقان نۇر ئىچىدە قەبرىگە كىتىۋاتقان بۇلۇتلارنىڭ سايىسى مىنىڭ تىنىمنى يورۇقلۇقتىن توسقاندا يەنىلا شېئىر ئىچىگە مۇكىنىۋالايمۇ ؟<br>ئەي !!قۇتۇلدۇرۇلغۇچى بەندە ....ھارۋىغا تاشلانغان جەسەتنىڭ قورشاۋىدا قالغىنىڭدا كىيىنكى سوزلەرنى ئولتۇرگۇچى كىم ؟!بىز خۇدانىڭ بۇ ئالەمنى ياراتقانلىغىنى بىلدۇق .زىمىندىكى ئەينەكلەر چىقىۋىتىلگەندە بىزگە نۇر تەقسىم قىلغۇچىنىڭ ئولۇمدىكى سايىلەرنى يوشۇرۇپ قويغانلىغىدىكى ھىكمەتتە يەنىلا ئىدىيە بولماسلىغى مومكىن .ئوز جىنايەتلىرىمىزنىڭ كىيىنكى سوزلەر بىلەن دەپىن قىلىۋىتىشىدا يەنىلا گۇل بار .گۇل ھەممە نەرسىنى دەپىن قىلىۋەتتى .بىز شېئىرنىڭ ئىچىگە مۇكىنىۋىلىشىمىز كىرەك –دىدىڭ سەن .<br>سەپىرىمىز بەك ئۇزۇن .سەھەردىكى ناخشىدا بىزگە قالدۇرۇلغان بوران تىنىمىزنى ياپراقتەك تىتىرتىۋاتقاندا بىز نىمە ئۇچۇن يىغلىدۇق .بىز يىغلاڭغۇ ئەمەس .لىكىن بىز يىغلاۋاتىمىز .ياش بىلەن دىلىمىز ئوتتۇرسىدىكى سۇرەتتە سوھبىتىمىز يەنە داۋاملىشىۋاتىدۇ .يامغۇردا يىيىلىۋاتقان تىنىمىز ئۇچۇن سەيياھقا ئايلاندۇق .بىز قايەرگە بارىمىز .؟بىز قايەردىن كەلدۇق .؟بۇنى يامغۇر بىزگە ئىيتىپ بەرمىدى .خەزىنىلىرىمىز بۇلاڭ –تالاڭ قىلىنغاندا تاغ باغرىدا ئىچىلغان لەيلىنىڭ پىچىرلاشلىرىدا سويۇملۇگۇمنىڭ ئاۋازى يوق .لىكىن كۇلكىنىڭ جاراڭلىق مەرغۇلىدا قارشى –قىرغاقنىڭ خەۋەرلىرى بار .بۇ خەۋەردە يەنىلا ئولۇمنىڭ بىزگە تاشلانغان سوراقىلىرىدىكى قاراڭغۇ كىچىدە ،قارا تاش ئىچىدىكى قارا چۇمىلەرنىڭ نىمە قىلىۋاتقانلىغىدىكى سادا يەنىلا سەپىرىمىزنى داۋاملاشتۇرشىمىزنى مۇراجەت قىلدى .ئەي !!مىنىڭ قۇياشىم !!!!يىنىمدا كەل .....ئەي !!قۇياش ..سىنىڭ نىمە ئۇچۇن ئولۇپ كەتكەنلىگىڭنى پەسىللەر ئىچىدىكى باھار مىنىڭ شېئىرلىرىمدەك تىنىۋاتقاندا ئاڭلاشنى خالايمەن .سۇكۇتلىرىمدە مەندە ياشىغۇچىلارنىڭ يىغىلىرىنىمۇ ئاڭلىغۇم يوق .<br>ئازاپ –بىلەن شاتلىقنىڭ تىنىقلىرىدىكى جىمجىتلىق بۇ دۇنياغا قايتا كىلىشنى رەت قىلىدۇ .مەنمۇ رەت قىلىش ئەركىنلىگىنى قەلبىمدىكى سۇنغان نۇردىن ئاڭلىغان .لىكىن شېئىرنىڭ تەكتىدە ئۇزۇپ يۇرگەن سەيياھ دېڭىزغا ئايلانغان قەلبىمدە بۇ ماكاننىڭ ئاغرىق دەردىنى نىمە ئۇچۇن ماڭا سوزلەپ بەرمەيدۇ .مەنمۇ ئەينەكتەك پارچىلانغۇچىغا ئايلانغاندا كېچىلەردە ئولتۇرۇپ تاماكا چىكىمەن .قەلبىمدىكى مىھماننىڭ ئۇزۇك –ئۇزۇك تېنىقلىرىدىكى پارچىلارنى يادلايمەن .بىر شېئىر ئوقۇغۇچى بولۇش سۇپىتىم بىلەن يەنىلا ھارۋىغا چىقاي .جەسەت توشۇيدىغان ھارۋا مەن ئۇچۇن يەنىلا قىممەتلىك .بۇ ھارۋىدىكى لەززەتتە كىپەن بىلەن كىپەنلەنگەن تېنىمغا ھازا تۇتقان يولتۇزنىڭ بۇگۇن كېچە ساقىپ چۇشكەندىكى سىلكىنىشى يەنە داۋام ئەتسۇن .<br>سىلىكىنىشتىن ئوتۇپ كەتكەن كۇنى جەسەت ھارۋىسىدىكى تىنىمغا كىملەرنىڭ تۇپراق چىچىپ قويىشى مەندىكى ئىسەنكىرەشمۇ ئەمەس .بۇنىڭ خۇپيانە داۋاملىشىغا ئىشىنىمەن .چۇنكى مەن ئولۇپ كەتكۇچى .ھەم ئولۇمۇمدە شېئىر ئوقۇغۇچى <br><br><br>مەن بۇگۇنۇم ئىچىگە قايتىپ كەلدىم .چۇشكە ئايلىنىپ كەتكەن ئوتمۇشۇمدە قاننىڭ ئوزۇمنىڭ ئىكەنلىكىنى بىلەتتىم .يىللاردىكى مۇدھىش تىرناق بىلەن ئوز قىنىمدا بۇلغىنىۋاتقان يۇرۇگۇمنى كوتىرىپ ئوز ئويۇمگە قايتىپ كەلدىم .نىزار قەببانىي .مەندىن يىراقلىشىپ كەتكەن ئوي !!ھەم بۇگۇنلىرىم ئۇچۇن ياش توككۇچى مەنمۇ ؟!مەنزىلسىز مۇساپىلەردە ناخشا ئىيىتقۇچى مەنمۇ ؟!ئوز قىنىنى ئوزى بۇلغىغان .ئوز قىنى ئوزى سىتىۋالغۇچى مەنمۇ ؟<br>قەدەھتىكى قۇياش ۋەسلىدە  ئوزىنى ئۇنتۇغان پەرىشتىنىڭ  مۇبارەك قەسەملىرى بىلەن نۇرغا  كىرىپ كىلىمەن .تىنىمدىكى تىلنىڭ سوزۇق تاۋۇشلىرى  تەرىپىدىن ئىسيان قىلىنغان روھىمغا قاراپ ، قەلبىمگە چىچىلغان قۇم توزانلىرىغا  سەجدە قىلىۋاتقىنىمدا ، مەقسەت جىھرىدىكى  قاندىن قىچىپ چىقالارمەنمۇ ؟قارلىغاچ ئۇۋىسىدىكى پەي توزانلىرى جان تەۋەللۇتىدىكى  ئاۋازنىڭ تازلىغۇچىسى . قانىغان ئاۋازىمدىكى يوقلۇق &#45;&#45; سىسىپ كەتكەن كەپتەر جەسىدىنىڭ  شىئېر ئىچىدىكى بايانى! مەن بۇ شېئىرنى كىچىلەردىمۇ ئوقۇيمەن .تاۋاپقا يىقىنلىشىپ قالغان قەلبىم بىلەن شېئىر ئىچىدىكى بەخىتنى ئوقىۋاتقىنىمدا جەسەت ھارۋىسىدىكى تىنىمغا تۇپراق چاچقۇچى بىلەن دىلىلاردا يىغلاپ يۇرگەن كۇنلىرىم ھەققىدە مۇنداق پاراڭلىشىپ چىقتىم .<br>مەن بىر ۋاقىتلاردا قۇياشقا سەجدە قىلىپ يۇرگەن ئىدىم .جىمجىتلىققا بەنىت قىلىنغان قەلبىم بىلەن باھارنى ئوقىۋاتقاندا باھارغا ئايلانغان شېئىرنىڭ مەندىن قاراڭغۇلۇق ھەققىدە سۇئال سوراشلىرى چىچەكنىڭ توزۇپ كەتكەن بەرگىدىكى يىغىغا ئوخشايتى .قەبرەمنىڭ توپا پۇراپ تۇرغان ئەپتىدىن قورىقمايمەن .يىغا بىلەن توپا ئوتتۇرسىدىكى باغلىنىشتا نىمىلەردىن ساقلىنىش كىرەك .چۇشۇمدە مىنى ئوقۇشقا كەلگەن نەرسىلەرنىڭ شەپىسى ماڭا يىقىنلاشقاندا ھاياتلىقىمنىڭ تىنىقى توختىغان بولسىمۇ يەنىلا ئوغلۇمنىڭ قايتىپ كىلىشىنى كۇتتۇم .قايغۇنى چۇشىنىش بىلەن قەلبىمدىن چىققان نەيزە ئوتتۇرسىدىكى باغلىنىشتا يەنىلا چىچەك بەرگىدىكى تامچىپ تۇرغان قاننىڭ رەڭ ئاتا قىلغانلىغىغا رەھمەت .<br>شۇ قۇشلارمۇ ئاڭلىسا بولاتتى .نىزار قەببانىي .سۇكۇتنىڭمۇ چىكى بولۇدۇ .سۇكۇت ئىچىدە يىغلىرىم بىلەن سويۇملۇگۇمنىڭ ئولتۇرۋىتىلگەنلىگىگە ھازا ئىچىپ كەلگەن بولساممۇ  تىنىمىنىڭ قايسى ئوتتا كويدۇرۋىتىلگەنلىكىنى بىلمىدىم .شەھەردىكىلەرنىڭ مەن تۇغۇرلۇق پىچىرلاشلىرىغا قۇلاق سالغىنىمدا قەبرەمنى قەبرەمگە دەپىن قىلغۇچىنىڭ غەيۋەتلىرى ئەڭ قورقۇنۇشلۇق ئاڭلاندى ،قۇل بولۇش ئالدىدا تۇراتتىم .سۇيگۇنۇمنىڭ ئولىمىگە ياش تۇكۇش مىنۇتلىرىدا جەسەت دوۋىلىرى ئارىسىدىن قايتىپ كىتىشنى نىيەت قىلغىنىمدا مەن تۇتالمىغان نەرسىلەرنىڭ زۇۋانلىرى مىنى قورشىدى .مەن شۇنداقلا ئولۇپ كىتەيمۇ ؟!<br>قۇشلار ..مىنىڭ چۇشۇمدىكى كىچىدە مىنى ئاڭلاشقا كەلگەن نەرسىلەر ....سۇ ئىچىدىكى تىنىمدىن قىچىپ چىققان نۇر بىلەن پەرىشتىگە پىچىرلاۋاتقىنىمدا  قۇدۇق بىشىدىكى ئايالنىڭ مىنى تىپىۋىلىشى مومكىن ئەمەس ،چۇنكى مەن ئادەملەرنىڭ ئىچىدىن چىقىپ كەتكەن .بىر قىسىم ئادەملەر شىئېرلىرىمنىڭ ئىچىگە كىرىپ كەلگەندە مىنىڭ پاكلىققا چىلانغان  قانلىرىمنىڭ ئوتمۇشكە ئايلانغان  تىراگدىيەسىدىن بىر پەللىگە بولغان  ئىزىقىشىنى بايقىۋالىدۇ .ئىزىقىش رەڭ ..نەپرەتكە ئايلانغان  بۇ سۇيۇقلۇقنىڭ ئىسمى نىمە ؟<br>خەيىر نىزار قەباننىي .مەن قەبرەمنىڭ ئىسمىنى تاپالمىدىم .مىنىڭ پاكلىققا چىلانغان قانلىرىمدىكى ئاۋازنى ئاڭلاش ئۇچۇن قاناپ كەتكەن تۇنۇگۇن ھەققىدىكى قەسىدىنىڭ چۇشكۇن مۇزىكا ئارقىلىق بۇزىۋىتىلگەن مىلۇدېيەسىنى ئاڭلايلى .<br><br><br><br>(داۋامى نىزار قەببانىينىڭ ۋاپات بولغان كۇنى 4-ئاينىڭ 30-كۇنىگىچە داۋاملاشتۇرلىدۇ )[/size][/color]<br><br><br><br>[ &#65169;&#64472; &#65267;&#65166;&#65199;&#65251;&#65166;    jallat    &#65175;&#65258;&#65197;&#64488;&#64345;&#64489;&#65194;&#64488;&#65254;    2008-4-6 13:36:16 &#65175;&#64476;&#65199;&#64475;&#65175;&#64476;&#64342; &#65175;&#65258;&#65259;&#65198;&#64488;&#65198;&#65247;&#65258;&#65255;&#65194;&#65263; . ]</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2319" title="شائىرنىڭ كىملىك"  target="_blank" class="tag_title_link">شائىرنىڭ كىملىك</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2318" title="ﺗﯜﺭﻟﯘﻙ ﻛﯩﺘﺎﭘﻼﺭ ﯞﺍﺷﺎﯓ"  target="_blank" class="tag_title_link">ﺗﯜﺭﻟﯘﻙ ﻛﯩﺘﺎﭘﻼﺭ ﯞﺍﺷﺎﯓ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2317" title="شائىر مۇھەممەتجان راشىدىن ئەدەبىي ئۇسلۇبىنىڭ ئالاھىدىلىكلىرى"  target="_blank" class="tag_title_link">شائىر مۇھەممەتجان ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2316" title="[ﯪﺭﻏﺘﯘﻍ] ﻫﯩﻠﻠﯩﺲ ﻣﯩﻠﻠﯩﺮ: ﯬﺩﻩﺑﯩﻴﺎﺕ ﯲﻟﺪﯨﻤﯘ"  target="_blank" class="tag_title_link">[ﯪﺭﻏﺘﯘﻍ] ﻫﯩﻠﻠﯩﺲ ﻣﯩﻠﻠﯩﺮ: ﯬﺩﻩﺑﯩﻴﺎﺕ ﯲﻟﺪﯨﻤﯘ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2315" title="ﯲﻛﻪﺵ ﺟﺎﭘﭙﺎﺭ:&lt;&lt;ﯪﻣﻪﺕ ﯞﻩ ﯪﭘﻪﺕ&gt;&gt; ﻫﻪﻗﻘﯩﺪﻩ"  target="_blank" class="tag_title_link">ﯲﻛﻪﺵ ﺟﺎﭘﭙﺎﺭ:&lt;&lt;ﯪﻣﻪﺕ ﯞﻩ ﯪﭘﻪﺕ&gt;&gt; ﻫﻪﻗﻘﯩﺪﻩ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2314" title="ئەلگىيار مۇنبىرى پەرھات تۇرسۇن بىلەن سۆھبەت ئېلىپ"  target="_blank" class="tag_title_link">ئەلگىيار مۇنبىرى پ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2313" title="ﺧﻮﺵ ﺩﯨﻤﻪﻳﻼ ﻛﻪﺗﻜﯩﻦ ﭘﻪﺭﯨﺸﺘﻪﻡ ( ﺗﯘﺭﺍﻥ)"  target="_blank" class="tag_title_link">ﺧﻮﺵ ﺩﯨﻤﻪﻳﻼ ﻛﻪﺗﻜﯩﻦ ﭘﻪﺭﯨﺸﺘﻪﻡ ( ﺗﯘﺭﺍﻥ)...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2312" title="نىزار قەببانىيغا خەت(نىزار قەببانىي ۋاپاتىنىڭ 10يىللىغا )"  target="_blank" class="tag_title_link">نىزار قەببانىيغا خ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2311" title="ﻧﯩﻤﯩﺸﻘﺎ&lt;&lt; ﺧﻪﻧﺰﯗ&gt;&gt; ﺑﻮﻟﻤﯩﻐﺎﻥ ﺑﻮﻟﻐﯘﻳﺘﯘﻕ؟.........."  target="_blank" class="tag_title_link">ﻧﯩﻤﯩﺸﻘﺎ&lt;&lt; ﺧﻪﻧﺰﯗ&gt;&gt; ﺑﻮﻟﻤﯩﻐﺎﻥ ﺑﻮﻟﻐﯘﻳﺘﯘﻕ؟.............</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2310" title="ﯮﺭﺗﺎﻗﻠﯩﻖ ﯞﻩ ﺧﺎﺳﻠﯩﻖ"  target="_blank" class="tag_title_link">ﯮﺭﺗﺎﻗﻠﯩﻖ ﯞﻩ ﺧﺎﺳﻠﯩﻖ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2309" title="ﭼﻮﻗﺎﻥ:ﭘﻪﻟﻪﺳﻪﭘﯩﮕﻪ ﺋﯧﻬﺘﯩﻴﺎﺝ ﺋﯩﻨﺴﺎﻥ"  target="_blank" class="tag_title_link">ﭼﻮﻗﺎﻥ:ﭘﻪﻟﻪﺳﻪﭘﯩﮕﻪ ﺋﯧﻬﺘﯩﻴﺎﺝ ﺋﯩﻨﺴﺎﻥ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2308" title="قىممەتلىك روھ،ئۇنتۇلغۇسىز تەسىرات"  target="_blank" class="tag_title_link">قىممەتلىك روھ،ئۇنت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2307" title="ﭼﻮﻗﺎﻥ؛ﺧﯘﺩﺍ ﮔﯘﯞﺍﻫ"  target="_blank" class="tag_title_link">ﭼﻮﻗﺎﻥ؛ﺧﯘﺩﺍ ﮔﯘﯞﺍﻫ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2306" title="شائىر  شېئىر يازغاندا ..."  target="_blank" class="tag_title_link">شائىر  شېئىر يازغان...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2305" title="ﺑﯜﮔﯜﻧﻜﻰ ﭘﺎﺭﺍﯓ"  target="_blank" class="tag_title_link">ﺑﯜﮔﯜﻧﻜﻰ ﭘﺎﺭﺍﯓ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2304" title="[ﻣﯘﻧﺎﺯﯨﺮﻩ]ﺋﻮﻗﯘﺗﻘﯘﭼﯩﻼﺭﻧﻰ ﺗﯧﭙﯩﺸﻤﺎﻗﻘﺎ ﺳﺎﻟﻐﺎﻥ، ﺋﺎﻟﺘﯘﻧﺪﯨﻦ ﻗﯩﻤﻤﻪﺕ، >["  target="_blank" class="tag_title_link">[ﻣﯘﻧﺎﺯﯨﺮﻩ]ﺋﻮﻗﯘﺗﻘﯘﭼﯩﻼﺭﻧﻰ ﺗﯧﭙﯩﺸﻤﺎﻗﻘﺎ ﺳﺎﻟﻐﺎﻥ، ﺋﺎﻟﺘﯘﻧﺪﯨﻦ ﻗﯩﻤﻤﻪﺕ، &gt;[...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2303" title="دات باسقان تېغ"  target="_blank" class="tag_title_link">دات باسقان تېغ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2302" title="ﭼﻮﻗﺎﻥ:ﺳﯘﻣﺮﯗﻏﻨﯩﯔ ﯮﻥ ﻳﯩﻠﻠﯩﻘﻰ(ﺗﻮﭘﻼﻡ) ﯞﻩ ﯮ ﻫﻪﻗﺘﻪ ﯮﻳﻠﯩﻨﯩﺶ"  target="_blank" class="tag_title_link">ﭼﻮﻗﺎﻥ:ﺳﯘﻣﺮﯗﻏﻨﯩﯔ ﯮﻥ ﻳﯩﻠﻠﯩﻘﻰ(ﺗﻮﭘﻼﻡ) ﯞﻩ ﯮ ﻫﻪﻗﺘﻪ ﯮﻳﻠﯩﻨﯩﺶ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2301" title="ﻳﯩﺮﺗﯩﻠﻐﺎﻥ ﻧﯩﻘﺎﭖ ( ﺗﯘﺭﺍﻥ)"  target="_blank" class="tag_title_link">ﻳﯩﺮﺗﯩﻠﻐﺎﻥ ﻧﯩﻘﺎﭖ ( ﺗﯘﺭﺍﻥ)...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2300" title="مۇنبەرلىرىمىزدىكى تىما پاخاللىقى تۇغرىسىدا ئىككى كەلىمە سۆز"  target="_blank" class="tag_title_link">مۇنبەرلىرىمىزدىكى ...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/edebiyat/search.php?catid=259&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2319" title="شائىرنىڭ كىملىك"  target="_blank" class="tag_title_link">شائىرنىڭ كىملىك</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2318" title="ﺗﯜﺭﻟﯘﻙ ﻛﯩﺘﺎﭘﻼﺭ ﯞﺍﺷﺎﯓ"  target="_blank" class="tag_title_link">ﺗﯜﺭﻟﯘﻙ ﻛﯩﺘﺎﭘﻼﺭ ﯞﺍﺷﺎﯓ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2317" title="شائىر مۇھەممەتجان راشىدىن ئەدەبىي ئۇسلۇبىنىڭ ئالاھىدىلىكلىرى"  target="_blank" class="tag_title_link">شائىر مۇھەممەتجان راشىد...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2316" title="[ﯪﺭﻏﺘﯘﻍ] ﻫﯩﻠﻠﯩﺲ ﻣﯩﻠﻠﯩﺮ: ﯬﺩﻩﺑﯩﻴﺎﺕ ﯲﻟﺪﯨﻤﯘ"  target="_blank" class="tag_title_link">[ﯪﺭﻏﺘﯘﻍ] ﻫﯩﻠﻠﯩﺲ ﻣﯩﻠﻠﯩﺮ: ﯬﺩﻩﺑﯩﻴﺎﺕ ﯲﻟﺪﯨﻤﯘ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2315" title="ﯲﻛﻪﺵ ﺟﺎﭘﭙﺎﺭ:&lt;&lt;ﯪﻣﻪﺕ ﯞﻩ ﯪﭘﻪﺕ&gt;&gt; ﻫﻪﻗﻘﯩﺪﻩ"  target="_blank" class="tag_title_link">ﯲﻛﻪﺵ ﺟﺎﭘﭙﺎﺭ:&lt;&lt;ﯪﻣﻪﺕ ﯞﻩ ﯪﭘﻪﺕ&gt;&gt; ﻫﻪﻗﻘﯩﺪﻩ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2314" title="ئەلگىيار مۇنبىرى پەرھات تۇرسۇن بىلەن سۆھبەت ئېلىپ"  target="_blank" class="tag_title_link">ئەلگىيار مۇنبىرى پەرھات...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2313" title="ﺧﻮﺵ ﺩﯨﻤﻪﻳﻼ ﻛﻪﺗﻜﯩﻦ ﭘﻪﺭﯨﺸﺘﻪﻡ ( ﺗﯘﺭﺍﻥ)"  target="_blank" class="tag_title_link">ﺧﻮﺵ ﺩﯨﻤﻪﻳﻼ ﻛﻪﺗﻜﯩﻦ ﭘﻪﺭﯨﺸﺘﻪﻡ ( ﺗﯘﺭﺍﻥ)...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2312" title="نىزار قەببانىيغا خەت(نىزار قەببانىي ۋاپاتىنىڭ 10يىللىغا )"  target="_blank" class="tag_title_link">نىزار قەببانىيغا خەت(نى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2311" title="ﻧﯩﻤﯩﺸﻘﺎ&lt;&lt; ﺧﻪﻧﺰﯗ&gt;&gt; ﺑﻮﻟﻤﯩﻐﺎﻥ ﺑﻮﻟﻐﯘﻳﺘﯘﻕ؟.........."  target="_blank" class="tag_title_link">ﻧﯩﻤﯩﺸﻘﺎ&lt;&lt; ﺧﻪﻧﺰﯗ&gt;&gt; ﺑﻮﻟﻤﯩﻐﺎﻥ ﺑﻮﻟﻐﯘﻳﺘﯘﻕ؟.............</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2310" title="ﯮﺭﺗﺎﻗﻠﯩﻖ ﯞﻩ ﺧﺎﺳﻠﯩﻖ"  target="_blank" class="tag_title_link">ﯮﺭﺗﺎﻗﻠﯩﻖ ﯞﻩ ﺧﺎﺳﻠﯩﻖ...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/edebiyat/show_js.php?itemid=2312"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

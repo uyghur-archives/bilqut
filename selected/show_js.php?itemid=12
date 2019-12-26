@@ -1,0 +1,3 @@
+﻿try {setidval('hits','2206');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/mahsus/show.php?itemid=11">قاسىم سىدىق&nbsp;&nbsp;&nbsp;&nbsp;ئېلېمېنتار ئالەم ۋە دەۋرى ئالەم</a></li><li>  كىيىنكىسى  :  <a href="/mahsus/show.php?itemid=21">ھەر بىر پەن ئۆزىنىڭ پەلسەپەسىنى تېپىۋىلىشى كېرەك</a></li>');}catch(e){}

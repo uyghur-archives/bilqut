@@ -1,0 +1,3 @@
+﻿try {setidval('hits','702');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/kutupxana/show.php?itemid=3273">كروران مۇزېيى قۇرۇلىدۇ</a></li><li>  كىيىنكىسى  :    يوق</li>');}catch(e){}

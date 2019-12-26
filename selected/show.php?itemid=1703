@@ -1,0 +1,384 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>دونيادىكى ئەڭ چوڭ خاككىرنىڭ ئاجايىپ تېخنىكىسى-كۇتۇپخانا-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,كۇتۇپخانا">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/kutupxana/" class="red"> كۇتۇپخانا</a>
+         | <a class="razimantur" href="/kutupxana/list.php?catid=43" >ھېكايىلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=44" > شېئىر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=45" > كەلىلە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=46" > نەسىرلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=47" > يۇمۇرلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=48" > ھىكمەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=49" > نەسىھەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=50" > ماقالىلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=51" > ياشلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=52" > تۇرمۇش </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=53" > نۇتۇقلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=54" >مەكتۇب  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=55" >غارايىبات</a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=56" > دۇنيادا ئەڭ  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=57" >قان تىپى </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=58" > مۆچەل  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=59" > مىللەتلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=60" > بۈگۈن  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=61" >مۇزېي </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=62" >تارىخ </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=63" >شەھەرلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=64" >دۆلەتلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=65" >كۇتۇبخانىلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=66" >مايلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=67" >مېۋە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=68" >كۆكتاتلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=69" >ئۆسۈملۈكلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=70" > ھايۋاناتلار  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/kutupxana/">كۇتۇپخانا</a> >> <a href="/kutupxana/list.php?catid=50"> ماقالىلەر  </a> >>  دونيادىكى ئەڭ چوڭ خاككىرنىڭ ئاجايىپ تېخنىكىسى</div>
+<!--主标题--><h1>دونيادىكى ئەڭ چوڭ خاككىرنىڭ ئاجايىپ تېخنىكىسى </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-06-08 22:18:01&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">415</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<img src="/raziman_img/bash/reng/reng_1.gif" id="img1" style="cursor:hand;"  onclick="conhat(1)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_2.gif" id="img2" style="cursor:hand;"  onclick="conhat(2)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_3.gif" id="img3" style="cursor:hand;"  onclick="conhat(3)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_4.gif" id="img4" style="cursor:hand;"  onclick="conhat(4)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_5.gif" id="img5" style="cursor:hand;"  onclick="conhat(5)">&nbsp;&nbsp;                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">&nbsp;&nbsp;دونيادىكى ئەڭ چوڭ خاككىرنىڭ ئاجايىپ تېخنىكىسى
+1964-يىلى ئامېرىكىدا كالفورنىيە شتاتىنىىڭ لوس-ئانژېلېس شەھىرىدە تۇغۇلغان. 13 يېشىدا كومپىيۇتېرغا مەپتۇن بولۇپ قېلىپ مول كومپىيۇتېر بىلىمى ۋە يۇقرى مەشخۇلات ئىقتىدارىنى ئېگىلىگەن . مەكتەپنىڭ كومپىيۇتېرى ئارقىلىق باشقا مەكتەپنىڭ تورىغا قانۇنسىز كىرگەنلىكى ئۈچۈن مەكتەپتىن قوغلانغان . 
+15 يېشىدا «شىمالى ئامېرىكا ھاۋا مۇداپىئە قوماندانلىق سېستىمىسى»نىڭ ئاساسى كومپىيۇتېر تورىغا قانۇنسىز كىرگەنلىكى ئۈچۈن خاككىرلار تارىخىدىكى داڭلىق شەخىس بولۇپ قالغان . 
+ئۇ يەنە ئامېرىكا «تېنىچ ئوكيان تېلىفۇن شىرىكىتى»نىڭ جەنۇبى كالفورنىيە ئالاقىلىشىش تورىنىڭ مەخپى شىفىرىنى يېشىۋەتكەن ،ئۇزۇن ئۆتمەي ئامېرىكا فىدراتسىيە ئىدارىسىنىڭ (FBI) كومپىيۇتېر تورىغا قانۇنسىز بۆسۈپ كىرىپ ،ئۇلارنىڭ دەل ئۆزىنى ئىزدەۋاتقانلىقىنى بايقاپ قالغان ، ئۇ دەرھال مەركىزى كومپىيۇتېر سېستىمىسى مەخپى شىفىرىنى يېشىپ ھەر كۈنلۈك دېلو ئەھۋالى دوكىلاتىنى كۆرۈپ تۇرغان ھەم دېلو ماتىريالىنى قالايمىقان قىلىۋەتكەن . لېكىن، ئالاھىدە خادىملار ئاخىرى ئۇنى تۇتىۋالغان . سوت مەھكىمىسى ئۇنى ئۆسمۈر جىنايەتچىلەرنى باشقۇرۇش تەربىيلەش ئورنىغا يوللاپ بەرگەن . ئۇ شۇنىڭ بىلەن دۇنيادىكى بىرىنچى «كومپىيۇتېر تورى ئۆسمۈر جىنايەتچىسى » بولۇپ قالغان . كېين قويۇپ بېرىلگەن ، 1983-يىلى 5بۇرجەكلىك بىنانىڭ كومپىيۇتېر تورىغا قانۇنسىز كىرگەنلىكى ئۈچۈن ئۆسمۈر جىنايەتچىلەرنى باشقۇرۇش تەربىيلەش ئورنىدا يېرىم يىل سولانغان . 1988-يىلى DEC سىپىر ئەسلىھەلىرى شىركىتى تورىغا قانۇنسىز كىرىپ يەنە قولغا ئېلىنغان . 1990-يىلى قۇياش مىكرو سېستىما شىركىتى ، Novell تور شىركىتى ،NEC شىركىتى ، NOKIA شىركىتى، Motorola قاتارلىق شىركەتلەرنىڭ تورىغا قانۇنسىز كىرىپ كومپىيۇتېردىكى ئابۇنتلار ماتىرياللىرىنى ئۆزگەرتىۋەتكەندىن كېيىن يوقاپ كەتكەن . 1994-يىلى 12-ئاينىڭ 15-كۈنى ئۇ ئامېرىكا سانتياگو دەرىجىدىن تاشقىرى كومپىيۇتېر مەركىزىگە ھۇجۇم قىلىپ ، «دوزاقتىكى خاككىر»دەپ نام ئالغان .لېكىن ، بۇ نۆۋەت مەركىزى كومپىيۇتېر شىفىر بىخەتەرلىكىگە مەسئۇل مۇتەخەسىس زىياننى تۆلىتىۋېلىش ۋە ئۇنىڭ ئەدىبىنى بېرىپ قويۇش ئۈچۈن ئۆزىنىڭ كامالەتكە يەتكەن بىخەتەرلىك تېخىنىكىسى ئارقىلىق ،ئۇنى فىدراتسىيە ئىدارىسىگە تۇتۇپ بەرگەن . 
+فىدراتسىيە سوت مەھكىمىسى ئۇنى 25تۈرلۈك جىنايەت بىلەن ئەرز قىلغان ھەم سوت ھۆكۈمى چىقارمايلا تۆت يېرىم يىل سولاپ قويغان . شۇنداقلا كاپالەتكە ئېلىپ چىقىشقا يول قويمىغان . بۇ ئامېرىكا ئەدىلىيە تارىخىدىكى تۇنجى ئەقىل مۈلۈك جىنايەتچىلىرگە قوللانغان ئەڭ قاتتىق تەدبىر .&nbsp;&nbsp; 
+2001-يىلى ئۆز جىنايىتىنى تۇنىغاندىن كېيىن نازارەت ئاستىدا قويۇپ بېرىلگەن . 
+«خاككىرلار تېخىمۇ تەدبىرلىك ۋە ھىيلىگەرلىشىپ كەتتى، ئۇلار ھەرخىل يېڭى نەيرەڭلەرنى ئويلاپ چىقىدۇ ، تېخىنىكىلىق نۇقسان ۋە سەۋەنلىك تۈپەيلىدىن سىزنىڭ كومپىيۇتېر سېستىمىڭىزنى بۇلايدۇ» دەيدۇ ئۇ . ئۇ ئەركىنلىككە چىققاندىن كېيىن ، كومپىيۇتېر بىخەتەرلىك مەسلىھەتچىلىكى ۋە يېزىقچىلىق بىلەن شۇغۇللىنىدۇ . 
+ئۇ دۇنيانىڭ ھەرقايسى جايلىرىدىكى كىشىلەرگە خاككىرلارنىڭ جاسۇسلۇق قىلمىشلىرىنى ۋە ئۇلارنىڭ ئۈچۈر بىخەتەرلىكىگە قانداق كاپالەتلىك قىلىش كېرەكلىكىنى ئېيتىپ بېرىدۇ.&nbsp;&nbsp;
+ئۇ نىڭ كومپىيۇتېر بىخەتەرلىكىگە ئائىت 10 چوڭ تەكلىپى تۆۋەندىكىچە:&nbsp;&nbsp;
+1. ماتىريالنى زاپاس ساقلاڭ، ئىسڭىىزدە بولسۇنكى سېستىيمىڭىز مەڭگۈ مۇكەممەل بولمايدۇ . كىچىككىنە بىر ۋېروس سانلىق سىپىرلىرىڭىزنىڭ ئاپەت خاراكتىرلىق يوقۇلۇشىغا سەۋەب بولالايدۇ.&nbsp;&nbsp; 
+2. سىز بىلەن مۇناسىۋەتلىك ئاددىي شىفىر نىلا تولدۇرۇپ قويماي، پەرەز قىلىش تەس بولغان مەخپى شىفىرنى تاللاڭ، ھەرقانداق ۋاقىتتا، ھەر ۋاقىت مەخپى شىفرىڭىزنى ئۆزگەرتىپ تۇرۇڭ . 
+3. ۋېرۇسقا قارشى يۇمشاق دىتاللارنى قاچىلاڭ . ھەر كۈنى ئۇنىڭ دەرىجىسىنى يۇقىرى كۆتۈرۈپ تۇرۇڭ. 
+4. مەشغۇلات سېستىيمىسىنى ۋاقىتىدا يىڭىلاپ تۇرۇڭ. يۇمشاق دىتال ئىشلەش شىركەتلىرى تارقاتقان تولۇقلىمىلارغا ئىھتىيات بىلەن مۇئامىلە قىلىڭ، ھەم ۋاختىدا قاچىلاپ ئىشلىتىڭ . bmgncwlz&nbsp;&nbsp;
+5. تور كۆزنىكىدە خاككىر لارنىڭ يەمچۈگى كۆرۈنگەندە سەگەك بولۇڭ . ئىلخەت ئاپتۇماتىك ئىختىدارىنى ئىتىۋىتىڭ.&nbsp;&nbsp;
+6. مۇھىم ماتىريال يوللىغاندا مەخپى شىفىر لىق يۇمشاق دىتال ئىشلىتىڭ . ھەم مەخپى شىفىر لىق يۇمشاق دىتال ئارقىلىق قاتتىق دىسكىڭىزدىكى سىپىر لارنى قوغداڭ&nbsp;&nbsp;
+7. بىر ياكى ئۇنىڭدىن كۆپ جاسۇسلۇققا قارشى يۇمشاق دىتاللارنى ئىشلىتىڭ ھەم دائىم ئۇنىڭ نورمال ئىجرا بولۇشىنى تەكشۈرۈپ تۇرۇڭ. 
+8. ۋىرۇستىن مۇداپىيە توسىقىنى ئىشلىتىڭ ھەم ئۇنى ياخشى ئورۇنلاشتۇرۇڭ، باشقا كومپىيۇتېر ، تور ۋە تور ئادىرىسىنىڭ كومپىيۇتېرىڭىزغا ئۇلىنىشىنى توسۇڭ، قانداق پىرۇ گىراممىلارنىڭ تورغا ئاپتۇماتىك ئۇلىنىدىغانلىقىنى بەلگىلەپ قويۇڭ .&nbsp;&nbsp; 
+9. بارلىق ئىشلەتمەيدىغان سېستىيما مۇلازىمەتلىرىنى ئىتىۋىتىڭ ، بولۇپمۇ RealVNC . RemoteDesktop يىراقتىن كومپىيۇتېر كونتىرول قىلالايدىغان مۇلازىمەتلەرنى ئىتىۋىتىڭ .&nbsp;&nbsp;
+10 . سىمسىز ئۇلانمىىنىڭ بىخەتەر لىكىگە كاپالەتلىك قىلىڭ. ئۆيدە سىمسىز ئۇلانمىنى ئىشلەتكەندە WPA ۋە ئاز دىگەندىمۇ 20 خانىلىق بولغان مەخپى شىفىرنى ئىشلىتىڭ ، لەپتوپ كومپىيۇتېرىڭىزنى ياخشى تەڭشەڭ . WPA نى ئىشلەتمىگەندە ھەرقانداق تورغا كىرمەڭ . دۈشمەنلىككە تولغان ئىنتېرنېت تورى دۇنياسىدا ئۆزنى قوغداش ھەقىقەتەن ئوڭاي ئىش ئەمەس. يەرشارىنىڭ مەلۇم بىر بۇرجىكىدە، بىر ياكى بىر قىسىم ئەخلاق دىگەننى زادىلا بىلمەيدىغان كىشىلەر، ھەر ۋاقىت سېستىيمىڭىز دىكى بوشلۇقلارنى تىڭ-تىڭلاپ تۇرىدۇ ، ھەم شۇنىڭدىن پايدىلىنىپ مۇھىم مەخپىيەتلىكىڭىزنى ئوغۇرلىۋالىدۇ. سىزنىڭ بۇ تور تاجاۋۇز چىلىرىنىڭ قۇربانلىقى بولۇپ قالماسلىقىڭىزنى ئۈمۈد قىلىمەن .
+
+مىسرانىم مۇنبىرىدىن ئىلىندى</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1705" title="ئوتتۇرا - باشلانغۇچ مەكتەپ ئوغۇچىلىرىغا بولغان ئىدىيىۋى سىياسىي تەربىيىنى كۈچەيتىش ئۈچۈن قانداق قىلى"  target="_blank" class="tag_title_link">ئوتتۇرا - باشلانغۇچ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1704" title="[بىدار0903]ئاتىسىز ئۆتكەن ئاتىلار بايرىمى"  target="_blank" class="tag_title_link">[بىدار0903]ئاتىسىز ئۆ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1703" title="دونيادىكى ئەڭ چوڭ خاككىرنىڭ ئاجايىپ تېخنىكىسى"  target="_blank" class="tag_title_link">دونيادىكى ئەڭ چوڭ خ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1702" title="بالىلار ئويۇنلىرىنىڭ ساپا مائارىپىدىكى ئورنىغا سەل قارىماسلىق كېرەك"  target="_blank" class="tag_title_link">بالىلار ئويۇنلىرىن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1701" title="سىنپ مۇدىرلىرى يېتىلدۈرۈشكە تېگىشلىك زۆرۈر ساپالار"  target="_blank" class="tag_title_link">سىنپ مۇدىرلىرى يېت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1700" title="ماتېماتىكا ئوقۇتۇشىدىكى بىر قانچە ئۇسۇل توغرىسىدىكى قاراشلىرىم"  target="_blank" class="tag_title_link">ماتېماتىكا ئوقۇتۇش...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1699" title="ئوتتۇرا مەكتەپ خىمىيە ئوقۇتقۇچىلىرى ئۆزىدە قانداق ئىقتىدارلارنى يېتىلدۈرۈشى كېرەك"  target="_blank" class="tag_title_link">ئوتتۇرا مەكتەپ خىم...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1698" title="سىنىپ مۇدىرى ھازىرلاشقا تېگىشلىك شەرتلەر"  target="_blank" class="tag_title_link">سىنىپ مۇدىرى ھازىر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1697" title="«فىزىكىلىق شەكىل نەزەرىيىسى» توغرىسىدا ئويلىغانلىرىم"  target="_blank" class="tag_title_link">«فىزىكىلىق شەكىل ن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1696" title="ئەدەبىيات دەرسخانا ئوقۇتۇشىنى ئەلالاشتۇرۇشتا قايسى خىل مۇناسىۋەتلەرنى توغرا بىر تەرەپ قىلىش كېرەك"  target="_blank" class="tag_title_link">ئەدەبىيات دەرسخانا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1695" title="خەنزۇچە - ئۇيغۇرچە تەرجىمىدە جۈملىنى قوشۇپ ۋە ئايرىپ بىر تەرەپ قىلىش"  target="_blank" class="tag_title_link">خەنزۇچە - ئۇيغۇرچە ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1694" title="ئىدىيە - سىياسىي دەرسنى ئۆتۈشتە دەرسلىكىنىڭ &lt;كىرىش سۆز&gt; قىسمىغا سەل قاراشقا بولمايدۇ"  target="_blank" class="tag_title_link">ئىدىيە - سىياسىي دە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1693" title="ئوبرازلىق ئوقۇتۇش ئۇسۇلىنىڭ خەنزۇ تىلى دەرسخانا ئوقۇتۇشىدا ئىشلىتىلىشى"  target="_blank" class="tag_title_link">ئوبرازلىق ئوقۇتۇش ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1692" title="ئۇيغۇرقىزىغا لەنەت ......"  target="_blank" class="tag_title_link">ئۇيغۇرقىزىغا لەنەت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1691" title="تەنتەربىيە دەرسىدە ئەخلاقىي تەربىيىگە ئەھمىيەت بېرىش كېرەك"  target="_blank" class="tag_title_link">تەنتەربىيە دەرسىدە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1690" title="ئەدەبىيات ئوقۇتۇشىدا ئەخلاقىي تەربىيىگە سەل قارىماسلىق لازىم"  target="_blank" class="tag_title_link">ئەدەبىيات ئوقۇتۇشى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1689" title="&lt;مۆمىننىڭ مومىغا چىقىشى&gt;نى روللارغا بۆلۈپ ئۆتۈش ئۇسۇلى "  target="_blank" class="tag_title_link">&lt;مۆمىننىڭ مومىغا چى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1688" title="ئوقۇغۇچىلارنىڭ پسىخىكىلىق ساغلاملىقىنى يۇقىرى كۆتۈرۈشنىڭ ئۇسۇللىرى"  target="_blank" class="tag_title_link">ئوقۇغۇچىلارنىڭ پسى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1687" title="ئوتتۇرا مەكتەپ ئەدەبىي ئىجادىيەت كۇرۇژۇكلىرىنى تەشكىللەش ۋە يېتەكلەش"  target="_blank" class="tag_title_link">ئوتتۇرا مەكتەپ ئەد...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1686" title="تەبىئىي پەنلەردە&nbsp;&nbsp; &gt;3+X&lt; ئىمتىھان شەكلى بويىچە ئالىي مەكتەپ ئىمتىھانىغا قانداق تەييا"  target="_blank" class="tag_title_link">تەبىئىي پەنلەردە   &gt;...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/kutupxana/search.php?catid=50&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1705" title="ئوتتۇرا - باشلانغۇچ مەكتەپ ئوغۇچىلىرىغا بولغان ئىدىيىۋى سىياسىي تەربىيىنى كۈچەيتىش ئۈچۈن قانداق قىلى"  target="_blank" class="tag_title_link">ئوتتۇرا - باشلانغۇچ مەكت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1704" title="[بىدار0903]ئاتىسىز ئۆتكەن ئاتىلار بايرىمى"  target="_blank" class="tag_title_link">[بىدار0903]ئاتىسىز ئۆتكەن ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1703" title="دونيادىكى ئەڭ چوڭ خاككىرنىڭ ئاجايىپ تېخنىكىسى"  target="_blank" class="tag_title_link">دونيادىكى ئەڭ چوڭ خاككى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1702" title="بالىلار ئويۇنلىرىنىڭ ساپا مائارىپىدىكى ئورنىغا سەل قارىماسلىق كېرەك"  target="_blank" class="tag_title_link">بالىلار ئويۇنلىرىنىڭ سا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1701" title="سىنپ مۇدىرلىرى يېتىلدۈرۈشكە تېگىشلىك زۆرۈر ساپالار"  target="_blank" class="tag_title_link">سىنپ مۇدىرلىرى يېتىلدۈر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1700" title="ماتېماتىكا ئوقۇتۇشىدىكى بىر قانچە ئۇسۇل توغرىسىدىكى قاراشلىرىم"  target="_blank" class="tag_title_link">ماتېماتىكا ئوقۇتۇشىدىك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1699" title="ئوتتۇرا مەكتەپ خىمىيە ئوقۇتقۇچىلىرى ئۆزىدە قانداق ئىقتىدارلارنى يېتىلدۈرۈشى كېرەك"  target="_blank" class="tag_title_link">ئوتتۇرا مەكتەپ خىمىيە ئ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1698" title="سىنىپ مۇدىرى ھازىرلاشقا تېگىشلىك شەرتلەر"  target="_blank" class="tag_title_link">سىنىپ مۇدىرى ھازىرلاشقا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1697" title="«فىزىكىلىق شەكىل نەزەرىيىسى» توغرىسىدا ئويلىغانلىرىم"  target="_blank" class="tag_title_link">«فىزىكىلىق شەكىل نەزەرى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=1696" title="ئەدەبىيات دەرسخانا ئوقۇتۇشىنى ئەلالاشتۇرۇشتا قايسى خىل مۇناسىۋەتلەرنى توغرا بىر تەرەپ قىلىش كېرەك"  target="_blank" class="tag_title_link">ئەدەبىيات دەرسخانا ئوقۇ...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/kutupxana/show_js.php?itemid=1703"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

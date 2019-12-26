@@ -1,0 +1,3 @@
+﻿try {setidval('hits','46');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/edebiyat/show.php?itemid=2281">&lt;&lt; ﻗﯘﺭﻩﻳﯩﺶ ﻗﯩﺰﻯ &gt;&gt; ﺭﻭﻣﺎﻧﻰ ﻫﻪﻗﻘﯩﺪﻩ ﺋﯩﻜﻜﻰ ﻛﻪﻟﯩﻤﻪ ( ﻣﯘﻧﯩﺮﻩ ﯪﻟﯩﻢ )</a></li><li>  كىيىنكىسى  :  <a href="/edebiyat/show.php?itemid=2283">ﻛﺎﻓﻜﺎ ﯞﻩ ﯰﻧﯩﯔ ﯪﺗﺴﻰ</a></li>');}catch(e){}

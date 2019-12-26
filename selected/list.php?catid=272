@@ -1,0 +1,340 @@
+﻿<br />
+<b>Warning</b>:  session_start() [<a href='function.session-start'>function.session-start</a>]: open(D:/ԭ���ļ�/Bilqut_web/data/sessions/\sess_um91c089glpotjrmnkbakhgdq6, O_RDWR) failed: Permission denied (13) in <b>D:\ԭ���ļ�\Bilqut_web\include\common.inc.php</b> on line <b>17</b><br />
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ئەدەبىيات يېڭلىقلىرى-ئەدەبىيات--Bilqut Uyghur web</title>
+<meta name="keywords" content=",">
+<meta name="description" content="-">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/edebiyat/" class="red"> ئەدەبىيات</a>
+         | <a class="razimantur" href="/edebiyat/list.php?catid=259" >شېئىرىيەت گۈلزارى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=261" >تەڭرىتاغ چېچەكلىرى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=262" >نەسرىي ئەسەرلەر </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=263" >فانتازىيىلىك ئەسەرلەر </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=264" >سەھنە ئەسەرلىرى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=265" >دېرىزىنىڭ سىرتىدا...    </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=266" >مەشھۇر ئەسەر مەزمۇنى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=268" >ئەدىپلەر ئارخىپى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=269" >ئەسەر ۋە باھا</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=271" >قانۇن ۋە ئەدەبىيات</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=272" >ئەدەبىيات يېڭلىقلىرى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=274" > تەرمە گۈللەر </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=275" >ئۇنىۋېرسال ئەدەبىي ئەسەرلەر</a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<!--主体标签-->
+<table width="950" cellpadding="0"  cellspacing="0">
+  <tr>
+    <td width="750" valign="top">
+<!--位置导航-->
+    <div class="position">ئورنىڭىز : <a href="/edebiyat/">ئەدەبىيات</a> >> <a href="/edebiyat/list.php?catid=272">ئەدەبىيات يېڭلىقلىرى</a> >> </div>
+     <div class="cat_box_1">
+ <div class="cat_title">
+     <div class="cat_name">ئەدەبىيات يېڭلىقلىرى</div>
+ <div class="cat_url"><a href="" class="more"></a></div>
+     </div>
+<!--最新图片文章--><table width="100%"  cellpadding="2" cellspacing="0">
+
+
+</table>
+
+<table cellpadding="0" cellspacing="0" class="tag_box_1">
+
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=2728" title="تىلىكىڭدە باردۇر تىلىكىم" 0 class="tag_title_link">تىلىكىڭدە باردۇر تىلىكىم</a>   
+    
+ <td><span>2009-06-17</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=2727" title="«قىزىلسۇ ئەدەبىياتى» 2009-يىللىق 1-2- سانىنىڭ مۇندەرىجىسى" 0 class="tag_title_link">«قىزىلسۇ ئەدەبىياتى» 2009-يىللىق 1-2- سانىنىڭ مۇندەرىجىسى</a>   
+    
+ <td><span>2009-06-28</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=2726" title="ئۆتۈمدىكى تاش--- ئوسمان زاھىر" 0 class="tag_title_link">ئۆتۈمدىكى تاش--- ئوسمان زاھىر</a>   
+    
+ <td><span>2009-06-18</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=2725" title="ﺷﻪﺭﻩﻧﺪﺍﺯ ﯪﻳﺎﻝ ﻧﻪﺷﯩﺮﺩﯨﻦ ﭼﯩﻘﺘﻰ" 0 class="tag_title_link">ﺷﻪﺭﻩﻧﺪﺍﺯ ﯪﻳﺎﻝ ﻧﻪﺷﯩﺮﺩﯨﻦ ﭼﯩﻘﺘﻰ</a>   
+    
+ <td><span>2009-04-05</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=2724" title="&lt;&lt;يىڭى قاشتىشى&gt;&gt;ژورنىلىنىڭ (2009-03)ساننىڭ مۇندەرجىسى" 0 class="tag_title_link">&lt;&lt;يىڭى قاشتىشى&gt;&gt;ژورنىلىنىڭ (2009-03)ساننىڭ مۇندەرجىسى</a>   
+    
+ <td><span>2009-06-14</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=2723" title="جۇڭگۇ مىللەتلىرى 2009-يىل 3-ساننىڭ مۇندەرجىسى" 0 class="tag_title_link">جۇڭگۇ مىللەتلىرى 2009-يىل 3-ساننىڭ مۇندەرجىسى</a>   
+    
+ <td><span>2009-05-22</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=2722" title="ﺷﯩﻨﺠﺎﯓ ﻣﻪﺩﻩﻧﯩﻴﯩﺘﻰ ( 2008.4 ) ﻣﯘﻧﺪﻩﺭﯨﺠﯩﺴﻰ" 0 class="tag_title_link">ﺷﯩﻨﺠﺎﯓ ﻣﻪﺩﻩﻧﯩﻴﯩﺘﻰ ( 2008.4 ) ﻣﯘﻧﺪﻩﺭﯨﺠﯩﺴﻰ</a>   
+    
+ <td><span>2008-08-05</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=2721" title="تارىم ژورنىلى 2009-يىل 6-ساننىڭ مۇندەرجىسى" 0 class="tag_title_link">تارىم ژورنىلى 2009-يىل 6-ساننىڭ مۇندەرجىسى</a>   
+    
+ <td><span>2009-06-02</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=2720" title="جىددى خوش خەۋەر" 0 class="tag_title_link">جىددى خوش خەۋەر</a>   
+    
+ <td><span>2009-05-25</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=2719" title="ئەڭ ئاخىرقى ئۈچ پارچە شېئىر" 0 class="tag_title_link">ئەڭ ئاخىرقى ئۈچ پارچە شېئىر</a>   
+    
+ <td><span>2009-06-18</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=2718" title="قەشقەر ژورنىلىنىڭ 2009-يىل3-ساننىڭ مۇندەرجىسى" 0 class="tag_title_link">قەشقەر ژورنىلىنىڭ 2009-يىل3-ساننىڭ مۇندەرجىسى</a>   
+    
+ <td><span>2009-06-14</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=2717" title="قاراتېكىن : چېقىلغان ئاھاڭ" 0 class="tag_title_link">قاراتېكىن : چېقىلغان ئاھاڭ</a>   
+    
+ <td><span>2009-06-18</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=2716" title="زېرىكىش بىر پويىز" 0 class="tag_title_link">زېرىكىش بىر پويىز</a>   
+    
+ <td><span>2009-06-15</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=2715" title="جان بىرىمەن قەستىمدە بىر كۈن" 0 class="tag_title_link">جان بىرىمەن قەستىمدە بىر كۈن</a>   
+    
+ <td><span>2009-06-17</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=2714" title="جىمجىت قان" 0 class="tag_title_link">جىمجىت قان</a>   
+    
+ <td><span>2009-06-15</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=2713" title="باشقا بىر يول بىلەن" 0 class="tag_title_link">باشقا بىر يول بىلەن</a>   
+    
+ <td><span>2009-06-16</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=2712" title="بىز بىر-بىرىمىزدىن ئۈنۈملۈك پايدىلىنىمىز" 0 class="tag_title_link">بىز بىر-بىرىمىزدىن ئۈنۈملۈك پايدىلىنىمىز</a>   
+    
+ <td><span>2009-06-16</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=2711" title="مەن سەندىن يىراقلىيالمايمەن" 0 class="tag_title_link">مەن سەندىن يىراقلىيالمايمەن</a>   
+    
+ <td><span>2009-06-16</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=2710" title="6-سان تور ژورنىلىنى چۈشۇرۋىلىڭ" 0 class="tag_title_link">6-سان تور ژورنىلىنى چۈشۇرۋىلىڭ</a>   
+    
+ <td><span>2009-06-14</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=2709" title="、ئۇيغۇرنىڭ پەخىرى" 0 class="tag_title_link">、ئۇيغۇرنىڭ پەخىرى</a>   
+    
+ <td><span>2009-06-08</span> </td>
+  </tr>
+
+</table>
+
+<div class="pages">جەمئى: <b>196</b>&nbsp;&nbsp;&nbsp;&nbsp;باش بەت
+&nbsp;ئالدىنقى بەت
+&nbsp;<a href='/edebiyat/list.php?catid=272&page=2'>كىينكى بەت
+</a>&nbsp;<a href='/edebiyat/list.php?catid=272&page=10'>ئاخىرقى بەت</a>&nbsp;بە ت: <b><font color=red>1</font>/10</b>&nbsp;&nbsp;<input type='text' name='page' id='page' class='page' size='3' onKeyDown='if(event.keyCode==13) {window.location="/edebiyat/list.php?catid=272&page="+$("page").value+""; return false;}'> <input type='button' value='GO' class='gotopage' style='width:30px' onclick='window.location="/edebiyat/list.php?catid=272&page="+$("page").value+""'>
+</div>
+     </div>	
+<!--搜索框--></td>
+    <td width="10"></td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>تەۋسىيە ئەسەر </h1><h2><a href="/edebiyat/search.php?catid=272&elite=1&search=1" class="more">يەنە بار </a></h2></div>
+<!--推荐文章js调用-->
+<table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2728" title="تىلىكىڭدە باردۇر تىلىكىم"  target="_blank" class="tag_title_link">تىلىكىڭدە باردۇر تىلىكى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2727" title="«قىزىلسۇ ئەدەبىياتى» 2009-يىللىق 1-2- سانىنىڭ مۇندەرىجىسى"  target="_blank" class="tag_title_link">«قىزىلسۇ ئەدەبىياتى» 2009...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2726" title="ئۆتۈمدىكى تاش--- ئوسمان زاھىر"  target="_blank" class="tag_title_link">ئۆتۈمدىكى تاش--- ئوسمان ز...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2725" title="ﺷﻪﺭﻩﻧﺪﺍﺯ ﯪﻳﺎﻝ ﻧﻪﺷﯩﺮﺩﯨﻦ ﭼﯩﻘﺘﻰ"  target="_blank" class="tag_title_link">ﺷﻪﺭﻩﻧﺪﺍﺯ ﯪﻳﺎﻝ ﻧﻪﺷﯩﺮﺩﯨﻦ ﭼﯩﻘﺘﻰ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2724" title="&lt;&lt;يىڭى قاشتىشى&gt;&gt;ژورنىلىنىڭ (2009-03)ساننىڭ مۇندەرجىسى"  target="_blank" class="tag_title_link">&lt;&lt;يىڭى قاشتىشى&gt;&gt;ژورنىلىن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2723" title="جۇڭگۇ مىللەتلىرى 2009-يىل 3-ساننىڭ مۇندەرجىسى"  target="_blank" class="tag_title_link">جۇڭگۇ مىللەتلىرى 2009-يىل ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2722" title="ﺷﯩﻨﺠﺎﯓ ﻣﻪﺩﻩﻧﯩﻴﯩﺘﻰ ( 2008.4 ) ﻣﯘﻧﺪﻩﺭﯨﺠﯩﺴﻰ"  target="_blank" class="tag_title_link">ﺷﯩﻨﺠﺎﯓ ﻣﻪﺩﻩﻧﯩﻴﯩﺘﻰ ( 2008.4 ) ﻣﯘﻧﺪﻩﺭﯨﺠﯩﺴﻰ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2721" title="تارىم ژورنىلى 2009-يىل 6-ساننىڭ مۇندەرجىسى"  target="_blank" class="tag_title_link">تارىم ژورنىلى 2009-يىل 6-سا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2720" title="جىددى خوش خەۋەر"  target="_blank" class="tag_title_link">جىددى خوش خەۋەر</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2719" title="ئەڭ ئاخىرقى ئۈچ پارچە شېئىر"  target="_blank" class="tag_title_link">ئەڭ ئاخىرقى ئۈچ پارچە شې...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>ئاۋات ئەسەر </h1><h2><a href="/edebiyat/search.php?catid=272&ordertype=3&search=1" class="more">يەنە بار </a></h2></div>
+<table cellpadding="0" cellspacing="0" class="tag_box">
+
+
+</table>
+</td>
+  </tr>
+</table>
+
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html><br />
+<b>Warning</b>:  Unknown: open(D:/ԭ���ļ�/Bilqut_web/data/sessions/\sess_um91c089glpotjrmnkbakhgdq6, O_RDWR) failed: Permission denied (13) in <b>Unknown</b> on line <b>0</b><br />
+<br />
+<b>Warning</b>:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (D:/ԭ���ļ�/Bilqut_web/data/sessions/) in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: open(D:/ԭ���ļ�/Bilqut_web/data/sessions/\sess_um91c089glpotjrmnkbakhgdq6, O_RDWR) failed: Permission denied (13) in D:\ԭ���ļ�\Bilqut_web\include\common.inc.php on line 17
+PHP Warning:  Unknown: open(D:/ԭ���ļ�/Bilqut_web/data/sessions/\sess_um91c089glpotjrmnkbakhgdq6, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (D:/ԭ���ļ�/Bilqut_web/data/sessions/) in Unknown on line 0

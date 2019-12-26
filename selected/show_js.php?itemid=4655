@@ -1,0 +1,3 @@
+﻿try {setidval('hits','602');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/kutupxana/show.php?itemid=4654">يىلان</a></li><li>  كىيىنكىسى  :  <a href="/kutupxana/show.php?itemid=4656">مىڭئاياغ</a></li>');}catch(e){}

@@ -1,0 +1,367 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>بىز توردا نېمە ئىشلارنى قىلالايمىز ؟ (1)-مەدەنىيىتىمىز-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,مەدەنىيىتىمىز">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/madiniytimiz/" class="red"> مەدەنىيىتىمىز</a>
+         | <a class="razimantur" href="/madiniytimiz/list.php?catid=71" >شەھەرلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=72" >ناھىيىلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=73" >ئوبلاستلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=74" >ۋىلايەتلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=75" >رېۋايەتلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=76" >تەمسىللىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=77" >ئۆلچەملىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=78" >چۆچەكلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=79" >سەنئەتكارىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=81" >تىل-يېزىقىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=82" >ئەپسانىلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=83" >مەسەللىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=84" >تائاملىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=85" >شەخسلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=86" >ئويۇنلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=88" > چالغۇلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=89" > ھۈنەرلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=90" > يوسۇنلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=91" > تارىخمىز  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/madiniytimiz/">مەدەنىيىتىمىز</a> >> <a href="/madiniytimiz/list.php?catid=89"> ھۈنەرلىرىمىز  </a> >>  بىز توردا نېمە ئىشلارنى قىلالايمىز ؟ (1)</div>
+<!--主标题--><h1>بىز توردا نېمە ئىشلارنى قىلالايمىز ؟ (1) </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-01-01 22:36:07&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">134</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">سىزنىڭ بۇ يازمامنى كۆرۈشتىن بۇرۇن سىزنىڭ ئاۋۋال jeck ئەپەندىنىڭ بلوگدىن jeck ئەپەندى يازغان بىز توردا نېمە ئىشلارنى قىلالايمىز؟ دېگەن تېمىنى ئوقۇپ چىقىشىڭىزنى تەۋسىيە قىلىمىز .
+
+[url=https://jeck.blogbus.com/logs/26271039.html]بىز توردا نېمە&nbsp; قىلالايمىز ؟ (1)[/url]
+
+[url=https://jeck.blogbus.com/logs/26271324.html]بىز توردا نېمە&nbsp; قىلالايمىز ؟(2)[/url]
+
+ئەمدى ئاساسى مەقسەتكە كەلسەك ، مەن بۇ تېمىنى jeck ئەپەندىنىڭ يازمىسىنى كۆرگەندىن كىيىن ، ئۆزۈمچە يەنە تولۇقلاش مەقسىتىدە يېزىپ ئولتۇرۇپتىمەن . خۇددى jeck ئەپەندى سۆزلەپ ئۆتكەندەك بىزنىڭ ھازىر ئۇيغۇر تور بەتچىلىكى دۇچ كەلگەن ئەڭ چوڭ مەسىلە بىزنىڭ تور بەتتىكى پايدىلىنىش قىممىتىگە ئىگە ماتېرىياللىرىمىز ھەقىقەتەنمۇ بەك ئاز . بىز ھازىر مەلۇم بىر مەسىلىگە دۇچ كېلىپ شۇ مەسىلە توغرىسىدا توردىن ( ئۇيغۇرچە ) ماتېرىيال ئىزدىسەك ئاساسەن دېگۈدەك ماتېرىيال تاپالمايمىز . ئەمما بىز خەنزۇچە 百度 ،&nbsp; google قاتارلىق بەتلەردىن بۇنىڭغا ئائىت ماتېرىيال ئىزدەيدىغان بولساق ماتېرىيالنىڭ كۆپلۈكىدىن كۆزىمىزگە ئىشەنمەيلا قالىمىز . ئەيھانناس ،&nbsp; ئەمما بىزنىڭ ئۇيغۇرچە ئىزدەش ، ئۇيغۇر گوگول قاتارلىق بەتلەردىن ئىزدىسەك ھېچقانداق ماتېرىيال تاپالمايمىز ، بۇ بىزنىڭ ئىزدەش ، ئۇيغۇر گوگول قاتارلىق ئىزدەش تور بەتلىرىمىزنىڭ سەۋىيىسى 百度 ، google قاتارلىق بەتلەرنىڭ سەۋىيىسىدىن تۆۋەنلىكىدىنمىدۇر ؟ ياق ، ھەرگىز ئۇنداق ئەمەس ، ئەگەر سىز خەنزۇچە ياكى ئىنگلىزچە ماتېرىياللارنى بىزنىڭ ئاشۇ ئىزدەش ، ئۇيغۇر گوگول قاتارلىق بەتلەردىن ئىزدەيدىغان بولسىڭىز ، يەنىلا سىز ھەيران قالغۇدەك ماتېرىياللارنى تاپالايسىز . بۇ زادى نېمە ئۈچۈن ؟ بۇ دەل بىزنىڭ توردىكى ماتېرىياللىرىمىزنىڭ كەمچىلىكىنىڭ ئىپادىسى .
+مەسىلەن : ھازىر ئادەم كۈچى بايلىقى باشقۇرۇش 人力资源管理 گە ئائىت بىلىملەر بۈگۈنكى كۈندە ناھايىتى مۇھىم بولغان بىر چوقۇم ئىگىلەشكە تېگىشلىك بىلىم ، ھازىر ھەرخىل ئىگىلىكتىكى كارخانىلارنىڭ كۈندىن-كۈنگە كۆپىيىشىگە ئەگىشىپ ، ھەرقايسى كارخانا باشقۇرغۇچىلارنىڭ&nbsp; ئادەم كۈچى بايلىقى باشقۇرۇش 人力资源管理 گە ئائىت بىلىمگە بولغان ئېھتىياجى ئىنتايىن يۇقىرى ، ئەمما سىز بىزنىڭ تور بەتلىرىمىزدىن بۇنىڭغا ئائىت ماتېرىيال ئىزدىسىڭىز ئاساسەن تاپالمايسىز . ( ھېچ بولمىغاندا مەن شۇنداق مەسىلىگە دۇچ كەلگەن . ) يەنە مىسال ئالساق ، ھازىر بىزنىڭ قېرىنداشلىرىمىز ئاز-تولا ھال كۈنى ياخشى بولۇپ قالغان شارائىتتا بىزنىڭ تۇرمۇشىمىزدا تېلېفون ناھايىتى مۇھىم سالماقنى ئىگىلەپ كېلىۋاتىدۇ ، بۇنىڭغا ئەگىشىپ نۇرغۇن قېرىنداشلىرىمىز نۇرغۇن پۇل خەجلەپ قىممەت باھالىق تېلېفونلارنىڭ سېتىۋالغان بولسىمۇ لېكىن ، كۆپ ساندىكى قېرىنداشلار خەنزۇ تىلىدا دېگەندەك ساۋاتقا ئىگە بولمىغانلىقى ئۈچۈن شۇ قىممەت باھالىق تېلېفونلارنىڭ ئەڭ ئاددىي پايدىلىنىشقا بولىدىغان ئىقتىدارلىرىدىنمۇ پايدىلىنالماي كېلىۋاتىدۇ . بولۇپمۇ ئەقلىي ئىدراكلىق تېلېفون سېتىۋالغان قېرىنداشلار شۇنداق . مەن بۇ قېتىم تەتىلدە يۇرتقا قايتقىنىمدا نۇرغۇن قېرىنداشلارنىڭ nokia n73 ، nokia n73 قاتارلىق ئەقلىي ئىدراكلىق تېلېفون سېتىۋالغانلىقىنى كۆردۈم ، لېكىن ئۇلار ئاشۇ قىممەت باھالىق ئەقلىي ئىدراكلىق تېلېفونلارنىڭ زادى قىممەت بولغانغا چۈشلۇق قانچىلىك ئىقتىدارىنىڭ بارلىقىنى بىلمەيدىكەن ھەم بىلىسىمۇ پايدىلىنالمايۋېتىپتۇ . ئۇلار شۇ تېلېفون قىلىش ۋە تېلېفون قوبۇل قىلىشتىن سىرت ئاساسەن باشقا ئىشلىتەلمەيدىكەن . ( ئۇنتۇپ قالماڭ nokia 3230 ، nokia n70 ، nokia n73 ، nokia n73 قاتارلىق ئەقلىي ئىدراكلىق تېلېفونلاردا بىزنىڭ ئانا تىلىمىزدىكى txt ھۆججىتىنى بىمالال ، ناھايىتى نورمال كۆرگىلى بولىدۇ . بۇنىڭغا قىزىقسىڭىز دىققىتىڭىز بلوگىمىزنىڭ nokia تېلېفون سەھىپىسىدىكى تېمىلاردا بولسۇن . ) نېمە ئۈچۈن شۇنچە كۆپ قېرىنداشلار ئاشۇ ئالىي دەرىجىلىك تېلېفونلارنىڭ سېتىۋېلىپ يەنە ئۇنىڭدىن مۇۋاپىق پايدىلىنىپ ھاياتنىڭ پەيزىنى سۈرەلمەيدۇ ؟ نېمە ئۈچۈن بىز توردىن بىمالال ھالدا ئۆزىمىزگە كېرەكلىك ماتېرىياللارنى ئىزدەپ تېپىپ پايدىلىنالمايمىز ؟ نېمە ئۈچۈن ............بۇلارنىڭ ھەممىسى بىزنىڭ توردىكى ئۇيغۇرچە ماتېرىياللىرىمىزنىڭ كەمچىلىكىنىڭ ئىپادىسى .
+ئۇنداقتا بىز ھەر كۈنى تورغا چىقساق زادى نېمە ئىشلارنى قىلالايمىز ؟ مۇشۇ مەسىلە ئۈستىدە ئويلىنىپ كۆرىدىغان بولساق ، بىزنىڭ قىلىشقا تېگىشلىك ئىشلىرىمىز ناھايىتىمۇ كۆپ .
+ مەسىلەن : سىز بىر ئالىي مەكتەپ ئوقۇغۇچى بولسىڭىز ، ھەركۈنى بىر ، ئىككى سائەت ۋاقىت چىقىرىپ ئۆزىڭىزنىڭ كەسپىگە ئائىت مەزمۇنلاردىن ئاز-تولا ئۆزىڭىزنىڭ ئويلىغانلىرىڭىزنى يوللاپ قويسىڭىز بولىدۇ . ياكى سىز ئىچكىرىدە ئوقۇسىڭىز سىز ئەلۋەتتە خەنزۇ تىلىدىن قىينالمايسىز ، شۇڭا ئاز-تولا بىر نەرسە تەرجىمە قىلىپ يوللىسىڭىز بولىدۇ . دىققەت : خەنزۇ تىلىنى ئۇقۇپ چۈشىنىش بىلەن ئۇنى ئۇيغۇر تىلىغا تەرجىمە قىلىش دېگەن باشقا باشقا ئىش . گەرچە سىز خەنزۇچە ماتېرىياللارنى ئوقۇپ چۈشىنەلىگىنىڭىز بىلەن ئۇنى ئۇيغۇرچىغا تەرجىمە قىلالىشىڭىز ناتايىن ، ئىشەنمىسىڭىز سىناپ بېقىڭ . شۇڭا دائىم ئۇنى-بۇنى تەرجىمە قىلىپ ئۆزىڭىزنىڭ تەرجىمە قىلىش ئىقتىدارىڭىزنى يىتىلدۈرۋالسىڭىز بۇلىدۇ . سىز بلوگ قۇرىۋېلىپ ( قۇرالمىسڭىز بىزنى ئىزدىسىڭىز بۇلىدۇ ياكى باشقا ئۇستازلارنى ئىزدىسىڭىزمۇ بۇلىدۇ ياكى بولمىسا مۇنبەرلەرگە يوللىسىڭىزمۇ بۇلىدۇ . ) مەلۇم سەھىپىدە ( مەسىلەن : ھازىر ئەكلىماكان بلوگى ئاساسەن گوگول ئېلانى ھەققىدە چۈشەندۇرۇشنى ، ئارامگاھ بلوگى بلوگ ھۆنەرلىرىنى چۈشەندۇرۇشنى ، تارىم بلوگى ماتىماتىكا بىلىملىرىنى سۆزلەشنى ، يوليار بلوگى ئالى ماما بىلىملىرىنى چۈشەندۇرۇشنى ، دەۋر بلوگى بولسا ئەقلىي ئىدراكىلىق تېلىفۇن بىلىملىرىنى چۈشەندۈرشنى ئاساس قىلغان ھالدا نۇرغۇن ئىسىل ، سەرخىل بلوگلار بارلىققا كەلدى . سىزمۇ ئاشۇنداق ئۆزىڭىز قىزىققان مەلۇم سەھىپىنى تاللىۋېلىپ بلوگ يازسىڭىز بۇلىدۇ .) ئاز-تۇلا يازما يوللاپ قويسىڭىز بۇمۇ سىزنىڭ مىللەتپەرۋەرلىكىڭىزنى ئىپادىلەيدىغان ياخشى پۇرسەت ، سىز ھەركۈنى 网吧 غا يۇگرەپ ئاتا-ئانىڭىزنىڭ ئەجرى بەدىلىگە كەلگەن پۇللارغا 游戏 ئوينىمىسىڭىزمۇ بۇلار . سىز 游戏 ئويناپ ئاتا - ئانىڭىزنىڭ قان تەرىنى بۇزۇپ چاچمىسىڭىزمۇ ئاتا-ئانىڭىزنىڭ ھېلىمۇ تارتقان جاپاسى يىتەر . شۇڭا ئاز-تۇلا پايدىلىق ئىش قىلىشنى ئۆگىنىۋېلىڭ . سىز قىلسىڭىز باشقىلارمۇ سىزدىن ئۆگىنىپ قىلسا تاما-تاما كۆل تۇلار دەپ بىزنىڭ تور دۇنياسىدىكى ماتىرىيال مەنبەيىمىز كۆپەيسە ھەممە قېرىنداشلىرىمىزغا پايدىلىق .
+ئەگەر سىز بىرەر شىركەتنىڭ خىزمەتچىسى بولسىڭىز ، سىزمۇ ئۆزىڭىزنىڭ خىزمىتىگە ئائىت ئاز-تۇلا بىر نەرسە يوللاپ قويسىڭىز بۇلىدۇ . ئەگەر سىز كۈندە قىلغىلى ئىش تاپالمىسىڭىز بىزنىڭ ئۇيغۇر تىلىدا يېزىلغان كىتابى ئەسەرلەرنى تورغا يوللاپ قۇيۇڭ . بۇنداق قىلسىڭىز بىر جەھەتتىن ئۆزىڭىزنىڭ كومپىيوتىر مەشغۇلاتى قىلىش جەھەتتىكى بىلىمىڭىزنى موللاشتۇرالايسىز ، يەنە بىر جەھەتتىن ئۆز ئانا تىلىڭىزنى بىمالال ئىملاسى توغرا ھالداكومپىيوتىرغا يازالايدىغان بۇلالايسىز شۇ چاغدا سىز بىزنىڭ بەزى تۇلۇق كۇرۇس ئوقۇغۇچىلىرىدىنمۇ ئىقتىدارلىق بۇلۇپ كېتىسىز .(&nbsp; چۈنكى بىزنىڭ نۇرغۇن تۇلۇق كۇرۇسنى پۇتتۇرگەن ئوقۇغۇچىلىمىزمۇ ئۆز ئانا تىلىدا ئۆز ئىسمىنى كومپىيوتىرغا بىمالال يازالمايدىغان ئىشلار ھازىر نۇرغۇن . شۇڭىمۇ ئۇلار ھازىر ئېغىر ئىش تاپالماسلىق كىرزىسىغا دۇچ كەلمەكتە . بۇ جەھەتتە كىيىن مەخسۇس يازما يوللايمىز . ھازىرچە مۇشۇنچىلىك خەۋەردار بولغاچ تۇرسىڭىز بۇلىدۇ .)&nbsp;  بۇمۇ سىزنىڭ قۇلىڭىزدىن كېلىدىغان ئىشلار ، كىنونى ئازراق كۆسىڭىزمۇ بۇلار ، كىنو دېگەن تۈگەپ قالمايدۇ . 
+ئەگەر سىز يۇقىرىقى ئىشلارنىڭ ھېچقايسىسىنى قىلالمايدىكەنمەن دېسىڭىز ، سىز قىلالايدىغان يەنە نۇرغۇن ئىشلار بار&nbsp; . مەسىلەن : سىز ھېچ ئىش قىلالمىسڭىز ، كۈندە تۆت بەش مىنۇت تورغىغۇ چىقالارسىز ؟ ( ئەگەر تورغىمۇ چىقىشنى بىلمىسڭىز سىز ئۆزىڭىزنى مەن ھازىرقى زامانغا ماسلىشالماپتىمەن دەپ ھېساپلاۋېرىڭ . چۈنكى ھازىر دېگەن ئۇچۇر دەۋرى ، سىز توردىن مۇۋاپىق پايدىلىنىشنى بىلمىسىڭىز ، دەۋر سىزنى شاللايدۇ ، سىز ياشاشقا ئامالسىز قالىسىز . ) شۇڭا سىز تورغا چىققاندا ھېچ ئىش قىلالمىسىڭىز ، مۇنداق قىلىڭ ، باشقىلار يېزىپ قالدۇرغان يازمىلارنى كۈرۈپ قۇيۇڭ ، سىزگە چۇقۇم پايدىسى تېگىپ قالىدۇ . شۇ يازمىلارنى كۈرۈش جەريانىدا مۇۋاپىق ھالدا باشقىلارنىڭ تور بېتىدىكى ياكى بلوگىدىكى ئېلانلارنى چىكىپ قۇيۇڭ . ( دىققەت : چۇقۇم ئىناۋەتلىك چىكىڭ . ئەگەر ئىناۋەتلىك چىكىشنى بىلمىسىڭىز ئارامگاھ بلوگىدىكى بۇنىڭغا ئائىت مەزمۇننى كۈرۈپ قۇيۇڭ . ) سىز باشقىلارنىڭ بېتىدىكى ياكى بلوگىدىكى ئېلارنى ھەركۈنى كۆپ ئەمەس پەقەت بىر قېتىمدىن چىكىپ قويسىڭىز ، باشقىلار ئاز-تۇلا مەنپەئەتكە ئېرىشسە ئۇلار تېخىمۇ رىغبەتلىنىپ ، تېخىمۇ ياخشى مەزمۇنلارنى بارلىققا كەلتۈرۈشكە تىرىشىدۇ . بۇ ۋاقىتتا بىزنىڭ توردىكى ماتىرىيال مەنبەيىمىزمۇ موللىشىدۇ . ھۇرۇن بولماڭ ، ھۇرۇنلۇق ئادەمنى تۈگىشىش گىرداۋىغا ئاپىرىپ تاشلايدۇ ، سىزنىڭ باشقىلارنىڭ ئېلانىنى چىكىپ قۇيۇشىڭىزغا كۆپ ۋاقىت كەتمەيدۇ ، ئەڭ كۆپ بولغاندىمۇ تۆت-بەش مىنۇت كىتەر ، سىز ئېلاننى چىكىپ ساقلاپ تۇرۇشىڭىز ھاجەتسىز ، چىكىپ قۇيۇپ ئۆزىڭىزنىڭ ئىشىنى قىلىۋەرسىڭىز بۇلىدۇ . بۇ ئەلۋەتتە قۇلىڭىزدىن كېلەر ؟ باشقىلارنى قوللاشنى ئۆگىنىپ قۇيۇڭ . 
+بۇ قېتىم مۇشىنچىلىك يازاي . داۋامىنى يەنە تۇلۇقلايمەن .
+
+مەنبە:[url=https://dewir.blogbus.com/logs/29569644.html]دەۋر بلوگى [/url]</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2126" title="تەۋىسىيە&nbsp;&nbsp;&nbsp;&nbsp;كەڭ&nbsp;&nbsp;خەلىق ئامىسى بۇ كىنونى كۆرۇپ قۇيۇڭلار.."  target="_blank" class="tag_title_link">تەۋىسىيە    كەڭ  خەل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2125" title="(چۈشۈرۈڭ) تۇركىيەنىڭ داڭلىق فىلىمى مىڭ بىر كىچە"  target="_blank" class="tag_title_link">(چۈشۈرۈڭ) تۇركىيەنى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2124" title="بىز توردا نېمە ئىشلارنى قىلالايمىز ؟ (1)"  target="_blank" class="tag_title_link">بىز توردا نېمە ئىشل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2123" title="ئۇيغۇرلاردا دوغاپ ۋە جۇلاپ"  target="_blank" class="tag_title_link">ئۇيغۇرلاردا دوغاپ ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2122" title="ئۇيغۇرلاردا مېۋە قۇرۇتۇش"  target="_blank" class="tag_title_link">ئۇيغۇرلاردا مېۋە ق...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2121" title="ئۇيغۇرلاردا رەڭچىلىك"  target="_blank" class="tag_title_link">ئۇيغۇرلاردا رەڭچىل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2120" title="سەرراپلىق"  target="_blank" class="tag_title_link">سەرراپلىق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2119" title="ئۇيغۇرلاردا سەرراچلىق"  target="_blank" class="tag_title_link">ئۇيغۇرلاردا سەرراچ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2118" title="زەرگەرلىك(ئۇيغۇر ھۈنەرلىرى)"  target="_blank" class="tag_title_link">زەرگەرلىك(ئۇيغۇر ھ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2117" title="ئۇيغۇر ھۆنەرلىرىدىن قەندالەتچىلىك"  target="_blank" class="tag_title_link">ئۇيغۇر ھۆنەرلىرىدى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2116" title="كۇلالچىلىق"  target="_blank" class="tag_title_link">كۇلالچىلىق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2115" title="قۇيمىچىلىق"  target="_blank" class="tag_title_link">قۇيمىچىلىق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2114" title="شامچىلىق"  target="_blank" class="tag_title_link">شامچىلىق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2113" title="تۇنىكىسازلىق ۋە قۇلۇپسازلىق"  target="_blank" class="tag_title_link">تۇنىكىسازلىق ۋە قۇ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2112" title="سەكسەنخالتا"  target="_blank" class="tag_title_link">سەكسەنخالتا</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2111" title="تونۇر"  target="_blank" class="tag_title_link">تونۇر</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2110" title="ھاممام"  target="_blank" class="tag_title_link">ھاممام</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2109" title="مەشۇتچىلىك"  target="_blank" class="tag_title_link">مەشۇتچىلىك</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2108" title="ئۇيغۇرلاردا قاسساپلىق"  target="_blank" class="tag_title_link">ئۇيغۇرلاردا قاسساپ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2107" title="كۆنچىلىك"  target="_blank" class="tag_title_link">كۆنچىلىك</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/madiniytimiz/search.php?catid=89&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2126" title="تەۋىسىيە&nbsp;&nbsp;&nbsp;&nbsp;كەڭ&nbsp;&nbsp;خەلىق ئامىسى بۇ كىنونى كۆرۇپ قۇيۇڭلار.."  target="_blank" class="tag_title_link">تەۋىسىيە    كەڭ  خەلىق ئا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2125" title="(چۈشۈرۈڭ) تۇركىيەنىڭ داڭلىق فىلىمى مىڭ بىر كىچە"  target="_blank" class="tag_title_link">(چۈشۈرۈڭ) تۇركىيەنىڭ داڭ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2124" title="بىز توردا نېمە ئىشلارنى قىلالايمىز ؟ (1)"  target="_blank" class="tag_title_link">بىز توردا نېمە ئىشلارنى ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2123" title="ئۇيغۇرلاردا دوغاپ ۋە جۇلاپ"  target="_blank" class="tag_title_link">ئۇيغۇرلاردا دوغاپ ۋە جۇ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2122" title="ئۇيغۇرلاردا مېۋە قۇرۇتۇش"  target="_blank" class="tag_title_link">ئۇيغۇرلاردا مېۋە قۇرۇتۇ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2121" title="ئۇيغۇرلاردا رەڭچىلىك"  target="_blank" class="tag_title_link">ئۇيغۇرلاردا رەڭچىلىك</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2120" title="سەرراپلىق"  target="_blank" class="tag_title_link">سەرراپلىق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2119" title="ئۇيغۇرلاردا سەرراچلىق"  target="_blank" class="tag_title_link">ئۇيغۇرلاردا سەرراچلىق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2118" title="زەرگەرلىك(ئۇيغۇر ھۈنەرلىرى)"  target="_blank" class="tag_title_link">زەرگەرلىك(ئۇيغۇر ھۈنەرل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2117" title="ئۇيغۇر ھۆنەرلىرىدىن قەندالەتچىلىك"  target="_blank" class="tag_title_link">ئۇيغۇر ھۆنەرلىرىدىن قەن...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/madiniytimiz/show_js.php?itemid=2124"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

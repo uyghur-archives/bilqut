@@ -1,0 +1,3 @@
+﻿try {setidval('hits','1724');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/xewer/show.php?itemid=431">2010 – يىللىق جەنۇبىي ئافرىقا دۇنيا پۇتبول مۇسابىقىسىگە قاتنىشىدىغان كوماندىلار قاتلاملارغا ئايرىلىپ</a></li><li>  كىيىنكىسى  :    يوق</li>');}catch(e){}

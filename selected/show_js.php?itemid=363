@@ -1,0 +1,5 @@
+﻿try {setidval('hits','2759');}catch(e){}
+try {setidval('totalview','2017');}catch(e){}
+try {setidval('todayview','2');}catch(e){}
+try {setidval('weekview','15');}catch(e){}
+try {setidval('monthview','41');}catch(e){}try {setidval('commentnumber','0');}catch(e){}

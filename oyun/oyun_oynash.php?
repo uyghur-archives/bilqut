@@ -1,0 +1,149 @@
+﻿<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Bilqut oyun kani li  !!!!      ^_^   !!!!</title>
+<meta name="keywords" content="{$head[keywords]}">
+<meta name="description" content="{$head[description]}">
+<link href="../Bilqut.ico" rel="shortcut icon">
+<link href="../Bilqut_oyun.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="../data/js/config.js"></script>
+<script language="javascript" src="../include/js/common.js"></script>
+<script language="javascript" src="../include/js/prototype.js"></script>
+
+</head>
+<body>
+<div class="header">
+<div align="center">
+	<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+	<td style="padding:1px; border:1px solid #fee601; " background="../Raziman_img/resim/top_bg.jpg" align="center"  >
+	<table border="0" width="950px" id="table2" cellspacing="1" height="30">
+		<tr>
+			<td width="350" align="center"><span lang="ar-sa" style="color:#000">بىلقۇت تورغا 
+			كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+			<td width="600" align="center">&nbsp;</td>
+		</tr>
+	</table>
+	</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+	<table border="0" width="950px" cellspacing="0" cellpadding="0">
+		<tr>
+			<td>
+			<iframe name="RAZIMAN" src="../raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+		</tr>
+		</table>
+</div>
+  <table width="960" border="0" align="center" cellpadding="0" cellspacing="0" id="table3">
+    
+  <tr>
+		<td width="80" background="../raziman_img/oyun/bg.gif">&nbsp;</td>
+		<td>
+			<img src="../raziman_img/oyun/index_06.png" width="124" height="170" alt=""></td>
+		<td>
+			<img src="../raziman_img/oyun/index_05.png" width="156" height="170" alt=""></td>
+		<td>
+			<img src="../raziman_img/oyun/index_04.png" width="131" height="170" alt=""></td>
+		<td>
+			<img src="../raziman_img/oyun/index_03.png" width="131" height="170" alt=""></td>
+		<td>
+			<img src="../raziman_img/oyun/index_02.png" width="135" height="170" alt=""></td>
+		<td>
+			<img src="../raziman_img/oyun/index_01.png" width="123" height="170" alt=""></td>
+		<td width="80" background="../raziman_img/oyun/bg.gif">&nbsp;</td>
+	</tr>
+</table>
+  <!--频道下属栏目列表-->
+
+<table width="960" height="38" border="0" align="center" cellpadding="0" cellspacing="0" id="table4">
+  <tr>
+		<td width="80" rowspan="2" height="38" background="../raziman_img/oyun/index_11.gif">&nbsp;</td>
+		<td height="29" background="../raziman_img/oyun/index_10.gif" width="24">&nbsp;</td>
+		<td height="29" background="../raziman_img/oyun/top_02.gif" width="101" dir="ltr"><a href="./" class="white"> بـــاش بـــەت </a></td>
+		<td height="29" width="49" background="../raziman_img/oyun/top_01.gif">&nbsp;</td>
+		<td height="29" width="602" background="../raziman_img/oyun/top_02.gif">&nbsp;</td>
+		<td height="29" background="../raziman_img/oyun/index_08.gif" width="24">&nbsp;</td>
+		<td width="80" rowspan="2" height="38" background="../raziman_img/oyun/index_11.gif">&nbsp;</td>
+	</tr>
+	<tr>
+		<td height="9" colspan="5" background="../raziman_img/oyun/index_12.gif"></td>
+	</tr>
+</table>
+
+  <!--End-->
+</div>
+<div class="arlik"></div>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8'charset']}">         
+<meta http-equiv="cache-control" content="no-cache">  
+<title>ئۇچۇر</title>
+<style type="text/css">
+<!--
+@font-face {
+font-family: Ukij tuz Tom;
+src: url(UkijTT.ttf);
+}
+
+*{
+margin:0;
+padding:0;
+}
+body{ font-family: Ukij tuz Tom;
+text-align:center;
+}
+td{
+font-size: 12px;
+line-height:150%;
+}
+h1{
+height:20px;
+line-height:20px;
+font-size:12px;
+text-align:center;
+background-color:#f1f1f1;
+color:#CC0000;
+}
+.box_border{
+margin:50px auto;
+border:1px solid #dcdcdd;
+width:450px;
+}
+a:link {
+color: #0000FF;
+text-decoration: none;
+}
+a:visited {
+text-decoration: none;
+color: #003399;
+}
+a:hover {
+text-decoration: underline;
+color: #0066FF;
+}
+a:active {
+text-decoration: none;
+color: #0066FF;
+}
+-->
+</style>
+<script language="JavaScript" src="/include/js/common.js"></script>
+</head>
+<body>
+<div class="box_border">
+<h1>ئەسكەتمە ئۇچۇر </h1>
+<table width="100%" cellspacing="5" cellpadding="0" bgcolor="#f5f5f5">
+  <tr>
+    <td align="center" bgcolor="#FFFFFF">
+<br/>
+非法操作！<br/>
+<br/><a href="javascript:history.back();" >ئالدىنقى بەتكە قايتىش </a><br>www.Bilqut.Com    </td>
+  </tr>
+</table>
+</div>
+</body>
+</html>

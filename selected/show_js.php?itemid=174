@@ -1,0 +1,3 @@
+﻿try {setidval('hits','13977');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/xewer/show.php?itemid=172">چاڭجياڭ دەرياسىنىڭ چۇڭچىڭ فۇلىڭ بۆلىكىدە ئىككى كېمە سوقۇلۇپ كەتتى</a></li><li>  كىيىنكىسى  :  <a href="/xewer/show.php?itemid=218">مەملىكەت بويىچە شەھەر، بازارلاردا يېڭىدىن ئىشقا ئورۇنلاشقانلار 8 مىليون 510 مىڭ كىشىگە يەتتى</a></li>');}catch(e){}

@@ -1,0 +1,3 @@
+﻿try {setidval('hits','947');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/maarip/show.php?itemid=299">ئىلى كەچلىك گېزىتى</a></li><li>  كىيىنكىسى  :  <a href="/maarip/show.php?itemid=301">قەشقەر گېزىتى</a></li>');}catch(e){}

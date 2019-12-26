@@ -1,0 +1,3 @@
+﻿try {setidval('hits','544');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/qanun/show.php?itemid=389">سودا بانكىسى قانۇنى</a></li><li>  كىيىنكىسى  :  <a href="/qanun/show.php?itemid=391">ئىچكى ماتېرىيال خاراكتېرلىك نەشر&nbsp;&nbsp;بۇيۇملىرىنى باشقۇرۇش چارىسى</a></li>');}catch(e){}

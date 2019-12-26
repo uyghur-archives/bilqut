@@ -1,0 +1,3 @@
+﻿try {setidval('hits','4012');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/kompiyotir/show.php?itemid=471">تور بەتتا دائىم ئىشلىتىدىغان بىر نەچچە خىل ئېلان كودلىرى</a></li><li>  كىيىنكىسى  :    يوق</li>');}catch(e){}

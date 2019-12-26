@@ -1,0 +1,1 @@
+﻿MySQL Query:select movieid,title,addtime,introduce,linkurl from phpcms_movie_30 where status=3  and catid = 214  order by totalmovies DESC limit 0,10 <br> MySQL Error:Unknown column 'totalmovies' in 'order clause' <br> MySQL Errno:1054 <br> Message:MySQL Query Error

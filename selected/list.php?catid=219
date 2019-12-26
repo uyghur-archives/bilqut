@@ -1,0 +1,964 @@
+﻿<br />
+<b>Warning</b>:  session_start() [<a href='function.session-start'>function.session-start</a>]: open(D:/ԭ���ļ�/Bilqut_web/data/sessions/\sess_obh0nupk5blorv8kaidbmbsc23, O_RDWR) failed: Permission denied (13) in <b>D:\ԭ���ļ�\Bilqut_web\include\common.inc.php</b> on line <b>17</b><br />
+﻿
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ھېندىستانچە-ناخشا--Bilqut Uyghur web</title>
+<meta name="keywords" content=",">
+<meta name="description" content="-">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/CSS/Bilqut_naxsha.css" rel="stylesheet" type="text/css">
+<link href="/CSS/nahxa.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+</head>
+<body  >
+
+<div class="header">
+<table width="950" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#540407">
+<tr>
+<td align="center"><table id="__01" width="950" height="62" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<a href="/xewer"><img src="/raziman_img/nahxa/top/nahxa-top_01.gif" width="61" height="62" alt=""></a></td>
+<td>
+<a href="/kutupxana/"><img src="/raziman_img/nahxa/top/nahxa-top_02.gif" width="62" height="62" alt=""></a></td>
+<td>
+<a href="/uyghur"><img src="/raziman_img/nahxa/top/nahxa-top_03.gif" width="62" height="62" alt=""></a></td>
+<td>
+<a href="/balilar_bagchisi/"><img src="/raziman_img/nahxa/top/nahxa-top_04.gif" width="62" height="62" alt=""></a></td>
+<td>
+<a href="/uchur"><img src="/raziman_img/nahxa/top/nahxa-top_05.gif" width="62" height="62" alt=""></a></td>
+<td>
+<a href="/resim/"><img src="/raziman_img/nahxa/top/nahxa-top_06.gif" width="58" height="62" alt=""></a></td>
+<td>
+<a href="/"><img src="/raziman_img/nahxa/top/nahxa-top_07.gif" width="212" height="62" alt=""></a></td>
+<td>
+<a href="/awaz/"><img src="/raziman_img/nahxa/top/nahxa-top_08.gif" width="62" height="62" alt=""></a></td>
+<td>
+<a href="/Ugnish/"><img src="/raziman_img/nahxa/top/nahxa-top_09.gif" width="62" height="62" alt=""></a></td>
+<td>
+<a href="/mtv/"><img src="/raziman_img/nahxa/top/nahxa-top_10.gif" width="61" height="62" alt=""></a></td>
+<td>
+<a href="/oyun/"><img src="/raziman_img/nahxa/top/nahxa-top_11.gif" width="62" height="62" alt=""></a></td>
+<td>
+<a href="/kino/"><img src="/raziman_img/nahxa/top/nahxa-top_12.gif" width="62" height="62" alt=""></a></td>
+<td>
+<a href="/nahxa/"><img src="/raziman_img/nahxa/top/nahxa-top_13.gif" width="62" height="62" alt=""></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+
+
+  <table width="950" border="0" align="center" cellpadding="0" cellspacing="0" id="table3">
+
+
+<tr>
+<td>
+<a href="/nahxa/"><img src="/raziman_img/nahxa/top.png" width="950" height="140" alt=""></a></td>
+</tr>
+</table>
+<table width="950" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+  <!--频道下属栏目列表-->
+<table width="950" height="36" border="0" align="center" cellpadding="0" cellspacing="0" id="table4">
+<tr>
+  <td width="8" rowspan="2" height="36" background="/raziman_img/nahxa/right_bg.gif">&nbsp;
+  </td>
+<td height="36" background="/raziman_img/nahxa/tur_bg.gif" width="197" align="center">
+<a href="/nahxa/" class="white"> 
+  بـــاش بـــەت </a></td>
+<td height="36" width="737" background="/raziman_img/nahxa/tur_bg.gif" >
+   | <a class="razimantur" href="/nahxa/list.php?catid=161" >ئۇيغۇرچە</a>
+
+ | <a class="razimantur" href="/nahxa/list.php?catid=162" >ئۆزبەكچە</a>
+
+ | <a class="razimantur" href="/nahxa/list.php?catid=163" >تۈركچە</a>
+
+ | <a class="razimantur" href="/nahxa/list.php?catid=164" >چەتئەلچە</a>
+
+ | <a class="razimantur" href="/nahxa/list.php?catid=218" >ئەرەبچە</a>
+
+ | <a class="razimantur" href="/nahxa/list.php?catid=219" >ھېندىستانچە</a>
+
+</td>
+<td width="8" height="36" background="/raziman_img/nahxa/left_bg.gif">&nbsp;
+  </td>
+</tr>
+
+</table>
+
+</div>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="10"></td>
+  </tr>
+</table>
+
+<!--主体标签-->
+<table width="950" cellpadding="0"  cellspacing="0">
+  <tr>
+    <td width="750" valign="top">
+<!--位置导航-->
+
+
+    <div class="position">ئورنىڭىز : <a href="/nahxa/">ناخشا</a> >> <a href="/nahxa/list.php?catid=219">ھېندىستانچە</a> >> </div>
+     <div class="cat_box_1">
+ <div class="cat_title">
+     <div class="cat_name">ھېندىستانچە</div>
+ <div class="cat_url"><a href="" class="more"></a></div>
+     </div>
+<table width="100%"  cellpadding="4" cellspacing="0" >
+
+<tr><td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=169" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">Retro Mix Ishq Hua</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=168" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">Oyaara Dhol Bajake</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=167" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">O Maahiya</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=166" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">Namakool</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=165" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">Nach Le Soniye</span></a>
+</div>
+</td>
+
+</tr>
+<tr><td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=164" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">Mumbai Salsa</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=163" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">Mauja Hi Mauja</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=162" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">jal jal ke dhuaan</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=161" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">Jaanam</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=160" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">تاللانما</span></a>
+</div>
+</td>
+
+</tr>
+<tr><td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=159" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">تاللانما</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=158" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">تاللانما</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=157" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">تاللانما</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=156" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">تاللانما</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=155" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">تاللانما</span></a>
+</div>
+</td>
+
+</tr>
+<tr><td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=154" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">تاللانما</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=153" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">تاللانما</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=152" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">تاللانما</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=151" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">تاللانما</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=150" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">تاللانما</span></a>
+</div>
+</td>
+
+</tr>
+<tr><td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=149" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">تاللانما</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=148" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">تاللانما</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=147" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">تاللانما</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=146" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">تاللانما</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=145" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">تاللانما</span></a>
+</div>
+</td>
+
+</tr>
+<tr><td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=144" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">تاللانما</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=143" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">تاللانما</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=142" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">تاللانما</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=141" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">تاللانما</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=140" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">تاللانما</span></a>
+</div>
+</td>
+
+</tr>
+<tr><td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=139" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">تاللانما</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=138" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">تاللانما</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=137" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">ھېندىستانچە 1</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=136" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">Dil Diya Hai</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=135" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">Deewangi</span></a>
+</div>
+</td>
+
+</tr>
+<tr><td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=134" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">Dard-E-Disco</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=133" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">CHADHTI JAWANI</span></a>
+</div>
+</td>
+
+
+<td width="20%" valign="top">
+<div class="pictxt">
+<a href="/nahxa/show.php?itemid=132" target="_blank"><img src="/images/nopic.gif"><br>
+<span style="color:#390">Bad Boy</span></a>
+</div>
+</td>
+
+
+
+</table>
+
+<hr /><ul class="list1">
+
+
+<li><span class="topnum">1</span>
+
+<table border="0" width="400" cellspacing="0" cellpadding="0">
+<tr>
+<td width="280"><a href="/nahxa/show.php?itemid=169" title="Retro Mix Ishq Hua" target="_blank">Retro Mix Ishq Hua</a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=169">
+<img src="/raziman_img/nahxa/anglash.gif" width="18" height="14" alt="" align="middle"></a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=169">
+        <img src="/raziman_img/nahxa/down.gif" width="18" height="14" alt=""></a></td>
+</tr>
+</table>
+</li>
+
+
+
+<li><span class="topnum">2</span>
+
+<table border="0" width="400" cellspacing="0" cellpadding="0">
+<tr>
+<td width="280"><a href="/nahxa/show.php?itemid=168" title="Oyaara Dhol Bajake" target="_blank">Oyaara Dhol Bajake</a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=168">
+<img src="/raziman_img/nahxa/anglash.gif" width="18" height="14" alt="" align="middle"></a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=168">
+        <img src="/raziman_img/nahxa/down.gif" width="18" height="14" alt=""></a></td>
+</tr>
+</table>
+</li>
+
+
+
+<li><span class="topnum">3</span>
+
+<table border="0" width="400" cellspacing="0" cellpadding="0">
+<tr>
+<td width="280"><a href="/nahxa/show.php?itemid=167" title="O Maahiya" target="_blank">O Maahiya</a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=167">
+<img src="/raziman_img/nahxa/anglash.gif" width="18" height="14" alt="" align="middle"></a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=167">
+        <img src="/raziman_img/nahxa/down.gif" width="18" height="14" alt=""></a></td>
+</tr>
+</table>
+</li>
+
+
+
+<li><span >4</span>
+
+<table border="0" width="400" cellspacing="0" cellpadding="0">
+<tr>
+<td width="280"><a href="/nahxa/show.php?itemid=166" title="Namakool" target="_blank">Namakool</a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=166">
+<img src="/raziman_img/nahxa/anglash.gif" width="18" height="14" alt="" align="middle"></a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=166">
+        <img src="/raziman_img/nahxa/down.gif" width="18" height="14" alt=""></a></td>
+</tr>
+</table>
+</li>
+
+
+
+<li><span >5</span>
+
+<table border="0" width="400" cellspacing="0" cellpadding="0">
+<tr>
+<td width="280"><a href="/nahxa/show.php?itemid=165" title="Nach Le Soniye" target="_blank">Nach Le Soniye</a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=165">
+<img src="/raziman_img/nahxa/anglash.gif" width="18" height="14" alt="" align="middle"></a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=165">
+        <img src="/raziman_img/nahxa/down.gif" width="18" height="14" alt=""></a></td>
+</tr>
+</table>
+</li>
+
+
+
+<li><span >6</span>
+
+<table border="0" width="400" cellspacing="0" cellpadding="0">
+<tr>
+<td width="280"><a href="/nahxa/show.php?itemid=164" title="Mumbai Salsa" target="_blank">Mumbai Salsa</a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=164">
+<img src="/raziman_img/nahxa/anglash.gif" width="18" height="14" alt="" align="middle"></a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=164">
+        <img src="/raziman_img/nahxa/down.gif" width="18" height="14" alt=""></a></td>
+</tr>
+</table>
+</li>
+
+
+
+<li><span >7</span>
+
+<table border="0" width="400" cellspacing="0" cellpadding="0">
+<tr>
+<td width="280"><a href="/nahxa/show.php?itemid=163" title="Mauja Hi Mauja" target="_blank">Mauja Hi Mauja</a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=163">
+<img src="/raziman_img/nahxa/anglash.gif" width="18" height="14" alt="" align="middle"></a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=163">
+        <img src="/raziman_img/nahxa/down.gif" width="18" height="14" alt=""></a></td>
+</tr>
+</table>
+</li>
+
+
+
+<li><span >8</span>
+
+<table border="0" width="400" cellspacing="0" cellpadding="0">
+<tr>
+<td width="280"><a href="/nahxa/show.php?itemid=162" title="jal jal ke dhuaan" target="_blank">jal jal ke dhuaan</a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=162">
+<img src="/raziman_img/nahxa/anglash.gif" width="18" height="14" alt="" align="middle"></a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=162">
+        <img src="/raziman_img/nahxa/down.gif" width="18" height="14" alt=""></a></td>
+</tr>
+</table>
+</li>
+
+
+
+<li><span >9</span>
+
+<table border="0" width="400" cellspacing="0" cellpadding="0">
+<tr>
+<td width="280"><a href="/nahxa/show.php?itemid=161" title="Jaanam" target="_blank">Jaanam</a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=161">
+<img src="/raziman_img/nahxa/anglash.gif" width="18" height="14" alt="" align="middle"></a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=161">
+        <img src="/raziman_img/nahxa/down.gif" width="18" height="14" alt=""></a></td>
+</tr>
+</table>
+</li>
+
+
+
+<li><span >10</span>
+
+<table border="0" width="400" cellspacing="0" cellpadding="0">
+<tr>
+<td width="280"><a href="/nahxa/show.php?itemid=160" title="تاللانما" target="_blank">تاللانما</a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=160">
+<img src="/raziman_img/nahxa/anglash.gif" width="18" height="14" alt="" align="middle"></a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=160">
+        <img src="/raziman_img/nahxa/down.gif" width="18" height="14" alt=""></a></td>
+</tr>
+</table>
+</li>
+
+
+
+<li><span >11</span>
+
+<table border="0" width="400" cellspacing="0" cellpadding="0">
+<tr>
+<td width="280"><a href="/nahxa/show.php?itemid=159" title="تاللانما" target="_blank">تاللانما</a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=159">
+<img src="/raziman_img/nahxa/anglash.gif" width="18" height="14" alt="" align="middle"></a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=159">
+        <img src="/raziman_img/nahxa/down.gif" width="18" height="14" alt=""></a></td>
+</tr>
+</table>
+</li>
+
+
+
+<li><span >12</span>
+
+<table border="0" width="400" cellspacing="0" cellpadding="0">
+<tr>
+<td width="280"><a href="/nahxa/show.php?itemid=158" title="تاللانما" target="_blank">تاللانما</a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=158">
+<img src="/raziman_img/nahxa/anglash.gif" width="18" height="14" alt="" align="middle"></a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=158">
+        <img src="/raziman_img/nahxa/down.gif" width="18" height="14" alt=""></a></td>
+</tr>
+</table>
+</li>
+
+
+
+<li><span >13</span>
+
+<table border="0" width="400" cellspacing="0" cellpadding="0">
+<tr>
+<td width="280"><a href="/nahxa/show.php?itemid=157" title="تاللانما" target="_blank">تاللانما</a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=157">
+<img src="/raziman_img/nahxa/anglash.gif" width="18" height="14" alt="" align="middle"></a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=157">
+        <img src="/raziman_img/nahxa/down.gif" width="18" height="14" alt=""></a></td>
+</tr>
+</table>
+</li>
+
+
+
+<li><span >14</span>
+
+<table border="0" width="400" cellspacing="0" cellpadding="0">
+<tr>
+<td width="280"><a href="/nahxa/show.php?itemid=156" title="تاللانما" target="_blank">تاللانما</a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=156">
+<img src="/raziman_img/nahxa/anglash.gif" width="18" height="14" alt="" align="middle"></a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=156">
+        <img src="/raziman_img/nahxa/down.gif" width="18" height="14" alt=""></a></td>
+</tr>
+</table>
+</li>
+
+
+
+<li><span >15</span>
+
+<table border="0" width="400" cellspacing="0" cellpadding="0">
+<tr>
+<td width="280"><a href="/nahxa/show.php?itemid=155" title="تاللانما" target="_blank">تاللانما</a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=155">
+<img src="/raziman_img/nahxa/anglash.gif" width="18" height="14" alt="" align="middle"></a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=155">
+        <img src="/raziman_img/nahxa/down.gif" width="18" height="14" alt=""></a></td>
+</tr>
+</table>
+</li>
+
+
+
+<li><span >16</span>
+
+<table border="0" width="400" cellspacing="0" cellpadding="0">
+<tr>
+<td width="280"><a href="/nahxa/show.php?itemid=154" title="تاللانما" target="_blank">تاللانما</a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=154">
+<img src="/raziman_img/nahxa/anglash.gif" width="18" height="14" alt="" align="middle"></a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=154">
+        <img src="/raziman_img/nahxa/down.gif" width="18" height="14" alt=""></a></td>
+</tr>
+</table>
+</li>
+
+
+
+<li><span >17</span>
+
+<table border="0" width="400" cellspacing="0" cellpadding="0">
+<tr>
+<td width="280"><a href="/nahxa/show.php?itemid=153" title="تاللانما" target="_blank">تاللانما</a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=153">
+<img src="/raziman_img/nahxa/anglash.gif" width="18" height="14" alt="" align="middle"></a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=153">
+        <img src="/raziman_img/nahxa/down.gif" width="18" height="14" alt=""></a></td>
+</tr>
+</table>
+</li>
+
+
+
+<li><span >18</span>
+
+<table border="0" width="400" cellspacing="0" cellpadding="0">
+<tr>
+<td width="280"><a href="/nahxa/show.php?itemid=152" title="تاللانما" target="_blank">تاللانما</a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=152">
+<img src="/raziman_img/nahxa/anglash.gif" width="18" height="14" alt="" align="middle"></a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=152">
+        <img src="/raziman_img/nahxa/down.gif" width="18" height="14" alt=""></a></td>
+</tr>
+</table>
+</li>
+
+
+
+<li><span >19</span>
+
+<table border="0" width="400" cellspacing="0" cellpadding="0">
+<tr>
+<td width="280"><a href="/nahxa/show.php?itemid=151" title="تاللانما" target="_blank">تاللانما</a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=151">
+<img src="/raziman_img/nahxa/anglash.gif" width="18" height="14" alt="" align="middle"></a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=151">
+        <img src="/raziman_img/nahxa/down.gif" width="18" height="14" alt=""></a></td>
+</tr>
+</table>
+</li>
+
+
+
+<li><span >20</span>
+
+<table border="0" width="400" cellspacing="0" cellpadding="0">
+<tr>
+<td width="280"><a href="/nahxa/show.php?itemid=150" title="تاللانما" target="_blank">تاللانما</a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=150">
+<img src="/raziman_img/nahxa/anglash.gif" width="18" height="14" alt="" align="middle"></a></td>
+<td width="10">&nbsp;</td>
+<td width="50"><a href="/nahxa/show.php?itemid=150">
+        <img src="/raziman_img/nahxa/down.gif" width="18" height="14" alt=""></a></td>
+</tr>
+</table>
+</li>
+
+
+</ul>
+<div class="pages">جەمئى: <b>38</b>&nbsp;&nbsp;&nbsp;&nbsp;باش بەت
+&nbsp;ئالدىنقى بەت
+&nbsp;<a href='/nahxa/list.php?catid=219&page=2'>كىينكى بەت
+</a>&nbsp;<a href='/nahxa/list.php?catid=219&page=2'>ئاخىرقى بەت</a>&nbsp;بە ت: <b><font color=red>1</font>/2</b>&nbsp;&nbsp;<input type='text' name='page' id='page' class='page' size='3' onKeyDown='if(event.keyCode==13) {window.location="/nahxa/list.php?catid=219&page="+$("page").value+""; return false;}'> <input type='button' value='GO' class='gotopage' style='width:30px' onclick='window.location="/nahxa/list.php?catid=219&page="+$("page").value+""'>
+</div>
+     </div>	
+<!--搜索框--></td>
+    <td width="10"></td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>تەۋسىيە ئەسەر </h1><h2><a href="/nahxa/search.php?catid=219&elite=1&search=1" class="more">يەنە بار </a></h2></div>
+<!--推荐文章js调用-->
+ <table width="96%" border="0" align="center" cellpadding="1" cellspacing="1">
+
+  <tr>
+    <td height="24" width="100%">· 
+<a href="/nahxa/show.php?itemid=169" title="Retro Mix Ishq Hua" target="_blank">Retro Mix Ishq Hua</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td height="24" width="100%">· 
+<a href="/nahxa/show.php?itemid=168" title="Oyaara Dhol Bajake" target="_blank">Oyaara Dhol Bajake</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td height="24" width="100%">· 
+<a href="/nahxa/show.php?itemid=167" title="O Maahiya" target="_blank">O Maahiya</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td height="24" width="100%">· 
+<a href="/nahxa/show.php?itemid=166" title="Namakool" target="_blank">Namakool</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td height="24" width="100%">· 
+<a href="/nahxa/show.php?itemid=165" title="Nach Le Soniye" target="_blank">Nach Le Soniye</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td height="24" width="100%">· 
+<a href="/nahxa/show.php?itemid=164" title="Mumbai Salsa" target="_blank">Mumbai Salsa</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td height="24" width="100%">· 
+<a href="/nahxa/show.php?itemid=163" title="Mauja Hi Mauja" target="_blank">Mauja Hi Mauja</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td height="24" width="100%">· 
+<a href="/nahxa/show.php?itemid=162" title="jal jal ke dhuaan" target="_blank">jal jal ke dhuaan</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td height="24" width="100%">· 
+<a href="/nahxa/show.php?itemid=161" title="Jaanam" target="_blank">Jaanam</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td height="24" width="100%">· 
+<a href="/nahxa/show.php?itemid=160" title="تاللانما" target="_blank">تاللانما</a>
+    </td>
+  </tr>
+
+
+</table>
+
+ <div class="rightcats"><h1>ئاۋات ئەسەر </h1><h2><a href="/nahxa/search.php?catid=219&ordertype=3&search=1" class="more">يەنە بار </a></h2></div>
+        <table width="96%" border="0" align="center" cellpadding="1" cellspacing="1">
+
+  <tr>
+    <td height="24" width="100%">· 
+<a href="/nahxa/show.php?itemid=169" title="Retro Mix Ishq Hua" target="_blank">Retro Mix Ishq Hua</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td height="24" width="100%">· 
+<a href="/nahxa/show.php?itemid=168" title="Oyaara Dhol Bajake" target="_blank">Oyaara Dhol Bajake</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td height="24" width="100%">· 
+<a href="/nahxa/show.php?itemid=165" title="Nach Le Soniye" target="_blank">Nach Le Soniye</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td height="24" width="100%">· 
+<a href="/nahxa/show.php?itemid=166" title="Namakool" target="_blank">Namakool</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td height="24" width="100%">· 
+<a href="/nahxa/show.php?itemid=167" title="O Maahiya" target="_blank">O Maahiya</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td height="24" width="100%">· 
+<a href="/nahxa/show.php?itemid=160" title="تاللانما" target="_blank">تاللانما</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td height="24" width="100%">· 
+<a href="/nahxa/show.php?itemid=161" title="Jaanam" target="_blank">Jaanam</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td height="24" width="100%">· 
+<a href="/nahxa/show.php?itemid=162" title="jal jal ke dhuaan" target="_blank">jal jal ke dhuaan</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td height="24" width="100%">· 
+<a href="/nahxa/show.php?itemid=163" title="Mauja Hi Mauja" target="_blank">Mauja Hi Mauja</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td height="24" width="100%">· 
+<a href="/nahxa/show.php?itemid=164" title="Mumbai Salsa" target="_blank">Mumbai Salsa</a>
+    </td>
+  </tr>
+
+
+</table>
+
+</td>
+  </tr>
+</table>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html><br />
+<b>Warning</b>:  Unknown: open(D:/ԭ���ļ�/Bilqut_web/data/sessions/\sess_obh0nupk5blorv8kaidbmbsc23, O_RDWR) failed: Permission denied (13) in <b>Unknown</b> on line <b>0</b><br />
+<br />
+<b>Warning</b>:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (D:/ԭ���ļ�/Bilqut_web/data/sessions/) in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: open(D:/ԭ���ļ�/Bilqut_web/data/sessions/\sess_obh0nupk5blorv8kaidbmbsc23, O_RDWR) failed: Permission denied (13) in D:\ԭ���ļ�\Bilqut_web\include\common.inc.php on line 17
+PHP Warning:  Unknown: open(D:/ԭ���ļ�/Bilqut_web/data/sessions/\sess_obh0nupk5blorv8kaidbmbsc23, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (D:/ԭ���ļ�/Bilqut_web/data/sessions/) in Unknown on line 0

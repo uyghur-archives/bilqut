@@ -1,0 +1,330 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>كومپيۇتېرنى قوزغاتقاندا monitor warning دېگەن ئۇچۇر چىقىپ Esc كۇنۇپكىسىنى بېسىۋەتكەندىن كېيىن نورمال-كومپيۇتېر بىلىملىرى-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,كومپيۇتېر بىلىملىرى">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/kompiyotir/" class="red"> كومپيۇتېر بىلىملىرى</a>
+         | <a class="razimantur" href="/kompiyotir/sual/" > كومپيۇتېردىن سوئال- جاۋابلار  </a>
+
+ | <a class="razimantur" href="/kompiyotir/unwersal/" > ئۇنىۋېرسال بىلىملىرى  </a>
+
+ | <a class="razimantur" href="/kompiyotir/kashila/" >كومپيۇتېر كاشىلىلىرى </a>
+
+ | <a class="razimantur" href="/kompiyotir/qattiq/" > قاتتىق دېتال  </a>
+
+ | <a class="razimantur" href="/kompiyotir/yumshaq/" >يۇمشاق دېتال </a>
+
+ | <a class="razimantur" href="/kompiyotir/mashgulat/" >مەشغۇلات سىستېمىسى </a>
+
+ | <a class="razimantur" href="/kompiyotir/tor/" > توربىلىملىرى  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/kompiyotir/">كومپيۇتېر بىلىملىرى</a> >> <a href="/kompiyotir/qattiq/"> قاتتىق دېتال  </a> >>  كومپيۇتېرنى قوزغاتقاندا monitor warning دېگەن ئۇچۇر چىقىپ Esc كۇنۇپكىسىنى بېسىۋەتكەندىن كېيىن نورمال</div>
+<!--主标题--><h1>كومپيۇتېرنى قوزغاتقاندا monitor warning دېگەن ئۇچۇر چىقىپ Esc كۇنۇپكىسىنى بېسىۋەتكەندىن كېيىن نورمال </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2008-07-20 11:44:12&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">391</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">كومپيۇتېرنى قوزغاتقاندا monitor warning دېگەن ئۇچۇر چىقىپ Esc كۇنۇپكىسىنى بېسىۋەتكەندىن كېيىن نورمال قوزغىلىپ&nbsp; ئىشلىشىنىڭ سەۋەبى
+ P4 ئاساسىي تاختىلارغا مۇھىت كۆرسەتكۈچ ئىقتىدارى قوشۇلغان بولۇپ، توك مەنبەنىڭ چىقىرىش بېسىمى CMOS دا بەلگىلەنگەن قىممەتتىن ئېشىپ كەتكەندىن يۇقىرىقى ئۇچۇر كۆرۈنىدۇ، BIOS دىن يۇقىرى بۇ ئىقتىدارنى چەكلىۋەتسىڭىز بۇ ئۇچۇر چىقمايدۇ ۋە كومپيۇتېرغا ھېچقانداق تەسىرى بولمايدۇ.</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=293" title="ﺋﯩﻜﻜﻰ ﻛﻮﻣﭙﻴﯘﺗﯧﺮﻧﻰ ﯰﻻﺷﺘﯩﻜﻰ ﻳﯧﯖﻰ ﯰﺳﯘﻝ"  target="_blank" class="tag_title_link">ﺋﯩﻜﻜﻰ ﻛﻮﻣﭙﻴﯘﺗﯧﺮﻧﻰ ﯰﻻﺷﺘﯩﻜﻰ ﻳﯧﯖﻰ ﯰﺳﯘﻝ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=292" title="جىدىدي ياردەم تەلەپ&nbsp; قىلىمەن"  target="_blank" class="tag_title_link">جىدىدي ياردەم تەلە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=291" title="ئىچكى ساقلىغۇچنىڭ يېتىشمەسلىكى"  target="_blank" class="tag_title_link">ئىچكى ساقلىغۇچنىڭ ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=290" title="CMOS قا كىرگەندە..."  target="_blank" class="tag_title_link">CMOS قا كىرگەندە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=289" title="ئىچكى ساقلىغۇچ"  target="_blank" class="tag_title_link">ئىچكى ساقلىغۇچ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=288" title="SD_ RAM ۋە DDR نىڭ پەرقى"  target="_blank" class="tag_title_link">SD_ RAM ۋە DDR نىڭ پەرقى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=287" title="كومپيۇتېرنى قوزغاتقاندا monitor warning دېگەن ئۇچۇر چىقىپ Esc كۇنۇپكىسىنى بېسىۋەتكەندىن كېيىن نورمال"  target="_blank" class="tag_title_link">كومپيۇتېرنى قوزغات...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=286" title="كومپيۇتېر قوزغىلىپ ئۆزىنى تەكشۈرۈپ قاتتىق دېتال سەپلىمىسىنى كۆرسىتىدىغان چاغدا قېتىۋېلىش"  target="_blank" class="tag_title_link">كومپيۇتېر قوزغىلىپ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=285" title="CPU AMD سەپلەنگەن كومپيۇتېردا 3D يۇمشاق دېتاللارنى ئىجرا قىلغاندا كومپيۇتېرنىڭ قېتىۋېلىشى"  target="_blank" class="tag_title_link">CPU AMD سەپلەنگەن كومپ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=284" title="مۇنداق كۇنۇپكا تاختىسى بولسا (رەسىم)"  target="_blank" class="tag_title_link">مۇنداق كۇنۇپكا تاخ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=283" title="[كومپيۇتېر قاتتىق دېتالى]ئىكرانغا مۇناسىۋەتلىك بىلىملەر(2)"  target="_blank" class="tag_title_link">[كومپيۇتېر قاتتىق د...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=282" title="كومپىيوتېر ئېكرانىدىن مەسلىھەت سورايمەن"  target="_blank" class="tag_title_link">كومپىيوتېر ئېكرانى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=281" title="[كومپيۇتېر قاتتىق دېتالى]ئىكرانغا مۇناسىۋەتلىك بىلىملەر"  target="_blank" class="tag_title_link">[كومپيۇتېر قاتتىق د...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=280" title="كۆرسىتىش كارتىسى"  target="_blank" class="tag_title_link">كۆرسىتىش كارتىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=279" title="قاتتىق دىسكا قوزغاتقۇچ"  target="_blank" class="tag_title_link">قاتتىق دىسكا قوزغا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=278" title="ياردەم. 腾讯QQ2008"  target="_blank" class="tag_title_link">ياردەم. 腾讯QQ2008</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=277" title="ئىچكى ساقلىغۇچنىڭ يېتىشمەسلىكى"  target="_blank" class="tag_title_link">ئىچكى ساقلىغۇچنىڭ ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=276" title="ئىچكى ساقلىغۇچ كاشىلىلىرى"  target="_blank" class="tag_title_link">ئىچكى ساقلىغۇچ كاش...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=275" title="ئىچكى ساقلىغۇچ ۋە مەشغۇلات سىستېمىسى"  target="_blank" class="tag_title_link">ئىچكى ساقلىغۇچ ۋە م...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=274" title="بىر نەچچە ئىچكى ساقلىغۇچنى بىرلىكتە ئىشلىتىش سەۋەبىدىن كومپيۇتېرنىڭ قوزغالماسلىقى"  target="_blank" class="tag_title_link">بىر نەچچە ئىچكى ساق...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/kompiyotir/search.php?catid=117&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=293" title="ﺋﯩﻜﻜﻰ ﻛﻮﻣﭙﻴﯘﺗﯧﺮﻧﻰ ﯰﻻﺷﺘﯩﻜﻰ ﻳﯧﯖﻰ ﯰﺳﯘﻝ"  target="_blank" class="tag_title_link">ﺋﯩﻜﻜﻰ ﻛﻮﻣﭙﻴﯘﺗﯧﺮﻧﻰ ﯰﻻﺷﺘﯩﻜﻰ ﻳﯧﯖﻰ ﯰﺳﯘﻝ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=292" title="جىدىدي ياردەم تەلەپ&nbsp; قىلىمەن"  target="_blank" class="tag_title_link">جىدىدي ياردەم تەلەپ  قىل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=291" title="ئىچكى ساقلىغۇچنىڭ يېتىشمەسلىكى"  target="_blank" class="tag_title_link">ئىچكى ساقلىغۇچنىڭ يېتىش...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=290" title="CMOS قا كىرگەندە..."  target="_blank" class="tag_title_link">CMOS قا كىرگەندە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=289" title="ئىچكى ساقلىغۇچ"  target="_blank" class="tag_title_link">ئىچكى ساقلىغۇچ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=288" title="SD_ RAM ۋە DDR نىڭ پەرقى"  target="_blank" class="tag_title_link">SD_ RAM ۋە DDR نىڭ پەرقى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=287" title="كومپيۇتېرنى قوزغاتقاندا monitor warning دېگەن ئۇچۇر چىقىپ Esc كۇنۇپكىسىنى بېسىۋەتكەندىن كېيىن نورمال"  target="_blank" class="tag_title_link">كومپيۇتېرنى قوزغاتقاند...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=286" title="كومپيۇتېر قوزغىلىپ ئۆزىنى تەكشۈرۈپ قاتتىق دېتال سەپلىمىسىنى كۆرسىتىدىغان چاغدا قېتىۋېلىش"  target="_blank" class="tag_title_link">كومپيۇتېر قوزغىلىپ ئۆزى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=285" title="CPU AMD سەپلەنگەن كومپيۇتېردا 3D يۇمشاق دېتاللارنى ئىجرا قىلغاندا كومپيۇتېرنىڭ قېتىۋېلىشى"  target="_blank" class="tag_title_link">CPU AMD سەپلەنگەن كومپيۇتې...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kompiyotir/show.php?itemid=284" title="مۇنداق كۇنۇپكا تاختىسى بولسا (رەسىم)"  target="_blank" class="tag_title_link">مۇنداق كۇنۇپكا تاختىسى ...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/kompiyotir/show_js.php?itemid=287"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

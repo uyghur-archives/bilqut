@@ -1,0 +1,712 @@
+<?
+	function showmenu($chanid)
+	{
+		global $db;
+		$result = $db->query("SELECT catid,catname FROM phpcms_category where channelid=$chanid and catid!=122 order by listorder asc");
+		while($rsm=$db->fetch_array($result))
+		{
+			$catid=$rsm['catid'];
+			$menulist=$rsm['catname'];
+			$menulist='<a href="AwazTur.php?catid='.$catid.'" target="_blank" class="uyunmenu" style="font-size:11pt;font-family:ukij tuz tom">'.$menulist.'</a> | ';
+			$listmenu=$listmenu.$menulist;
+		}
+		$listmenu='<a href="default.php" style="font-size:11pt ;font-family:ukij tuz tom">باش بەت </a> |'.$listmenu.'';
+		//$listmenu='<a href="default.php">باش بەت </a> |'.$listmenu.'';
+	$db->free_result($result);
+	return $listmenu;
+	}
+//===================================
+
+//===================================	
+	function showOnemenu($catid)
+	{
+		global $db;
+		$result = $db->query("SELECT catid,catname FROM phpcms_category where channelid=32 and catid=".$catid."");
+		if($rsm=$db->fetch_array($result))
+		{
+			$menulist=$rsm['catname'];
+			$menulist='<a href="AwazTur.php?catid='.$catid.'" target="_blank" class="uyunmenu">'.$menulist.'</a>';
+		}
+		$listmenu=$listmenu.'';
+	$db->free_result($result);
+	return $menulist;
+	}	
+/*
+	显示专辑演唱者姓名
+*/	
+	function ShowCDsinger($chilid)
+	{
+		global $db;
+		$sql="SELECT specialid,specialname FROM phpcms_special where specialid =".$chilid." and parentid!=0";
+		$result = $db->query($sql);
+		while($rsm=$db->fetch_array($result))
+		{
+			$spname=$rsm['specialname'];
+		}
+		$db->free_result($result);	
+		return $spname;
+	}
+	
+/*
+	显示专辑演唱者姓名
+*/	
+	function ShowCDname($chilid)
+	{
+		global $db;
+		$sql="SELECT specialid,specialname,keyid FROM phpcms_special where arrchildid =".$chilid." and parentid=0";
+		$result = $db->query($sql);
+		while($rsm=$db->fetch_array($result))
+		{
+			$spname=$rsm['specialname'];
+			$spname='<a href="EserTur.php?cdid='.$chilid.'&chid='.$rsm['keyid'].'" target="_blank">'.$spname.'</a>';
+		}
+		$db->free_result($result);	
+		return $spname;
+	}	
+/*	
+	函数功能:读取最新，热门，推荐歌曲
+*/
+	function ShowMusicList($num,$isflag,$catid,$vorder,$numjan)
+	{
+		global $db;
+		$sql="SELECT movieid,title,thumb,my_singer,catid,hits FROM ".channel_table('movie', 32)."  where status=3 AND my_bianhao='' ";
+		switch($isflag)
+		{
+			case 1:
+				$sql=$sql." and catid=".$catid." ";
+				break;
+			case 2:
+				$sql=$sql." and specialid=".$catid." ";
+				break;
+			default:
+				$sql=$sql;
+				break;
+		}
+		$sql=$sql."ORDER BY ".$vorder." DESC LIMIT ".$num."";
+		$result=$db->query($sql);
+		$html=$html.'<table width="98%" border="0" align="center" cellpadding="0" cellspacing="0" style="font-size:11pt;">';
+		$html=$html.'<form id="MusicList'.$catid.$numjan.'" name="MusicList'.$catid.$numjan.'" method="post" target="_blank" action="player/Anglash.php?catid='.$catid.'" onsubmit="chckform(MusicList'.$catid.$numjan.')">';		
+		//$i=0;
+		//onclick="BasbaPlyer(\'player/Anglash.php?check='.$songid.'&catid='.$catid.'\',\'BasbasPlayer\',\'width=651,height=531\')"
+		while($rs=$db->fetch_array($result))
+		{
+			//$i=$i+1;
+			$songname=$rs['title'];
+			$songid=$rs['movieid'];
+			$singer=$rs['my_singer'];
+			if($singer==''){
+				$singername='نامەلۇم';
+			}else{
+				$singername=$singer;
+			}
+			$hits=$rs['hits'];
+			$catid=$rs['catid'];
+			$html=$html.'<tr>';
+			$html=$html.'<td width="10%" align="center"><a href="player/Anglash.php?check='.$songid.'&catid='.$catid.'" target="_blank"><img  src="images/phone.gif" border="0"/></a></td>';
+			if($vorder=='hits'){
+				$html=$html.'<td width="10%" align="center">'.$hits.'</td>';
+			}else{
+			$html=$html.'<td width="10%" align="center"><a href="player/Anglash.php?check='.$songid.'&catid='.$catid.'" target="_blank"><img  src="images/play.gif" border="0"/></a></td>';
+			}
+			//$html=$html.'<td width="30%" height="24" align="center"></td>';
+			$html=$html.'<td width="68%" align="right" class="borderbottom"><div style="float:right;"><a href="player/Anglash.php?check='.$songid.'&catid='.$catid.'" target="_blank" class="songname">'.$songname.'</a></div></td>';
+			$html=$html.'<td width="10%" align="center"><input type="checkbox" name="check[]" value="'.$songid.'" /></td>';
+			$html=$html.'</tr>';
+		}
+		$html=$html.'<tr>';
+		//$html=$html.'<td height="24" colspan="4" align="center"><input type="button" name="Submit" value="Play" onclick="javascript:window.open('"player/Anglash.php"','""','"width=316,height=435"')"/>';
+		$html=$html.'<td height="24" colspan="4" align="center"><input type="Submit" name="Submit" value="ئاڭلاش" class="Tallash" />';
+		$html=$html.'&nbsp;<input type="button" name="Submit2" value="ھەممىنى تاللاش " onclick="CheckAll(MusicList'.$catid.$numjan.')" class="Tallash" />';
+		$html=$html.'&nbsp;<input type="button" name="Submit2" value="ئەكسىنى تاللاش" onclick="CheckOthers(MusicList'.$catid.$numjan.')" class="Tallash" /></td>';
+		$html=$html.'</tr>';
+		$html=$html.'</form>';	
+		$html=$html.'</table>';
+  		$db->free_result($result);
+		return $html;
+	}
+//===============================
+
+	function ShowCDMusicList($num,$spid,$vorder)
+	{
+		global $db;
+		$sql="SELECT movieid,title,thumb,my_singer,catid,specialid FROM ".channel_table('movie', 32)."  where status=3 and specialid=".$spid." ";
+		$sql=$sql."ORDER BY ".$vorder." DESC LIMIT ".$num."";
+		$result=$db->query($sql);
+		$html=$html.'<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" style="font-size:11pt;">';
+		$html=$html.'<form id="cdMusicList" name="cdMusicList" method="post" target="_blank" action="player/Anglash.php?catid='.$spid.'&spsong=1" onsubmit="chckform(cdMusicList)">';		
+		while($rs=$db->fetch_array($result))
+		{
+			$songname=$rs['title'];
+			$songid=$rs['movieid'];
+			$singer=$rs['my_singer'];
+			$catid=$rs['catid'];		
+			$html=$html.'<tr onmouseover="this.bgColor=\'#F0F0F0\'" onmouseout="this.bgColor=\'#FFFFFF\'">';
+			$html=$html.'<td width="10%" align="center"><a href="player/Anglash.php?check='.$songid.'&catid='.$catid.'" target="_blank"><img  src="images/phone.gif" border="0"/></a></td>';
+			$html=$html.'<td width="10%" align="center"><a href="player/Anglash.php?check='.$songid.'&catid='.$catid.'" target="_blank"><img  src="images/play.gif" border="0"/></a></td>';
+			$html=$html.'<td width="30%" height="24" align="center">'.$singer.'</td>';
+			$html=$html.'<td width="42%" align="right"><a href="player/Anglash.php?check='.$songid.'&catid='.$catid.'" target="_blank">'.$songname.'</a></td>';
+			$html=$html.'<td width="8%" align="center"><input type="checkbox" name="check[]" value="'.$songid.'" /></td>';
+			$html=$html.'</tr>';
+		}
+		$html=$html.'<tr>';
+		//$html=$html.'<td height="24" colspan="4" align="center"><input type="button" name="Submit" value="Play" onclick="javascript:window.open('"player/Anglash.php"','""','"width=316,height=435"')"/>';
+		$html=$html.'<td height="24" colspan="4" align="center"><input type="submit" name="Submit" value="ئاڭلاش" class="Tallash" />';
+		$html=$html.'&nbsp;<input type="button" name="Submit2" value="ھەممىنى تاللاش " onclick="CheckAll(cdMusicList)" class="Tallash" />';
+		$html=$html.'&nbsp;<input type="button" name="Submit2" value="ئەكسىنى تاللاش" onclick="CheckOthers(cdMusicList)" class="Tallash" /></td>';
+		$html=$html.'</tr>';
+		$html=$html.'</form>';	
+		$html=$html.'</table>';
+  		$db->free_result($result);
+		return $html;
+	}	
+	
+//==============================
+	function ShowLeftMusicList($num,$isflag,$catid,$vorder)
+	{
+		global $db;
+		$sql="SELECT movieid,title,thumb,my_singer,catid,hits FROM ".channel_table('movie', 32)."  where status=3 AND my_bianhao='' ";
+		switch($isflag)
+		{
+			case 1:
+				$sql=$sql." and catid=".$catid." ";
+				break;
+			default:
+				$sql=$sql;
+				break;
+		}
+		$sql=$sql."ORDER BY ".$vorder." DESC LIMIT ".$num."";
+		$result=$db->query($sql);
+		$i=0;
+		$html=$html.'<table width="98%" border="0" align="center" cellpadding="0" cellspacing="0" style="font-size:11pt;margin-top:10px;">';		
+		while($rs=$db->fetch_array($result))
+		{
+			$i=$i+1;
+			$songname=$rs['title'];
+			$songid=$rs['movieid'];
+			$singer=$rs['my_singer'];
+			$catid=$rs['catid'];
+			$hits=$rs['hits'];					
+			$html=$html.'<tr>';
+			//$html=$html.'<td width="7%" height="24" align="center"><a href="player/Anglash.php?check='.$songid.'&catid='.$catid.'" target="_blank"><img  src="images/phone.gif" border="0"/></a></td>';
+			//$html=$html.'<td width="7%" align="center"><a href="player/Anglash.php?check='.$songid.'&catid='.$catid.'" target="_blank"><img  src="images/play.gif" border="0"/></a></td>';
+			$html=$html.'<td width="7%" align="center" height="24">'.$hits.'</td>';
+			$html=$html.'<td width="40%" align="right"><a href="player/Anglash.php?check='.$songid.'&catid='.$catid.'" target="_blank">'.$songname.'</a></td>';
+			$html=$html.'<td width="6%" align="center" style="font-weight:bold;"><span class="numur">'.shownumber($i).'</span></td>';
+			$html=$html.'</tr>';
+		}
+		$html=$html.'<tr>';	
+		$html=$html.'</table>';
+  		$db->free_result($result);
+		return $html;
+	}
+	
+	function ShowPlayMusicList($num,$isflag,$catid,$vorder)
+	{
+		global $db;
+		$sql="SELECT movieid,title,thumb,my_singer,catid,hits FROM ".channel_table('movie', 32)."  where status=3 AND my_bianhao='' ";
+		switch($isflag)
+		{
+			case 1:
+				$sql=$sql." and catid=".$catid." ";
+				break;
+			default:
+				$sql=$sql;
+				break;
+		}
+		$sql=$sql."ORDER BY ".$vorder." DESC LIMIT ".$num."";
+		$result=$db->query($sql);
+		$i=0;
+		$html=$html.'<table width="98%" border="0" align="center" cellpadding="0" cellspacing="0" style="font-size:11pt;margin-top:10px;">';		
+		while($rs=$db->fetch_array($result))
+		{
+			$i=$i+1;
+			$songname=$rs['title'];
+			$songid=$rs['movieid'];
+			$singer=$rs['my_singer'];
+			$catid=$rs['catid'];
+			$hits=$rs['hits'];
+			if($i%2==0){
+				$iscolor='#FFFFFF';
+			}else{
+				$iscolor='#FDF8F2';			
+			}				
+			$html=$html.'<tr style="background-color:'.$iscolor.'">';
+			$html=$html.'<td width="6%" align="center" height="24"><a href="Anglash.php?check='.$songid.'&catid='.$catid.'" target="_blank"><img src="../images/play.gif" border="0"></a></td>';
+			$html=$html.'<td width="41%" align="right"><a href="Anglash.php?check='.$songid.'&catid='.$catid.'" target="_blank" style="color:#914e1f; font-size:11pt;">'.$songname.'</a></td>';
+			$html=$html.'<td width="6%" align="center" style="font-weight:bold;"><span class="numur">'.shownumber($i).'</span></td>';
+			$html=$html.'</tr>';
+		}
+		$html=$html.'<tr>';	
+		$html=$html.'</table>';
+  		$db->free_result($result);
+		return $html;
+	}	
+//==============================	
+	
+	//ShowCD(9,32,'specialid',3,80,90)
+	function ShowCD($num,$chid,$vorder,$ismod,$imgW,$imgH)
+	{
+		global $db;
+		$sql="SELECT specialid,arrchildid,specialname,keyid,specialpic,addtime,keyid,hits FROM phpcms_special  where keyid=".$chid." and parentid=0 ORDER BY ".$vorder." DESC LIMIT ".$num."";
+		$result=$db->query($sql);
+		$html='<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="margin-top:5px; margin-bottom:5px; font-size:11pt;direction:rtl">';
+		$html=$html.'<tr>';
+		$i=0;
+		while($rs=$db->fetch_array($result))
+		{
+			$i=$i+1;
+			$picurl=$rs['specialpic'];
+			$specialname=$rs['specialname'];
+			$spsinger=ShowCDsinger($rs['arrchildid']);
+			$addtime=date('Y-m-d',$rs['addtime']);
+			$hits=$rs['hits'];
+			$html=$html.'<td><div style="margin-top:5px;"><a href="EserTur.php?cdid='.$rs['arrchildid'].'&chid='.$rs['keyid'].'" target="_blank"><img src="../'.$picurl.'" border="0" width="'.$imgW.'" height="'.$imgH.'" style="border:#fff solid 1px; padding:3px 3px 3px 3px;"></a></div></td>';
+/*			$html=$html.'<td><div style="margin-right:5px;line-height:20px;text-align:right; margin-top:5px;">پىلاستىنكا:<a href="EserTur.php?cdid='.$rs['arrchildid'].'&chid='.$rs['keyid'].'" target="_blank">'.$specialname.'</a>';
+			$html=$html.'<br>تۈرى :'.$spsinger;
+			if($vorder!='hits'){
+			$html=$html.'<br>ۋاقىت:'.$addtime;
+			}else{
+			$html=$html.'<br>ئاۋاتلىقى :'.$hits;
+			}
+			$html=$html.'<br><a href="EserTur.php?cdid='.$rs['arrchildid'].'&chid='.$rs['keyid'].'" target="_blank">ئاڭلاش</a>';
+			$html=$html.'</div><td>';	*/
+			$html=$html.'<td><div style="margin-right:5px;line-height:20px;text-align:right; margin-top:5px;"><a href="EserTur.php?cdid='.$rs['arrchildid'].'&chid='.$rs['keyid'].'" target="_blank">'.str_cut($specialname,28).'</a>';
+			$html=$html.'<br>'.$spsinger;
+			if($vorder!='hits'){
+			$html=$html.'<br>ۋاقىت:'.$addtime;
+			}else{
+			//$html=$html.'<br>'.$hits;
+			}
+			//$html=$html.'<br><a href="EserTur.php?cdid='.$rs['arrchildid'].'&chid='.$rs['keyid'].'" target="_blank">ئاڭلاش</a>';
+			$html=$html.'</div><td>';						
+			if($i%$ismod==0)
+			{
+				$html=$html.'</tr><tr>';
+			}
+		}
+		$html=$html.'</tr>';
+		$html=$html.'</table>';
+		$db->free_result($result);
+		return $html;
+	}
+//=============================
+	function ShowAllCD($chid,$imgW,$imgH)
+	{
+		global $db;
+		$sql="SELECT specialid,arrchildid,specialname,keyid,specialpic,addtime,hits FROM phpcms_special  where arrchildid=".$chid." and parentid=0 and specialid>0 and keyid='32' ORDER BY specialid DESC";
+		$result=$db->query($sql);
+		$html='<table width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size:11pt;">';
+		while($rs=$db->fetch_array($result))
+		{
+			  $html=$html.'<tr>';
+				$picurl=$rs['specialpic'];
+				$specialname=$rs['specialname'];
+				$spsinger=ShowCDsinger($rs['arrchildid']);
+				$addtime=date('Y-m-d',$rs['addtime']);
+				$hits=$rs['hits'];
+				$html=$html.'<td align="right;"><a href="EserTur.php?cdid='.$rs['arrchildid'].'&chid='.$rs['keyid'].'" target="_blank"><img src="../'.$picurl.'" border="0" width="'.$imgW.'" height="'.$imgH.'" style="border:#fff solid 1px; padding:3px 3px 3px 3px;"></a></td>';
+				$html=$html.'<td><div style="margin-right:5px;line-height:20px;text-align:right; margin-top:5px;">نامى:<a href="EserTur.php?cdid='.$rs['arrchildid'].'&chid='.$rs['keyid'].'" target="_blank">'.str_cut($specialname,40).'</a>';
+				$html=$html.'<br>تۈرى :'.$spsinger;
+				if($vorder!='hits'){
+				$html=$html.'<br>ۋاقىت'.$addtime;
+				$html=$html.'<br>ئاۋاتلىقى:'.$hits;
+				}
+				//$html=$html.'<br><a href="EserTur.php?cdid='.$rs['arrchildid'].'&chid='.$rs['keyid'].'" target="_blank">ئاڭلاش</a>';
+				$html=$html.'</div><td>';
+			   $html=$html.'</tr>';
+		}
+		$html=$html.'</table>';
+		$db->free_result($result);
+		return $html;
+	}
+//=============================	
+	
+	function shownumber($number)
+	{
+		if($number<=9)
+		{
+			$numberList='0'.$number;
+		}else{
+			$numberList=$number;		
+		}
+		return $numberList;
+	}
+	
+//=======================================
+	function ShowMTVList($num,$isflag,$vorder,$modnum,$imgW,$imgH,$keywords)
+	{
+		global $db;
+		$divW=$imgW+3;
+		$divH=$imgH+3;
+		$sql="SELECT movieid,catid,title,thumb,my_singer FROM ".channel_table('movie', 15)."  where status=3 ";
+		switch($isflag)
+		{
+			case 1:
+				$sql=$sql."  and title like '%".$keywords."%' ";
+				break;
+			case 2:
+				$sql=$sql." and my_singer like '%".$keywords."%' ";
+				break;	
+			case 3:
+				$sql=$sql."  and title like '%".$keywords."%' ";
+				break;										
+			default:
+				$sql=$sql;
+				break;
+		}
+		$sql=$sql."ORDER BY ".$vorder." DESC LIMIT ".$num;
+		$result = $db->query($sql);
+		$i=0;
+		$html='<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">';
+		$html=$html.'<tr>';
+		while($rs = $db->fetch_array($result))
+		{
+			$i=$i+1;
+			$mtvid=$rs['movieid'];
+			$keywords='uploadfile';
+			$okey='uploadfile_mtv';
+			$listurl=$rs['thumb'];
+			$murl=explode("/",$listurl);
+			$lurl=$murl[2];
+			if($lurl!=$okey){
+				$listurl=str_replace($keywords,$okey,$lurl);				
+				$listurl='/uploadfile/mtv/'.$listurl.'/'.$murl[3].'/'.$murl[4];
+			}else{
+				$listurl='/'.$listurl;
+			}	
+			$mtvname=$rs['title'];
+			$html=$html.'<td>';
+			//$html=$html.'<div style="width:'.$divW.'px; height:'.$divH.'px; border:#666666 solid 1px; margin-top:2px;">';
+			$html=$html.'<div style="width:'.$divW.'px; height:'.$divH.'px; margin-top:2px;">';
+			$html=$html.'<a href="../mtv/mtvAnglash.php?mtvid='.$mtvid.'" target="_blank" ><img src="'.$listurl.'" border="0" width="'.$imgW.'" height="'.$imgH.'" style="background-color:#fafafa; padding:5px 5px 5px 5px; border:#000 solid 1px;"></a>';
+			$html=$html.'</div>';
+			$html=$html.'<div style="width:'.$divW.'px; height:18px; line-height:20px; text-align:center;margin-top:2px;">';
+			$html=$html.'<a href="../mtv/mtvAnglash.php?mtvid='.$mtvid.'" target="_blank" style="font-size:11pt; direction:rtl;">'.str_cut($mtvname,24).'</a>';
+			$html=$html.'</div>';
+			//$html=$html.'<div style="width:'.$divW.'px; height:18px; line-height:20px; text-align:right; border:#666666 solid 1px; margin-top:5px;">';
+			//$html=$html.'<a href="mtvAnglash.php?mtvid='.$mtvid.'" target="_blank">'.$mtvname.'</a>';
+			//$html=$html.'</div>';						
+			$html=$html.'</td>';
+			if($i%$modnum==0)
+			{
+				$html=$html.'</tr><tr>';
+			}
+		}
+		$html=$html.'</tr>';
+		$html=$html.'</table>';	
+		$db->free_result($result);	
+		return $html;
+	}
+	
+//=================================
+	function ShowSinger($catid)
+	{
+		global $db;
+		$sql="SELECT my_singer from phpcms_movie_32 where catid=".$catid." and my_singer!='' group by my_singer";
+		$rstur=$db->query($sql);
+		while($rs=$db->fetch_array($rstur))
+		{
+			$my_singer=$rs['my_singer'];
+			$mysinger=$mysinger.'<a href="usersearch.php?stype=2&keywords='.$my_singer.'" style="font-size:11pt;line-height:24px;" target="_blank">['.$my_singer.']</a>'.'&nbsp;&nbsp;&nbsp;';
+		}
+		$db->free_result($rstur);
+		return $mysinger;
+	}
+	
+	function ShowCD_new($num,$chid,$vorder,$ismod,$imgW,$imgH,$bigimg=0)
+	{
+		global $db;
+		$sql="SELECT specialid,arrchildid,specialname,keyid,specialpic,addtime,keyid,hits FROM phpcms_special  where keyid=".$chid." and parentid=0 ORDER BY ".$vorder." DESC LIMIT ".$num."";
+		$result=$db->query($sql);
+		$html='<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="margin-top:5px; margin-bottom:5px; font-size:11pt;direction:rtl">';
+		$html=$html.'<tr>';
+		$i=0;
+		while($rs=$db->fetch_array($result))
+		{
+			$i=$i+1;
+			$picurl=$rs['specialpic'];
+			$specialname=$rs['specialname'];
+			$spsinger=ShowCDsinger($rs['arrchildid']);
+			$addtime=date('Y-m-d',$rs['addtime']);
+			$hits=$rs['hits'];
+			$html=$html.'<td>';
+			$html=$html.'<div style="margin-top:3px;"><a href="EserTur.php?cdid='.$rs['arrchildid'].'&chid='.$rs['keyid'].'" target="_blank"><img src="../'.$picurl.'" border="0" width="'.$imgW.'" height="'.$imgH.'" style="border:#fff solid 1px; padding:3px 3px 3px 3px;"></a></div>';	
+			$html=$html.'<div style="margin-top:5px;line-height:20px;"><a href="EserTur.php?cdid='.$rs['arrchildid'].'&chid='.$rs['keyid'].'" target="_blank">'.str_cut($specialname,33).'</a></div>';		
+			$html=$html.'</td>';					
+			if($i%$ismod==0)
+			{
+				$html=$html.'</tr><tr>';
+			}
+		}
+		$html=$html.'</tr>';
+		$html=$html.'</table>';
+		$db->free_result($result);
+		return $html;
+	}					
+?>﻿<html>
+<head>
+<title>uyghur-archive.com/bilqut |Music | China | Europe | Uyghur | Turkey | India | Arabic</title>
+<META NAME="Generator" CONTENT="EditPlus">
+<META NAME="Author" CONTENT="Medical, pharmaceutical, international,mtv,woman,girl,oldman,man,baby, treasure, news, games, music, movies,sex,sexy,teen,porn, stars, building materials, products, machinery, hardware">
+<META NAME="Keywords" CONTENT="Medical, pharmaceutical, international,mtv,woman,girl,oldman,man,baby, treasure, news, games, music, movies, stars,sex,sexy,teen,porn, building materials, products, machinery, hardware">
+<META NAME="Description" CONTENT="Medical, pharmaceutical, international,mtv,woman,girl,oldman,man,baby,sex,sexy,teen,porn, treasure, news, games, music, movies, stars, building materials, products, machinery, hardware">
+<SCRIPT language=javascript src="js/nip_common.js"></SCRIPT>
+<script language="javascript" src="js/check.js"></script>
+<script language="javascript">
+	function ShowThis(idname,id)
+	{
+		if(id==1)
+		{
+			document.all[idname+id].style.display='block';
+			document.all[idname+'2'].style.display='none';								
+		}
+		if(id==2)
+		{
+			document.all[idname+id].style.display='block';
+			document.all[idname+'1'].style.display='none';						
+		}
+	}	
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+
+.nahxa {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #FFB784;
+	border-right-color: #FFB784;
+	border-bottom-color: #FFB784;
+	border-left-color: #FFB784;
+}
+.nahxa1 {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #FFDFDF;
+	border-right-color: #FFDFDF;
+	border-bottom-color: #FFDFDF;
+	border-left-color: #FFDFDF;
+}
+body {
+background-color:#FFFFFF;
+	background-attachment:fixed;
+	font-size:12px;font-family:Ukij tuz tom,Times New Roman,Arial;
+}
+.uyunmenu{font-family:Ukij tuz tom,Times New Roman,Arial;}
+h1,h2,h3,h4,h5,h6,form,body{padding:0;margin:0;font-family:Ukij tuz tom,Times New Roman,Arial;}
+a{text-decoration:none;color:#914F1E;font-family:Ukij tuz tom,Times New Roman,Arial;}
+.bnt{font-family:Ukij tuz tom,Times New Roman,Arial; font-size:11pt; background-color:#A35D2A; color:#fff; width:80px; height:20px; border:#A35D2A solid 1px;}
+.bntplay{font-family:Ukij tuz tom,Times New Roman,Arial; font-size:11pt; background-color:#A35D2A;border:#A35D2A solid 1px; color:#FFFFFF; width:40px; height:20px;}
+b{font-weight:normal; text-align:right; margin-right:25px; font-size:12pt; float:right;}
+input,select{font-family:Ukij tuz tom,Times New Roman,Arial;}
+.borderbottom{border-bottom:#FFCC99 dotted 1px; line-height:24px;}
+.bordmusic{border:#FFF1AB solid 1px;}
+#uyghur1{margin:3px 3px 3px 3px; line-height:24px;}
+.songname{ color:#AD6027;}
+#uyghur2{margin:3px 3px 3px 3px; line-height:24px; display:none;}
+#uzbak1{margin:3px 3px 3px 3px; line-height:24px;}
+#uzbak2{margin:3px 3px 3px 3px; line-height:24px; display:none;}
+#turky1{margin:3px 3px 3px 3px; line-height:24px;}
+#turky2{margin:3px 3px 3px 3px; line-height:24px; display:none;}
+#india1{margin:3px 3px 3px 3px; line-height:24px;}
+#india2{margin:3px 3px 3px 3px; line-height:24px; display:none;}
+#hanzu1{margin:3px 3px 3px 3px; line-height:24px;}
+#hanzu2{margin:3px 3px 3px 3px; line-height:24px; display:none;}
+#english1{margin:3px 3px 3px 3px; line-height:24px;}
+#english2{margin:3px 3px 3px 3px; line-height:24px; display:none;}
+.bgmoren{background-image:url(images/sol.gif);}
+.bgmoren1{background-image:url(images/ong.gif);}
+.numur{width:15px; height:15px; background-color:#914F1E; color:#fff; font-size:9pt; line-height:15px; font-weight:normal;}
+.music1 {
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #e1e1e1;
+	border-right-color: #e1e1e1;
+	border-bottom-color: #e1e1e1;
+	border-left-color: #e1e1e1;
+}
+.music2 {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #fcda7d;
+	border-right-color: #fcda7d;
+	border-bottom-color: #fcda7d;
+	border-left-color: #fcda7d;
+}
+.music3 {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #ffb16d;
+	border-right-color: #ffb16d;
+	border-bottom-color: #ffb16d;
+	border-left-color: #ffb16d;
+}
+.STYLE1 {
+	color: #A25100
+}
+</style>
+</head>
+<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<body  bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<?
+	include("top.php");
+?>
+<table width="950" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="10"></td>
+  </tr>
+</table>
+<div align="center">
+<table width="950" border="0" cellpadding="0" cellspacing="0" bgcolor="#faf6f1">
+  <tr>
+    <td width="611" valign="top"><table width="609" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td height="30" background="awazjan/U_bg.gif">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" class="music1">
+		<table width="98%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+<td width="71%" align="center" valign="top">
+<?
+		global $db;
+		$chid = is_array($chid) ? implode(',',$chid) : $chid;
+		$cdid = is_array($cdid) ? implode(',',$cdid) : $cdid;
+		$randname=rand(!$j ? 1: 0,9);
+		$db->query("Update phpcms_special set hits=hits+".$randname." where arrchildid=".$cdid." and keyid=".$chid." and parentid=0");
+		$sql="SELECT specialid,arrchildid,specialname,keyid,specialpic,addtime,introduce,hits FROM phpcms_special  where arrchildid=".$cdid." and keyid=".$chid." and parentid=0 ";
+		$result=$db->query($sql);
+		$i=0;
+		if($rs=$db->fetch_array($result))
+		{
+			$i=$i+1;
+			$picurl=$rs['specialpic'];
+			$spid=$rs['arrchildid'];
+			$specialname=$rs['specialname'];
+			$keyid=$rs['keyid'];
+			$spsinger=ShowCDsinger($rs['arrchildid']);
+			$addtime=date('Y-m-d',$rs['addtime']);
+			$content=$rs['introduce'];	
+			$hits=$rs['hits'];	
+?>
+					  <table width="98%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td height="10"></td>
+                        </tr>
+                        <tr>
+                          <td height="26" bgcolor="#FFE8E8" dir="rtl" background="awazjan/U_bg.gif">نۆۋەتىكى ئورنىڭىز:<a href="default.php" target="_blank"> باش بەت </a>>><?=$specialname?></td>
+                        </tr>
+                        <tr>
+                          <td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+                            <tr>
+                              <td width="70%" valign="top" bgcolor="#FFFFFF">
+							  <div style="direction:rtl; margin-top:5px; text-align:right; padding-right:10px; line-height:24px; font-size:11pt;"><br>
+							  ئەسەر نامى:<?=$specialname?><br>
+							  يوللىغان ۋاقىت:<?=$addtime?><br>
+							  ئاۋاتلىقى:<?=$hits?>
+							  </div></td>
+                              <td width="30%" height="110" align="center"><img src="../<?=$picurl?>" width="110" height="90"></td>
+                            </tr>
+                          </table></td>
+                        </tr>
+                        <tr>
+                          <td height="15" bgcolor="#FFFFFF">&nbsp;</td>
+                        </tr>
+                        <tr>
+                          <td height="26" >
+						  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size:11pt;" background="awazjan/U_bg.gif">
+                            <tr>
+                              <td width="17%" align="center">چۈشۈرۈش</td>
+                              <td width="18%" align="center">ئاڭلاش</td>
+                              <td width="65%" align="center" height="25">ئەسەر ئىسمى</td>
+                            </tr>
+                          </table></td>
+                        </tr>
+                        <tr>
+                          <td style="border:#FFE8E8 solid 1px;">
+<?
+	echo(ShowCDMusicList(100,$spid,'movieid'));
+?>						  </td>
+                        </tr>
+                      </table>
+                      <?
+		}
+	$db->free_result($result);
+?></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+    <td width="12" valign="top">&nbsp;</td>
+    <td width="327" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  
+      <tr>
+        <td height="30" background="awazjan/U_bg.gif"><b style="color:#914e1f; margin-right:30px;"> ئاۋات ئەسەرلەر </b></td>
+      </tr>
+      <tr>
+        <td height="350" align="center" class="music1" bgcolor="#FFFFFF"><table width="98%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom:2px; margin-top:2px;">
+          <tr>
+            <td align="center"><? echo(ShowCD(12,32,'hits',2,80,65));?></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td height="10"></td>
+      </tr>
+      <tr>
+        <td height="30" background="awazjan/U_bg.gif"><b style="color:#914e1f; margin-right:30px;">  ئاۋات ئەسەرلەر</b></td>
+      </tr>
+      <tr>
+        <td height="456" align="center" class="music1" bgcolor="#FFFFFF"><table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><?
+echo(ShowLeftMusicList(18,0,0,'hits'));
+?></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</div>
+<table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="10"></td>
+  </tr>
+</table>
+<?
+	include("bottom.html");
+?>
+</body>
+</html>

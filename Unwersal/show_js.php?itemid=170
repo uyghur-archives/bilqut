@@ -1,0 +1,3 @@
+﻿try {setidval('hits','2480');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/Unwersal/show.php?itemid=169">10 كويلۇق قــــــىـــــز(تەۋسىيە)</a></li><li>  كىيىنكىسى  :  <a href="/Unwersal/show.php?itemid=171">مەختۇمسۇلا دىگەن ئەسەر نىڭ ئاخىرقى قىسمى يوقما؟</a></li>');}catch(e){}

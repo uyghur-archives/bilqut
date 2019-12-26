@@ -1,0 +1,3 @@
+﻿try {setidval('hits','5062');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/kompiyotir/show.php?itemid=466">شىنجاڭ كۆچمە خەۋەرلىشىش گوروھى ئۇيغۇريېزىقىدىكى تور تىجارەتخانىسى</a></li><li>  كىيىنكىسى  :  <a href="/kompiyotir/show.php?itemid=468">2009-يىلى 4-ئاينىڭ 27-كۈنى بەرگەن ئالى مەكتەپ تەنتەربىيە ئىمتاھانىنىڭ نەتىجىسى چىقتىمۇ؟</a></li>');}catch(e){}

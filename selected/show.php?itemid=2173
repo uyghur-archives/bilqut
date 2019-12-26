@@ -1,0 +1,379 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ۋاپاسىزلارچە ھۇجۇم-كۇتۇپخانا-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,كۇتۇپخانا">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/kutupxana/" class="red"> كۇتۇپخانا</a>
+         | <a class="razimantur" href="/kutupxana/list.php?catid=43" >ھېكايىلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=44" > شېئىر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=45" > كەلىلە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=46" > نەسىرلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=47" > يۇمۇرلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=48" > ھىكمەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=49" > نەسىھەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=50" > ماقالىلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=51" > ياشلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=52" > تۇرمۇش </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=53" > نۇتۇقلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=54" >مەكتۇب  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=55" >غارايىبات</a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=56" > دۇنيادا ئەڭ  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=57" >قان تىپى </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=58" > مۆچەل  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=59" > مىللەتلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=60" > بۈگۈن  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=61" >مۇزېي </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=62" >تارىخ </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=63" >شەھەرلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=64" >دۆلەتلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=65" >كۇتۇبخانىلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=66" >مايلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=67" >مېۋە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=68" >كۆكتاتلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=69" >ئۆسۈملۈكلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=70" > ھايۋاناتلار  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/kutupxana/">كۇتۇپخانا</a> >> <a href="/kutupxana/list.php?catid=53"> نۇتۇقلار  </a> >>  ۋاپاسىزلارچە ھۇجۇم</div>
+<!--主标题--><h1>ۋاپاسىزلارچە ھۇجۇم </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2008-06-24 16:44:28&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">187</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<img src="/raziman_img/bash/reng/reng_1.gif" id="img1" style="cursor:hand;"  onclick="conhat(1)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_2.gif" id="img2" style="cursor:hand;"  onclick="conhat(2)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_3.gif" id="img3" style="cursor:hand;"  onclick="conhat(3)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_4.gif" id="img4" style="cursor:hand;"  onclick="conhat(4)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_5.gif" id="img5" style="cursor:hand;"  onclick="conhat(5)">&nbsp;&nbsp;                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut"> ۋىياچېسلوف مىخايلوۋىچ موللوتوف&nbsp; &nbsp; &nbsp; (1890 - 1986) 
+ۋىياچېسلوف مېخايلوۋىچ موللوتوف سابىق سوۋېت ئىتتىپاقى ئالىي سوۋېتىنىڭ رەئىسى، قوشۇمچە دىپلوماتىيە مىنىستىرى. ۋىيات ئۆلكىسى كوكاركا بازىرىدا دۇنياغا كەلگەن. 1906 - يىلى روسىيە دېموكراتىك ئىشچىلار پارتىيىسى (بولشىۋىكلار پارتىيىسى) گە ئەزا بولغان. 1921 - يىلىدىن ئېتىۋارەن سوۋېت ئىتتىپاقى كوممۇنىستلار پارتىيىسى مەركىزىي كومىتېتىنىڭ ئەزاسى، سىياسىي بيورۇسىنىڭ كاندىدات ئەزاسى، كوممۇنىستىك پارتىيىسى مەركىزىي كومىتېتىنىڭ شۇجىسى بولغان. 1926 - يىلدىن 1952 - يىلىغىچە سابىق سوۋېت ئىتتىپاقى كوممۇنىستىك پارتىيىسى مەركىزىي كومىتېتى سىياسىي بيورۇسىنىڭ ئەزاسى بولغان. 1939 - يىلىدىن 1949 - يىلىغىچە تاشقى ئىشلار مىنىستىرى بولغان. 1952 - يىلىدىن 1956 - يىلىغىچە مەركىزىي كومىتېت ئەزاسى، مەركىزىي كومىتېت ھەيئەت رىياسىتىنىڭ ئەزاسى، سابىق سوۋېت ئىتتىپاقى مىنىستىرلەر سوۋېتىنىڭ بىرىنچى مۇئاۋىن رەئىسى، تاشقى ئىشلار مىنىستىرى بولغان. 1956 - يىلىدىن 1957 - يىلىغىچە سابىق سوۋېت ئىتتىپاقى مەمۇرىي تەپتىش مىنىستىرلىكىنىڭ مىنىستىرى بولغان. 1957 - يىلى «پارتىيىنىڭ لۇشيەنىگە قارشى تۇردى» دېگەن بەدنام بىلەن خرۇششوۋ ئۇنىڭ پارتىيە ئىچى ۋە سىرتىدىكى بارلىق ۋەزىپىلىرىنى ئېلىپ تاشلىغان. 1961 - يىلى سابىق سوۋېت ئىتتىپاقى كوممۇنىستىك پارتىيىسى سىياسىي بيورۇسىدىن ۋە پارتىيىدىن قوغلاپ چىقارغان. 1984 - يىلى پارتىيىۋىلىكى ئەسلىگە كەلتۈرۈلگەن. «ۋاپاسىزلارچە ھۇجۇم» ناملىق بۇ نۇتۇقنى موللوتوف 1941 - يىلى 6 - ئاينىڭ 22 - كۈنى فاشسىت گېرمانىيە قوشۇنلىرى سابىق سوۋېت ئىتتىپاقىغا ھۇجۇم قىلغان كۈنى پۈتۈن سوۋېت خەلقىگە رادىئو ئارقىلىق سۆزلىگەن.
+1941 - يىلى 6 - ئاينىڭ 22 - كۈنى $$&nbsp; سوۋېت ئىتتىپاقى گراژدانلىرى: 
+سوۋېت ئىتتىپاقى ھۆكۈمىتى ۋە ئۇنىڭ رەھبىرى يولداش ستالىننىڭ بۇيرۇقىغا بىنائەن تۆۋەندىكى باياناتنى ئېلان قىلىمەن. 
+بۈگۈن ئەتىگەن سائەت تۆتتە گېرمانىيە قوشۇنلىرى سوۋېت ئىتتىپاقىغا ھېچقانداق پاكىت كۆرسەتمەي، ياكى ئۇرۇش ئېلان قىلماي زېمىنىمىزگە تاجاۋۇز قىلىپ، چېگرا رايونلاردىكى نۇرغۇنلىغان جايلىرىمىزغا ھۇجۇم قىلدى، ئايروپىلان ئەۋەتىپ ژىتومىر، كىيېۋ، سېۋاستوپول، كوئۇناس ۋە باشقا بىرقانچە شەھەرلىرىمىزنى بومباردىمان قىلىپ، 200 دەك ئادىمىمىزنى ئۆلتۈردى. شۇنىڭ بىلەن بىرگە رومىنىيە ۋە فىنلاندىيە چېگرىسىدا ئايروپىلان ئارقىلىق بىزنى بومباردىمان قىلدى ھەم زەمبىرەك بىلەن بىزنى توپقا تۇتتى.
+دۆلىتىمىزگە قىلىنغان مىسلىسىز دەرىجىدىكى تاجاۋۇزچىلىق ئىلگىرى كۆرۈلۈپ باقمىغان بولۇپ، دۇنيادىكى مەدەنىي مىللەت تارىخىدىن ئېلىپ ئېيتقاندا بۇ مۇناپىقلارچە ۋاپاسىزلىق قىلغانلىقتۇر. گەرچە سوۋېت ئىتتىپاقى بىلەن گېرمانىيە ئوتتۇرىسىدا ئۆزئارا تاجاۋۇز قىلىشماسلىق توغرىسىدا شەرتنامە تۈزۈلگەن. سوۋېت ئىتتىپاقى ھۆكۈمىتى شەرتنامىدىكى ماددىلارغا جان - دىل بىلەن ئەمەل قىلغان بولساقمۇ، ئۇلار دۆلىتىمىزگە تاجاۋۇز قىلدى. گەرچە بۇ شەرتنامە كۈچكە ئىگە مەزگىللەردە شەرتنامىگە ئەمەل قىلىش مەسىلىسىدە گېرمانىيە ھۆكۈمىتى باشتىن - ئاخىر سوۋېت ئىتتىپاقىنى ئەيىبلەيدىغان ئازراقمۇ گەپ تاپالمىغان بولسىمۇ - ئېلىمىزگە يەنىلا ھۇجۇم قىلدى. سوۋېت ئىتتىپاقىغا بۇنداق قاراقچىلارچە ھۇجۇم قىلىش ھەرىكىتىگە گېرمانىيە فاشىستىك ھۆكۈمران گورۇھى ئۈزۈل - كېسىل، تامامەن جاۋابكار بولۇشى كېرەك. 
+تاجاۋۇزچىلىق ۋەقەسى يۈز بەرگەندىن كېيىن، گېرمانىيىنىڭ سوۋېت ئىتتىپاقىدا تۇرۇشلۇق باش ئەلچىسى شولىن باۋ ھېلىلا سائەت بەشتىن 30 مىنۇت ئۆتكەندە گېرمانىيىگە ۋاكالىتەن بىزنىڭ تاشقى ئىشلار مىنىستىرلىكىمىزگە بايانات ئېلان قىلىپ، سوۋېت قىزىل ئارمىيىسى گېرمانىيىنىڭ شەرقىي قىسمىدىكى چېگرىغا توپلانغانلىقى ئۈچۈن، گېرمانىيە ھۆكۈمىتى سوۋېت ئىتتىپاقىغا قارشى ئۇرۇش قىلىشنى قارار قىلدى، دېدى. 
+مەن بۇ باياناتقا سوۋېت ھۆكۈمىتىگە ۋاكالىتەن مۇنداق جاۋاب بەردىم: گېرمانىيە ھۆكۈمىتى سوۋېت ئىتتىپاقى ھۆكۈمىتىگە ھېچقانداق پاكىت كۆرسەتكىنى يوق؛ گېرمانىيە ھۆكۈمىتى سوۋېت ئىتتىپاقىنىڭ تىنچلىقپەرۋەرلىك مەيدانىغا پىسەنت قىلماي سوۋېت ئىتتىپاقىغا ھۇجۇم قىلدى؛ شۇنىڭ ئۈچۈن فاشىستلار گېرمانىيىسى تاجاۋۇزچىغا ئايلىنىپ قالدى. 
+مەن يەنە سوۋېت ئىتتىپاقى ھۆكۈمىتىنىڭ ھاۋالىسىگە ئاساسەن تۆۋەندىكى باياناتنى ئېلان قىلىمەن: بىزنىڭ قۇرۇقلۇق ئارمىيىمىز ۋە ھاۋا ئارمىيىمىز ھېچقانداق بىر دۆلەتنىڭ زېمىنىغا چېقىلغىنى يوق، شۇڭا، بۈگۈن ئەتىگەن رومىنىيە رادىئو ئىستانىسى ئېلان قىلغان ئاتالمىش سوۋېت ئىتتىپاقى ھاۋا ئارمىيىسى رومىنىيە ئايروپىلان ئىستانسىسىنى بومباردىمان قىلدى، دېگەن خەۋر پۈتۈنلەي ئويدۇرما ۋە ئىغۋاگەرچىلىكتىن ئىبارەت. ۋەقەدىن كېيىن تەپ تارتماستىن يالغان گەپ قىلىپ سوۋېت ئىتتىپاقى شەرتنامىگە ئەمەل قىلمىدى، دەپ ئەيىبلەۋاتقان گېتلىرنىڭ بۈگۈن ئېلان قىغان خىتابنامىسى سېپى ئۆزىدىن يالغان ۋە ئىغۋاگەرچىلىكتىن باشقا نەرسە ئەمەس. 
+ھازىر سوۋېت ئىتتىپاقى تاجاۋۇزچىلىققا ئۇچرىغانىكەن، سوۋېت ھۆكۈمىتى ئۆز قوشۇنلىرىغا مۇنداق بۇيرۇق قىلىدۇ: قاراقچىلارچە تاجاۋۇزچىلىققا زەربە بېرىلسۇن، گېرمانىيە قوشۇنلىرى ۋەتىنىمىز تۇپرىقىدىن قوغلاپ چىقرىلسۇن. 
+بىزنى بۇ قېتىمقى ئۇرۇشقا مەجبۇر قىلغانلار گېرمانىيە خەلقى ئەمەس، بىز ئوبدان چۈشىنىدىغان جاپاكەش گېرمانىيە ئىشچىلىرى، دېھقانلىرى ۋە زىيالىيلىرى ئەمەس، بىزنى بۇ قېتىمقى ئۇرۇشقا مەجبۇر قىلغانلار فرانسۇزلار، چېخلار، پولەكلەر، سېرۋېيلىقلار، نورۋىگىيىلىكلەر، بىلگىيەلىكلەر، دانىيەلىكلەر، گوللاندىيىلىكلەر، گىرىتسىيىلىكلەر ۋە باشقا ئەللەردىكى خەلقنى قۇل قىلغان قانخۇر نېمىس فاشىست ھۆكۈمرانلىرىدىن ئىبارەت. 
+سوۋېت ئىتتىپاقى ھۆكۈمىتى ھازىر ئكزىنىڭ تەۋرەنمەس ئىشەنچىسىنى بىلدۈرىدۇ: بىزنىڭ قەھرىمان قۇرۇقلۇق ۋە دېڭىز ئارمىيىمىز، شۇنداقلا سوۋېت ئاسمىنىدا پەرۋاز قىلىپ ئۇچۇۋاتقان ھاۋا ئارمىيىمىزدىكى قورقماس بۈركۈتلەر ۋەتەن ۋە سوۋېت خەلقى ئالدىدىكى مۇقەددەس بۇرچىنى شەرەپ بىلەن ئادا قىلىپ، تاجاۋۇزچىلارغا جەزمەن قاقشاتقۇچ زەربە بېرىدۇ. 
+خەلقىمىز بىزگە كۆرەڭلەپ چېقىلىشقا پېتىنغان دۈشمەنلەر بىلەن ئېلىشىپ كۆرگەن. بۇ تۇنجى قېتىملىق ئىش ئەمەس. ئەينى زاماندا خەلقىمىز ۋەتەن ئۇرۇشىنى قوزغاپ ناپولېئوننىڭ روسىيەگە يۈرۈش قىلغان قوشۇنىنىڭ جاجىسىنى بېرىپ، ناپولېئوننى مەغلۇپ قىلىپ كىرگىلى كاما تاپالمىغۇدەك ھالغا چۈشۈرۈپ قويغانىدى. ئۆزىنى دەڭسىيەلمىگەن، ئېلىمىزگە چېقىلىشقا پېتىنغان «يىراققا يۈرۈش قىلغۇچى» گېتلىرمۇ ئەنە شۇنداق ئاقىۋەتكە قالىدۇ. قىزىل ئارمىيە ۋە بارلىق خەلقىمىز ۋەتەن، شان - شەرەپ، ئەركىنلىك ئۈچۈن يەنە بىر قېتىم غەلىبىلىك ۋەتەن ئۇرۇشى قىلىدۇ. 
+سوۋېت ئىتتىپاقى ھۆكۈمىتى ئۆزىنىڭ قەتئىي ئىشەنچىسىنى بىلدۈرىدۇكى: پۈتۈن مەملىكەت خەلقى، بارلىق ئىشچىلار، دېھقانلار ۋە زىيالىيلار، بارلىق ئەر - ئايال گىراژدانلار ئۆز بۇرچىنى ئادا قىلىدۇ. ئۆز ئەمگىكىگە تېگىشلىك ئاڭلىق پوزىتسىيە تۇتىدۇ. بارلىق خەلق مىسلىسىز ئىتتىپاقلىشىشى كېرەك. ھەربىر ئادەم ئۆزىگە ۋە باشقىلارغا ئىنتىزامغا رىئايە قىلىش، تەشكىلگە بويسۇنۇش تەلىپىنى قويۇشى، ئۆزىنى&nbsp; قۇربان قىلىش روھىنى ئىپادىلىشى، سوۋېت ئىتتىپاقىنىڭ ھەقىقىي ۋەتەنپەرۋەرلىرىدىن بولۇشى، قىزىل ئارمىيە، دېڭىز ئارمىيە ۋە ھاۋا ئارمىيىسىگە كېرەكلىك بارلىق نەرسىلەرنى تەمىن ئېتىشى، دۈشمەنلەرنى مەغلۇپ قىلىشقا كاپالەتلىك قىلىشى لازىم. 
+ھۆكۈمىتىمىز سىلەرنى شۇنىڭغا چاقىرىدۇكى، سوۋېت ئىتتىپاقىنىڭ ئەر - ئايال گىراژدانلىرى، سىلەر قوشۇنىڭلارنى شەرەپلىك بولشىۋىكلار پارتىيىسىنىڭ ئەتراپىغا زىچ ئويۇشتۇرۇڭلار، سوۋېت ھۆكۈمىتىنىڭ ئەتراپىغا زىچ ئۇيۇشتۇرۇڭلار، ئۇلۇغ داھىيىمىز يولداش ستالىننىڭ ئەتراپىغا زىچ ئۇيۇشتۇرۇڭلار. 
+بىزنىڭ ئىشىلىرىمىز ھەققانىي ئىش. تاجاۋۇزچىلار مۇقەررەر مەغلۇب بولىدۇ، غەلىبە چوقۇم بىزگە مەنسۇپ.</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2178" title="ئەڭ ئاخىرقى نۇتۇق"  target="_blank" class="tag_title_link">ئەڭ ئاخىرقى نۇتۇق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2177" title="سىياسىي كىشىلەردىن بولۇشىمىز زۆرۈر"  target="_blank" class="tag_title_link">سىياسىي كىشىلەردىن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2176" title="ئاددىي بىر ئامېرىكىلىقنىڭ ئۇلۇغ تەرىپى"  target="_blank" class="tag_title_link">ئاددىي بىر ئامېرىك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2175" title="ئامېرىكىنى زىيارەت قىلىشتىن ئىلگىرىكى ئۇزىتىش زىياپىتىدە سۆزلگەنگەن نۇتۇق"  target="_blank" class="tag_title_link">ئامېرىكىنى زىيارەت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2174" title="تىنچلىق بىز كۆپچىلىككە مەنسۇپ"  target="_blank" class="tag_title_link">تىنچلىق بىز كۆپچىل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2173" title="ۋاپاسىزلارچە ھۇجۇم"  target="_blank" class="tag_title_link">ۋاپاسىزلارچە ھۇجۇم</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2172" title="جىددىي ۋەزىيەت"  target="_blank" class="tag_title_link">جىددىي ۋەزىيەت</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2171" title="ئادەم ئۈچۈن ياشاشلا كۇپايە قىلمايدۇ"  target="_blank" class="tag_title_link">ئادەم ئۈچۈن ياشاشل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2170" title="تەقدىر ۋە تارىخ"  target="_blank" class="tag_title_link">تەقدىر ۋە تارىخ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2169" title="يازغۇچى ئۆزىنى مۇئەسسەسىگە ئايلاندۇرۇپ قويماسلىقى كېرەك"  target="_blank" class="tag_title_link">يازغۇچى ئۆزىنى مۇئ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2168" title="ۋەتەننىڭ غەلىبىسى"  target="_blank" class="tag_title_link">ۋەتەننىڭ غەلىبىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2167" title="ئىلىم - پەن تەرەققىياتىدىكى توسالغۇ"  target="_blank" class="tag_title_link">ئىلىم - پەن تەرەققى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2166" title="فرانسىيە ھالاك بولمايدۇ"  target="_blank" class="tag_title_link">فرانسىيە ھالاك بول...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2165" title="خەلق گېزىتى نىڭ نەشر قىلىنغانلىقىنى خاتىرىلەش يىغىنىدا سۆزلەنگەن نۇتۇق"  target="_blank" class="tag_title_link">خەلق گېزىتى نىڭ نەش...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2164" title="ئىلىم - پەننى قەدىرلەيلى، ئىلىم - پەننى ھۆرمەتلەيلى"  target="_blank" class="tag_title_link">ئىلىم - پەننى قەدىر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2163" title="خەلق ئۈچۈن خىزمەت قىلايلى!"  target="_blank" class="tag_title_link">خەلق ئۈچۈن خىزمەت ق...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2162" title="گېيوتېسبورگ دۆلەت قەبرىستانلىقىدا سۆزلەنگەن نۇتۇق"  target="_blank" class="tag_title_link">گېيوتېسبورگ دۆلەت ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2161" title="گۈزەللىك جەننەتتىن چۈشەمدۇ ياكى دوزاختىن چىقامدۇ؟"  target="_blank" class="tag_title_link">گۈزەللىك جەننەتتىن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2160" title="بىز ئۇرۇشقانسېرى قۇدرەت تاپىمىز"  target="_blank" class="tag_title_link">بىز ئۇرۇشقانسېرى ق...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2159" title="تەقدىر ۋە تارىخ"  target="_blank" class="tag_title_link">تەقدىر ۋە تارىخ</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/kutupxana/search.php?catid=53&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2178" title="ئەڭ ئاخىرقى نۇتۇق"  target="_blank" class="tag_title_link">ئەڭ ئاخىرقى نۇتۇق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2177" title="سىياسىي كىشىلەردىن بولۇشىمىز زۆرۈر"  target="_blank" class="tag_title_link">سىياسىي كىشىلەردىن بولۇ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2176" title="ئاددىي بىر ئامېرىكىلىقنىڭ ئۇلۇغ تەرىپى"  target="_blank" class="tag_title_link">ئاددىي بىر ئامېرىكىلىقن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2175" title="ئامېرىكىنى زىيارەت قىلىشتىن ئىلگىرىكى ئۇزىتىش زىياپىتىدە سۆزلگەنگەن نۇتۇق"  target="_blank" class="tag_title_link">ئامېرىكىنى زىيارەت قىلى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2174" title="تىنچلىق بىز كۆپچىلىككە مەنسۇپ"  target="_blank" class="tag_title_link">تىنچلىق بىز كۆپچىلىككە ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2173" title="ۋاپاسىزلارچە ھۇجۇم"  target="_blank" class="tag_title_link">ۋاپاسىزلارچە ھۇجۇم</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2172" title="جىددىي ۋەزىيەت"  target="_blank" class="tag_title_link">جىددىي ۋەزىيەت</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2171" title="ئادەم ئۈچۈن ياشاشلا كۇپايە قىلمايدۇ"  target="_blank" class="tag_title_link">ئادەم ئۈچۈن ياشاشلا كۇپ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2170" title="تەقدىر ۋە تارىخ"  target="_blank" class="tag_title_link">تەقدىر ۋە تارىخ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2169" title="يازغۇچى ئۆزىنى مۇئەسسەسىگە ئايلاندۇرۇپ قويماسلىقى كېرەك"  target="_blank" class="tag_title_link">يازغۇچى ئۆزىنى مۇئەسسەس...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/kutupxana/show_js.php?itemid=2173"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

@@ -1,0 +1,609 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ئۇيغۇر تىلى ۋە باشقا تىللارنىڭ سېلىشتۇرمىسى-تىل - يېزىق-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,تىل - يېزىق">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/til_yeziq/" class="red"> تىل - يېزىق</a>
+         | <a class="razimantur" href="/til_yeziq/list.php?catid=36" >ئۇيغۇر تىلى</a>
+
+ | <a class="razimantur" href="/til_yeziq/list.php?catid=37" >خەنزۇ تىلى</a>
+
+ | <a class="razimantur" href="/til_yeziq/list.php?catid=38" >ئىنگلىز تىلى </a>
+
+ | <a class="razimantur" href="/til_yeziq/list.php?catid=39" >روس تىلى</a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/til_yeziq/">تىل - يېزىق</a> >> <a href="/til_yeziq/list.php?catid=36">ئۇيغۇر تىلى</a> >>  ئۇيغۇر تىلى ۋە باشقا تىللارنىڭ سېلىشتۇرمىسى</div>
+<!--主标题--><h1>ئۇيغۇر تىلى ۋە باشقا تىللارنىڭ سېلىشتۇرمىسى </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-04-08 17:57:26&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">420</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">[align=center]ئۇيغۇرتىلى بولسا تۈركىي تىللارنىڭ ئىچىدىكى تەرەققىي قىلغان باي تىللارنىڭ بىرىدۇر&#46; ئۇ ئالتاي تىل سىستېمىسىغا تەئەللۇق بولۇپ ھازىر دۇنيادا 10مىليوندىن ئارتۇق ئۇيغۇر مۇشۇ تىلنى ئىشلىتىدۇ&#46;ئۇندىن باشقا يەنە 20مىليوندىن ئارتۇق ئۆزبېك كىشىلىرى ئۆزبېك تىلى دېگەن نام بىلەن بۇ تىلنى قوللىنىپ كېلىۋاتىدۇ&#46;ماھىيەتتە ئۇيغۇرتىلى بىلەن ئۆزبېك تىلى بىر تىلدۇر&#46;
+
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body style="font-family: UKIJ Tuz Tom">
+
+<div align="center">
+	<table class="wikitable" border="1">
+		<tr>
+			<th><font face="UKIJ Tuz Tom">No&nbsp;&nbsp;&nbsp; </font></th>
+			<th>
+			<a href="/w/index&#46;php?title=Kona_Y%C3%A9ziq&action=edit&redlink=1">
+			<font face="UKIJ Tuz Tom" color="#000000">كونا يېزىق</font></a><font face="UKIJ Tuz Tom">&nbsp;&nbsp;&nbsp;&nbsp;
+			</font></th>
+			<th><font face="UKIJ Tuz Tom">&nbsp;&nbsp;
+			<a href="/w/index&#46;php?title=Y%C3%A9ngi_Y%C3%A9ziq&action=edit&redlink=1">
+			<font color="#000000">يېڭى يېزىق</font></a></font></th>
+			<th>
+			<a href="/w/index&#46;php?title=Uyghur_latin_y%C3%A9ziqi&action=edit&redlink=1">
+			<font color="#000000">ئۇيغۇر لاتېن يېزىقى</font></a>&nbsp;&nbsp;&nbsp;&nbsp; 
+			</th>
+			<th>سىلاۋىيانچە&nbsp;&nbsp;&nbsp;&nbsp; </th>
+			<th><font face="UKIJ Tuz Tom">
+			<a href="/w/index&#46;php?title=IPA&amp;action=edit&amp;redlink=1" class="new" title="IPA (bet yoq)">
+			<font color="#000000">I&nbsp; P A</font></a>&nbsp;&nbsp;&nbsp;&nbsp;
+			</font></th>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">01</font></td>
+			<td><font face="UKIJ Tuz Tom">ا</font></td>
+			<td><font face="UKIJ Tuz Tom">a</font></td>
+			<td><font face="UKIJ Tuz Tom">a</font></td>
+			<td><font face="UKIJ Tuz Tom">а</font></td>
+			<td><font face="UKIJ Tuz Tom">a</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">02</font></td>
+			<td><font face="UKIJ Tuz Tom">ە</font></td>
+			<td><font face="UKIJ Tuz Tom">ə</font></td>
+			<td><font face="UKIJ Tuz Tom">e</font></td>
+			<td><font face="UKIJ Tuz Tom">ә</font></td>
+			<td><font face="UKIJ Tuz Tom">ɛ</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">03</font></td>
+			<td><font face="UKIJ Tuz Tom">ب</font></td>
+			<td><font face="UKIJ Tuz Tom">b</font></td>
+			<td><font face="UKIJ Tuz Tom">b</font></td>
+			<td><font face="UKIJ Tuz Tom">б</font></td>
+			<td><font face="UKIJ Tuz Tom">b</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">04</font></td>
+			<td><font face="UKIJ Tuz Tom">پ</font></td>
+			<td><font face="UKIJ Tuz Tom">p</font></td>
+			<td><font face="UKIJ Tuz Tom">p</font></td>
+			<td><font face="UKIJ Tuz Tom">п</font></td>
+			<td><font face="UKIJ Tuz Tom">pʼ</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">05</font></td>
+			<td><font face="UKIJ Tuz Tom">ت</font></td>
+			<td><font face="UKIJ Tuz Tom">t</font></td>
+			<td><font face="UKIJ Tuz Tom">t</font></td>
+			<td><font face="UKIJ Tuz Tom">т</font></td>
+			<td><font face="UKIJ Tuz Tom">tʼ</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">06</font></td>
+			<td><font face="UKIJ Tuz Tom">ج</font></td>
+			<td><font face="UKIJ Tuz Tom">j</font></td>
+			<td><font face="UKIJ Tuz Tom">c</font></td>
+			<td><font face="UKIJ Tuz Tom">җ</font></td>
+			<td><font face="UKIJ Tuz Tom">ʤ</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">07</font></td>
+			<td><font face="UKIJ Tuz Tom">چ</font></td>
+			<td><font face="UKIJ Tuz Tom">q</font></td>
+			<td><font face="UKIJ Tuz Tom">ch</font></td>
+			<td><font face="UKIJ Tuz Tom">ц</font></td>
+			<td><font face="UKIJ Tuz Tom">ʧʼ</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">08</font></td>
+			<td><font face="UKIJ Tuz Tom">خ</font></td>
+			<td><font face="UKIJ Tuz Tom">h</font></td>
+			<td><font face="UKIJ Tuz Tom">x</font></td>
+			<td><font face="UKIJ Tuz Tom">х</font></td>
+			<td><font face="UKIJ Tuz Tom">x</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">09</font></td>
+			<td><font face="UKIJ Tuz Tom">د</font></td>
+			<td><font face="UKIJ Tuz Tom">d</font></td>
+			<td><font face="UKIJ Tuz Tom">d</font></td>
+			<td><font face="UKIJ Tuz Tom">д</font></td>
+			<td><font face="UKIJ Tuz Tom">d</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">10</font></td>
+			<td><font face="UKIJ Tuz Tom">ر</font></td>
+			<td><font face="UKIJ Tuz Tom">r</font></td>
+			<td><font face="UKIJ Tuz Tom">r</font></td>
+			<td><font face="UKIJ Tuz Tom">р</font></td>
+			<td><font face="UKIJ Tuz Tom">r</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">11</font></td>
+			<td><font face="UKIJ Tuz Tom">ز</font></td>
+			<td><font face="UKIJ Tuz Tom">z</font></td>
+			<td><font face="UKIJ Tuz Tom">z</font></td>
+			<td><font face="UKIJ Tuz Tom">з</font></td>
+			<td><font face="UKIJ Tuz Tom">z</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">12</font></td>
+			<td><font face="UKIJ Tuz Tom">ژ</font></td>
+			<td><font face="UKIJ Tuz Tom">ʐ</font></td>
+			<td><font face="UKIJ Tuz Tom">zh</font></td>
+			<td><font face="UKIJ Tuz Tom">ж</font></td>
+			<td><font face="UKIJ Tuz Tom">ʒ</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">13</font></td>
+			<td><font face="UKIJ Tuz Tom">س</font></td>
+			<td><font face="UKIJ Tuz Tom">s</font></td>
+			<td><font face="UKIJ Tuz Tom">s</font></td>
+			<td><font face="UKIJ Tuz Tom">с</font></td>
+			<td><font face="UKIJ Tuz Tom">s</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">14</font></td>
+			<td><font face="UKIJ Tuz Tom">ش</font></td>
+			<td><font face="UKIJ Tuz Tom">x</font></td>
+			<td><font face="UKIJ Tuz Tom">sh</font></td>
+			<td><font face="UKIJ Tuz Tom">ш</font></td>
+			<td><font face="UKIJ Tuz Tom">ʃ</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">15</font></td>
+			<td><font face="UKIJ Tuz Tom">غ</font></td>
+			<td><font face="UKIJ Tuz Tom">ƣ</font></td>
+			<td><font face="UKIJ Tuz Tom">gh</font></td>
+			<td><font face="UKIJ Tuz Tom">ғ</font></td>
+			<td><font face="UKIJ Tuz Tom">ʔ</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">16</font></td>
+			<td><font face="UKIJ Tuz Tom">ف</font></td>
+			<td><font face="UKIJ Tuz Tom">f</font></td>
+			<td><font face="UKIJ Tuz Tom">f</font></td>
+			<td><font face="UKIJ Tuz Tom">ф</font></td>
+			<td><font face="UKIJ Tuz Tom">f</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">17</font></td>
+			<td><font face="UKIJ Tuz Tom">ق</font></td>
+			<td><font face="UKIJ Tuz Tom">k̢</font></td>
+			<td><font face="UKIJ Tuz Tom">q</font></td>
+			<td><font face="UKIJ Tuz Tom">қ</font></td>
+			<td><font face="UKIJ Tuz Tom">qʼ</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">18</font></td>
+			<td><font face="UKIJ Tuz Tom">ك</font></td>
+			<td><font face="UKIJ Tuz Tom">k</font></td>
+			<td><font face="UKIJ Tuz Tom">k</font></td>
+			<td><font face="UKIJ Tuz Tom">к</font></td>
+			<td><font face="UKIJ Tuz Tom">k</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">19</font></td>
+			<td><font face="UKIJ Tuz Tom">گ</font></td>
+			<td><font face="UKIJ Tuz Tom">g</font></td>
+			<td><font face="UKIJ Tuz Tom">g</font></td>
+			<td><font face="UKIJ Tuz Tom">г</font></td>
+			<td><font face="UKIJ Tuz Tom">ɡ</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">20</font></td>
+			<td><font face="UKIJ Tuz Tom">ڭ</font></td>
+			<td><font face="UKIJ Tuz Tom">ng</font></td>
+			<td><font face="UKIJ Tuz Tom">ng</font></td>
+			<td><font face="UKIJ Tuz Tom">ң</font></td>
+			<td><font face="UKIJ Tuz Tom">ŋ</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">21</font></td>
+			<td><font face="UKIJ Tuz Tom">ل</font></td>
+			<td><font face="UKIJ Tuz Tom">l</font></td>
+			<td><font face="UKIJ Tuz Tom">l</font></td>
+			<td><font face="UKIJ Tuz Tom">л</font></td>
+			<td><font face="UKIJ Tuz Tom">l</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">22</font></td>
+			<td><font face="UKIJ Tuz Tom">م</font></td>
+			<td><font face="UKIJ Tuz Tom">m</font></td>
+			<td><font face="UKIJ Tuz Tom">m</font></td>
+			<td><font face="UKIJ Tuz Tom">м</font></td>
+			<td><font face="UKIJ Tuz Tom">m</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">23</font></td>
+			<td><font face="UKIJ Tuz Tom">ن</font></td>
+			<td><font face="UKIJ Tuz Tom">n</font></td>
+			<td><font face="UKIJ Tuz Tom">n</font></td>
+			<td><font face="UKIJ Tuz Tom">н</font></td>
+			<td><font face="UKIJ Tuz Tom">n</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">24</font></td>
+			<td><font face="UKIJ Tuz Tom">ه‍</font></td>
+			<td><font face="UKIJ Tuz Tom">h̢</font></td>
+			<td><font face="UKIJ Tuz Tom">h</font></td>
+			<td><font face="UKIJ Tuz Tom">һ</font></td>
+			<td><font face="UKIJ Tuz Tom">h‍</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">25</font></td>
+			<td><font face="UKIJ Tuz Tom">و</font></td>
+			<td><font face="UKIJ Tuz Tom">o</font></td>
+			<td><font face="UKIJ Tuz Tom">o</font></td>
+			<td><font face="UKIJ Tuz Tom">о</font></td>
+			<td><font face="UKIJ Tuz Tom">o</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">26</font></td>
+			<td><font face="UKIJ Tuz Tom">ۇ</font></td>
+			<td><font face="UKIJ Tuz Tom">u</font></td>
+			<td><font face="UKIJ Tuz Tom">u</font></td>
+			<td><font face="UKIJ Tuz Tom">у</font></td>
+			<td><font face="UKIJ Tuz Tom">u</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">27</font></td>
+			<td><font face="UKIJ Tuz Tom">ئ</font></td>
+			<td><font face="UKIJ Tuz Tom">ɵ</font></td>
+			<td><font face="UKIJ Tuz Tom">ö</font></td>
+			<td><font face="UKIJ Tuz Tom">ө</font></td>
+			<td><font face="UKIJ Tuz Tom">ø</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">28</font></td>
+			<td><font face="UKIJ Tuz Tom">ۈ</font></td>
+			<td><font face="UKIJ Tuz Tom">ü</font></td>
+			<td><font face="UKIJ Tuz Tom">ü</font></td>
+			<td><font face="UKIJ Tuz Tom">ү</font></td>
+			<td><font face="UKIJ Tuz Tom">y</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">29</font></td>
+			<td><font face="UKIJ Tuz Tom">ۋ</font></td>
+			<td><font face="UKIJ Tuz Tom">w/v</font></td>
+			<td><font face="UKIJ Tuz Tom">v</font></td>
+			<td><font face="UKIJ Tuz Tom">в</font></td>
+			<td><font face="UKIJ Tuz Tom">v</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">30</font></td>
+			<td><font face="UKIJ Tuz Tom">ې</font></td>
+			<td><font face="UKIJ Tuz Tom">e</font></td>
+			<td><font face="UKIJ Tuz Tom">é</font></td>
+			<td><font face="UKIJ Tuz Tom">е</font></td>
+			<td><font face="UKIJ Tuz Tom">e</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">31</font></td>
+			<td><font face="UKIJ Tuz Tom">ى</font></td>
+			<td><font face="UKIJ Tuz Tom">i</font></td>
+			<td><font face="UKIJ Tuz Tom">i</font></td>
+			<td><font face="UKIJ Tuz Tom">и</font></td>
+			<td><font face="UKIJ Tuz Tom">i</font></td>
+		</tr>
+		<tr>
+			<td><font face="UKIJ Tuz Tom">32</font></td>
+			<td><font face="UKIJ Tuz Tom">ي</font></td>
+			<td><font face="UKIJ Tuz Tom">y</font></td>
+			<td><font face="UKIJ Tuz Tom">y</font></td>
+			<td><font face="UKIJ Tuz Tom">й</font></td>
+			<td><font face="UKIJ Tuz Tom">j</font></td>
+		</tr>
+	</table></div>[/align]</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=70" title="ئالدانغان يۈرةك(شئېر)"  target="_blank" class="tag_title_link">ئالدانغان يۈرةك(شئ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=69" title="جصدةلخورنصڭ مۈشۈك ئۆلتۈرۈشص"  target="_blank" class="tag_title_link">جصدةلخورنصڭ مۈشۈك ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=68" title="ئاي يۈزۈڭ"  target="_blank" class="tag_title_link">ئاي يۈزۈڭ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=67" title="ﺑﯩﺮ ﻳﯩﮕﯩﺘﻨﯩﯔ ﻛﻮﭼﯩﺴﻰ"  target="_blank" class="tag_title_link">ﺑﯩﺮ ﻳﯩﮕﯩﺘﻨﯩﯔ ﻛﻮﭼﯩﺴﻰ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=66" title="ﺋﯚﻟﯜﻣﮕﻪ ﻣﻪﮬﻜﯘﻡ ﺩﺍﺩﯨﻼﺭ"  target="_blank" class="tag_title_link">ﺋﯚﻟﯜﻣﮕﻪ ﻣﻪﮬﻜﯘﻡ ﺩﺍﺩﯨﻼﺭ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=65" title="ﺋﯩﭙﭙﻪﺕ ﺯﺍﺭ - ﺯﺍﺭ ﻳﯩﻐﻼﻳﺪﯗ"  target="_blank" class="tag_title_link">ﺋﯩﭙﭙﻪﺕ ﺯﺍﺭ - ﺯﺍﺭ ﻳﯩﻐﻼﻳﺪﯗ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=64" title="ﯞﺍﻗﯩﺘﻘﺎ ﺭﯨﺌﺎﻳﻪ ﻗﯩﻠﯩﯔ"  target="_blank" class="tag_title_link">ﯞﺍﻗﯩﺘﻘﺎ ﺭﯨﺌﺎﻳﻪ ﻗﯩﻠﯩﯔ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=63" title="ﭼﻮﻟﺘﺎ ﻳﻪﻛﯜﻧﻠﻪﺭ"  target="_blank" class="tag_title_link">ﭼﻮﻟﺘﺎ ﻳﻪﻛﯜﻧﻠﻪﺭ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=62" title="ﮬﺎﻳﺎﺕ ﮬﻪﻗﯩﻘﻪﺗﻠﯩﺮﻯ"  target="_blank" class="tag_title_link">ﮬﺎﻳﺎﺕ ﮬﻪﻗﯩﻘﻪﺗﻠﯩﺮﻯ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=61" title="ﻧﻪﺳﯩﮭﻪﺗﻠﻪﺭ"  target="_blank" class="tag_title_link">ﻧﻪﺳﯩﮭﻪﺗﻠﻪﺭ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=60" title="ﮬﻪﺳﺮﻩﺗﻠﯩﻚ ﺗﯩﻨﯩﻘﻼﺭ"  target="_blank" class="tag_title_link">ﮬﻪﺳﺮﻩﺗﻠﯩﻚ ﺗﯩﻨﯩﻘﻼﺭ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=59" title="ﺗﺎﺗﻠﯩﻖ ﺧﯩﻴﺎﻟﻼﺭ"  target="_blank" class="tag_title_link">ﺗﺎﺗﻠﯩﻖ ﺧﯩﻴﺎﻟﻼﺭ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=58" title="ﺋﺎﭼﭽﯩﻖ ﺳﻮﺋﺎﻟﻼﺭ"  target="_blank" class="tag_title_link">ﺋﺎﭼﭽﯩﻖ ﺳﻮﺋﺎﻟﻼﺭ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=10" title="ئۇيغۇر تىلى ۋە باشقا تىللارنىڭ سېلىشتۇرمىسى"  target="_blank" class="tag_title_link">ئۇيغۇر تىلى ۋە باشق...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=9" title="2008-يىللىق، ئەڭ يېڭى قىلىپلاشقان ئاتالغۇلار"  target="_blank" class="tag_title_link">2008-يىللىق، ئەڭ يېڭى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=8" title="بىلقۇتتىن سوۋغا ئۇيغۇر كارتون ئېلىپبە"  target="_blank" class="tag_title_link">بىلقۇتتىن سوۋغا ئۇ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=7" title="مۇھىم تېببىي ئاتالغۇ"  target="_blank" class="tag_title_link">مۇھىم تېببىي ئاتال...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=6" title="ياۋا غاز پىدائىيلىرى كىنوسىغا شېئىر توقۇپ بېرىڭ"  target="_blank" class="tag_title_link">ياۋا غاز پىدائىيلى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=5" title="بىلقۇتتىن سوۋغا ئۇيغۇر كارتون ئېلىپبە"  target="_blank" class="tag_title_link">بىلقۇتتىن سوۋغا ئۇ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=4" title="مۇھىم تېببىي ئاتالغۇ"  target="_blank" class="tag_title_link">مۇھىم تېببىي ئاتال...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/til_yeziq/search.php?catid=36&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=70" title="ئالدانغان يۈرةك(شئېر)"  target="_blank" class="tag_title_link">ئالدانغان يۈرةك(شئېر)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=69" title="جصدةلخورنصڭ مۈشۈك ئۆلتۈرۈشص"  target="_blank" class="tag_title_link">جصدةلخورنصڭ مۈشۈك ئۆلتۈ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=68" title="ئاي يۈزۈڭ"  target="_blank" class="tag_title_link">ئاي يۈزۈڭ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=67" title="ﺑﯩﺮ ﻳﯩﮕﯩﺘﻨﯩﯔ ﻛﻮﭼﯩﺴﻰ"  target="_blank" class="tag_title_link">ﺑﯩﺮ ﻳﯩﮕﯩﺘﻨﯩﯔ ﻛﻮﭼﯩﺴﻰ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=66" title="ﺋﯚﻟﯜﻣﮕﻪ ﻣﻪﮬﻜﯘﻡ ﺩﺍﺩﯨﻼﺭ"  target="_blank" class="tag_title_link">ﺋﯚﻟﯜﻣﮕﻪ ﻣﻪﮬﻜﯘﻡ ﺩﺍﺩﯨﻼﺭ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=65" title="ﺋﯩﭙﭙﻪﺕ ﺯﺍﺭ - ﺯﺍﺭ ﻳﯩﻐﻼﻳﺪﯗ"  target="_blank" class="tag_title_link">ﺋﯩﭙﭙﻪﺕ ﺯﺍﺭ - ﺯﺍﺭ ﻳﯩﻐﻼﻳﺪﯗ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=64" title="ﯞﺍﻗﯩﺘﻘﺎ ﺭﯨﺌﺎﻳﻪ ﻗﯩﻠﯩﯔ"  target="_blank" class="tag_title_link">ﯞﺍﻗﯩﺘﻘﺎ ﺭﯨﺌﺎﻳﻪ ﻗﯩﻠﯩﯔ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=63" title="ﭼﻮﻟﺘﺎ ﻳﻪﻛﯜﻧﻠﻪﺭ"  target="_blank" class="tag_title_link">ﭼﻮﻟﺘﺎ ﻳﻪﻛﯜﻧﻠﻪﺭ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=62" title="ﮬﺎﻳﺎﺕ ﮬﻪﻗﯩﻘﻪﺗﻠﯩﺮﻯ"  target="_blank" class="tag_title_link">ﮬﺎﻳﺎﺕ ﮬﻪﻗﯩﻘﻪﺗﻠﯩﺮﻯ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=61" title="ﻧﻪﺳﯩﮭﻪﺗﻠﻪﺭ"  target="_blank" class="tag_title_link">ﻧﻪﺳﯩﮭﻪﺗﻠﻪﺭ</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/til_yeziq/show_js.php?itemid=10"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

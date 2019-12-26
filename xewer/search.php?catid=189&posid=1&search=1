@@ -1,0 +1,1 @@
+﻿MySQL Query:select articleid,title,addtime,introduce,linkurl,typeid from phpcms_article_33 where status=3  and catid = 189  order by listorder DESC, articleid DESC limit 0,10 <br> MySQL Error:Table 'phpcms_article_33' is marked as crashed and should be repaired <br> MySQL Errno:1194 <br> Message:MySQL Query Error

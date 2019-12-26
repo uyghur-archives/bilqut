@@ -1,0 +1,339 @@
+﻿<br />
+<b>Warning</b>:  session_start() [<a href='function.session-start'>function.session-start</a>]: open(D:/ԭ���ļ�/Bilqut_web/data/sessions/\sess_ucn2nk00g6go1envgibqk8k885, O_RDWR) failed: Permission denied (13) in <b>D:\ԭ���ļ�\Bilqut_web\include\common.inc.php</b> on line <b>17</b><br />
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>شىنجاڭ گېزىتى-مائارپ-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,مائارپ">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/maarip/" class="red"> مائارپ</a>
+         | <a class="razimantur" href="/maarip/list.php?catid=133" >پايدىلىنىش ماتېرىيالى </a>
+
+ | <a class="razimantur" href="/maarip/list.php?catid=134" >خەلقئارا مائارىپ </a>
+
+ | <a class="razimantur" href="/maarip/list.php?catid=135" >كەسپىي مائارىپ </a>
+
+ | <a class="razimantur" href="/maarip/list.php?catid=136" > مائارىپ تارىخى  </a>
+
+ | <a class="razimantur" href="/maarip/list.php?catid=137" >مائارىپ تەشكىلاتلىرى </a>
+
+ | <a class="razimantur" href="/maarip/list.php?catid=138" >بالىلار باغچىلىرى </a>
+
+ | <a class="razimantur" href="/maarip/list.php?catid=139" >باشلانغۇچ مەكتەپلەر </a>
+
+ | <a class="razimantur" href="/maarip/list.php?catid=140" >ئوتتۇرا مەكتەپلەر </a>
+
+ | <a class="razimantur" href="/maarip/list.php?catid=141" >ئالىي مائارىپ </a>
+
+ | <a class="razimantur" href="/maarip/list.php?catid=142" > گېزىتلەر  </a>
+
+ | <a class="razimantur" href="/maarip/list.php?catid=143" > ژۇرناللار  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/maarip/">مائارپ</a> >> <a href="/maarip/list.php?catid=142"> گېزىتلەر  </a> >>  شىنجاڭ گېزىتى</div>
+<!--主标题--><h1>شىنجاڭ گېزىتى </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2008-01-19 12:03:28&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">433</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<img src="/raziman_img/bash/reng/reng_1.gif" id="img1" style="cursor:hand;"  onclick="conhat(1)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_2.gif" id="img2" style="cursor:hand;"  onclick="conhat(2)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_3.gif" id="img3" style="cursor:hand;"  onclick="conhat(3)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_4.gif" id="img4" style="cursor:hand;"  onclick="conhat(4)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_5.gif" id="img5" style="cursor:hand;"  onclick="conhat(5)">&nbsp;&nbsp;                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">
+&lt;شىنجاڭ گېزىتى&gt; - شىنجاڭ ئۇيغۇر ئاپتونوم رايونلۇق پارتكومنىڭ ئورگان گېزىتى، شىنجاڭدىكى ئۇيغۇر تىلىدا نەشر قىلىندىغان گېزىتلەر ئىچىدە تارىخى ئەڭ ئۇزاق، تەسىرى ئەڭ چوڭ، نوپۇزى ئەڭ يۇقىرى گېزىت. بۇ گېزىت 1934 - يىلى نەشرقىلىنغان، ھازىر ئۇيغۇرچىسى كۈندە ئالتە بەت نەشر قىلىندۇ. &lt;شىنجاڭ گېزىتى&gt; نىڭ ئەدەبىي ئەسەرلەرنى ئېلان قىلدىغان &lt;ئەدەبىيات گۈلزارى&gt; بېتى ۋە ئەدەبىياتشۇناسلىققا دائىر ماقالىلەرنى ئېلان قىلىدىغان &lt;گۈلشەن&gt; بېتىدىن ئىبارەت ئىككى ئەدەبىي بېتى بار. &lt;ئەدەبىيات گۈلزارى&gt; بېتى 1942 - يىلى لۇتپۇللا مۇتەللىپ تەرىپىدىن تەسىس قىلىنغان، شۇنىڭدىن ئېتىبارەن بۇ بەت ئۇيغۇر ئەدىبلىرىنىڭ ئاساسلىق ئەدەبىي ئىجادىيەت سورۇنى بولۇپ كېلىۋاتىدۇ. بۇ بەتنىڭ نامى مەدەنىيەت زور ئىنقىلابى مەزگىلىدىكى نامى ئەسلىگە كەلتۈرۈلگەن. بۇ بەت ھەپتىدە بىر سان چىقىرىلىدۇ. بۇ بەتكە ئاساسەن ئۇيغۇر ئەدىبلىرىنىڭ ئەسەرلىرى بېرىلىدۇ، بەزىدە خەلق ئېغىز ئەدەبىياتىغا دائىر قىسقا چۆچەك، قوشاق ۋە مەسەل، يۇمۇرلارمۇ بېرىلىدۇ. &lt;گۈلشەن&gt; بېتى 1981 - يىل 11 - ئايدىن تارتىپ چىقىرىلىشقا باشلىغان بولۇپ، بۇ بەت ئەدەبىياتشۇناسلىققا دائىر ماقالىلەرنى، جۈملىدىن ئەدەبىيات نەزەرىيسىگە، ئەدەبىي تەنقىدچىلىككە ئائىت ماقالىلەرنى ئېلان قىلىشنى ئاساس قىلىدۇ، بۇ بەتكە يەنە جۇڭگو ۋە چەت ئەل ئەدەبىياتىدىكى ۋەكىللىك خاراكتېرىگە ئىگە قىسقا ئەسەرلەردىن نەمۇنىلەر بېرىلىدۇ. &lt;گۈلشەن&gt; بېتى - ئۇيغۇر ئەدەبىياتىنىڭ ئاساسلىق نەزەرىيۋى مۇھاكىمە سورۇنى، شۇنداقلا ئۇچۇر مەنبەسىدىن بىرى ھېسابلىنىدۇ.</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=303" title="شىنجاڭ مائارىپ گېزىتى"  target="_blank" class="tag_title_link">شىنجاڭ مائارىپ گېز...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=302" title="شىنجاڭ سودا گېزىتى"  target="_blank" class="tag_title_link">شىنجاڭ سودا گېزىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=301" title="قەشقەر گېزىتى"  target="_blank" class="tag_title_link">قەشقەر گېزىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=300" title="ئىلى گېزىتى"  target="_blank" class="tag_title_link">ئىلى گېزىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=299" title="ئىلى كەچلىك گېزىتى"  target="_blank" class="tag_title_link">ئىلى كەچلىك گېزىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=298" title="ئىشچىلار ۋاقىت گېزىتى"  target="_blank" class="tag_title_link">ئىشچىلار ۋاقىت گېز...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=297" title="ئۈرۈمچى كەچلىك گېزىتى"  target="_blank" class="tag_title_link">ئۈرۈمچى كەچلىك گېز...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=296" title="شىنجاڭ ئىقتىساد گېزىتى"  target="_blank" class="tag_title_link">شىنجاڭ ئىقتىساد گې...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=295" title="شىنجاڭ ئۆسمۈرلىرى"  target="_blank" class="tag_title_link">شىنجاڭ ئۆسمۈرلىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=294" title="شىنجاڭ گېزىتى"  target="_blank" class="tag_title_link">شىنجاڭ گېزىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=293" title="خوتەن گېزىتى"  target="_blank" class="tag_title_link">خوتەن گېزىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=292" title="ئاقسۇ گېزىتى"  target="_blank" class="tag_title_link">ئاقسۇ گېزىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=291" title="ئاسىيا كىندىكى"  target="_blank" class="tag_title_link">ئاسىيا كىندىكى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=290" title="شىنجاڭ مائارىپ گېزىتى"  target="_blank" class="tag_title_link">شىنجاڭ مائارىپ گېز...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=289" title="شىنجاڭ سودا گېزىتى"  target="_blank" class="tag_title_link">شىنجاڭ سودا گېزىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=288" title="قەشقەر گېزىتى"  target="_blank" class="tag_title_link">قەشقەر گېزىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=287" title="ئىلى گېزىتى"  target="_blank" class="tag_title_link">ئىلى گېزىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=286" title="ئىلى كەچلىك گېزىتى"  target="_blank" class="tag_title_link">ئىلى كەچلىك گېزىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=285" title="ئىشچىلار ۋاقىت گېزىتى"  target="_blank" class="tag_title_link">ئىشچىلار ۋاقىت گېز...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=284" title="ئۈرۈمچى كەچلىك گېزىتى"  target="_blank" class="tag_title_link">ئۈرۈمچى كەچلىك گېز...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/maarip/search.php?catid=142&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=303" title="شىنجاڭ مائارىپ گېزىتى"  target="_blank" class="tag_title_link">شىنجاڭ مائارىپ گېزىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=302" title="شىنجاڭ سودا گېزىتى"  target="_blank" class="tag_title_link">شىنجاڭ سودا گېزىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=301" title="قەشقەر گېزىتى"  target="_blank" class="tag_title_link">قەشقەر گېزىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=300" title="ئىلى گېزىتى"  target="_blank" class="tag_title_link">ئىلى گېزىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=299" title="ئىلى كەچلىك گېزىتى"  target="_blank" class="tag_title_link">ئىلى كەچلىك گېزىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=298" title="ئىشچىلار ۋاقىت گېزىتى"  target="_blank" class="tag_title_link">ئىشچىلار ۋاقىت گېزىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=297" title="ئۈرۈمچى كەچلىك گېزىتى"  target="_blank" class="tag_title_link">ئۈرۈمچى كەچلىك گېزىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=296" title="شىنجاڭ ئىقتىساد گېزىتى"  target="_blank" class="tag_title_link">شىنجاڭ ئىقتىساد گېزىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=295" title="شىنجاڭ ئۆسمۈرلىرى"  target="_blank" class="tag_title_link">شىنجاڭ ئۆسمۈرلىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/maarip/show.php?itemid=294" title="شىنجاڭ گېزىتى"  target="_blank" class="tag_title_link">شىنجاڭ گېزىتى</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/maarip/show_js.php?itemid=294"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html><br />
+<b>Warning</b>:  Unknown: open(D:/ԭ���ļ�/Bilqut_web/data/sessions/\sess_ucn2nk00g6go1envgibqk8k885, O_RDWR) failed: Permission denied (13) in <b>Unknown</b> on line <b>0</b><br />
+<br />
+<b>Warning</b>:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (D:/ԭ���ļ�/Bilqut_web/data/sessions/) in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: open(D:/ԭ���ļ�/Bilqut_web/data/sessions/\sess_ucn2nk00g6go1envgibqk8k885, O_RDWR) failed: Permission denied (13) in D:\ԭ���ļ�\Bilqut_web\include\common.inc.php on line 17
+PHP Warning:  Unknown: open(D:/ԭ���ļ�/Bilqut_web/data/sessions/\sess_ucn2nk00g6go1envgibqk8k885, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (D:/ԭ���ļ�/Bilqut_web/data/sessions/) in Unknown on line 0

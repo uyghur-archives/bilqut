@@ -1,0 +1,362 @@
+﻿
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title> دۇنيادا ئەڭ  -كۇتۇپخانا--Bilqut Uyghur web</title>
+<meta name="keywords" content=",">
+<meta name="description" content="-">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/kutupxana/" class="red"> كۇتۇپخانا</a>
+         | <a class="razimantur" href="/kutupxana/list.php?catid=43" >ھېكايىلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=44" > شېئىر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=45" > كەلىلە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=46" > نەسىرلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=47" > يۇمۇرلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=48" > ھىكمەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=49" > نەسىھەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=50" > ماقالىلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=51" > ياشلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=52" > تۇرمۇش </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=53" > نۇتۇقلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=54" >مەكتۇب  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=55" >غارايىبات</a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=56" > دۇنيادا ئەڭ  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=57" >قان تىپى </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=58" > مۆچەل  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=59" > مىللەتلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=60" > بۈگۈن  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=61" >مۇزېي </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=62" >تارىخ </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=63" >شەھەرلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=64" >دۆلەتلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=65" >كۇتۇبخانىلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=66" >مايلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=67" >مېۋە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=68" >كۆكتاتلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=69" >ئۆسۈملۈكلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=70" > ھايۋاناتلار  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<!--主体标签-->
+<table width="950" cellpadding="0"  cellspacing="0">
+  <tr>
+    <td width="750" valign="top">
+<!--位置导航-->
+    <div class="position">ئورنىڭىز : <a href="/kutupxana/">كۇتۇپخانا</a> >> <a href="/kutupxana/list.php?catid=56"> دۇنيادا ئەڭ  </a> >> </div>
+     <div class="cat_box_1">
+ <div class="cat_title">
+     <div class="cat_name"> دۇنيادا ئەڭ  </div>
+ <div class="cat_url"><a href="" class="more"></a></div>
+     </div>
+<!--最新图片文章--><table width="100%"  cellpadding="2" cellspacing="0">
+
+
+</table>
+
+<table cellpadding="0" cellspacing="0" class="tag_box_1">
+
+<tr>      <td height="24">
+◇  <a href="/kutupxana/show.php?itemid=2493" title="دۇنيا بويىچە سالدا ئەڭ ئۇزۇن ۋاقىت ساياھەت قىلغان ئادەم" 0 class="tag_title_link">دۇنيا بويىچە سالدا ئەڭ ئۇزۇن ۋاقىت ساياھەت قىلغان ئادەم</a>   
+    
+ <td><span>2008-12-28</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/kutupxana/show.php?itemid=2492" title="دۇنيا بويىچە ئەڭ مەبلىغى ئەڭ كۆپ كارخانا" 0 class="tag_title_link">دۇنيا بويىچە ئەڭ مەبلىغى ئەڭ كۆپ كارخانا</a>   
+    
+ <td><span>2008-12-28</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/kutupxana/show.php?itemid=2491" title="تۇنجى سېيسموگراف" 0 class="tag_title_link">تۇنجى سېيسموگراف</a>   
+    
+ <td><span>2008-12-20</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/kutupxana/show.php?itemid=2490" title="ئەڭ ئىپتىدائىي ھاشارەتلەر" 0 class="tag_title_link">ئەڭ ئىپتىدائىي ھاشارەتلەر</a>   
+    
+ <td><span>2008-12-14</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/kutupxana/show.php?itemid=2489" title="ئەڭ ئۇزۇن قۇش قانىتى" 0 class="tag_title_link">ئەڭ ئۇزۇن قۇش قانىتى</a>   
+    
+ <td><span>2008-12-12</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/kutupxana/show.php?itemid=2488" title="ئەڭ دەسلەپكى كەڭ يەلكەنلىك ئەگمە كۆۋرۈك" 0 class="tag_title_link">ئەڭ دەسلەپكى كەڭ يەلكەنلىك ئەگمە كۆۋرۈك</a>   
+    
+ <td><span>2008-11-24</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/kutupxana/show.php?itemid=2487" title="ئەڭ چوڭ مېتورېت" 0 class="tag_title_link">ئەڭ چوڭ مېتورېت</a>   
+    
+ <td><span>2008-11-18</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/kutupxana/show.php?itemid=2486" title="ئەڭ زور مەخسۇس ماتېماتىكا ئەسىرى" 0 class="tag_title_link">ئەڭ زور مەخسۇس ماتېماتىكا ئەسىرى</a>   
+    
+ <td><span>2008-11-16</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/kutupxana/show.php?itemid=2485" title="قۇشلارنىڭ ئەڭ تېز ۋە ئەڭ ئاستا قانات قېقىشى" 0 class="tag_title_link">قۇشلارنىڭ ئەڭ تېز ۋە ئەڭ ئاستا قانات قېقىشى</a>   
+    
+ <td><span>2008-11-15</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/kutupxana/show.php?itemid=2484" title="يەر&nbsp; شارىنىڭ چوڭ كىچىكلىكىنى تۇنجى قېتىم ئۆلچىگەن ئادەم" 0 class="tag_title_link">يەر&nbsp; شارىنىڭ چوڭ كىچىكلىكىنى تۇنجى قېتىم ئۆلچىگەن ئادەم</a>   
+    
+ <td><span>2008-11-12</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/kutupxana/show.php?itemid=2483" title="ئەڭ چوڭقۇر دېڭىز چۆكمىسى" 0 class="tag_title_link">ئەڭ چوڭقۇر دېڭىز چۆكمىسى</a>   
+    
+ <td><span>2008-11-10</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/kutupxana/show.php?itemid=2482" title="ئەڭ قەدىمقى پىۋا زاۋۇتى" 0 class="tag_title_link">ئەڭ قەدىمقى پىۋا زاۋۇتى</a>   
+    
+ <td><span>2008-11-05</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/kutupxana/show.php?itemid=2481" title="ئەڭ تۆۋەن ئويمانلىق" 0 class="tag_title_link">ئەڭ تۆۋەن ئويمانلىق</a>   
+    
+ <td><span>2008-11-01</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/kutupxana/show.php?itemid=2480" title="ئەڭ قىممەتلىك باش كىيىم" 0 class="tag_title_link">ئەڭ قىممەتلىك باش كىيىم</a>   
+    
+ <td><span>2008-10-31</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/kutupxana/show.php?itemid=2479" title="بوينى ئەڭ ئۇزۇق ئادەملەر" 0 class="tag_title_link">بوينى ئەڭ ئۇزۇق ئادەملەر</a>   
+    
+ <td><span>2008-10-27</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/kutupxana/show.php?itemid=2478" title="گۈلدۈرمامىلىق يامغۇر ئەڭ كۆپ ياغىدىغان جاي" 0 class="tag_title_link">گۈلدۈرمامىلىق يامغۇر ئەڭ كۆپ ياغىدىغان جاي</a>   
+    
+ <td><span>2008-10-26</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/kutupxana/show.php?itemid=2477" title="مىللىي ئىشلەپچىقىرىشنىڭ ئەڭ يۇقىرى ئومۇمىي قىممىتى" 0 class="tag_title_link">مىللىي ئىشلەپچىقىرىشنىڭ ئەڭ يۇقىرى ئومۇمىي قىممىتى</a>   
+    
+ <td><span>2008-10-24</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/kutupxana/show.php?itemid=2476" title="چېكەتكىلەرنىڭ ئەڭ زور توپى" 0 class="tag_title_link">چېكەتكىلەرنىڭ ئەڭ زور توپى</a>   
+    
+ <td><span>2008-10-21</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/kutupxana/show.php?itemid=2475" title="يۇلتۇزلار ئارا بوشلۇقتىكى ئەڭ ئېغىر ئورگانىك مالىكۇلا" 0 class="tag_title_link">يۇلتۇزلار ئارا بوشلۇقتىكى ئەڭ ئېغىر ئورگانىك مالىكۇلا</a>   
+    
+ <td><span>2008-10-20</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/kutupxana/show.php?itemid=2474" title="يالغۇز ئۇچۇپ يەرشارىنى تۇنجى قېتىم ئايلىنىپ چىققان ئادەم" 0 class="tag_title_link">يالغۇز ئۇچۇپ يەرشارىنى تۇنجى قېتىم ئايلىنىپ چىققان ئادەم</a>   
+    
+ <td><span>2008-10-18</span> </td>
+  </tr>
+
+</table>
+
+<div class="pages">جەمئى: <b>153</b>&nbsp;&nbsp;&nbsp;&nbsp;باش بەت
+&nbsp;ئالدىنقى بەت
+&nbsp;<a href='/kutupxana/list.php?catid=56&page=2'>كىينكى بەت
+</a>&nbsp;<a href='/kutupxana/list.php?catid=56&page=8'>ئاخىرقى بەت</a>&nbsp;بە ت: <b><font color=red>1</font>/8</b>&nbsp;&nbsp;<input type='text' name='page' id='page' class='page' size='3' onKeyDown='if(event.keyCode==13) {window.location="/kutupxana/list.php?catid=56&page="+$("page").value+""; return false;}'> <input type='button' value='GO' class='gotopage' style='width:30px' onclick='window.location="/kutupxana/list.php?catid=56&page="+$("page").value+""'>
+</div>
+     </div>	
+<!--搜索框--></td>
+    <td width="10"></td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>تەۋسىيە ئەسەر </h1><h2><a href="/kutupxana/search.php?catid=56&elite=1&search=1" class="more">يەنە بار </a></h2></div>
+<!--推荐文章js调用-->
+<table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2493" title="دۇنيا بويىچە سالدا ئەڭ ئۇزۇن ۋاقىت ساياھەت قىلغان ئادەم"  target="_blank" class="tag_title_link">دۇنيا بويىچە سالدا ئەڭ ئ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2492" title="دۇنيا بويىچە ئەڭ مەبلىغى ئەڭ كۆپ كارخانا"  target="_blank" class="tag_title_link">دۇنيا بويىچە ئەڭ مەبلىغ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2491" title="تۇنجى سېيسموگراف"  target="_blank" class="tag_title_link">تۇنجى سېيسموگراف</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2490" title="ئەڭ ئىپتىدائىي ھاشارەتلەر"  target="_blank" class="tag_title_link">ئەڭ ئىپتىدائىي ھاشارەتل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2489" title="ئەڭ ئۇزۇن قۇش قانىتى"  target="_blank" class="tag_title_link">ئەڭ ئۇزۇن قۇش قانىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2488" title="ئەڭ دەسلەپكى كەڭ يەلكەنلىك ئەگمە كۆۋرۈك"  target="_blank" class="tag_title_link">ئەڭ دەسلەپكى كەڭ يەلكەن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2487" title="ئەڭ چوڭ مېتورېت"  target="_blank" class="tag_title_link">ئەڭ چوڭ مېتورېت</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2486" title="ئەڭ زور مەخسۇس ماتېماتىكا ئەسىرى"  target="_blank" class="tag_title_link">ئەڭ زور مەخسۇس ماتېماتى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2485" title="قۇشلارنىڭ ئەڭ تېز ۋە ئەڭ ئاستا قانات قېقىشى"  target="_blank" class="tag_title_link">قۇشلارنىڭ ئەڭ تېز ۋە ئەڭ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2484" title="يەر&nbsp; شارىنىڭ چوڭ كىچىكلىكىنى تۇنجى قېتىم ئۆلچىگەن ئادەم"  target="_blank" class="tag_title_link">يەر  شارىنىڭ چوڭ كىچىكلى...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>ئاۋات ئەسەر </h1><h2><a href="/kutupxana/search.php?catid=56&ordertype=3&search=1" class="more">يەنە بار </a></h2></div>
+<table cellpadding="0" cellspacing="0" class="tag_box">
+
+
+</table>
+</td>
+  </tr>
+</table>
+
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

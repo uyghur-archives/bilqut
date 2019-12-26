@@ -1,0 +1,1651 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>كومپىيوتېر   لۇغىتى 电脑  词汇-تىل - يېزىق-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,تىل - يېزىق">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/til_yeziq/" class="red"> تىل - يېزىق</a>
+         | <a class="razimantur" href="/til_yeziq/list.php?catid=36" >ئۇيغۇر تىلى</a>
+
+ | <a class="razimantur" href="/til_yeziq/list.php?catid=37" >خەنزۇ تىلى</a>
+
+ | <a class="razimantur" href="/til_yeziq/list.php?catid=38" >ئىنگلىز تىلى </a>
+
+ | <a class="razimantur" href="/til_yeziq/list.php?catid=39" >روس تىلى</a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/til_yeziq/">تىل - يېزىق</a> >> <a href="/til_yeziq/list.php?catid=37">خەنزۇ تىلى</a> >>  كومپىيوتېر   لۇغىتى 电脑  词汇</div>
+<!--主标题--><h1>كومپىيوتېر   لۇغىتى 电脑  词汇 </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-02-15 02:02:09&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">1900</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">                  
+W i n d o w s    98        
+مېنىڭ  كومپيوتېرىم    wo  de  dian  nao    我的电脑
+يۇمشاق دېسكا    ruan pan    软盘
+قاتتىق دېسكا     ying pan    硬盘
+نۇر دېسكا    guang pan    光盘
+يۇمشاق دېسكا قوزغاتقۇچ    ruan pan qu dong qi    软盘驱动器
+قاتتىق دېسكا قوزغاتقۇچ    ying pan qu dong qi    硬盘驱动器
+نۇردېسكا قوزغاتقۇچ    guang  qu    光驱
+كونتوروللاش تاختىسى    kong zhi ban mian    控制版面
+تورغانۇمۇربۇراش     bo hao wang lu    拨号网络
+پىلان ۋةزىپسى قۇشۇش     tian jiaji hua ren wu    添加计划任务
+مېنىڭ ئارخىىپىم    wo de wen dang    我的文档
+مېنىڭ ھۆججةت سومكام    wo de gong wen bao    我的公文包
+ئةخلةت ساندۇقى    hui shou zhan    回收站
+توردىكى  قوشنام     wang shang lin ju    网上邻居
+، Internetنى قوزغىتىش    qi dong Internet    启动 Internet
+باشلاش     kai shi    开始
+،Officeھۆججتىنى ئېچىش     da kai Office wen dang    打开Office 文档
+،Officeھۆججتىنى يېڭىدىن قۇرۇش      xin jianOffice wen dang    新建 Office 文档
+يېڭى ھۆججةت قىسقۇچ    xin wen jian jia    新文件夹
+پروگرامما، سېستما     cheng xu    程序
+قوشۇمچة ماتىريال    fu jian    附件
+    ،Internetقورالى      Internet gong ju    Internet  工具   
+،Internet ئۇلاش يىتةكچىسى    Internet lian jie xiang dao      Internet 连接向导 
+مىكروسوفىت چايخانىسى    Microsoft chat    Microsoft chat
+،Webتارقىتىش يىتةكچىسى    Web  fa bu xiang dao    Web发布向导
+قوشۇمچة ياردةم قورالى    fu zhu gong ju    辅助工具
+چۇڭايتىش پىرۇگرامسى     fang da cheng xu    放大程序
+قوشۇمچة ياردةم قورالى يىتةكچىسى    fu zhu gong ju xiang dao    辅助工具向导
+ئالاقة    tong xun    通讯
+،ISDNقوراشتۇرۇش يىتةكچىسى    ISDNpei zhi xiang dao     ISDN 配置向导
+تورغا نۇمۇر بۇراش     bo hao wang lu    拨号网络
+ئالاھىدة ئېغىز    chao ji zhong duan    超级终端
+تېلفۇنغا نۇمۇر بۇراش سېستمىسى     dian hua bo hao cheng xu    电话拨号程序
+توك ئېقىمى بويىچة بىۋاستة ئۇلاش    zhi an dian lan lian jie    治安电缆连接
+سېستما قۇرالى     xi tong gong ju    系统工具
+زاپاس     bei fen    备份
+دېسكا بوشلوقىنى باشقۇرۇش     ci pan kong jian guan li    磁盘空间管理
+ماگنىت دىسكسنى تازلاش پرۇگرامىسى     ci pan qing li cheng xu    磁盘清理程序
+ماگنىت دېسكىنى تةكشۈرۈش    ci pan sao miao cheng xu    磁盘扫描程序
+ماگنىت دېسكىنى پارچىلاپ رةتلةش پىروگىراممىسى    ci pan sui pian zheng li cheng xu    磁盘碎片整理程序
+،Windowsقا كىرشىڭىزنى قارشى ئالىمىز    huan ying guang lin Windows    欢迎光临Windows
+پىلان ۋةزىپىسى    ji hua ren wu    计划任务
+كېسش تاختسىنى كۇرۇش پۇرۇگرامىسى     jian tie ban cha kan cheng xu    剪贴板查看程序
+قۇزغاتقۇچنى ئالماشتۇرغۇچ     qi dong qi zhuan huan qi    启动器转换器
+تور تةكشۇرۈش ئةسۋابى    wang luo jian shi qi    网络监视器
+قوغداش يىتةكچىسى    wei hu xiang dao     维护向导
+سېستىما تةكشۈرۈش ئةسۋابى    xi tong jian shi qi    系统监视器
+سېستما ئۇچۇرى     xi tong xin xi    系统信息
+ۋاكالتةن تارايتىش    ya suo dai  li    压缩代理
+مةنبة ئةھۋالى    zi yuan zhuang kuang    资源状况
+ھةرىپ بةلگىلةرنى كۆرسىتىش جةدىۋىلى    zi fu ying she biao    字符映射表
+ئۇيۇن     you xi    游戏
+قىزىل يۈرةك جېڭى    hong xin da zhan    红心大战
+مېنا تازلاش     sao lei    扫雷
+بوشلۇقتا ئةجدىرھا ياساش    kong dang jie long    空当接龙
+قارت     zhi pai    纸牌
+كۇڭۇل ئېچش     yu le    娱乐
+،CDقويغۇچ    CD bo fang qi     CD 拨放器
+موزىكا قويغۇچ    Meda  PIayer    Meda  PIayer
+ئۇنئالغۇ     lu yin ji     录音机
+ئاۋاز كۇنتىرۇللىغۇچ     yin liang kong zhi qi    音量控制
+رةسىم سىزغۇچ    hua tu    画图
+ھساپلىغۇچ     ji suan qi    计算器
+كىر گۇزۇش ئۇسۇلىنى ياسغۇچ     shu ru fa sheng cheng qi    输入法生成器
+خةت يېزىش تاختىسى    xie zi ban    写字板
+خاترلگۇچ     ji shi ben    记事本
+ئةكس ئىتىش    ying xiang    映象
+خةت ياساش پىروگىراممىسى    zao zi  cheng xu    造字程序
+ئالاقة خاتىرىسى    tong xun bo    通讯薄
+،Photoshop5.0CSنى ئالدىن ئوقۇش    Photoshop5.0CS qing xian yue du    Photoshop5.0CS 请先阅读
+،Photoshop5.CSنى تىزىمغا ئالدۇرۇش    zhu ce Photoshop5.CS    注册Photoshop5.CS
+،Mcrosoft Officeقورالى    Microsoft Office   gong ju    Mikrosoft Office工具
+،Microsoft Officeتىزلةتمة قورال سىتونى    kui jie gong ju  lan    快捷工具栏
+،Microsoft Officeتىل لاھىيىسى    MicrosoffOffice yu yan she zhi    MicrosoftOffice语言设置
+،Windows مةنبة باشقۇرغۇچ    Windows  zi yuan guan li qi     Windows 资源管理器
+،ACDSee32سۈرةت كۈرۈش سېستىمىسى    ACDSee32system    ACDSee32system
+كولتىگىن يىپةك يولى2000    que te qin si lu 2000    阙特勤丝路2000
+ياردةم سېستىمىسى    bang zhu xi tong    帮助系统
+ئالتۇن تاغ خةت ئۇرۇش دةرسلىكى    jin shan da  zi jiao cheng    金山打字教程
+ئۇزنى تۇنۇشتۇرۇش ھۆججىتى     zi xu wen jian    自述文件
+نةشىر چۈشةندۈرۈلۈشى    ban ben  shuo ming    版本说明
+ھۆججةت ،پۈتۈن ھۆججةت    chan pin wen dang    产品文档
+شةخسى webباشقۇرغۇچ    ge ren Web guan li qi    个人Web管理器
+يۇشۇرۇش قسقۇچى     shou cang  jia    收藏夹
+ئۇلاش     lian jie    连接
+،Internetباشلاش بېتى     Internet  qi shi ye     Internet 起始页
+ھةقسىز HotMail    Windows mian fei de HotMail    Windows免费的HotMail
+قانال كۇرسةتمىسى     pin dao zhi nan     频道指南
+ئۈزى بةلگىلةپ ئۇلاش    zi ding yi lian jie    自定义链接
+ئةڭ ياخشى Webبېتى    zui jia Web ye    最佳 Web    页
+ۋاستلىق     mo ti    嫫体
+قانال     pin dao    频道
+،webئىشلىرى    Web  shi jian     Web事件
+تېلىۋىزىية كۆرسةتمىسى    dian tai zhi nan    电台指南
+مېنىڭ ئارخپىم     My Documents    My Documents
+ئارخىپ     wen dang    文档
+لاھىلةش    she zhi    设置
+كۇنتىرۇللاش تاختسى     kong zhi mian ban    控制面板
+پىرنتىر     da yin ji    打印机
+ۋةزىپة سىتونى ۋة باشلاش تىزىملىكى    ren wu lan he kai shi cai dian    任务栏河开始菜单
+ھۆججةت قىسقۇچنى تاللاش    wen jian jia xuan xiang    文件夹选项
+ھةركةتچان ئۈستةل    huo dong zhuo mian    活动桌面
+،webبېتى بويىچة تةكشۈرۈش    an  Web ye cha kan       按 Web  页查看
+ئۈستةل يۈزىنى ئۆزى بةلگىلةش    zi ding  yi  zhuo mian    自定义桌面
+دةرھال يېڭىلاش    li ji geng  xin    立即更新
+كۇرۇش     cha kan    查看
+ھۆججةت ۋة ھۆججةت قىسقۇچ    wen jian huo wen jian jia    文件或文件夹
+كۇمپيۇتېر     ji suan ji    计算机
+،Internetئۈستىدة    zai Internet  shang    在Internet上
+ئىشلةتكۈچى     yong hu    用户
+ياردةم    bang  zhu    帮助
+ئىجرا قلىش     yun xing    运行
+قۇلۇپلاش ، ھسابات ئېچش     zhu xiao    注销
+سېستمىنى ئىتىش     guan bi  xi tong    关闭系统
+رةسىم سىزغۇچ    hua tu    画图
+ھۆججةت    wen jian    文件
+يېڭى ھۆججةت    xin jian    新建
+ئېچش     da kai     打开
+ساقلاش     bao cun    保存
+باشقىچة ساقلاش    ling cun wei    另存为
+بېسىپ چقىرشنى ئالددن كۇرۇش     da yin yu lian    打印预览
+بةت لاھىلةش    ye mian she zhi    页面设置
+بېسىپ چقرشنى يۇللاش     da yin fa song    打印发送
+چكنىش     tui chu    退出
+تةھرىرلةش    bian ji    编辑
+ئةمةلدىن قالدۇرۇش     sa xiao    撒消
+تةكرارلاش    chong fu    重复
+كېسش     jian qie    剪切
+كۇچۇرۇش     fu zhi    复制
+چاپلاش     zhan tie    粘贴
+تاللانغا ن دائىرىنى ئۆچۇرۇش     qing chu xuan ding qu yu    清除选定区域
+ھةممىسىنى تاللاش    quan xuan    全选
+كۇچۇرۇش     fu zhi dao    复制到
+كۇرۇش     cha kan    查看
+قو رال ساندۇقى     gong ju xiang    工具箱
+رةڭ قۇتىسى    yan liao he    颜料盒
+ھىسابات سىتونى    zhuang tai lan    状态兰
+يېزىق قۇرال سىتۇنى      wen zi gong ju lan    文字工具栏
+تارايتىش     suo fang    缩放
+ئادةتتىكى سىزغۇچ     chang gui qi cun    常规尺寸
+چوڭ سزغۇچ      da qi cun    大尺寸
+ئۇزى بېكتېش     zi ding yi    自定义
+تور كاتةكچىسىنى كۆرسىتىش    xian shi wang ge    显示网格
+كچكلتىپ كۇرستش     xian  shi suo lue tu    显示缩略图
+پۈتۈن سۈرةت    quan tu    全图
+سۈرةت    tu xiang    图象
+ئوڭ/ قارشى يۆلۈنىشتة ئايلاندۇرۇش    fan zhuan /xuan zhuan    反转/ 旋转
+ئۇزارتىش/ ئةگىرى    la shen/niu qu    拉伸/ 扭曲
+قارمۇ -قارشى رةڭ    fan se    反色
+خاسلىق     shu xing    属性
+سۈرةتنى ئۆچۈرۋېتىش    qing chu tu xiang    清除图象
+ئېنىقسىز بىر تةرةپ قىلىش    bu tou ming chu li    不透明处理
+رەڭ      yan se    颜色
+رةڭ تةھرىرلةش     bian ji yan se     编辑颜色
+ياردةم    bang zhu    帮助
+باش تېمىغا ياردةم    bang zhu zhu ti    帮助主体
+رةسىمگة ئاساسةن    guan yu hua tu    关于画图
+يازغۇچ     xie zi ban    写字板
+بېسىپ چقرىش     da yin     打印
+بېسىپ چقرىشنى ئالدىن كوروش     da yin yu lan    打印预览
+بةت لاھىلةش    ye mian she zhi    页面设置
+يوللاش     fa song    发送
+چكىنىش     tui chu    退出
+تةھرىرلةش    bian ji    编辑
+ئةمةلدىن قالدۇرۇش    sa xiao    撒消
+كېسش     jian qie    剪切
+كۈچۈرۈش     fu zhi    复制
+چاپلاش     zhan tie    粘贴
+تاللاپ چاپلاش     xuan ze xing zhan tie    选择性粘贴
+ئۇچۇيۇش     qing qu    清除
+ھةممىسىنى تاللاش    quan xuan    全选
+ئىزدةش    cha zhao    查找
+كېيىنكىسىنى ئىزدةش    cha zhao xia yi ge    查找下一个
+ئالماشتۇرۇش     ti huan    替换
+ئۇلاش     lian jie    链接
+ئۇبكىت خاسلقى     dui xiang shu xing    对象属性
+ئۇبكىت     dui xiang    对象
+ئزدەش     cha zhao    查找
+قۇرال ستۇنى     gong ju lan    工具栏
+فورمات ستونى     ge shi lan    格式兰
+سزغۈچ     biao chi    标尺
+ھالةت سىتونى    zhuang tai lan    状态栏
+تاللاش      xuan xiang     选项
+قستۇرۇش     cha ru    插入
+چىسلا ۋة ۋاقىت    ri qi he  shi jian    日期和时间
+ئۇبكىت     dui xiang    对象
+فۇرمات     ge shi lan    格式
+خةت    zi     ti    字体
+ھةرىپ بةلگة تۈرى    xiang mu fu hao lei xing    项目符号类型
+ئابزاس     duan luo    段落
+جةدىۋةل سىزىش بةلگىسى    zhi biao fu    制表符
+ياردةم     bang zhu    帮助
+باش تېمىغا ياردةم    bang zhu zhu ti    帮助主题
+يېزىش تاختىسىغا مۇناسىۋةتلىك    guan yu xie zi ban    关于写字板
+خاتىرلگۇچ     ji shi ben    记事本
+ئۇچۇرۇش     shan chu    删除
+ھةممىسىنى تاللاش    quan xuan    全选
+ۋاقىت /چسلا     shi jian/  ri qi    时间/ 日期
+ئاپتۇماتىك قۇر ئالماشتۇرۇش     zi dong huan hang    自动换行
+خةت لاھىلةش    she zhi zi ti    设置字体
+ئىزدةش    sou suo    搜索
+ئىزدةش    cha zhao    查找
+كېيىنكىسىنى ئىزدةش    cha zhao  xia yi ge    查找下一个
+باش تېمىغا ياردةم    bang zhu zhu ti    帮助主体
+خاتىرلىگۈچكة مۇناسىۋةتلىك    guan yu ji shi ben    关于记事本
+قىياپةت    ying xiang    映象
+يېڭى سۈرةت ئىزدةش    sao miao xin tu    扫描新图
+سېكانېرنى تاللاش     xuan ze sao miao yi    选择扫描仪
+خاسلىق     shu xing    属性
+بېسىپ چىقرىش     da yin    打印
+رةڭ باشقۇرۇش    yan se guan li    颜色管理
+يۇللاش     fa song    发送
+يېقىندا ئىشلىتىلگةن ھۆججةت    zui jin shi yong de wen jian    最近使用的文件
+چىكنىش     tui chu    退出
+تةھرىرلةش    bian ji    编辑
+ئةمةلدىن قالدۇرۇش    sa xiao    撒消
+تةكرارلاش     chong fu    重复
+كېسىش     jian qie    剪切
+كۇچۇرۈش     fu zhi    复制
+بةت كۆچۈرۈش    fu zhi ye mian    复制页面
+چاپلاش     jian tie     站贴
+ئۈچۈرۈش     qing chu    清除
+بةت ئۆچۈرۈش    shan chu ye mian    删除页面
+سۆرةش    tuo dong    拖动
+سۈرةت تاللاش    xuan ze tu xiang    选择图象
+ئزاھات تاللاش     xuan ze pi zhu    选择批注
+كۇرۇش     cha kan    查看
+كۈل رةڭلىك دةرجىسى    hui du    灰度
+يةككة بةت     dan ye    单页
+سۈرةت كىچىكلىتىش    suo  lue tu    缩略图
+بةت يۈزى ۋة سۈرةت كىچىكلىتىسش    ye  mian ji suo lue tu    页面及缩略图
+پۈتۈن ئېكران    quan ping mu    全屏幕
+قۇرال ستۇنى     gong ju lan    工具栏
+بةت    ye  mian    页面
+ئالدىنقى بةت     shang yi  ye    上一页
+كېيىنكى  بةت     xia yi ye    下一页
+ باش بةت    shou  ye    首页
+ ئةڭ ئاخىرقى بةت       zui hou  yi  ye    最后一页
+ئايلاندۇرۇش     zhuan dao    转到
+ئالدىنقى بةتكة     fan hui  shang yi  ye    返回上一页
+بةت يۈزىنى بېسىپ چىقىرىش    da yin  ye  mian    打印页面
+بةت يۈزىنى ئايلاندۇرۇش    xuan zhuan ye mian    旋转页面
+بارلىق بةت يۈزىنى ئايلاندۇرۇش    xuan zhuan suo  you ye mian    旋转所有页面
+قستۇرۇش     cha  ru     插入
+قوشۇمچة قوشۇش    fu jia    附加
+قايتا تازلاش     chong xin  sao miao    重新扫描
+خاسلىق     shu xing    属性
+تارايتىش     suo fang    缩放
+چۇڭايتىش     fang da    放大
+كچكلتىش     suo   xiao    缩小
+تاللانغان دائىرنى تارايتىش     suo fang xuan ding de fan wei    缩放选定的范围
+ماسلاشقان ئىگزلىك     pi pei gao du    匹配高度
+ماسلاشقان كةڭلىك    pi  pei  kuan  du    匹配宽度
+ئةڭ ياخشى ماسلاشتۇرۇش    zui jia pi pei    最佳匹配
+ئةمةلىي چوڭ-كىچىكلىك    shi ji  da xiao    实际大小
+ئۈزى بىكتىش     zi  ding  yi    自定义
+قورال     gong  ju    工具
+ئادةتتىكى تاللاش    chang gui xuan xiang    常规选项
+سېكانىر تاللاش     sao miao xuan xiang    扫描选项
+سۈرةتنىڭ چوڭ-كىچىكلىكىنى قىسقارتىش    suo lue tu da xiao    缩略图大小
+ئىزاھات     pi  zhu    批注
+ئىزاھات كۆرستىش     xian shi pi zhu    显示批注
+ئىزاھاتنى ئۈزۈن ساقلاش     shi pi zhu yong  jiu    使批注永久
+ئىزاھات تاللاش     xuan ze  pi zhu    选择批注
+قول بىلةن سىزىق سىزىش    shou  hua  xian    手画线
+تۈيۈقسز كۆرستىش     tu chu xian shi    图出显示
+تۈز سزق     zhi xian    直线
+كاۋاك ئةگىرى شةكىل    kong  xin ju xing    空心矩形
+پۈتةي ئةگىرى شةكىل    shi  xin  ju xing    实心矩形
+تېكىست كۈچةيتمةك    jian ru wen ben    键入文本
+قوشۇمچة ئىزاھات    fu jia  zhu jie    附加注解
+ھۆججةت ئىچىدىكى تېكىست    wen jian zhong  de wen ben    文件中的文本
+ئۈچۈرگوچ     xiang pi mo    橡皮默
+خةت ياسساش پىروگىراممىسى    zao  zi  cheng  xu    造字程序
+خةت ئۇلاش    zi ti  lian jie    字体链接
+سۈرةتكة خةت كىرگۈزۈش    yin  ru  wei tu   zi  ti    引入位图字体
+،IMEجةدىۋةل كىرگۈزۈش    yin ru  IME biao  ge    引入IME 表格
+ئۈچۈرۈش     shan chu    删除
+تةڭشةش    tiao  yong    调用
+ۋاكالةت نومىرىنى تاللاش    xuan  ding  dai  ma    选定代码
+ھةرپ بةلگىنى ساقلاش    bao cun  zi  fu    保存字符
+ھةرپ بلگىنى باشقا ساقلاش    jiang  zi  fu  ling  cun wei    将字符另存为
+كرگۈزۈش ئۈسۈلنى ئۈلاش     shu  ru  fa  lian jie    输入法链接
+كۆرۈش     cha  kan    查看
+كۆرستىش ستونى     zhi  dao  lan    指导兰
+قورال ساندوقى     gong  ju  xiang    工具箱
+تورسىمان كاتةكچة      wang  ge    网格
+كېيىنكى ۋاكالةت نومىرى    xia  yi   dai  ma    下一代码
+ئالدىنقى ۋاكالةت نومىرى     shang  yi   dai  ma    上一代码
+ئۇمۇمى كۆرنۇش كۆرستىش     xian  shi lun kuo    显示轮廓
+قۇرال     gong  ju    工具
+تارماق     xiang  mu    项目
+قېرنداش     qian  bi    铅笔
+چۇتكا     shua   zi    刷子   
+تۇز سزق     zhi   xian    直线
+كاۋاك ئةگىرى شةكىل    kong xin ju xing    空心矩形
+پۈتةي ئةگىرى شةكىل     shi   xin  ju  xing    实心矩形
+ئةگىرى شةكىل تاللاش    ju  xing  xuan  ze    矩形选择
+خالىغانچة شةكىل تاللاش    ren yi  xing zhuang  xuan ze    任意形状选择
+ئۇچۇرگۇچ     xiang pi    橡皮
+تةتۈر ئايلىنىش /ئوڭ ئايلىنىش    fan zhuan / xuan zhuan    反转/  旋转
+كۆزنةك    chuang   kou    窗口
+ئشلتىش     yin  yong    引用
+ئىشلتشنى ئىتىش     guan  bi  yin  yong    关闭引用
+باش تېمىغا ياردةم    bang  zhu  zhu  ti    帮助主题
+ئاساسةن    guan  yu    关于
+ئالاقلشىش     tong  xun  bo    通讯薄
+يېڭى قۇرۇلغان ئالاقلاشقۇچى     xin jian  lian  xi  ren    新建联系人
+يېڭى قۇرۇلغان گۇرۇپپا     xin jian  zu    新建组
+يېڭى قۇرۇلغان ھۆججةت قىسقۇچ    xin   jian   wen   jian  jia    新建文件夹
+خاسلىق     shu xing    属性
+ئۆتكۇزۇش     dao ru    导入
+چقرىش     dao chu    导出
+بېسىش     da yin    打印
+كۆرسةتمىنى ئالماشتۇرۇش    qie  huan  biao shi    切换标识
+پۈتۈن مةزموننى كۆرسىتىش    xian shi  quan  bu  nei  rong    显示全部内容
+چىكىنىش    tui chu    退出
+ھةممىسىنى تاللاش    quan  xuan    全选
+ھۆججةت قوراشتۇرۇش    pei zhi  wen  jian    配置文件
+ئىشلتكۈچى ئىزدةش    cha zhao  yong   hu    查找用户
+كۆرۆش     cha  kan    查看
+قۇرال ستونى     gong  ju lan    工具栏
+ھالةت سىتونى    zhuang tai lan    状态栏
+ھۆججةت جازىسىنى بىرىكتۈرۈش    wen jian jia he  zu    文件夹和组
+چوڭ سىن بةلگة    da  tu  biao    大图标
+كىچىك سىن بةلگة    xiao  tu  biao    小图标
+ستون     lie biao    列表
+تةپسىلىي ماتىريال    xiang xi  zi  liao    详细资料
+رةتكة تىزىش شةكلى    pai  xu  fang  shi    排序方式
+ئسمى     xing  mihg    姓名
+ئىلىكترونلۇق پوچتا ئادىرسى     dian  zi  you   jian  di  zhi    电子邮件地址
+كةسپىي تېلىفون    ye  wu  dian  hua    业务电话
+ئولتوروشلوق ئورون تېلفونى     zhu zhai dian hua    住宅电话
+ئىسمى     ming    名
+فاملسى     xing     姓
+يةر يۈزى    di  qiang    地墙
+كېمةيتىش    di   jian      递减
+يېڭلماق     shua  xin    刷新
+قۇرال     gong    zhu    工具
+ھسابات نۇمۇرى     zhang hao    帐号
+مةشغۇلات    cao  zuo    操作
+پوچتا يوللانمسى يوللاش     fa  song you   jian      发送邮件
+پوچتا يوللانمسنى يوللاش     jiang  you  jian  fa  song  dao    将邮件发送到
+نۇمۇر بۇراش     bo  hao    拨号
+،Internetچاقرىش     Internet    hu  jiao      Internet 呼叫
+مۇندةىجة ۋة ئاچقۇچ    mu  lu  he  suo  yin    目录和索引
+ئالاقة خاتىرسىگة مۇناسىۋةتلىك    guan  yu  tong  xun  bo    关于通讯薄
+控  制    版  面        
+ھۆججةت    wen jian    文件
+تېزلةتمة شةكىلىنى قۇيۇش    chuang  jian kuai  jie fang  shi    创建快捷方式
+ئۈچۈرۈش     shan  chu    删 除
+قايتا ئىسىم قويۇش    zhong  ming ming    重命名
+خاسلىق     shu   xing    属性
+تةھرىرلةش    bian  jie    编辑
+ئةمةلدىن قالدرۇش     sa  xiao    撒消
+كېسىش     jian  qie    剪切
+كۆچۆرۇش      fu zhi    复制
+چاپلاش     zhan  tie    粘贴
+تىزلةتمة شةكلدة چاپلاش     zhan tie kuai  jie  fang   shi    粘贴快捷方式
+ھةممسنى تاللاش     quan  bu  xuan  ding    全部选定
+قارمۇ -قارشى تاللاش     fan  xiang xuan  ze    反向选择
+كۆرۆش     cha   kan    查看
+قۇرال سىتۇنى     gong ju lan    工具栏
+ئۆلچةملىك كۇنۇپكا     biai  zhun  an  niu    标准按 钮
+ئادىرس ستونى     di  zhi  lan    地址栏
+ئۇلاش     lian jie    链接
+تىېلۋىزية     dian tai    电台
+تېكىست بةلگسى     wen ben biao  qian    文本标签
+ھالةت سىتونى    zhuang  tai  lan    状态栏
+كۆرسةتمةستون     liu lan lan    浏览栏
+ئىزدةش     sou  suo    搜索
+يۇشۇرۇش قسقۇچى     shou  cang   jia    收藏夹
+تارخ خاترلةش     li  shi  ji  lu    历史记录
+ھۆججةت قسقۇچ     wen jian jia    文件夹
+ھةر كۆنى ئةسكةرتىش     mei   ri ti shi    每日提示
+مونازىرة     tao lun    讨论
+،webبېتىگة  ئاساسةن    an     Web   ye    按   Web  页
+چۇڭ سىن بةلگة     da  tu  biao    大图标
+كىچىك سىن بةلگة    xiao  tu  biao    小图标
+ستۇن     lie biao    列表
+تةپسىلى ماتريال     xiang xi  zi  liao    详细资料
+سىن بةلگة رةتلةش     pai lie  tu  biao    排列图标
+تېمغا ئاساسةن     an  ming  cheng    按名称
+چۈشةندۈرۈشكة ئاساسةن     an  shuo  ming    按说明
+ئاپتۈماتىك رةتلةش     zi  dong  pai  lie    自动排列
+سىن بةلگة توغرلاش     dui  qi tu  biao    对齐图标
+يېڭلماق     shua    xin    刷新
+ھۆججةت قسقۇچ تاللاش تۇرى     wen jian jia  xuan  xiang    文件夹选项
+ئايلاندرۇش     zhuan  dao    转到
+كةينگة چكنىش     hou   tui    后退
+ئالغا مېڭىش     qian  jin    前进
+يۇقۇرغا بىر دةرجة     xiang  shang  yi  ji    向上一级
+ئاساسى بةت     zhu  ye    主页
+قانال كۆرسةتمىسى     pin  dao  zhi  nan    频道指南
+،Webنى ئىزدةش    sou  suo    Web    搜索Web
+پوچتا يوللانمسى      you   jian    邮件
+،Internet چاقىرىش    Internet    hu  jiao     Internet 呼叫
+يۈشۈرۇش     shou   cang    收藏
+يۇشۇرۇش  قسقۇچقا قۇشۇش    tian jia dao  shou cang  jia    添加到收藏夹
+يۇشۇرۇش قسقۇچنى رةتلةش     zheng  li  shou  cang  jia    整理收藏夹
+ئۇلاش     lian jie    链接
+،Internetباشلاش بېتى    Internet  qi  shi  ye     Internet  起始页
+ھةقسىز Hot Mail    mian  fei  de  HotMail    免费的 HotMail
+قانال كۆرسةتمىسى     pin  dao  zhi  nan    频道指南
+ئۇزى بېكتىپ ئۇلاش     zi  ding  yi  lian  jie    自定义链接
+ئةڭ ياخشى Webبېتى     zui jia Web ye    最佳web页
+دولقۇن ،قانال     pin  dao      频道
+،Webئىشلىرى    Web  shi jian    web 事件
+ياردةم     bang  zhu    帮助
+باش تېمىغا ياردةم     bang  zhu  zhu  ti    帮助主体
+،Wndows98كة  مۇناسىۋةتلىك    guan  yu Wendows 98     关于Wendows98
+،Adobe يۇرۇقلىقى    Adobe Gamma    Adobe Gamma
+سانلق مةلۇمات مةنبةسى     ODBC  shu ju yuan    ODBC数据源
+،32خانا    32  wei    32位
+پىرىنتىر     da  yin  ji    打印机
+تېلفۇن     dian  hua    电话
+تۇك مةنبةسنى باشقۇرۇش     dian  yuan   guan  li    电源管理
+مودىم     tiao  zhi  jie  tiao  qi    调制解调器
+كۆپ ۋاستة     duo mo  ti    多嫫体
+قۇشمچة ياردةم تاللاش تۇرى     fu  zhu  xuan  xiang    辅助选项
+كۆنۆپكا تاختسى     jian  pan    键盘
+مةخپى شفىر     mi  ma    密码
+رايۇن بةلگلةش     qu  yu  she  zhi    区域设置
+چسلا/ ۋاقىت     ri  qi/ shi  jian    日期/时间
+ئاۋاز     sheng yin    声音
+كرگزۇش ئۇسۇلى       shu  ru  fa    输入法
+مائۇس     shu  biao    鼠标
+قۇشۇش ئۇچۇرۇش پروگرامىسى     tian  jia / shang  chu cheng  xu    添加/删除程序
+يېڭى قاتىتق دىتال قۇشۇش      tian jia  xin ying  jian    添加新硬件
+تور     wang luo    网络
+ھۆججةت ئزدةش     wen jian jian suo    文件检索
+سېستما     xi  tong    系统
+كۆرستىش      xian shi    显示
+ئشلةتكۇچى     yong hu    用户
+ئۇيۇن كۇنترۇلغى     you xi  kong zhi qi    游戏控制器
+ئۇستةل يۇز تېمسى     zhuo    mian zhu  ti    桌面主题
+خةت     zi  ti    字体
+تزلةتمة شةكلنى قۇرۇش     chuang jian kuai jiefang shi    创建快捷方式
+ئۇچۇرۇش     shan   chu    删除
+قايتا ئسىم قۇيۇش     chong ming  ming    重命名
+خاسلىق     shu xing    属性
+خزمةتىن تۇختاش     tuo  ji  gong  zuo    脱机工作
+ئىتش     guan  bi    关闭
+تةھرلةش     bian ji    编辑
+ئةمةلىدىن قالدرۇش     sa  xiao    撒消
+كېسش     jian  qie    剪切
+كۆچۆرۇش      fu  zhi    复制
+چاپلاش     zhan  tie    粘贴
+تزلةتمة شةكلدة چاپلاش     zhan  tie  kuai jie fang shi    剪贴快捷方式
+ھةممسنى  تاللاش     quan  bu  xuan  ding    全部选定
+قارمۇ .قارشى تاللاش     fan  xiang xuan  ze    反向选择
+كۆرۇش     cha kan    查看
+قۇرال ستونى     gong  zhu lan    工具栏
+ئۆلچةملىك كۇنۇپكا     biao  zhun  an  niu    标准按钮
+ئادرىس ستونى     di  zhi  lan    地址栏
+ئۇلاش     lian jie    链接
+ھالةت سىتونى    zhuang  tai  lan    状态栏
+كۆرسةتمة ستون     liu lan lan    浏览兰
+ئىزدةش     sou  suo    搜索
+يۇشۇرۇش قسقۇچى     shou  cang   jia    收藏夹
+تارىخ خاترلةش     li  shi  ji  lu    历史记录
+ھۆججةت قسقۇچ     wen jian  jia    文件夹
+ھةر كۆنى ئةسكةرتىش     mei   ri ti shi    每日提示
+مۇنازىرة     tao lun    讨论
+بىتگة ئاساسةن     an  Web ye    按 Web 页
+چوڭ سىن بةلگة     da tu  biao    大图标
+كىچىك سىن بةلگة    xiao  tu  biao    小图标
+سىتون     lie biao    列表
+تةپسلى ماتريال     xiang  xi zi  liao    详细资料
+سىن بةلگة رةتلةش     pai lie  tu  biao    排列图标
+قۇزغتىش ئةسۋابنىڭ ئسمغا ئاساسةن     an qu  dong qi ming    按驱动器名
+تۇرگةئاساسةن     an  lei xing    按类型
+چۇڭ كچكلكگة ئاساسةن     an da  xiao    按大小
+ئشلتشكة بۇلدغان ماگنىت  دىېسكا بۇشلقغا ئاساسةن     an ke yong si pan kong jian    按可用磁盘空间
+ئاپتۈماتىك رةتلةش     zi dong pai lie    自动排列
+سىن بةلگة تۇغرلاش     dui  qi tu  biao    对齐图标
+يېڭلاش     shua  xin    刷新
+ھۆججةت جازسى تاللاش     wen jian jia  xuan  xiang    文件夹选项
+يۆتكةش     zhuan dao    转到
+كةينىگة چىكنىش     hou   tui    后退
+ئالغا ئىلگرلةش     qian  jin    前进
+يۇقۇرغا بىر دةرجة     xiang shang yi  ji    向上一级
+ئاساسى بةت     zhu  ye    主页
+دۇلقۇن كۆرسةتمىسى     pin dao zhi nan     频道指南
+،Webنى ئزدةش     sou suo  Web    搜索 Web
+پوچتا يوللانمسى     you jian    邮件
+چاقرىش     Internet hu  jiao       Internet 呼叫
+يۇشۇرۇش       shou  cang       收藏
+يۇشۇرۇش جازغا قۇشۇش     tian jia dao  shou cang  jia    添加到收藏夹
+يۈشۈرۈش جازنى رةتلةش     zheng  li  shou  cang  jia    整理收藏夹
+ئۈلاش     lian jie    链接
+باشلنىش بېتى      Internet  qi  shi ye     Internet  起始页
+ھةقسىز Hot Mail    mian  fei  de  HotMail    免费的 HotMail
+قانال كۆرسةتمىسى     pin dao zhi nan     频道指南
+ئۆزى بكتىپ ئۈلاش     zi ding yi lian jie    自定义链接
+ئةڭ ياخشى Webبېتى     zui jia Web ye    最佳Web页
+باش تېمغا ياردةم     bang  zhu zhu  ti    帮助主体
+مۇناسۋةتللك     guan yu  Windows 98    关于Wendows98
+I N T E R N E T        
+تورغا نۇمۇر بۇراش     bo hao wang luo    拨号网络
+توختىتىش     ting zhi    停止
+يېڭلاش     shua  xin    刷新
+باش بةت     zhu  ye    主页
+ئزدةش     sou suo    搜索
+يۇشۇرۇش     shou cang    收藏
+تارىخ      li  shi     历史
+پوچتا يوللانما     you   jian    邮件
+بېسش     da yin    打印
+تةھر ىر لةش     bian ji    编辑
+مۇنازرىلشش     tao lun    讨论
+ئادرىسى      di  zhi    地址
+كرگوزۇش ۋة چقرىش     dao ru he dao chu    导入和导出
+ئۇچۇر تارقتىش     fa bu xin xi    发布信息
+ئلكترۇنلوق يۇللانما بةت يۇزى     dian zi you jian ye mian    电子邮件页面
+ئىلكتىر ونلۇق يوللانمغا ئولاش     dian zi you jian lian jie    电子邮件链接
+يۆتكةش     zhuan dao    转到
+مۇلازىمةتچى ماشنىسنى تاپالماسلىق     zhao bu dao fu wu qi    找不到服务器
+رةت نۇمورى     bian hao    编号
+يوللانما ۋة خةۋةر     you jian he xin wen    邮件和新闻
+تور بكتگة يوللاش     fa song wang ye    发送网页
+مۇناسۋةتللك بكةت نوختسنى كۆرستىش     xian shi xiang guan zhan dian    显示相关站点
+مۇندةرججة ۋة ئاچقۇچ     mu lu he suo yin    目录和索引
+W o r d 2000        
+ھۆججةت     wen jian    文件
+يېڭى ھۆججةت      xin   jian       新建
+ئېچش     da  kai    打开
+ئىتش     guan  bi    关闭
+ساقلاش     bao  cun    保存
+باشقچة ساقلاش     ling cun  wei    另存为
+شةكلدة ساقللاش     ling cun wei Web  ye    另存为 Web 页
+نةشىر     ban  ben    版本
+،Webبېتىنى ئالدىن كۆرۈش    Web ye yu lan    Web  页预览
+بةت يۇزىى لاھلةش     ye mian she zhi    页面设置
+بېسىپ چقرشنى ئالدىن كۆرۇش     da yin yu lan    打印预览
+يوللاش     fa song    发送
+پوچتا يوللانمسنى تاپشۇرۇپ ئالغۇچى     you jian shou jian ren    邮件收件人
+پوچتا يوللانمسى تاپشۇرۇپ ئالغۇچى     you jian shou jian ren(yi fu jian xing shi)    邮件收件人（以附件形式）
+تاپشۇرۇپ ئالغۇچغا يةتكۇزۇپ بىرش     zhuan song shou  jian ren    传送收件人
+قاتناشقۇچنى يغنغا ئۇلاش     lian ji hui yi can jia ren    联机会议参加人
+فاكىس تاپشۇرۋالغۇچى     zhuan zhen shou jian ren    转真收件人
+خاسلىق     shu xing    属性
+چكنىش     tui chu    退出
+ئۇچۇرۈش     che xiao    撤消
+قايتلاش     chong fu    重复
+كىسىش     jian qie    剪切
+تاللاپ چاپلاش     xuan ze xing zhan tie    选择性粘贴
+تورغا بۋاستة ئولاپ چاپلاش     zhan tie wei chao ji lan    粘贴为超级链按
+ئۈچۈرۈش     qing  chu    清除
+پۇتۇن تاللاش     quan xuan    全选
+ئىزدةش     cha zhao    查找
+ئالماشتۇرۇش     ti huan    替换
+ئۇرۇن بةلگلةش     ding wei    定位
+خةنزۇچة خةتنى گۇرپپلاش     han zi chong zu    汉子重组
+تۇتاشتۇرۇش     lian jie    链接
+ئۇبكىت     dui xiang    对象
+كۆرۇش     shi tu    视图
+ئادةتتكى     pu tong    普通
+،Webبېتىنى ئالدىن كۆرۈش    Web  ban shi    Web版式
+بةت يۇزى     ye mian    页面
+ئاپتۇماتىك ئالبۇم     da  gang    大纲
+قۇرال ستونى     gong  ju lan    工具栏
+دائىم ئشلتىش     chang yong    常用
+شةكىل     ge shi    格式
+قورال ساندۇقى     web gong ju xiang    web 工具箱
+جةدۋةل ۋة رامكا     biao ge he bian kuang    表格和边框
+كۆزنةك     chuang ti    窗体
+رةسىم سىزىش     hui tu    绘图
+كېسىپ چاپلاش تاختىسى     jian tie ban     剪贴板
+قۇرال ساندۇقنى كۇنتىرۇللاش     kong jian gong ju xiang    空件工具箱
+رامكا     kuang jia  ji    框架集
+باشقا خىل شةكىل     qi ta  ge  shi    其它格式
+كۇرۇش     shen  yue    伸阅
+سانلىق مةلۇمات ئامبرى     shu ju ku    数据库
+رةسىم      tu  pian    图片
+ھۆسنخةت     yi  shu  zi    艺术字
+ئاپتۇماتىك ئالبۇم     zi  dong tu  wen ji    自动图文集
+ئۇزى بكتىش     zi ding yi     自定义
+سزغۇش     biao  chi    标尺
+ئابزاسلارنى بةلگلةپ كۆرستىش     xian  shi duan luo biao    显示段落标记
+تورسمان سىزق     wang luo  xian    网络线
+ھۆججةت قۇرۇلمىسى     wen dang jie gou tu    文档结构图
+بةت بېشى ۋة بةت ئاخرى     ye mei he ye  jiao    页眉和页脚
+ئىزا ھ     jiao  zhu    脚注
+ئىزاھات     pi  zhu    批注
+پۇتۇن ئېكراندا كۆر سىتىش     quan ping xian shi    全屏显示
+كۆرسىتىش نىسبتى     xian shi  bi lie    显示比列
+قستۇرۇش     cha ru    插入
+ئايرىش بةلگسى     fen ge fu    分隔符
+بةت     ye  ma    页码
+چسلا ۋة ۋاقىت     ri  qi he shi jian    日期和时间
+ئاپتۇماتىك ئالبۇم     zi dong tu  wen  ji    自动图文集
+شةكىل     ge shi    格式
+خةت     zi  ti    字体
+بۇلةك     duan  luo    段落
+تور بةلگسى ۋة رةت نۇمۇرى     xiang mu fu hao he bian hao    项目符号和编号
+رامكا ۋة ئاستى     bian kuang he di  wen    边框和低纹
+ستونغا بۈلۈش     fen lan    分栏
+جةدۋةل  سىزىش ئۇرنى     zhi biao wei    制表位
+باش ھةرپتىن كېينكسىنى چۆكۇرۇش     shou zi xia chen      首字下沉
+خةت يۇنىلىشى     wen zi fang xiang    文字方向
+چوڭ كچك يېزشنى ئۇزگةرتىش     geng gai da xiao xie    更改大小写
+كةڭلىكنى تةڭشةش     tiao zheng kuan du    调整宽度
+خةنزۇچة نةشىر     zhong wen ban shi    中文版式
+پنيىن كۆرسةتمىسى     pin yin zhii  nan    拼音指南
+ھةرپنى رامكغا ئېلىش     dai quan zi  fu    带圈子符
+تىك گور زنتال يۆلنشتة ئارلاشتۈرۈپ تىزىش     zong heng hun pai    纵横混排
+ھةرىپ بةلگلةرنى بىر لةشتۈرۈش     he  bing zi  fu    合并字符
+ئىككى قۈرنى بىر لةشتۇرۇش     shuang hang  he  yi    双行合一
+ئارقا كۆرنۇش     bei  jing    背景
+رةڭگى     yan  se    颜色
+باشقا رةڭ     qi  ta  yan  se    其它颜色
+ئۇنۇمىنى تۇلۇقلاش     tian chong xiao  guo    填充效果
+سۈ باسما     shui  yin    水印
+باش  تېما     zhu  ti    主题
+رامكا      kuang jia     框架
+رامكا ئىچدكى مۈندةرىجة     kuang jia ji zhong de  mu lu    框架集中的目录
+رامكا بةت يۈزنى يېڭىدىن قۈ     xin jian kuang jia ji ye  mian    新建框架集页面
+شةكلنى ئاپتۇماتىك تاللاش     zi dong tao yong ge  shi    自动套用格式样式
+شةكلى    yang   shi    样式
+يېزىق ۋة گىراماتكا     pin yin he yu  fa    拼音和语法
+تىل     yu  yan    语言
+تىل تةھرلةش     she  zhi  yu  yan    设置语言
+قةدىمكى خةت شةكلگةئۈزگةرتىش     zhong wen jian fan zhuan huan    中文简繁转换
+لۇغةت     ci  dian    词典
+مةنداش سۇز ئامبىرى     tong yi ci ku    同义词库
+خةت ئۇرۇش     duan  zi    断字
+سان  سىتاتىستىكىسى     zi  shu  tong ji    子数统计
+ئاپتۈماتىك تةھرر لةش ۋةقسقچة مةزمۇنى     zi  dong bian  he   zhai   yao    自动编写和摘要
+ئاپتۇماتىك تۇغرلاش     zi  dong  geng  zheng    自动更正
+تۈزتىش     xiu  ding    修订
+تۇيۇقسىز ئۇزگةرتىپ كۆرستىش     tu  chu   xian  shi  xiu  ding    突出显示修订
+تۇزتشنى قۇبۈل قلىش ۋة رةت قلش     jie shou huo ju jue xiu ding    接受或拒绝修订
+ھۆججةت سېلشتۈرۈش     bi  jiao wen dang    比较文档
+ھۆججةت  بىر لةشتۈرۈش     he bing  wen dang    合并文档
+ھۆججةتنى قوغداش     bao hu  wen dang    保护文档
+ئۇلاپ ھةمكارلشىش     lian ji  xie  zuo    联机协作
+ھازىر يغىن ئېچش     xian  zai  kai  hui    现在开会
+يىغىن ئۈرنلاشتورۇش     an pai hui  yi    安排会议
+مونازرسى     Web tao  lun     Web 讨论
+پوچتا يولانمسنى بركتورۇش     you jian he bing    邮件合并
+كونۋرىت ۋةماركا     xin  fen he biao qian    信封和签
+خةنزوچة كونۋرىت يېتةكچسى     zhong  wen xin fen xiang dao    中文信封向导
+ئنگلسچة كونۋرىت يېتةكچسى     ying wen xin fen xiang  dao    英文信封向导
+تةھررلةش .ياخشلاش     hong    宏
+يېڭدىن تةھررلةش     lu zhi xin hong    录制新鸿
+بخةتةر     an  quan xing    安全性
+،Visual Basicتةھرىرلةش ماشنىسى    Visual Basic bian ji qi     Visual Basic编辑器
+،Microsoftسةھنة ئةسىرىنى تةھرىرلةش ئةسۋابى    Microsoft jiao ben bian ji qi     Microsoft 脚本编辑器
+تةقلدى يۇز بلةن قوشۇش تۇرى     mo ban he jia dai  xiang    摸板和加戴相
+ئۇزى بةلگلةش     zi ding  yi    自定义
+تاللاش     xuan xiang    选项
+جةدۋةل     biao  ge    表格
+جةدۋةل سىزش     hui  zhi  biao  ge    绘制表格
+قستورۇش     cha ru    插入
+ستون سول( تةرةپ )    lie(zai zuo ce)    列（在左侧）
+سىتون( ئۇڭ تةرةپ)     lie(zai you ce)    列（在右侧）
+قۇر (سۇل تةرةپ )    hang(zai  zuo  ce)    行（在左侧）
+قۇر(ئوڭ تةرةپ)    hang(zai  you ce)    行（在右侧）
+كاتةكچة     dan yuan  ge    单元格
+ئۇچۇرۇش     shan   chu    删除
+تاللاش     xuan ding    选定
+كاتةكچنى بىركتوروش     he bing dan yuan  ge    合并单元格
+كاتةكچنى پارچلاش     chai fen da yuan ge    拆分单元格
+جةدۋةلنى پارچلاش     chai  fen biao  ge    拆分表格
+جةدۋةل شةكلنى .ئاپتۇماتىك تاللاش     biao ge zi dong taoyong ge shi    表格自动套用格式
+ئاپتوماتىك تةڭشةش     zi dong tiao zheng    自动调整
+مةزمونغا ئاساسةن جةدۋةلنى تةڭشةش     gen ju nei rong tiao zheng biao ge    根据内容调整表格
+كۆزنةككة ئاساسةن جةدۋةلنى تةڭشةش     gen ju chuang kou tiao zheng biao ge    根据窗口调整表格
+موقىم ستون كةڭلكى     gu  ding lie kuan    固定列宽
+قۇر كاتةكچسنى ئۇتۇردىن بۇلۇش     ping jun fen bu ge hang    平均分布格行
+ستون كاتةكچسنى ئۇتۇردىن بۇلۇش     ping jun fen bu ge lie    平均分布格列
+كۆرستىش قۇرنى تةكررلاش     biao ti hang chong  fu    标题行重复
+جةدۋةل بېشغا ئةگرى سىزق سىزش     hui zhi xie xian biao tou    绘制斜线表头
+ئايلاندۇرۇش    zhuan  huan    转换
+يېزقنى جةدۋةلگةئايلاندرۇش     wen zi zhuan huan cheng biao ge    文字转换成表格
+جةدۋةلنى يېزققا ئايلاندۇرۇش     biao ge  zhuan huan cheng wen zi    表格转换成文字
+رةتلةش، تىزىش     pai xu    排序
+فورمىلا     gong shi    公式
+رامكنى يۇشۇرۇش     yin cang xu kuang    隐藏虚框
+جةدۋةل خاسلقى     biao ge  shu xing    表格属性
+كۆزنةك     chuang kou    窗口
+يېڭى قۇرۇلغان كۆزنةك     xin jian chuang kou    新建窗口
+ھةممسىنى قايتا رةتلةش     quan bu chong pai    全部重排
+پارچلاش     chai fen    拆分
+،Officeياردةمچىسىنى كۆرسىتىش    xian shi Office zhu shou    显示Office助手
+بۇنىمة     zhe shi shen  me    这是什么
+توردىكى Office    wang shang Office    网上Office
+تةكشۈرۈش ۋةئةسلگةكةلتورۇش     jian ce yu xiu fu    检测与修复
+  ،MicrosoftWordقا مۇناسىۋةتلىك    guan yu  Microsoft Word    关于MicrosoftWord
+E x c e l     2000        
+خىزمةت رايۇننى ساقلاش     bao cun gong zuo qu    保存工作区
+،Webبېتىنى ئالدىن كۆرۈش    Web ye yu lan    Web页预览
+بةت لاھلةش     ye mian she zhi    页面设置
+بېسىپ چىقرىش دائرسى     da yin qu yu    打印区域
+بېسىپ چىقرىش داھرسنى لاھلةش     she zhi da yin qu yu    设置打印区域
+بېسىپ چىقرىش داھرسنى ئةمةلدىن قالدۇرۇش     qu  xiao da yin qu yu    取消打印区域
+بېسىپ چقرىشنى  ئالددىن كۆرۇش     da yin  yu  lan    打印预览
+يوللاش     fa  song    发送
+پوچتا يولانمسنى تاپشۇرۇپ ئالغۇچى     you jian shou jian  ren    邮件收件人
+تاپشۇرۇپ ئالغۇچغا يۇللاپ بىرىش     chuang song shou jian ren ren    传送收件人
+قاتناشقۇچنى يغنغا ئۇلاش     lian hui yi  can jia ren    联机会议参加人
+خاسلىق     shu xing    属性
+چىكنىش     tui  chu    退出
+ئۇچۇرۋېتشكة بۇلمايدۇ     wu fa che xiao    无法撤消
+تةكرارلاشقا بولمايدو     wu fa chong fu    无法重复
+كېسىش     jian  qie    剪切
+كۆچۇرۇش     fu zhi    复制
+چاپلاش     zhan tie    粘贴
+تاللاپ چاپلاش     xuan ze xing zhan tie    选择性粘贴
+تورغا ئولاپ چاپلاش     xiang you tian chong     粘贴位超级链接
+تولوقلاش     tian chong    填充
+ئاستغا قارتا تۇلۇقلاش     xiang xia tian chong    向下填充
+ئۇڭغا قارتا تۇلۇقلاش     xiang you tian chong     向右填充
+ئۇستگة قارتا تولوقلاش     xiang shang tian chong    向上填充
+سولغا قارتا تۇلۇقلاش     xiang zuo tian chong    向左填充
+ ئۇخشاش گۇرپا خزمةت جةدۋلى     zhi  tong  zu gong  zuo biao    至同组工作表
+تةرتىپ     xu  lie    序列
+مةزموننى قايتا رةتلةش     nei  rong   chong pai    内容重排
+ئوچۇروش     qing  chu    清除
+ ھةمىمسى      quan  bu      全部
+شةكىل     ge   shi    格式
+مةزمون     nei  rong       内容
+ئزاھات     pi  zhu    批注
+ئۆچۇرۇش     shan chu    删除
+خزمةت جةدۋىلنى ئۆچرۇش     shan   chu  gong  zuo  biao    删除工作表
+خزمةت جةدۋلنى يۆتكةش ياكى كۆچۇرۇش     yi dong huo fu zhi gong zuo biao    移动或复制工作表
+ئىزدةش     cha  zhao    查找
+ئالماشتۇرۇش     ti huan    替换
+ئۇرۇن بةلگلةش     ding  wei    定位
+ئۇلاش     lian  jie    链接
+ئوبىكىت     dui  xiang    对象
+كۆرۇش     shi  tu    视图
+ئادةتىتىكى     pu  tong    普通
+بةتكة بۆلۆپ ئالىدىن كۆرۇش     fen  ye yu  lan    分页预览
+قورال ستونى     gong ju  lan    工具栏
+دائىم ئىشلتىش     chang yong    常用
+شةكىل     ge shi    格式
+كۆزنةك     chuang ti    窗体
+رةسىم سىزىش     hui tu    绘图
+كىېسىپ چاپلاش تاختسى     jian tie ban     剪贴板
+قورال ساندوقنى كونتورۇلاش     kong jian gong ju xiang    空件工具箱
+كۆزدىن كۆچۆرۈش     shen yue    伸阅
+سانلىق مةلۇمات كۆرۇش جةدۋىلى     shu ju tou  shi biao      数据透视表
+دىئا گرامما     tu  biao    图表
+ رةسىم     tu  pian    图片
+سرتقى سانلىق مةلۇمات     wai  bu  shu  ju    外部数据
+ھۆسنخةت     yi  shu  zi    艺术字
+بةلگة ستونى     fu  hao  lan    符号栏
+تةھررلةش ستونى     bian ji  lian    编辑栏
+ھالةت ستونى     zhuang tai  lian    状态栏
+بةت بېشى ۋةبةت ئاخىرى     ye  mei  he  ye  jiao    页眉和页脚
+كۆرۈش يۇزنى كونترولغۈچ     shi  mian  guan li  qi    视面管理器
+پۈتۈن ئېكراندا كۆرستىش     quan  ping  xian  shi    全屏显示
+كۆرسلتىش نىسبتى     xian shi  bi  lie    显示比列
+دىئاگىرامما    tu  biao    图表
+خزمةت جةدۋلى     gong  zuo  biao    工作表
+بةت ئايرىش بةلگسى     fen  ye  fu    分页符
+ئالاھدة بةلگلةر     te shu  fu hao    特殊符号
+فونكسية     han  shu    函数
+ئىسمى     ming cheng    名称
+ئېنقلما     ding yi    定义
+كۆرسىتىش     zhi  ding    指定
+ئشلىتىش     ying yong     应用
+كۆرسةتكوچ     biao zhi    标志
+ئىزاھات     pi  zhu    批注
+رةسىم چاپلاش     jian tie hua    剪贴画
+ھۆججةتنى ئۈزى تاللاپ قستۇرۇش     lai  zi  wen  jian    来自文件
+سۈرةت شةكلنى ئۈزى تاللاش     zi xuan  tu  xing    自选图形
+قۇرۇلما سېخمىسنى تةشكلةش     zu  zhi  jie  gou  tu    组织结构图
+ھۆسنىخةت    yi  shu  zi    艺术字
+سېكانىر ياكى فۇتۇ ئاپىراتنى تاللاش     lai zi  sao miao  yi  huo xiang  ji    来自扫描仪或相机
+ئالاھدة ئۇلاش     chao  ji  olan  jie    超级链接
+فورمات     ge shi    格式
+قۈر ئىگزلىگى     hang  gao    行高
+ئةڭ مۇۋاپىق قور ئگزلگى     zui  shi   he  de  hang  gao    最适合的行高
+يوشۇرۇشنى ئةمةلدىن قالدرۇش     qu  xiqo  yin  cang    取消隐藏
+ستون كةڭلكى      lie  kuan    列宽
+ئةڭ موۋاپىق ستون كةڭلكى     zui  shi he de  lie  kuan    最适合的列宽
+ئولچةملىك ستون كةڭلكى     biao  zhun  lie  kuan    标准列宽
+قايتا ئسىم قۇيۇش     chong  ming ming    重命名
+ئارقا كۆرنىشى     bei  jing    背景
+ئاپتوماتىك تاللاش شةكلى     zi dong tao yong  ge shi     自动套用格式
+شةرتللك فورمات     tiao  jian  ge  shi    条件格式
+شةكىل     yang shi    样式
+پىنيىن ئۈچۈرى     pin  yin   xin  xi    拼音信息
+لاھيىلةش     she  zhi    设置
+كۆرستىش ياكى يۇشۇرۇش     xian  shi  huo  yin cang    显示或隐藏
+قورال     gong  ju    工具
+پىنينچة يېزىش     pin  xie    拼写
+ئاپتۇماتىك توغۇرلاش     zi  dong  geng  zheng    自动更正
+خزمةت خاترسدىن ئورتاق پايدلنىش     gong xiang gong  zuo  bo    共享工作薄
+توزتىش     xiu  ding    修订
+تۈيۈقسىز ئۈزگةرتىپ كۆرسىتىش     tu  chu   xian  shi  xiu  ding    突出显示修订
+تۈزتىشنى قۇبۇل قىلش ۋة رةت قلىش     jie shou huo ju jue xiu ding    接受或拒绝修订
+خزمةت  خاترسنى برلةشتۇرۇش     he bing  gong  zuo  bo    合并工作薄
+قوغداش     bao  hu    保护
+خزمةت جةدۋلنى قوغداش     bao huo  gong  zuo  biao    保护工作表
+خزمةت خاترسنى قوغداش     bao huo  gong  zuo    bo    保护工作薄
+خزمةت خاترسىدىن ئورتاق پايدلنىش ۋةقوغداش     bao hu bing  gong xiang     保护并共享工作薄
+ئولاپ ھةممكارلشش    lian ji  xie zuo    联机协作
+،Webمۇنازىرىسى    Web  tao  lun    Web 讨论
+تاق مقتارلىق يېشىم     dan bian liang qiu  jie    单变 量 求解
+نوسقا ، پىلان    fang  an    方案
+تةكشۈرۈش     shen  he    审核
+كاتةكچگةئةگشىپ ئشلىتىش     zhui zong yin yong dan yuan ge    追踪引用单元格
+كاتةكچنىڭ خاسلقغا ئةگشىش     zhui zong cong shu dan yuan ge    追踪从属单元格
+خاتالقنى ئزدةش     zhui  zong  cuo  wu    追踪错误
+ خاتالقنى ئزدةش بېشى ئةمةلدىن قالدۇرۇش     quxiqo suo you zhui zong jian tou    取消所有追踪箭头
+تةكشورۇش قۇرال سىتۇننى كۆرستىش     xian shi &#39;&#39; shen he &quot; gong  ju lan    显示“审核”工具栏
+تةھررلةش ياخشلاش     hong    宏
+يېڭدىن تةھرىرلةش     lu zhi  xin hong    录制新宏
+بىخةتةر     an  chuan  xing    安全性
+،Visual Basicتةھرىرلىگۈچ    VisualBasic bian ji  qi    VisualBasic 编辑器
+،Microsoft دةسلةپكى تةھرىرلةش ئةسۋابى     Microsoft  jiao ben bian ji qi     Microsoft 脚本编辑器
+تةھرىرلةپ قوشۇش    jia  zai  hong    加载宏
+تاللاش     xuan  xiang    选项
+سانلق مةلۇمات     shu  ju    数据
+رةت تةرتۋى     pai  xu    排序
+تاسقاش     shai  xuan    筛选
+خاترة تىزملكى     ji  lu  dan    记录单
+يغندا تۇرلرى     fen lei  hui  zong    分类汇总
+ئۇنۇملىكلكى     you  xiao  xing    有效性
+تةقلدى ھساپلاش جةدۋىلى     mo  ni  yun suan  biao    模拟运算表
+ستونغا بۈلۈش     fen  lie    分列
+بىرلةشتۇرۇپ ھساپلاش     he bing  ji  suan    合并计算
+گۇرپا ۋة دةرجگةبۇلۇپ كۆرستىش     zu  ji  fen  ji  xian  shi    组及分级显示
+ئنچكة سانلىق مةلۇماتنى يۇشۇرۇش     yin cang ming xi  shu  ju    隐藏明细数据
+ئنچكة سانلىق  مةلۇماتنى كۆرستىش     xian shi ming  xi  shu  ju    显示明细数据
+گۇروپپلاش     zu  he    组合
+گۇرپنى ئةمةلدىن قالدرۇش     qu  xiao  zu    取消组
+دةرجگةبۇلۇپ كۆرستىشنى ئاپتۇماتىك قۇرۇش     zi dong jian li fen ji  xian  shi    自动建立分级显示
+بۇلۇپ كورستىشنى ئۇچۇرۇش     qing  chu fen ji  xian  shi    清除分级显示
+سانلىق مةلۇمات پىرسىپېكتۋ جةدۋلى بلةن  دئىاگراممادوكلاتى     shu ju tou shi bia ohe tu biao bao gao    数据透视表和图表报告
+سرتقى سانلىق مةلوماتقا ئگةبۇلۇش     huo qu  wai  bu  shu  ju    获取外部数据
+ساقلاپ تةكشۇرۇشنى ئجرا قىلش     yun hang bao cun de cha xun    运行保存的查询
+،Webتةكشۈرشىنى يېڭىدىن  قۇرۇش    xin  jian Web  cha  xun    新建Web  查询
+تېكىست ھۆججتگةكىرگۇزۇش     dao  ru  wen  ben  wen  jian    导入文本文件
+تةكشورۇپ تةھررلةش     bian ji cha  xun    编辑查询
+سانلىق مةلۇمات رايۇنى ۋةخاسلىق     shu ju  qu  huo  shu  xing    数据区或属性
+پارامىتىر     can  shu    参数
+يېڭى سانلىق مةلۇمات     geng  xin  shu  ju    更新数据
+كۆزنةك     chuang  kou    窗口
+كۆزنةكنى يېڭدىن قۇرۇش     xin jian chuang kou    新建窗口
+كۆزنةكنى قايتا رةتلةش     chong  pai  chuang  kou    重排窗口
+پارچلاش     chai  fen    拆分
+كۆزنةكنى توڭلتىش     dong  jie chuang kou    冻结窗口
+ياردةم     MicrosoftExcel bang  zhu    MicrosoftExcel 帮助
+،Officeياردةمچىسىنى كۆرسىتىش     xian  shi Office  zhu  shou    显示Office助手
+تةكشۇرۇش ۋةئةسلگةكةلتۇرۇش     jian ce yu xiu fu    检测与修复
+،MicrosoftExcelغا مۇناسىۋةتلىك    guan yu  Microsoft Excel    关于Microsoft Excel
+P o w e r p o i n t        
+توپ     da  bao    打包
+،Webبېتىنى ئالدىن كۆرۈش    Web  ye  yu  lan     Web 页预览
+بةت لاھلةش     ye mian she zhi    页面设置
+يوللاش     fa    song    发送
+تاپشۈرۈپ ئالغۈچغا يۇللاپ بېرىش     zhuan song shou  jian ren    传送收件人
+قاتناشقۇچنى يىغنغا ئۇلاش     lian ji hui yi can jia ren    联机会议叁加人
+ئۈچۈرۈشكة بولماسلىق     wu  fa   sa  xiao    无法撒消
+تةكرارلاشقا بولماسللق     wu fa   chong  fu    无法重复
+تاللاپ  چاپلاش    xuan ze xing zhan tie    选择性粘贴
+ئادةتىتن تاشقرى ئۇلغۇچقا چاپلاش     zhan tie wei chao ji lian jie    粘贴位超级链接
+ئۈچۈرۈش     qing  chu    清除
+ھةممنى تاللاش     quan  xuan    全选
+قوشۇمچة نۈسخسنى تۈزۈش     zhi  zuo  fu  ben    制作副本
+پىرويىكسية پىلاستنكىسنى ئۈچۇرۇش     shan   chu  huan ding  pian    删除幻灯片
+ئىزدةش     cha  zhao    查找
+ئالماشتۇرۇش     ti  huan    替换
+ئورۇندىن خاسلقچة     ding  wei  dao   shu  xing    定位到属性
+خةنزوچة خةتنى قايتا گورۇپلاش     han  zi  chong  zu    汉子重组
+كۆرۈش     shi  tu    视图
+ئادةتتىكى     pu  tong    普通
+پىرويكسية پىلاستنكسى كۆرۈش     huan deng  pian  liu  lan    幻灯片浏览
+زاپاس بةت     bei  zhu  ye    备注页
+پىرۇيكسية پىلاستنكسى قويوش     huan deng  pian   fang  ying    幻灯片放映
+ ئورگنال     mu  ban    母版
+پىريىكسىية پىلاستىنكا ئورگىنالى    huan  deng  pian  mu  ban    幻灯片母版
+تېما  ئورگنالى     biao  ti  mu  ban    标题母版
+كونسپىك ئورگنالى     jiang  yi  mu  ban    讲义母版
+زاپاس ئورگنالى     bei  zhu  mu  ban    备注母版
+رةڭسىز     hei    bai    黑白
+قورال ستونى     gong  ju lan    工具栏
+دائىم ئىشلتلدغان     chang yong    常用
+شةكىل     ge shi    格式
+جةدۋةل ۋة  رامكا     biao   ge   he  bian   kuang    表格和边框
+قولانما     da  gang    大纲
+ھةركةتچان سۇرةت ئۈنمى     dong  hua   xiao   guo    动画效果
+رةسىم سزىش     hui   tu     绘图
+كسىش تاختسى     jian  tie  ban    剪贴板
+كونترول قورال ساندوقى     kong  jian  gong  ju  xiang    空件工具箱
+كۆرۆش     shen  yue    审阅
+بةلگةستونى     fu  hao  lan    符号栏
+كۈرۈش يۆلنىشى     cha  kan  fang  xiang    查看方向
+سولدىن ئوڭغا     cong   zuo  xiang   you    从左向右
+ئوڭدىن سولغا     cong  you  xiang  zuo    从右向左
+بةت يوزى ۋة بةت ئاخرى     ye  mian  he   ye   jiao    页面和页脚
+كۆرستىش  نىسبتى     xian  shi  bi  li    显示比例
+سزغوچ     biao  chi    标尺
+قوشۇمچة ياردةم سزقى     fu  zhu  xian    辅助线
+ئزاھات     pi  zhu    批注
+يېڭى پىرويكسية پىلاستنكسى     xin huan   deng  pian    新幻灯片
+پىرويكسية پىلاستنكسى رةت نومرى     huan  deng  pian  bian  hao    幻灯片编号
+چېسلا ۋة ۋاقىت     ri   qi   he  shi  jian    日期和时间
+ئالاھدة بةلگة     te   shu  fu  hao    特殊符号
+رةسىم كىسىش     jian  tie  hua    剪贴画
+ئوزى كرگۈزگةن ھۆججةت     lai  zi  wen  jian    来自文件
+سۇرةت شةكلنى ئۇزى تاللاش     zi  xuan  tu  xing    自选图形
+تةشكلى توزۈلمة قورولمسى     zu  zhi  jie  gou  tu    组织结构图
+ئۆزى كىرگوزگةن سېكانىر ياكى فوتو ئاپىرات     lai  zi   sao  miao  yi  huo  xiang  ji      来自扫描仪或相机
+،MicrosoftWordجةدىۋىلى    Microsoft Word    biao  ge    Microsoft Word 表格
+تېكىست رامكسى     wen  ben  kuang    文本框
+گورزنتال     shui  ping    水平
+ۋېر تىكال     chui  zhi    垂直
+فلىم ۋة ئاۋاز     ying  pian  he  sheng  yin    影片和声音
+كېسىپ تةھررلةش ئامبردىكى ئاۋاز     jian ji ku zhong de sheng yin    剪辑库中的声音
+ھۆججةت ئچدكى ئاۋاز     wen jian zhong  de  sheng  yin    文件中的声音
+،CDموزىكىسى قويۇش    bo  fang  CD  yue qu    播放CD乐曲
+ئاۋاز ئېلىش     lu  zhi  sheng  yin    录制声音
+دىئاگرامما     tu  biao      图表
+جةدۋةل     biao   ge    表格
+ئادةتتن تاشقرى ئولاش     chao  ji  lian  jie    超级链接
+فورمات     ge   shi    格式
+خةت نوسخسى     zi  ti    字体
+بةلگة ۋة رةت نومور     xiang  mu fu hao  he  bian  hao    项目符号和编号
+توغرلاش شةكلى     dui  qi  fang  shi    对齐方式
+سولغا توغرلاش     zuo   dui   qi    左对齐
+ئوتتورا     ju  zhong    居中
+ئوڭغا توغرلاش     you  dui   qi    右对齐
+ئىككى تةرةپكة توغرلاش     liang  duan  dui  qi    两端对齐
+تارقتىپ توغرلاش     fen  san   dui  qi    分散对齐
+ئابزاس يۆلنىشى     duan  luo  fang  xiang    段落方向
+خةت نوسخسنى توغرلاش شةكلى     zi  ti  dui  qi  fang  shi    字体对齐方式
+ئوستگة توغرىلاش     ding duan  dui  qi    顶端对齐
+ئوتتورغا توغرلاش     ju  zhong  dui  qi    居中对齐
+لوما شةكلدة توغرلاش     luo  ma  fang  shi  dui  qi    罗马方式对齐
+ئاستغا توغرلاش     di  duan  dui  qi    底端对齐
+قور ئارلىقى      hang  ju    行距
+قور ئايرىش     fen  hang    分行
+چوڭ كچىك يېزشنى ئۇزگةرتىش     geng  gai da  xiao   xie    更改大小写
+خةت نۇسقسنى ئالماشتۇرۇش     ti  huan  zi  ti    替换字体
+پىرۇيكسية پلاستنكسى نةشرى     huan deng  pian ban  shi    幻灯片版式
+پرۇيكسية پىلاستنكسى رةڭ ماسلاشتۇرۇش پىلانى     huan deng  pian pei  se  fang  an    幻灯片配色放按
+ئارققا كۇرنىش     bei jing    背景
+تاختا لاھلةش ئېشلتىش     ying  yong  she ji  mo  ban    应用设计模板
+رةڭ ۋةسىزىق     yan  se he  xian  tiao    颜色和线条
+پنينچة يېزىش     pin  xie    拼写
+تىل     yu  yan    语言
+ئاپتۇماتىك توغۇرلاش    zi  dong   geng   zheng    自动更正
+نةشىر     ban    shi    版式
+ئۇلاپ ھةمكارلشىش     lian  ji  xie  zuo    联机协作
+يغىن خاترلةش     hui  yi  ji  lu    会议记录
+ياخشلاش يېڭلاش     hong    宏
+يېڭدىن كۇچۇرۇش     lu  zhi  xin  hong    录制新宏
+بىخةتةرلىك     an  chuan  xing    安全性
+،Visual Basicتةھرىرلىگۈچ    Visual Basic  bian ji  qi    Visual Basic编辑器
+،Microsoft دةسلةپكى تةھرىرلةش ئةسۋابى    Microsoft jiao ben bian ji qi    Microsoft 脚本编辑器
+ياخشى چوشرۇش     jia  zai  hong    加载宏
+تاللاش     xuan xiang    选项
+پىريكسية پىلاستنكسى قۇيوش     huan  deng  pian fang  ying    幻灯片放映
+مةخسوس قۇيغانى كۈرۈش     guan kan  fang  ying    观看放映
+مةشىق ۋاختنى ھساپلاش     pai lian  ji  shi    排练计时
+يانغا كۇچۇرۈش     lu  zhi  pang  bai    录制旁白
+ئولاپ قۇيۇش     lian  ji  guang  bo    联机广播
+قۇيۇش ۋةئورۇنلاشتورۇش     jian  li  he  an  pai    建立和按排
+قۇيۇشنى باشلاش     kai  shi  guang  bo    开始广播
+لاھلةپ قۇيوش شةكلى     she  zhi  fang  ying  fang  shi    设置放映方式
+ھةركةت چان كۇنۈپكا     dong  zuo  an  niu    动作按钮
+ھةركةت لاھلةش     dong  zuo  she  zhi    动作设置
+تةقلدى ھةركةتچان سۈرةت لاھلةش     yu  she  dong  hua    预设动画
+ئىتىش     guan  bi    关闭
+مېڭىپ كىرىش     shi  ru    驶入
+ئۇچۈپ كىرىش     fei  ru    飞入
+فۈتۈ ئاپرات     zhao  xiang  ji    照像机
+بىر قېتىم چېقىش     shan shuo  yi  ci    闪烁一次
+لازىر نۈر شةكلىك تېكست     ji  guang  shi  wen ben    激光式文本
+ خةت بېسىش ماشنسى     da  zi  ji    打字机
+ئةكىس تةرتىپ قارشى تةرةپ     fan  shu    反序
+قۇرۇق ساية     kong  tou    空投
+ئۇستى قسمدىن ئۇچۇپ كرىش     cong  shang  bu fei  ru    从上部飞入
+ھةركةتچان دئاگرامما     dong  tai  tu  biao    动态图表
+ئۇڭ تةرةپتىن قۇيۇپ بىرىش     xiang  you  jie  qu    向右接去
+ئېرش     rong  jie    溶解
+ئوتتۇردىن ئۇڭ سۇل تةرةپكة كڭيىش     you  zhong  xiang  zuo  you  kuo  zhan    由中向左右扩展
+پةيدا بولۇش     chu  xian    出现
+ئۈزلگدىن ھةركةت قلىش     zi  ding  yi  dong  hua    自定义动画
+ھةركةت ھالتنى تةقلدى كۇرۇش     dong  hua  yu  lan    动画预览
+پرويىكسية پلاستنكسنى ئالماشتۇروش     huan  deng  pian qie  huan    幻灯片切换
+پرۇيكسية پىلاستنكسنى يۇشۇرۇش     yin cang  huan  deng   pian    隐藏幻灯片
+ئۇزى بةلگلةپ قۇيوش     zi  deeng  yi  fang  ying    自定义放映
+كۇزنةك     chuang  kou    窗口
+يېڭى كوزنةك ھاسىل قىلش     xin jian chuang kou    新建窗口
+ھةممسنى قايتا رةتلةش     quan  bu  chong  pai    全部重排
+بىربةت قسىش     suo  zhi  yi  ye    缩至一页
+قاتمۇ قات     ceng  die    层叠
+كينكى كوزنةك كاتىكى     xia  yi  chuang  ge    下一窗格
+،MicrosoftPowerpointياردىمى    MicrosotfPowerPoint  bang  zhu    MicrosotfPowerPoint帮助
+،Officeياردةمچىسىنى كۆرسىتىش    xian  shi  Office  zhu  shou    显示Office助手
+توردىكىOffice    wang  shang  Office    网上Office
+تةكشۈرۈش ۋةئةسلگةكةلتورۇش     jian  ce  yu  xiu  fu    检测与修复
+،MicrosoftPowerpointقا مۇناسىۋةتلىك    guan  yu  MicrosoftPowerPoint    关于MicrosoftPowerPoint
+P h o t o s h o p        
+باشقچة ئىچىش     da  kai wei    打开为
+ساقلاش     cun  chu      存储
+باشققچة ساقلاش     cun chu  wei    存储为
+كوپيسنى ساقلاش     cun chu  fu  ben    存储副本
+ئةسلگةكةلتورۇش     hui  fu    恢复
+كىرگۇزۈش     zhi  ru    置入
+كىرگۈزۈش      shu  ru    输入
+چىقرىش     shu  chu    输出
+،GIF89aچىقىرىش    GIF89ashu  chu    GIF89a输出
+ئاپتۇماتىك     zi  dong    自动
+توپ بىر تةرةپ قىلش     pi  chu  li    批处理
+كۆپ بةتلىك PDFدىنPSDغا    duo ye mian PDFdaoPSD    多页面PDF到PSD
+ئالاقىلشىش جةدۋىلى     lian  xi  biao    联系表
+شةرت مودلنى ئۇزگةرتىش     tiao  jian mo  shi  geng  gai    条件模式更改
+سۇرةت چةكلةش     xian  zhi  tu  xiang    限制图象
+ھۆججةت چۆشةندۈرىلشى     wen jian  jian  jie    文件简介
+بةت لاھلةش     ye  mian  she  zhi    页面设置
+ئالدىنئالا بةلگلةش     yu  zhi    预置
+دائىملىق     chang  gui    常规
+ھۆججةت ساقلاش     cun  chu  wen  jian    存储文件
+كۆرستىش بىلةن نور بةلگة     xian  shi  yu  guang  biao    显示与光标
+سۇزۇك رايۇنى بلةن رةڭ بةلگة     tou  ming   qu  yu  yu  se  yu    透明区域与色域
+بىرلىك بلةن سزغۈش     dan   wei  yu  biao  chi    单位与标尺
+پايدلنىش سزقى بلةن توركاتةكچة     san  kao xian  yu  wang  luo    叁考线与网络
+ئۇنۈملةش قۇرالى بلةن ۋاقتلىق دىسكىغا ساقلاش     qiang  xiao  gong ju yu zan cun pan    墙效工具与暂存盘
+ئىچكى ساقلغۈچ بلةن رةسىم بوففىر     nei cun yu  tu  xiang gao su huan cun    内存与图象高速缓存
+رةڭ بةلگلةش     se cai  she  zhi    色彩设置
+،RGBبةلگىلةش    RGB she  zhi    RGB   设置
+،CMYKبةلگىلةش    CMYK she  zhi    CMYK设置
+كۆلرةڭلىك دةرججسنى بةلگلةش      hui  du  she  zhi    灰度设置
+قياپتنى بةلگلةش     gai  mao  she  zhi    概貌设置
+چېكنىش     tui  chu    退出
+ئةسلگة كةلتۇرۈش     huan  yuan    还原
+كسىش     jian  qie    剪切
+كۈچۈرۈش     kao  bei    拷贝
+بىرىكتۈرۈپ كۈچۈرۇش     he  bing  kao  bei    合并拷贝
+كرگۈزۈپ چاپلاش     jian  tie   ru    粘贴入
+تازلاش     qing  chu    清除
+تولدۇرۇش     tian chong     填充
+چېگرالاش     miao  bian    描边
+ئىختيارى ئۈزگىرش     zi  you  bian  huan    自由变换
+ئۈزگةرتىش     bian  huan    变换
+تةكرار لاش     zai  ci    再次
+كچىكلتىپ چوڭايتىش     suo  fang    缩放
+ئايلاندۇرۇش     xuan  zhuan    旋转
+يانتو كېسىش     xie  qie    斜切
+بۈراش     niu  qu    扭曲
+كۆرۈش     tou  shi    透视
+رةقةم     shu  zi    数字
+180گرادۈس ئايلاندۈرۇش     xuan  zhuan 180 du    旋转180度
+ئوڭغا90گىرادوس ئايلاندۇرماق    xuan  zhuan  90  du(shun shi zhen)    旋转90度（顺时针）
+سولغا90گىرادوس ئايلاندۇرماق    xuan  zhuan  90 du(ni  shi     zhen)    旋转90度(逆时针）
+گورزنتال ئايلاندرۈش     shui  ping  fan  zhuan    水平翻转
+ۋېرتىكال ئايلاندرۈش     chui zhi fan zhuan    垂直翻转
+رةسىم ئېنقلمسى     ding  yi  tu  an    定义图按
+تازلاش     qing  li    清理
+كېسىش تاختىسى     jian  tie  ban    剪贴板
+رةسىم      tu  an    图按
+تارىخى خاتىرة     li  shi  ji   lu    历史记录
+ھةممسى     quan  bu    全部
+سۈرةت     tu   xiang    图象
+مودىل     mo  shi    模式
+سۈرةت     wei  tu    位图
+كۈلرةڭلىك دةرىجسى      hui  du    灰度
+قوش رةڭ تةڭشةش     shuang  se  diao    双色调
+رةڭ تةڭشگۈچ     suo  yin  yan se    索引颜色
+،RGBرةڭ    RGB  yan  se    RGB   颜色
+،CMYKرةڭ    CMYK yan  se    CMYK  颜色
+كۈپ قانال     duo tong  dao    多通道
+8خانةقانال     8wei/tong  dao    8位/通道
+16خانة قانال     16wei/tong  dao    16位/通道
+رةڭ جةدۋىلى     yan  se biao    颜色表
+قياپةتتىن قياپةتكچة     gai  mao dao  gai  mao    概貌到概貌
+تةڭشةش     diao  zheng    调整
+ئاپتۈماتىك رةڭ قاتلمى     zi  dong  se  jie    自动色阶
+ئةگرى سىزق     chu  xian    曲线
+رةڭ تةڭپۈڭلغى     se  cai  ping  heng    色彩平衡
+نۈرلنىشى پةرق نىسبتى     liang  du  dui  bi du    亮度/对比度
+رةڭ تۇيۇنچالقى     se xiang  bao  he  du    色相/饱和度
+رةڭ چقرىۋېتىش     qu  se    去色
+رةڭ ئالماشتۈرۈش     ti  huan  yan  se    替换颜色
+تاللاشقا بۈلدغان رةڭ     ke  xuan  yan  se    可选颜色
+قانال ئالماشتورغۇچ     tong  dao   hun  he  qi    通道混合器
+ئةكس     fan  xiang    反相
+رةڭنى بارا ۋةر تةڭشمةك     se  tiao  jun  hua    色调均化
+چېگىرا قممةت     yu zhi    阈值
+رةڭ تةڭشةشنى ئايرىش     se  tiao  fen  li    色调分离
+ئۈزگىرش     bian  hua    变化
+رةسىم قوللنىش     ying  yong   tu  xiang    应用图象
+ھساپلاش     yun  suan    运算
+سۈرةت چوڭلقى     tu  xiang da  xiao    图象大小
+سۈرةت  تاختسنىڭ چوڭلقى     hua  bu  da  xiao    花布大小
+كېسىش     zai  qie    载切
+رةسىم تاختىسنى ئايلاندرۈش     xuan  zhuan  hua  bu    旋转画布
+ئىختيارى بولۇڭ     ren  yi  jiao  du    任意角度
+گورزنتال ئايلاندروش     shui  ping  fan  zhuan    水平翻转
+ۋېر تىكال ئايلاندرۈش     chui zhi fan zhuan    垂直翻转
+چاسا رةسىم     zhi  fang  tu    直方图
+ئىز     xian  yin    陷印
+قاتلام     tu  ceng  xin jian    图层新建
+قاتلام     tu  ceng      图层
+قاتلامنى تةڭشةش     tiao  zheng  tu  ceng    调整图层
+دېىكىراتسية     bei  jing    背景
+كۈچۈرلگةن قاتلام     tong  guo  kao  bei  de  tu ceng    通过拷贝的图层
+كسېتلگةن قاتلام     tong  guo  jian  qie de  tu  ceng    通过剪切的图层
+قاتلامنى  كۈچۈرۈش     fu  zhi  tu  ceng    复制图层
+قاتلامنى ئۈچۈرۈش     shan  chu   tu  ceng    删除图层
+قاتلام پارامىتىرى     tu  ceng  xuan  xiang    图层选项
+پارامىتىر تةڭشةش     tiao  zheng  xuan  xiang    调整选项
+ئۈنۈم     xiao  guo    效果
+كۈلةڭگة     tou ying    投影
+ئچكى ساية     nei  yin  ying    内阴影
+تاشقى نۈرلنىش     wai  fa   guang    外发光
+ئچكى  نورلنىش     nei  fa  guang    内发光
+يانتو يۈز ۋة قاپارتما     xie  mian  he  fu  diao    斜面和浮雕
+ئۈنۈمنى كۈچۈرۈش     kao  bei  xiao  guo    拷贝效果
+ئۈنۈمنى  كۇچۇرۈش     zhan  tie  xiao  guo    剪贴效果
+ئۈنۈمنى قاتلامغا چاپلاش     jiang  xiao  guo zhan  tie zhi    将效果粘贴至
+قاتلامنى ئۈلاش     lian  jie  tu  ceng    链接图层
+ئۈنۈمنى تازلاش     qing  chu  xiao guo    清除效果
+تولوق بولۇڭ     quan  jiao    全角
+قاتلام تۈرغۇزۈش     chuang  jian  tu  ceng    创建图层
+بارلىق ئونۇمنى يۇشورۇش     yin  cang  suo  you xiao  guo    隐藏所有效果
+تېكىسست     wen  zi    文字
+قاتلامنى ئايلاندروش     zhuan  huan  tu  ceng    转换图层
+گورزنتال      shui  ping    水平
+ۋېر تىكال      chui  zhi    垂直
+سۈرةت قاتلمنى قوشۇش بېتى ماسىكلاش     tian  jia  tu  ceng  meng  ban    添加图层蒙版
+ھةممسنى كۆرستىش     xian  shi  quan  bu    显示全部
+ھةممسنى  يوشۇرۈش     yin  cang  quan  bu    隐藏全部
+تالانغان رايونى كۇرستىش     xian  shi  xuan  qu    显示选区
+تالانغان رايۇنى يۇشورۈش     yin  cang  xuan  qu    隐藏选区
+سۈرةت قاتلمنى  ئېشلتىش بېتنى ماسكلاش     qi  yong  tu  ceng  meng  ban    启用图层蒙版
+ئالدنقى قاتلامنى تةھررلةش     yu  qian  yi  tu  ceng  bian  ji    与前一图层编辑
+تةھررلةشنى ئةمةلدىن قالدرۈش     qu  xiao  bian  ji    取消编辑
+رةتلةش     pai  lie    排列
+يوقرقى قاتلامنى بةلگلةش     zhi  wei  ding  ceng    置为顶层
+قاتلامنى ئالدغا سۈرۈش     qian  yi  yi  ceng    前移一层
+قاتلامنى كةينىگة سورۈش     hou  yi  yi  ceng    后移一层
+ئاستنقى قاتلامنى بةلگلةش     zhi  wei  di  ceng    置为底层
+تالانغان رايۇنى توغرلاش     yu  xuan  qu  dui  qi    与选区对齐
+ئوستگة توغرلاش     ding  dui  qi    顶对齐
+يوقۇرغا توغرلاش     chui  zhi  zhong  qi    垂直中齐
+ئاستغا توغۈرلاش     di  dui  qi    底对齐
+سولغا توغرلاش     zuo  dui  qi    左对齐
+گورزنتال توغرىلاش     shui  ping  zhong  qi    水平中齐
+ئۈڭغا تۇغرلاش     you  dui  qi    右对齐
+قاتلامنى ئۈلاش     fen  bu  lian  jie  tu  ceng    分布链接图层
+ئوستگة  ئاساسةن تارقاقلاشتورۈش     an ding  fen  bu    按顶分布
+ۋېر تىكال مةركةزدىن تارقاقلاشتۇرۇش     chui  zhi   zhong  xin  fen  bu    垂直中心分布
+ئاستغا ئاساسةن تارقاقلاشتۇرۇش     an  di  fen bu    按底分布
+سولغا ئاساسةن تارقاقلاشتۇرۈش     an  zuo  fen  bu    按左分布
+گور زۈنتال مةركةزدىن تارقاقلاشتۇرۈش     shui   ping  zhong  xin  fen  bu    水平中心分布
+ئوڭغا ئاساسةن تارقاقلاشتۇرۇش     an  you  fen  bu    按右分布
+كورندىغان قاتلامنى بېر ىكترۈش     he  bing   ke  jian tu  ceng    合并可见图层
+قاتلامنى بېرىكترۈش     pin  he  tu  ceng    拼合图层
+ياساش گىر ۋىكى     xiu  bian    修边
+گرۋةكنى چقرۋېتىش     qu  bian    去边
+قارا گىرۋةكنى چقرۋېتىش     yi  qu hei  se   zha  bian    移去黑色杂边
+ئاق گىرۋةكنى چقرۋېتىش     yi  qu bai  se   zha  bian    移去白色杂边
+تاللاش     xuan  ze    选择
+ھةممسنى تالاش     quan  xuan    全选
+تالاشنى ئةمةلدىن قالدرۇش     qu  xiao  xuan  ze    取消选择
+قايتا تاللاش     chong  xin  xuan  ze    重新选择
+تةتۇر تاللاش     fan    xuan    反选
+رةڭ دائىرسى     se  cai   fan  wei    色彩范围
+سلقلاش     yu  hua    羽化
+ئۇزگةرتىش     xiu  gai    修改
+چېگرانى كېڭةيتىش     kou  bian    扩边
+تۇزلةش     ping  hua    平滑
+كېڭةيتىش     kuo  zhan    扩展
+تارايتىش     shou  suo    收缩
+چىكلةشتۇرۇش     dian  zhuang   hua    点状花
+كىر ستللاشتورۇش     jing  ge  hua    晶格化
+ماسكا     ma  sai  ke    马赛克
+پارچة     sui  pian    碎片
+مىس ئويما     tong   ban   diao  ke    铜版雕刻
+بوياش     xuan  zha    渲杂
+،3Dئۆزگىرىش    3D bian  huan    3D  变换
+بولۇت قاتلمى     fen  ceng  yun  cai    分层云彩
+يورتۇش ئۈنۈمى     guang  zhao  xiao  guo     光照效果
+نۈر ھالقسى     zhen  tou  guang  yun    镇头光晕
+رةسىم توشقوزۇش     wen  li  tian  chong    纹理填充
+بولۇت قاتلمى     yun  cai    云彩
+گوزةل سةنةت ئۈنۈمى     yi  shu  xiao   guo    艺术效果
+تام رةسمى     bi  hua    壁画
+رةڭلىك قېرنداش     cai  se qian  bi    彩色铅笔
+توم قېرنداش     cu  cao  cai  bi    粗糙彩笔
+ئاستنقى ئونۈم     di  wen  xiao  guo    底纹效果
+رةڭ تةڭشةش ئۈنۈمى     tiai  se  dao    调色刀
+قۇرۇق قةلةم     gan  hua  bi    干画笔
+ئېلان چېگرسى     hai   bao   bian  yuan    海报边缘
+بولۇڭ سىزقى     cheng  jiao de  xian  tiao    成角的线条
+پۇركگۇچ     pen  bi    喷笔
+پۇركۇچ سېزقى     pen  se  xian  tiao    喷色线条
+چېگرانى قېنقلاش     qiang hua  de  bian  yuan    强化的边缘
+قېنىق سىزق     shen  se  xian  tiao    深色线条
+كۇلةڭگةسزقى     yin  ying  xian    阴影线
+بۈياق ئۇچۇرى     you  mo  gai  kuang    油墨概况
+غۈېالاشتورۇش     mo  hu    模糊
+ھةركةت غۈۋالغى     dong  gan  mo  hu    动感模糊
+گاۋۈس گۈۋالغى     gao  si  mo  hu    高斯模糊
+تېخمۈ غۈۋالاشتۇرۈش     jin  yi  bu  mo  hu    进一步模糊
+مةركةزگة غۈۋالاشتۇرۈش     jing  xiang  mo  hu    经向模糊
+ئالاھدة غۈۋالاشتۇرۈش     te  shu  mo  hu    特殊模糊
+بۈراش     niu  qu    扭曲
+دولقۇن     bo  lang     波浪
+دولقۇن ئىزى     bo  wen    波纹
+ئةينةك     bo  li    玻璃
+دېڭىز دولقۇن ئىزى     hai yang  bo  wen    海洋波纹
+قويۇپ كوردىناتى     ji  zuo  biao    级坐标
+قسىش     ji  ya    挤压
+نۇر چېچش     kuo  san  liang  guang    扩散亮光
+ئالماشتۇرۇش     qie  bian    切变
+شار يۇزى     qiu  mian  hua    球面化
+سودولقۇنى     shui  bo    水波
+ئايلاندۇرۇپ بۈراش     xuan  zhuan  niu  qu    旋转扭曲
+ئالماشتۇرۇش بةلگسى     zhi  huan    置换
+ئۈتكۈرلةش     rui  hua    锐化
+،USMئۆتكۈرلةش    USM   rui   hua    USM   锐化
+تېخمۈ ئۈتكۇرلةش     jin  yi   bu  rui  hua    进一步锐化
+چېگرانى ئۈتكۇرلةش     rui  hua  bian  yuan    锐花边缘
+سۈرةت     shi  pin    视频
+،NTSCرةڭ    NTSC  yan  se    NTSC颜色
+قور بۈيچة     zhu  hang    逐行
+تېز سىزما     suo  miao    索描
+يېرىم تةڭشةك رةسىم     ban  tiao   tu  an    半条图按
+قةغةز پارچسى     bian  tiao  zhi    便条纸
+رةڭلىك بۈر     cai  se  fen  bi    彩色粉笔
+بۈر ۋة كاربۈن قةلةم     fen  bi  he  tan  bi    粉笔和炭笔
+كۈپةيتمسى     fu  ben    副本
+توخوم سېرقى     ge  huang    铬黄
+رةسىم قةلمى     hui  tu  bi    绘图笔
+ئاساسنى كۈپتۇرۈش     ji  di  tu  xian    基低凸现
+سو بۈياق قةغزى     shui  cai  hua  zhi    水彩画纸
+گىرۋكنى يىرتىش     si  bian    撕边
+يالتراق ئۈنۈمى     su  liao   xiao   guo    塑料效果
+كاربۈن قةلةم     tan  bi    炭笔
+تامغا     tu  zhang    图章
+تور شةكىل     wang  zhuang    网状
+زىننةتلةش     wen  li    纹理
+يوچۈق     gui  lie  feng    龟裂缝
+دانچة     ke  li    颗粒
+ماسكا چاپلاش     ma  sai  ke  pin   tie    马赛克拼贴
+رةسىم قوشوش     pin  zhui  tu    拼缀图
+رةڭلةش ئةينكى     za  se  bo  li    杂色玻璃
+زننةتلةشتۇرۇش     wen  li  hua    纹理化
+ئېلېمېنتىلاشتۇرۇش     xiang  suo   hua    象索化
+رةڭ بولةكلةش     cai   kuai  hua    彩块化
+رةڭنى يېرىم تةڭشةش     cai  se  ban  tiao    彩色半调
+تاللاشنى كېڭةيتىش     kuo  da  xuan  qu    扩大选区
+ئۈخشاشنى تاللاش     xuan  qu  xiang  si    选取相似
+تاللانغان رايونى كرگۇزۈش     bian  huan   xuan  qu    变换选区
+كىر گۇزۇلگةن رايۇنى تالاش     zai  ru   xuan  qu    载入选区
+تاللانغان  رايۇنى ساقلاش     cun  chu  xuan  qu    存储选区
+لېنزا     lv  jing    滤镜
+ئالدنقى لېزا مةشغۈلاتى     shang  ci   lv  jing cao  zuo    上次滤镜操作
+چېكنىش     tui  chu    退出
+قېلپلاشتۇرۇش     feng ge  hua    风格化
+چېگرانى ئىزدةش     cha  zhao  bian  yuan    查找边缘
+تةڭلىك سىزقى     deng  gao  xian    等高线
+قاپارتما ئۇنمى     fu  diao  xiao  guo    浮雕效果
+چېچش     kuo  san     扩散
+قوشۇپ چاپلاش     pin  tie    拼贴
+زىيادة نورلاندۇرۇش     pu  guang  guo  du    曝光过度
+كۇپتۇرۇش     tu  chu    凸出
+چېگرانى نورلاندۇرۇش     zhao  liang  bian  yuan    照亮边缘
+قةلةم بلةن چېگرلاش     hua  bi  miao   bian    画笔描边
+بولوت     hai  mian    海绵
+سىزمچلىق رةڭلشى     hui  hua  tu  mo    绘画涂抹
+فليونكا دانچلرى     jiao  pian  ke  li    胶片颗粒
+ياغاچ ئۈيما     mu  ke    木刻
+نېئۈن چېرقى     dou  hong  deng  guang    蔸红灯光
+سۈبۈياق     shui   cai    水彩
+يالتراق قاپلاش     su  liao   bao  zhuang    塑料包装
+رةڭلةش چوتكسى     tu  mo   bang    涂抹棒
+ئارلاشما رةڭ     za  se      杂色
+تۇمان ۋة سزلغان ئىز     meng  jian  yu  hua  hen    蒙尖与划痕
+داغ يوقتۇش     qu  ban    去班
+ئارلاشما رةڭ قوشۇش     tian  jia  za  se     添加杂色
+ئارلىق قىممةت     zhong  jian  zhi    中间值
+باشقلار     qi  ta    其他
+يوقرى پةرقنى ساقلاش     gao  fan  cha  bao  liu    高反差保留
+خانة سۇرۇش     wei  yi    位移
+خاس ئېنقلما     zi  ding     自定
+ئةڭ چوڭ قممةت     zui  da  zhi    最大值
+ئةڭ كچىك قممةت     zui  xiao  zhi    最小值
+سوتامغىسى ئۇقۇش     du  qu  shui  yin    读取水印
+سو تامغسى قۇشۇش     qian  ru  shui  yin    嵌入水印
+كۇرۇش     shi    tu    视图
+يېڭى كۇرنۈش     xin  shi  tu    新视图
+تةقلدى كۈرستىش     yu  lan    预览
+زةڭگةر     qing  se    青色
+قېنىق قىزل     yang hong    洋红
+سېرق     huang  se    黄色
+قارا     hei  se    黑色
+رةڭ رايۇنى ئۇچۇرى     se yu  jing  gao    色域警告
+چوڭايتىش     fang  da    放大
+كىچكلتىش     suo  xiao    缩小
+تولوق كۇرستىش     man  hua  bu  xian  shi    满画布显示
+ئةملى رةڭ ئىېلېمنتى     shi   ji  xiang  suo    实际象索
+بېسىش ئۇلچمى     da yin  chi  cun    打印尺寸
+چېگرنى يوشۇرۇش     yin   cang  bian  yuan    隐藏边缘
+موساپنى يۇشۇرۇش     yin  cang  lu  jing    隐藏路径
+سىز غوچنى كورستىش     xian  shi biao  chi    显示标尺
+پايدلنىش سىزقنى يوشۇرۇش     yin cang  san  kao  xian    隐藏叁考线
+پايدلنىش  سىزقنى چاپلاش     tie  jin  san kao   xian      贴紧叁考线
+پايدلنىش سىزقنى قولۇپلاش      suo  ding  san  kao  xian    锁定叁考线
+پايدلنىش سىزقنى تازلاش     qing  chu  san  kao  xian    清除叁考线
+تور كاتكنى كۈرستىش     xian shi  wang  luo    显示网络
+تورنى زىچ چاپلاش     tie  jin  wang  luo    贴进网络
+كۈزنةك     chuang  kuo    窗口
+قاتلاش     ceng  die    层叠
+قۇشۈپ چاپلاش     pin  tie    拼贴
+سىن بةلگة رةتلةش     pai  lie  tu  biao    排列图标
+ھةممنى ئىتۋېتىش     guan  bi   quan  bu    关闭全部
+قۇرالنى يۇشۇرۈش     yin  cang  gong  ju    隐藏工具
+يول باشلاش ئةسۋابى     xian  shi   dao  hang  qi    显示导航器
+ئۇچۇر يوشۈرۈش     yin  cang  xin  xi    隐藏信息
+تاللاشنى يوشۇرۈش     xian  shi   xuan  xiang    显示选项
+رةڭ كورستىش     xian  shi   yan  se    显示颜色
+رةڭ تاختسنى يوشۇرۈش     yin cang  se  ban    隐藏色板
+رةسىم قةلمنى كۇرستىش     xian  shi  hua  bi    显示画笔
+قاتلامنى يۇشۈرۈش     yin  cang  tu  ceng    隐藏图层
+قانال كۈرستىش     xian  shi  tong   dao    显示通道
+مۇساپة كۇرستىش     xian  shi  lu  jing    显示路径
+تارىخى خاترنى كۈرستىش     xian  shi  li  shi  ji  lu    显示历史记录
+ھةركةت كورستىش     xian  shi   dong  zuo    显示动作
+ھالةت ستوننى كۈرستىش     xian  shi  zhuang tai  lan    显示状态栏
+موندةرجة     mu  lu    目录
+ياردةم ئىزدةش توغرسدا     sou  suo   bang  zhu  guan  yu    搜索帮助关于
+كۈنۈپكا تاختسى     jian  pan    键盘
+ياردةمدىن پايدلنىش توغرسدا     ru  he  shi  yong  bang  zhu    如何使用帮助
+،Phtoshopھةققىدة    guan  yu  Phtoshop    关于Phtoshop
+ئۈنۈم قۈرالى توغرسدا     guan  yu  qiang  xiao  gong  ju    关于墙效工具
+سۈرةت تةڭشةش     tiao  zheng  tu  xiang    调整图象
+رةڭ باشقۇرغۈچى     se  cai  guan  li  xiang  dao    色彩管理向导
+سۈزۈك سۈرةت چىقرىش     shu  chu  tou   ming  tu  xiang    输出透明图象
+تاماملانماق    wan   cheng    完成</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=27" title="پويىزدا خەنزۇچە سۆزلىشىش"  target="_blank" class="tag_title_link">پويىزدا خەنزۇچە سۆ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=26" title="بېلەت سېتىش ئورنىدا (خەنزۇچە ئۆگىنىش)"  target="_blank" class="tag_title_link">بېلەت سېتىش ئورنىد...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=25" title="خەنزۇ تىلىدىكى&nbsp;&nbsp;&lt;再&gt;,&lt;还&gt; ئىشلىتىلىشى توغرىسىدا"  target="_blank" class="tag_title_link">خەنزۇ تىلىدىكى  &lt;再&gt;,&lt;...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=24" title="قاتناش"  target="_blank" class="tag_title_link">قاتناش</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=23" title="2009–يىللىق HSK ئىمتىھانى ئورۇنلاشتۇرۇلىشى"  target="_blank" class="tag_title_link">2009–يىللىق HSK ئىمتىھ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=22" title="*&amp;ئىشەنسىڭىز دەرھال كۆرۈڭ!(مەندىن خوش بوپ قالىسىز!!)&amp;*"  target="_blank" class="tag_title_link">*&amp;ئىشەنسىڭىز دەرھال...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=21" title="كومپىيوتېر   لۇغىتى 电脑  词汇"  target="_blank" class="tag_title_link">كومپىيوتېر   لۇغىت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=20" title="مېھمان بولۇش zuò kè 作客"  target="_blank" class="tag_title_link">مېھمان بولۇش zuò kè 作...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=19" title="运动,yùn dòng,تەنتەربىيە,"  target="_blank" class="tag_title_link">运动,yùn dòng,تەنتەربىي...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=18" title="خەنزۇچە سۆزلىشىش (كۇتۇپخانىدا)"  target="_blank" class="tag_title_link">خەنزۇچە سۆزلىشىش (ك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=17" title="[خەنزۇتىلى]مەكتەپ"  target="_blank" class="tag_title_link">[خەنزۇتىلى]مەكتەپ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=16" title="[خەنزۇتىلى]قاتناش قورالى"  target="_blank" class="tag_title_link">[خەنزۇتىلى]قاتناش ق...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=15" title="خەنزۇچە ئۆگىنىش (مېھمان بولۇش)"  target="_blank" class="tag_title_link">خەنزۇچە ئۆگىنىش (مې...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=14" title="可以用“您们”吗"  target="_blank" class="tag_title_link">可以用“您们”吗</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=13" title="خەنزۇچە سۆزلىشىش&nbsp; ( ئائىلە)"  target="_blank" class="tag_title_link">خەنزۇچە سۆزلىشىش  ( ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=12" title="خەنزۇچە (ئائىلە)"  target="_blank" class="tag_title_link">خەنزۇچە (ئائىلە)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=11" title="خەنزۇچە ئۆگىنىش (ئۇچرىشىش، تونۇشۇش)"  target="_blank" class="tag_title_link">خەنزۇچە ئۆگىنىش (ئۇ...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/til_yeziq/search.php?catid=37&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=27" title="پويىزدا خەنزۇچە سۆزلىشىش"  target="_blank" class="tag_title_link">پويىزدا خەنزۇچە سۆزلىشى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=26" title="بېلەت سېتىش ئورنىدا (خەنزۇچە ئۆگىنىش)"  target="_blank" class="tag_title_link">بېلەت سېتىش ئورنىدا (خەن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=25" title="خەنزۇ تىلىدىكى&nbsp;&nbsp;&lt;再&gt;,&lt;还&gt; ئىشلىتىلىشى توغرىسىدا"  target="_blank" class="tag_title_link">خەنزۇ تىلىدىكى  &lt;再&gt;,&lt;还&gt; ئى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=24" title="قاتناش"  target="_blank" class="tag_title_link">قاتناش</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=23" title="2009–يىللىق HSK ئىمتىھانى ئورۇنلاشتۇرۇلىشى"  target="_blank" class="tag_title_link">2009–يىللىق HSK ئىمتىھانى ئ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=22" title="*&amp;ئىشەنسىڭىز دەرھال كۆرۈڭ!(مەندىن خوش بوپ قالىسىز!!)&amp;*"  target="_blank" class="tag_title_link">*&amp;ئىشەنسىڭىز دەرھال كۆرۈ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=21" title="كومپىيوتېر   لۇغىتى 电脑  词汇"  target="_blank" class="tag_title_link">كومپىيوتېر   لۇغىتى 电脑 ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=20" title="مېھمان بولۇش zuò kè 作客"  target="_blank" class="tag_title_link">مېھمان بولۇش zuò kè 作客</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=19" title="运动,yùn dòng,تەنتەربىيە,"  target="_blank" class="tag_title_link">运动,yùn dòng,تەنتەربىيە,</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=18" title="خەنزۇچە سۆزلىشىش (كۇتۇپخانىدا)"  target="_blank" class="tag_title_link">خەنزۇچە سۆزلىشىش (كۇتۇپ...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/til_yeziq/show_js.php?itemid=21"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

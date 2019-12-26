@@ -1,0 +1,3 @@
+﻿try {setidval('hits','1664');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/edebiyat/2007/1012/11033.htm">ﺗﺎﺷﺒﻮﺭﺍﻥ: ﺗﻪﻧﻬﺎ ﯪﻳﺎﻝ</a></li><li>  كىيىنكىسى  :  <a href="/edebiyat/2007/1012/11035.htm">ئاشكارلاش .... ( ﻧﻪﺳﯩﺮﻟﻪﺭ )</a></li>');}catch(e){}

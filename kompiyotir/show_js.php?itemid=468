@@ -1,0 +1,3 @@
+﻿try {setidval('hits','1922');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/kompiyotir/show.php?itemid=467">QQ توپتىكى بىكار تەلەتلەرنى ئايرىش ئۇسۇلى (يېڭى)</a></li><li>  كىيىنكىسى  :  <a href="/kompiyotir/show.php?itemid=469">phpwindتىكى تېما ئېلىشتا ئەمدى قىينالمايسىز</a></li>');}catch(e){}

@@ -1,0 +1,256 @@
+﻿
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>DDVنىڭ ئەسەر توپلىمى-Bilqut Uyghur web</title>
+<meta name="keywords" content="ئەزالار مەركىزىدە">
+<meta name="description" content="ئەزالار مەركىزىدە">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/toreserliri/" class="red"> تورداشلار ئەسەرلىرى </a>
+         | <a class="razimantur" href="/toreserliri/list.php?catid=296" >ئەدەبىي ئەسەرلەر</a>
+
+ | <a class="razimantur" href="/toreserliri/list.php?catid=297" >دۇنيادىكى ئىشلار</a>
+
+ | <a class="razimantur" href="/toreserliri/list.php?catid=298" >تەرمىلەر</a>
+
+ | <a class="razimantur" href="/toreserliri/list.php?catid=299" >كۆڭۈل سوۋغىسى</a>
+
+ | <a class="razimantur" href="/toreserliri/list.php?catid=300" >تەنتەربىيە</a>
+
+ | <a class="razimantur" href="/toreserliri/list.php?catid=301" >تارىخ</a>
+
+ | <a class="razimantur" href="/toreserliri/list.php?catid=302" >ساغلاملىق</a>
+
+ | <a class="razimantur" href="/toreserliri/list.php?catid=303" >تۇرمۇش</a>
+
+ | <a class="razimantur" href="/toreserliri/list.php?catid=304" >مەدەنىيەت</a>
+
+ | <a class="razimantur" href="/toreserliri/list.php?catid=305" >مائارىپ</a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<table cellspacing="0" cellpadding="0" width="950">
+<tr>
+<td valign="top" class="left">
+
+<h1>DDV- نىڭ ئارخىپنى كۆرۋاتسىز</h1>
+<table cellpadding="0" cellspacing="0" class="righttable">
+  <tr>
+   <td class="pic" align="center"><img id="UserFace" src="/member/images/defaultface.gif" width="150" height="172"></td>
+  </tr>
+  <tr>
+   <td> 
+             <table cellSpacing=0 cellPadding=0 width="100%">
+                <tr>
+                  <td width="60" class="td_right">ئىسىم ـ فامىلىسى:</td>
+                  <td width="150" class="td_left"></td>
+                </tr>
+                <tr>
+                  <td class="td_right">جىنسىى: </td>
+                  <td class="td_left">ئەر</td>
+                </tr>
+                <tr>
+                  <td class="td_right">تۇغۇلغان ۋاقتى: </td>
+                  <td class="td_left">نامەلۇم</td>
+                </tr>
+                <tr>
+                  <td class="td_right">ئادىرىسى: </td>
+                  <td class="td_left">新疆维吾尔自治区-چەكلەنمەيدۇ</td>
+                </tr>
+                <tr>
+                  <td class="td_right">ئادىرسى:</td>
+                  <td class="td_left"></td>
+                </tr>
+                <tr>
+                  <td class="td_right">پوچتا نومۇرى: </td>
+                  <td class="td_left"></td>
+                </tr>
+                <tr>
+                  <td class="td_right">تېلفۇن:</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td class="td_right">تور بېكىتى: </td>
+                  <td class="td_left"><a href="" target="_blank"></a></td>
+                </tr>
+                <tr>
+                  <td class="td_right">QQ:</td>
+                  <td class="td_left"><a href="https://wpa.qq.com/msgrd?V=1&Uin=&Site=www.bilqut.com&Menu=yes" title="چەكسىڭىز QQ بىلەن پاراڭلىشالايسىز" target="_blank"></a></td>
+                </tr>
+                <tr>
+                  <td class="td_right">MSN：</td>
+                  <td class="td_left"></td>
+                </tr>
+                <tr>
+                  <td class="td_right">:ICQ</td>
+                  <td class="td_left"></td>
+                </tr>
+                <tr>
+                  <td class="td_right">:SKYPE</td>
+                  <td class="td_left"></td>
+                </tr>
+                <tr>
+                  <td class="td_right">: Zhifubao</td>
+                  <td class="td_left"></td>
+                </tr>
+                <tr>
+                  <td class="td_right">: Bibao</td>
+                  <td class="td_left"></td>
+                </tr>
+                <tr>
+                  <td class="td_right">ئىمزا: </td>
+                  <td class="td_left"></td>
+                </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+</td>
+<td width="10" valign="top">
+</td>
+<td valign="top" class="right">
+<div class="memberborder_1">
+<div class="memberborder_2">
+<h1><a href="/member/member.php?username=DDV" class="red">DDV - نىڭ ئەسەرلىرى </a></h1>  <table cellpadding="2" cellspacing="1" class="righttable">
+    <tr>
+      <td align="left" colspan="3" class="tablerowhighlight">
+        <table cellpadding="0" cellspacing="0" width="100%" height="25" class="gray">
+          <tr>
+            <td width="80%" class="td_left">&nbsp;&nbsp;. <a href=""><strong></strong></a>&nbsp;&nbsp;&nbsp;&nbsp;[تىما سانى ]: </td>
+            <td class="td_left"><a href="/toreserliri/">تېخىمۇ كۆپ>></a></td>
+          </tr>
+         </table>
+
+      </td>
+    </tr>
+    <tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+      <td>·<a href="/toreserliri/show.php?itemid=96" target="_blank">تەنھالىق ساداسى</a></td>
+      <td align="center" width="80">2028</td>
+      <td align="center" width="100">2010-02-27</td>
+    </tr>
+
+
+    <tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+      <td align="center" colspan="3" height="25">جەمئى: <b>1</b>&nbsp;&nbsp;&nbsp;&nbsp;باش بەت
+&nbsp;ئالدىنقى بەت
+&nbsp;كىينكى بەت
+&nbsp;ئاخىرقى بەت&nbsp;بە ت: <b><font color=red>1</font>/1</b>&nbsp;&nbsp;<input type='text' name='page' id='page' class='page' size='2' onKeyDown="if(event.keyCode==13) {window.location='https://www.bilqut.com/member/member.php?username=DDV&channelid=43&page='+this.value; return false;}"> <input type='button' value='GO' class='gotopage' style='width:30px' onclick="window.location='https://www.bilqut.com/member/member.php?username=DDV&channelid=43&page='+$('page').value">
+</td>
+    </tr>
+  </table>
+</form>
+</div></div>
+</td>
+</tr>
+</table>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

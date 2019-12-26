@@ -1,0 +1,3 @@
+﻿try {setidval('hits','2753');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/madiniytimiz/show.php?itemid=2365">ۋاقىتسىز ئۆچكەن كىنو چولپىنى  _ ئابدۇراخمان  ھاۋاز</a></li><li>  كىيىنكىسى  :  <a href="/madiniytimiz/show.php?itemid=2367">خەلقنىڭ قەلبىدىكى ئارتىس _ ئايشەم كېرىم</a></li>');}catch(e){}

@@ -1,0 +1,3 @@
+﻿try {setidval('hits','4870');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/toreserliri/show.php?itemid=97">ياردەم!</a></li><li>  كىيىنكىسى  :    يوق</li>');}catch(e){}

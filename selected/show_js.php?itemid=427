@@ -1,0 +1,3 @@
+﻿try {setidval('hits','2153');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/xewer/show.php?itemid=426">شىنجاڭلىق تەنھەرىكەتچىلەر 5 – نۆۋەتلىك ئاسىيا ياشلار تەپمە بوكس مۇسابىقىسىدە زەپەر قۇچتى</a></li><li>  كىيىنكىسى  :  <a href="/xewer/show.php?itemid=428">پۇتبول سەھنىسىدىكى پۇتبولغا دو تىكىش ئەۋج ئالماقتا</a></li>');}catch(e){}

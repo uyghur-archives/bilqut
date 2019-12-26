@@ -1,0 +1,318 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ئۇيغۇر تىلىدىكى تۇراقلىق سۆز بىرىكمىسى ۋە تۇراقسىز  سۆز بىرىكمىسىنى ئوقۇتۇش ھەققىدە-مەدەنىيىتىمىز-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,مەدەنىيىتىمىز">
+<meta name="description" content="ئۇيغۇر تىلىدىكى تۇراقلىق سۆز بىرىكمىسى ۋە تۇراقسىز  سۆ ...">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/madiniytimiz/" class="red"> مەدەنىيىتىمىز</a>
+         | <a class="razimantur" href="/madiniytimiz/list.php?catid=71" >شەھەرلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=72" >ناھىيىلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=73" >ئوبلاستلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=74" >ۋىلايەتلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=75" >رېۋايەتلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=76" >تەمسىللىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=77" >ئۆلچەملىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=78" >چۆچەكلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=79" >سەنئەتكارىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=81" >تىل-يېزىقىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=82" >ئەپسانىلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=83" >مەسەللىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=84" >تائاملىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=85" >شەخسلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=86" >ئويۇنلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=88" > چالغۇلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=89" > ھۈنەرلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=90" > يوسۇنلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=91" > تارىخمىز  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/madiniytimiz/">مەدەنىيىتىمىز</a> >> <a href="/madiniytimiz/list.php?catid=81">تىل-يېزىقىمىز </a> >>  ئۇيغۇر تىلىدىكى تۇراقلىق سۆز بىرىكمىسى ۋە تۇراقسىز  سۆز بىرىكمىسىنى ئوقۇتۇش ھەققىدە</div>
+<!--主标题--><h1>ئۇيغۇر تىلىدىكى تۇراقلىق سۆز بىرىكمىسى ۋە تۇراقسىز  سۆز بىرىكمىسىنى ئوقۇتۇش ھەققىدە </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-10-13 09:41:49&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">1049</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut"><P>ئۇيغۇر تىلىدىكى تۇراقلىق سۆز بىرىكمىسى ۋە تۇراقسىز &nbsp;سۆز بىرىكمىسىنى ئوقۇتۇش ھەققىدە</P>
+<P>&nbsp; بىز تولۇقسىز ئوتتۇرا مەكتەپ ئۇيغۇر تىلى دەرسلىكىنىڭ لېكسىكا ۋە سىنتاكسىس قىسمىدا ئۇيغۇر تىلىمىزدىكى سۆز بىرىكمىلىرىنىڭ تۇراقلىق سۆز بىرىكمىسى ۋە تۇراقسىز سۆز بىرىكمىسىدىن ئىبارەت ئىككى تۈرگە بۆلۈنىدىغانلىقىنى، ئۇلارنىڭ ئورتاقلىقى ۋە پەرقىنى تەپسىلىي چۈشەندۈرۈشىمىزگە توغرا كېلىدۇ. <BR>&nbsp; 1. تۇراقلىق&nbsp; سۆز بىرىكمىسى بىلەن تۇراقسىز سۆز بىرىكمىسىنىڭ ئورتاقلىقى ھەققىدە تەپسىلىي توختىلىش كېرەك. <BR>&nbsp; )1( ھەر ئىككىلىسى ئىككىدىن ئارتۇق سۆزنىڭ بىرىكىشىدىن تۈزۈلىدۇ. مەسىلەن:<BR>&nbsp;تۇراقلىق سۆز بىرىكمىسى<BR>&nbsp; قاش قارايغان چاغ<BR>&nbsp; ئوقۇرى ئېگىز<BR>&nbsp; جىگىرى يوق<BR>&nbsp; تۇراقسىز سۆز بىرىكمىسى<BR>&nbsp; قىزىل ئۈزۈم<BR>&nbsp; تىك قىيا<BR>&nbsp; قىيىن سوئال<BR>&nbsp; <BR>&nbsp; )2( ئۇدۇل مەنىلىك تۇراقلىق سۆز بىرىكمىسى ۋە تۇراقسىز سۆز بىرىكمىسىنىڭ ئارىسىغا ئوخشاشلا بەزى ماس كېلىدىغان تەركىبلەرنى قوشۇشقا بولىدۇ. مەسىلەن: <BR>تۇراقلىق سۆز بىرىكمىسى<BR>&nbsp; ئەندىر قوغۇنى — ئەندىرىنىڭ قوغۇنى<BR>&nbsp; خوتەن مائارىپى — خوتەننىڭ مائارىپى<BR>تۇراقسىز سۆز بىرىكمىسى<BR>&nbsp; ئۇنى كېلەمدىكىن دەپ — ئۇنى تېزرەك كېلەمدىكىن دەپ <BR>&nbsp; ۋەتەننى قوغداش — ۋەتەننى جان تىكىپ قوغداش<BR>&nbsp; )3( مەيلى تۇراقلىق سۆز بىرىكمىسى بولسۇن ياكى تۇراقسىز سۆز بىرىكمىسى بولسۇن ھەر ئىككىلا&nbsp; جۈملىنىڭ قۇرۇلۇش ماتېرىيالى بولالايدۇ. مەسىلەن: <BR>&nbsp; <BR>&nbsp; تۇراقلىق سۆز بىرىكمىسى<BR>&nbsp; <BR>&nbsp; ئاق كۆڭۈل — مۇختار ئاق كۆڭۈل&nbsp; بالا بولدى<BR>&nbsp; تۇراقسىز سۆز بىرىكمىسى<BR>&nbsp; تەكلىپ قىلماق — ساۋاقداشلار تۇرسۇن مۇئەللىمنى ئۇسسۇل ئويناپ بېرىشكە تەكلىپ قىلدى. <BR>&nbsp; 2. تۇراقلىق سۆز بىرىكمسىى بىلەن تۇراقسىز سۆز بىرىكمىسىنىڭ پەرقى توغرىسىدىكى ئۇقۇملارنى چۈشەندۈرۈشكە ئالاھىدە ئەھمىيەت بېرىش لازىم. <BR>&nbsp; )1( تۇراقلىق سۆز بىرىكمىسى تەركىبىدىكى سۆزلەر تۇراقلىق بولىدۇ. ئۇلارنىڭ ئورنىنى ئالماشتۇرۇپ ياكى بىرىكمە شەكلىنى ئۆزگەرتىپ ئىشلىتىشكە بولمايدۇ. تۇراقسىز سۆز بىرىكمىسى ئېھتىياجغا ئاساسەن تۈزۈلىدۇ. ئۇلارنى پارچىلاشقا ئالماشتۇرۇپ ئىشلىتىشكىمۇ بولىدۇ. مەسىلەن: <BR>&nbsp; تۇراقلىق سۆز بىرىكمىسى<BR>&nbsp; مېغىزىنى چاقماق<BR>&nbsp; يىلان چېقىۋالماق<BR>&nbsp; پۇتى كۆيگەن توخۇدەك<BR>&nbsp; تۇراقسىز سۆز بىرىكمىسى<BR>&nbsp; ئون پارچە ئاسەر<BR>&nbsp; ئۆزىنى قەدىرلەش<BR>&nbsp; تاتلىقىنى تاللاپ<BR>&nbsp; يۇقىرىقى مىساللاردىكى &gt;تاتلىقىنى تاللاپ&lt; دېگەن سۆز بىرىكمىسىنى &gt;ئاچچىقىنى تاللاپ، كىچىكىنى تاللاپ…&lt; دېگەندەك سۆزلەرگە ئالماشتۇرۇپ ئىشلىتىشكە بولىدۇ. ئەمما &gt;پۇتى كۆيگەن توخۇدەك&lt; دېگەن تۇراقلىق بىرىكمىنى &gt;پۇتى كۆيگەن كەپتەردەك&lt; دېگەن سۆزلەرگە ئالماشتۇرۇپ ئىشلىتىشكە بولمايدۇ. <BR>&nbsp; )2( تۇراقلىق سۆز بىرىكمىسى تەركىبىدىكى سۆزلەرنىڭ قانچە بولۇشىدىن قەتئىينەزەر ئۇلار بىرلىشىپ بىرلا مەركىزىي مەنىنى ئىپادىلەيدۇ. تۇراقسىز سۆز بىرىكمىسىنىڭ بەزىلىرى بىرلا خىل مەنىنى ئىپادىلىسىمۇ يەنە بەزىلىرى ھەرخىل مەنىنى ئىپادىلەيدۇ. مەسىلەن:<BR>&nbsp; تۇراقلىق سۆز بىرىكمىسى<BR>&nbsp; بېشىغا دۆلەت قۇشى قونماق<BR>&nbsp; ئاغزى بوش<BR>&nbsp; بىر قوشۇق قېنىنى تىلىمەك<BR>تۇراقسىز سۆز بىرىكمىسى<BR>&nbsp; ئۇزۇن چاپان )بىرلا مەنىنى بىلدۈرىدۇ(<BR>&nbsp; باغلاپ قويماق — بەلنى باغلىماق، ئېشەكنى باغلاپ قويماق<BR>&nbsp; )3( تۇراقلىق سۆز بىرىكمىسى — مەنە جەھەتتىن مۇرەككەپلىككە،&nbsp; تۈزۈلۈش&nbsp; جەھەتتىن تۇراقلىققا ئىگە بولۇپ، بىرلا لېكسىكىلىق مەنە ئاڭلىتىدۇ. تۇراقسىز سۆز بىرىكمىسى —&nbsp; ئوي - پىكىرنى ئىپادىلەش ئېھتىياجىغا ئاساسەن ئىككى ياكى ئۇنىڭدىن ئارتۇق سۆزنىڭ ۋاقىتلىق بىرىكىشىدىن ھاسىل بولغان سىنتاكسىسلىق بىرلىك بولۇپ، مەنە جەھەتتىن تۇراقلىق بولمايدۇ. تۈزۈلۈشىمۇ ھەرخىل بولىدۇ. مەسىلەن: <BR>&nbsp; <BR>&nbsp; تۇراقلىق سۆز بىرىكمىسى<BR>&nbsp; يۇرۇڭقاش دەرياسى<BR>&nbsp; ئۆپكىسى يوق<BR>&nbsp; قولى ئەگرى<BR>تۇراقسىز سۆز بىرىكمىسى<BR>&nbsp; پاكىز ئۆي<BR>&nbsp; كۆپ ماركا<BR>&nbsp; پاختىلىق كىيىم<BR>)4( ھەرقانداق سۆز بىرىكمىسىنىڭ ئارىسىغا بەزى تەركىبلەرنى قوشۇپ كېڭەيتكىلى بولىدۇ. ئەمما ئۇدۇل مەنىلىك تۇراقلىق سۆز بىرىكمىسىدىن باشقا تۇراقلىق بىرىكمىلەرنىڭ ئارىسىغا باشقا تەركىبلەرنى قوشۇشقا بولمايدۇ. مەسىلەن:<BR>تۇراقلىق سۆز بىرىكمىسى<BR>&nbsp; خوتەن گىلىمى — خوتەننىڭ گىلىمى<BR>&nbsp; چىرىيە ئانارى — چىرىيەنىڭ ئانارى<BR>&nbsp; لوپنۇر كەندىرى — لوپنۇرنىڭ كەندىرى<BR>تۇراقسىز سۆز بىرىكمىسى<BR>&nbsp; قىزىل ئورۇندۇق — قىزىل سىرلانغان ئورۇندۇق<BR>&nbsp; پاكىز سىنىپ — پاكىز تازىلانغان سىنىپ<BR>&nbsp; ئېگىز دەرەخ — ئېگىز، تۈز ئۆسكەن دەرەخ<BR>&nbsp; )5( ئۇيغۇر تىلىدىكى تۇراقلىق تەركىبلەر مەنىسى ۋە تۈزۈلۈشىگە&nbsp; ئاساسەن تۇراقلىق بىرىكمىلەر،&nbsp; ئىدىيوملار، ماقال - تەمسىللەر ۋە ھېكمەتلىك سۆزلەردىن ئىبارەت تۆت تۈرگە بۆلۈنىدۇ. تۇراقسىز سۆز بىرىكمىسى — قۇرۇلما ئالاھىدىلىكىگە ئاساسەن ئاددىي سۆز بىرىكمىسى ۋە مۇرەككەپ سۆز بىرىكمىسىدىن ئىبارەت ئىككى تۈرگە بۆلۈنىدۇ. مەسىلەن:<BR>&nbsp;&nbsp;&nbsp; تۇراقلىق بىرىكمىلەر<BR>&nbsp; قاراقاش دەرياسى )تۇراقلىق بىرىكمە(<BR>&nbsp; خورىكى ئۆسۈپ قالماق )ئىدىيوم(<BR>&nbsp; ئەقىل ياشتا ئەمەس، باشتا )ماقال - تەمسىل(<BR>تۇراقسىز سۆز بىرىكمىسى<BR>&nbsp; لاي سۇ )ئاددىي سۆز بىرىكمىسى(<BR>&nbsp; ئېگىز مەجنۇنتال تۈۋىدە )مۇرەككەپ سۆز بىرىكمىسى(<BR>&nbsp; دېمەك تۇراقلىق سۆز بىرىكمىسى بىلەن تۇراقسىز&nbsp; سۆز بىرىكمىسى مەلۇم جەھەتتىن ئورتاقلىققا ئىگە بولسىمۇ، ئەمما ئۇلار بىر - بىرىدىن روشەن پەرقلىنىدۇ،&nbsp; ئوقۇغۇچىلار بۇ جەھەتتە ئېنىق چۈشەنچىگە ئىگە بولغاندىلا ئاندىن ئۇلارنىڭ تۇراقلىق سۆز بىرىكمىسى ۋە تۇراقسىز سۆز بىرىكمىسىگە ئائىت بىلىملەرنى پۇختا ئىگىلەشكە، ئۈنۈمىنى يۇقىرى كۆتۈرۈشكە ياردىمى بولىدۇ. شۇڭا ئوقۇتقۇچىلار يۇقىرىقى تەرەپلەرنى ئەتراپلىق ئوقۇتۇشقا ئالاھىدە ئەھمىيەت بېرىشى لازىم.<BR>&nbsp; </P></span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2363" title="ئوتتۇرا مەكتەپ تىل - ئەدەبىيات ئوقۇتقۇچىلىرى پائالىيەتچان بولۇشى كېرەك"  target="_blank" class="tag_title_link">ئوتتۇرا مەكتەپ تىل ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2362" title="ئۇيغۇر تىلىدىكى تۇراقلىق سۆز بىرىكمىسى ۋە تۇراقسىز  سۆز بىرىكمىسىنى ئوقۇتۇش ھەققىدە"  target="_blank" class="tag_title_link">ئۇيغۇر تىلىدىكى تۇ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2361" title="ئۇيغۇر تىلى دەرسلىكىدىكى تۈپ سۆز ۋە ياسالما سۆزلەرنى ئوقۇتۇش توغرىسدا"  target="_blank" class="tag_title_link">ئۇيغۇر تىلى دەرسلى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2360" title="تىل - ئەدەبىيات دەرسلىكىدىكى تېكىستلەرنىڭ ئېستېتىك  قىممىتى ھەققىدە"  target="_blank" class="tag_title_link">تىل - ئەدەبىيات دەر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2359" title="ئوتتۇرا مەكتەپ تىل - ئەدەبىيات دەرسلىكىدە نۇقتىلىق يېزىقچىلىق مەشقىدە ئوقۇغۇچىلارنى قانداق يېتەكلەش "  target="_blank" class="tag_title_link">ئوتتۇرا مەكتەپ تىل ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2358" title="مۇستەقىل ھەم ياردەمچى سۆزلەرنى ئوقۇتۇشتىكى بىر مەسىلە"  target="_blank" class="tag_title_link">مۇستەقىل ھەم ياردە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2357" title="باشلانغۇچ مەكتەپ تۆۋەن يىللىقىدا تىل - ئەدەبىيات ئوقۇتقۇچىسى  كۆڭۈل بۆلۈشكە تېگىشلىك ئىككى مەسىلە"  target="_blank" class="tag_title_link">باشلانغۇچ مەكتەپ ت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2356" title="تىل - ئەدەبىيات ئوقۇتۇشىدا ئوقۇغۇچىلارنىڭ ئۈنلۈك ئوقۇش  قىزغىنلىقىنى ئاشۇرۇش كېرەك"  target="_blank" class="tag_title_link">تىل - ئەدەبىيات ئوق...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2355" title="تىل ـ ئەدەبىيات ئوقۇتۇشىنى باھالاش "  target="_blank" class="tag_title_link">تىل ـ ئەدەبىيات ئوق...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2354" title="تىل ـ ئەدەبىيات دەرس بايلىقىنى ئېچىش ۋە ئۇنىڭدىن پايدىلىنىش"  target="_blank" class="tag_title_link">تىل ـ ئەدەبىيات دەر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=4" title="«تۈركىي تىللار دىۋانى»قاتارلىق نادىر ئەسەرلەرنى چۈشۈرۋېلىڭ."  target="_blank" class="tag_title_link">«تۈركىي تىللار دىۋ...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/madiniytimiz/search.php?catid=81&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2363" title="ئوتتۇرا مەكتەپ تىل - ئەدەبىيات ئوقۇتقۇچىلىرى پائالىيەتچان بولۇشى كېرەك"  target="_blank" class="tag_title_link">ئوتتۇرا مەكتەپ تىل - ئەد...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2362" title="ئۇيغۇر تىلىدىكى تۇراقلىق سۆز بىرىكمىسى ۋە تۇراقسىز  سۆز بىرىكمىسىنى ئوقۇتۇش ھەققىدە"  target="_blank" class="tag_title_link">ئۇيغۇر تىلىدىكى تۇراقلى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2361" title="ئۇيغۇر تىلى دەرسلىكىدىكى تۈپ سۆز ۋە ياسالما سۆزلەرنى ئوقۇتۇش توغرىسدا"  target="_blank" class="tag_title_link">ئۇيغۇر تىلى دەرسلىكىدىك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2360" title="تىل - ئەدەبىيات دەرسلىكىدىكى تېكىستلەرنىڭ ئېستېتىك  قىممىتى ھەققىدە"  target="_blank" class="tag_title_link">تىل - ئەدەبىيات دەرسلىكى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2359" title="ئوتتۇرا مەكتەپ تىل - ئەدەبىيات دەرسلىكىدە نۇقتىلىق يېزىقچىلىق مەشقىدە ئوقۇغۇچىلارنى قانداق يېتەكلەش "  target="_blank" class="tag_title_link">ئوتتۇرا مەكتەپ تىل - ئەد...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2358" title="مۇستەقىل ھەم ياردەمچى سۆزلەرنى ئوقۇتۇشتىكى بىر مەسىلە"  target="_blank" class="tag_title_link">مۇستەقىل ھەم ياردەمچى س...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2357" title="باشلانغۇچ مەكتەپ تۆۋەن يىللىقىدا تىل - ئەدەبىيات ئوقۇتقۇچىسى  كۆڭۈل بۆلۈشكە تېگىشلىك ئىككى مەسىلە"  target="_blank" class="tag_title_link">باشلانغۇچ مەكتەپ تۆۋەن ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2356" title="تىل - ئەدەبىيات ئوقۇتۇشىدا ئوقۇغۇچىلارنىڭ ئۈنلۈك ئوقۇش  قىزغىنلىقىنى ئاشۇرۇش كېرەك"  target="_blank" class="tag_title_link">تىل - ئەدەبىيات ئوقۇتۇشى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2355" title="تىل ـ ئەدەبىيات ئوقۇتۇشىنى باھالاش "  target="_blank" class="tag_title_link">تىل ـ ئەدەبىيات ئوقۇتۇش...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=2354" title="تىل ـ ئەدەبىيات دەرس بايلىقىنى ئېچىش ۋە ئۇنىڭدىن پايدىلىنىش"  target="_blank" class="tag_title_link">تىل ـ ئەدەبىيات دەرس باي...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/madiniytimiz/show_js.php?itemid=2362"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

@@ -1,0 +1,3 @@
+﻿try {setidval('hits','29');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/edebiyat/show.php?itemid=1965">قىيا قىلىچ</a></li><li>  كىيىنكىسى  :  <a href="/edebiyat/show.php?itemid=1968">ﺑﻪﺧﯩﺖ ﺑﻪﻟﻜﯩﻢ...(ﻛﯚﻛﻠﻪﻡ)</a></li>');}catch(e){}

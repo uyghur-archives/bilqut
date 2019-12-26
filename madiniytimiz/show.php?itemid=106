@@ -1,0 +1,304 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>قەشقەر ۋىلايىتى-مەدەنىيىتىمىز-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,مەدەنىيىتىمىز">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/madiniytimiz/" class="red"> مەدەنىيىتىمىز</a>
+         | <a class="razimantur" href="/madiniytimiz/list.php?catid=71" >شەھەرلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=72" >ناھىيىلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=73" >ئوبلاستلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=74" >ۋىلايەتلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=75" >رېۋايەتلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=76" >تەمسىللىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=77" >ئۆلچەملىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=78" >چۆچەكلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=79" >سەنئەتكارىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=81" >تىل-يېزىقىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=82" >ئەپسانىلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=83" >مەسەللىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=84" >تائاملىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=85" >شەخسلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=86" >ئويۇنلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=88" > چالغۇلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=89" > ھۈنەرلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=90" > يوسۇنلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=91" > تارىخمىز  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/madiniytimiz/">مەدەنىيىتىمىز</a> >> <a href="/madiniytimiz/list.php?catid=74">ۋىلايەتلىرىمىز </a> >>  قەشقەر ۋىلايىتى</div>
+<!--主标题--><h1>قەشقەر ۋىلايىتى </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2008-04-05 13:25:09&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">241</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">
+&nbsp; قەشقەر ۋىلايىتى شىنجاڭ ئۇيغۇر ئاپتونوم رايونىنىڭ غەربىي جەنۇبىغا جايلاشقان. شىمال تەرىپى ئاقسۇ ۋىلايىتى، غەربىي شىمال تەرىپى خوتەن ۋىلايىتى بىلەن تۇتىشىدۇ. غەربىي، غەربىي جەنۇب تەرىپى ئايرىم - ئايرىم ھالدا تاجىكىستان، ئافغانىستان، كەشىمر (پاكىستان كونتروللىقىدىكى رايون) بىلەن چېگرىلىنىدۇ (چېگرا لىنىيىسىنىڭ ئۇزۇنلۇقى&nbsp; 888 كىلومېتىر). ئومۇمىي يەر مەيدانى&nbsp; 141 مىڭ&nbsp; 600 كۋادرات كىلومېتىر. قارمىقىدا بىر شەھەر،&nbsp; 11&nbsp; ناھىيە (يەنى قەشقەر شەھىرى، قەقەر كونىشەھەر ناھىيىسى، قەشقەر يېڭشەھەر ناھىيىسى، يېڭىسار ناھىيىسى، مەكىت ناھىيىسى، پوسكام ناھىيىسى، يەكەن ناھىيىسى، قاغىلىق ناھىيىسى، يۇپۇرغا ناھىيىسى، مارالبېشى ناھىيىسى، پەيزىۋات ناھىيىسى، تاشقورغان تاجىك ئاپتونوم ناھىيىسى) بار. تەۋەسىدە شىنجاڭ ئىشلەپچىقىرىش - قۇرۇلۇ بىڭتۇەنى يېزا ئىگىلىك 3 - شىسىنىڭ شتابى ۋە&nbsp; 21 - تۇەن - مەيدانى بار. ۋىلايەتلىك مەمۇرىي مەھكىمە تۇرۇشلۇق جاي - قەشقەر شەھىرىنىڭ ئۈرۈمچى شەھىرى بىلەن بولغان ئارىلىقى&nbsp; 1473 كىلومېتىر.&nbsp; 1995 - يىلىنىڭ ئاخىرىدىكى ئومۇمىي نوپۇسى&nbsp; 3 مىليون&nbsp; 82 مىڭ&nbsp; 400 بولۇپ، ئۇيغۇرلار&nbsp; 89.7% نى، خەنزۇلار&nbsp; 8.82% نى، باشقا مىللەتلەر&nbsp; 1.47% نى تەشكىل قىلىدۇ.
+&nbsp; قەشقەر ۋىلايىتىگە قاراشلىق جايلار خەن سۇلالىسى دەۋرىدە سۇلى، پۇلى، يەكەن، زىفې، شىيې دۆلەتلىرىنىڭ يېرى بولغان. تاڭ سۇلالىسى دەۋرىدە سۇلى تۇتۇق مەھكىمىسى تەسىس قىلىنغان. يۈەن سۇلالىسى دەۋرىدە چاغاتاي ۋە ئۇنىڭ ئەۋلادلىرىنىڭ سۇيۇرغاللىق يېرى بولغان. چىڭ سۇلالىسىنىڭ چيەنلۇڭ&nbsp; 25 - يىلى ( 1760 - يىلى) قەشقەرگە مەسلىھەتچى ئامبال قويۇلغان. چىڭ سۇلالىسىنىڭ گۇاڭشۈ&nbsp; 8&nbsp; - يىلى (1882 - يىلى) قەشقەر لەشكىرىي ئىشلار دوتىيى قويۇلغان. مىنگو دەۋرىدە ئىلگىرى - كېيىن بولۇپ 3 - (قەشقەر)،&nbsp; 10 - (يەكەن) مەمۇرىي رايۇن قۇرۇلغان. مىنگو&nbsp; 32 - يىلى ( 1943 ) مەمۇرىي رايون مەمۇرىي مۇپەتتىش ۋالىي مەھكىمىسى قىلىپ ئۆزگەرتىلگەن. جۇڭخۇا خەلق جۇمھۇرىيىتى قۇرۇلغاندىن كېيىن قەشقەر ۋە يەكەن ۋالىي مەھكىمىسى قۇرۇلغان. 1955 - يىلى قەشقەر ۋالىي مەھكىمىسى ئەمەلدىن قالدۇرۇلۇپ، ئاتۇش ناھىيىسى بىلەن ئۇلۇغچات ناھىيىسىدىن باشقا ناھىيە، شەھەر بىۋاسىتە جەنۇبىي شىنجاڭ مەمۇرىي مەھكىمىسىگە قارايدىغان بولغان.&nbsp; 1956 - يىلى جەنۇبىي شىنجاڭ مەمۇرىي مەھكىمىسى بىلەن يەكەن ۋالىي مەھكىمىسى ئەمەلدىن قالدۇرۇلۇپ، قەشقەر ۋالىي مەھكىمىسى ئەسلىگە كەلتۈرۈلگەن.&nbsp; 1979 - يىلى قەشقەر ۋىلايىتى دەپ ئاتالغان.
+&nbsp; يەر تۈزۈلۈشى: غەربتىن شەرققە قىيپاش، ئۈچ تەرىپىنى تاغ ئوراپ تۇرىدۇ. تاغ يېرى&nbsp; 57.1% (دېڭىز يۈزىدىن&nbsp; 8611 مېتىر ئېگىز بولغان قاراقۇرۇم تېغىنىڭ ئاساسلىق چوققىسى چوگىر چوققىسى مەشھۇر تاغ چوققىسىدۇر). تۈزلەڭلىك&nbsp; 23% نى، قۇرم - چۆل&nbsp; 19% نى، سۇ كۆلىمى&nbsp; 0.9% نى ئىگىلەيدۇ. ۋىلايەت تەۋەسىدە زەرەپشان دەرياسى، تىزناپ دەرياسى قاتارلىق ئاساسلىق دەرياللار بار. يەر يۈزىدىكى سۇ بايلىقى مىقدارى&nbsp; 7 مىليارد&nbsp; 230 مىليون كۇب مېتىر. تۈزلەڭلىك رايونلارنى تەمىنلەيدىغان يەر ئاستى سۈيى مىقدارى&nbsp; 8 مىليارد 70 مىليون كۇب مېتىر. ياۋايى ھايۋانات بايلىقىدىن ئاساسلىقى يىلپىز، ياۋا ئات، قوڭۇر ئېيىق، ئارقار، ئۇلار، سۇغۇر قاتارلىقلار بار. ياۋا ئۆسۈملۈك بايلىقىدىن ئاساسلىقى چۈچۈكبۇيا، كىرەش، تورسۇلداق، قارلەيلىسى، ئالقات، پاقا يوپۇرماق، سېرىق يۆگەي قاتارلىقلار بار. بايقالغان قېزىلما بايلىقىرىدىن ئاساسلىق تۆمۈر، ۋانادىي، فوسفور، بېرىلىي، سىنىك، تىتان، مىس، قوغۇشۇن، كۆمۈر، نېفىت، ئالماس، تاش پاختا، ئاق مەرمەر تاش، گەژ، چىرىمتال، تەبىئىي گۈڭگۈرت قاتارلىقلار بار.
+&nbsp; قەشقەر ۋىلايىتىنىڭ ئىقلىمى مۆتىدىل بەلۋاغ ئىنتايىن قۇرغاق ئىقلىمغا كىرىدۇ. يىللىق ئوتتۇرىچە تېمپېراتۇرىسى&nbsp; 11.4℃ - 11.7℃. ئەڭ يۇقىرى تېمپېراتۇرىسى&nbsp; 42.7℃، ئەڭ تۆۋەن تېمپېراتۇرىسى&nbsp; - 39.1℃. كۈننىڭ يىللىق چۈشۈش ۋاقتى&nbsp; 2750&nbsp; - 3000 سائەت.&nbsp; 10℃ جۇغلانما تېمپېراتۇرىسى تۈزلەڭلىك رايونلاردا&nbsp; 4000℃&nbsp; دىن يۇقىرى بولىدۇ. قىروسىز مەزگىلى 210 - 240&nbsp; كۈن بولىدۇ. يىللىق ئوتتۇرىچە ھۆل - يېغىن مىقدارى 40 - 100 مىللىمېتىر، سۇنىڭ يىللىق پارغا ئايلىنىش مىقدارى 2100 - 2700&nbsp; مىللىمېتىر بولىدۇ.
+&nbsp; قەشقەر ۋىلايىتىدە يېزا ئىگىلىك بىر قەدەر تەرەققىي قىلغان. ھازىر 393&nbsp; مىڭ 500 گېكتار ( 5 مىليون&nbsp; 902 مىڭ&nbsp; 500 مو) تېرىلغۇ يەر،&nbsp; 332 مىڭ&nbsp; 500 گېكتار ( 4 مىليون&nbsp; 988 مىڭ مو) ئورمان،&nbsp; 2 مىليون&nbsp; 362 مىڭ&nbsp; 700 گېكتار ( 35 مىليون&nbsp; 440 مىڭ مو) ئوتلاق بار. يەنە&nbsp; 1 مىليون&nbsp; 94 مىڭ&nbsp; 700 گېكتار (16 مىليون&nbsp; 420 مىڭ مو) دېھقانچىلىققا باب كېلىدىغان قاقاس يەر بار.&nbsp; 282 مىڭ&nbsp; 700 گېكتار (4 مىليون&nbsp; 240 مىڭ مو) ئورمان بىنا قىلىشقا بولىدىغان قاقاس يەر بار. يېزا ئىگىلىك مەھسۇلاتلىرىدىن ئاساسلىق بۇغداي، كۆممىقوناق، كېۋەز، شال، قىچا، كۈنجۈت، خۇاسېڭ، ماش - پۇرچاق، قوغۇن - تاۋۇز، مېۋە - چېۋە، كۆكتات قاتارلىقلار بار. چارۋىچىلىقى ئوتلاق چارۋىچىلىقى ۋە دېھقانچىلىق رايونلىرىنى چارۋىچىلىقى دەپ ئايرىلىدۇ. چارۋىسىدىن ئاساسلىقى قوي، كالا، ئات، ئېشەك، قېچىر، چوشقا قاتارلىقلار بار، ئاساسلىقى پاختا توقۇمىچىلىق، ئېلېكتر قۇۋۋىتى، قۇرۇلۇش ماتېرىيالى، كۆن - خۇرۇم، گىلەم، ئاشلىق - ماي ۋە يېمەكلىك پىششىقلاپ ئىشلەش قاتارلىق سانائىتى بار. نېفىت قېزىشتا ئىستىقبالى پارلاق، ھازىر قاغىلىق ناھىيىسى تەۋەسىدە كۆكيار نېفىتلىكى بار.
+&nbsp; بۇ ۋىلايەتنىڭ ئۇل مۇئەسسەسەلىرى ئۈزلۈكسىز ياخشىلانماقتا. دۆلەت تاشيولىنىڭ&nbsp; 314 -،&nbsp; 315 - لىنىيىسى ۋىلايەت تەۋەسىدىن ئۆتىدۇ. ەشقەر شەھىرىدىن ئۈرۈمچىگە قاتنايدىغان قەرەللىك نۆۋەتچى ئايروپىلان بار. پروگراممىلىق تېلېفون قويدۇرغان ئابونت&nbsp; 28&nbsp; مىڭ&nbsp; 100 ئائىلىگە يەتتى. كۆچمە تېلېفون، گۇرۇپپا بويىچە سانلىق مەلۇمات ئالماشتۇرۇش ۋاسىتىلىرى ئىشلىتىلىشكە باشلىدى. قونجىراپ ئېغىزى دۆلىتىمىز پاكىستان ۋە 3 - دۆلەتكە ئېچىۋەتكەن مۇھىم خەلقئارا ئېغىز.
+&nbsp; قەشقەر ۋىلايىتى ئۇزاق تارىخقا ئىگە شىنجاڭ ساياھەتچىلىكىدىكى قىزىق نۇقتىلىق رايونلارنىڭ بىرى. تەۋەسىدە ئاساسلىق مەدەنىيەت يادىكارلىقلىرىدىن ئاپئاق غۇجازىرى، (ئىپارخان مازىرىمۇ دېيىلىدۇ)، ھېيتكار جامەسى، ئەسكى ھېسار قەدىمكى شەھىرى خارابىسى، &lt;قۇتاتقۇبلىك&gt; نىڭ ئاپتورى يۈسۈپ خاس ھاجىپ مازىرى، بەنچاۋ شەھىرى خاراببىسى، خانىئۆي قەدىمكى قەلئەسى، &lt;تۈركىي تىللار دىۋانى&gt; نىڭ ئاپتورى مەھمۇد قەشقەرى مازىرى. شېھىتىيار قەدىمكى شەھىرى خارابىسى، توققۇز ساراي قەدىمكى قەلئەسى خارابىسى قاتارلىقلار بار.</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=106" title="قەشقەر ۋىلايىتى"  target="_blank" class="tag_title_link">قەشقەر ۋىلايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=105" title="خوتەن ۋىلايىتى"  target="_blank" class="tag_title_link">خوتەن ۋىلايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=104" title="ئاقسۇ ۋىلايىتى"  target="_blank" class="tag_title_link">ئاقسۇ ۋىلايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=103" title="قۇمۇل ۋىلايىتى"  target="_blank" class="tag_title_link">قۇمۇل ۋىلايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=102" title="تۇرپان ۋىلايىتى"  target="_blank" class="tag_title_link">تۇرپان ۋىلايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=101" title="ئالتاي ۋىلايىتى"  target="_blank" class="tag_title_link">ئالتاي ۋىلايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=100" title="تارغاتاي ۋىلايىتى"  target="_blank" class="tag_title_link">تارغاتاي ۋىلايىتى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=99" title="ئىلى ۋىلايىتى"  target="_blank" class="tag_title_link">ئىلى ۋىلايىتى</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/madiniytimiz/search.php?catid=74&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=106" title="قەشقەر ۋىلايىتى"  target="_blank" class="tag_title_link">قەشقەر ۋىلايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=105" title="خوتەن ۋىلايىتى"  target="_blank" class="tag_title_link">خوتەن ۋىلايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=104" title="ئاقسۇ ۋىلايىتى"  target="_blank" class="tag_title_link">ئاقسۇ ۋىلايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=103" title="قۇمۇل ۋىلايىتى"  target="_blank" class="tag_title_link">قۇمۇل ۋىلايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=102" title="تۇرپان ۋىلايىتى"  target="_blank" class="tag_title_link">تۇرپان ۋىلايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=101" title="ئالتاي ۋىلايىتى"  target="_blank" class="tag_title_link">ئالتاي ۋىلايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=100" title="تارغاتاي ۋىلايىتى"  target="_blank" class="tag_title_link">تارغاتاي ۋىلايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=99" title="ئىلى ۋىلايىتى"  target="_blank" class="tag_title_link">ئىلى ۋىلايىتى</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/madiniytimiz/show_js.php?itemid=106"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

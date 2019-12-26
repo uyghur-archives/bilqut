@@ -1,0 +1,3 @@
+﻿try {setidval('hits','2308');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/xewer/show.php?itemid=423">ئەخلاق تەربىيىسىدىكى تۆھپىكار باغۋەن</a></li><li>  كىيىنكىسى  :  <a href="/xewer/show.php?itemid=425">سۈرەتلىك خەۋەرلەر</a></li>');}catch(e){}

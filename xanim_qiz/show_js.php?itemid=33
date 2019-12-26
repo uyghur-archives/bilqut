@@ -1,0 +1,3 @@
+﻿try {setidval('hits','12901');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/xanim_qiz/show.php?itemid=32">قصزلارنصڭ ئوغۇللارنص بصزار قصلصدصغان 3 خصل گصپص</a></li><li>  كىيىنكىسى  :    يوق</li>');}catch(e){}

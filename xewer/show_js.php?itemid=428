@@ -1,0 +1,3 @@
+﻿try {setidval('hits','1730');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/xewer/show.php?itemid=427">ج خ ئورگىنى پۇتبول سەھنىسىدىكى ساختا مۇسابىقە ئويناشنىڭ ھەقىقىي ئەھۋالىنى ئاشكارىلىدى</a></li><li>  كىيىنكىسى  :  <a href="/xewer/show.php?itemid=429">دۆلەت پۇتبولچىلار جەمئىيىتىنىڭ پۇتبولغا دو تىكىش ‹‹ بورىنى ›› شاڭخەيگە يېتىپ كەلدى</a></li>');}catch(e){}

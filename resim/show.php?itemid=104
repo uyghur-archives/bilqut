@@ -1,0 +1,716 @@
+﻿﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<link href="/movie.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>شەپكە يارىشىپتىمۇ _ يا-رەسىم -Bilqut Uyghur web</title>
+<meta name="keywords" content=",,رەسىم ">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+</head>
+<body bgcolor="#ffba00"  >
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div class="header">
+
+<table width="980" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="980" height="130" align="center">
+<img border="0" src="/Raziman_img/resim/resim_top.png" width="980" height="130"></td>
+    </tr>
+</table>
+
+
+<!--频道下属栏目列表-->
+      <div align="center">
+      <table width="980px" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="resim_submenu"><a href="/resim/">باش بەت </a>
+   | <a class="razimantur" href="/resim/list.php?catid=1" >لايىھە</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=3" >سىزما</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=4" >قاتناش</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=5" >قۇشلار</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=6" >كارتون</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=7" >ماشىنا  </a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=8" >يانفون</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=9" > ھەربىي</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=10" >ھەرخىل</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=11" >ئىقتىساد</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=12" >تۇرمۇش</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=13" >مەنزىرە</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=14" >قىستۇرما</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=15" >بىناكارلىق</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=16" >تەنتەربىيە</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=17" >ئۆسۈملۈك</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=18" >مەدەنىيەت</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=19" >ھاشاراتلار</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=20" >ھايۋاناتلار</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=21" >كىيىم</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=22" >كۆڭۈل ئېچىش</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=23" >پەن - تېخنىكا</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=24" >سەنئەت</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=25" >بالىلار</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=26" >قىزىقارلىق </a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=276" >ماتېرىيال</a>
+
+ | <a class="razimantur" href="/resim/list.php?catid=277" >نەقىش</a>
+
+</td>
+       </tr>
+       </table>
+</div>
+</div>
+
+<div class="main"> 
+<div align="center">
+<table width="980" cellpadding="0" cellspacing="0">
+<tr>
+   <td height="10"> </td>
+</tr>
+</table>
+</div>
+
+
+
+
+
+
+
+<script language=javascript type="text/javascript">
+function fontZoom(size){
+$('content').style.fontSize=size+'px'
+}
+</script>
+
+
+
+
+<table border="0" width="980" cellspacing="0" cellpadding="0">
+<tr>
+<td width="690"  background="/Raziman_img/resim/raziman_tur_bg.gif" height="36">
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/resim/">رەسىم </a> >> <a href="/resim/list.php?catid=21">كىيىم</a> >> </td>
+<td width="10" valign="top" rowspan="2">&nbsp;</td>
+<td width="280" valign="top" rowspan="2">
+<table border="0" width="100%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+<td id="resimjan" background="/Raziman_img/resim/raziman_tur_bg.gif" height="36" align="center">
+يېڭى يوللانغان رەسىملەر</td>
+</tr>
+<tr>
+<td class="raziman_x"><table class="tag_box"  cellpadding="0" cellspacing="0">
+
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=646" title="قانداق رەسىم ئىزدەيسىز " 0 class="tag_title_link">قانداق رەسىم ئىزدەيسىز </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=645" title="مۇنداق ئاياقلارنى سېتىۋېلىڭ " 0 class="tag_title_link">مۇنداق ئاياقلارنى سېتىۋېلىڭ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=644" title="زىراپە ماۋۇ " 0 class="tag_title_link">زىراپە ماۋۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=643" title="زىراپە بىلەن بۇغا " 0 class="tag_title_link">زىراپە بىلەن بۇغا </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=642" title="يۇپۇرماق ھايۋانلار " 0 class="tag_title_link">يۇپۇرماق ھايۋانلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=641" title="يۇڭلۇق گېنراللار " 0 class="tag_title_link">يۇڭلۇق گېنراللار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=640" title="يۇڭدالغان ھايۋانلار " 0 class="tag_title_link">يۇڭدالغان ھايۋانلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=639" title="يولۋاسنىڭ سۇ ئۈزىشى " 0 class="tag_title_link">يولۋاسنىڭ سۇ ئۈزىشى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=638" title="يىرىتقۇچلار " 0 class="tag_title_link">يىرىتقۇچلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=637" title="يىلپىز دىگەن مۇشۇ " 0 class="tag_title_link">يىلپىز دىگەن مۇشۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=636" title="شىرنىمۇ كۆندىرۋاپتۇ " 0 class="tag_title_link">شىرنىمۇ كۆندىرۋاپتۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=635" title="شىمالى قۇتۇپ ئېيىقى " 0 class="tag_title_link">شىمالى قۇتۇپ ئېيىقى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=634" title="ۋەھشى ئېيىقلار " 0 class="tag_title_link">ۋەھشى ئېيىقلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=633" title="ۋەھشى ھايۋانلارنى ئوۋلاش ئۇسۇلى  " 0 class="tag_title_link">ۋەھشى ھايۋانلارنى ئوۋلاش ئۇسۇلى ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=632" title="ۋەھشى ھايۋانلار " 0 class="tag_title_link">ۋەھشى ھايۋانلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=631" title="ئۇنىڭ بۇنىڭ رەسىملىرى " 0 class="tag_title_link">ئۇنىڭ بۇنىڭ رەسىملىرى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=630" title="توشقانمۇ چاشقانمۇ بۇ " 0 class="tag_title_link">توشقانمۇ چاشقانمۇ بۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=629" title="تىيىننىڭ ھەركىتى " 0 class="tag_title_link">تىيىننىڭ ھەركىتى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=628" title="تىمساھ بىلەن ئويناشماڭ " 0 class="tag_title_link">تىمساھ بىلەن ئويناشماڭ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=627" title="تىمساھ بىلەن ئاغىنە ئىكەن ھە " 0 class="tag_title_link">تىمساھ بىلەن ئاغىنە ئىكەن ھە </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=626" title="تاشپاقىچاقلار " 0 class="tag_title_link">تاشپاقىچاقلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=625" title="تاغىل ئات ماۋۇ " 0 class="tag_title_link">تاغىل ئات ماۋۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=624" title="تەبئەت ۋە جانلىقلار " 0 class="tag_title_link">تەبئەت ۋە جانلىقلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=623" title="تەبىيئەت دۇنياسىدىكى ھەركەت " 0 class="tag_title_link">تەبىيئەت دۇنياسىدىكى ھەركەت </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=622" title="تەبىيئەتنىڭ كۈچلۈك  ئەزالىرى " 0 class="tag_title_link">تەبىيئەتنىڭ كۈچلۈك  ئەزالىرى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=621" title="سىز قانداق ھىسياتتا بولاۋاتىسىز " 0 class="tag_title_link">سىز قانداق ھىسياتتا بولاۋاتىسىز </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=620" title="سېرىك مەيدانىدىكى يولۋاس ئەمەس جۇما " 0 class="tag_title_link">سېرىك مەيدانىدىكى يولۋاس ئەمەس ج...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=619" title="شىرنى يىقېتىش " 0 class="tag_title_link">شىرنى يىقېتىش </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=618" title="شىمالى قۇتۇپ ئېيىقىنىڭ بالىسى " 0 class="tag_title_link">شىمالى قۇتۇپ ئېيىقىنىڭ بالىسى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=617" title="قىزقارلىق ھايۋانلار " 0 class="tag_title_link">قىزقارلىق ھايۋانلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=616" title="قىلمىغان مۇشۇ ئىش قالغان " 0 class="tag_title_link">قىلمىغان مۇشۇ ئىش قالغان </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=615" title="قانداق جانۋار " 0 class="tag_title_link">قانداق جانۋار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=614" title="قاماقتا " 0 class="tag_title_link">قاماقتا </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=613" title="پاپىنىڭ توي مۇراسىمى " 0 class="tag_title_link">پاپىنىڭ توي مۇراسىمى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=612" title="پىلمۇزە چوڭ ئۆلىدىغان نەرسىكەن " 0 class="tag_title_link">پىلمۇزە چوڭ ئۆلىدىغان نەرسىكەن </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=611" title="پىل ۋە پىلچاقلار " 0 class="tag_title_link">پىل ۋە پىلچاقلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=610" title="پىنگىۋىنلا " 0 class="tag_title_link">پىنگىۋىنلا </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=609" title="پاقا دەپ قاپسىلە " 0 class="tag_title_link">پاقا دەپ قاپسىلە </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=608" title="ئۆزىنى داڭلاۋاتامدۇ نېمە " 0 class="tag_title_link">ئۆزىنى داڭلاۋاتامدۇ نېمە </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=607" title="ئۆيدە بېقىلىدىغان دېڭىز ھايۋىنى   " 0 class="tag_title_link">ئۆيدە بېقىلىدىغان دېڭىز ھايۋىنى ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=606" title="ئۆي قۇشلىرى " 0 class="tag_title_link">ئۆي قۇشلىرى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=605" title="ئوماق توشقانچاقلار " 0 class="tag_title_link">ئوماق توشقانچاقلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=604" title="ئوماق مۈشۈكچاقلار " 0 class="tag_title_link">ئوماق مۈشۈكچاقلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=603" title="ئوماق جۇما لىكىن " 0 class="tag_title_link">ئوماق جۇما لىكىن </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=602" title="ئوماق جانۋارلار " 0 class="tag_title_link">ئوماق جانۋارلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=601" title="نىمە دىگەن پەيزى " 0 class="tag_title_link">نىمە دىگەن پەيزى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=600" title="نىمىنداق رومانتىك ھايۋانلار بۇ " 0 class="tag_title_link">نىمىنداق رومانتىك ھايۋانلار بۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=599" title="نىمىنداق قىلىپ يۈرۈيدۇ " 0 class="tag_title_link">نىمىنداق قىلىپ يۈرۈيدۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=598" title="نىمىنداق يوغان پىل بۇ " 0 class="tag_title_link">نىمىنداق يوغان پىل بۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=597" title="نىمىنداق ئوماق ھايۋانلار بۇ " 0 class="tag_title_link">نىمىنداق ئوماق ھايۋانلار بۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=596" title="نىمىنداق چوڭ بېلىق بۇ " 0 class="tag_title_link">نىمىنداق چوڭ بېلىق بۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=595" title="نىمە دىگەن قىلىقى تاتلىق" 0 class="tag_title_link">نىمە دىگەن قىلىقى تاتلىق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=594" title="نىمە دىگەن ئوماق ھە  " 0 class="tag_title_link">نىمە دىگەن ئوماق ھە  </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=593" title="نىمە دىگەن ئوماق ئاسلان بۇ " 0 class="tag_title_link">نىمە دىگەن ئوماق ئاسلان بۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=592" title="نىمېنداق سەت بېلىق بۇ " 0 class="tag_title_link">نىمېنداق سەت بېلىق بۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=591" title="مۇزلۇقتىكى توڭماسجان " 0 class="tag_title_link">مۇزلۇقتىكى توڭماسجان </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=590" title="مۈشۈكلەرنىڭ قەدىر قېممىتى " 0 class="tag_title_link">مۈشۈكلەرنىڭ قەدىر قېممىتى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=589" title="مىدوزا ئىكەن ماۋۇ " 0 class="tag_title_link">مىدوزا ئىكەن ماۋۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=588" title="كۆنمەيدىغان نىمە با دەيسىز " 0 class="tag_title_link">كۆنمەيدىغان نىمە با دەيسىز </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=587" title="كىت بىلەن دىلفىن ئاغىنە ئوخشىمامدۇ " 0 class="tag_title_link">كىت بىلەن دىلفىن ئاغىنە ئوخشىمام...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=586" title="قارا ئوماقلىقىنى " 0 class="tag_title_link">قارا ئوماقلىقىنى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=585" title="قالتىس ئىت " 0 class="tag_title_link">قالتىس ئىت </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=584" title="ھايۋانلارمۇ ئەقىللىق نەرسە دە " 0 class="tag_title_link">ھايۋانلارمۇ ئەقىللىق نەرسە دە </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=583" title="ھەر خىل ھايۋانلار " 0 class="tag_title_link">ھەر خىل ھايۋانلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=582" title="گىرىم قىلىدىغان ھايۋانلار " 0 class="tag_title_link">گىرىم قىلىدىغان ھايۋانلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=581" title="دېڭىز دۇنياسىدىكى كۆرىنىش " 0 class="tag_title_link">دېڭىز دۇنياسىدىكى كۆرىنىش </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=580" title="ياستۇق ئېتىش مۇسابىقىسى " 0 class="tag_title_link">ياستۇق ئېتىش مۇسابىقىسى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=579" title="يەل گۇمپىسى " 0 class="tag_title_link">يەل گۇمپىسى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=578" title="ۋېلىسپىت ماھارەتلىرى " 0 class="tag_title_link">ۋېلىسپىت ماھارەتلىرى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=577" title="ئۇخلاش مۇسابىقىسىمۇ نېمە بۇ " 0 class="tag_title_link">ئۇخلاش مۇسابىقىسىمۇ نېمە بۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=576" title="توپ دىگەننى ماندا ئوينىسا " 0 class="tag_title_link">توپ دىگەننى ماندا ئوينىسا </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=575" title="توپ دىگەننى " 0 class="tag_title_link">توپ دىگەننى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=574" title="تېيلىڭە تازا " 0 class="tag_title_link">تېيلىڭە تازا </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=573" title="تەنتەربىيە ماھارەتلىرى " 0 class="tag_title_link">تەنتەربىيە ماھارەتلىرى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=572" title="تەنتەربىيە " 0 class="tag_title_link">تەنتەربىيە </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=571" title="تەنھەركەت قىياپەتلىرى " 0 class="tag_title_link">تەنھەركەت قىياپەتلىرى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=570" title="تاغدا ۋېلىسپىت مىنېش " 0 class="tag_title_link">تاغدا ۋېلىسپىت مىنېش </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=569" title="سۇ دىگەننى ماندا تېيلىمىز " 0 class="tag_title_link">سۇ دىگەننى ماندا تېيلىمىز </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=568" title="سىم پالىۋانلار " 0 class="tag_title_link">سىم پالىۋانلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=567" title="سىللەرمۇ سۇ ئۈزەمسىلەر " 0 class="tag_title_link">سىللەرمۇ سۇ ئۈزەمسىلەر </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=566" title="شارغا ئېسىلماڭ " 0 class="tag_title_link">شارغا ئېسىلماڭ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=565" title="چاشقان تەننەركەتچىللىرى " 0 class="tag_title_link">چاشقان تەننەركەتچىللىرى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=564" title="قارغا ئېلىش " 0 class="tag_title_link">قارغا ئېلىش </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=563" title="قار دىگەننى ئۆلگىدەك تېيلىمىز " 0 class="tag_title_link">قار دىگەننى ئۆلگىدەك تېيلىمىز </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=562" title="پويېز دىگەننى چىشتىلا سۆرەيمىز " 0 class="tag_title_link">پويېز دىگەننى چىشتىلا سۆرەيمىز </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=561" title="يەر شارى ئوبرازلىرى " 0 class="tag_title_link">يەر شارى ئوبرازلىرى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=560" title="سۈزۈك لاھىيە " 0 class="tag_title_link">سۈزۈك لاھىيە </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=556" title="ئوخشىتىلغان تەبىيئەت " 0 class="tag_title_link">ئوخشىتىلغان تەبىيئەت </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=555" title="مۇسابىقە لاھىيەلىرى " 0 class="tag_title_link">مۇسابىقە لاھىيەلىرى </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=554" title="لاھىيە دىگەن مانا " 0 class="tag_title_link">لاھىيە دىگەن مانا </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=553" title="قۇرال لاھىيەلىرى  " 0 class="tag_title_link">قۇرال لاھىيەلىرى  </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=552" title="يۈرەكنى ئالىدىغان ئويۇنچۇق " 0 class="tag_title_link">يۈرەكنى ئالىدىغان ئويۇنچۇق </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=551" title="يىلان ئويناتقۇچىلار " 0 class="tag_title_link">يىلان ئويناتقۇچىلار </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=550" title="يېرىمى يوققۇ " 0 class="tag_title_link">يېرىمى يوققۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=549" title="يانا بىر كۈلىۋېلىڭ " 0 class="tag_title_link">يانا بىر كۈلىۋېلىڭ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=548" title="شىر بىلەن يۇيۇنۇپ باققانمۇ " 0 class="tag_title_link">شىر بىلەن يۇيۇنۇپ باققانمۇ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=547" title="ۋوججو نىمىداق قورقۇنۇشلۇق " 0 class="tag_title_link">ۋوججو نىمىداق قورقۇنۇشلۇق </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=546" title="ۋاي  قىزىق دەيمەن " 0 class="tag_title_link">ۋاي  قىزىق دەيمەن </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=545" title="ئۇخلىشىنى ماۋۇلارنىڭ " 0 class="tag_title_link">ئۇخلىشىنى ماۋۇلارنىڭ </a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">·  <a href="/resim/show.php?itemid=544" title="ئۇچۇپ يۈرەمدۇ  نېمە " 0 class="tag_title_link">ئۇچۇپ يۈرەمدۇ  نېمە </a>
+    
+</td>
+</tr>
+
+</table>
+</td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+</table>
+
+<table border="0" width="100%" id="resimjan" cellspacing="0" cellpadding="0">
+<tr>
+<td id="resimjan" background="/Raziman_img/resim/raziman_tur_bg.gif" height="36" align="center">
+تەۋسىيە رەسىملەر</td>
+</tr>
+<tr>
+<td class="raziman_x"><table class="tag_box"  cellpadding="0" cellspacing="0">
+
+
+</table>
+</td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td width="690" valign="top" height="100%" class="raziman_x">
+
+       <table border="0" width="100%" id="table2">
+<tr>
+<td align="center"><!--主标题--><h1><a href="https://uyghur-archive.com/bilqut/resim/show.php?itemid=104">شەپكە يارىشىپتىمۇ _ يا</a></h1>
+</td>
+</tr>
+<tr>
+<td align="center"><!--文件属性--><div id="property">يوللانغان ۋاقتى : 2009-10-14&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">0</span>&nbsp;&nbsp; </div>
+</td>
+</tr>
+<tr>
+<td><table width="690" align="center" cellPadding="0" cellSpacing="0" class="mar_10">
+    <tbody>
+      <tr>
+        <td valign="top" align="center">
+<table width="650" cellspacing="0" cellpadding="0" id="content" class="mar_10">
+
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=104&page=1"><img src="https://pic.uyghur-archive.com/bilqut/10_kiyim/SHAPKA_YARISHIPTIMU_YA/SHAPKA_YARISHIPTIMU_YA (0).JPG" alt="1" id="img_1"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=104&page=2"><img src="https://pic.uyghur-archive.com/bilqut/10_kiyim/SHAPKA_YARISHIPTIMU_YA/SHAPKA_YARISHIPTIMU_YA (1).JPG" alt="1" id="img_2"/></a>
+</td>
+     
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=104&page=3"><img src="https://pic.uyghur-archive.com/bilqut/10_kiyim/SHAPKA_YARISHIPTIMU_YA/SHAPKA_YARISHIPTIMU_YA (2).JPG" alt="1" id="img_3"/></a>
+</td>
+     </tr>
+      <tr><td align="center" style="padding:0 5px;">
+<a href="/resim/show.php?itemid=104&page=4"><img src="https://pic.uyghur-archive.com/bilqut/10_kiyim/SHAPKA_YARISHIPTIMU_YA/SHAPKA_YARISHIPTIMU_YA (3).JPG" alt="1" id="img_4"/></a>
+</td>
+     
+
+</table>
+<script type="text/javascript">
+function ImgZoom(Id)//重新设置图片大小 防止撑破表格
+{
+var w = $(Id).width;
+var m = 200;
+if(w < m)
+{
+return;
+}
+else
+{
+var h = $(Id).height;
+$(Id).height = parseInt(h*m/w);
+$(Id).width = m;
+}
+}
+window.onload = function()
+{
+var Imgs = $("content").getElementsByTagName("img");
+var i=0;
+for(;i<Imgs.length;i++)
+{
+ImgZoom(Imgs[i]);
+}
+}
+</script>
+
+<!--自定义字段//-->
+<table width="100%" align="center" cellspacing="0" cellpadding="0">
+             
+ </table>
+ <!--自定义字段\\-->
+
+        </td>
+      </tr>
+    </tbody>
+  </table></td>
+</tr>
+<tr>
+<td><div class="border_1 mar_10" id="content"></div>
+
+</td>
+</tr>
+</table>
+   
+</td>
+</tr>
+
+</table>
+
+
+
+
+
+
+<script type="text/javascript" src="/resim/show_js.php?itemid=104"></script>
+
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

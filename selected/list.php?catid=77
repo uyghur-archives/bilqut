@@ -1,0 +1,344 @@
+﻿
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ئۆلچەملىرىمىز -مەدەنىيىتىمىز--Bilqut Uyghur web</title>
+<meta name="keywords" content=",">
+<meta name="description" content="-">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/madiniytimiz/" class="red"> مەدەنىيىتىمىز</a>
+         | <a class="razimantur" href="/madiniytimiz/list.php?catid=71" >شەھەرلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=72" >ناھىيىلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=73" >ئوبلاستلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=74" >ۋىلايەتلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=75" >رېۋايەتلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=76" >تەمسىللىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=77" >ئۆلچەملىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=78" >چۆچەكلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=79" >سەنئەتكارىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=81" >تىل-يېزىقىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=82" >ئەپسانىلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=83" >مەسەللىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=84" >تائاملىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=85" >شەخسلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=86" >ئويۇنلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=88" > چالغۇلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=89" > ھۈنەرلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=90" > يوسۇنلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=91" > تارىخمىز  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<!--主体标签-->
+<table width="950" cellpadding="0"  cellspacing="0">
+  <tr>
+    <td width="750" valign="top">
+<!--位置导航-->
+    <div class="position">ئورنىڭىز : <a href="/madiniytimiz/">مەدەنىيىتىمىز</a> >> <a href="/madiniytimiz/list.php?catid=77">ئۆلچەملىرىمىز </a> >> </div>
+     <div class="cat_box_1">
+ <div class="cat_title">
+     <div class="cat_name">ئۆلچەملىرىمىز </div>
+ <div class="cat_url"><a href="" class="more"></a></div>
+     </div>
+<!--最新图片文章--><table width="100%"  cellpadding="2" cellspacing="0">
+
+
+</table>
+
+<table cellpadding="0" cellspacing="0" class="tag_box_1">
+
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=1150" title="پۇڭ" 0 class="tag_title_link">پۇڭ</a>   
+    
+ <td><span>2009-06-29</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=1149" title="بىر قوش يەرنىڭ ئۆلچىمى" 0 class="tag_title_link">بىر قوش يەرنىڭ ئۆلچىمى</a>   
+    
+ <td><span>2009-06-11</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=1148" title="ئۇيغۇر ئۆلچەم بىرلىكلىرىدىن ‹‹ئار››" 0 class="tag_title_link">ئۇيغۇر ئۆلچەم بىرلىكلىرىدىن ‹‹ئار››</a>   
+    
+ <td><span>2009-06-11</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=1147" title="چىڭ" 0 class="tag_title_link">چىڭ</a>   
+    
+ <td><span>2009-06-08</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=1146" title="تاي" 0 class="tag_title_link">تاي</a>   
+    
+ <td><span>2009-05-22</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=1145" title="كۆمەر" 0 class="tag_title_link">كۆمەر</a>   
+    
+ <td><span>2009-05-20</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=1144" title="يورۇقلۇق يىلى" 0 class="tag_title_link">يورۇقلۇق يىلى</a>   
+    
+ <td><span>2009-05-13</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=1143" title="مو" 0 class="tag_title_link">مو</a>   
+    
+ <td><span>2009-05-07</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=1142" title="مەنزىل" 0 class="tag_title_link">مەنزىل</a>   
+    
+ <td><span>2009-04-29</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=1141" title="تاختا" 0 class="tag_title_link">تاختا</a>   
+    
+ <td><span>2009-04-28</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=1140" title="پاتمان" 0 class="tag_title_link">پاتمان</a>   
+    
+ <td><span>2009-04-24</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=1139" title="«ئۆلچەم بىرلىكى »دور" 0 class="tag_title_link">«ئۆلچەم بىرلىكى »دور</a>   
+    
+ <td><span>2009-04-22</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=1138" title="ئونسىيە" 0 class="tag_title_link">ئونسىيە</a>   
+    
+ <td><span>2009-01-04</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=1137" title="تارىخىي ئۆلچەم بىرلىك نادا" 0 class="tag_title_link">تارىخىي ئۆلچەم بىرلىك نادا</a>   
+    
+ <td><span>2008-12-28</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=1136" title="مىلىما بىرلىكى" 0 class="tag_title_link">مىلىما بىرلىكى</a>   
+    
+ <td><span>2008-12-12</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=1135" title="سىما جىڭى" 0 class="tag_title_link">سىما جىڭى</a>   
+    
+ <td><span>2008-11-30</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=1134" title="مەن (بىرلىك)" 0 class="tag_title_link">مەن (بىرلىك)</a>   
+    
+ <td><span>2008-11-23</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=1133" title="گېكتوگرام" 0 class="tag_title_link">گېكتوگرام</a>   
+    
+ <td><span>2008-11-18</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=1132" title="كىرات بىرلىكى" 0 class="tag_title_link">كىرات بىرلىكى</a>   
+    
+ <td><span>2008-11-17</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/madiniytimiz/show.php?itemid=1131" title="كانتار" 0 class="tag_title_link">كانتار</a>   
+    
+ <td><span>2008-11-16</span> </td>
+  </tr>
+
+</table>
+
+<div class="pages">جەمئى: <b>93</b>&nbsp;&nbsp;&nbsp;&nbsp;باش بەت
+&nbsp;ئالدىنقى بەت
+&nbsp;<a href='/madiniytimiz/list.php?catid=77&page=2'>كىينكى بەت
+</a>&nbsp;<a href='/madiniytimiz/list.php?catid=77&page=5'>ئاخىرقى بەت</a>&nbsp;بە ت: <b><font color=red>1</font>/5</b>&nbsp;&nbsp;<input type='text' name='page' id='page' class='page' size='3' onKeyDown='if(event.keyCode==13) {window.location="/madiniytimiz/list.php?catid=77&page="+$("page").value+""; return false;}'> <input type='button' value='GO' class='gotopage' style='width:30px' onclick='window.location="/madiniytimiz/list.php?catid=77&page="+$("page").value+""'>
+</div>
+     </div>	
+<!--搜索框--></td>
+    <td width="10"></td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>تەۋسىيە ئەسەر </h1><h2><a href="/madiniytimiz/search.php?catid=77&elite=1&search=1" class="more">يەنە بار </a></h2></div>
+<!--推荐文章js调用-->
+<table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1150" title="پۇڭ"  target="_blank" class="tag_title_link">پۇڭ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1149" title="بىر قوش يەرنىڭ ئۆلچىمى"  target="_blank" class="tag_title_link">بىر قوش يەرنىڭ ئۆلچىمى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1148" title="ئۇيغۇر ئۆلچەم بىرلىكلىرىدىن ‹‹ئار››"  target="_blank" class="tag_title_link">ئۇيغۇر ئۆلچەم بىرلىكلىر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1147" title="چىڭ"  target="_blank" class="tag_title_link">چىڭ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1146" title="تاي"  target="_blank" class="tag_title_link">تاي</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1145" title="كۆمەر"  target="_blank" class="tag_title_link">كۆمەر</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1144" title="يورۇقلۇق يىلى"  target="_blank" class="tag_title_link">يورۇقلۇق يىلى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1143" title="مو"  target="_blank" class="tag_title_link">مو</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1142" title="مەنزىل"  target="_blank" class="tag_title_link">مەنزىل</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=1141" title="تاختا"  target="_blank" class="tag_title_link">تاختا</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>ئاۋات ئەسەر </h1><h2><a href="/madiniytimiz/search.php?catid=77&ordertype=3&search=1" class="more">يەنە بار </a></h2></div>
+<table cellpadding="0" cellspacing="0" class="tag_box">
+
+
+</table>
+</td>
+  </tr>
+</table>
+
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

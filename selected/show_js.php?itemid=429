@@ -1,0 +1,3 @@
+﻿try {setidval('hits','1057');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/xewer/show.php?itemid=428">پۇتبول سەھنىسىدىكى پۇتبولغا دو تىكىش ئەۋج ئالماقتا</a></li><li>  كىيىنكىسى  :  <a href="/xewer/show.php?itemid=430">خەلقئارا پۇتبولچىلار بىرلەشمىسى ‹‹ ئوت ئۆچۈرۈش ›› بىلەن ئاۋارە بولماقتا</a></li>');}catch(e){}

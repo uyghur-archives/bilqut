@@ -1,0 +1,3 @@
+﻿try {setidval('hits','789');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/madiniytimiz/show.php?itemid=1599">تاھىرتالىپ</a></li><li>  كىيىنكىسى  :    يوق</li>');}catch(e){}

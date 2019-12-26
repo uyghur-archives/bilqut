@@ -1,0 +1,73 @@
+<!-- Tor bat exligu chi Ablimitjan Maham  QQ :250092392    Tel: 6722530    E-Mail :Raziman@126.com ,ablmtjan@126.com -->
+document.write("<head></head>");
+
+
+document.write("<table border=0 cellpadding=2 cellspacing=0 width=100%>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/Mazmun.asp?NewsID=1106 target=_blank><font color=005CA1 style='font-size:10pt'>ئۇيغۇر كومپيۇتېرچىل...</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/Mazmun.asp?NewsID=1107 target=_blank><font color=005CA1 style='font-size:10pt'>«بىلقۇت» خەزىنىسى 11 ...</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/Mazmun.asp?NewsID=1113 target=_blank><font color=005CA1 style='font-size:10pt'>رەسىم</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/Mazmun.asp?NewsID=1115 target=_blank><font color=005CA1 style='font-size:10pt'>رەسىم</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/Mazmun.asp?NewsID=1111 target=_blank><font color=005CA1 style='font-size:10pt'>رەسىم</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/Mazmun.asp?NewsID=1112 target=_blank><font color=005CA1 style='font-size:10pt'>رەسىم</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/Mazmun.asp?NewsID=1110 target=_blank><font color=005CA1 style='font-size:10pt'>رەسىم</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/Mazmun.asp?NewsID=1109 target=_blank><font color=005CA1 style='font-size:10pt'>رەسىم</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=left colspan=2><a href=/Mazmun_more.asp?lm=&lm2=0&open=_blank&tj=0&hot=1 target=_blank><font style='font-size:10pt'>&#1610;&#1749;&#1606;&#1749; &#1576;&#1575;&#1585;...</font></a></td></tr>");
+
+document.write("</table>");

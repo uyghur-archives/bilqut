@@ -1,0 +1,3 @@
+﻿try {setidval('hits','170');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/kutupxana/show.php?itemid=943">ئەس - ھوشى بولمىسا، كىشى دوست تاللىيالمايدۇ.</a></li><li>  كىيىنكىسى  :  <a href="/kutupxana/show.php?itemid=945">مۇڭلان ئەپەندىم ۋە مۇنبەر ئەزالىرىغا !!!</a></li>');}catch(e){}

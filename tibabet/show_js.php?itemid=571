@@ -1,0 +1,3 @@
+﻿try {setidval('hits','1607');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/tibabet/show.php?itemid=570">ﮬﺎﻳﺎﺗﻠﯩﻘﻨﯩﯔ ﺗﯘﻧﺠﻰ ﺋﻮﺯﯗﻗﻰ _ ﺳﯜﺕ</a></li><li>  كىيىنكىسى  :  <a href="/tibabet/show.php?itemid=573">ئاچچصقلصنصش-ئةرلةرنصڭ يصغلاش ئۇسۇلص</a></li>');}catch(e){}

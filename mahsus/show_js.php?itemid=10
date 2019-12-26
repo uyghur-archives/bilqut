@@ -1,0 +1,3 @@
+﻿try {setidval('hits','1496');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/mahsus/show.php?itemid=9">زامانداشلىرىمغا ئوچۇق خەت</a></li><li>  كىيىنكىسى  :  <a href="/mahsus/show.php?itemid=21">ھەر بىر پەن ئۆزىنىڭ پەلسەپەسىنى تېپىۋىلىشى كېرەك</a></li>');}catch(e){}

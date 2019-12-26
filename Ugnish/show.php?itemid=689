@@ -1,0 +1,344 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>يوھان كرىستوف-ئۆگىنىش-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,ئۆگىنىش">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/Ugnish/" class="red"> ئۆگىنىش</a>
+         | <a class="razimantur" href="/Ugnish/list.php?catid=98" > ماتېماتىكا  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=99" >يىزا-ئىگىلىك </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=100" >پسىخولوگىيە </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=101" >ئىقتىساد </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=102" >مۇھىت </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=103" >ئەدەبىيات </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=104" >جۇغراپىيە </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=105" >فىزىكا </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=106" > خىمىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=107" >ئاسترونومىيە </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=108" > بىئولوگىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=109" > دېپلوماتىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=110" > ئېلېكترون  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=111" > تەنتەربىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=112" >مەتبەئەچىلىك </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=113" > گۈزەل- سەنئەت  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/Ugnish/">ئۆگىنىش</a> >> <a href="/Ugnish/list.php?catid=103">ئەدەبىيات </a> >>  يوھان كرىستوف</div>
+<!--主标题--><h1>يوھان كرىستوف </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-06-12 11:16:22&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">46</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<img src="/raziman_img/bash/reng/reng_1.gif" id="img1" style="cursor:hand;"  onclick="conhat(1)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_2.gif" id="img2" style="cursor:hand;"  onclick="conhat(2)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_3.gif" id="img3" style="cursor:hand;"  onclick="conhat(3)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_4.gif" id="img4" style="cursor:hand;"  onclick="conhat(4)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_5.gif" id="img5" style="cursor:hand;"  onclick="conhat(5)">&nbsp;&nbsp;                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">رومىن روللان (1866 −1944&nbsp;&nbsp;- يىللار)22&nbsp;&nbsp;يېشىدا نەچچە ئون بەتلىك ئۇزۇن بىر پارچە خەتنى تاپشۇرۈۋالىدۇ، خەت يازغان كىشى نامى جاھانغا مەشھۇر، يېشى60&nbsp;&nbsp;تىن ئاشقان لېﻒ تولستوي ئىدى. خەتتە تولستوي رومىن روللان سورىغان سوئاللارغا جاۋاب بەرگەنىدى، يەنە ئۇنى ئەدەبىي ئىجادىيەت بىلەن شۇغۇللىنىشقا قىزغىن ئىلھاملاندۇرغانىدى ھەم ئۇنىڭغا: «ئىنسانىيەت ئۈچۈن ئەدەبىيات - سەنئەت بىلەن شۇغۇللانماي بولمايدۇ! ... يالغان ئېيتماسلىق، ھەقىقەتتىن قورقماسلىق كېرەك!» دەپ كۆرسەتكەنىدى. رومىن روللانغا بۇ خەت «بىپايان ئالەمگە ئېچىلغان بىر ئىشىك» بولۇپ تۇيۇلدى، ئۇنى «بىر خىل تۇرمۇش ئىلھامىغا» ئېرىشتۈردى. شۇنىڭ بىلەن ئۇ ئەدەبىيات بىلەن شۇغۇللىنىشقا بەل باغلىدى، كېيىنكى كۈنلەردە نۇرغۇن ئەسەر يېزىپ، شەرەپ بىلەن1915&nbsp;&nbsp;- يىللىق نوبېل ئەدەبىيات مۇكاپاتىغا ئېرىشتى.
+رومىن روللان دەسلەپتە فرانسىيە ئىنقىلابى تېما قىلىنغان بىرمۇنچە درامىلارنى يازغان. ئۇ مۇشۇ «ئىنقىلابىي دراما» لار ئارقىلىق تارىختىكى قەھرىمانلاردىن پايدىلىنىپ خەلقنى تەربىيىلەشنى ئۈمىد قىلغان.20&nbsp;&nbsp;- ئەسىرنىڭ باشلىرىدىن باشلاپ ئۇ ئۇلۇغ كىشىلەرنىڭ تەرجىمىھالىنى يېزىشقا باشلاپ، كۆزگە كۆرۈنگەن&nbsp;&nbsp;ئاشۇ سەنئەتكارلارنى مەدھىيىلىگەن. بىتخوۋېننىڭ تەرجىمىھالى، مىكېلانجېلۇنىڭ تەرجىمىھالى ۋە لېف · تولستوينىڭ تەرجىمىھالى قاتارلىقلار دۇنياغا مەشھۇر بىئوگرافىك ئەسەرلەر ھېسابلىنىدۇ. ئۇنىڭ مۇھىم ۋەكىللىك ئەسىرى «يوھان كرىستوف»، ئۇ10&nbsp;&nbsp;باب.
+روماندا جاپا - مۇشەققەت ئىچىدە يېگانە كۈرەش قىلغان بىر زىيالىينىڭ ئوبرازى يارىتىلىپ،1&nbsp;&nbsp;- دۇنيا ئۇرۇشىدىن ئىلگىرىكى ياۋروپا جەمئىيىتىنىڭ بىپايان مەنزىرىسى سىزىپ بېرىلىپ، نۇرغۇن زور ئىجتىمائىي تۇرمۇش مەسىلىلىرى ئوتتۇرىغا قويۇلغان. يوھان كرىستوف گېرمانىيىدە بىر نامرات مۇزىكانت ئائىلىسىدە تۇغۇلغان، كىچىكىدىنلا ئادەتتىن تاشقىرى مۇزىكا تالانتىنى ئىپادىلىگەن، كېيىن دادىسىغا ئەگىشىپ ئوردىغا كىرىپ مۇزىكا چالىدۇ، شۇ چاغدا فېئودال ئاقسۆڭەكلەرنىڭ تەكەببۇرلۇقىنى، ئۇششاق شەھەر خەلقىنىڭ قۇللارچە ئېگىلىشىنى ئۆز كۆزى بىلەن كۆرىدۇ. ئۇ زەردارلارنى نەزىرىگە ئىلمايدۇ، مىشچانلارغا زەربە بېرىدۇ، ئاقسۆڭەكلەرگە قارشىلىق كۆرسىتىدۇ، شۇڭا چەتكە قېقىلىپ، تۇرمۇش كەچۈرۈشىمۇ&nbsp;&nbsp;قىيىن بولۇپ قالىدۇ. لېكىن، ئۇ تەقدىرگە بويۇن ئەگمەي، گېزىتلەردە ماقالە ئېلان قىلىپ، يۇقىرى قاتلام جەمئىيىتىنىڭ مۇزىكىنى دەپسەندە قىلغانلىقىنى تەنقىد قىلىپ، نۇرغۇن ئادەمنى رەنجىتىدۇ. بىر قېتىم ئەسكەرلەر بوزەك قىلىۋاتقان دېھقاننى قۇتۇلدۇرىمەن دەپ، ئۆلۈم ۋەقەسى تۇغدۇرۇپ قويۇپ، فرانسىيىگە قېچىپ كېتىشكە مەجبۇر بولىدۇ. لېكىن، فرانسىيە جەمئىيىتىنىڭ ھەممىلا يېرى مەنپەئەتپەرەسلىك بىلەن تولغان، مۇزىكا ساھەسى ناھايىتى روھسىز ئىدى. ئۇ رەزىللىككە زەربە بېرىپ، ئۆزى يالغۇز جەڭ قىلىپ، ھەممىلا يەردە مىخقا ئۈسىدۇ. ئۇ خەلق ئارىسىغا بېرىپ خەلقنىڭ دەردىگە ھېسداشلىق قىلسىمۇ، لېكىن خەلق ئاممىسىنىڭ كۈچىنى كۆرەلمەيدۇ. ئاخىرىدا پۈتۈن ئارزۇلىرى يوققا چىقىپ، دىنىي مۇزىكا ئىجاد قىلىشقا كىرىشىپ، روھىي جەھەتتىن ئۆزىنى مۇكەممەللەشتۈرۈشنى قوغلىشىدۇ.
+بۇ روماننىڭ مۇزىكىلىقى باشقا يازغۇچىلارنىڭ ئەسەرلىرىدىن پەرقلىنىدىغان ئەڭ روشەن بەدىئىي ئالاھىدىلىك بولۇپ، ئۇنى1913&nbsp;&nbsp;- يىللىق فرانسىيە ئۆلىمالار مەھكىمىسىنىڭ ئەدەبىيات مۇكاپاتىغا ۋە1915&nbsp;&nbsp;- يىللىق نوبېل ئەدەبىيات مۇكاپاتىغا نائىل قىلدى.
+</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=691" title="تىل - ئەدەبىيات ئوقۇتۇش لايىھىسى توغرىسىدىكى بىر نەچچە پىكىر "  target="_blank" class="tag_title_link">تىل - ئەدەبىيات ئوق...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=690" title="تىل - ئەدەبىيات دەرسىدىكى ئۇنىۋېرسال ئۆگىنىش"  target="_blank" class="tag_title_link">تىل - ئەدەبىيات دەر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=689" title="يوھان كرىستوف"  target="_blank" class="tag_title_link">يوھان كرىستوف</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=688" title="ئەدەبىيات ئاتالغۇلىرى"  target="_blank" class="tag_title_link">ئەدەبىيات ئاتالغۇل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=687" title="فرانسىيە پەيلاسوپى سارترى"  target="_blank" class="tag_title_link">فرانسىيە پەيلاسوپى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=686" title="مارك تۋېن"  target="_blank" class="tag_title_link">مارك تۋېن</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=685" title="سەھنە سەنئىتى"  target="_blank" class="tag_title_link">سەھنە سەنئىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=684" title="سېلىشتۇرما ئەدەبىيات"  target="_blank" class="tag_title_link">سېلىشتۇرما ئەدەبىي...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=683" title="ئاندېرسىن"  target="_blank" class="tag_title_link">ئاندېرسىن</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=682" title="مەسەل"  target="_blank" class="tag_title_link">مەسەل</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=681" title="تۈرگېنېف"  target="_blank" class="tag_title_link">تۈرگېنېف</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=680" title="فىلولوگىيە"  target="_blank" class="tag_title_link">فىلولوگىيە</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=679" title="ئەدەبىيات - سەنئەتشۇناسلىق"  target="_blank" class="tag_title_link">ئەدەبىيات - سەنئەتش...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=678" title="بېغىشلاش"  target="_blank" class="tag_title_link">بېغىشلاش</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=677" title="ئەدەبىياتنىڭ ئىجتىمائىي رولى"  target="_blank" class="tag_title_link">ئەدەبىياتنىڭ ئىجتى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=676" title="ئەپسانشۇناس"  target="_blank" class="tag_title_link">ئەپسانشۇناس</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=675" title="بەدىھە"  target="_blank" class="tag_title_link">بەدىھە</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=674" title="مۇپاسسان"  target="_blank" class="tag_title_link">مۇپاسسان</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=673" title="رىتىم چۈشەنچىسى"  target="_blank" class="tag_title_link">رىتىم چۈشەنچىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=672" title="بىرىنچى شەخس بايانى"  target="_blank" class="tag_title_link">بىرىنچى شەخس بايان...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/Ugnish/search.php?catid=103&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=691" title="تىل - ئەدەبىيات ئوقۇتۇش لايىھىسى توغرىسىدىكى بىر نەچچە پىكىر "  target="_blank" class="tag_title_link">تىل - ئەدەبىيات ئوقۇتۇش ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=690" title="تىل - ئەدەبىيات دەرسىدىكى ئۇنىۋېرسال ئۆگىنىش"  target="_blank" class="tag_title_link">تىل - ئەدەبىيات دەرسىدىك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=689" title="يوھان كرىستوف"  target="_blank" class="tag_title_link">يوھان كرىستوف</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=688" title="ئەدەبىيات ئاتالغۇلىرى"  target="_blank" class="tag_title_link">ئەدەبىيات ئاتالغۇلىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=687" title="فرانسىيە پەيلاسوپى سارترى"  target="_blank" class="tag_title_link">فرانسىيە پەيلاسوپى سارت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=686" title="مارك تۋېن"  target="_blank" class="tag_title_link">مارك تۋېن</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=685" title="سەھنە سەنئىتى"  target="_blank" class="tag_title_link">سەھنە سەنئىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=684" title="سېلىشتۇرما ئەدەبىيات"  target="_blank" class="tag_title_link">سېلىشتۇرما ئەدەبىيات</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=683" title="ئاندېرسىن"  target="_blank" class="tag_title_link">ئاندېرسىن</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=682" title="مەسەل"  target="_blank" class="tag_title_link">مەسەل</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/Ugnish/show_js.php?itemid=689"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

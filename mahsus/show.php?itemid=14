@@ -1,0 +1,337 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>قۇربانجان سەمەت : «فىزىكىلىق شەكىل نەزەرىيىسى» توغرىسىدا ئويلىغانلىرىم-مەخسۇس سەھىپىلەر-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,مەخسۇس سەھىپىلەر">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/mahsus/" class="red"> مەخسۇس سەھىپىلەر</a>
+         | <a class="razimantur" href="/mahsus/list.php?catid=132" >قاسىم سىدىق ئىلمىي ماقالىلىرى</a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/mahsus/">مەخسۇس سەھىپىلەر</a> >> <a href="/mahsus/list.php?catid=132">قاسىم سىدىق ئىلمىي ماقالىلىرى</a> >>  قۇربانجان سەمەت : «فىزىكىلىق شەكىل نەزەرىيىسى» توغرىسىدا ئويلىغانلىرىم</div>
+<!--主标题--><h1>قۇربانجان سەمەت : «فىزىكىلىق شەكىل نەزەرىيىسى» توغرىسىدا ئويلىغانلىرىم </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-05-24 17:08:59&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">1034</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">«فىزىكىلىق شەكىل نەزەرىيىسى» توغرىسىدا ئويلىغانلىرىم
+
+قۇربانجان سەمەت
+
+ئاساسى مەزمۇنى:
+&nbsp;&nbsp; ئاق قەغەز مودېلى ۋە ئۇنىڭدىن ئىلگىرى ئوتتۇرىغا قويۇلغان 1-2-ئېنىقلىما، 1-2-3- ئاكسىئومىلار ماتېماتىكىلىق ئىدىيىلەرگە زىت ئەمەس. بۇلاردىكى ئىدىيىلەرنى ماتېماتىكىدىكى&nbsp;&nbsp;توپلام نەزەرىيىسى ۋە كومپلېكس سانلار ئۇقۇملىرى بىلەن ئۈنۈملۈك شەرھلىگىلى بولىدۇ. «فىزىكىلىق شەكىل نەزەرىيىسى»نىڭ بەزى تىئورمىلىرىنى ھەتتا تەبىئىي سانلار ئارقىلىقمۇ ئىسپاتلاش مۇمكىن. 
+ ئاچقۇچ سۆزلەر:
+ توپلام نەزەرىيىسى؛ كومپلېكس سانلار؛ فىزىكىلىق شەكىل؛ ئىۋكىلىد گېئومېتىرىيىسى؛ لوباچىۋىسكى گېئومېتىرىيىسى؛ رىمان گېئومېتىرىيىسى؛&nbsp;&nbsp;نۇقتا گېئومېتىرىيىسى.
+&nbsp;&nbsp;&nbsp;&nbsp;ئالدى بىلەن بايانات سۇپىتىدە شۇنى ئېلان قىلىمەنكى؛ مەن «فىزىكىلىق شەكىل نەزەرىيىسى» تەتقىقاتىغا مۇئەييەن ماتېماتىكىلىق ئىشەنچ بىلەن قاتناشتىم. «فىزىكىلىق شەكىل نەزەرىيىسى»نىڭ ئاكسىئوما تېئورېما،، ئېنىقلىما، بەلگىلىمە ۋە پەرەزلىرىنى ماتېماتىكىلىق نۇقتىدىن تەنقىدى نەزەردە تەتقىق قىلىمەن ۋە مۇئەييەنلەشتۈرىمەن. تەتقىقات نەتىجەم ئاخىرلىشىشتىن بۇرۇن ھەرقانداق نەتىجىگە ئالدىن ھۆكۈم قىلمايمەن. ماتېماتىكىلىق لوگىكا مېنى قەيەرگە ئىلىپ بارسا، مەن شۇ يەردە ئىپادىلىنىمەن. ئىنكار قىلىشىممۇ، مۇئەييەنلەشتۇرشىممۇ مۇمكىن. بۇ سەرلەۋھە ئاستىدىكى بايانلىرىم پەقەت «فىزىكىلىق شەكىل نەزەرىيىسى» نىڭ ئىپتىدائىي ئۇقۇملىرىنى مۇئەييەنلەشتۈرۈشنى ئاساسى مەقسەت قىلىدۇ. مەن ھازىر «فىزىكىلىق شەكىل نەزەرىيىسى» دە تەشەببۇس قىلىنغان «نۇقتا گېئومېتىرىيىسى» نى مۇئەييەن ئىلمىي قىممەتكە ئىگە دەپ قارىغانلىقىم ئۇچۇن بۇ تېمىنى قولۇمغا ئالدىم. بۇ خىل گېئومېتىرىيە ئىۋكىلىت، لوباچىۋىسكى، رىمان، گېئومېتىريىلىرىدىن نىسپى مەنىدە پەرق قىلىدۇ ۋە فىزىكىلىق رىيالىقنى تەسۋىرلەشكە ئەڭ مۇۋاپىق كېلىدۇ دەپ قارايمەن.
+&nbsp;&nbsp;«فىزىكىلىق شەكىل نەزەرىيىسى»نىڭ مۇھىم مەزمۇنى بولغان ئاق قەغەز مودېلى ئالەمنىڭ ئوبرازلىق ئەكس ئەتتۈرۈلۈشى بولۇپ ماددا ۋە ماكاننى شەكىل ئارقىلىق چۈشىنىشلىك ئىپادىلەپ بەرگەن. ئالەمنىڭ بۇ خىل مودېلىنى توپلام ئارقىلىق ئىپادىلەشكىمۇ بولىدۇ. بىراق، توپلام ئېنىقلىمىسىدا ئورتاق خۇسۇسىيەتكە ئىگە ماددىلار (ئېلمنتلار) ئوتتۇرىغا قويۇلۇپ بۇ ئىلمنتلار جايلاشقان ماكان تىلغا ئىلىنمىغان چۈنكى توپلامدا ماكاننىڭ توپلاملار مۇناسىۋەتلىرىگە ھېچقانداق تەسىرى يوق.
+توپلام ئەسلى ئورتاق خۇسۇسىيەتكە ئىگە ماددىلار (ئېلمنتلار) بىلەن شۇ ئېلمنتلار جايلاشقان ماكاندىن تۈزۈلگەن بولىدۇ. بوش توپلام دەل ھېچقانداق ئېلمىنىتنى ئۆز ئىچىگە ئالمىغان ساپ ماكاندىن ئىبارەت. بوش بولمىغان توپلامدا ماكاننىڭ مەۋجۇتلىگىنى«بوش توپلام ھەرقانداق توپلامنىڭ قىسمى توپلىمى» دېگەن بەلگىلىمىدىن كۆرۈۋېلىشقا بولىدۇ.
+ «فىزىكىلىق شەكىل نەزەرىيىسى» دىكى&nbsp;&nbsp;ئاق قەغەز مودېلىنى توپلام ئارقىلىق تەسۋىرلەشكىمۇ بولىدۇ. ئاق قەغەز مودېلىدىكى&nbsp;&nbsp;An،&nbsp;&nbsp; A&nbsp;&nbsp;چەمبەرلەر ماددىي نۇقتىلار بولغاچقا بۇ توپلامنىڭ ئېلمنتلىرىنى ئۆز ئىچىگە ئالغان B تەكشىلىكنى بوش توپلام دەپ قارىساق، ئاق قەغەز مودېلى ئالەمدىن ئىبارەت بىر تولۇق توپلامنىڭ ئوبرازىنى ئەكس ئەتتۈرىدۇ. ئاق قەغەز مودېلىنى يەنە كومپلېكس تەكشىلىككە سېلىشتۇرساق، ئاق قەغەز مودېلىدىكى رىيال ماددىلار&nbsp;&nbsp;An، A چەمبەرلەر كومپلېكس تەكشىلىكتىكى ھەقىقىي سانلارنى؛ ئاق قەغەز مودېلىدىكى B تەكشىلىك كومپلېكس تەكشىلىكتىكى ساپ مەۋھۇم سانلارنى ئىپادىلەيدۇ. بىر پۈتۈن كومپلېكس تەكشىلىك ئومۇمى ئالەمنىڭ ئوبرازىنى ئەكس ئەتتۈرىدۇ. دېمەك، ئاق قەغەز مودېلى ئۇنىۋېرسال ئىپادىلەش كۈچىگە ئىگە.
+&nbsp;&nbsp; «فىزىكىلىق شەكىل نەزەرىيىسى»دە ھەر قانداق فىزىكىلىق شەكىل ئۈچ ئۆلچەملىك بولىدۇ. (2-تېئورېما) دېيىلگەن، فىزىكىلىق شەكىل مۇئەييەن ماددا بولغاچقا ئو چوقۇم ھەجىمگە ئىگە، ھەجىمگە ئىگە بولغان ھەرقانداق شەكىل ئۈچ ئۆلچەملىك بولىدۇ.
+&nbsp;&nbsp; فىزىكىلىق شەكىل – گېئومېتىرىيىلىك شەكىلگە ئىگە بولغاچقا، ھەرقانداق گېئومېتىرىيىلىك شەكىلمۇ ئۈچ ئۆلچەملىك بولىدۇ. ماتېماتىكا نۇقتىسىدىن ئىلىپ ئېيتقاندا بىر ئۆلچەملىك تۈز سىزىق ئىككى ئۆلچەملىك تەكشىلىك گېئومېتىرىيىلىك شەكىل بولۇپ يۇقىرىقى ھەرقانداق گېئومېتىرىيىلىك شەكىل ئۈچ ئۆلچەملىك بولىدۇ دېگەن بەلگىلىمىگە ئۇيغۇن ئەمەس، بىراق رىيال تەبىئەت دۇنياسىدا بىر ئۆلچەملىك، ئىككى ئۆلچەملىك شەكىل مەۋجۇد بولمىسىمۇ ماتېماتىكا ھېسابلاش ئېھتىياجى تۈپەيلى ماددىنىڭ رىيالىغىدىن ھالقىغان ئۆلچەملەرنى قوللىنىمىز&nbsp;&nbsp;ئېھتىياجىدىن سىرت ئۆلچەملەرنى نەزەرگە ئالمايدۇ.&nbsp;&nbsp;مەسىلەن:
+ئاپتوموبىل ئۈچ ئۆلچەملىك رىياللىق، بىز ئاپتوموبىلنىڭ باسقان مۇساپىسىنى ھېسابلىغاندا ئاپتوموبىلىدىن ئىبارەت بۇ رېئاللىقنى بىر ماددىي نۇقتا دەپ قارايمىز ۋە پەقەت بىرلا ئۆلچەم بويىچە يەنى ئىۋىكىلىت گېئومېتىرىيىسى مېتودى بويىچە ھېسابلاش ئىلىپ بارىمىز.
+&nbsp;&nbsp;«فىزىكىلىق شەكىل نەزەرىيىسى»نىڭ 4-بەلگىلىمىسىدە «ھەرقانداق گېئومېتىرىيىلىك شەكىل چەكلىك بولىدۇ» دېيىلگەن. ماتېماتىكىدا تۈز سىزىقنىڭ ئىككى ئۇچى ۋە تەكشىلىكنىڭ دائىرىسى چەكسىز دەپ بەلگىلەنگەن. شۇنىڭغا دىققەت قىلىشىمىز كېرەككى؛ ماتېماتىكا ھەرقانداق مەسىلىگە نىسبەتەن ئالدىن تەييارلانغان ھېسابلاش قورالى، يەنى ماتېماتىكا كىلەچەكتىكىلەرنىڭ مېڭىشىغا ياسالغان يول؛ ئوينىشىغا ياسالغان سەھنە دەپ قارىساق بولىدۇ. بىراق، رىيال دۇنيادا ماڭغان يولىمىز، سەھنىمىز، كارۋانلىرىمىز ۋە سەھنىگە چىققۇچىلىىرىمىز ھامان چەكلىك بولىدۇ، ئەنئەنىۋى ماتېماتىكا تەبىئەتنىڭ رېئاللىقىدىن ھالقىغان چەكسىزلىك ئۇستىگە قۇرۇلغان مېتۇد بولۇپ، بۇ مېتودقا تەبىئەت دۇنياسىنىڭ مۇتلەق ئەمەل قىلىشى ناتايىن.&nbsp;&nbsp;يەنە تەكرارلىساق، چەكسىزلىك- پەقەت بىر خىل مېتود خالاس. داڭلىق ماتېماتىكا ئالىمى گائۇسمۇ «ماتېماتىكىدا چەكسىزلىككە پۇت تىرەپ تورغىدەك ماكان يوق» دەپ ئۈزۈپ ئېيتقان. دېمەك «فىزىكىلىق شەكىل نەزەرىيىسى»دىكى «گېئومېتىرىيىلىك شەكىل» ئەمىلى رېئاللىقنىڭ مەھسۇلى، يەنى ماددا ۋە ئۇنىڭ ھەركىتىنڭ ماكاندىكى ئىپادىلىنىش شەكلى بولۇپ، ماتېماتىكىدىكى گېئومېتىرىيىلىك شەكىل بولسا - ماددىنىڭ چەكسىز بوشلۇقتىكى ئۈزلۈكسىز ھەرىكىتىنىڭ خىيالى تەسۋىرىدۇر.
+«فىزىكىلىق شەكىل نەزەرىيىسى»نىڭ 4-ئاكسيۇمىسىدا «يوقلۇق- ھەربىر كونكرېتلىقتا چەكلىك، ئومۇملۇقتا چەكسىز بولىدۇ» دېيىلگەن. بۇ ئاكسىئومىنى توپلام نەزەرىيىسى&nbsp;&nbsp;بىلەن شەرھلىسەك مۇنداق بايان قىلىشقا بولىدۇ: بوش توپلام- ھەرقانداق بوش بولمىغان توپلامنىڭ ھەقىقىي قىسمى توپلىمى بولىدۇ.&nbsp;&nbsp;يەنى A توپلامنى بوش بولمىغان چەكلىك توپلام Φ&nbsp;&nbsp;بوش توپلام دېسەك، ھامان ᄃＡΦ&nbsp;&nbsp; قورۇلىدۇ. دېمەك، A توپلام قانچىلىك كىچىك بولۇشىدىن قەتئىي نەزەر&nbsp;&nbsp;ᄃＡΦ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ئورۇنلۇق، شۇڭا «يوقلۇق» ھەر بىر كونكرېتلىقتا چەكلىك بولىدۇ.&nbsp;&nbsp;پۈتۈن ئالەمنى بىر چەكسىز توپلام دەپ قاراشقا بولىدۇ. يەنى ئالەمنى ئاق قەغەز مودېلىدىكى An، A چەمبەردىن ئىبارەت ئىلمىنىتلارنى ئۆز ئىچىگە ئالغان B تەكشىلىكتىن&nbsp;&nbsp;تۈزۈلگەن ئالەمنى چەكسىز دەپ قارىساق بولىدۇ.&nbsp;&nbsp;يەنى «بوشلۇق (يوقلۇق) چوڭلۇقتا چوڭ، كىچىكلىكتە كىچىك قىممەت ئالىدۇ». («فىزىكىلىق شەكىل نەزەرىيىسى»نىڭ 5-ئاكسىئومىسى) ئالەمنى An، A ۋەB تەكشىلىكلەردىن تۈزۈلگەن توپلام دەپ قارىغىنىمىزدا 7-تېئورېما&nbsp;&nbsp;ھامان ئورۇنلۇق بولىدۇ. يەنى ئالەمنى تۈزگۈچى ئېلېمېنتلارنىڭ گېئومېتىرىيىلىك مىقدارى ھامان توپلام ئومۇمى گەۋدىسىنىڭ گېئومېتىرىيىلىك مىقدارىدىن كىچىك بولىدۇ.
+&nbsp;&nbsp; «فىزىكىلىق شەكىل نەزەرىيىسى»دىكى تېئورېما، ئاكسىئوما، بەلگىلىمىلەر ئەمىلى رىيال دۇنيانىڭ تۈرلۈك قانۇنىيەتلىرى ئاساسىدا چىقىرىلغان لوگىكىلىق خۇلاسىلەر بولۇپ ماتېماتىكا نۇقتىسىدىن قارىغاندا&nbsp;&nbsp;قايىل قىلىش كۈچى باركى لوگىكىلىق زىددىيەت يوق، «فىزىكىلىق شەكىل» ئۇقۇمى ۋە «نۇقتا گېئومېتىرىيىسى»؛ «نىيۇتۇن نۇقتىسى»؛ «گېئومېتىرىيىلىك ئاساسى نۇقتا» ئۇقۇملىرىنى ئىنكار قىلىغىدەك ھېچقانچە ماتېماتىكىلىق سەۋەب يوق. چۈنكى ماتېماتىكا رىيالىقنى ئۆز ئىچىگە ئالغان ھالدا رىيالىقتىن ھالقىغان نوقۇل لوگىكا پېنى بولۇپ ئۇ ھەممە بابتۇر. شۇڭا مەن «فىزىكىلىق شەكىل نەزەرىيىسى» نىڭ ئىپتىدائىي ئۇقۇمى بولغان «فىزىكىلىق شەكىل» ۋە بۇ ئۇقۇمدىن كېيىنىكى «ئاق قەغەز مودېلى» نى ئۆز ئىچىگە ئالغان ئاساسى ئىدىيىلەرنى بىر ماتېماتىك بولۇش سۈپىتىم بىلەن&nbsp;&nbsp;قەتئىي قوللايمەن. «فىزىكىلىق شەكىل نەزەرىيىسى» نىڭ قالغان تېئورېما، ئاكسىئوما، ئېنىقلىما، بەلگىلىمە، ۋە پەرەز سىستېمىلىرىنى ماتېماتىكىلىق مېتود بىلەن ئىسپاتلاش ۋە ياكى رەت قىلىش ئەلۋەتتە كەسىپداشلارنىڭ ئورتاق مەسئۇلىيىتىمىز ۋە بۇرچىمىز. «ھەرقانداق گېئومېتىرىيىلىك نۇقتا ئۈچ ئۆلچەملىك بولىدۇ»(1) دەيدىغان بۇنداق ئىدىيىنى ئاغدۇرۋىتىشكە ھازىرچە ھېچقانداق ئىلمىي دەلىل تاپالمىدىم. كۆرۈنۈپ تۇرۇپتىكى؛&nbsp;&nbsp;«فىزىكىلىق شەكىل» تەجرىبە فىزىكىسى ئۈستىگە قۇرۇلغان بىر يىڭى ئىدىيە سۈپىتىدە بىزگە خىرىس قىلماقتا!،.
+
+ئىزاھ:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(1) «فىزىكىلىق شەكىل نەزەرىيىسى: نىڭ&nbsp;&nbsp;14-تېئورېمىسىغا قارالسۇن.
+
+2009-يىل 5-ئاينىڭ 19-كۈنى.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; غۇلجا دادامتۇ ئولاستاي كەنتى دە يېزىلدى.
+</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/2009/0705/22.htm" title="ئەھمەدجان ئىكرام"  target="_blank" class="tag_title_link">ئەھمەدجان ئىكرام</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=21" title="ھەر بىر پەن ئۆزىنىڭ پەلسەپەسىنى تېپىۋىلىشى كېرەك"  target="_blank" class="tag_title_link">ھەر بىر پەن ئۆزىنىڭ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=20" title="ھاۋا قاچىلاپ ماڭىدىغان ماشىنا ياسالدى!"  target="_blank" class="tag_title_link">ھاۋا قاچىلاپ ماڭىد...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=16" title="قاسىم سىدىق تەنقىد ۋە مۇئەييەنلەشتۈرۈش ئوخشاشلا موھىم"  target="_blank" class="tag_title_link">قاسىم سىدىق تەنقىد ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=15" title="قاسىم سىدىق . فىزىكىلىق&nbsp;&nbsp;شەكىل نەزەرىيىسى"  target="_blank" class="tag_title_link">قاسىم سىدىق . فىزىك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=14" title="قۇربانجان سەمەت : «فىزىكىلىق شەكىل نەزەرىيىسى» توغرىسىدا ئويلىغانلىرىم"  target="_blank" class="tag_title_link">قۇربانجان سەمەت : «...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=13" title="قاسىم سىدىق،&nbsp;&nbsp;قۇربانجان سەمەت،&nbsp;&nbsp;ئابلىمىت ھاكىم ھاجىم&nbsp;&nbsp;:قاتلاملىق ئالەم"  target="_blank" class="tag_title_link">قاسىم سىدىق،  قۇربا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=12" title="قاسىم سىدىق :&nbsp;&nbsp; ئالەمنىڭ بىر&nbsp;&nbsp;كۈنى ۋە&nbsp;&nbsp;&quot;ئالەم سائىتى&quot;"  target="_blank" class="tag_title_link">قاسىم سىدىق :   ئالە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=11" title="قاسىم سىدىق&nbsp;&nbsp;&nbsp;&nbsp;ئېلېمېنتار ئالەم ۋە دەۋرى ئالەم"  target="_blank" class="tag_title_link">قاسىم سىدىق    ئېلېم...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=10" title="قاسىم سىدىق:&nbsp;&nbsp; كەڭ تورداشلارغا&nbsp;&nbsp;سالام"  target="_blank" class="tag_title_link">قاسىم سىدىق:   كەڭ ت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=9" title="زامانداشلىرىمغا ئوچۇق خەت"  target="_blank" class="tag_title_link">زامانداشلىرىمغا ئو...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=8" title="ئىلىم پەن ساھەسىدىكى نوپۇزلۇق ئەربابلارنىڭ&nbsp;&nbsp;‹‹ بوشلۇق نەزەرىيىسى ››گە (فىزىكىلىق شەكىل نەز"  target="_blank" class="tag_title_link">ئىلىم پەن ساھەسىدى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=7" title="&quot;چوڭ پارتىلاش ئالەم مودېلى&quot; دىن ئالەمگە نەزەر"  target="_blank" class="tag_title_link">&quot;چوڭ پارتىلاش ئالەم...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=6" title="قاسىم سىدىق ---&quot;يوقلۇق&quot; ۋە ئالەمنى بىلىش مەسىلىسى"  target="_blank" class="tag_title_link">قاسىم سىدىق ---&quot;يوقل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=5" title="قاسىم سىدىق--《ئوبىكتىپ زامان》- خاتا سەزگۈمۇ ۋە ياكى چىنلىق؟"  target="_blank" class="tag_title_link">قاسىم سىدىق--《ئوبىك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=4" title="قاسىم سىدىق--ساختا 《چەكسىزلىك》ۋە ھەقىقى چەكسىزلىك"  target="_blank" class="tag_title_link">قاسىم سىدىق--ساختا ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=3" title="قاسىم سىدىق--ئالىم بولماق ئاسان ئەمەس"  target="_blank" class="tag_title_link">قاسىم سىدىق--ئالىم ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=2" title="قاسىم سىدىق. ئېينىشتېيىن ئېفىرنى &quot;پۇتۇنلەي ئىنكار قىلغان&quot;مۇ؟"  target="_blank" class="tag_title_link">قاسىم سىدىق. ئېينىش...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=1" title="قاسىم سىدىق كوسمولۇگىيە ---"  target="_blank" class="tag_title_link">قاسىم سىدىق كوسمول...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/mahsus/search.php?catid=132&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/2009/0705/22.htm" title="ئەھمەدجان ئىكرام"  target="_blank" class="tag_title_link">ئەھمەدجان ئىكرام</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=21" title="ھەر بىر پەن ئۆزىنىڭ پەلسەپەسىنى تېپىۋىلىشى كېرەك"  target="_blank" class="tag_title_link">ھەر بىر پەن ئۆزىنىڭ پەلس...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=20" title="ھاۋا قاچىلاپ ماڭىدىغان ماشىنا ياسالدى!"  target="_blank" class="tag_title_link">ھاۋا قاچىلاپ ماڭىدىغان ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=16" title="قاسىم سىدىق تەنقىد ۋە مۇئەييەنلەشتۈرۈش ئوخشاشلا موھىم"  target="_blank" class="tag_title_link">قاسىم سىدىق تەنقىد ۋە مۇ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=15" title="قاسىم سىدىق . فىزىكىلىق&nbsp;&nbsp;شەكىل نەزەرىيىسى"  target="_blank" class="tag_title_link">قاسىم سىدىق . فىزىكىلىق  ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=14" title="قۇربانجان سەمەت : «فىزىكىلىق شەكىل نەزەرىيىسى» توغرىسىدا ئويلىغانلىرىم"  target="_blank" class="tag_title_link">قۇربانجان سەمەت : «فىزىك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=13" title="قاسىم سىدىق،&nbsp;&nbsp;قۇربانجان سەمەت،&nbsp;&nbsp;ئابلىمىت ھاكىم ھاجىم&nbsp;&nbsp;:قاتلاملىق ئالەم"  target="_blank" class="tag_title_link">قاسىم سىدىق،  قۇربانجان ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=12" title="قاسىم سىدىق :&nbsp;&nbsp; ئالەمنىڭ بىر&nbsp;&nbsp;كۈنى ۋە&nbsp;&nbsp;&quot;ئالەم سائىتى&quot;"  target="_blank" class="tag_title_link">قاسىم سىدىق :   ئالەمنىڭ ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=11" title="قاسىم سىدىق&nbsp;&nbsp;&nbsp;&nbsp;ئېلېمېنتار ئالەم ۋە دەۋرى ئالەم"  target="_blank" class="tag_title_link">قاسىم سىدىق    ئېلېمېنتا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=10" title="قاسىم سىدىق:&nbsp;&nbsp; كەڭ تورداشلارغا&nbsp;&nbsp;سالام"  target="_blank" class="tag_title_link">قاسىم سىدىق:   كەڭ تورداش...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/mahsus/show_js.php?itemid=14"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

@@ -1,0 +1,3 @@
+﻿try {setidval('hits','31');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/maarip/show.php?itemid=164">ئىلى ۋىلايەتلىك 1 - ئوتتۇرا مەكتەپ</a></li><li>  كىيىنكىسى  :  <a href="/maarip/show.php?itemid=166">ئالتاي ۋىلايەتلىك 1 - ئوتتۇرا مەكتەپ</a></li>');}catch(e){}

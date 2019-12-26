@@ -1,0 +1,3 @@
+﻿try {setidval('hits','15');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/maarip/show.php?itemid=2">تەييارلىق مەكتىپى</a></li><li>  كىيىنكىسى  :  <a href="/maarip/show.php?itemid=4">ئۈچ خىل مائارىپنى تەڭ پىلانلاش</a></li>');}catch(e){}

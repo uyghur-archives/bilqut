@@ -1,0 +1,337 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>چەتئەل تىلى ئۈگۈنىش سالونى قۇرۇلدى-تىل - يېزىق-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,تىل - يېزىق">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/til_yeziq/" class="red"> تىل - يېزىق</a>
+         | <a class="razimantur" href="/til_yeziq/list.php?catid=36" >ئۇيغۇر تىلى</a>
+
+ | <a class="razimantur" href="/til_yeziq/list.php?catid=37" >خەنزۇ تىلى</a>
+
+ | <a class="razimantur" href="/til_yeziq/list.php?catid=38" >ئىنگلىز تىلى </a>
+
+ | <a class="razimantur" href="/til_yeziq/list.php?catid=39" >روس تىلى</a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/til_yeziq/">تىل - يېزىق</a> >> <a href="/til_yeziq/list.php?catid=38">ئىنگلىز تىلى </a> >>  چەتئەل تىلى ئۈگۈنىش سالونى قۇرۇلدى</div>
+<!--主标题--><h1>چەتئەل تىلى ئۈگۈنىش سالونى قۇرۇلدى </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2008-11-17 13:36:36&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">1079</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">ئەسسلامۇ ئەلەيكۇم!
+چەتئەل تىلى ئۈگەنگۇچىلەرنىڭ بىرلىكتە پىكىر ئالماشتۇرۇش، بىرلىكتە ئۆز ئارا ئۈگۈنىشگە قولايلىق بولىشى ئۈچۈن مەخسۇس چەتئەل تىلى مۇنبىرى قۇرۇلدى.
+قىزىققۇچىلارنىڭ مۇنبەرگە يىغىلىشىنى سورايسىز.
+ئادىرسىمىز: [url]https://www.uyghurclub.cn[/url]
+مۇنبەر چ چ توپى: 71821334
+
+
+ھەرقايسى تور بىكەت باشقىلىرىنىڭ ئۆز ئارا ئۇلىنىش قىلىشىنى سورايسىز.
+ئادىرسىمىز: [url]https://www.uyghurclub.cn[/url]
+تۇغ ئادىرسى:[img]https://www.uyghurclub.cn/logo.gif[/img]
+
+مۇنبەر باشقۇرغۇچىسى بولۇشنى خالايدىغانلارنى ھەر ۋاقىت قارشى ئالىمىز.
+چ چ : 744201670
+
+كۆپچىلىكنىڭ قوللىغىنىغا رەھمەت</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=52" title="رېستۇراندا ئىنگلىزچە سۆزلىشىش"  target="_blank" class="tag_title_link">رېستۇراندا ئىنگلىز...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=51" title="ئائىلە (Family)"  target="_blank" class="tag_title_link">ئائىلە (Family)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=50" title="&quot;ئامرىكا ھەربى ئىشلار ژورنىلى&quot;ۋە &quot;ئىلمى ئامرىكىلىق&quot;"  target="_blank" class="tag_title_link">&quot;ئامرىكا ھەربى ئىشل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=49" title="VOA ئېنگىلىز تىلى(2.26)"  target="_blank" class="tag_title_link">VOA ئېنگىلىز تىلى(2.26)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=48" title="ئايروپىلاندا"  target="_blank" class="tag_title_link">ئايروپىلاندا</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/2008/1219/47.php" title=" Communication tools"  target="_blank" class="tag_title_link"> Communication tools</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=46" title="چەتئەل تىلى ئۈگۈنىش سالونى قۇرۇلدى"  target="_blank" class="tag_title_link">چەتئەل تىلى ئۈگۈنى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=45" title="ئۈگىنىش،ئۈگىنىش يەنە ئۈگىنىش"  target="_blank" class="tag_title_link">ئۈگىنىش،ئۈگىنىش يە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=44" title="ئىنگلىزتىلى ئۈگەنگۈچىلەر ئۈچۈن~~~"  target="_blank" class="tag_title_link">ئىنگلىزتىلى ئۈگەنگ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=43" title="ﻗﺎﻳﺴﯩﯖﻼ ﺑﯘﻗﯩﺰﺑﯩﻠﻪﻥ ﭘﺎﺭﺍﯕﻠﯩﺸﺎﻻﻳﺴﯩﻠﻪﺭ"  target="_blank" class="tag_title_link">ﻗﺎﻳﺴﯩﯖﻼ ﺑﯘﻗﯩﺰﺑﯩﻠﻪﻥ ﭘﺎﺭﺍﯕﻠﯩﺸﺎﻻﻳﺴﯩﻠﻪﺭ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=42" title="ئىنگلىزچە سۆزلىشىش (قاتناش)"  target="_blank" class="tag_title_link">ئىنگلىزچە سۆزلىشىش...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=41" title="[English] تەنتەربىيە"  target="_blank" class="tag_title_link">[English] تەنتەربىيە</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=40" title="[English]تېلېفوندا سالاملىشىش"  target="_blank" class="tag_title_link">[English]تېلېفوندا سال...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=39" title="[English]مېھماندارچىلىق"  target="_blank" class="tag_title_link">[English]مېھماندارچىلى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=38" title="ئىنگلىزچە ئۆگىنىش (سالاملىشىش)"  target="_blank" class="tag_title_link">ئىنگلىزچە ئۆگىنىش (...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=37" title="ئىنگىلىزچە&nbsp; ئۆگىنىش ( تونۇشۇش ۋە ئۇچرىشىش)"  target="_blank" class="tag_title_link">ئىنگىلىزچە  ئۆگىنى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=36" title="08-06-21 كۈندىكى ئىنگىلىزتىلى 4- دەرىجە ئىمتاھان سۇئالى ۋە جاۋابى"  target="_blank" class="tag_title_link">08-06-21 كۈندىكى ئىنگى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=35" title="[كارتون فىلىم]مۇز دەۋرى 2 نىڭ&nbsp; English ئاۋازى"  target="_blank" class="tag_title_link">[كارتون فىلىم]مۇز د...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=34" title="[كارتون فىلىم]شىر پادىشاھنىڭ English ئاۋازى"  target="_blank" class="tag_title_link">[كارتون فىلىم]شىر پ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=33" title="[چۈشۈرۈش]يېڭى ئۇقۇم ئىنگىلىزتىلى 4- قىسىم(ئامىرىكا تەلەپپۇزى)"  target="_blank" class="tag_title_link">[چۈشۈرۈش]يېڭى ئۇقۇم...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/til_yeziq/search.php?catid=38&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=52" title="رېستۇراندا ئىنگلىزچە سۆزلىشىش"  target="_blank" class="tag_title_link">رېستۇراندا ئىنگلىزچە سۆ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=51" title="ئائىلە (Family)"  target="_blank" class="tag_title_link">ئائىلە (Family)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=50" title="&quot;ئامرىكا ھەربى ئىشلار ژورنىلى&quot;ۋە &quot;ئىلمى ئامرىكىلىق&quot;"  target="_blank" class="tag_title_link">&quot;ئامرىكا ھەربى ئىشلار ژو...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=49" title="VOA ئېنگىلىز تىلى(2.26)"  target="_blank" class="tag_title_link">VOA ئېنگىلىز تىلى(2.26)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=48" title="ئايروپىلاندا"  target="_blank" class="tag_title_link">ئايروپىلاندا</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/2008/1219/47.php" title=" Communication tools"  target="_blank" class="tag_title_link"> Communication tools</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=46" title="چەتئەل تىلى ئۈگۈنىش سالونى قۇرۇلدى"  target="_blank" class="tag_title_link">چەتئەل تىلى ئۈگۈنىش سال...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=45" title="ئۈگىنىش،ئۈگىنىش يەنە ئۈگىنىش"  target="_blank" class="tag_title_link">ئۈگىنىش،ئۈگىنىش يەنە ئۈ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=44" title="ئىنگلىزتىلى ئۈگەنگۈچىلەر ئۈچۈن~~~"  target="_blank" class="tag_title_link">ئىنگلىزتىلى ئۈگەنگۈچىل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/til_yeziq/show.php?itemid=43" title="ﻗﺎﻳﺴﯩﯖﻼ ﺑﯘﻗﯩﺰﺑﯩﻠﻪﻥ ﭘﺎﺭﺍﯕﻠﯩﺸﺎﻻﻳﺴﯩﻠﻪﺭ"  target="_blank" class="tag_title_link">ﻗﺎﻳﺴﯩﯖﻼ ﺑﯘﻗﯩﺰﺑﯩﻠﻪﻥ ﭘﺎﺭﺍﯕﻠﯩﺸﺎﻻﻳﺴﯩﻠﻪﺭ...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/til_yeziq/show_js.php?itemid=46"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

@@ -1,0 +1,63 @@
+﻿<html dir="rtl">
+
+<head>
+<STYLE TYPE="text/css">
+<!-- /* $WEFT -- Created by: a (a) on 2002-1-1 -- */
+  @font-face {
+    font-family: ukij tuz tom;
+    font-style:  normal;
+    font-weight: normal;
+    src: url(https://bilqut.com/UKIJTUZ0.eot);
+  }
+-->
+</STYLE>
+
+<META content="MSHTML 6.00.2900.3020" name=GENERATOR></HEAD>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<BODY bgcolor="#C1EEFD">
+<div align="center">
+	<TABLE cellSpacing=10 width=760 border=0>
+		<TBODY>
+			<TR>
+				<TD>
+				<H1 align="right"><font face="ukij tuz tom">&nbsp;&nbsp;&nbsp; مەزكۇر بەت تېپىلمىدى</font></H1>
+				<p align="right"><font face="ukij tuz tom">سىز ئىزدەۋاتقان توربەتنىڭ ئىسمى ئۆزگەرتىلگەن 
+      ، ئۆچۈرۈلگەن ياكى ۋاقتى ئۆتكەن بولىشى مۇمكىن . </font></p>
+				<HR align="right">
+				<P align="right"><font face="ukij tuz tom">تۆۋەندىكى مەشغۇلاتلارنى قايتا قايتا سىناپ بېقىڭ :</font></P>
+				<UL>
+					<LI>
+					<p align="right"><font face="ukij tuz tom">زىيارەت قىلغۇچنىڭ ئادرىس قۇرىدىكى توربەت ئادرىسىنىڭ توغرا 
+        ئىكەنلىكىنى جەزىملەشتۈرۈڭ . </font>
+					<LI>
+					<p align="right"><font face="ukij tuz tom">ئەگەر ئۇلانما بېسىش ئۇسۇلى ئارقىلىق بۇ بەتكە كىرگەن بولسىڭىز ، 
+        باشقۇرغۇچىلارغا خەۋەر قىلىڭ ، يەنى بۇ ئۇلانمىدا خاتالىق بار. </font>
+					<LI>
+					<p align="right"><font face="ukij tuz tom">
+					<A href="javascript:history.back(1)">چېكىنىش </A>كونۇپكىسىنى بېسىپ 
+        باشقا ئۇلانمىغا كىرىپ سىناڭ ! </font></LI>
+				</UL>
+				<H2 align="right"><font face="ukij tuz tom">HTTP خاتالىقى 404 - ھۆججەت ياكى مۇندەرىجە تېپىلمىدى .<BR>Internet 
+      ئۇچۇر مۇلازىمىتى (IIS)</font></H2><HR align="right">
+				<P align="right"><font face="ukij tuz tom">تېخنىكا ئۇچۇرى(تېخنىكا قوللىغۇچىلارغا تەمىنلەندى)</font></P>
+				<UL>
+					<LI>
+					<p align="right"><font face="ukij tuz tom">
+					<A href="https://go.microsoft.com/fwlink/?linkid=8180">Microsoft 
+        مەھسۇلات مۇلازىمىتى </A>نى بېسىپ "HTTP"ۋە"404"تېمىلىك ئۇچۇرلارنى ئىزلەپ 
+        كۆرۈڭ . </font>
+					<LI>
+					<p align="right"><font face="ukij tuz tom">"IIS ياردىمى " نى ئېچىپ ( IIS باشقۇرغۇچىسىنى (inetmgr) زىيارەت قىلىڭ 
+        ) ، ئاندىن ئىزدەش تەرتىپى : "بېكەت تەڭشەش"،"ئۆلچەملىك ۋەزىپە 
+        باشقۇرۇش"ۋە"خاتالىق ئۇچۇرىنى كونترول قىلىش" . </font></LI>
+				</UL>
+				<p align="center"><font face="ukij tuz tom">
+				<a href="https://WWW.Bilqut.com" style="text-decoration: none; font-weight: 700">
+				WWW.Bilqut.com</a></font></TD>
+			</TR>
+		</TBODY>
+	</TABLE></div>
+
+</BODY></HTML>

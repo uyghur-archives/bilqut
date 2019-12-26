@@ -1,0 +1,57 @@
+<!-- Tor bat exligu chi Ablimitjan Maham  QQ :250092392    Tel: 6722530    E-Mail :Raziman@126.com ,ablmtjan@126.com -->
+document.write("<head></head>");
+
+
+document.write("<table border=0 cellpadding=2 cellspacing=0 width=100%>");
+
+document.write("<tr><td align=justify><font style='font-size:9pt'><img src=../icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1080 target=_blank><font color='' style='font-size:9pt'>قىدىرخان يەكەندى</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:9pt'><img src=../icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1079 target=_blank><font color='' style='font-size:9pt'>سۇلتان ئابدۇرەشىدخان</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:9pt'><img src=../icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1078 target=_blank><font color='' style='font-size:9pt'>سۇلتان سەئىدخان</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:9pt'><img src=../icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1077 target=_blank><font color='' style='font-size:9pt'>مۇھەممەت پالۋان</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:9pt'><img src=../icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1076 target=_blank><font color='' style='font-size:9pt'>ئەلشىر ناۋائى</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:9pt'><img src=../icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1075 target=_blank><font color='' style='font-size:9pt'>ئابدۇراھمان جامى</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=right colspan=2></td></tr>");
+
+document.write("</table>");

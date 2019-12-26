@@ -1,0 +1,386 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ئەزەربەيجان-كۇتۇپخانا-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,كۇتۇپخانا">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/kutupxana/" class="red"> كۇتۇپخانا</a>
+         | <a class="razimantur" href="/kutupxana/list.php?catid=43" >ھېكايىلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=44" > شېئىر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=45" > كەلىلە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=46" > نەسىرلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=47" > يۇمۇرلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=48" > ھىكمەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=49" > نەسىھەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=50" > ماقالىلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=51" > ياشلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=52" > تۇرمۇش </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=53" > نۇتۇقلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=54" >مەكتۇب  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=55" >غارايىبات</a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=56" > دۇنيادا ئەڭ  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=57" >قان تىپى </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=58" > مۆچەل  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=59" > مىللەتلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=60" > بۈگۈن  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=61" >مۇزېي </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=62" >تارىخ </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=63" >شەھەرلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=64" >دۆلەتلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=65" >كۇتۇبخانىلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=66" >مايلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=67" >مېۋە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=68" >كۆكتاتلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=69" >ئۆسۈملۈكلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=70" > ھايۋاناتلار  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/kutupxana/">كۇتۇپخانا</a> >> <a href="/kutupxana/list.php?catid=64">دۆلەتلەر </a> >>  ئەزەربەيجان</div>
+<!--主标题--><h1>ئەزەربەيجان </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-06-28 12:35:35&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">383</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">亚洲
+ئاسىيا
+阿塞拜疆
+ئەزەربەيجان
+(ئوت مەملىكىتى)
+ئومۇمىي چۈشەندۈرۈشى 
+سىرتقى كاۋكازنىڭ شەرقىي جەنۇبىغا جايلاشقان،&nbsp;&nbsp;شەرقىي كاسپى دېڭىز سۈيى بىلەن يۇيۇلۇپ تۇرىدىغان، جەنۇبىي ئىران بىلەن، غەرب، شىمال تەرەپلىرى ئەرمەنىستان، گروزىيە رۇس فېدېراتسىيىسى بىلەن چېگرالىنىدىغان دۆلەت بولۇپ،&nbsp;&nbsp;مەيدانى 86&nbsp;&nbsp;مىڭ 600 كۋادرات كىلومېتر كېلىدۇ، ئاھالىسى&nbsp;&nbsp;6 مىليون&nbsp;&nbsp;614 مىڭدىن ئاشىدۇ&nbsp;&nbsp;)1985(، ئاھالىنىڭ&nbsp;&nbsp;60% تىن كۆپرەكىنى ئەزەر بەيجانلىقلار، قالغىنىنى رۇس، ئەرمەن قاتارلىق مىلەتلەر تەشكىل قىلىدۇ. مەركىزى باكو شەھىرى. يېرىنىڭ يېرىمىدىن كۆپرەكىنى تاغلىقلار ئىگىلەيدۇ، تاغلىقلار جۇمھۇرىيەتنىڭ شەرقىي شىمال ھەم غەرب تەرەپلىرىگە جايلاشقان، ئوتتۇرا قىسمىدا كۇرا دەريا بويى تۈزلەڭلىكلىرى بىلەن پەسلىكلىرى بار. ئەزەر بەيجاننىڭ ككپ قىسىم جايلىرىنىڭ ئىقلىمى قۇرغاق كېلىدۇ، يىللىق ھۆل - يېغىن مىقدارى تۈزلەڭلىك رايونلاردا&nbsp;&nbsp;200-300 مىللىمېتر، تاغلىقلاردا&nbsp;&nbsp;600 مىللىمېتردىن ئاشىدۇ. شەرقىي جەنۇبتىكى لېنكوران پەسىللىك رايونىنىڭ ئىقلىمى نەم ۋە ئىسسىق بەلباغ ئىقلىم تىپىغا كىرىدۇ. كۇرا دەرياسى جۇمھۇرىيەتنى توغرىسىغا كېسىپ ئۆتىدۇ. ئەزەربەيجان 19 - ئەسىرنىڭ باشلىرى چارروسىيە ئىمپېرىيىسى بىلەن بىرلەشكەن.&nbsp;&nbsp;1920 - يىلى سوۋېت ھاكىمىيىتى قۇرۇلغان.&nbsp;&nbsp;1922 - يىلى گروزىيە، ئەرمەنىستانلار بىلەن بىرلىشىپ سىرتقى كاۋكاز سوۋېت سوتسىيالىستىك جۇمھۇرىيىتى بولۇپ قۇرۇلغان.&nbsp;&nbsp;1936 - يىلى ئەزەبەيجان&nbsp;&nbsp;19 - ئەسىرنىڭ ئوتتۇرىلىرىدىن تارتىپلا نېفىت سانائىتى بارلىققا كەلگەن،&nbsp;&nbsp;20 - ئەسىرنىڭ باشلىرى سوۋېت ئىتتىپاقىنىڭ ئەڭ مۇھىم نېفىت سانائەت بازىسىغا ئايلانغان. ھازىر نېفىت ئېلىش سانائىتىدىن سىرت نېفىت ئايرىش، خىمىيە، ماشىنىسازلىق سانائەتلىرى مۇھىم ئورۇن تۇتىدۇ.&nbsp;&nbsp;85% تىن ئارتۇق تېرىلغۇ يەرلىرى سۇغىرىشقا تايىنىدۇ. كېۋەز، بۇغداي، شال، تاماكا، ئۈزۈم، چاي، ھەرخىل مېۋە - چېۋىلەر ئۆستۈرۈلىدۇ، پىلە بېقىلىدۇ. چارۋىچىلىقىدا قوي بېقىش ئاساسىي ئورۇندا تۇرىدۇ. سىرتقى كاۋكاز تۆمۈريولى جۇمھۇرىيەتنىڭ ئوتتۇرا قىسمىدىن كېسىپ ئۆتىدۇ، سۇ، قۇرۇقلۇق قاتنىشى قولاي. بۇ جايدا باكودىن باشقا، سۇمگايىت، كىدوۋاباد، ناخىچىۋان قاتارلىق مۇھىم شەھەرلەر بار. ② )Azerbaijan( ئىراننىڭ غەربىي شىمالىدىكى بىر مەمۇرىي رايونى بولۇپ، غەربىي ئەزەربەيجان، شەرقىي ئەزەربەيجاندىن ئىبارەت&nbsp;&nbsp;ئىككى ئۆلكىنى ئۆز ئىچىگە ئالىدۇ. مەيدانى&nbsp;&nbsp;109 مىڭ كۋادرات كىلومېتر كېلىدۇ، ئاھالىسى تەخمىنەن 9 مىليون&nbsp;&nbsp;400 مىڭدىن ئاشىدۇ )1985(، ئاھالىنىڭ ئاساسىنى ئەزەربەيجانلىقلار تەشكىل قىلىدۇ.
+دۆلەت نامىنىڭ چۈشەندۈرۈشى 
+ئەزەربەيجاننىڭ تولۇق نامى &gt;ئەزەربەيجان جۇمھۇرىيىتى&lt; بولۇپ، تاشقى كاۋكازنىڭ شەرقىگە جايلاشقان. ئۇنىڭ نامىنىڭ كېلىپ چىقىشىدا ئوخشىمىغان قاراشلار بار: بىرىنچى، ئەرەب تىلىدىن كەلگەن بولۇپ،&gt;ئوت مەملىكىتى&lt; دېگەن مەنىدە، چۈنكى، ئەزەربەيجاننىڭ شىمالدا زاپىسى مول بولغان نىفىت ۋە تەبئىي گاز بولغاچقا شۇنداق ئاتالغان. ئۇ يەردەنۇرغۇنلىغان ئاتەشپەرەسلەر ) زەردۇشتلار ياكى ئوتقا چوقۇنغۇچىلار( نىڭ ئىبادەتخانىلىرى سېلىنغان. ئەزەربەيجاندىكى ئەسلى خەلىقلەرنى قەدىمدىن جگنۇبى كاۋكازنىڭ شەرقىدە ئولتۇراقلاشقان يەرلىك ئاھالىلەر ۋە مىلادىنىڭ ئالدى ـ كەينىدە كىرگەن پارس ۋە تۈرك قەبىلىلىرى - مۇغاللار، تەرەكەمە، ھونلار، قاشقايلار ۋە ئوغۇزلارغىچە سۈرۈشتۈرۈشكە بولىدۇ؛ئىككىنچى، مىلادىدىن بۇرۇنقى 4 - ئەسىرنىڭ 30 - يىللىرى ماكدونىيىلىك ئالىكساندىرنىڭ ؟؟ قوشۇنى بېسىپ كىرگەندە، مىدىيانىڭ يەرلىك ئەمەلدارى ئاتروپات ئالىكساندىر ئىمپېريىسىگە باش ئەگكەن. گرېكلار ئۇنىڭ ھۆكۈمرانلىقىدىكى رايونلارنى مىدىيا، ئاتروپات، كىيىنچە ئاتروپاتكان دەپ ئاتاشقان. 7 - ئەسىرنىڭ ئاخىرلىرى ئەرەبلەر ئىستىلاسىدىن كېيىن، بۇ نام خاتا تارقىلىپ، ئەزەربەيجانغا ئۆزگەرگەن. ئەزەربەيجان&nbsp;&nbsp;11 - ئەسىردىن&nbsp;&nbsp;14 - ئەسىرگىچە ئىلگىرى - كېيىن سالجۇق تۈركلىرى، تاتار قاتارلىقلارنىڭ تاجاۋۇزىغا ئۇچرىغان؛&nbsp;&nbsp;19 - ئەسىرنىڭ باشلىرى شىمالىي ئەزەربەيجان چار روسىيە تەرىپىدىن بېسىۋېلىنغان، جەنۇبىي ئەزەربەيجان بولسا يەنىلا ئىرانغا تەۋە بولغان؛ 1917 - يىلى شىمالىي ئەزەربەيجاندا سوۋېت ھاكىمىيىتى قۇرۇلۇپ،&nbsp;&nbsp;1920 - يىلى&nbsp;&nbsp;4 - ئاينىڭ&nbsp;&nbsp;28 - كۈنى ئەزەربەيجان سوۋېت سوتسىيالىستىك جۇمھۇرىيىتى تىكلەنگەن؛&nbsp;&nbsp;1922 - يىلى&nbsp;&nbsp;3 - ئاينىڭ&nbsp;&nbsp;12 - كۈنى گروزىيە ۋە ئەرمېنىيە بىلەن بىرلىشىپ، تاشقى كاۋكاز سوۋېت سوتسىيالىستىك فېدېراتىپ جۇمھۇريتىنى تەشكىللەپ، شۇ يىلى&nbsp;&nbsp;12 - ئاينىڭ&nbsp;&nbsp;30 - كۈنى تاشقى كاۋكاز فېدېراتىپى نامىدا سوۋېت ئىتتىپاقىغا ئەزا بولغان.&nbsp;&nbsp;1936 - يىلى&nbsp;&nbsp;12 - ئاينىڭ&nbsp;&nbsp;5 - كۈنى ئەزەربەيجان سوۋېت ئىتتىپاقىنىڭ بىر ئىتىپاقداش جۇمھۇرىيتىگە ئايلانغان.&nbsp;&nbsp;1991 - يىلى&nbsp;&nbsp;8 - ئاينىڭ&nbsp;&nbsp;30 - كۈنى مۇستەقىللىق جاكارلاپ، دۆلەت نامىنى &gt;ئەزەربەيجان جۇمھۇرىيىتى&lt; گە ئۆزگەرتكەن. يەر مەيدانى&nbsp;&nbsp;86.6 مىڭ كۇۋادرات كىلومېتىر، ئاھالىسى 7مليون&nbsp;&nbsp;200 مىڭ، ئەزەربەيجانلار )يەنى ئازەرىلەر(&nbsp;&nbsp;83%نى، رۇس ۋە ئەرمەنلەر 6%نى تەشكىل قىلىدۇ. ئازەرىلەر ئىسلام دىنىغا ئېتىقاد قىلىدۇ. پايتەختى باكۇ.&nbsp;&nbsp;
+دۆلەت بايرىقىنىڭ چۈشەندۈرۈشى 
+ئەزەربەيجان مىللىتى 11-&nbsp;&nbsp;ئەسىردە شەكىللەنگەن بۇلۇپ، زاكاۋكازىيېدىكى قارا دېڭىز ساھىلغا مەركەزلەشكەن.&nbsp;&nbsp;18- ئەسرنىڭ ئوتتۇرىلىرىدا&nbsp;&nbsp; 01 نەچچە كىچىك فېئوداللىق دۆلەتكە بۆلۈنۈپ، ئىراننىڭ كونتروللۇقىدا بولغان.&nbsp;&nbsp;1813- يىلى ۋە&nbsp;&nbsp;&nbsp;&nbsp;1828- يىلى، شىمالدىكى باكو ئۆلكىسى ۋە ئېلزابېتىپور ئۆلكىسىنى چار پادىشاھ رۇسيە ئۆزىگە قوشۇۋالغان.&nbsp;&nbsp;&nbsp;&nbsp; 1917- يىلى، ئەزەربەيجان، گرۇزىيە ۋە ئەرمېنيىدىكى بۇرژۇئا سىياسى پارتىيسىدىكىلەر بىرلىشىپ، &quot;زاكاۋكازىيې كومىتېتى&quot; قۇرۇپ،&nbsp;&nbsp;&nbsp;&nbsp;1918- يىلى ئاپرېلدا مۇستەقىلقىنى جاكارلىغان. ،لېكىن، ئۇزۇماي سوۋېت&nbsp;&nbsp;قىزىل ئارمىيسى تەرپىدىن ئاغدۇرلۇپ، ئۇنىڭ ئورنىنى سوۋىتلەر جۇمھۇرىيىتى ئىگىلىگەن.&nbsp;&nbsp;&nbsp;&nbsp; 1936- يىلى دېكابىردا ئەزەربەيجان سوۋېت&nbsp;&nbsp;ئىتتىپاقىنىڭ ئىتتىپاقداش جۇمھۇرىيتى&nbsp;&nbsp;بولغان.&nbsp;&nbsp; 1990- يىلى سىنتەبىردە، ئەزەربەيجان&nbsp;&nbsp;ئىگىلىك ھوقۇقىنى ئېلان قىلغان؛&nbsp;&nbsp;&nbsp;&nbsp; 1991- يىلى ئاۋغۇستتا، ئەزەربەيجان رەسمىي مۇستەقىل جۇمھۇرىيەت بولغان.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+دۆلەت بايرىقى يۇقىرىدىن تۆۋەنگىچە كۆك، قىزىل،يېشىل رەڭدىكى ئۈچ پاراللېل ئۇزۇن چاسىدىن تەركىب تاپقان، قىزىل رەڭلىك ئۇزۇن چاسىنىڭ دەل ئوتتۇرسىغا ھىلال ئاي بىلەن سەككىز بۇرجەكلىك يۇلتۇزنىڭ رەسىمى بىرىلگەن. كۆك رەڭلىك ئەزەربەيجاننىڭ ئەركىنلىك، مۇستەقىللىق ۋە ئىگىلىك ھوقۇقىنىڭ سىمۋولى بولغان، قىزىل رەڭ خەلقنىڭ ۋەتەنگە بولغان ساداقىتى ۋە مۇھەببىتىنى بىلدۈرگەن. يېشىل رەڭ گۈزەل تاغدەريالار مەنزىرسىنى بىلدۈرۈش بىلەن بىر ۋاقىتتا ئەزەربەيجانلارنىڭ ئىسلام دىنىغا ئېتقاد قىلىدىغانلىقىنىمۇ بىلدۈرگەن. يولتۇزنىڭ سەككىز بۇرجىكى ئەزەربەيجاننىڭ سەككىز ئۆلكىسىگە ۋەكللىك قىلغان.
+دۆلەت گېربىنىڭ چۈشەندۈرۈشى 
+دۆلەت گېربى&nbsp;&nbsp;دۆلەت بايرىقىدىكى كۆك، قىزىل، ۋە يېشىل رەڭدىن مەركەزداش چەمبىرەك بىلەن تەركىب تاپقان سەككىز بۇرجەكلىك يۇلتۇز بولۇپ، ئۇنىڭ ئوتتۇرسىدا لاۋۇلداپ كۆيگەن ئوت ئەركىنلىك ۋە مۇستەقىللىق ئوتىنىڭ ئەزەربەيجان زېمىنىدا تۇتاشتۇرلغانلىقىنى بىلدۈرگەن. بۇغداي باشىقى بىلەن يېشىل ياپراقلار مول تەبئىي بايلىقىنى بىلدۈرگەن.
+
+</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3805" title="ئەزەربەيجان"  target="_blank" class="tag_title_link">ئەزەربەيجان</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3804" title="سولومون تاقىم ئاراللىرى"  target="_blank" class="tag_title_link">سولومون تاقىم ئارا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3803" title="ساينت كرىستوفېر ۋە نېۋىس"  target="_blank" class="tag_title_link">ساينت كرىستوفېر ۋە ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3802" title="ھىندىستان(ھىندى دەرياسىنىڭ نامىدىن كەلگەن)"  target="_blank" class="tag_title_link">ھىندىستان(ھىندى دە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3801" title="يېڭى زېلاندىيە(دېڭىزدىكى يېڭى قۇرۇقلۇق)"  target="_blank" class="tag_title_link">يېڭى زېلاندىيە(دېڭ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3800" title="كامبودژ(كېخمىرلارنىڭ دۆلىتى)"  target="_blank" class="tag_title_link">كامبودژ(كېخمىرلارن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3799" title="تونگا(مۇقەددەس جاي)"  target="_blank" class="tag_title_link">تونگا(مۇقەددەس جاي)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3798" title="پاپۇئا يېڭى گۋېنىيىسى(بۈدرە چاچلىقلارنىڭ ماكانى)"  target="_blank" class="tag_title_link">پاپۇئا يېڭى گۋېنىي...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3797" title="ئومان(جىمجىت زېمىن)"  target="_blank" class="tag_title_link">ئومان(جىمجىت زېمىن)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3796" title="ترىنىداد ۋە توباگو(ھەرە قۇشى ۋە تاماكا)"  target="_blank" class="tag_title_link">ترىنىداد ۋە توباگو(...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3795" title="بۇتان(شىزاڭنىڭ چېتى)"  target="_blank" class="tag_title_link">بۇتان(شىزاڭنىڭ چېت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3794" title="سانت لۇيىس"  target="_blank" class="tag_title_link">سانت لۇيىس</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3793" title="نىگاراگۇئا(ئىندىئان قەبىلە باشلىقى نىكارۇنىڭ فامىلىسى)"  target="_blank" class="tag_title_link">نىگاراگۇئا(ئىندىئا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3792" title="ئوكيانىيە (ناۋرۇ)"  target="_blank" class="tag_title_link">ئوكيانىيە (ناۋرۇ)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3791" title="گايتى"  target="_blank" class="tag_title_link">گايتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3790" title="پاكىستان(پاك ئەل)"  target="_blank" class="tag_title_link">پاكىستان(پاك ئەل)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3789" title="ساينت لۇسىيە"  target="_blank" class="tag_title_link">ساينت لۇسىيە</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3788" title="گوندۇراس(تېگى يوق ھاڭ)"  target="_blank" class="tag_title_link">گوندۇراس(تېگى يوق ھ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3787" title="پاناما(بېلىق ماكانى)"  target="_blank" class="tag_title_link">پاناما(بېلىق ماكان...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3786" title="گۋاتېمالا (بۈركۈت مىللىتىنىڭ زېمىنى)"  target="_blank" class="tag_title_link">گۋاتېمالا (بۈركۈت م...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/kutupxana/search.php?catid=64&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3805" title="ئەزەربەيجان"  target="_blank" class="tag_title_link">ئەزەربەيجان</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3804" title="سولومون تاقىم ئاراللىرى"  target="_blank" class="tag_title_link">سولومون تاقىم ئاراللىرى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3803" title="ساينت كرىستوفېر ۋە نېۋىس"  target="_blank" class="tag_title_link">ساينت كرىستوفېر ۋە نېۋى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3802" title="ھىندىستان(ھىندى دەرياسىنىڭ نامىدىن كەلگەن)"  target="_blank" class="tag_title_link">ھىندىستان(ھىندى دەرياسى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3801" title="يېڭى زېلاندىيە(دېڭىزدىكى يېڭى قۇرۇقلۇق)"  target="_blank" class="tag_title_link">يېڭى زېلاندىيە(دېڭىزدىك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3800" title="كامبودژ(كېخمىرلارنىڭ دۆلىتى)"  target="_blank" class="tag_title_link">كامبودژ(كېخمىرلارنىڭ دۆ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3799" title="تونگا(مۇقەددەس جاي)"  target="_blank" class="tag_title_link">تونگا(مۇقەددەس جاي)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3798" title="پاپۇئا يېڭى گۋېنىيىسى(بۈدرە چاچلىقلارنىڭ ماكانى)"  target="_blank" class="tag_title_link">پاپۇئا يېڭى گۋېنىيىسى(ب...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3797" title="ئومان(جىمجىت زېمىن)"  target="_blank" class="tag_title_link">ئومان(جىمجىت زېمىن)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3796" title="ترىنىداد ۋە توباگو(ھەرە قۇشى ۋە تاماكا)"  target="_blank" class="tag_title_link">ترىنىداد ۋە توباگو(ھەرە ...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/kutupxana/show_js.php?itemid=3805"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

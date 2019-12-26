@@ -1,0 +1,16 @@
+<!-- Tor bat exligu chi Ablimitjan Maham  QQ :250092392    Tel: 6722530    E-Mail :Raziman@126.com ,ablmtjan@126.com -->
+
+document.write("<head></head>");
+
+
+document.write("<div align=center>");
+document.write("<table border=0 cellpadding=0 cellspacing=0 width=100% id=tableasdaDF1>");
+
+		document.write("<tr>");
+			
+			document.write("<td align=center style='font-size:9pt;line-height:150%'><a href=/News_View.asp?NewsID=910 target='_blank'><img border=0 width=145 height=140 src=edit/UploadFile/2007107162839375.gif><font style='font-size:9pt'><BR><font color=>گۈل تاجىغا نېمە قىلدى؟...</font></font></a></td>");
+			
+		document.write("</tr>");
+
+	document.write("</table>");
+document.write("</div>");

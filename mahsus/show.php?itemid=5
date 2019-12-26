@@ -1,0 +1,346 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>قاسىم سىدىق--《ئوبىكتىپ زامان》- خاتا سەزگۈمۇ ۋە ياكى چىنلىق؟-مەخسۇس سەھىپىلەر-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,مەخسۇس سەھىپىلەر">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/mahsus/" class="red"> مەخسۇس سەھىپىلەر</a>
+         | <a class="razimantur" href="/mahsus/list.php?catid=132" >قاسىم سىدىق ئىلمىي ماقالىلىرى</a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/mahsus/">مەخسۇس سەھىپىلەر</a> >> <a href="/mahsus/list.php?catid=132">قاسىم سىدىق ئىلمىي ماقالىلىرى</a> >>  قاسىم سىدىق--《ئوبىكتىپ زامان》- خاتا سەزگۈمۇ ۋە ياكى چىنلىق؟</div>
+<!--主标题--><h1>قاسىم سىدىق--《ئوبىكتىپ زامان》- خاتا سەزگۈمۇ ۋە ياكى چىنلىق؟ </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-04-28 15:53:37&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">182</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">《ئوبىكتىپ زامان》- خاتا سەزگۈمۇ ۋە ياكى چىنلىق؟ 
+
+
+قاسىم سىدىق 
+
+&quot;زامان&quot;-زۆرۈرى ئۇقۇم. &quot;زامان&quot;ئۇقۇمى كىرگۈزۇلمىسە ھەرىكەت، بولۇپمۇ تېزلىكنى تەسۋىرلەش قىيىنغا توختايدۇ. ھالبۇكى، &quot;زامان&quot; ئۇقۇمىنىڭ زۆرۇرلىكىنى ئېتىراپ قىلىش &quot;زامان&quot; نىڭ ئوبيېكتىپلىقىنى ئېتىراپ قىلىش ياكى سوبىيېكتىپلىقىنى مۇئەييەنلەشتۇرۇشتىن دېرەك بەرمەيدۇ. 
+قەدىمدىن تارتىپ ھازىرغىچە، &quot;زامان&quot;نىڭ ئوبيېكتىپلىقى ياكى سوبىيكتىپلىقى ھەققىدىكى بەس مۇنازىرە داۋاملىشىپ كەلدى ۋە داۋاملاشماقتا. 20-ئەسىر ئىلىم-پەن مۇھىتى تولىمۇ قەدىمىي تېما-زامان ھەققىدە قايتا ئىزدىنىشنى تەقەززا قىلىدۇ. قولۇڭلاردىكى تېزىس-ئاپتۇر نۇقتىسىدىن ئېيتقاندا، مۇشۇ خىل ئىزدىنىشنىڭ دەسلەپكى مەھسۇلى. 
+1 
+بىلىش تارىخى نۇقتىسىدىن ئېيىتقاندا، &quot;زامان&quot; ئۇقۇمى دەۋرى ھەرىكەتنى مەنبە قىلىدۇ. ھەرىكەت بولمىسا، &quot;زامان&quot; ئۇقۇمىنىڭ مەيدانغا كېلىشى مۇمكىن ئەمەس. دېمەك، ئۇقۇم سۇپىتىدىكى &quot;زامان&quot; بىلەن ھەرىكەت، سەۋەپ-نەتىجە مۇناسىۋىتىگە ئىگە. 
+2 
+&quot;ئوبيېكتىپ زامان&quot;-تېخى ئۇزۇل-كېسل ئىسپاتلانمىغان كاتىگۇرىيە، ئۇزۇل-كىسل ئىسپاتلانمىغان كاتىگۇرىيىلەرنى پەيىتلىك ۋاستە ياكى مىتۇد سۇپىتىدە تونۇشقا بولدۇكى، پەلسەپەۋى ۋە لوگىكىلىق ئاكسىۇما سۇپىتىدە قوللۇنىشقا بولمايدۇ. 
+3 
+ئاتالمىش &quot;ئوبيېكتىپ زامان&quot; بىلەن ھەرىكەت، سەۋەپ، نەتىجە باغلىنىشقا ئىگە ئەمەس. 
+4 
+سەۋەپ-نەتىجە باغلىنىشىقا(مۇناسىۋىتىگە) ئىگە بولمىغان شەيئى ۋە ھادىسىلەر بىر-بىرى بىلەن بىۋاستە مۇناسىۋەتلىك بولمايدۇ. 
+5 
+ھەرىكەت، ئاتالمىش &quot;ئوبيېكىتىپ زامان&quot; بىلەن بىۋاستە مۇناسىۋەتلىك ئەمەس. 
+6 
+&quot;زامان&quot; فىزىكىلىق ھادىسىلەرنىڭ ھەرقانداق ئالامىتىگە ئىگە. 
+7 
+&quot;زامان&quot; نىڭ ئۆزى مىقدارغا ئىگە ئەمەس. 
+8 
+ھامان مۇئەييەن ھالەتتە تۇرۇش-ئالەمنىڭ تۈپ خۇسۇسيىتى. ھالبۇكى، &quot;مۇئەييەن ھالەت&quot; بولسا، شەكىللىك ۋە شەكىلسىزلىك، چەكلىك ۋە چەكسىزلىك، ھەرىكەت ۋە جىملىق ھالەتلىرىدىن ئىبارەتكى، ئاللىقانداقتۇر &quot;زامان ھالىتى&quot; ئەمەس. 
+9 
+روھتىن خالى ئالەم ئۇچۇن &quot;زامان&quot;نىڭ ھاجىتى يوق. ئۆزگىرىش &quot;زامان&quot; نى ئەمەس بەلكى ھەرىكەتنى شەرت قىلىدۇ. 
+
+10 
+&quot;ئۆتمۇش&quot;-&quot;ھازىر&quot;لارنىڭ يىغىندىسى، &quot;كىلەچەك&quot;ئەمەلىي رىياللىق ئەمەس. روھتىن خالىي ئالەمنى كۆزدە تۇتقاندا، ئالەم ھامان &quot;ھازىر&quot;دا تۇرىدۇ. &quot;ھازىر&quot;نىڭ ئۆزى بولسا &quot;مۇئەييەن ھالەت&quot; كە ۋەكىللىك قىلغۇچى ئالماش. 
+11 
+&quot;ئۆتمۇش، &quot;ھازىر&quot;لارنىڭ يىغىندىسى ۋە &quot;كېلەچەك&quot; ئەمەلىي رىياللىق ئەمەس ئىكەن، ئاتالمىش &quot;ئوبيېكتىپ زامان&quot; نىڭ گەۋدىسى پەقەت &quot;ھازىر&quot;بولۇشى كىرەك. چۇنكى، روھتىن خالى ئالەمنىڭ ئۆتمۇشى ۋە كېلەچىكى بولمايدۇ. باشقىچە ئېيىتقاندا، &quot;ئۆتمۇش&quot; ساقلانمايدۇ. &quot;كېلەچەك&quot; ئىپادىلەنمەيدۇ ۋە ئۇنىڭغا يەتكىلى بولمايدۇ. 
+
+1989.يىل 
+
+</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/2009/0705/22.htm" title="ئەھمەدجان ئىكرام"  target="_blank" class="tag_title_link">ئەھمەدجان ئىكرام</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=21" title="ھەر بىر پەن ئۆزىنىڭ پەلسەپەسىنى تېپىۋىلىشى كېرەك"  target="_blank" class="tag_title_link">ھەر بىر پەن ئۆزىنىڭ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=20" title="ھاۋا قاچىلاپ ماڭىدىغان ماشىنا ياسالدى!"  target="_blank" class="tag_title_link">ھاۋا قاچىلاپ ماڭىد...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=16" title="قاسىم سىدىق تەنقىد ۋە مۇئەييەنلەشتۈرۈش ئوخشاشلا موھىم"  target="_blank" class="tag_title_link">قاسىم سىدىق تەنقىد ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=15" title="قاسىم سىدىق . فىزىكىلىق&nbsp;&nbsp;شەكىل نەزەرىيىسى"  target="_blank" class="tag_title_link">قاسىم سىدىق . فىزىك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=14" title="قۇربانجان سەمەت : «فىزىكىلىق شەكىل نەزەرىيىسى» توغرىسىدا ئويلىغانلىرىم"  target="_blank" class="tag_title_link">قۇربانجان سەمەت : «...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=13" title="قاسىم سىدىق،&nbsp;&nbsp;قۇربانجان سەمەت،&nbsp;&nbsp;ئابلىمىت ھاكىم ھاجىم&nbsp;&nbsp;:قاتلاملىق ئالەم"  target="_blank" class="tag_title_link">قاسىم سىدىق،  قۇربا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=12" title="قاسىم سىدىق :&nbsp;&nbsp; ئالەمنىڭ بىر&nbsp;&nbsp;كۈنى ۋە&nbsp;&nbsp;&quot;ئالەم سائىتى&quot;"  target="_blank" class="tag_title_link">قاسىم سىدىق :   ئالە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=11" title="قاسىم سىدىق&nbsp;&nbsp;&nbsp;&nbsp;ئېلېمېنتار ئالەم ۋە دەۋرى ئالەم"  target="_blank" class="tag_title_link">قاسىم سىدىق    ئېلېم...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=10" title="قاسىم سىدىق:&nbsp;&nbsp; كەڭ تورداشلارغا&nbsp;&nbsp;سالام"  target="_blank" class="tag_title_link">قاسىم سىدىق:   كەڭ ت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=9" title="زامانداشلىرىمغا ئوچۇق خەت"  target="_blank" class="tag_title_link">زامانداشلىرىمغا ئو...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=8" title="ئىلىم پەن ساھەسىدىكى نوپۇزلۇق ئەربابلارنىڭ&nbsp;&nbsp;‹‹ بوشلۇق نەزەرىيىسى ››گە (فىزىكىلىق شەكىل نەز"  target="_blank" class="tag_title_link">ئىلىم پەن ساھەسىدى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=7" title="&quot;چوڭ پارتىلاش ئالەم مودېلى&quot; دىن ئالەمگە نەزەر"  target="_blank" class="tag_title_link">&quot;چوڭ پارتىلاش ئالەم...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=6" title="قاسىم سىدىق ---&quot;يوقلۇق&quot; ۋە ئالەمنى بىلىش مەسىلىسى"  target="_blank" class="tag_title_link">قاسىم سىدىق ---&quot;يوقل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=5" title="قاسىم سىدىق--《ئوبىكتىپ زامان》- خاتا سەزگۈمۇ ۋە ياكى چىنلىق؟"  target="_blank" class="tag_title_link">قاسىم سىدىق--《ئوبىك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=4" title="قاسىم سىدىق--ساختا 《چەكسىزلىك》ۋە ھەقىقى چەكسىزلىك"  target="_blank" class="tag_title_link">قاسىم سىدىق--ساختا ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=3" title="قاسىم سىدىق--ئالىم بولماق ئاسان ئەمەس"  target="_blank" class="tag_title_link">قاسىم سىدىق--ئالىم ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=2" title="قاسىم سىدىق. ئېينىشتېيىن ئېفىرنى &quot;پۇتۇنلەي ئىنكار قىلغان&quot;مۇ؟"  target="_blank" class="tag_title_link">قاسىم سىدىق. ئېينىش...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=1" title="قاسىم سىدىق كوسمولۇگىيە ---"  target="_blank" class="tag_title_link">قاسىم سىدىق كوسمول...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/mahsus/search.php?catid=132&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/2009/0705/22.htm" title="ئەھمەدجان ئىكرام"  target="_blank" class="tag_title_link">ئەھمەدجان ئىكرام</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=21" title="ھەر بىر پەن ئۆزىنىڭ پەلسەپەسىنى تېپىۋىلىشى كېرەك"  target="_blank" class="tag_title_link">ھەر بىر پەن ئۆزىنىڭ پەلس...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=20" title="ھاۋا قاچىلاپ ماڭىدىغان ماشىنا ياسالدى!"  target="_blank" class="tag_title_link">ھاۋا قاچىلاپ ماڭىدىغان ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=16" title="قاسىم سىدىق تەنقىد ۋە مۇئەييەنلەشتۈرۈش ئوخشاشلا موھىم"  target="_blank" class="tag_title_link">قاسىم سىدىق تەنقىد ۋە مۇ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=15" title="قاسىم سىدىق . فىزىكىلىق&nbsp;&nbsp;شەكىل نەزەرىيىسى"  target="_blank" class="tag_title_link">قاسىم سىدىق . فىزىكىلىق  ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=14" title="قۇربانجان سەمەت : «فىزىكىلىق شەكىل نەزەرىيىسى» توغرىسىدا ئويلىغانلىرىم"  target="_blank" class="tag_title_link">قۇربانجان سەمەت : «فىزىك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=13" title="قاسىم سىدىق،&nbsp;&nbsp;قۇربانجان سەمەت،&nbsp;&nbsp;ئابلىمىت ھاكىم ھاجىم&nbsp;&nbsp;:قاتلاملىق ئالەم"  target="_blank" class="tag_title_link">قاسىم سىدىق،  قۇربانجان ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=12" title="قاسىم سىدىق :&nbsp;&nbsp; ئالەمنىڭ بىر&nbsp;&nbsp;كۈنى ۋە&nbsp;&nbsp;&quot;ئالەم سائىتى&quot;"  target="_blank" class="tag_title_link">قاسىم سىدىق :   ئالەمنىڭ ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=11" title="قاسىم سىدىق&nbsp;&nbsp;&nbsp;&nbsp;ئېلېمېنتار ئالەم ۋە دەۋرى ئالەم"  target="_blank" class="tag_title_link">قاسىم سىدىق    ئېلېمېنتا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=10" title="قاسىم سىدىق:&nbsp;&nbsp; كەڭ تورداشلارغا&nbsp;&nbsp;سالام"  target="_blank" class="tag_title_link">قاسىم سىدىق:   كەڭ تورداش...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/mahsus/show_js.php?itemid=5"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

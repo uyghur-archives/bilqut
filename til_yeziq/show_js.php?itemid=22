@@ -1,0 +1,3 @@
+﻿try {setidval('hits','837');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/til_yeziq/show.php?itemid=21">كومپىيوتېر   لۇغىتى 电脑  词汇</a></li><li>  كىيىنكىسى  :  <a href="/til_yeziq/show.php?itemid=23">2009–يىللىق HSK ئىمتىھانى ئورۇنلاشتۇرۇلىشى</a></li>');}catch(e){}

@@ -1,0 +1,915 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+
+<head>
+
+<script language=javascript>attachAll = true; </script>
+<noscript><iframe src=*.html></iframe></noscript>
+<link href="exobud.css" rel="stylesheet" type="text/css">
+<link href="exobudpl.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title> خىزمەت ئۇچۇرى BilqutBBS  - powered by phpwind.net</title>
+<meta name="keywords" content="" />
+<script language = "javaScript" src = "js/Raziman_AblimitJan.js" type="text/javascript"></script>
+<meta name="description" content="" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://uyghur-archive.com/bilqut/bbs/rss.php?fid=201" />
+<base href="https://uyghur-archive.com/bilqut/bbs/" />
+<!--﻿
+<!--css--><style type="text/css">
+@font-face {
+    font-family: Ukij Tuz Tom;
+    font-style:  normal;
+    font-weight: normal;
+    src: url(https://uyghur-archive.com/bilqut/UKIJTUZ0.eot);
+  }
+
+body{direction:rtl;
+font-family:Ukij Tuz Tom,Tahoma;font-size:16px;background:#fff;color:#035191;}
+h1,h2,h3,h4,h5,h6,form,body{padding:0;margin:0}
+td,th,div{font-family:Ukij Tuz Tom;}
+table{empty-cells:show;}
+img{border:0}
+h1{font-size:16px;margin:.5em 1em 1em 0}
+h3,h2{display:inline;font-size:1.0em;}
+h3{font-weight:normal}
+h2 a,h3 a{color:#035191}
+h4{margin:20px 0 10px;font-size:18px}
+textarea,input,select,title,alt{font:12px Ukij Tuz Tom,Arial;padding:1px 3px 0 3px;vertical-align:middle;margin-bottom:1px}
+.c{clear:both;height:1px;font:1px/1px Ukij Tuz Tom,Arial;margin-top:-1px;overflow:hidden}
+.b{font-weight:bold}
+.tal{text-align:right}
+.tac{text-align:center}
+.tar{text-align:right}
+.fr{float:left}
+.fl{float:left}
+.fl1{float:right}
+/*a link 基本连接颜色*/
+a{text-decoration:none;color:#035191}
+a:hover{text-decoration:underline;}
+.abtn{cursor:pointer;border:1px solid #B6D9E3;color:#035191;padding:2px 8px;margin-right:2px;height:30px}
+/*字体大小*/
+
+.f9{font-size:11px;}
+.f10{font-size:11px;}
+.f12{font-size:12px}
+.f14{font-size:14px}
+.fn,.fn a{font-weight:normal}
+/*span color 数值自定义*/
+.s1{color:#008000;}
+.s2{color:#984B98;}
+.s3{color:#FA891B;}
+.s4{color:#0033FF;}
+.s5{color:#659B28}
+.gray{color#035191; font-size: 14px;} /*次要文字颜色-可定义*/
+/*main color 数值自定义*/
+.f_one,.t_one,.r_one{background:#ffffff;}
+.f_two,.t_two,.r_two{background:#F4FBFF;}
+/*form*/
+textarea,input,select,title,alt{font:12px ukij tuz tom,Arial;padding:1px 3px 0 3px;vertical-align:middle;margin-bottom:1px}
+select{border:solid 1px #D4EFF7;}
+.btn{background:#B6D9E3 url(images/wind/bg.png) 0 -200px repeat-x;color:#035191;border-width:1px;padding-left:15px;padding-right:15px;vertical-align:middle}
+.input{border:solid 1px #B6D9E3;padding:2px 0px 2px 1px;font-size:1.0em;vertical-align:middle}
+form{display:inline;}
+textarea{border:solid 1px #B6D9E3;}
+/*header*/
+#header{width:965px;margin:auto;}
+/*toolbar*/
+.toptool{border-bottom:1px solid #D4EFF7; background:#F3F8EF url(images/wind/bg.png) 0 0 repeat-x;}
+.toptool span{padding:1px 5px;line-height:150%}
+/*index info*/
+#infobox{border:#D4EFF7 1px solid;margin-top:-.8em;background:#B6D9E3 url(images/wind/bg.png) 0 bottom repeat-x; }
+#notice{padding:.3em 0;height:15px}
+#notice a{padding-left:1em; color:#fff;background:url(images/wind/dotB.png) no-repeat 0 .1em; margin-left:1em}
+/*banner*/
+.banner img{vertical-align:middle;}
+/*guide*/
+.guide2{background:#F3F8EF url(images/wind/tizimlik.gif); padding:.5em; border:1px solid #C4E6AF; color:#ccc}
+.guide{background:#E0F0F9 url(images/wind/tizimlik.gif); 0 0 repeat-x; padding:.4em; BORDER-left: #A4B6D7 1px solid; BORDER-right: #A4B6D7 1px solid; BORDER-top: #A4B6D7 1px solid;  BORDER-bottom: #A4B6D7 1px solid;}
+/*table*/
+.t{background:#F2F8FF ; border:1px solid #A4B6D7;margin:0px auto 8px;}
+.t table{border:1px solid #fff;margin:0 auto;width:99.98%;}
+.t2{border-top:#A4B6D7 1px solid;margin:0px auto 5px;}
+.t3{margin:auto}
+.t4{padding:1px 0 1px 1px}
+/*table head*/
+
+.h{border-bottom:1px solid #dbecF4;background:#E0F0F9 url(images/wind/h.gif) 0 0 repeat-x;text-align:right;color:#004c7d;padding:.5em .4em}
+.hb2{border-bottom:1px solid #dbecF4;background:#E0F0F9 url(images/wind/newtema.gif) 0 0 repeat-x;text-align:right;color:#004c7d;padding:.5em .4em}
+.htop{ background:#E0F0F9 url(images/wind/h.gif); height:30px; BORDER-left: #A4B6D7 1px solid; BORDER-right: #A4B6D7 1px solid; BORDER-top: #A4B6D7 1px solid; WIDTH: 98%; BORDER-bottom: #A4B6D7 1px solid; WIDTH: 98%;}.htop2{ background:#E0F0F9 url(images/wind/h2.gif); height:30px; height:30px;}
+.h span{font-weight:normal;}
+.h h2{font-weight:bold}
+.h a{font-family:ukij tuz tom,Arial;color:#035191}
+.h span a,.h span{color:#5495A0;}
+.h a.a2{margin-left:12px;}
+/*table tr1*/
+.tr1 th{padding:5px 10px;text-align:right;vertical-align:top;font-weight:normal;}
+.tr1 td.td1{border:1px solid #AAB6C6;}/*table tr2*/
+.tr2{background:#f3f8ef url(images/wind/tema.gif) 0 0px ; height:22px;}
+.tr2 td,.tr2 th{line-height:14px;border-bottom:1px solid #daebcd;padding:2px 6px 0px;/*border-top:1px solid #A4B6D7;*/}
+.tr2 a{color:#659b28;margin:2px 2px 0}/*table tr3*/
+.tr3 td,.tr3 th{border-bottom:1px solid #AAB6C6;padding:.3em .6em}
+.tr3 th{text-align:right;font-weight:normal;}
+.tr4{background:#E0F0F9 url(images/wind/h.gif) 0 0 repeat-x;color:#004c7d;}
+.tr4 td{padding:4px 10px;}
+.tr td,.tr th{padding:2px}
+/*topic content tips*/
+.tpc_content{text-indent:35px;font-size:22px;font-family:ukij tuz tom,Arial;padding:0 2% 0 0.5%;margin:0 0 2%}
+.tips{background:#F4FBFF;border:#D4EFF7 1px solid;padding:5px;margin:0 1% 1% 0;float:right;text-align:center;}
+.tiptop{border-bottom:1px solid #D4EFF7;padding:0 0 5px 0;vertical-align:middle;}
+.tipad{border-top:1px solid #D4EFF7;margin:10px 0 0;padding:5px 0 0;}
+.quote{font-size:70%;color:#035191;margin:8px 2px 2px;padding:0}
+blockquote{width:80%;font-size:85%;color:#81888c;border:1px solid #D4EFF7;border-right-width:3px;padding:5px;margin:0 0 1%}
+/*menu*/
+.menu{position:absolute;bacakground:#fff;border:1px solid #B6D9E3;}
+.menu td, .menu li,.menu ul{background:#fff;padding:0; margin:0}
+.menu li{list-style:none;}
+.menu a{display:block;padding:3px 15px 3px 15px;background:#fff;}
+.menu a:hover{background:#035191;text-decoration:none;color:#fff;}
+.menu ul.ul1 li a{display:inline;padding:0}
+/*pages*/
+.pages{margin:3px 0;font:11px/12px ukij tuz tom,Tahoma}
+.pages *{vertical-align:middle;}
+.pages a{padding:1px 4px 1px;border:1px solid #B6D9E3;margin:0 1px 0 0;text-align:center;text-decoration:none;font:normal 12px/14px ukij tuz tom,verdana;}
+.pages a:hover{border:#659b28 1px solid;background:#F3F8EF;text-decoration:none;color:#035191}
+.pages input{margin-bottom:0px;border:1px solid #659b28;height:15px;font:bold 12px/15px ukij tuz tom,Verdana;padding-bottom:1px;padding-left:1px;margin-right:1px;color:#659b28;}
+/*footer*/
+#footer{width:965px;text-align:right;border-top:2px solid #76BAC2;margin:auto;padding:5px 0;border-bottom:#F3F8EF 12px solid}
+#main{width:965px;margin: auto; padding:.8em 0 0}
+</style><!--css-->
+
+<style type="text/css">/*竖线风格输出*/
+.tr3 td,.tr3 th{border-right:1px solid #D4EFF7;}
+.y-style{text-align:center;}
+.t table{border:0;width:100%;}
+.tr1 th{border-right:1px solid #D4EFF7;}
+.tr1 td.td1{border-left:0}
+.t{padding:1px}
+</style>
+<!--[if IE]>
+<style type="text/css">
+.t table{border:1px solid #fff;}
+</style><![endif]-->
+
+<!--[if IE]>
+<style type="text/css">
+.btn{/*border:3px double #B6D9E3*/; height:21px;padding-left:0.15em;padding-right:0.15em;}
+.tr1 td.td1{border-top:0}
+.t4{padding:0}
+.pages a{padding:1px 4px 2px;}
+.t table{width:100%;border-collapse:collapse;}
+.t {padding:0}
+.menu a{height:14px}
+</style>
+<![endif]-->
+
+<script language="JavaScript">
+var agt = navigator.userAgent.toLowerCase();
+var is_ie = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1));
+var is_gecko= (navigator.product == "Gecko");
+var imgpath = 'images';
+function getObj(id){
+	return document.getElementById(id);
+}
+function ietruebody(){
+	return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body;
+}
+function IsElement(id){
+	return document.getElementById(id)!=null ? true : false;
+}
+function checkinput(obj,val){
+	if (obj.className.indexOf('gray') != -1) {
+		obj.value = '';
+		obj.className = obj.className.replace('gray', 'black');
+	} else if (val && obj.value=='') {
+		obj.value = obj.defaultValue = val;
+		if (obj.className.indexOf('black') == -1) {
+			obj.className += ' gray';
+		} else {
+			obj.className = obj.className.replace('black', 'gray');
+		}
+	}
+}
+</script>
+
+
+<script language="JavaScript" src="js/pw_ajax.js"></script>
+
+</head>
+<body >
+<table align="center" border="0" width="965" id="table1" cellspacing="0" cellpadding="0">
+	<tr>
+							<td height="5"></td>
+						</tr>
+
+		<tr>
+			<td bgcolor="#f2f8ff" height="25" background="https://uyghur-archive.com/bilqut/images/t_top.bmp">
+			<p align="center"><b><font color="#000099">&nbsp; 
+			</font> 
+			<a target="_blank" href="https://uyghur-archive.com/bilqut" style="text-decoration: none">
+			<font color="#000099">باش</font><font color="#000099"> بىكەت</font></a><font color="#000099">&nbsp;&nbsp; |&nbsp; 
+			</font> 
+			<a target="_blank" href="https://uyghur-archive.com/bilqut/awazliq/" style="text-decoration: none">
+			<font color="#000099">ئاۋازلىق</font><font color="#000099"> 
+			ئەسەر</font></a><font color="#000099"> | 
+			</font> 
+			<a target="_blank" href="https://uyghur-archive.com/bilqut/bilqut_news/" style="text-decoration: none">
+			<font color="#000099">خەزىنە</font></a><font color="#000099">&nbsp; |&nbsp; 
+			</font> 
+			<a target="_blank" href="https://bbs.uyghur-archive.com/bilqut" style="text-decoration: none">
+			<font color="#000099">مۇنبەر</font></a><font color="#000099">&nbsp; |&nbsp; 
+			</font> 
+			<a target="_blank" href="https://uyghur-archive.com/bilqut/KutupXana/" style="text-decoration: none">
+			<font color="#000099">كۈتۈپخانا</font></a><font color="#000099">&nbsp; |&nbsp; 
+			</font> 
+			<a target="_blank" href="https://uyghur-archive.com/bilqut/Kino/" style="text-decoration: none">
+			<font color="#000099">كىنو</font></a><font color="#000099">&nbsp; |&nbsp; 
+			</font> <span lang="en-us">
+			<a target="_blank" href="https://uyghur-archive.com/bilqut/mtv/" style="text-decoration: none">
+			<font color="#000099">MTV</font></a></span><font color="#000099">&nbsp; |&nbsp; 
+			</font> 
+			<a target="_blank" href="https://uyghur-archive.com/bilqut/music/" style="text-decoration: none">
+			<font color="#000099">ناخشا</font></a><font color="#000099">&nbsp; 
+			|&nbsp; 
+			</font> 
+			<a target="_blank" href="https://uyghur-archive.com/bilqut/game/" style="text-decoration: none">
+			<font color="#000099">ئويۇن</font></a><font color="#000099">&nbsp; | 
+			</font> 
+			<a target="_blank" href="https://uyghur-archive.com/bilqut/etotlar/" style="text-decoration: none">
+			<font color="#000099">ئېتوت</font></a><font color="#000099">&nbsp; 
+			</font></b> </td>
+		</tr>
+		<tr>
+			<td height="5"></td>
+		</tr>
+	</table>
+
+
+
+<div id="wrapA">
+
+<div id="header">
+
+
+<table cellspacing="0" cellpadding="0" align="center" width="965px">
+<tr>
+	<td class="banner"><img align="middle" src="images/top.jpg" width="965" height="180"></td>
+	
+</tr>
+<tr><td align="center" height="5px" colspan="2"></td></tr>
+<tr><td align="center" height="1" colspan="2"><div align="center">
+	
+</div></td></tr>
+</table>
+
+<div id="h_guide" class="guide" colspan="2"><span class="s3">&raquo;</span>
+
+		سىز تېخى كۇلۇبقا <a href="login.php"> كىرمەپسىز </a> &nbsp;<a href="register.php"><b>تىزىملىتىش</b></a>
+	| <a href="push.php?fid=201">تەۋسىيە</a>
+	| <a href="search.php">ئىزدەش</a>
+	| <a style="cursor:pointer;" id="td_hack" >مۇلازىمەتلەر<img src="images/wind/menu-down.gif" /></a>
+
+	| <a href="hack.php?H_name=bank">بانكا</a>
+
+	| <a href="faq.php">ياردەم</a>
+
+	| <a  href="#" onclick="location.href='https://www.uyghur-archive.com/bilqut/convert.php?utype=1&url='+document.URL;return false;" style="color:red"><b>ULY</b></a>
+
+</div>
+<div id="menu_hack" class="menu" style="display:none;"><table width="120" cellspacing="1" cellpadding="5">
+	<tr><th class="h">كۇلۇب مۇلازىمىتى</th></tr>
+
+	<tr><td class="f_one"><a href="hack.php?H_name=toolcenter">قورال مەركىزى</a></td></tr>
+
+</table></div>
+<div id="menu_skin" class="menu" style="display:none;"><table width="120" cellspacing="1" cellpadding="5">
+	<tr><th class="h">ئۇسلۇب ئالماشتۇرۇش</th></tr>
+
+	<tr><td class="f_one"><a href="/bbs/thread.php?fid=201&skinco=razi">razi</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/thread.php?fid=201&skinco=wind">wind</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/thread.php?fid=201&skinco=yellow">yellow</a></td></tr>
+
+</table></div>
+
+
+<div id="menu_msg" class="menu" style="display:none;"><table width="120" cellspacing="1" cellpadding="5">
+	<tr><th class="h"> قىسقا ئۇچۇر </th></tr>
+	<tr><td class="f_one"><a href="message.php">خەت ساندۇقى</a></td></tr>
+	<tr><td class="f_one"><a href="message.php?action=sendbox">يوللاش ساندۇقى</a></td></tr>
+	<tr><td class="f_one"><a href="message.php?action=scout">ئۇچۇر ئىز قوغلاش</a></td></tr>
+	<tr><td class="f_one"><a href="message.php?action=write">قىسقا ئۇچۇر يېزىش</a></td></tr>
+</table></div>
+<div id="menu_profile" class="menu" style="display:none;"><table width="170" cellspacing="1" cellpadding="5">
+	<tr><th class="h">كونترول تاختا</th></tr>
+	<tr><td><a href="profile.php">كونترول تاختا باش بېتى</a></td></tr>
+	<tr><td><a href="profile.php?action=modify">ماتېرىيال تەھرىرلەش</a></td></tr>
+	<tr><td><a href="profile.php?action=show&uid=">ماتېرىيال كۆرۈش</a></td></tr>
+	<tr><td><a href="profile.php?action=friend">دوستلار تىزىملىكى </a></td></tr>
+	<tr><td><a href="profile.php?action=permission">ئەزا ھوقۇقىنى كۆرۈش</a></td></tr>
+
+	<tr><td><a href="userpay.php">سودا تەڭگىسى باشقۇرۇش</a></td></tr>
+	<tr><td><a href="profile.php?action=change">جۇغلانما ئالماشتۇرۇش</a></td></tr>
+	<tr><td><a href="profile.php?action=buy">ئالاھىدە گورۇپپا سېتىۋېلىش</a></td></tr>
+	<tr><td><a href="profile.php?action=favor">ساقلىغۇچ</a></td></tr>
+	<tr><td><a href="personal.php">تېمىلىرىم</a></td></tr>
+</table></div>
+<div id="menu_sort" class="menu" style="display:none;">
+	<table width="150" cellspacing="1" cellpadding="5">
+	<tr><th class="h">سىتاتسىتكا</th></tr>
+	<tr><td class="f_one"><a href="sort.php">ئاساسىي سىتاتسىتكا</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=ipstate">IP سىتاتسىتكىسى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=team">باشقۇرۇش قوشۇنى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=admin">باشقۇرۇش سىتاتسىتكىسى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=online">توردىكىلەر سىتاتسىتكىسى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=member">ئەزالار قاتارى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=forum">سەھىپە قاتارى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=article">يازما قاتارى</a></td></tr>
+</table></div>
+
+</div>
+
+
+<div id="main">
+<div align="center" ><td class="banner" id="banner" align="right"><object align="baseline" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"  codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" class="style14" style="width: 960px; height: 100px;">
+	<param name="movie" value="images/hot/bcastr.swf?bcastr_xml_url=images/hot/bcastr1.xml">
+	<param name="quality" value="high">
+	<param name="scale" value="noscale">
+	<param name="LOOP" value="false">
+	<param name="menu" value="false">
+	<param name="wmode" value="transparent">
+	<embed src="images/hot/bcastr.swf?bcastr_xml_url=images/hot/bcastr1.xml" width="960" height="100" loop="false" quality="high" pluginspage="https://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" salign="T" menu="false" wmode="transparent"></embed>
+</object>
+</td></div>
+
+
+
+
+
+
+﻿﻿<style type="text/css">
+<!--
+body,td,th {
+	color: #000000;
+}
+a:link {
+	color: #000000;
+}
+a:visited {
+	color: #333333;
+}
+a:hover {
+	color: #000000;
+}
+-->
+</style>
+<div class="hx" style="margin:8px auto"><table width="100%" cellspacing="0" cellpadding="0" align="center">
+	<tr><td><img src="images/wind/index/home_menu.gif" align="absmiddle" id="td_cate" onMouseOver="read.open('menu_cate','td_cate');" style="cursor:pointer;" /> <b><a href="index.php">BilqutBBS</a> &raquo; <a href="thread.php?fid=201">خىزمەت ئۇچۇرى</a></b> </td></tr>
+</table></div>
+<div id="menu_cate" class="menu" style="display:none;"><div style="padding:5px;height:420px;width:200px;overflow-Y:auto;"><ul class="ul1"><li> <a href="index.php?cateid=328">>> تەرەققىياتىمىز</a></li><li> &nbsp;<a href="thread.php?fid=330">|- ئۇيغۇر كارخانىلىرى</a></li><li> &nbsp;<a href="thread.php?fid=331">|- ئۇيغۇر مەھسۇلاتلىرى</a></li><li> &nbsp;<a href="thread.php?fid=333">|- ئۇيغۇر كەشپىياتلىرى</a></li><li> &nbsp;<a href="thread.php?fid=329">|- ئۇيغۇر كارخانچىللىرى</a></li><li> &nbsp;<a href="thread.php?fid=335">|-  ئۇيغۇرساياھەتچىلىكى</a></li><li> &nbsp;<a href="thread.php?fid=334">|-  ئۇيغۇر دوكتۇرلىرى</a></li><li> <a href="index.php?cateid=297">>> تىل ئۈگىنىش</a></li><li> &nbsp;<a href="thread.php?fid=52">|- ئۇيغۇرتىلى</a></li><li> &nbsp;<a href="thread.php?fid=46">|- خەنزۇتىلى</a></li><li> &nbsp;<a href="thread.php?fid=47">|- ئىنگلىزتىلى</a></li><li> &nbsp;<a href="thread.php?fid=48">|- روس تىلى</a></li><li> &nbsp;<a href="thread.php?fid=53">|- ياپون تىلى</a></li><li> <a href="index.php?cateid=296">>> شىركەت ھەققىدە</a></li><li> &nbsp;<a href="thread.php?fid=160">|- تەكلىپ-پىكىر بىرىڭ</a></li><li> &nbsp;<a href="thread.php?fid=238">|- بېكەت ئىشخانىسى</a></li><li> <a href="index.php?cateid=336">>> چۈشۈرۈش</a></li><li> &nbsp;<a href="thread.php?fid=341">|- فىلىم ئىشلەش- دېتاللىرى</a></li><li> &nbsp;<a href="thread.php?fid=345">|- پروگرامما تۈزۈش دېتاللىرى</a></li><li> &nbsp;<a href="thread.php?fid=346">|- تەرجىمىچىلىك دىتاللىرى</a></li><li> &nbsp;<a href="thread.php?fid=344">|- ئاۋاز ئىشلەش- دېتاللىرى</a></li><li> &nbsp;<a href="thread.php?fid=349">|- يېزىق بىر تەرەپ قىلىش دېتاللىرى</a></li><li> &nbsp;<a href="thread.php?fid=343">|- رەسىم ئىشلەش- دېتاللىرى</a></li><li> &nbsp;<a href="thread.php?fid=350">|- بىخەتەرلىك قوراللىرى</a></li><li> &nbsp;<a href="thread.php?fid=340">|- توربەت دېتاللىرى</a></li><li> &nbsp;<a href="thread.php?fid=338">|- قوللىنىشچان دېتاللار</a></li><li> &nbsp;<a href="thread.php?fid=337">|- سىستېما دىتاللىرى</a></li><li> &nbsp;<a href="thread.php?fid=347">|- ماتىرىياللار</a></li><li> &nbsp;<a href="thread.php?fid=348">|- ئۇيغۇرچە دېتاللار</a></li><li> <a href="index.php?cateid=312">>> ئاۋازلىق ئەسەرلەر</a></li><li> &nbsp;<a href="thread.php?fid=324">|- رېۋايەتلەر</a></li><li> &nbsp;<a href="thread.php?fid=325">|- خەنزۇچە ئەسەرلەر</a></li><li> &nbsp;<a href="thread.php?fid=326">|-  رومانلار</a></li><li> &nbsp;<a href="thread.php?fid=327">|-  تارىخىي شەخسلەر ھەققىدە</a></li><li> &nbsp;<a href="thread.php?fid=323">|-  چۆچەكلەر</a></li><li> &nbsp;<a href="thread.php?fid=313">|- مەسەللەر</a></li><li> &nbsp;<a href="thread.php?fid=314">|-  ھېكايىلەر</a></li><li> &nbsp;<a href="thread.php?fid=315">|-  نەسىرلەر</a></li><li> &nbsp;<a href="thread.php?fid=316">|-  مىڭ بىر كېچە</a></li><li> &nbsp;<a href="thread.php?fid=317">|-  كەلىلە ۋە دېمىنە</a></li><li> <a href="index.php?cateid=1">>> مەسھۇلاتلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=2">|- ئەلالاشتۇرۇش</a></li><li> &nbsp;<a href="thread.php?fid=4">|- بىلقۇت خەزىنىسى ھەققىدە</a></li><li> <a href="index.php?cateid=5">>> ئاۋازلىق ئەسەرلەر</a></li><li> <a href="index.php?cateid=245">>> رەسىم</a></li><li> &nbsp;<a href="thread.php?fid=259">|- كومپيۇتېر لايىھىلىرى</a></li><li> &nbsp;<a href="thread.php?fid=249">|- ماشىنا</a></li><li> &nbsp;<a href="thread.php?fid=260">|- سىزما رەسىملەر</a></li><li> &nbsp;<a href="thread.php?fid=252">|- بىناكارلىق</a></li><li> &nbsp;<a href="thread.php?fid=258">|- كارتون رەسىملەر</a></li><li> &nbsp;<a href="thread.php?fid=246">|- ھايۋاناتلار</a></li><li> &nbsp;<a href="thread.php?fid=308">|- ھاشاراتلار</a></li><li> &nbsp;<a href="thread.php?fid=247">|- قۇشلار</a></li><li> &nbsp;<a href="thread.php?fid=248">|- ئۆسۈملۈكلەر</a></li><li> &nbsp;<a href="thread.php?fid=254">|- ئۈستەل رەسىملىرى</a></li><li> &nbsp;<a href="thread.php?fid=250">|- گۈل-گىياھلار</a></li><li> &nbsp;<a href="thread.php?fid=251">|- دېڭىز جانلىقلىرى</a></li><li> &nbsp;<a href="thread.php?fid=253">|- تەبىئەت مەنزىرىسى</a></li><li> &nbsp;<a href="thread.php?fid=255">|- ھەربىي قورال ياراغلار</a></li><li> &nbsp;<a href="thread.php?fid=256">|- يانفون رەسىملىرى</a></li><li> &nbsp;<a href="thread.php?fid=257">|- قىزىقارلىق رەسىملەر</a></li><li> &nbsp;<a href="thread.php?fid=261">|- ھەرخىل رەسىملەر</a></li><li> <a href="index.php?cateid=206">>> كۆڭۈل ئېچىش</a></li><li> &nbsp;<a href="thread.php?fid=207">|- كىنو - فىلىم</a></li><li> &nbsp;<a href="thread.php?fid=208">|- ناخشا - مۇزىكا</a></li><li> &nbsp;<a href="thread.php?fid=209">|- يانفون مۇزىكىلىرى</a></li><li> &nbsp;<a href="thread.php?fid=227">|- رەسىم</a></li><li> &nbsp;<a href="thread.php?fid=309">|- سۇرەتلىك ناخشىلار</a></li><li> &nbsp;<a href="thread.php?fid=310">|- قىزقارلىق كۆرنىش</a></li><li> &nbsp;<a href="thread.php?fid=311">|- ئىتوت</a></li><li> <a href="index.php?cateid=16">>> كۇتۇپخانا</a></li><li> &nbsp;<a href="thread.php?fid=22">|- مىڭ بىر كېچە</a></li><li> &nbsp;<a href="thread.php?fid=21">|- چۆچەكلەر</a></li><li> &nbsp;<a href="thread.php?fid=24">|- ئەپسانىلەر</a></li><li> &nbsp;<a href="thread.php?fid=105">|- رېۋايەتلەر</a></li><li> &nbsp;<a href="thread.php?fid=20">|- ھېكايىلەر</a></li><li> &nbsp;<a href="thread.php?fid=232">|- شېئىر</a></li><li> &nbsp;<a href="thread.php?fid=23">|- كەلىلە ۋە دېمىنە</a></li><li> &nbsp;<a href="thread.php?fid=85">|- ماقال-تەمسىل</a></li><li> &nbsp;<a href="thread.php?fid=88">|- نەسىرلەر</a></li><li> &nbsp;<a href="thread.php?fid=99">|- لەتىپە-يۇمۇرلار</a></li><li> &nbsp;<a href="thread.php?fid=87">|- مەسەللەر</a></li><li> &nbsp;<a href="thread.php?fid=174">|- ھىكمەت</a></li><li> &nbsp;<a href="thread.php?fid=181">|- نەسىھەت</a></li><li> &nbsp;<a href="thread.php?fid=17">|- ماقالىلەر</a></li><li> &nbsp;<a href="thread.php?fid=18">|- ياشلار سەمىگە</a></li><li> &nbsp;<a href="thread.php?fid=173">|- تۇرمۇش مەسلىھەتچىسى</a></li><li> &nbsp;<a href="thread.php?fid=178">|- نۇتۇقلار</a></li><li> &nbsp;<a href="thread.php?fid=172">|- سۆيگۈ مەكتۇپى</a></li><li> &nbsp;<a href="thread.php?fid=175">|- غارايىباتلار</a></li><li> &nbsp;<a href="thread.php?fid=19">|- دۇنيادىكى ئەڭ</a></li><li> &nbsp;<a href="thread.php?fid=177">|- قان تىپى</a></li><li> &nbsp;<a href="thread.php?fid=182">|- مۆچەل</a></li><li> &nbsp;<a href="thread.php?fid=176">|- مىللەتلەر</a></li><li> &nbsp;<a href="thread.php?fid=186">|- بۈگۈن</a></li><li> &nbsp;<a href="thread.php?fid=170">|- مۇزېي</a></li><li> &nbsp;<a href="thread.php?fid=189">|- تارىخ</a></li><li> &nbsp;<a href="thread.php?fid=187">|- دۇنيادىكى شەھەرلەر</a></li><li> &nbsp;<a href="thread.php?fid=195">|- دۇنيادىكى دۆلەتلەر</a></li><li> &nbsp;<a href="thread.php?fid=188">|- دۇنيادىكى كۇتۇپخانىلار</a></li><li> &nbsp;<a href="thread.php?fid=185">|- ئۆلچەم بىرلىكلىرى</a></li><li> &nbsp;<a href="thread.php?fid=184">|- مايلار</a></li><li> &nbsp;<a href="thread.php?fid=183">|- مېۋە</a></li><li> &nbsp;<a href="thread.php?fid=180">|- كۆكتاتلار</a></li><li> &nbsp;<a href="thread.php?fid=179">|- ئۆسۈملۈكلەر</a></li><li> &nbsp;<a href="thread.php?fid=171">|- ھايۋاناتلار</a></li><li> <a href="index.php?cateid=210">>> ئويۇنلار</a></li><li> &nbsp;<a href="thread.php?fid=211">|- تور ئويۇنلىرى</a></li><li> &nbsp;<a href="thread.php?fid=212">|- فىلەش ئويۇنلار</a></li><li> &nbsp;<a href="thread.php?fid=213">|- زېھىن سىناش ئويۇنلىرى</a></li><li> <a href="index.php?cateid=25">>> بالىلار باغچىسى</a></li><li> &nbsp;<a href="thread.php?fid=159">|- كىم ئەڭ ئەقىللىق</a></li><li> &nbsp;<a href="thread.php?fid=266">|- پەرزەنت تەربىيىسى</a></li><li> &nbsp;<a href="thread.php?fid=26">|- بالىلار چۆچەكلىرى</a></li><li> &nbsp;<a href="thread.php?fid=29">|- يۈز مىڭلىغان نېمە ئۈچۈن؟</a></li><li> &nbsp;<a href="thread.php?fid=97">|- بالىلار ھېكايىسى</a></li><li> &nbsp;<a href="thread.php?fid=98">|- ئانا-بالىلار ساغلاملىق ساۋاتلىرى</a></li><li> <a href="index.php?cateid=30">>> بىز</a></li><li> &nbsp;<a href="thread.php?fid=244">|- خەتتاتلىقىمىز</a></li><li> &nbsp;<a href="thread.php?fid=265">|- تىل-يېزىقىمىز</a></li><li> &nbsp;<a href="thread.php?fid=32">|- تائاملىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=33">|- شەخسلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=35">|- ئويۇنلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=34">|- تېبابىتىمىز</a></li><li> &nbsp;<a href="thread.php?fid=36">|- چالغۇلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=37">|- ھۈنەرلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=31">|- يوسۇنلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=38">|- تارىخمىز</a></li><li> <a href="index.php?cateid=126">>> يۇرتىمىز</a></li><li> &nbsp;<a href="thread.php?fid=127">|- شەھەرلەر</a></li><li> &nbsp;<a href="thread.php?fid=128">|- بىڭتۈەنلەر</a></li><li> &nbsp;<a href="thread.php?fid=129">|- ناھىيلەر</a></li><li> &nbsp;<a href="thread.php?fid=130">|- ۋىلايەتلەر</a></li><li> &nbsp;<a href="thread.php?fid=131">|- ئاپتونوم ئوبلاست</a></li><li> &nbsp;<a href="thread.php?fid=132">|- ئاپتونوم ناھىيە</a></li><li> <a href="index.php?cateid=39">>> ئۆگىنىش</a></li><li> &nbsp;<a href="thread.php?fid=41">|- ماتېماتىكا</a></li><li> &nbsp;<a href="thread.php?fid=106">|- يىزا-ئىگىلىك</a></li><li> &nbsp;<a href="thread.php?fid=107">|- پسىخولوگىيە</a></li><li> &nbsp;<a href="thread.php?fid=108">|- ئىقتىساد</a></li><li> &nbsp;<a href="thread.php?fid=143">|- مۇھىت</a></li><li> &nbsp;<a href="thread.php?fid=40">|- ئەدەبىيات</a></li><li> &nbsp;<a href="thread.php?fid=42">|- جۇغراپىيە</a></li><li> &nbsp;<a href="thread.php?fid=43">|- تارىخ</a></li><li> &nbsp;<a href="thread.php?fid=44">|- فىزىكا</a></li><li> &nbsp;<a href="thread.php?fid=45">|- خىمىيە</a></li><li> &nbsp;<a href="thread.php?fid=50">|- ئاسترونومىيە</a></li><li> &nbsp;<a href="thread.php?fid=49">|- بىئولوگىيە</a></li><li> &nbsp;<a href="thread.php?fid=89">|- دېپلوماتىيە</a></li><li> &nbsp;<a href="thread.php?fid=90">|- ئېلېكترون</a></li><li> &nbsp;<a href="thread.php?fid=91">|- تەنتەربىيە</a></li><li> &nbsp;<a href="thread.php?fid=92">|- مەتبەئەچىلىك</a></li><li> &nbsp;<a href="thread.php?fid=100">|- گۈزەل- سەنئەت</a></li><li> <a href="index.php?cateid=54">>> كومپيۇتېر بىلىملىرى</a></li><li> &nbsp;<a href="thread.php?fid=86">|- ئۇيغۇرچە يۇمشاق دېتاللار</a></li><li> &nbsp;<a href="thread.php?fid=109">|- كومپيۇتېردىن سوئال-جاۋابلار</a></li><li> &nbsp;<a href="thread.php?fid=110">|- توربەت ياساش</a></li><li> &nbsp;<a href="thread.php?fid=190">|- كومپيۇتېر ئۇنىۋېرسال بىلىملىرى</a></li><li> &nbsp;<a href="thread.php?fid=229">|- كومپىيۇتېر كاشىلىلىرى</a></li><li> &nbsp;<a href="thread.php?fid=55">|- قاتتىق دېتال</a></li><li> &nbsp;<a href="thread.php?fid=56">|- يۇمشاق دېتال</a></li><li> &nbsp;<a href="thread.php?fid=57">|- مەشغۇلات سىستېمىسى</a></li><li> &nbsp;<a href="thread.php?fid=58">|- توربىلىملىرى</a></li><li> <a href="index.php?cateid=239">>> ئىسلام دىنى</a></li><li> &nbsp;<a href="thread.php?fid=240">|- ئىسلام دىنىدىن ساۋاتلار</a></li><li> &nbsp;<a href="thread.php?fid=243">|- قۇرئان كەرىم تەرجىمىسى</a></li><li> &nbsp;<a href="thread.php?fid=241">|- قۇرئان كەرىم</a></li><li> &nbsp;<a href="thread.php?fid=242">|- ئىسلام دۇنياسى</a></li><li> <a href="index.php?cateid=267">>> IT ئۇچۇرلىرى</a></li><li> &nbsp;<a href="thread.php?fid=219">|- يانفون ئۇچۇرلىرى</a></li><li> &nbsp;<a href="thread.php?fid=220">|- رەقەملىك مەھسۇلاتلار</a></li><li> &nbsp;<a href="thread.php?fid=277">|- TV كارتىسى</a></li><li> &nbsp;<a href="thread.php?fid=284">|- كۆچمە دىسكا</a></li><li> &nbsp;<a href="thread.php?fid=282">|- MP4-MP3</a></li><li> &nbsp;<a href="thread.php?fid=273">|- كۆرسىتىش كارتىسى</a></li><li> &nbsp;<a href="thread.php?fid=275">|- ئوپتىك قويغۇچ</a></li><li> &nbsp;<a href="thread.php?fid=290">|- نۇسخا كۆپەيتكۈچ</a></li><li> &nbsp;<a href="thread.php?fid=268">|- قاتتىق دىسكا</a></li><li> &nbsp;<a href="thread.php?fid=286">|- نۇر دىسكا</a></li><li> &nbsp;<a href="thread.php?fid=278">|- شامالدۇرغۇچ</a></li><li> &nbsp;<a href="thread.php?fid=272">|- ئىچكى ساقلىغۇچ</a></li><li> &nbsp;<a href="thread.php?fid=293">|- رەقەملىك ئاپپارات</a></li><li> &nbsp;<a href="thread.php?fid=283">|- بارماق دىسكا</a></li><li> &nbsp;<a href="thread.php?fid=270">|- ئاساسىي تاختا</a></li><li> &nbsp;<a href="thread.php?fid=271">|- CPU</a></li><li> &nbsp;<a href="thread.php?fid=274">|- ئوپتىك ئويغۇچ</a></li><li> &nbsp;<a href="thread.php?fid=276">|- ئېكران</a></li><li> &nbsp;<a href="thread.php?fid=287">|- قول كومپيۇتېر</a></li><li> &nbsp;<a href="thread.php?fid=279">|- ئاۋز كارتىسى</a></li><li> &nbsp;<a href="thread.php?fid=280">|- كونۇپكا تاختىسى</a></li><li> &nbsp;<a href="thread.php?fid=281">|- مائۇس</a></li><li> &nbsp;<a href="thread.php?fid=285">|- ئاساسىي ماشىنا قېپى</a></li><li> &nbsp;<a href="thread.php?fid=288">|- ياڭراتقۇ</a></li><li> &nbsp;<a href="thread.php?fid=289">|- نۇسخا ئالغۇ</a></li><li> &nbsp;<a href="thread.php?fid=291">|- نۇسخا چىقارغۇچ</a></li><li> &nbsp;<a href="thread.php?fid=292">|- قەغەز</a></li><li> &nbsp;<a href="thread.php?fid=294">|- كامىرا</a></li><li> <a href="index.php?cateid=263">>> خەۋەرلەر</a></li><li> &nbsp;<a href="thread.php?fid=198">|- خەلقئارا خەۋەرلەر</a></li><li> &nbsp;<a href="thread.php?fid=199">|- شىنجاڭ خەۋەرلىرى</a></li><li> &nbsp;<a href="thread.php?fid=200">|- مەملىكەت خەۋەرلىرى</a></li><li> <a href="index.php?cateid=196">>> ئۇچۇرلار</a></li><li> &nbsp;<a href="thread.php?fid=197">|- ماشىنا ئۇچۇرلىرى</a></li><li> &nbsp;<a href="thread.php?fid=201">|- خىزمەت ئۇچۇرى</a></li><li> &nbsp;<a href="thread.php?fid=202">|- ئۆي ئۇچۇرلىرى</a></li><li> &nbsp;<a href="thread.php?fid=203">|- ئىقتىسادىي ئۇچۇرلار</a></li><li> &nbsp;<a href="thread.php?fid=204">|- پەن-تېخنىكا ئۇچۇرلىرى</a></li><li> &nbsp;<a href="thread.php?fid=205">|- ئۇنىۋېرسال ئۇچۇرلار</a></li><li> <a href="index.php?cateid=161">>> مائارپ</a></li><li> &nbsp;<a href="thread.php?fid=353">|- كەسپىي مائارىپ</a></li><li> &nbsp;<a href="thread.php?fid=352">|- مائارىپ تارىخى</a></li><li> &nbsp;<a href="thread.php?fid=166">|- مائارىپ تەشكىلاتلىرى</a></li><li> &nbsp;<a href="thread.php?fid=162">|- بالىلار باغچىلىرى</a></li><li> &nbsp;<a href="thread.php?fid=165">|- باشلانغۇچ مەكتەپلەر</a></li><li> &nbsp;<a href="thread.php?fid=163">|- ئوتتۇرا مەكتەپلەر</a></li><li> &nbsp;<a href="thread.php?fid=169">|- ئالىي مەكتەپلەر</a></li><li> &nbsp;<a href="thread.php?fid=168">|- گېزىتلەر</a></li><li> &nbsp;<a href="thread.php?fid=167">|- ژۇرناللار</a></li><li> <a href="index.php?cateid=214">>> خانىم - قىزلار      </a></li><li> &nbsp;<a href="thread.php?fid=215">|- قىزلار پسىخىكىسى</a></li><li> &nbsp;<a href="thread.php?fid=216">|- خانىم - قىزلار ساغلاملىقى</a></li><li> &nbsp;<a href="thread.php?fid=217">|- گۈزەللىك بىلىملىرى</a></li><li> &nbsp;<a href="thread.php?fid=218">|- ئەخلاق</a></li><li> <a href="index.php?cateid=221">>> ھەربىي ئىشلار</a></li><li> &nbsp;<a href="thread.php?fid=222">|- جەڭ پاراخوتلىرى</a></li><li> &nbsp;<a href="thread.php?fid=223">|- كۆرەشچى ئايروپىلانلار</a></li><li> &nbsp;<a href="thread.php?fid=224">|- جان ئالغۇ مىلتىقلار</a></li><li> &nbsp;<a href="thread.php?fid=225">|- سۇ ئاستى كېمىلەر</a></li><li> &nbsp;<a href="thread.php?fid=226">|- قۇرۇقلۇق ئارمىيىلىرى</a></li><li> <a href="index.php?cateid=66">>> قانۇن - نىزاملار</a></li><li> &nbsp;<a href="thread.php?fid=144">|- جىنايەت ۋە جازا</a></li><li> &nbsp;<a href="thread.php?fid=264">|- قانۇندىن مەسلىھەت</a></li><li> &nbsp;<a href="thread.php?fid=95">|- قانۇنلار</a></li><li> &nbsp;<a href="thread.php?fid=94">|- نىزاملار</a></li><li> <a href="index.php?cateid=191">>> ئۇنىۋېرسال</a></li><li> &nbsp;<a href="thread.php?fid=192">|- ئۇنىۋېرسال سەھىپە</a></li><li> <a href="index.php?cateid=234">>> ۋاكالەتچىللىرىمىز</a></li><li> <a href="index.php?cateid=233">>> كىتابخانا</a></li><li> &nbsp;<a href="thread.php?fid=307">|- مىللەتلەر (بېيجىڭ) نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=300">|- شىنجاڭ ياشلار - ئۆسمۈرلەر نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=306">|- قەشقەر ئۇيغۇر نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=302">|- شىنجاڭ ئېلېكترون، ئۈن - سىن نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=298">|- شىنجاڭ مائارىپ نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=303">|- شىنجاڭ پەن - تېخنىكا نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=299">|- شىنجاڭ خەلق نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=301">|- شىنجاڭ گۈزەل - سەنئەت نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=304">|- شىنجاڭ خەلق سەھىيە نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=305">|- شىنجاڭ ئۇنىۋېرسىتېتى نەشرىياتىنىڭ كىتابلىرى</a></li></ul></div></div>
+<!--ads begin-->
+
+<div class="t" style="margin-top:8px"><table width="100%" cellspacing="0" cellpadding="0" align="center">
+
+	<tr class="tr3">
+
+	<td width="25%" class="t_one black y-style"><a href="https://uyghur-archive.com/bilqut/bilqut_news/show.php?itemid=5" target="_blank">خەزىنىنى ئەلالاشتۇرۇش ئۇسۇلى</a></td>
+
+	<td width="25%" class="t_one black y-style"><a href="https://bbs.uyghur-archive.com/bilqut/read.php?tid=8015" target="_blank">خەزىنىنڭ9 - ئايلىق ئەلالاشتۇرۇلشى !</a></td>
+
+	<td width="25%" class="t_one black y-style"><a href="https://uyghur-archive.com/bilqut/bilqut_news/show.php?itemid=7" target="_blank"><<بىلقۇت خەزىنىسى>> ھەققىدە </a></td>
+
+	<td width="25%" class="t_one black y-style"><a href="https://uyghur-archive.com/bilqut/bbs/read.php?tid=2686" target="_blank">ۋاكالەتچى چاقىرىمىز</a></td>
+
+	</tr>
+
+</table></div>
+
+<!--ads end-->
+
+<div class="c"></div>
+
+<div class="t3"><table width="100%" align="center" cellspacing="0" cellpadding="0">
+	<tr><td style="text-align:right"><a href="post.php?fid=201"><img src="images/wind/post.gif" border="0" id="td_post" /></a></td>
+	<td valign="middle" dir="ltr"><div class="fl"></div></td>
+	</tr>
+</table></div>
+<div id="menu_post" class="menu tac f14" style="display:none;">
+	<ul style="width:99px">
+
+	<li><a href="post.php?fid=201&special=4">سودا تىمىسى</a></li>
+
+	<li><a href="post.php?fid=201&special=1">بېلەت</a></li>
+	</ul>
+</div>
+
+<div class="t" style="margin:3px auto"><table cellspacing="0" cellpadding="0" width="100%" id="ajaxtable">
+	<tr><th class="h" colspan="6" style="width:100%"><a class="fr a2 fn" href="thread.php?fid=201"></a> <a class="fr a2 fn" href="thread.php?fid=201&search=digest">نادىر تىما</a>
+
+		<a href="thread.php?fid=201">خىزمەت ئۇچۇرى</a><span>　باشقۇرغۇچى :
+
+		
+
+		</span></th>
+	</tr >
+	<tbody height="28px" style="table-layout:fixed;"><tr></tr>
+	<tr class="tr2">
+	<td class="s3">ھالەت</td>
+	<td style="width:56%" class="s3"> تىما</td>
+	<td style="width:10%" class="s3">يوللىغۇچى</td>
+	<td style="width:6%" class="s3">ئىنكاس</td>
+	<td style="width:6%" class="s3">كۈرۈلىشى</td>
+	<td style="width:17%" class="s3">ئاخىرقىسى</td>
+	</tr>
+
+	<tr align="middle" class="tr3 t_two" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td class="y-style"><img src="images/wind/thread/anc.gif" /></td><th>&nbspمۇنبەر ئۇقتۇرۇشى : <h3><a href="notice.php?fid=-1#2" class="black">زىيارەتچىلەر دىقىتىگە </a></h3></th><td class="tal y-style"><a href="profile.php?action=show&username=bilqut_k" class="bl">bilqut_k</a></td><td colspan="2" class="y-style"><a href="notice.php?fid=-1">مۇنبەر ئۇقتۇرۇشى </a></td><td class="tal y-style">2008-02-28 15:40</td>
+	</tr>
+
+	<tr class="tr2"><td colspan="6" class="tac" style="border-top:0">ئادەتتىكى تىمىلار</td></tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="يىڭى كۆزنەكتە ئېچىش" href="read.php?tid=6610" target="_blank"><img src='images/wind/thread/topicnew.gif' border=0></a></td><td style="text-align:right;padding-right:8px" id="td_6610"> 
+
+	
+
+	<h3><a href="read.php?tid=6610" id="a_ajax_6610">خىزمەت ئىزدەمسىز؟</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=7" class="bl">بىلقۇت</a>
+		<div class="f10">2008-08-04</div></td>
+	<td class="tal f10 y-style">0</td>
+	<td class="tal f10 y-style">351</td>
+	<td class="tal y-style"><a href="read.php?tid=6610&page=e&fpage=1#a" class="f10"> 2008-08-04 09:54 </a><br />by: بىلقۇت</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="يىڭى كۆزنەكتە ئېچىش" href="read.php?tid=6494" target="_blank"><img src='images/wind/thread/topicnew.gif' border=0></a></td><td style="text-align:right;padding-right:8px" id="td_6494"> 
+
+	
+
+	<h3><a href="read.php?tid=6494" id="a_ajax_6494">ياخشى خىزمەت بۇ يەردە</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=7" class="bl">بىلقۇت</a>
+		<div class="f10">2008-08-01</div></td>
+	<td class="tal f10 y-style">0</td>
+	<td class="tal f10 y-style">213</td>
+	<td class="tal y-style"><a href="read.php?tid=6494&page=e&fpage=1#a" class="f10"> 2008-08-01 16:21 </a><br />by: بىلقۇت</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="يىڭى كۆزنەكتە ئېچىش" href="read.php?tid=6247" target="_blank"><img src='images/wind/thread/topicnew.gif' border=0></a></td><td style="text-align:right;padding-right:8px" id="td_6247"> 
+
+	
+
+	<h3><a href="read.php?tid=6247" id="a_ajax_6247">خىزمەچى قوبۇل قىلىش ئېلانى</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=7" class="bl">بىلقۇت</a>
+		<div class="f10">2008-07-25</div></td>
+	<td class="tal f10 y-style">0</td>
+	<td class="tal f10 y-style">277</td>
+	<td class="tal y-style"><a href="read.php?tid=6247&page=e&fpage=1#a" class="f10"> 2008-07-25 17:57 </a><br />by: بىلقۇت</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="يىڭى كۆزنەكتە ئېچىش" href="read.php?tid=6181" target="_blank"><img src='images/wind/thread/topicnew.gif' border=0></a></td><td style="text-align:right;padding-right:8px" id="td_6181"> 
+
+	
+
+	<h3><a href="read.php?tid=6181" id="a_ajax_6181">خىزمەتكە ئېھتىياجىڭىز بارمۇ؟</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=1410" class="bl">tarim_boy</a>
+		<div class="f10">2008-07-24</div></td>
+	<td class="tal f10 y-style">0</td>
+	<td class="tal f10 y-style">250</td>
+	<td class="tal y-style"><a href="read.php?tid=6181&page=e&fpage=1#a" class="f10"> 2008-07-24 12:22 </a><br />by: tarim_boy</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="يىڭى كۆزنەكتە ئېچىش" href="read.php?tid=6121" target="_blank"><img src='images/wind/thread/topicnew.gif' border=0></a></td><td style="text-align:right;padding-right:8px" id="td_6121"> 
+
+	
+
+	<h3><a href="read.php?tid=6121" id="a_ajax_6121">خىزمەت ئىزدىسىڭىز بۇ يەرگە قاراڭ</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=7" class="bl">بىلقۇت</a>
+		<div class="f10">2008-07-21</div></td>
+	<td class="tal f10 y-style">1</td>
+	<td class="tal f10 y-style">357</td>
+	<td class="tal y-style"><a href="read.php?tid=6121&page=e&fpage=1#a" class="f10"> 2008-07-22 01:55 </a><br />by: yolqi</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="يىڭى كۆزنەكتە ئېچىش" href="read.php?tid=5904" target="_blank"><img src='images/wind/thread/topicnew.gif' border=0></a></td><td style="text-align:right;padding-right:8px" id="td_5904"> 
+
+	
+
+	<h3><a href="read.php?tid=5904" id="a_ajax_5904">خىزمەتچى قوبۇل قىلىش ئېلانى</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=7" class="bl">بىلقۇت</a>
+		<div class="f10">2008-07-16</div></td>
+	<td class="tal f10 y-style">0</td>
+	<td class="tal f10 y-style">337</td>
+	<td class="tal y-style"><a href="read.php?tid=5904&page=e&fpage=1#a" class="f10"> 2008-07-16 11:17 </a><br />by: بىلقۇت</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="يىڭى كۆزنەكتە ئېچىش" href="read.php?tid=5876" target="_blank"><img src='images/wind/thread/topicnew.gif' border=0></a></td><td style="text-align:right;padding-right:8px" id="td_5876"> 
+
+	
+
+	<h3><a href="read.php?tid=5876" id="a_ajax_5876">كومپيۇتېر خادىمى&nbsp; قوبۇل قىلىش ئېلانى</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=7" class="bl">بىلقۇت</a>
+		<div class="f10">2008-07-15</div></td>
+	<td class="tal f10 y-style">1</td>
+	<td class="tal f10 y-style">264</td>
+	<td class="tal y-style"><a href="read.php?tid=5876&page=e&fpage=1#a" class="f10"> 2008-07-16 00:56 </a><br />by: armudun</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one" onMouseOver="this.className='tr3 t_two'" onMouseOut="this.className='tr3 t_one'"><td><a title="يىڭى كۆزنەكتە ئېچىش" href="read.php?tid=3749" target="_blank"><img src='images/wind/thread/topicnew.gif' border=0></a></td><td style="text-align:right;padding-right:8px" id="td_3749"> 
+
+	
+
+	<h3><a href="read.php?tid=3749" id="a_ajax_3749">خىزمەتچى قۇبۇل قىلىش ئېلانى</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style"><a href="profile.php?action=show&uid=829" class="bl">muhlis</a>
+		<div class="f10">2008-05-21</div></td>
+	<td class="tal f10 y-style">0</td>
+	<td class="tal f10 y-style">470</td>
+	<td class="tal y-style"><a href="read.php?tid=3749&page=e&fpage=1#a" class="f10"> 2008-05-21 12:27 </a><br />by: muhlis</td>
+	</tr>
+
+	<tr><td colspan="6" class="f_one" style="height:8px"></td></tr>
+	</tbody>
+</table></div>
+
+<div class="t"><table style="padding:5px; margin-bottom:2px" class="f_two" cellspacing="0" cellpadding="0" width="100%" align="center">
+	<tr>
+		<td>
+		<form action="thread.php?fid=201&page=1" method="post">
+		<select name="search">
+			<option value=""></option>
+			<option value="digest">سەھىپىدىكى نادىر تىمىلار</option>
+			<option value="1">1 كۈن ئىچىدىكى تىمىلار</option>
+			<option value="2">2 كۈن ئىچىدىكى تىمىلار</option>
+			<option value="7">1 ھەپتە ئىچىدىكى تىمىلار</option>
+			<option value="30">1 ئاي ئىچىدىكى تىمىلار</option>
+			<option value="60">2 ئاي ئىچىدىكى تىمىلار</option>
+			<option value="90">3 ئاي ئىچىدىكى تىمىلار</option>
+			<option value="180">6 ئاي ئىچىدىكى تىمىلار</option>
+			<option value="365">1 يىل ئىچىدىكى تىمىلار</option>
+		</select> 
+
+		<input class="btn" type="button" value="يوللاش" onclick="this.form.submit();">
+		</form>
+		</td>
+		<td align="right">
+		<form name="jump" method="post">
+		<a class="abtn f_two" href="profile.php?action=forumright&fid=201" title="بۇ سەھىپىدىكى ھوقوقىڭىزنى كۈرۈڭ">سەھىپە ھوقۇقۇم </a>
+		<a class="abtn f_two" onclick="sendmsg('pw_ajax.php?action=readlog','',this.id);" id="readlog">مەن كۆرگەن تىمىلار<img src="images/wind/menu-down.gif" /></a>
+		<a class="abtn f_two" id="threadlog" onclick="sendmsg('pw_ajax.php','action=threadlog',this.id);">مەن كۆرگەن سەھىپىلەر<img src="images/wind/menu-down.gif" /></a>
+		<select onchange="Fjump(this.options[this.selectedIndex].value)">
+		<option value="" selected>تىز سۈرئەتتە سەھىپە ئالمىشىش</option>
+<option value="328">>> تەرەققىياتىمىز</option>
+<option value="330"> &nbsp;|- ئۇيغۇر كارخانىلىرى</option>
+<option value="331"> &nbsp;|- ئۇيغۇر مەھسۇلاتلىرى</option>
+<option value="333"> &nbsp;|- ئۇيغۇر كەشپىياتلىرى</option>
+<option value="329"> &nbsp;|- ئۇيغۇر كارخانچىللىرى</option>
+<option value="335"> &nbsp;|-  ئۇيغۇرساياھەتچىلىكى</option>
+<option value="334"> &nbsp;|-  ئۇيغۇر دوكتۇرلىرى</option>
+<option value="297">>> تىل ئۈگىنىش</option>
+<option value="52"> &nbsp;|- ئۇيغۇرتىلى</option>
+<option value="46"> &nbsp;|- خەنزۇتىلى</option>
+<option value="47"> &nbsp;|- ئىنگلىزتىلى</option>
+<option value="48"> &nbsp;|- روس تىلى</option>
+<option value="53"> &nbsp;|- ياپون تىلى</option>
+<option value="296">>> شىركەت ھەققىدە</option>
+<option value="160"> &nbsp;|- تەكلىپ-پىكىر بىرىڭ</option>
+<option value="238"> &nbsp;|- بېكەت ئىشخانىسى</option>
+<option value="336">>> چۈشۈرۈش</option>
+<option value="341"> &nbsp;|- فىلىم ئىشلەش- دېتاللىرى</option>
+<option value="345"> &nbsp;|- پروگرامما تۈزۈش دېتاللىرى</option>
+<option value="346"> &nbsp;|- تەرجىمىچىلىك دىتاللىرى</option>
+<option value="344"> &nbsp;|- ئاۋاز ئىشلەش- دېتاللىرى</option>
+<option value="349"> &nbsp;|- يېزىق بىر تەرەپ قىلىش دېتاللىرى</option>
+<option value="343"> &nbsp;|- رەسىم ئىشلەش- دېتاللىرى</option>
+<option value="350"> &nbsp;|- بىخەتەرلىك قوراللىرى</option>
+<option value="340"> &nbsp;|- توربەت دېتاللىرى</option>
+<option value="338"> &nbsp;|- قوللىنىشچان دېتاللار</option>
+<option value="337"> &nbsp;|- سىستېما دىتاللىرى</option>
+<option value="347"> &nbsp;|- ماتىرىياللار</option>
+<option value="348"> &nbsp;|- ئۇيغۇرچە دېتاللار</option>
+<option value="312">>> ئاۋازلىق ئەسەرلەر</option>
+<option value="324"> &nbsp;|- رېۋايەتلەر</option>
+<option value="325"> &nbsp;|- خەنزۇچە ئەسەرلەر</option>
+<option value="326"> &nbsp;|-  رومانلار</option>
+<option value="327"> &nbsp;|-  تارىخىي شەخسلەر ھەققىدە</option>
+<option value="323"> &nbsp;|-  چۆچەكلەر</option>
+<option value="313"> &nbsp;|- مەسەللەر</option>
+<option value="314"> &nbsp;|-  ھېكايىلەر</option>
+<option value="315"> &nbsp;|-  نەسىرلەر</option>
+<option value="316"> &nbsp;|-  مىڭ بىر كېچە</option>
+<option value="317"> &nbsp;|-  كەلىلە ۋە دېمىنە</option>
+<option value="1">>> مەسھۇلاتلىرىمىز</option>
+<option value="2"> &nbsp;|- ئەلالاشتۇرۇش</option>
+<option value="4"> &nbsp;|- بىلقۇت خەزىنىسى ھەققىدە</option>
+<option value="5">>> ئاۋازلىق ئەسەرلەر</option>
+<option value="245">>> رەسىم</option>
+<option value="259"> &nbsp;|- كومپيۇتېر لايىھىلىرى</option>
+<option value="249"> &nbsp;|- ماشىنا</option>
+<option value="260"> &nbsp;|- سىزما رەسىملەر</option>
+<option value="252"> &nbsp;|- بىناكارلىق</option>
+<option value="258"> &nbsp;|- كارتون رەسىملەر</option>
+<option value="246"> &nbsp;|- ھايۋاناتلار</option>
+<option value="308"> &nbsp;|- ھاشاراتلار</option>
+<option value="247"> &nbsp;|- قۇشلار</option>
+<option value="248"> &nbsp;|- ئۆسۈملۈكلەر</option>
+<option value="254"> &nbsp;|- ئۈستەل رەسىملىرى</option>
+<option value="250"> &nbsp;|- گۈل-گىياھلار</option>
+<option value="251"> &nbsp;|- دېڭىز جانلىقلىرى</option>
+<option value="253"> &nbsp;|- تەبىئەت مەنزىرىسى</option>
+<option value="255"> &nbsp;|- ھەربىي قورال ياراغلار</option>
+<option value="256"> &nbsp;|- يانفون رەسىملىرى</option>
+<option value="257"> &nbsp;|- قىزىقارلىق رەسىملەر</option>
+<option value="261"> &nbsp;|- ھەرخىل رەسىملەر</option>
+<option value="206">>> كۆڭۈل ئېچىش</option>
+<option value="207"> &nbsp;|- كىنو - فىلىم</option>
+<option value="208"> &nbsp;|- ناخشا - مۇزىكا</option>
+<option value="209"> &nbsp;|- يانفون مۇزىكىلىرى</option>
+<option value="227"> &nbsp;|- رەسىم</option>
+<option value="309"> &nbsp;|- سۇرەتلىك ناخشىلار</option>
+<option value="310"> &nbsp;|- قىزقارلىق كۆرنىش</option>
+<option value="311"> &nbsp;|- ئىتوت</option>
+<option value="16">>> كۇتۇپخانا</option>
+<option value="22"> &nbsp;|- مىڭ بىر كېچە</option>
+<option value="21"> &nbsp;|- چۆچەكلەر</option>
+<option value="24"> &nbsp;|- ئەپسانىلەر</option>
+<option value="105"> &nbsp;|- رېۋايەتلەر</option>
+<option value="20"> &nbsp;|- ھېكايىلەر</option>
+<option value="232"> &nbsp;|- شېئىر</option>
+<option value="23"> &nbsp;|- كەلىلە ۋە دېمىنە</option>
+<option value="85"> &nbsp;|- ماقال-تەمسىل</option>
+<option value="88"> &nbsp;|- نەسىرلەر</option>
+<option value="99"> &nbsp;|- لەتىپە-يۇمۇرلار</option>
+<option value="87"> &nbsp;|- مەسەللەر</option>
+<option value="174"> &nbsp;|- ھىكمەت</option>
+<option value="181"> &nbsp;|- نەسىھەت</option>
+<option value="17"> &nbsp;|- ماقالىلەر</option>
+<option value="18"> &nbsp;|- ياشلار سەمىگە</option>
+<option value="173"> &nbsp;|- تۇرمۇش مەسلىھەتچىسى</option>
+<option value="178"> &nbsp;|- نۇتۇقلار</option>
+<option value="172"> &nbsp;|- سۆيگۈ مەكتۇپى</option>
+<option value="175"> &nbsp;|- غارايىباتلار</option>
+<option value="19"> &nbsp;|- دۇنيادىكى ئەڭ</option>
+<option value="177"> &nbsp;|- قان تىپى</option>
+<option value="182"> &nbsp;|- مۆچەل</option>
+<option value="176"> &nbsp;|- مىللەتلەر</option>
+<option value="186"> &nbsp;|- بۈگۈن</option>
+<option value="170"> &nbsp;|- مۇزېي</option>
+<option value="189"> &nbsp;|- تارىخ</option>
+<option value="187"> &nbsp;|- دۇنيادىكى شەھەرلەر</option>
+<option value="195"> &nbsp;|- دۇنيادىكى دۆلەتلەر</option>
+<option value="188"> &nbsp;|- دۇنيادىكى كۇتۇپخانىلار</option>
+<option value="185"> &nbsp;|- ئۆلچەم بىرلىكلىرى</option>
+<option value="184"> &nbsp;|- مايلار</option>
+<option value="183"> &nbsp;|- مېۋە</option>
+<option value="180"> &nbsp;|- كۆكتاتلار</option>
+<option value="179"> &nbsp;|- ئۆسۈملۈكلەر</option>
+<option value="171"> &nbsp;|- ھايۋاناتلار</option>
+<option value="210">>> ئويۇنلار</option>
+<option value="211"> &nbsp;|- تور ئويۇنلىرى</option>
+<option value="212"> &nbsp;|- فىلەش ئويۇنلار</option>
+<option value="213"> &nbsp;|- زېھىن سىناش ئويۇنلىرى</option>
+<option value="25">>> بالىلار باغچىسى</option>
+<option value="159"> &nbsp;|- كىم ئەڭ ئەقىللىق</option>
+<option value="266"> &nbsp;|- پەرزەنت تەربىيىسى</option>
+<option value="26"> &nbsp;|- بالىلار چۆچەكلىرى</option>
+<option value="29"> &nbsp;|- يۈز مىڭلىغان نېمە ئۈچۈن؟</option>
+<option value="97"> &nbsp;|- بالىلار ھېكايىسى</option>
+<option value="98"> &nbsp;|- ئانا-بالىلار ساغلاملىق ساۋاتلىرى</option>
+<option value="30">>> بىز</option>
+<option value="244"> &nbsp;|- خەتتاتلىقىمىز</option>
+<option value="265"> &nbsp;|- تىل-يېزىقىمىز</option>
+<option value="32"> &nbsp;|- تائاملىرىمىز</option>
+<option value="33"> &nbsp;|- شەخسلىرىمىز</option>
+<option value="35"> &nbsp;|- ئويۇنلىرىمىز</option>
+<option value="34"> &nbsp;|- تېبابىتىمىز</option>
+<option value="36"> &nbsp;|- چالغۇلىرىمىز</option>
+<option value="37"> &nbsp;|- ھۈنەرلىرىمىز</option>
+<option value="31"> &nbsp;|- يوسۇنلىرىمىز</option>
+<option value="38"> &nbsp;|- تارىخمىز</option>
+<option value="126">>> يۇرتىمىز</option>
+<option value="127"> &nbsp;|- شەھەرلەر</option>
+<option value="128"> &nbsp;|- بىڭتۈەنلەر</option>
+<option value="129"> &nbsp;|- ناھىيلەر</option>
+<option value="130"> &nbsp;|- ۋىلايەتلەر</option>
+<option value="131"> &nbsp;|- ئاپتونوم ئوبلاست</option>
+<option value="132"> &nbsp;|- ئاپتونوم ناھىيە</option>
+<option value="39">>> ئۆگىنىش</option>
+<option value="41"> &nbsp;|- ماتېماتىكا</option>
+<option value="106"> &nbsp;|- يىزا-ئىگىلىك</option>
+<option value="107"> &nbsp;|- پسىخولوگىيە</option>
+<option value="108"> &nbsp;|- ئىقتىساد</option>
+<option value="143"> &nbsp;|- مۇھىت</option>
+<option value="40"> &nbsp;|- ئەدەبىيات</option>
+<option value="42"> &nbsp;|- جۇغراپىيە</option>
+<option value="43"> &nbsp;|- تارىخ</option>
+<option value="44"> &nbsp;|- فىزىكا</option>
+<option value="45"> &nbsp;|- خىمىيە</option>
+<option value="50"> &nbsp;|- ئاسترونومىيە</option>
+<option value="49"> &nbsp;|- بىئولوگىيە</option>
+<option value="89"> &nbsp;|- دېپلوماتىيە</option>
+<option value="90"> &nbsp;|- ئېلېكترون</option>
+<option value="91"> &nbsp;|- تەنتەربىيە</option>
+<option value="92"> &nbsp;|- مەتبەئەچىلىك</option>
+<option value="100"> &nbsp;|- گۈزەل- سەنئەت</option>
+<option value="54">>> كومپيۇتېر بىلىملىرى</option>
+<option value="86"> &nbsp;|- ئۇيغۇرچە يۇمشاق دېتاللار</option>
+<option value="109"> &nbsp;|- كومپيۇتېردىن سوئال-جاۋابلار</option>
+<option value="110"> &nbsp;|- توربەت ياساش</option>
+<option value="190"> &nbsp;|- كومپيۇتېر ئۇنىۋېرسال بىلىملىرى</option>
+<option value="229"> &nbsp;|- كومپىيۇتېر كاشىلىلىرى</option>
+<option value="55"> &nbsp;|- قاتتىق دېتال</option>
+<option value="56"> &nbsp;|- يۇمشاق دېتال</option>
+<option value="57"> &nbsp;|- مەشغۇلات سىستېمىسى</option>
+<option value="58"> &nbsp;|- توربىلىملىرى</option>
+<option value="239">>> ئىسلام دىنى</option>
+<option value="240"> &nbsp;|- ئىسلام دىنىدىن ساۋاتلار</option>
+<option value="243"> &nbsp;|- قۇرئان كەرىم تەرجىمىسى</option>
+<option value="241"> &nbsp;|- قۇرئان كەرىم</option>
+<option value="242"> &nbsp;|- ئىسلام دۇنياسى</option>
+<option value="267">>> IT ئۇچۇرلىرى</option>
+<option value="219"> &nbsp;|- يانفون ئۇچۇرلىرى</option>
+<option value="220"> &nbsp;|- رەقەملىك مەھسۇلاتلار</option>
+<option value="277"> &nbsp;|- TV كارتىسى</option>
+<option value="284"> &nbsp;|- كۆچمە دىسكا</option>
+<option value="282"> &nbsp;|- MP4-MP3</option>
+<option value="273"> &nbsp;|- كۆرسىتىش كارتىسى</option>
+<option value="275"> &nbsp;|- ئوپتىك قويغۇچ</option>
+<option value="290"> &nbsp;|- نۇسخا كۆپەيتكۈچ</option>
+<option value="268"> &nbsp;|- قاتتىق دىسكا</option>
+<option value="286"> &nbsp;|- نۇر دىسكا</option>
+<option value="278"> &nbsp;|- شامالدۇرغۇچ</option>
+<option value="272"> &nbsp;|- ئىچكى ساقلىغۇچ</option>
+<option value="293"> &nbsp;|- رەقەملىك ئاپپارات</option>
+<option value="283"> &nbsp;|- بارماق دىسكا</option>
+<option value="270"> &nbsp;|- ئاساسىي تاختا</option>
+<option value="271"> &nbsp;|- CPU</option>
+<option value="274"> &nbsp;|- ئوپتىك ئويغۇچ</option>
+<option value="276"> &nbsp;|- ئېكران</option>
+<option value="287"> &nbsp;|- قول كومپيۇتېر</option>
+<option value="279"> &nbsp;|- ئاۋز كارتىسى</option>
+<option value="280"> &nbsp;|- كونۇپكا تاختىسى</option>
+<option value="281"> &nbsp;|- مائۇس</option>
+<option value="285"> &nbsp;|- ئاساسىي ماشىنا قېپى</option>
+<option value="288"> &nbsp;|- ياڭراتقۇ</option>
+<option value="289"> &nbsp;|- نۇسخا ئالغۇ</option>
+<option value="291"> &nbsp;|- نۇسخا چىقارغۇچ</option>
+<option value="292"> &nbsp;|- قەغەز</option>
+<option value="294"> &nbsp;|- كامىرا</option>
+<option value="263">>> خەۋەرلەر</option>
+<option value="198"> &nbsp;|- خەلقئارا خەۋەرلەر</option>
+<option value="199"> &nbsp;|- شىنجاڭ خەۋەرلىرى</option>
+<option value="200"> &nbsp;|- مەملىكەت خەۋەرلىرى</option>
+<option value="196">>> ئۇچۇرلار</option>
+<option value="197"> &nbsp;|- ماشىنا ئۇچۇرلىرى</option>
+<option value="201"> &nbsp;|- خىزمەت ئۇچۇرى</option>
+<option value="202"> &nbsp;|- ئۆي ئۇچۇرلىرى</option>
+<option value="203"> &nbsp;|- ئىقتىسادىي ئۇچۇرلار</option>
+<option value="204"> &nbsp;|- پەن-تېخنىكا ئۇچۇرلىرى</option>
+<option value="205"> &nbsp;|- ئۇنىۋېرسال ئۇچۇرلار</option>
+<option value="161">>> مائارپ</option>
+<option value="353"> &nbsp;|- كەسپىي مائارىپ</option>
+<option value="352"> &nbsp;|- مائارىپ تارىخى</option>
+<option value="166"> &nbsp;|- مائارىپ تەشكىلاتلىرى</option>
+<option value="162"> &nbsp;|- بالىلار باغچىلىرى</option>
+<option value="165"> &nbsp;|- باشلانغۇچ مەكتەپلەر</option>
+<option value="163"> &nbsp;|- ئوتتۇرا مەكتەپلەر</option>
+<option value="169"> &nbsp;|- ئالىي مەكتەپلەر</option>
+<option value="168"> &nbsp;|- گېزىتلەر</option>
+<option value="167"> &nbsp;|- ژۇرناللار</option>
+<option value="214">>> خانىم - قىزلار      </option>
+<option value="215"> &nbsp;|- قىزلار پسىخىكىسى</option>
+<option value="216"> &nbsp;|- خانىم - قىزلار ساغلاملىقى</option>
+<option value="217"> &nbsp;|- گۈزەللىك بىلىملىرى</option>
+<option value="218"> &nbsp;|- ئەخلاق</option>
+<option value="221">>> ھەربىي ئىشلار</option>
+<option value="222"> &nbsp;|- جەڭ پاراخوتلىرى</option>
+<option value="223"> &nbsp;|- كۆرەشچى ئايروپىلانلار</option>
+<option value="224"> &nbsp;|- جان ئالغۇ مىلتىقلار</option>
+<option value="225"> &nbsp;|- سۇ ئاستى كېمىلەر</option>
+<option value="226"> &nbsp;|- قۇرۇقلۇق ئارمىيىلىرى</option>
+<option value="66">>> قانۇن - نىزاملار</option>
+<option value="144"> &nbsp;|- جىنايەت ۋە جازا</option>
+<option value="264"> &nbsp;|- قانۇندىن مەسلىھەت</option>
+<option value="95"> &nbsp;|- قانۇنلار</option>
+<option value="94"> &nbsp;|- نىزاملار</option>
+<option value="191">>> ئۇنىۋېرسال</option>
+<option value="192"> &nbsp;|- ئۇنىۋېرسال سەھىپە</option>
+<option value="234">>> ۋاكالەتچىللىرىمىز</option>
+<option value="233">>> كىتابخانا</option>
+<option value="307"> &nbsp;|- مىللەتلەر (بېيجىڭ) نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="300"> &nbsp;|- شىنجاڭ ياشلار - ئۆسمۈرلەر نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="306"> &nbsp;|- قەشقەر ئۇيغۇر نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="302"> &nbsp;|- شىنجاڭ ئېلېكترون، ئۈن - سىن نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="298"> &nbsp;|- شىنجاڭ مائارىپ نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="303"> &nbsp;|- شىنجاڭ پەن - تېخنىكا نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="299"> &nbsp;|- شىنجاڭ خەلق نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="301"> &nbsp;|- شىنجاڭ گۈزەل - سەنئەت نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="304"> &nbsp;|- شىنجاڭ خەلق سەھىيە نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="305"> &nbsp;|- شىنجاڭ ئۇنىۋېرسىتېتى نەشرىياتىنىڭ كىتابلىرى</option>
+
+		</select>
+		</form>
+		</td>
+	</tr>
+</table></div>
+<div class="t3"><table cellspacing="0" cellpadding="0" width="100%" align="center">
+	<tr valign="top">
+		<td align="right" dir="ltr"></td>
+	<td style="text-align:left;padding-top:5px"><a href="post.php?fid=201"><img src="images/wind/post.gif" border="0" id="td_post1" /></a></td>
+	</tr>
+</table></div>
+
+<center>
+<img src="images/wind/thread/topicnew.gif" /> ئۇچۇق تىما <img src="images/wind/thread/topichot.gif" /> ئاۋات تىما <img src="images/wind/thread/topiclock.gif" /> قۇلۇپلانغان تىما <img src="images/wind/thread/topicclose.gif" /> تاقاق تىما <img src="images/wind/thread/vote.gif" /> بېلەتلىك تىما <img src="images/wind/thread/votelock.gif" /> تاقاق بېلەتلىك تىما
+</center><br />
+<script language="JavaScript">
+var ifcheck = true;
+var fid = '201';
+function CheckAll(form){
+	for(var i=0;i<form.elements.length-12;i++){
+		var e = form.elements[i];
+		if(e.type=='checkbox') e.checked = ifcheck;
+	}
+	ifcheck = ifcheck == true ? false : true;
+}
+function Fjump(value){
+	if(value!=''){
+		window.location=('https://uyghur-archive.com/bilqut/bbs/thread.php?fid='+value);
+	}
+}
+function Ajump(value){
+	if(value!= ''){
+		window.location=('https://uyghur-archive.com/bilqut/bbs/profile.php?action=show&username='+value);
+	}
+}
+var totalpage=1;
+var page=1;
+if(totalpage > 1){
+	document.onkeydown=function(e){
+		var e = is_ie ? window.event : e;
+		var tagname = is_ie ? e.srcElement.tagName : e.target.tagName;
+		if(tagname == 'INPUT' || tagname == 'TEXTAREA'){
+			return;
+		}
+		actualCode = e.keyCode ? e.keyCode : e.charCode;
+		if(actualCode == 39 && page<totalpage) {
+			window.location = 'thread.php?fid=201&search=&page=' + (page+1);
+		}
+		if(actualCode == 37 && page>1){
+			window.location = 'thread.php?fid=201&search=&page=' + (page-1);
+		}
+	}
+}
+</script>
+<script type="text/javascript" language="JavaScript" src="js/pw_ajax.js"></script>
+﻿
+</div>
+<div id="bottom"></div><br />
+<center class="gray">
+<div align="center" style="color:red">
+ﺋﻪﺳﻜﻪﺭﺗﯩﺶ : ﺗﻮﺭ ﺑﯧﻜﯩﺘﯩﻤﯩﺰﺩﻩ ﯞﻩﻣﯘﻧﺒﯩﺮﯨﻤﯩﺰﺩﻩ ﺩﯙﻟﻪﺗﻨﯩﯔ ﺗﯜﺭﻟﯜﻙ ﻗﺎﻧﯘﻥ - ﺳﯩﻴﺎﺳﻪﺕ ﭘﻪﺭﻣﺎﻧﻠﯩﺮﯨﻐﺎ ﺧﯩﻼﭖ ﻣﺎﻗﺎﻟﯩﻠﻪﺭ ﯞﻩ ﻳﻮﻟﻼﻧﻤﯩﻼﺭﻧﻰ ، ﺳﯜﺭﻩﺗﻠﻪﺭﻧﻰ ﻳﻮﻟﻼﺷﻘﺎ ﺑﻮﻟﻤﺎﻳﺪﯗ. <br />ﺑﯚﻟﮕﯜﻧﭽﯩﻠﯩﻚ ، ﻗﯘﺗﺮﺍﺗﻘﯘﻟﯘﻕ ﺧﺎﺭﺍﻛﺘﺮﯨﺪﯨﻜﻰ ﻣﺎﻗﺎﻟﯩﻠﻪﺭﻧﻰ ﻳﻮﻟﻠﯩﻐﺎﻥ ﺋﺎﭘﺘﻮﺭﻻﺭ ﺋﺎﻗﯩﯟﯨﺘﯩﮕﻪ ﺋﯚﺯﻯ ﻣﻪﺳﺌﯘﻝ ﺑﻮﻟﯩﺪﯗ . ﺗﻮﺭ ﭘﻮﻧﻜﯩﺘﯩﻤﯩﺰ ﮬﯧﭽﻘﺎﻧﺪﺍﻕ ﻣﻪﺳﺌﯘﻟﯩﻴﻪﺗﻨﻰ ﺋﯜﺳﺘﯩﮕﻪ ﺋﺎﻟﻤﺎﻳﺪﯗ . ﺋﯚﺯ ﺗﻮﺭ ﻣﻪﺩﻩﻧﯩﻴﺘﯩﻤﯩﺰﻧﯩﯔ ﺳﺎﻏﻼﻡ ﺗﻪﺭﻩﻗﻘﯩﻲ ﻗﯩﻠﯩﺸﻰ ﯞﻩ ﺗﻮﺳﺎﻟﻐﯘﺳﯩﺰ ﺋﯩﻠﮕﯩﺮﻟﯩﺸﻰ ﺋﯜﭼﯜﻥ ﺑﯘ ﻣﯘﻧﺒﻪﺭﻧﻰ ﺋﯚﺯ ﻛﯚﺯ ﻗﺎﺭﭼﯘﻗﯩﯖﯩﺰﺩﻩﻙ ﺋﺎﺳﺮﯨﺸﯩﯖﯩﺰﻧﻰﺋﯜﻣﯩﺪ ﻗﯩﻠﯩﻤﯩﺰ. <br />ﻛﯧﻴﯩﻨﻜﻰ ﭘﯘﺷﺎﻳﻤﺎﻥ ، ﺋﯚﺯﯛﯕﮕﻪ ﺩﯛﺷﻤﻪﻥ . ﻣﯩﻠﻠﻪﺗﻨﻰﺳﯚﻳﮕﯜﭼﯩﻠﻪﺭ ﺋﯚﺯ ﻧﻪﺭﺳﯩﺴﯩﻨﻰ ﻗﻪﺩﯨﺮﻟﻪﻳﺪﯗ .<br /><br />ئاخىرىدا ھەربىر كۈنىڭىزنىڭ خۇشاللىق تىلەيمىز !</div>
+<p><p>
+
+<script language="javascript" src="https://count32.51yes.com/click.aspx?id=320168560&logo=1"></script>
+&nbsp;&nbsp;&nbsp; <script src='https://s78.cnzz.com/stat.php?id=866085&web_id=866085&show=pic1' language='JavaScript' charset='gb2312'></script>
+<br /><small><span id="windspend">Total 0.059890(s) query 2, Time now is:10-22 12:56, Gzip disabled</span> <br />
+</center><br />
+<center>Uyghur Version Powered by Sazgur & RaZiMan Code &copy; 2007-2008 <a href="https://www.uyghur-archive.com/bilqut/" target="_blank"><b style="color:#FF9900">uyghur-archive.com/bilqut</b></a> Corporation</center><div id="footer">
+	<span class="f12 fl"></span><a href="https://www.phpwind.net/sendemail.php?username=fengyu">Contact us</a> | <a href="wap/index.php">Wap</a> | <a href="javascript:scroll(0,0)">Top</a>
+</div>
+</div>
+</body></html>
+<script language="JavaScript" src="js/global.js"></script>
+<script language="JavaScript">
+var openmenu = {'td_hack' : 'menu_hack','td_skin' : 'menu_skin','td_sort' : 'menu_sort','td_msg' : 'menu_msg','td_profile' : 'menu_profile','td_post' : 'menu_post','td_post1' : 'menu_post'};
+read.InitMenu();
+</script>
+<script language="JavaScript" src="https://init.phpwind.com/init.php?sitehash=10AVJVB1VVA1NeUwFXCQNQAVMNBQZWAFEOBwQHVVAGBVg&v=6.0&c=0"></script>

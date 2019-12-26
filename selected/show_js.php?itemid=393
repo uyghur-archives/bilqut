@@ -1,0 +1,3 @@
+﻿try {setidval('hits','570');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/qanun/show.php?itemid=390">ئوتتۇرا، كىچىك كارخانىلارنىڭ تەرەققىياتىنى تېزلىتىش قانۇنى</a></li><li>  كىيىنكىسى  :  <a href="/qanun/show.php?itemid=392">سودىيىلەر قانۇنى</a></li>');}catch(e){}

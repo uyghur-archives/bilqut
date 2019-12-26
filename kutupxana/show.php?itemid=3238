@@ -1,0 +1,371 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>تارىختىكى بۈگۈن (5.3)-كۇتۇپخانا-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,كۇتۇپخانا">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/kutupxana/" class="red"> كۇتۇپخانا</a>
+         | <a class="razimantur" href="/kutupxana/list.php?catid=43" >ھېكايىلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=44" > شېئىر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=45" > كەلىلە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=46" > نەسىرلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=47" > يۇمۇرلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=48" > ھىكمەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=49" > نەسىھەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=50" > ماقالىلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=51" > ياشلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=52" > تۇرمۇش </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=53" > نۇتۇقلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=54" >مەكتۇب  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=55" >غارايىبات</a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=56" > دۇنيادا ئەڭ  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=57" >قان تىپى </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=58" > مۆچەل  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=59" > مىللەتلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=60" > بۈگۈن  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=61" >مۇزېي </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=62" >تارىخ </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=63" >شەھەرلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=64" >دۆلەتلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=65" >كۇتۇبخانىلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=66" >مايلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=67" >مېۋە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=68" >كۆكتاتلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=69" >ئۆسۈملۈكلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=70" > ھايۋاناتلار  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/kutupxana/">كۇتۇپخانا</a> >> <a href="/kutupxana/list.php?catid=60"> بۈگۈن  </a> >>  تارىختىكى بۈگۈن (5.3)</div>
+<!--主标题--><h1>تارىختىكى بۈگۈن (5.3) </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-05-03 11:45:31&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">51</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<img src="/raziman_img/bash/reng/reng_1.gif" id="img1" style="cursor:hand;"  onclick="conhat(1)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_2.gif" id="img2" style="cursor:hand;"  onclick="conhat(2)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_3.gif" id="img3" style="cursor:hand;"  onclick="conhat(3)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_4.gif" id="img4" style="cursor:hand;"  onclick="conhat(4)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_5.gif" id="img5" style="cursor:hand;"  onclick="conhat(5)">&nbsp;&nbsp;                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut"> جىنەننى قانغا بوياش 
+ 1928 - يىلى بۈگۈنكى كۈندە، شەندۇڭ ئۆلكىسىنىڭ جىنەن شەھىرىدە پۈتۈن مەملىكەتنى زىلزىلىگە كەلتۈرگەن &gt;3 - ماي&lt; پاجىئەسى يۈز بەرگەن. بۇ، ياپون جاھانگىرلىكى جۇڭگو خەلقىغە بوغۇلغان يەنە بىر قان قەرز بولۇپ ھېسابلىنىدۇ.
+ئەينى ۋاقىتتا، جياڭ جيېشى ئەنگىلىيە ۋە ئامېرىكا جاھانگىرلىرىنىڭ قوللىشى ئاستىدا، ئەسكەر چىقىرىپ مىلتارىست جاڭ زولىنغا ھۇجۇم قىلىدۇ. جاڭ زولىنغا ئارقا تىرەك بولغان ياپون جاھانگىرلىكى ئەنگىلىيە ۋە ئامېرىكا پەرەست كۈچلەرنىڭ شىمالغا كېڭىيىپ ئۆز مەنپەئىتىگە چاڭ سېلىشىدىن قورقىدۇ، شۇنىڭ بىلەن ياپون مۇھاجىرلىرىنى قوغداشنى باھانە قىلىپ، ئۆز قوشۇنلىرىنى جىنەن شەھىرىگە كىرگۈزۈپ، جياڭ جيېشىنىڭ شىمالغا يۈرۈش قىلىشىغا توسقۇنلۇق قىلىدۇ.
+5 - ئاينىڭ 3 - كۈنى، ياپون قوشۇنلىرى پىلىموت ۋە زەمبىرەكلەر بىلەن جىنەن شەھىرىدىكى ھەربى ۋە خەلقلەرنى ۋەھشىلىك بىلەن قىرغىن قىلىدۇ، شۇنىڭدەك يەنە گومىنداڭ ھۆكۈمىتىنىڭ شەندۇڭدا تۇرۇشلۇق پەۋقۇلئاددە ئالاقىچىسى سەي گۇڭشى تۇرۇشلۇق جايغا بېسىپ كىرىپ، سەي گۇڭشىنىڭ قۇلاق - بۇرنىنى كېسىپ تاشلايدۇ، ئاندىن ئۇنى ئۆلتۈرۈۋېتىدۇ.
+جياڭ جيېشى بۇيرۇق چۈشۈرۈپ قارشىلىق كۆرسىتىشكە يول قويمايدۇ ھەم جۇڭگو قوشۇنلىرىنى جىنەندىن چىكىندۈرۈپ چىقىدۇ. ياپون قوشۇنلىرى جىنەندە غالجىرلىق بىلەن ئوت قويۇش، قىرغىن قىلىش، بۇلاڭ - تالاڭ قىلىشنى يولغا قويۇپ، قولىدىن كەلگەن ھىن، ياشلار&gt;ۋەتەن ساتقۇچلارنى يوقىتايلى&lt;دېگەن شۇئارنى ياڭراتقان ھالدا كوچا نامايىشى ئۆتكۈزۈپ، جاۋجيالۇ كوچىسىغا كېلىدۇ - دە، ياپونىيىنىڭ بۇ يەردە تۇرۇشلۇق ئەلچىخانىسىغا كىرىۋالغان جاڭ زۇڭشياڭنىڭ قاتتىق دەككىسىنى بېرىدۇ، ئاندىن يەنە قاتناش باش ۋازىرى ساۋرۇلىن تۇرۇشلۇق بىنانى ئوت قويۇپ كۆيدۈرۈۋېتىدۇ. بۇ چاغدا، ئەكسىيەتچى ھەربىي ساقچىلار يېتىپ كېلىپ، 39 كىشىنى قولغا ئالىدۇ. ئەتىسىدىن باشلاپ، جاھانگىرلىككە قارشى تۇرۇپ، ۋەتەننى سۆيۈشتىن ئىبارەت بۇ ئۇلۇغ ھەركەت پۈتۈن مەملىكەت مىقياسىدا جۇش ئۇرۇپ قانات يايىدۇ. مىلتارىست ھۆكۈمەت ساراسىمىگە چۈشۈپ، قولغا ئېلىنغان ئوقۇغۇچىلارنى قويۇپ بېرىشكە ۋە ساۋرۇلىن، جاڭ زۇڭشياڭ، لوزۇڭيۈ قاتارلىق ئۈچ ۋەتەن ساتقۇچنى ۋەزىپىسىدىن ئېلىپ تاشلاشقا مەجبۇر بولىدۇ، شۇنىڭ بىلەن بىر ۋاقىتتا يەنە، پارىژدىكى &gt;تىنچلىق يىغىنى&lt;غا قاتناشقان ۋەكىللەرگە ئاتالمىش تىنچلىق كېلىشىمىگە ئىمزا قويۇشنى رەت قىلىش توغرىسىدا ئۇقتۇرۇش قىلىدۇ.
+&gt;4 - ماي&lt; ھەرىكىتى - جاھانگىرلىككە، فېئودالىزىمغا قارشى ئۇلۇغ ھەركەت. بۇ ھەركەتتىن باشلاپ، جۇڭگو ئىنقىلابى يېڭى تارىخي دەۋرگە - يەنى يېڭى دېموكراتىزىمچىلىق ئىنقىلابىي دەۋرىگە قەدەم باستى.
+*بۈگۈن، يەنە يۈگۈسلاۋىيە خەلقىنىڭ ئۇلۇغ داھىيسى تىتو ۋاپات بولغان كۈن(1980 - يىل).
+</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3241" title="تارىختىكى بۈگۈن (6.1)"  target="_blank" class="tag_title_link">تارىختىكى بۈگۈن (6.1)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3240" title="تارىختىكى بۈگۈن (5.30)"  target="_blank" class="tag_title_link">تارىختىكى بۈگۈن (5.30...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3239" title="تارىختىكى بۈگۈن (5.29)"  target="_blank" class="tag_title_link">تارىختىكى بۈگۈن (5.29...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3238" title="تارىختىكى بۈگۈن (5.3)"  target="_blank" class="tag_title_link">تارىختىكى بۈگۈن (5.3)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3237" title="تارىختىكى بۈگۈن (5.1)"  target="_blank" class="tag_title_link">تارىختىكى بۈگۈن (5.1)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3236" title="تارىختىكى بۈگۈن 4.30"  target="_blank" class="tag_title_link">تارىختىكى بۈگۈن 4.30</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3235" title="تارىختا بۈگۈن 4.29"  target="_blank" class="tag_title_link">تارىختا بۈگۈن 4.29</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3234" title="تارىختا بۈگۈن 4.28"  target="_blank" class="tag_title_link">تارىختا بۈگۈن 4.28</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3233" title="تارىختا بۈگۈن 4.27"  target="_blank" class="tag_title_link">تارىختا بۈگۈن 4.27</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3232" title="تارىختا بۈگۈن 4.24"  target="_blank" class="tag_title_link">تارىختا بۈگۈن 4.24</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3231" title="تارىختا بۈگۈن 4.23"  target="_blank" class="tag_title_link">تارىختا بۈگۈن 4.23</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3230" title="تارىختىكى بۈگۈن (4.22)"  target="_blank" class="tag_title_link">تارىختىكى بۈگۈن (4.22...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3229" title="تارىختىكى بۈگۈن (4.21)"  target="_blank" class="tag_title_link">تارىختىكى بۈگۈن (4.21...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3228" title="تارىختىكى بۈگۈن (4.20)"  target="_blank" class="tag_title_link">تارىختىكى بۈگۈن (4.20...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3227" title="تارىختىكى بۈگۈن (4.19)"  target="_blank" class="tag_title_link">تارىختىكى بۈگۈن (4.19...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3226" title="تارىختىكى بۈگۈن (4.18)"  target="_blank" class="tag_title_link">تارىختىكى بۈگۈن (4.18...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3225" title="تارىختىكى بۈگۈن (4.17)"  target="_blank" class="tag_title_link">تارىختىكى بۈگۈن (4.17...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3224" title="تارىختىكى بۈگۈن (4.16)"  target="_blank" class="tag_title_link">تارىختىكى بۈگۈن (4.16...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3223" title="تارىختىكى بۈگۈن (4.15)"  target="_blank" class="tag_title_link">تارىختىكى بۈگۈن (4.15...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3222" title="تارىختىكى بۈگۈن (4.14)"  target="_blank" class="tag_title_link">تارىختىكى بۈگۈن (4.14...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/kutupxana/search.php?catid=60&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3241" title="تارىختىكى بۈگۈن (6.1)"  target="_blank" class="tag_title_link">تارىختىكى بۈگۈن (6.1)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3240" title="تارىختىكى بۈگۈن (5.30)"  target="_blank" class="tag_title_link">تارىختىكى بۈگۈن (5.30)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3239" title="تارىختىكى بۈگۈن (5.29)"  target="_blank" class="tag_title_link">تارىختىكى بۈگۈن (5.29)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3238" title="تارىختىكى بۈگۈن (5.3)"  target="_blank" class="tag_title_link">تارىختىكى بۈگۈن (5.3)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3237" title="تارىختىكى بۈگۈن (5.1)"  target="_blank" class="tag_title_link">تارىختىكى بۈگۈن (5.1)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3236" title="تارىختىكى بۈگۈن 4.30"  target="_blank" class="tag_title_link">تارىختىكى بۈگۈن 4.30</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3235" title="تارىختا بۈگۈن 4.29"  target="_blank" class="tag_title_link">تارىختا بۈگۈن 4.29</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3234" title="تارىختا بۈگۈن 4.28"  target="_blank" class="tag_title_link">تارىختا بۈگۈن 4.28</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3233" title="تارىختا بۈگۈن 4.27"  target="_blank" class="tag_title_link">تارىختا بۈگۈن 4.27</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3232" title="تارىختا بۈگۈن 4.24"  target="_blank" class="tag_title_link">تارىختا بۈگۈن 4.24</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/kutupxana/show_js.php?itemid=3238"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

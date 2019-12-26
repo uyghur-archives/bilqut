@@ -1,0 +1,5 @@
+﻿try {setidval('hits','1991');}catch(e){}
+try {setidval('totaldowns','1391');}catch(e){}
+try {setidval('todaydowns','1');}catch(e){}
+try {setidval('weekdowns','1');}catch(e){}
+try {setidval('monthdowns','1');}catch(e){}try {setidval('commentnumber','0');}catch(e){}

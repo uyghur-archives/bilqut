@@ -1,0 +1,3 @@
+﻿try {setidval('hits','1418');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/kompiyotir/show.php?itemid=470">چاقماق(迅雷)نىڭ تىرىسىنى ھەقسىز ئىشلىتىش</a></li><li>  كىيىنكىسى  :  <a href="/kompiyotir/show.php?itemid=472">qqمۇلازىمەتلىرى بەلگىسىنى ياندۇرۇش ئۇسۇلى</a></li>');}catch(e){}

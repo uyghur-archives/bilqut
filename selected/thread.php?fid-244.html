@@ -1,0 +1,927 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title> خەتتاتلىقىمىز - بىلقۇت باغچىسى  - powered by phpwind.net</title>
+<meta name="keywords" content=" خەتتاتلىقىمىز,phpwind" />
+<meta name="description" content="" />
+<link rel='archives' title='بىلقۇت باغچىسى' href='https://bilqut.com/bbs/simple' />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://bilqut.com/bbs/rss.php?fid=244" />
+<base id="headbase" href="https://bilqut.com/bbs/" />
+<!--﻿
+<!--css-->
+<style type="text/css">
+body,p,input,td,tr,input,textarea,htmlarea,menu,atc_content,menu_editor,content,mm_content,atc_tags,div,span,select,a
+{font-family:Ukij tuz Tom;}
+@font-face{font-family: Ukij tuz Tom; src: url(https://bilqut.com/UKIJTUZ0.eot);}
+body{  font-size:12pt; background:url(images/wind/bodybg.gif) repeat-x ; font-family:Ukij tuz Tom; color:#333}
+body{background:#40B1DB;}
+div {direction:rtl;}
+h1,h2,h3,h4,h5,h6,form,body{padding:0;margin:0}
+/*td,th,div{word-break:break-all;word-wrap:break-word}*/
+img{border:0}
+h3,h2{display:inline;font-size:1.0em;}
+h3{font-weight:normal}/*h3 文章列表页文章标题*/
+h2 a{color:#000;}/*h2 板块列表页板块名称标题*/
+h3 a{color:#163377;margin-right:.5em;}
+h4{margin:20px 0 10px;font-size:1.1em}
+th{ font-weight:normal;}
+strong{font-weight:normal}
+.c{clear:both;height:0px;font:0px/0px Arial;}
+.cc{ zoom:1; overflow:hidden;_overflow:inherit}
+.b{ font-weight:normal}
+.w{white-space:nowrap}
+.tal{text-align:left}
+.tac{text-align:center}
+.tar{text-align:right}
+.fr{float:right}
+.fl{float:left}
+/*a link 基本连接颜色*/
+a{text-decoration:none;color:#163377}
+a:hover{ color:#FF6633;text-decoration:none}
+/*字体大小*/
+.f9{font-size:12pt;}
+.f10{font-size:12pt;}
+.f12{font-size:12pt;}
+.f14{font-size:12pt;}
+.fn,.fn a{font-weight:normal}
+/*span color 数值自定义*/
+.s0{color:#333}
+.s1{color:#008000;}
+.s2{color:#984B98;}
+.s3{color:#FA891B;}
+.s4{color:#0033FF;}
+.s5{color:#659B28}
+.s7{color:#ff00a2;}
+.s8,.s8 a{color:#006699;}
+.gray,.gray a{color:#888;} /*次要文字颜色-可定义*/
+.gray3{color:#777;}
+.gray2{color:#777;}
+.link5{ color:#006AAA}
+/*main color 数值自定义*/
+.f_one,.t_one,.r_one{background:#fff;}
+.f_two,.t_two,.r_two{background:#dff6ff;}
+/*按钮*/
+.abtn{cursor:pointer;border:1px solid #c7e1ef;color:#163377;padding:2px 8px 2px; font-family:Ukij tuz Tom;background:#fff;margin:2px;white-space:nowrap;}
+.abtn:hover{border:1px solid #C7E1EF;text-decoration:none;}
+.btn{cursor:pointer;color:#fff;background:#80d1fb url(images/wind/bg.png) 0 top repeat-x;border-width:1px;padding-left:15px;padding-right:15px;vertical-align:middle;border: 1px solid #3490c1;}
+.btn2{cursor:pointer;border: 1px solid #c7e1ef;background:#dff6ff;border-width:1px;padding-left:5px;padding-right:5px;vertical-align:middle;color:#555;white-space:nowrap;}
+.btn2:hover{border:1px solid #C7E1EF;color:#0070AF;}
+.btn3{margin-left:2em;vertical-align:middle;cursor:pointer;text-decoration:underline;white-space:nowrap;}
+/*form*/
+textarea,input,select{font:12pt Ukij tuz Tom;padding:1px 3px 0 3px;vertical-align:middle;margin-bottom:1px}
+select{border:solid 1px #c7e1ef;}
+.input{border: 1px solid; border-color: #c0c0c0 #ededed #ededed #c0c0c0;padding:2px 0px 2px 1px;font-size:1.0em;vertical-align:middle;color:#000;}
+form{display:inline;}
+textarea{border: 1px solid; border-color: #c0c0c0 #ededed #ededed #c0c0c0;}
+/*全局布局自上而下*/
+#wrapA{ width:100%; margin:auto; max-width:1250px} /* 包含头部与中间 */
+#header{width:99%;margin:auto;}/*头部*/
+#main{width:99%;margin: auto; padding:1px 0 0} /*中间*/
+#footer{background:#fff url(images/wind/menubg.gif) 0 1px repeat-x;border-top:1px solid #c7e1ef;border-bottom:3px solid #a9d5e9;}/*底部*/
+.footer{width:99%;text-align:right;margin:auto;padding:.8em 0 .3em;}
+/*自定义导航*/
+#toptool{ padding:.5em 1em; text-align:right; line-height:100%;border-bottom:1px solid #eee;}
+.listinline{ padding:0; margin:0; list-style:none;}
+.listinline li{ padding:0 .7em; border-right:1px solid #eee; display:inline;}
+/*banner*/
+.banner img{vertical-align:middle;}
+/*top-logo下导航背景*/
+#mainNav{background:url(images/wind/bg.png) 0 -300px repeat-x #0082C1;position:relative;_height:30px}
+/*guide*/
+.guide { margin:0; list-style:none; padding:5px 1em 0; float:left}
+.guide li{ float: left; margin:0; padding:0}
+.guide li a{ float:left; padding:0 .6em; color:#fff; line-height:22px;*line-height:23px; height:25px;*word-wrap:normal;*white-space:nowrap}
+.guide li.drop-item a{ padding-right:1.2em; background:url(images/wind/drop-icon.gif) no-repeat right .7em}
+.guide li a:hover{ background-color:#4598C6; text-decoration:none; color:#fff}
+.guide li.current a{ background-color:#006AAA; font-weight:normal; border:1px solid #4598C6; border-bottom:0}
+/*top信息开关*/
+#one-key {position:absolute;right:.6em; bottom:-1px; _bottom:-2px;width:32px; height:20px; cursor:pointer}
+.one-hidden {background:url(images/wind/infobox_13.png) 0 top no-repeat; }
+.one-show {background:url(images/wind/infobox_13.png) 0 bottom no-repeat;}
+/*top用户名*/
+#user-login{ padding-right:50px; color:#fff; padding-bottom:.2em}
+#user-login a{margin-right:.5em;}
+/*index info*/
+#profile-menubar{border:#c7e1ef 1px solid;margin-top:-.6em;background:url(images/wind/bg.png) 0 -400px repeat-x #E1F6F9;}
+#infobox{ border-top:0; background:#fff url(images/wind/bg.png) 0 -400px  repeat-x;}
+#infobox td{ vertical-align:top}
+/*收藏板块*/
+#fav-fid{ line-height:150%; padding-right:15px;}
+#fav-fid ul{ padding:0; margin:0 0 0 0; color:#aaa;}
+#fav-fid li{float:right;*word-wrap:normal;*white-space:nowrap;padding:0; margin:0; padding-right:1em;list-style:none;background:url(images/wind/fav-fid.gif) right no-repeat;}
+/*top签名*/
+#honor {color:#333;line-height:1.3em; padding:.2em 0 0 .1em;}
+/*通用公告框*/
+#breadcrumbs{ margin-top:8px;overflow:hidden;border:1px solid #c7e1ef; height:28px; padding:0 1em 0 0;background:url(images/wind/menubg.gif) repeat-x #EFFCFE;line-height:27px;*line-height:26px; text-align:right;}
+#breadcrumbs .crumbs-item{ overflow:hidden; height:28px; padding:0 1.3em 0 1.3em;background:url(images/wind/breadcrumbs-item.gif) left top no-repeat; float:right; position:relative ; margin-right:-7px;}
+#breadcrumbs .crumbs-item .strong{color:#60afe6;*line-height:29px;_line-height:29px;}
+#breadcrumbs .crumbs-item  i { position:absolute; height:28px; width:7px; right:0px; top:0} 
+#breadcrumbs .crumbs-item:hover i{ background:url(images/wind/breadcrumbs-item.gif) left bottom no-repeat;}
+#breadcrumbs .crumbs-item:hover{ background-color: #EFF9C8;text-decoration:none}
+#notice{padding:.3em 0;height:18px;}
+#notice a{padding-left:1em; background:url(images/wind/dotB.png) no-repeat 0 .2em; margin-left:1em}
+/*table*/
+.usti .b{border:1px solid #C7E1EF;}
+.t{border:1px solid #C7E1EF;border-top:0px solid #C7E1EF;margin:0 auto 8px; height:auto; overflow:hidden;}
+.t table{border:0px solid #fff;margin:0; width:100%;border-top:none;}
+.t2{border-top:#C7E1EF 1px solid;margin:0px auto 5px;}
+.t3{margin:4px auto 3px;}
+.t3 table{padding:0px;}
+.t4{padding:0px;}
+.t5{border:1px solid #c7e1ef;margin:0 auto 8px; height:auto; overflow:hidden;}
+/*table head*/
+.h{background:url(images/wind/bg.png) 0 -300px repeat-x #0082C1;text-align:right;color:#fff;padding:1px .2em; line-height:180%;}
+.h span{font-weight:normal;}
+.h h2{font-weight:normal}
+.h a{font-family:Ukij tuz Tom;color:#fff}
+.h a:hover{color:#FFF; text-decoration:none}
+.h span a,.h span{color:#163377;}
+.h a.a2{margin-right:12px;}
+.h2{background:url(images/wind/bg.png) 0 -300px repeat-x #0082C1;text-align:right;color:#fff;padding:1px .5em 0; line-height:180%;}
+.h2 a{color:#fff;}
+.h3{border-bottom:1px solid #a9d5e9;background:#e1f2fa;text-align:left;color:#fff;line-height:24px;padding-right:8px;}
+.h3 a{font-family:Ukij tuz Tom;color:#163377;}
+.closeicon{margin-top:.3em}
+.cate_fold{padding:0 5px 0 5px;margin-bottom:2px;text-decoration:none;}
+.cate_fold:hover{text-decoration:none;}
+/* tab */
+.tab{float:left;padding:0 .8em 0;border:1px solid #fff;background:#a9d5e9;border-bottom:0;line-height:200%;margin-top:3px;cursor:pointer;margin:2px 0;}
+.h span.activetab{border-color:#C7E1EF;cursor:default;font-weight:700}
+/*table tr1*/
+.tr1 th{padding:5px 10px;text-align:right;vertical-align:top;font-weight:normal;}
+.tr1 td.td1{border-bottom:1px solid #c7e1ef;}
+/*table tr2*/
+.tr2{background:#f2f9ff url(images/wind/bg.png) 0 -200px repeat-x;color:#163377;}
+.tr2 td,.tr2 th{line-height:18px;border-bottom:1px solid #c5d8e8;padding:2px 6px;*padding:4px 6px 1px;}
+.tr2 a{color:#163377;margin:0 2px 0}
+/*table tr3*/
+.tr3{ line-height:130%;}
+.tr3 td,.tr3 th{border-bottom:1px solid #c7e1ef;padding:.3em .6em;}
+.tr3 th{text-align:right;font-weight:normal;}
+.z .tr3:hover{background:#dff6ff;}
+.tr4{background:url(images/wind/bg.png) 0 -300px repeat-x #0082C1;text-align:right;color:#fff;padding:1px .5em 0; line-height:180%;}
+.tr td,.tr th{padding:2px}
+/*浏览页*/
+h1{font-size:12pt;margin:0; font-weight:normal;}
+.h1{color:#008ef1;margin:0 0 1em 0;} /*主题*/
+.honor{line-height:130%;padding:3px 8px 5px;overflow:hidden;color:#777;}
+.tpc_content{font-size:20pt;font-family:Ukij tuz Tom;padding:0 2em 2em 2em;margin:0;line-height:2em; text-align:justify;}
+.tpc_content font{line-height:1em;}
+.tpc_content a{text-decoration:none;color:#0070AF;}
+.tpc_content a:hover{text-decoration:none}
+.tips{background:#fff;border:#c5d8e8 1px solid;padding:5px;margin:0 1% 1em 0;float:right;text-align:right;}
+.tiptop{border-bottom:1px dotted #ccc ;padding:0 0 0 1px;height:27px;line-height:27px;margin:0 1em 1em 1em;}
+.tipad{margin:2em 1em 0 1em;padding-bottom:1em;}
+.tipad .fr a{color:#333;}
+.quote{width:80%;font-size:70%;color:#333;margin:8px 2px 2px;padding:0;}
+.quote2{font-size:12px;color:#333;margin:0px;padding:8px 28px 0;color:#006699;background:url(images/wind/read/quote.gif) 8px 8px no-repeat;}
+.blockquote3{width:80%;border:1px solid #ccc;background:#f7f7f7;border-left-width:4px;margin:0 0 1px;color:#555;}
+.blockquote3 div{padding:3px 15px;}
+.blockquote3 div ul{padding:0;margin:0;}
+.blockquote{width:80%;border:1px solid #ece9d8;background:#fffef3;border-left-width:3px;padding:5px;margin:0 0 1%;color:#736933;}
+/*menu*/
+.menu{position:absolute;background:#fff url(images/wind/menubg.gif) center top repeat-x;border:1px solid #a9d5e9;}
+.menu .bor{padding-bottom:8px;*padding-bottom:0px;_padding-bottom:0px;border:5px solid #a9d5e9;}
+.menu li,.menu ul{padding:0; margin:0;}
+.menu td{line-height:20px;}
+.menu li{list-style:none;}
+.menu a{display:block;padding:3px 15px;}
+.menu ul.ul1 li a{display:inline;padding:0;}
+.pad{padding-bottom:8px;*padding-bottom:0px;}
+.menu .ul2{width:170px;padding:8px;}
+.menu .ul2 li{float: left; width: 7em;line-height: 24px;height: 24px; overflow: hidden;border-bottom: 1px solid #c7e1ef;}
+.menu .ul2 li:hover{border-bottom: 1px solid #C7E1EF;}
+.menu .ul2 li a{padding:3px 5px;}
+.menu .ul2 li a:hover{text-decoration:none;background:#fff;}
+.menu h2 a{font-size:1.0em;color:#008ef1;height:20px;line-height:20px;width:550px;}
+.menu .ul3{width:600px;padding:6px;clear:both;}
+.menu .ul3 li{float:left;line-height:20px;*word-wrap:normal;*white-space:nowrap;display:inline;}
+.menu .ul3 a{float:left;}
+.menu .ul3 li a:hover{color:#C7E1EF;}
+/*通用下拉*/
+.content-dropB{margin-top:2px;}
+.dropB{cursor:pointer;text-indent:-2000em;background:url(images/wind/dropB-cion.gif) 0 0 no-repeat;width:15px;height:12px; overflow:hidden; ;font:0/0 a;float:left}
+.dropB:hover{background-color:#C7E1EF; background-position:0 -20px;}
+/*pages*/
+.pages{float:left;border:1px solid #c7e1ef;height:24px;line-height:24px;margin:2px 5px 3px 0; direction:ltr;}
+.pages ul{padding:0; margin:0}
+.pages ul li{list-style:none;float:left;}
+.pages ul li a{display:block;padding:0 7px 0 7px;}
+.pages ul li b{padding:0 5px 0 9px;background:#f7fadd;display:block;color:#FA891B;}
+.pages ul li a:hover{background:#f7fadd;color:#FA891B;text-decoration:none;}
+.pages ul .pagesone{height:24px;_height:23px;margin-left:5px;border-left:1px solid #c7e1ef;padding-left:12px;background:#fefff3;}
+.pages input{border:1px solid #c7e1ef;font:12px/15px Verdana;height:14px;color:#163377;margin-right:5px;margin-bottom:3px;*margin-bottom:2px;_margin-top:3px;}
+/*end*/
+.listmg{ padding:0; margin:0; list-style:none;}
+.listmg li{ padding:0 .7em; border-right:1px solid #eee;cursor:pointer;}
+.bdbdash{border-bottom:1px dashed #ccc}
+ /*自定义css*/
+</style>
+<!--css-->
+
+<!--[if IE]>
+<style type="text/css">
+.btn{height:21px;padding-left:0.3em;padding-right:0.3em;}
+.tr1 td.td1{border-top:0}
+.t4{padding:0}
+.t table{border-collapse:collapse;}
+.t {padding:0}
+.menu a{height:18px}
+.abtn{ padding:3px 8px 0!important}
+</style>
+<![endif]-->
+
+
+<script type="text/javascript" language="JavaScript" src="js/pw_ajax.js"></script>
+<script type="text/javascript" language="JavaScript" src="js/Uyghur.js"></script>
+<script language="JavaScript">
+var agt = navigator.userAgent.toLowerCase();
+var is_ie = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1));
+var is_gecko= (navigator.product == "Gecko");
+var imgpath = 'images';
+var verifyhash = '911bc48c';
+if (location.href.indexOf('/simple/') != -1) {
+	getObj('headbase').href = location.href.substr(0,location.href.indexOf('/simple/')+1);
+} else if (location.href.indexOf('.html')!=-1) {
+	var base = location.href.replace(/^(http(s)?:\/\/(.*?)\/)[^\/]*\/[0-9]+\/[0-9]{4,6}\/[0-9]+\.html$/i,'$1');
+	if (base != location.href) {
+		getObj('headbase').href = base;
+	}
+}
+function getObj(id) {
+	return document.getElementById(id);
+}
+function ietruebody() {
+	return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body;
+}
+function IsElement(id) {
+	return document.getElementById(id) != null ? true : false;
+}
+</script>
+</head>
+<body onkeydown="try{keyCodes(event);}catch(e){}">
+
+<div id="wrapA">
+	<div id="header">
+<div align="center">
+<table cellspacing="0" cellpadding="0" width="100%">
+			<tr>
+				<td class="banner" align="center" valign="top" background="images/wind/top_bg_raziman.gif"><a href="./"><img src="images/wind/logo.jpg"/></a></td>
+			</tr>
+			<tr>
+				<td class="banner" align="center" valign="top"><script type="text/javascript">
+imgUrl1="images/class_raziman.jpg";
+imgtext1="01"
+imgLink1=escape("https://bilqut.com/NewClass/index.html");
+imgUrl2="images/bilqutlogo.jpg";
+imgtext2="02"
+imgLink2=escape("#");
+imgUrl3="images/wakaletchi.jpg";
+imgtext3="03"
+imgLink3=escape("#");
+
+
+ var focus_width=1000
+ var focus_height=100
+ var text_height=0
+ var swf_height = focus_height+text_height
+ 
+ var pics=imgUrl1+"|"+imgUrl2+"|"+imgUrl3
+ var links=imgLink1+"|"+imgLink2+"|"+imgLink3
+ var texts=imgtext1+"|"+imgtext2+"|"+imgtext3
+ 
+ document.write('<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="https://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="'+ focus_width +'" height="'+ swf_height +'">');
+ document.write('<param name="allowScriptAccess" value="sameDomain"><param name="movie" value="images/bilqut_elan.swf"><param name="quality" value="high"><param name="bgcolor" value="#F0F0F0">');
+ document.write('<param name="menu" value="false"><param name=wmode value="opaque">');
+ document.write('<param name="FlashVars" value="pics='+pics+'&links='+links+'&texts='+texts+'&borderwidth='+focus_width+'&borderheight='+focus_height+'&textheight='+text_height+'">');
+ document.write('</object>');
+ </script>
+</td>
+			</tr>
+		</table>
+</div>			<div class="c"></div>
+		<div id="mainNav">
+			<div style="position:absolute;bottom:0;width:300px;">
+				<div id="one-key" class="one-hidden" onclick="setTimeout(showInfoBox,200);"></div>
+				<div id="user-login">
+
+							<a id="Raziman" href="login.php" style="color:#c3e4f5">كىرىش</a> &nbsp;<a href="Tizimlash.php" style="color:#c3e4f5">ئەزا بولۇش</a>
+
+				</div>
+			</div>
+			<div style="padding-left:20px;">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td>
+						<ul class="guide" id="guide">
+						
+
+							<li id="h_push"><a href="push.php?fid-244.html">تەۋسىيە تىما</a></li>
+							<li id="h_search"><a href="search.php">ئىزدەش</a></li>
+							<li id="h_hack" class="drop-item"><a style="cursor:pointer;" id="td_hack">مۇلازىمەتلەر</a></li>
+
+							<li><a href="hack.php?H_name-bank.html">بانكا</a></li>
+
+							<li><a href="hack.php?H_name-advert.html">ئېلان باشقۇرۇش</a></li>
+
+						</ul>
+					</td>
+				</tr>
+			</table>
+			</div>
+		</div>
+<script language="javascript">
+function setCurrent(src,dst,css) {
+	var o = null;
+	if (IsElement(src)) {
+		o = getObj(src);
+	} else if (dst && IsElement(dst)) {
+		o = getObj(dst);
+	}
+	if (o) o.className += ' ' + css;
+}
+setCurrent('h_thread','h_index','current');
+</script>
+<style type="text/css">
+.user-infotwo{ position:absolute;line-height:160%;margin-left:-1.8em;margin-top:-.2em;*margin-top:-1.2em;_margin-top:-1.2em;
+margin-left:-2.4em;*margin-left:-1.8em;_margin-left:-1.8em;
+border:0;}
+.user-infoWraptwo{background:#fff url(images/wind/menubg.gif) center top repeat-x;border:1px solid #a9d5e9;padding:.5em 1em;margin-left:20px;display:block;}
+.user-infotwo .co{position:absolute;width:10px;height:20px;margin-left:-1.8em; margin-top:.5em;background:url(images/wind/user-info-co.gif)}
+</style>
+
+<div class="usti cc" id="infobox">
+
+
+
+	<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; table-layout:fixed">
+  <tr>
+    <td width="13%" rowspan="2" align="center" class="b"><img src="images/logining.gif" width="110" height="85"  /></td>
+    <td width="36%" height="61" class="b">
+    
+    
+    
+    <div>
+    <div style=" padding:0 50px 0 0;">
+        <div style="text-align:center; float:right;">
+            <form action="login.php" name="login_FORM" method="post">
+                <input type="hidden" name="jumpurl" value="https://bilqut.com/bbs/thread.php?fid-244.html" />
+                <input type="hidden" name="step" value="2" />
+                <input type="hidden" name="cktime" value="31536000" />
+                <div> كىرىش شەكلى : 
+
+
+												<input type="radio" name="lgt" value="0" checked /><span id="login_0">ئەزا</span>
+
+												<div>ئىسىم : <input class="input gray" onfocus="checkinput(this);" onblur="if(getObj('logintab')) getObj('logintab').style.display='';checkinput(this,'input');" style="width:85px; height:15px;" name="pwuser" id="pwuser" value="ئىسىم" tabindex="1" />
+												  <input class="btn" type="submit" value="كىرىش" style="width:80px" tabindex="8" />
+												  <br />
+												پارول : <input class="input" type="password" name="pwpwd" style="width:85px; height:15px;" onclick="this.value='';" tabindex="2" />
+												<input name="重置" type="reset" class="btn" style="width:80px" tabindex="8" value="كىرىش" />
+												
+									</form>
+								</div>
+							</div>
+						</div>
+<script language="JavaScript">
+function showcustomquest(qid){
+	getObj('customquest').style.display = qid==-1 ? '' : 'none';
+}
+function checkinput(obj,val){
+	if (obj.className.indexOf('gray')!=-1) {
+		obj.value = '';
+		obj.className = obj.className.replace('gray', 'black');
+	} else if (val=='input' && obj.value=='') {
+		var lgtobj = document.getElementsByName('lgt');
+		for (var i=0;i<lgtobj.length;i++) {
+			if (lgtobj[i].checked == true) {
+				var objid = lgtobj[i].value;
+				obj.value = obj.defaultValue = ' ' + getObj('login_'+objid).innerHTML;
+			}
+		}
+		if (obj.className.indexOf('black') == -1) {
+			obj.className += ' gray';
+		} else {
+			obj.className = obj.className.replace('black', 'gray');
+		}
+	}
+}
+function changeType(obj){
+	var objvalue = obj.value;
+	getObj('pwuser').value = ' ' + getObj('login_' + objvalue).innerHTML;
+	if (getObj('pwuser').className.indexOf('black') == -1 && getObj('pwuser').className.indexOf('gray') == -1) {
+		getObj('pwuser').className += ' gray';
+	} else {
+		getObj('pwuser').className = getObj('pwuser').className.replace('black', 'gray');
+	}
+}
+
+</script>    </td>
+    <td width="38%" class="b">
+    
+						<div id="fav-fid" style="padding-top:5px;">
+
+							<span class="gray2 fr" id="shortcutname">
+
+								ئاۋات سەھىپىلەر:&nbsp;
+
+							</span>
+
+							<ul id="shortcutforum" style="word-break: keep-all;">
+
+								<li id="scf_326"><a href="thread.php?fid-326.html"> رومانلار</a>&nbsp;</li>
+
+								<li id="scf_198"><a href="thread.php?fid-198.html">خەلقئارا خەۋەرلەر</a>&nbsp;</li>
+
+								<li id="scf_424"><a href="thread.php?fid-424.html">يانفون ئۇچۇرلىرى</a>&nbsp;</li>
+
+								<li id="scf_22"><a href="thread.php?fid-22.html">مىڭ بىر كېچە</a>&nbsp;</li>
+
+								<li id="scf_208"><a href="thread.php?fid-208.html">ناخشا - مۇزىكا</a>&nbsp;</li>
+
+								<li id="scf_261"><a href="thread.php?fid-261.html">ھەرخىل رەسىملەر</a>&nbsp;</li>
+
+							</ul>
+
+
+							<ul id="db_shortcutforum" style="display:none;word-break: keep-all;">
+
+								<li><a href="thread.php?fid-326.html"> رومانلار</a>&nbsp;</li>
+
+								<li><a href="thread.php?fid-198.html">خەلقئارا خەۋەرلەر</a>&nbsp;</li>
+
+								<li><a href="thread.php?fid-424.html">يانفون ئۇچۇرلىرى</a>&nbsp;</li>
+
+								<li><a href="thread.php?fid-22.html">مىڭ بىر كېچە</a>&nbsp;</li>
+
+								<li><a href="thread.php?fid-208.html">ناخشا - مۇزىكا</a>&nbsp;</li>
+
+								<li><a href="thread.php?fid-261.html">ھەرخىل رەسىملەر</a>&nbsp;</li>
+
+							</ul>
+
+						</div>
+
+    </td>
+    <td width="13%" rowspan="2" class="b" align="center">
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" 
+codebase="[url]https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5[/url],0,0,0" width="110" height="100">
+        <param name="movie" value="images/Clock.swf" />
+            <param name="quality" value="high" />
+            <param name="wmode" value="transparent" />
+          <embed src="images/Clock.swf" quality="high" 
+
+pluginspage="[url]https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash[/url]" 
+
+type="application/x-shockwave-flash" width="70" height="70" wmode="transparent"></embed>
+      </object>      </td>
+    </tr>
+  <tr>
+    <td height="25" colspan="2" class="b" align="center"><a href="https://www.bilqut.com"> باش بەت</a> <font face="Wingdings" color="#5CA408">v</font> <a href="search.php?sch_time-all-orderway-lastpost-asc-desc-newatc-1.html"> يېڭى يازما كۆرۈش</a> <font face="Wingdings" color="#5CA408">v</font> <a href="search.php?digest-1.html">نادىر تېما كۆرۈش</a> <font face="Wingdings" color="#5CA408">v</font> <a href="sort.php?action-member.html">رەت تەرتىۋى كۆرۈش</a> <font face="Wingdings" color="#5CA408">v</font> <a href="member.php">ئەزالار قاتارى</a></td>
+    </tr>
+</table>
+
+
+	
+      </div>
+        
+
+<script language="javascript">
+function showInfoBox(){
+	if (IsElement('infobox')) {
+		thisinfobox = getObj('infobox');
+		var date = new Date();
+		if (thisinfobox.style.display == 'none') {
+			thisinfobox.style.display = '';
+			getObj('one-key').className = 'one-hidden';
+			document.cookie="inforhide=1;expires=" + date.toGMTString() + " path=/";
+		} else {
+			thisinfobox.style.display = 'none';
+			getObj('one-key').className = 'one-show';
+			date.setTime(date.getTime()+86400000);
+			document.cookie="inforhide=1;expires=" + date.toGMTString() + " path=/";
+		}
+	}
+}
+</script>
+		<div id="menu_hack" class="menu pad" style="display:none;">
+			<ul class="ul2">
+
+				<li><a href="hack.php?H_name-toolcenter.html">قورال مەركىزى</a></li>
+
+			</ul>
+		</div>
+		<div id="menu_skin" class="menu pad" style="display:none;">
+			<ul class="ul2">
+
+				<li><a href="/bbs/thread.php?fid-244-skinco-wind.html">wind</a></li>
+
+			</ul>
+		</div>
+
+		<div id="menu_profile" class="menu pad" style="display:none;">
+			<ul class="ul2">
+				<li><a href="profile.php">ئەزا مەركىزى</a></li>
+				<li><a href="profile.php?action-modify.html">ماتېريال ئۆزگەرتىش</a></li>
+				<li><a href="u.php?action-show-uid-.html">ماتېريال كۈرۈش</a></li>
+				<li><a href="u.php?action-friend.html">دوستلىرىم</a></li>
+				<li><a href="profile.php?action-permission.html">ھوقوقلىرىم</a></li>
+
+				<li><a href="userpay.php">نۇمۇر باشقۇرۇش</a></li>
+				<li><a href="profile.php?action-change.html">نۇمۇر ئالماشتۇرۇش</a></li>
+				<li><a href="profile.php?action-buy.html">گۇرۇپپا سېتىۋېلىش</a></li>
+				<li><a href="profile.php?action-favor.html">ساقلىغۇچ</a></li>
+				<li><a href="u.php?action-topic.html">مىنىڭ تىمام</a></li>
+
+			</ul>
+		</div>
+		<div id="menu_sort" class="menu pad" style="display:none;">
+			<ul class="ul2">
+				<li><a href="sort.php">ئومۇمى سىتاستىكا</a></li>
+				<li><a href="sort.php?action-ipstate.html">زىيارەتچىلەر IP ئادرىسى</a></li>
+				<li><a href="sort.php?action-team.html">باشقۇرغۇچىلار</a></li>
+				<li><a href="sort.php?action-admin.html">باشقۇرۇش ئەھۋالى</a></li>
+				<li><a href="sort.php?action-online.html">توردىكى ئەزالار</a></li>
+				<li><a href="sort.php?action-member.html">ئەزالار دەرىجىسى</a></li>
+				<li><a href="sort.php?action-forum.html">سەھىپىلەر دەرىجىسى</a></li>
+				<li><a href="sort.php?action-article.html">تىمىلار دەرىجىسى</a></li>
+			</ul>
+		</div>
+
+		<div id="menu_u" class="menu pad" style="display:none;">
+			<ul style="width:7em;padding-top:.5em">
+				<li><a href="u.php">مۇنبەر بېتىم</a></li>
+				<li><a href="u.php?action-feed.html">دوستلىرىم</a></li>
+				<li><a href="u.php?action-favor.html">ساقلانمىلىرىم</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="main">
+
+﻿
+<style type="text/css">
+.hthread{position:relative;height:28px;}
+.threadlist{margin:0;padding:0 8em 0 1em;position:absolute;bottom:-2px;*bottom:-3px;_bottom:-1px; height:25px; overflow:hidden;}
+.threadlist li{list-style:none;float:right; padding:0; margin:0}
+.threadlist li div a,.threadlist li div a:hover{padding:0 1.2em 0 .6em;border:1px solid #c7e1ef;margin-bottom:1px;line-height:17px;*line-height:20px;}
+.threadlist li a{padding:.2em .6em;float:right;height:18px;line-height:16px;_line-height:20px;border-top:1px solid #e1f2fa;}
+.threadlist li a:hover{padding:.2em .6em;background:#a9d5e9;text-decoration:none;border-top:1px solid #a9d5e9;}
+.threadlist li.current a,.threadlist li.current a:hover{background:#f2f9ff;padding:.2em .5em;border:1px solid #a9d5e9;border-bottom:none;height:19px;*height:18px;_height:20px;line-height:16px;_line-height:20px;color:#163377;}
+.threadlist2{margin-left:1em;}
+.threadlist2 a{font-weight:normal;color:#163377;background:#fff url(images/wind/menu-down.gif) right 6px no-repeat;}
+.threadlist li .threadlist2 a:hover{border:1px solid #C7E1EF;text-decoration:none;background:#fff url(images/wind/menu-down.gif) right 6px no-repeat;}
+/*threadicon*/
+.threadrss{background:url(images/wind/thread/threadicon.png) left bottom no-repeat;width:14px;height:14px;}
+.threadok{background:url(images/wind/thread/threadicon.png) left 1px no-repeat;width:14px;height:14px;}
+.threadno{background:url(images/wind/thread/threadicon.png) left -14px no-repeat;width:14px;height:13px;}
+.tr2{background:#f2f9ff url(images/wind/bg.png) center -202px repeat-x;}
+.tpage{white-space:nowrap;}
+.tpage a{color:#fff;}
+.tpage a:hover{text-decoration:none;color:#ff6600;}
+/*公告*/
+.gonggao{background:#fff;border-bottom:1px solid #dff6ff;overflow:hidden;width:100%;}
+.gonggao .tr1{width:98%;margin:8px;line-height:1.2em;}
+.gonggao .tr1 font{line-height:1.1em;}
+.gonggao .gongul{border-bottom:3px solid #dff6ff;list-style:none;padding:0; margin:0;height:30px;}
+.gonggao .gongul li{float:left;height:25px;line-height:25px;background:#dff6ff;margin:5px 0 0 10px;}
+.gongul .lin{width:6em;display:block;}
+.gonggao .gongul .active{cursor:pointer;text-align:center}
+.gonggao .gongul .normal{background:none;cursor:pointer;text-align:center}
+</style>
+<script language="JavaScript">
+//公告切换
+function swap_tab(n){
+	for(var i=1;i<=2;i++){
+		var curC=document.getElementById("tab_"+i);
+		var curB=document.getElementById("tab_t"+i);
+		if(n==i){
+			curC.style.display="block";
+			curB.className="active"
+		}else{
+			curC.style.display="none";
+			curB.className="normal"
+		}
+	}
+}
+</script>
+<div class="bdbA">
+	<div id="breadcrumbs">
+		<span class="crumbs-item" style="padding:0 .7em 0 .3em"><img style="margin-top:6px;cursor:pointer" id="td_cate" src="images/wind/thread/home.gif"  onMouseOver="read.open('menu_cate','td_cate');" /></span><a class="crumbs-item gray3" href="index.php" title="بىلقۇت باغچىسى"><i> </i>بىلقۇت باغچىسى</a><span class="crumbs-item current"><i> </i><strong><a href="thread.php?fid-244.html">خەتتاتلىقىمىز</a></strong>
+<a href="rss.php?fid=244" target="_blank" title="Rss 订阅本版面最新帖子">
+<img src="images/wind/thread/kong.png" class="threadrss" style="_margin-top:5px;"/></a>
+
+<span id="shortcut">
+
+<a style="cursor:pointer;" onclick="javascript:shortCut();" title="将本版块添加到快捷版块"><img class="threadno" src="images/wind/thread/kong.png" style="_margin-top:5px;"/></a>
+
+			</span>
+</span>
+		<span class="fl gray3">
+
+		</span>
+	</div>
+</div>
+
+<div class="c"></div>
+
+<div id="menu_cate" class="menu" style="display:none;"><div style="padding-bottom:8px;overflow-Y:auto;"><ul class="ul3"><h2><a href="index.php?cateid-361.html">شىركەت سەھىپىسى</a></h2><li><a href="thread.php?fid-362.html">ئەلالاشتۇرۇش</a></li><li><a href="thread.php?fid-363.html"> بىلقۇت خەزىنىسى ھەققىدە</a></li><li><a href="thread.php?fid-387.html">تور بېتىمىز ھەققىدە</a></li><li><a href="thread.php?fid-388.html">ئۆگىنىش يېتەكچىسى</a></li><li><a href="thread.php?fid-389.html">تەكلىپ-پىكىر بىرىڭ</a></li><li><a href="thread.php?fid-390.html">ئالاقىلىشىش</a></li><li><a href="thread.php?fid-391.html">مۇلازىمىتىمىز</a></li><li><a href="thread.php?fid-392.html">ۋاكالەتچىلىرىمىز</a></li></ul><ul class="ul3"><h2><a href="index.php?cateid-312.html">ئاۋازلىق ئەسەرلەر</a></h2><li><a href="thread.php?fid-324.html">رېۋايەتلەر</a></li><li><a href="thread.php?fid-325.html">خەنزۇچە ئەسەرلەر</a></li><li><a href="thread.php?fid-326.html"> رومانلار</a></li><li><a href="thread.php?fid-327.html"> تارىخىي شەخسلەر ھەققىدە</a></li><li><a href="thread.php?fid-385.html">شېئىرلار</a></li><li><a href="thread.php?fid-386.html">پوۋېستلار</a></li><li><a href="thread.php?fid-436.html">چۆچەكلەر</a></li><li><a href="thread.php?fid-313.html">مەسەللەر</a></li><li><a href="thread.php?fid-314.html"> ھېكايىلەر</a></li><li><a href="thread.php?fid-315.html"> نەسىرلەر</a></li><li><a href="thread.php?fid-316.html"> مىڭ بىر كېچە</a></li><li><a href="thread.php?fid-317.html"> كەلىلە ۋە دېمىنە</a></li></ul><ul class="ul3"><h2><a href="index.php?cateid-16.html">كۇتۇپخانا</a></h2><li><a href="thread.php?fid-451.html">قانۇنلار</a></li><li><a href="thread.php?fid-452.html">جىنايەت ۋە جازا</a></li><li><a href="thread.php?fid-453.html">قانۇندىن مەسلىھەت</a></li><li><a href="thread.php?fid-22.html">مىڭ بىر كېچە</a></li><li><a href="thread.php?fid-20.html">ھېكايىلەر</a></li><li><a href="thread.php?fid-232.html">شېئىر</a></li><li><a href="thread.php?fid-23.html">كەلىلە ۋە دېمىنە</a></li><li><a href="thread.php?fid-88.html">نەسىرلەر</a></li><li><a href="thread.php?fid-99.html">لەتىپە-يۇمۇرلار</a></li><li><a href="thread.php?fid-174.html">ھىكمەت</a></li><li><a href="thread.php?fid-181.html">نەسىھەت</a></li><li><a href="thread.php?fid-17.html">ماقالىلەر</a></li><li><a href="thread.php?fid-18.html">ياشلار سەمىگە</a></li><li><a href="thread.php?fid-173.html">تۇرمۇش مەسلىھەتچىسى</a></li><li><a href="thread.php?fid-178.html">نۇتۇقلار</a></li><li><a href="thread.php?fid-172.html">سۆيگۈ مەكتۇپى</a></li><li><a href="thread.php?fid-175.html">غارايىباتلار</a></li><li><a href="thread.php?fid-19.html">دۇنيادىكى ئەڭ</a></li><li><a href="thread.php?fid-177.html">قان تىپى</a></li><li><a href="thread.php?fid-182.html">مۆچەل</a></li><li><a href="thread.php?fid-176.html">مىللەتلەر</a></li><li><a href="thread.php?fid-186.html">بۈگۈن</a></li><li><a href="thread.php?fid-170.html">مۇزېي</a></li><li><a href="thread.php?fid-189.html">تارىخ</a></li><li><a href="thread.php?fid-187.html">دۇنيادىكى شەھەرلەر</a></li><li><a href="thread.php?fid-195.html">دۇنيادىكى دۆلەتلەر</a></li><li><a href="thread.php?fid-188.html">دۇنيادىكى كۇتۇپخانىلار</a></li><li><a href="thread.php?fid-184.html">مايلار</a></li><li><a href="thread.php?fid-183.html">مېۋە</a></li><li><a href="thread.php?fid-180.html">كۆكتاتلار</a></li><li><a href="thread.php?fid-179.html">ئۆسۈملۈكلەر</a></li><li><a href="thread.php?fid-171.html">ھايۋاناتلار</a></li></ul><ul class="ul3"><h2><a href="index.php?cateid-245.html">رەسىم</a></h2><li><a href="thread.php?fid-246.html">ھايۋاناتلار</a></li><li><a href="thread.php?fid-247.html">قۇشلار</a></li><li><a href="thread.php?fid-249.html">ماشىنا</a></li><li><a href="thread.php?fid-250.html">گۈل-گىياھلار</a></li><li><a href="thread.php?fid-251.html">دېڭىز جانلىقلىرى</a></li><li><a href="thread.php?fid-252.html">بىناكارلىق</a></li><li><a href="thread.php?fid-253.html">تەبىئەت مەنزىرىسى</a></li><li><a href="thread.php?fid-254.html">ئۈستەل رەسىملىرى</a></li><li><a href="thread.php?fid-255.html">ھەربىي قورال ياراغلار</a></li><li><a href="thread.php?fid-256.html">يانفون رەسىملىرى</a></li><li><a href="thread.php?fid-257.html">قىزىقارلىق رەسىملەر</a></li><li><a href="thread.php?fid-258.html">كارتون رەسىملەر</a></li><li><a href="thread.php?fid-259.html">كومپيۇتېر لايىھىلىرى</a></li><li><a href="thread.php?fid-260.html">سىزما رەسىملەر</a></li><li><a href="thread.php?fid-261.html">ھەرخىل رەسىملەر</a></li><li><a href="thread.php?fid-308.html">ھاشاراتلار</a></li></ul><ul class="ul3"><h2><a href="index.php?cateid-206.html">كۆڭۈل ئېچىش</a></h2><li><a href="thread.php?fid-207.html">كىنو - فىلىم</a></li><li><a href="thread.php?fid-208.html">ناخشا - مۇزىكا</a></li><li><a href="thread.php?fid-209.html">يانفون مۇزىكىلىرى</a></li><li><a href="thread.php?fid-227.html">ئويۇنلار</a></li><li><a href="thread.php?fid-309.html">سۇرەتلىك ناخشىلار</a></li><li><a href="thread.php?fid-310.html">قىزقارلىق كۆرنىش</a></li><li><a href="thread.php?fid-311.html">ئىتوت</a></li><li><a href="thread.php?fid-384.html">كۈلدۈرگە</a></li></ul><ul class="ul3"><h2><a href="index.php?cateid-297.html">تىل - يېزىق</a></h2><li><a href="thread.php?fid-393.html">ئەرەب - تىلى</a></li><li><a href="thread.php?fid-394.html">قازاق تىلى</a></li><li><a href="thread.php?fid-395.html">پارىس تىلى</a></li><li><a href="thread.php?fid-52.html">ئۇيغۇرتىلى</a></li><li><a href="thread.php?fid-46.html">خەنزۇتىلى</a></li><li><a href="thread.php?fid-47.html">ئىنگلىزتىلى</a></li><li><a href="thread.php?fid-48.html">روس تىلى</a></li><li><a href="thread.php?fid-53.html">ياپون تىلى</a></li></ul><ul class="ul3"><h2><a href="index.php?cateid-328.html">تەرەققىياتىمىز</a></h2><li><a href="thread.php?fid-329.html">ئۇيغۇر كارخانچىللىرى</a></li><li><a href="thread.php?fid-330.html">ئۇيغۇر كارخانىلىرى</a></li><li><a href="thread.php?fid-331.html">ئۇيغۇر مەھسۇلاتلىرى</a></li><li><a href="thread.php?fid-333.html">ئۇيغۇر كەشپىياتلىرى</a></li><li><a href="thread.php?fid-334.html"> ئۇيغۇر دوكتۇرلىرى</a></li><li><a href="thread.php?fid-335.html"> ئۇيغۇرساياھەتچىلىكى</a></li><li><a href="thread.php?fid-398.html">ئۇيغۇر بىناكارلىقى</a></li><li><a href="thread.php?fid-399.html">ئۇيغۇر باغۋەنچىلىكى</a></li></ul><ul class="ul3"><h2><a href="index.php?cateid-30.html">مەدەنىيىتىمىز</a></h2><li><a href="thread.php?fid-244.html">خەتتاتلىقىمىز</a></li><li><a href="thread.php?fid-265.html">تىل-يېزىقىمىز</a></li><li><a href="thread.php?fid-400.html">ئېتىقادىمىز</a></li><li><a href="thread.php?fid-401.html">كىيىم - كېچەكلىرىمىز</a></li><li><a href="thread.php?fid-406.html">سەنئەتكارلىرىمىز</a></li><li><a href="thread.php?fid-428.html">شەھەرلىرىمىز</a></li><li><a href="thread.php?fid-429.html">ناھىيىلىرىمىز</a></li><li><a href="thread.php?fid-430.html">ۋىلايەتلىرىمىز</a></li><li><a href="thread.php?fid-431.html">بىڭتۈەن، ئوبلاستلىرىمىز</a></li><li><a href="thread.php?fid-432.html">قاتناشلىرىمىز</a></li><li><a href="thread.php?fid-434.html">مەسەللىرىمىز</a></li><li><a href="thread.php?fid-437.html">چۆچەكلىرىمىز</a></li><li><a href="thread.php?fid-438.html">ئەپسانىلىرىمىز</a></li><li><a href="thread.php?fid-439.html">رېۋايەتلىرىمىز</a></li><li><a href="thread.php?fid-440.html">ماقال - تەمسىللىرىمىز</a></li><li><a href="thread.php?fid-441.html">ئۆلچەملىرىمىز</a></li><li><a href="thread.php?fid-32.html">تائاملىرىمىز</a></li><li><a href="thread.php?fid-33.html">شەخسلىرىمىز</a></li><li><a href="thread.php?fid-35.html">ئويۇنلىرىمىز</a></li><li><a href="thread.php?fid-34.html">تېبابىتىمىز</a></li><li><a href="thread.php?fid-36.html">چالغۇلىرىمىز</a></li><li><a href="thread.php?fid-37.html">ھۈنەرلىرىمىز</a></li><li><a href="thread.php?fid-31.html">يوسۇنلىرىمىز</a></li><li><a href="thread.php?fid-38.html">تارىخمىز</a></li></ul><ul class="ul3"><h2><a href="index.php?cateid-25.html">بالىلار باغچىسى</a></h2><li><a href="thread.php?fid-159.html">كىم ئەڭ ئەقىللىق</a></li><li><a href="thread.php?fid-266.html">پەرزەنت تەربىيىسى</a></li><li><a href="thread.php?fid-396.html">بالىلار ئوقۇشلۇقى</a></li><li><a href="thread.php?fid-397.html">بالىلار كارتونلىرى</a></li><li><a href="thread.php?fid-26.html">بالىلار چۆچەكلىرى</a></li><li><a href="thread.php?fid-29.html">يۈز مىڭلىغان نېمە ئۈچۈن؟</a></li><li><a href="thread.php?fid-97.html">بالىلار ھېكايىسى</a></li><li><a href="thread.php?fid-98.html"> ساغلاملىق ساۋاتلىرى</a></li></ul><ul class="ul3"><h2><a href="index.php?cateid-39.html">ئۆگىنىش</a></h2><li><a href="thread.php?fid-41.html">ماتېماتىكا</a></li><li><a href="thread.php?fid-106.html">يىزا-ئىگىلىك</a></li><li><a href="thread.php?fid-107.html">پسىخولوگىيە</a></li><li><a href="thread.php?fid-108.html">ئىقتىساد</a></li><li><a href="thread.php?fid-143.html">مۇھىت</a></li><li><a href="thread.php?fid-40.html">ئەدەبىيات</a></li><li><a href="thread.php?fid-42.html">جۇغراپىيە</a></li><li><a href="thread.php?fid-44.html">فىزىكا</a></li><li><a href="thread.php?fid-45.html">خىمىيە</a></li><li><a href="thread.php?fid-50.html">ئاسترونومىيە</a></li><li><a href="thread.php?fid-49.html">بىئولوگىيە</a></li><li><a href="thread.php?fid-89.html">دېپلوماتىيە</a></li><li><a href="thread.php?fid-90.html">ئېلېكترون</a></li><li><a href="thread.php?fid-91.html">تەنتەربىيە</a></li><li><a href="thread.php?fid-92.html">مەتبەئەچىلىك</a></li><li><a href="thread.php?fid-100.html">گۈزەل- سەنئەت</a></li></ul><ul class="ul3"><h2><a href="index.php?cateid-263.html">خەۋەر - ئۇچۇرلار</a></h2><li><a href="thread.php?fid-198.html">خەلقئارا خەۋەرلەر</a></li><li><a href="thread.php?fid-199.html">شىنجاڭ خەۋەرلىرى</a></li><li><a href="thread.php?fid-200.html">مەملىكەت خەۋەرلىرى</a></li><li><a href="thread.php?fid-416.html">ئۆي ئۇچۇرلىرى</a></li><li><a href="thread.php?fid-417.html">ئىقتىسادىي ئۇچۇرلار</a></li><li><a href="thread.php?fid-418.html">ماشىنا ئۇچۇرلىرى</a></li><li><a href="thread.php?fid-419.html">خىزمەت ئۇچۇرلىرى</a></li><li><a href="thread.php?fid-420.html">پەن - تېخنىكا ئۇچۇرلىرى</a></li><li><a href="thread.php?fid-421.html">ئۇنىۋېرسال ئۇچۇرلار</a></li><li><a href="thread.php?fid-422.html">IT ئۇچۇرلىرى</a></li><li><a href="thread.php?fid-423.html">پايچېكى ئۇچۇرلىرى</a></li><li><a href="thread.php?fid-424.html">يانفون ئۇچۇرلىرى</a></li></ul><ul class="ul3"><h2><a href="index.php?cateid-54.html">كومپيۇتېر بىلىملىرى</a></h2><li><a href="thread.php?fid-86.html">ئۇيغۇرچە يۇمشاق دېتاللار</a></li><li><a href="thread.php?fid-109.html">سوئال-جاۋابلار</a></li><li><a href="thread.php?fid-190.html">ئۇنىۋېرسال بىلىملىرى</a></li><li><a href="thread.php?fid-229.html">كومپىيۇتېر كاشىلىلىرى</a></li><li><a href="thread.php?fid-55.html">قاتتىق دېتال</a></li><li><a href="thread.php?fid-56.html">يۇمشاق دېتال</a></li><li><a href="thread.php?fid-57.html">مەشغۇلات سىستېمىسى</a></li><li><a href="thread.php?fid-58.html">توربىلىملىرى</a></li></ul><ul class="ul3"><h2><a href="index.php?cateid-239.html">ئىسلام دىنى</a></h2><li><a href="thread.php?fid-240.html">ئىسلام دىنىدىن ساۋاتلار</a></li><li><a href="thread.php?fid-241.html">قۇرئان كەرىم</a></li><li><a href="thread.php?fid-242.html">ئىسلام دۇنياسى</a></li><li><a href="thread.php?fid-243.html">قۇرئان كەرىم تەرجىمىسى</a></li><li><a href="thread.php?fid-402.html">ئىسلامىي فىلىملەر</a></li><li><a href="thread.php?fid-403.html">قىرائەتلەر</a></li><li><a href="thread.php?fid-404.html">تەبلىغلەر</a></li><li><a href="thread.php?fid-405.html">ئىسلام تارىخى</a></li></ul><ul class="ul3"><h2><a href="index.php?cateid-221.html">ھەربىي ئىشلار</a></h2><li><a href="thread.php?fid-222.html">جەڭ پاراخوتلىرى</a></li><li><a href="thread.php?fid-223.html">كۆرەشچى ئايروپىلانلار</a></li><li><a href="thread.php?fid-224.html">جان ئالغۇ مىلتىقلار</a></li><li><a href="thread.php?fid-225.html">سۇ ئاستى كېمىلەر</a></li><li><a href="thread.php?fid-226.html">قۇرۇقلۇق ئارمىيىلىرى</a></li><li><a href="thread.php?fid-442.html">دېڭىز ئارمىيىلىرى</a></li><li><a href="thread.php?fid-443.html">ھاۋا ئارمىيىلىرى</a></li><li><a href="thread.php?fid-444.html">ھەربىي تەشكىلاتلار</a></li></ul><ul class="ul3"><h2><a href="index.php?cateid-214.html">خانىم - قىزلار      </a></h2><li><a href="thread.php?fid-215.html">خانىم - قىزلار پسىخىكىسى</a></li><li><a href="thread.php?fid-216.html">خانىم - قىزلار ساغلاملىقى</a></li><li><a href="thread.php?fid-217.html">گۈزەللىك بىلىملىرى</a></li><li><a href="thread.php?fid-218.html">خانىم - قىزلار ئەخلاقى</a></li><li><a href="thread.php?fid-445.html">زىننەت بۇيۇملىرى</a></li><li><a href="thread.php?fid-446.html">مەشھۇر ئاياللار</a></li><li><a href="thread.php?fid-447.html">خانىم - قىزلار بۇرچى</a></li><li><a href="thread.php?fid-448.html">ھەرخىل ياغلىقلار</a></li></ul><ul class="ul3"><h2><a href="index.php?cateid-161.html">مائارپ</a></h2><li><a href="thread.php?fid-352.html">مائارىپ تارىخى</a></li><li><a href="thread.php?fid-353.html">كەسپىي مائارىپ</a></li><li><a href="thread.php?fid-425.html">پايدىلىنىش ماتېرىيالى</a></li><li><a href="thread.php?fid-426.html">ماقالە ئۆرنەكلىرى</a></li><li><a href="thread.php?fid-427.html">خەلقئارا مائارىپ</a></li><li><a href="thread.php?fid-166.html">مائارىپ تەشكىلاتلىرى</a></li><li><a href="thread.php?fid-162.html">بالىلار باغچىلىرى</a></li><li><a href="thread.php?fid-165.html">باشلانغۇچ مەكتەپلەر</a></li><li><a href="thread.php?fid-163.html">ئوتتۇرا مەكتەپلەر</a></li><li><a href="thread.php?fid-169.html">ئالىي مائارىپ</a></li><li><a href="thread.php?fid-168.html">گېزىتلەر</a></li><li><a href="thread.php?fid-167.html">ژۇرناللار</a></li></ul><ul class="ul3"><h2><a href="index.php?cateid-233.html">كىتابلار</a></h2><li><a href="thread.php?fid-298.html">مائارىپ نەشرىياتى</a></li><li><a href="thread.php?fid-299.html">خەلق نەشرىياتى</a></li><li><a href="thread.php?fid-300.html">ياش - ئۆسمۈرلەر نەشرىياتى</a></li><li><a href="thread.php?fid-301.html">گۈزەل - سەنئەت نەشرىياتى</a></li><li><a href="thread.php?fid-302.html">ئېلېكترون نەشرىياتى</a></li><li><a href="thread.php?fid-303.html">پەن - تېخنىكا نەشرىياتى</a></li><li><a href="thread.php?fid-304.html">سەھىيە نەشرىياتى</a></li><li><a href="thread.php?fid-305.html">ئۇنىۋېرسىتېت نەشرىياتى</a></li><li><a href="thread.php?fid-306.html">قەشقەر ئۇيغۇر نەشرىياتى</a></li><li><a href="thread.php?fid-307.html">مىللەتلەر نەشرىياتى</a></li><li><a href="thread.php?fid-454.html">قىزىلسۇ قىرغىز نەشرىياتى</a></li><li><a href="thread.php?fid-455.html">ئىلى ئوبلاست نەشرىياتى</a></li></ul><ul class="ul3"><h2><a href="index.php?cateid-367.html"> ژۇرناللار</a></h2><li><a href="thread.php?fid-368.html">تەرمىلەر</a></li><li><a href="thread.php?fid-369.html">تارىم</a></li><li><a href="thread.php?fid-370.html">دۇنيا ئەدەبىياتى</a></li><li><a href="thread.php?fid-371.html">شىنجاڭ مائارىپى</a></li><li><a href="thread.php?fid-372.html">پەن ۋە تۇرمۇش</a></li><li><a href="thread.php?fid-373.html">بىلىم كۈچ</a></li><li><a href="thread.php?fid-374.html">شىنجاڭ ئاياللىرى</a></li><li><a href="thread.php?fid-375.html">شىنجاڭ ياشلىرى</a></li><li><a href="thread.php?fid-376.html">كومپيۇتېر ۋە تۇرمۇش</a></li><li><a href="thread.php?fid-377.html">تارىم غۇنچلىرى</a></li><li><a href="thread.php?fid-378.html">جۇڭگو مۇسۇلمانلىرى</a></li><li><a href="thread.php?fid-379.html">ئامانلىق</a></li><li><a href="thread.php?fid-380.html">شىنجاڭ مەدەنىيىتى</a></li><li><a href="thread.php?fid-381.html">مىراس</a></li><li><a href="thread.php?fid-382.html">جۇڭگو مىللەتلىرى</a></li><li><a href="thread.php?fid-383.html">ئەدەبىي تەرجىملەر</a></li></ul><ul class="ul3"><h2><a href="index.php?cateid-191.html">ئۇنىۋېرسال</a></h2><li><a href="thread.php?fid-192.html">ئۇنىۋېرسال سەھىپە</a></li><li><a href="thread.php?fid-366.html">ئەخلەتخانا</a></li></ul></div></div>
+<!--ads begin-->
+
+<div class="t5" style="margin-top:8px;border-bottom:0px;margin-bottom:0px;">
+<table width="100%" cellspacing="0" cellpadding="0">
+
+	<tr class="tr3">
+
+	  <td class="f_one black tac" width="25%"><a href="https://bbs.bilqut.com/read.php?tid=8015" target="_blank"><img src="elan/elalashturus.gif"></a></td>
+
+	  <td class="f_one black tac" width="25%"><a href="read.php?tid-11253.html" target="_blank"><img src="elan/Bilqut_h.gif"></a></td>
+
+	  <td class="f_one black tac" width="25%"><a href="read.php?tid-16585.html.html" target="_blank"><img src="elan/awaz.gif"></a></td>
+
+	  <td class="f_one" width="25%"><br /></td>
+
+	</tr>
+
+</table></div>
+
+<!--ads end-->
+
+<div class="c" id="c"></div>
+
+<div class="t3">
+
+<span class="fr"><a href="post.php?fid-244.html"><img src="images/wind/post.png" id="td_post" /></a></span>
+
+<span class="fl"></span>
+<div class="c"></div>
+</div>
+<div class="c"></div>
+
+<div id="menu_post" class="menu tac f14 pad" style="display:none;">
+	<ul style="width:81px;padding-top:.3em;">
+
+	<li><a href="post.php?fid-244.html"> تىما يوللاش</a></li>
+
+	</ul>
+</div>
+
+
+<div class="t z" style="margin:auto"><table cellspacing="0" cellpadding="0" width="100%" id="ajaxtable">
+
+	<tr><th class="h" colspan="6" style="padding:0px;margin:0px;">
+	<div id="menu_special" class="menu tac f14 pad" style="display:none;">
+		 <ul style="width:81px;padding-top:.3em;">
+		      <li><a href="thread.php?fid-244.html">ھەممىسى</a></li>
+		      <li><a href="thread.php?fid-244-special-1.html">بېلەتلىك</a></li>
+		      <li><a href="thread.php?fid-244-special-2.html">活  动</a></li>
+		      <li><a href="thread.php?fid-244-special-3.html">悬  赏</a></li>
+		      <li><a href="thread.php?fid-244-special-4.html">商  品</a></li>
+			  <li><a href="thread.php?fid-244-special-5.html">辩  论</a></li>
+		 </ul>
+	</div>
+	     <div class="hthread">
+	          <ul class="fl threadlist">
+                   <li id="thread_type_all"><a class="fn" href="thread.php?fid-244.html#c">ھەممىسى</a></li>
+				   <span id="t_typedb">
+                   <li id="thread_type_digest"><a class="fn" href="thread.php?fid-244-search-digest.html#c">نادىر تىما</a></li>
+
+
+</span>
+<li style=""><div class="fl threadlist2"><a href="javascript:void(0);" id="td_special">تۈرگە ئايرىپ كۈرۈش</a></div></li>
+</ul>
+
+</div><div class="c"></div>
+
+<script language="javascript">
+
+setCurrent('thread_type_all','thread_type_all','current');
+</script>
+
+
+		</th>
+	</tr>
+	<tbody style="table-layout:fixed;"><tr></tr>
+	<tr class="tr2">
+	<td style="width:2.8em" class="tac y-style"></td>
+	<td class="tac">تىما</td>
+	<td style="width:10em" class="y-style">يوللىغۇچى</td>
+	<td style="width:7em" class="tal y-style">ئىنكاس / ئاۋاتلىقى</td>
+	<td style="width:12em" class="y-style">ئاخىرقى ئىنكاس</td>
+	</tr>
+
+	<tr align="middle" class="tr3 t_one">
+		<td class="tac"><img src="images/wind/thread/anc.gif" /></td>
+		<th>&nbspمۇنبەر ئۇقتۇرىشى:<h3><a href="notice.php?fid-.html#2" class="black">زىيارەتچىلەر دىقىتىگە </a></h3></th>
+		<td class="tal y-style"><a href="u.php?action-show-username-bilqut_k.html" class="bl">bilqut_k</a></td>
+		<td class="tal y-style"><a href="notice.php?fid-.html">مۇنبەر ئۇقتۇرىشى</a></td>
+		<td class="y-style">2008-02-28 15:40</td>
+	</tr>
+
+	<tr class="tr2"><td colspan="6" class="tac" style="border-top:0">تىمىلار قاتارى</td></tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="يىڭى كۆزنەكتە ئېچىش" href="read.php?tid-8822.html" target="_blank"><img src="images/wind/thread/topicnew.gif" border=0 align="absmiddle"></a></td>
+	<td style="text-align:right;line-height:23px;" id="td_8822">
+
+	
+
+
+			<h3>
+
+			<a href="read.php?tid-8822.html" id="a_ajax_8822">ياسىن كەرىم ھۆسىن خەتلىرىدىن ...</a></h3>  
+
+	</td>
+	<td class="tac y-style"><a href="u.php?action-show-uid-108.html" class="bl">ikram</a>
+		<div class="f10 gray2">2008-09-21</div></td>
+	<td class="tac y-style f10"><span class="s8">6</span> / 551</td>
+	<td class="tar y-style"><a href="read.php?tid-8822-page-e-fpage-1.html#a" class="f10"> 2009-02-05 22:01 </a><br />
+	<span class="gray2">by: muhtar0997</span></td>
+	</tr>
+
+
+
+	<tr align="center" class="tr3 t_one"><td><a title="يىڭى كۆزنەكتە ئېچىش" href="read.php?tid-11880.html" target="_blank"><img src="images/wind/thread/topicnew.gif" border=0 align="absmiddle"></a></td>
+	<td style="text-align:right;line-height:23px;" id="td_11880">
+
+	
+
+
+			<h3>
+
+			<a href="read.php?tid-11880.html" id="a_ajax_11880">ھۆسنىخەت كۆرگەزمىسى</a></h3>  
+
+	</td>
+	<td class="tac y-style"><a href="u.php?action-show-uid-59.html" class="bl">UyMuglaN</a>
+		<div class="f10 gray2">2008-11-16</div></td>
+	<td class="tac y-style f10"><span class="s8">4</span> / 289</td>
+	<td class="tar y-style"><a href="read.php?tid-11880-page-e-fpage-1.html#a" class="f10"> 2009-02-05 21:58 </a><br />
+	<span class="gray2">by: muhtar0997</span></td>
+	</tr>
+
+
+
+	<tr align="center" class="tr3 t_one"><td><a title="يىڭى كۆزنەكتە ئېچىش" href="read.php?tid-8554.html" target="_blank"><img src="images/wind/thread/topicnew.gif" border=0 align="absmiddle"></a></td>
+	<td style="text-align:right;line-height:23px;" id="td_8554">
+
+	
+
+
+			<h3>
+
+			<a href="read.php?tid-8554.html" id="a_ajax_8554">بارىكاللا خەتتات (ھۆسنىخەت)</a></h3>  
+
+	</td>
+	<td class="tac y-style"><a href="u.php?action-show-uid-108.html" class="bl">ikram</a>
+		<div class="f10 gray2">2008-09-14</div></td>
+	<td class="tac y-style f10"><span class="s8">5</span> / 759</td>
+	<td class="tar y-style"><a href="read.php?tid-8554-page-e-fpage-1.html#a" class="f10"> 2009-01-24 00:25 </a><br />
+	<span class="gray2">by: sahqi</span></td>
+	</tr>
+
+
+
+	<tr><td colspan="6" class="f_one" style="height:8px"></td></tr>
+	</tbody>
+</table></div>
+
+<div class="t3">
+
+<span class="fr"><a href="post.php?fid-244.html"><img src="images/wind/post.png" id="td_post1" /></a></span>
+
+	<span class="fl" style="direction:ltr"></span>
+	<div class="c"></div>
+</div>
+<div class="c"></div>
+
+<br />
+<div class="t5 t_one" style="padding:10px;width:550px;">
+    <center>
+         <img src="images/wind/thread/topicnew.gif" align="absmiddle"/> ئوچۇق تېما&nbsp;&nbsp;&nbsp;<img src="images/wind/thread/topichot.gif" align="absmiddle"/> قىززىق تېما  &nbsp;&nbsp;&nbsp;<img src="images/wind/thread/topiclock.gif" align="absmiddle"/> تاقاق تېما&nbsp;&nbsp;&nbsp;<img src="images/wind/thread/topicclose.gif" align="absmiddle"/> يېپىق تېما&nbsp;&nbsp;&nbsp;<img src="images/wind/thread/vote.gif" align="absmiddle"/> بېلەتلىك تېما&nbsp;&nbsp;&nbsp;<img src="images/wind/thread/votelock.gif" align="absmiddle"/> بىلەت تاشلاش تاقالغان
+    </center>
+</div>
+<script language="JavaScript">
+var ifcheck = true;
+var fid = '244';
+var forumtitle = "خەتتاتلىقىمىز";
+var imgok = "threadok";
+var imgno = "threadno";
+var myshortcut = "";
+function CheckAll(form){
+	for(var i=0;i<form.elements.length-12;i++){
+		var e = form.elements[i];
+		if(e.type=='checkbox') e.checked = ifcheck;
+	}
+	ifcheck = ifcheck == true ? false : true;
+}
+function Fjump(value){
+	if(value!=''){
+		window.location=('https://bilqut.com/bbs/thread.php?fid='+value);
+	}
+}
+function Ajump(value){
+	if(value!= ''){
+		window.location=('https://bilqut.com/bbs/u.php?action=show&username='+value);
+	}
+}
+var totalpage = parseInt('1');
+var page = parseInt('1');
+if(totalpage > 1){
+	document.onkeydown=function(e){
+		var e = is_ie ? window.event : e;
+		var tagname = is_ie ? e.srcElement.tagName : e.target.tagName;
+		if(tagname == 'INPUT' || tagname == 'TEXTAREA'){
+			return;
+		}
+		actualCode = e.keyCode ? e.keyCode : e.charCode;
+		if(actualCode == 39 && page<totalpage) {
+			window.location = 'thread.php?fid=244&search=&page=' + (page+1);
+		}
+		if(actualCode == 37 && page>1){
+			window.location = 'thread.php?fid=244&search=&page=' + (page-1);
+		}
+	}
+}
+
+function shortCut() {
+	ajax.send('pw_ajax.php?action=shortcut&fid='+fid,'',function(){
+		ajax.guide();
+		var rText = ajax.request.responseText.split('	');
+		if (typeof(rText[1]) != 'undefined' && rText[1] == 'successok') {
+			getObj('shortcut').innerHTML = "<a style=\"cursor:pointer;\" onclick=\"javascript:shortCut();\" title=\"将本版块移除出快捷版块\"><img class=\""+imgok+"\" src=\"images/wind/thread/kong.png\" /></a>";
+			var shortcutforum = getObj('shortcutforum');
+			if (myshortcut == false) {
+				var shortcutname = getObj('shortcutname');
+				shortcutname.innerHTML = "收藏的版块:&nbsp;";
+				shortcutforum.innerHTML = "<li id=\"scf_"+fid+"\"><a href=\"thread.php?fid="+fid+"\">"+forumtitle+"</a>&nbsp;</li>";
+			} else {
+				if (IsElement('shortcutforum')) {
+					var li = document.createElement('li');
+					li.id = 'scf_'+fid;
+					li.innerHTML = "<a href=\"thread.php?fid='+fid+'\">"+forumtitle+"</a>&nbsp;";
+					shortcutforum.appendChild(li);
+				}
+			}
+
+		} else if (typeof(rText[1]) != 'undefined' && rText[1] == 'successno') {
+			getObj('shortcut').innerHTML = "<a style=\"cursor:pointer;\" onclick=\"javascript:shortCut();\" title=\"将本版块添加到快捷版块\"><img class=\""+imgno+"\" src=\"images/wind/thread/kong.png\" /></a>";
+			if (IsElement('scf_'+fid)) {
+				var thisnode = getObj('scf_'+fid);
+				var shortcutforum = thisnode.parentNode;
+				shortcutforum.removeChild(thisnode);
+				var li = shortcutforum.childNodes;
+				for (var i=0; i<li.length; i++) {
+					if (li[i].nodeType == 1) {
+						return false;
+					}
+				}
+				myshortcut = false;
+				var shortcutname = getObj('shortcutname');
+				shortcutname.innerHTML = "热门版块:&nbsp;";
+				shortcutforum.innerHTML = getObj('db_shortcutforum').innerHTML;
+			}
+		}
+
+	});
+}
+</script>
+﻿							<div id="footer">
+			<div style="width: 100%;  font-family: Ukij Tuz Tom; margin: auto">
+		<div align="center" style="direction: rtl; font-family: Ukij Tuz Tom">
+		<table cellSpacing="0" cellPadding="0"  border="0" >
+			<tr style="font-family: Ukij Tuz Tom">
+				<td style="font-family: Ukij Tuz Tom">
+				<div style="color: red; direction: rtl; font-family: Ukij Tuz Tom" align="center">
+					ﺋﻪﺳﻜﻪﺭﺗﯩﺶ : ﺗﻮﺭ ﺑﯧﻜﯩﺘﯩﻤﯩﺰﺩﻩ ﯞﻩﻣﯘﻧﺒﯩﺮﯨﻤﯩﺰﺩﻩ ﺩﯙﻟﻪﺗﻨﯩﯔ ﺗﯜﺭﻟﯜﻙ 
+					ﻗﺎﻧﯘﻥ - ﺳﯩﻴﺎﺳﻪﺕ ﭘﻪﺭﻣﺎﻧﻠﯩﺮﯨﻐﺎ ﺧﯩﻼﭖ ﻣﺎﻗﺎﻟﯩﻠﻪﺭ ﯞﻩ ﻳﻮﻟﻼﻧﻤﯩﻼﺭﻧﻰ ، 
+					ﺳﯜﺭﻩﺗﻠﻪﺭﻧﻰ ﻳﻮﻟﻼﺷﻘﺎ ﺑﻮﻟﻤﺎﻳﺪﯗ. <br>
+					ﺑﯚﻟﮕﯜﻧﭽﯩﻠﯩﻚ ، ﻗﯘﺗﺮﺍﺗﻘﯘﻟﯘﻕ ﺧﺎﺭﺍﻛﺘﺮﯨﺪﯨﻜﻰ ﻣﺎﻗﺎﻟﯩﻠﻪﺭﻧﻰ ﻳﻮﻟﻠﯩﻐﺎﻥ 
+					ﺋﺎﭘﺘﻮﺭﻻﺭ ﺋﺎﻗﯩﯟﯨﺘﯩﮕﻪ ﺋﯚﺯﻯ ﻣﻪﺳﺌﯘﻝ ﺑﻮﻟﯩﺪﯗ . ﺗﻮﺭ ﭘﻮﻧﻜﯩﺘﯩﻤﯩﺰ 
+					ﮬﯧﭽﻘﺎﻧﺪﺍﻕ ﻣﻪﺳﺌﯘﻟﯩﻴﻪﺗﻨﻰ ﺋﯜﺳﺘﯩﮕﻪ ﺋﺎﻟﻤﺎﻳﺪﯗ . ﺋﯚﺯ ﺗﻮﺭ 
+					ﻣﻪﺩﻩﻧﯩﻴﺘﯩﻤﯩﺰﻧﯩﯔ ﺳﺎﻏﻼﻡ ﺗﻪﺭﻩﻗﻘﯩﻲ ﻗﯩﻠﯩﺸﻰ ﯞﻩ ﺗﻮﺳﺎﻟﻐﯘﺳﯩﺰ 
+					ﺋﯩﻠﮕﯩﺮﻟﯩﺸﻰ ﺋﯜﭼﯜﻥ ﺑﯘ ﻣﯘﻧﺒﻪﺭﻧﻰ ﺋﯚﺯ ﻛﯚﺯ ﻗﺎﺭﭼﯘﻗﯩﯖﯩﺰﺩﻩﻙ 
+					ﺋﺎﺳﺮﯨﺸﯩﯖﯩﺰﻧﻰﺋﯜﻣﯩﺪ ﻗﯩﻠﯩﻤﯩﺰ. <br>
+					ﻛﯧﻴﯩﻨﻜﻰ ﭘﯘﺷﺎﻳﻤﺎﻥ ، ﺋﯚﺯﯛﯕﮕﻪ ﺩﯛﺷﻤﻪﻥ . ﻣﯩﻠﻠﻪﺗﻨﻰﺳﯚﻳﮕﯜﭼﯩﻠﻪﺭ ﺋﯚﺯ 
+					ﻧﻪﺭﺳﯩﺴﯩﻨﻰ ﻗﻪﺩﯨﺮﻟﻪﻳﺪﯗ .<br>
+					<br>
+					ئاخىرىدا ھەربىر كۈنىڭىزنىڭ خۇشاللىق بىلەن ئۆتشىنى تىلەيمىز !</div>
+				</td>
+			</tr>
+		</table>
+	</div>
+</div>		
+		
+		
+
+<div align="center"><script language="javascript" src="https://count32.51yes.com/click.aspx?id=320168560&logo=1"></script>
+
+<a target="_blank" href="https://bilqut.com">
+	<img alt="" src="https://bilqut.com/images/logo.gif" width="88" height="31" style="border-width: 0px"></a></div>
+
+	<center class="gray3">
+<small>
+	Powered by <a href="https://www.phpwind.net/" target="_blank"><b>www.phpwind.net</b></a> <a href="https://www.Bilqut.com/" target="_blank"><b style="color:#FF9900">v7.0</b></a> <a href="https://www.Bilqut.com"><b>Certificate</b></a> Code &copy; 2008-12 <a href="https://www.Bilqut.com/" target="_blank"><b>www.Bilqut.com</b></a> Corporation</small>
+	
+</center>
+</div>
+
+<script language="JavaScript" src="https://init.phpwind.com/init.php?sitehash=10AVJVB1VVA1NeUwFXCQNQAVMNBQZWAFEOBwQHVVAGBVg&v=7.0&c=0"></script>

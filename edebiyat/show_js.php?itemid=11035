@@ -1,0 +1,3 @@
+﻿try {setidval('hits','599');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/edebiyat/show.php?itemid=11034">ﻳﺎﺧﺸﻰ ﺳﺎﺗﯩﺮﺍ، ﺑﯩﻠﻠﻪ ﻛﯚﺭﻩﻳﻠﻰ</a></li><li>  كىيىنكىسى  :  <a href="/edebiyat/2007/1012/11036.htm">ﺳﻪﻥ ﻛﯧﺘﯩﭗ...</a></li>');}catch(e){}

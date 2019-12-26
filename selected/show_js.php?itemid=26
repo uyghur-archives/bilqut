@@ -1,0 +1,3 @@
+﻿try {setidval('hits','4114');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/xanim_qiz/show.php?itemid=25">ھاياتصڭصزدا ئۇچرصتصدصغان ئون خصل ئادةم</a></li><li>  كىيىنكىسى  :  <a href="/xanim_qiz/show.php?itemid=27">« 3- ﺷﻪﺧﺲ» ﻧﯩﯔ ﺋﺎﻟﺪﯨﻨﻰ  </a></li>');}catch(e){}

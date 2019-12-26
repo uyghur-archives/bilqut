@@ -1,0 +1,78 @@
+<!-- Tor bat exligu chi Ablimitjan Maham  QQ :250092392    Tel: 6722530    E-Mail :Raziman@126.com ,ablmtjan@126.com -->
+
+<html>
+
+<head>
+<STYLE TYPE="text/css">
+<!-- /* $WEFT -- Created by: uyg (kjh) on 2007-10-7 -- */
+  @font-face {
+    font-family: UKIJ Tuz Tom;
+    font-style:  normal;
+    font-weight: normal;
+    src: url(https://www.uyghur-archive.com/bilqut/UKIJTUZ0.eot);
+  }
+-->
+</STYLE>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<script src="bedit.js"></script>
+<script language=javascript>attachAll = true; </script>
+
+<title>گۈل تاجىغا نېمە قىلدى؟</title>
+<STYLE type="text/css">
+<!--
+a:link       {text-decoration: none; font-family: AdobeSm; color: #000000 }
+a:visited    {text-decoration: none; color: #000000 }
+A:hover      {COLOR: green; FONT-FAMILY: "ukij tuz tom,MingLiU"; TEXT-DECORATION: none}
+body         {font-size: 9pt; font-family: ukij tuz tom,MingLiU, Arial;color: #000000}
+TD           {FONT-SIZE: 9pt; FONT-FAMILY: "ukij tuz tom,MingLiU, Arial";color: #000000;table-layout:fixed;word-break:break-all}
+p            {FONT-SIZE: 9pt; FONT-FAMILY: "ukij tuz tom,MingLiU, Arial";color: #000000}
+input        {FONT-SIZE: 9pt; FONT-FAMILY: "ukij tuz tom,MingLiU, Arial";color: #000000}
+body         {margin-top: 0; margin-bottom: 0;margin-left:0;margin-right:0; color: #000000}
+select       {FONT-SIZE: 9PT;}
+option       {FONT-SIZE: 9pt;}
+textarea     {FONT-SIZE: 9pt;}
+-->
+</STYLE>
+
+</head>
+
+<body>
+
+<form method="POST" action="NewsPL_save.asp?id=910" onsubmit="return FrontPage_Form1_Validator(this)" language="JavaScript" name="FrontPage_Form1">
+	<div align="center">
+		<table dir="rtl" border="1" cellpadding="5" width="660" id="table1" style="border-collapse: collapse" bordercolor="#C0C0C0" bgcolor="#F5F5F5">
+			<tr>
+				<td width="109" align="center">ئابونت:</td>
+				<td>
+				&nbsp;<input type="text" name="username" size="20" style="background-color: #F5F5F5" maxlength="8">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+				|&nbsp;&nbsp; <font color="#800000">تورداشلارنىڭ ئىلمىي بولغان 
+				باھالارنى بېرىشىنى تەشەببۇس قىلىمىز.</font></td>
+			</tr>
+			<tr>
+				<td width="109" align="center" bgcolor="#FFFFFF">باھا:</td>
+				<td bgcolor="#FFFFFF">
+				&nbsp;<textarea rows="4" name="content" cols="96" style="font-family: ukij tuz tom; font-size: 10pt"></textarea></td>
+			</tr>
+			<tr>
+				<td align="center" bgcolor="#FFFFFF" colspan="2">
+	<p align="center">Ctrl+K ئارقىلىق يېزىق كىرگۈزۈش شەكلىنى ئۆزگەرتىسىز</p></td>
+			</tr>
+			</table>
+	</div>
+	<p align="center"><input type="submit" value="يوللاش" name="B1">&nbsp;&nbsp;&nbsp; 
+	<input type="reset" value="قايتا" name="B2"></p>
+</form>
+
+<div align="center">
+	<table dir="rtl" border="0" cellpadding="3" cellspacing="0" width="660" id="table2">
+	<center><tr><td>ھازىرچە باھا يوق!</td></tr></center>
+	</table>
+</div>
+<br>
+<center>
+
+</center>
+</body>
+
+</html>

@@ -1,0 +1,3 @@
+﻿try {setidval('hits','1633');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/xewer/show.php?itemid=430">خەلقئارا پۇتبولچىلار بىرلەشمىسى ‹‹ ئوت ئۆچۈرۈش ›› بىلەن ئاۋارە بولماقتا</a></li><li>  كىيىنكىسى  :  <a href="/xewer/show.php?itemid=432">جامىس بىلەن كوبى ھەپتىلىك ‹‹ مۇنەۋۋەر ۋاسكىتبولچى ›› بولدى</a></li>');}catch(e){}

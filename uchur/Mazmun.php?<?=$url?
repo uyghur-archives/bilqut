@@ -1,0 +1,151 @@
+<?
+	include("Bet_usti.php");
+	global $db;
+	$prmlist=$_SERVER['QUERY_STRING'];
+	$plist=base64_decode($prmlist);
+	$p=explode("&",$plist);
+	$aidlist=explode("=",$p[0]);
+	$catidlist=explode("=",$p[1]);
+	$aid=$aidlist[1];
+	$catid=$catidlist[1];
+	
+$db->query("UPDATE ".channel_table('info',36)." SET hits=hits+1 WHERE infoid=".$aid."");
+	$sqllist="select infoid,catid,title,addtime,hits,content,telephone,email,address,author from ".channel_table('info',36)." where status=3 and infoid=".$aid."";
+	$rst=$db->query($sqllist);
+	while($t=$db->fetch_array($rst))
+	{
+		$i++;
+		$aid=$t['infoid'];
+		$catid=$t['catid'];
+		$title=$t['title'];
+		$content=$t['content'];
+		$addtime=date("Y-m-d",$t['addtime']);
+		$hits=$t['hits'];
+		$tel=$t['telephone'];
+		$author=$t['author'];
+		$raziman=$t['address'];
+	}
+	$db->free_result($rst);		
+?>
+
+
+<div align="center">
+
+
+	<table border="0" width="950" id="table3" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="640" valign="top">
+			<table border="0" width="100%" id="table4" cellspacing="0" cellpadding="0" class="uchur_tur_tima">
+				<tr>
+					<td height="35"  ><div style="line-height:32px; padding-right:30px;">
+		<a href="Tur.php?<?=base64_encode($catid)?>" target="_blank" style="color:#996600; font-size:12pt;"><?=TurIsmi($catid)?></a>
+		</div></td>
+				</tr>
+				<tr>
+					<td>
+				<table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
+              
+              <tr>
+                <td height="30" >&nbsp;</td>
+              </tr>
+              <tr>
+                <td height="35" align="center"><h2><?=$title?> </h2></td>
+              </tr>
+              <tr>
+                <td height="10" align="center">&nbsp;</td>
+              </tr>
+              <tr>
+                <td height="26" align="center"><span style="font-size:10pt;">يوللانغان ۋاقتى :&nbsp;&nbsp;
+                  <?=$addtime?>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                  <?=$hits?>&nbsp;قېتىم كۆرۈلدى 
+                </span></td>
+              </tr>
+              <tr>
+                <td height="30" ><table width="100%" border="0" cellspacing="0" cellpadding="0"  class="uchur_het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+				كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+				نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+				چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+	echo('<img src="../raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table></td>
+              </tr>
+              <tr>
+                <td height="173" > <div id="raziman_mazmun" class="nurmal_het">
+		<span id="manbilqut">   <?=$content?></span></div>               
+                </td>
+              </tr>
+              <tr>
+                <td height="43" >&nbsp;</td>
+              </tr>
+            
+              <tr>
+                <td height="28" align="center" bgcolor="#f9f9f9"><table width="98%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                    
+                    <td width="50%" >ئالاقىلاشقۇچى : <font color=#0000cc><?=$author?></font></td>
+                      <td width="50%" height="35" >تېلېفون : <font color=#CC0000><?=$tel?></font> </td>
+                      
+                    </tr>
+                   <tr>
+                     <td width="100%" colspan="2" >ئالاقىلشىش ئادېرسى  : <font color=#0000cc><?=$raziman?></font></td>
+                                    
+                    </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td height="19">&nbsp;</td>
+              </tr>
+            </table>
+					</td>
+				</tr>
+				
+			</table>
+			</td>
+			<td width="10" valign="top">&nbsp;</td>
+			<td width="300" valign="top">
+			<table border="0" width="100%" id="table8" cellspacing="0" cellpadding="0" class="uchur_tima">
+				<tr>
+					<td class="uchur_tima_het" height="35">ئەڭ يېڭى ئۇچۇرلار</td>
+				</tr>
+				<tr>
+					<td ><div class="uchur_t"><?=uchur_timisi(22,0,211,'infoid',60,1,1)?></div></td>
+				</tr>
+				
+			</table>
+            
+             <div class="arlik"></div>
+            	<table border="0" width="100%" id="table8" cellspacing="0" cellpadding="0" class="uchur_tima">
+				<tr>
+					<td class="uchur_tima_het" height="35"></td>
+				</tr>
+				<tr>
+					<td  align="center" class="uchur_t"><a target="_blank" href="Uchur_Yollash.php">
+			<img border="0" src="../Raziman_img/uchur/uchur_yollash.gif" width="290" height="90"></a></td>
+				</tr>
+				
+			</table>
+            
+			</td>
+		</tr>
+		<tr>
+			<td width="640" valign="top" height="10"></td>
+			<td width="10" valign="top" height="10"></td>
+			<td width="300" valign="top" height="10"></td>
+		</tr>
+	</table>
+</div>
+<?
+	include("bet_asti.php");
+?>

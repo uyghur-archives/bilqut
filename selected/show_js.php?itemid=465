@@ -1,0 +1,3 @@
+﻿try {setidval('hits','2061');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/kompiyotir/show.php?itemid=464">56Kbps مودىم ئورناتقاندىن كېيىن كومپيۇتېرنىڭ ئۆچمەسلىكى</a></li><li>  كىيىنكىسى  :  <a href="/kompiyotir/show.php?itemid=466">شىنجاڭ كۆچمە خەۋەرلىشىش گوروھى ئۇيغۇريېزىقىدىكى تور تىجارەتخانىسى</a></li>');}catch(e){}

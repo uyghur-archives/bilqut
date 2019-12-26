@@ -1,0 +1,3 @@
+﻿try {setidval('hits','1860');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/balilar_bagchisi/show.php?itemid=1584">ئېمىشنى خالىمايدىغان بالىلارغا قانداق&nbsp;&nbsp;مۇئامىلە قىلىش كېرەك؟</a></li><li>  كىيىنكىسى  :  <a href="/balilar_bagchisi/show.php?itemid=1586">بالا ئېمىتىۋاتقان مەزگىلدە ئانا قانچىلىك&nbsp;&nbsp;ئىسسىقلىققا موھتاج؟</a></li>');}catch(e){}

@@ -1,0 +1,370 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>تاماكا چېكىش نېمىشقا چەكلىنىدۇ؟-ئىسلام دىنى-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,ئىسلام دىنى">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/islam_dini/" class="red"> ئىسلام دىنى</a>
+         | <a class="razimantur" href="/islam_dini/list.php?catid=121" >ئىسلام دىنىدىن ساۋاتلار </a>
+
+ | <a class="razimantur" href="/islam_dini/list.php?catid=122" >قۇرئان كەرىم </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/islam_dini/">ئىسلام دىنى</a> >> <a href="/islam_dini/list.php?catid=121">ئىسلام دىنىدىن ساۋاتلار </a> >>  تاماكا چېكىش نېمىشقا چەكلىنىدۇ؟</div>
+<!--主标题--><h1>تاماكا چېكىش نېمىشقا چەكلىنىدۇ؟ </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2008-09-21 18:21:38&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">9211</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">[s:14]تاماكا چېكىش ھارامدۇر. بۇنىڭ ئىككى تۈرلۈك دەلىلى بار؛ بىرى ئەقلىي دەلىل، يەنە بىرى نەقلىي دەلىل.
+
+ئەقلىي دەلىل: 
+ ئىسلام دىنى بەدەنگە، ئەقىلگە، مالغا، جەمئىيەتكە ۋە ئەخلاققا زىيانلىق بولغان ھەرقانداق نەرسىدىن مەنئى قىلىدۇ. تاماكا يۇقىرىدىكى بەش خىل نەرسىنىڭ ھەممىگە زىيانلىق بولغانلىقى ئۈچۈن، ئۇنى چېكىش قەتئىي مەنئى قىلىنىدۇ. تۆۋەندە ئۇ زىيانلارنى بىر - بىرلەپ ئوتتۇرىغا قويىمىز:
+
+ 1 -&nbsp;  تاماكا بەدەنگە زىيانلىق. بەدەن ئاللاھ تەئالانىڭ ئىنسانغا بەرگەن ئامانىتى بولۇپ، ئۇ ئىنساننىڭ ئۆز مۈلكى ئەمەس. ئۇنىڭدىن ئاللاھ تەئالا كۆرسەتكەن يول بويىچە پايدىلىنىپ، ئاخىرىدا ئاللاھ تەئالاغا تەسلىم قىلىش لازىم.
+
+بىر ئادەمنىڭ، ئۆزۈمنىڭ دەپ قولىنى ياكى پۇتىنى ۋە ياكى قانداقلا بىر ئەزاسىنى كېسىۋېتىش ئارقىلىق ئۆز ۋۇجۇدىغا زىيان يەتكۈزۈشى توغرا بولمىغاندەك تاماكا چېكىش ئارقىلىق ئۆز ۋۇجۇدىغا زىيان يەتكۈزىشىمۇ توغرا ئەمەس.
+
+ تاماكىنىڭ بەدەنگە زىيانلىق بىر نەرسە ئىكەنلىكى مۇتەخەسسىس دوختۇرلار تەرىپىدىن ئىسپاتلىنىپ پۈتۈن دۇنياغا ئېلان قىلىندى. جۈملىدىن دۇنيا بويىچە راك كېسىلىگە مۇپتىلا بولغۇچىلارنىڭ 90 % تاماكا چەككۈچىلەردىن بولغانلىقى ئىسپاتلىنىپ، بۇ توغرىدا ماقالىلار يېزىلدى. مانا بۇ تاماكىنىڭ بەدەنگە زىيانلىق ئىكەنلىكىنىڭ ئىسپاتى. 
+
+پۈتۈن دۇنيادىكى تاماكا ئىشلەپچىقىرىش شىركەتلىرى تاماكىنىڭ قېپىغا «تاماكا ساقلىڭىزغا زىيانلق» دېگەن مەزمۇندا بىر ئاگاھلاندۇرۇش يېزىپ قويىدۇ. ئۇلار بۇنى، تاماكا چېكىپ زىيانغا ئۇچراپ، شىركەتلىرى ئۈستىدىن سوتقا ئەرز قىلغۇچىلار بولۇپ قالسا، سوت مەھكىمىسىدە بىز «تاماكا زىيانلىق» دەپ قېپىغا يازغان ئىدۇق، دەپ ئۆزلىرىنى ئاقلاش ئۈچۈن يازىدۇ. ئەمەلىيەتتىمۇ دۇنيانىڭ ھەر قايسى جايلىرىدا تاماكا چەككۈچىلەر بىلەن تاماكا ئىشلەپچىقارغۇچى شىركەتلەر ئوتتۇرىسىدا بۇنداق دەۋا - دەستۇرلەر بولۇپ تۇرىدۇ. خەلقئارالىق گېزىت - ژورناللاردا بۇنداق ۋەقەلەرنىڭ خەۋەرلىرى چىقىپ تۇرىدۇ.&nbsp; 
+
+2- تاماكا ئەقىلگە زىيانلىق. چۈنكى تاماكىنى چېكىپ باقمىغان كىشى چەكسە، ياكى چېكىپ ئادەتلەنگەن كىشى كۆپ چەكسە ياكى قاتتىق شۇرىسا ئازراق مەست قىلىدۇ. بۇ مۇ دوختۇرلار تەرىپىدىن ئىسپاتلانغان.&nbsp; پەيغەمبىرىمىز ئەلەيھىسسالام: «كۆپى مەست قىلىدىغان نەرسىنىڭ ئېزىمۇ ھارام» دېگەن. (بۇ ھەدىسنى ئەبۇ داۋۇد، تىرمىزى ۋە ئەھمەد رىۋايەت قىلغان)
+
+ 3- تاماكا مالغا (ئىقتىسادقا) زىيانلىق. چۈنكى چېكىدىغان تاماكىنى پۇلغا ئېلىشقا توغرا كېلىدۇ. تاماكا ئالغان پۇل ھېچبىر پايدا ئېلىپ كەلمەستىن قولدا قالغان پۇلنىڭ ئاز قېلىشىغا سەۋەب بولىدۇ. بۇ، ھەرقانداق كىشى ئاسانلا بىلەلەيدىغان بىر ھەقىقەت. ئۇنىڭ ئۈستىگە تاماكا چەككەن كىشى ئائىلىسىگە يىمەك - ئىچمەك ۋە كىيىم - كېچەك ئېلىشنىڭ ئورنىغا تاماكا ئېلىپ چېكىدۇ. ئەگەر ئۇ ھەر كۈن تاماكىغا سەرپ قىلىدىغان پۇلنى يىغسا، يىغىلغان پۇل بىلەن تۇرمۇشىنى راھەت - پاراغت ئىچىدە ئۆتكۈزۈشى، بالىلىرىنى ئۇبدان ئوقۇتۇپ جەمئىيەتكە پايدىلىق بىر ئادەم قىلىپ سۇنۇشى مۇمكىن.
+
+4- تاماكا جەمىيەتكە زىيانلىق. مەسىلەن: تاماكنىڭ ئىسى ھاۋانى بۇلغايدىغان بىر زەھەر بولغاچقا تاماكا چەككەن كىشى ئايالىغا، بالىلىرىغا، ھەمراھلىرىغا، شۇنداقلا پۈتكۈل جەمئىيەتكە زىيان يەتكۈزىدۇ. دوختۇرلارنىڭ دېيىشىچە تاماكا چەككۈچىلەر بىلەن بىر ئۆيدە 4 سائەت بىللە ئولتۇرغان كىشى 10 دانە تاماكا چەككەندەك بولىدىكەن. تاماكا چېكىپ ئۆپكە، زۇكام ۋە باشقا كېسەللەرگە مۇپتىلا بولغان كىشىنىڭ كېسىلى باشقىلارغا يۇقىدۇ. بولۇپمۇ يۆتەلگەن چېغىدا شۇنداق بولىدۇ.
+
+ سۇ ۋە ھاۋا ھايات ئۈچۈن ئاساسلىق ئىككى ماددە. سۇنى بۇلغىۋېتىش مەنئى قىلىنغاندەك ھاۋانى بۇلغىۋېتىشمۇ مەنئى قىلىنىدۇ. بىر كۆلنىڭ سۈيىگە بىر زەمبىل پوقنى تۆكۈش قانچىلىق يامان ئىش بولسا، تاماكا چېكىپ ھاۋانى بۇلغاشمۇ ئاز دېگەندە شۇنچىلىك يامان ئىش. بۇنى ئەقىل-&nbsp; پاراسەت ئىگىلىرى بايقىيالايدۇ.
+
+5- تاماكا ئەخلاققا زىيانلىق. چۈنكى تاماكا ھەرگىز مۇسۇلماننىڭ ئەخلاقى ئەمەس. ئەكسىچە بۇ ئەجنەبىيلەرنىڭ ئادىتىدۇر. بىر مۇسۇلماننىڭ ئەخلاقنى دىنىدىن ئۆگىنىشى لازىم. دىنى نېمىگە بۇيرۇسا، ئۇنى قىلىش، نېمىدىن چەكلىسە ئۇنىڭدىن يېنىش دىنىمىز بىزگە ئۆگەتكەن ئەخلاقتۇر. دۇنياسىغا، ئاخىرىتىگە، ئۆزىگە ۋە باشقا مۇسۇلمانلارغا پايدىسى بولمىغان، ھەتتا زىيىنى بولغان ئىشنى تەرك ئېتىش مۇسۇلماننىڭ ئەخلاقىدۇر. ئاللا تەئالا مۇنداق دەيدۇ: «مۆمىنلەر بىھۈدە سۆز- ھەرىكەتتىن يۈز ئۆرۈگۈچى كىشىلەردۇر» (مۇئمىنۇن سۈرىسى 23/3).
+
+تاماكا چېكىدىغان كىشى تاماكا ئېلىشقا پۇل تاپالمىغان چاغلاردا جىلە بولۇپ بىكاردىن- بىكار باشقىلارغا ئاچچىقلايدۇ. بەزىلەر بىلەن تىللىشىدۇ. بەزىلەرنى ھاقارەتلەيدۇ. بەزىدە ھېچنېمىدىن ھېچنېمە يوق كىشىلەر ئۇرۇشىدۇ. تاماكا چېكىدىغان كىشىنىڭ ئىنسانلار بىلەن بولغان مۇئامىلىسى، ئائىلىسى بىلەن بولغان مۇئامىلىسى تاماكا چەكمەيدىغان كىشىگە نىسبەتەن ناچار بولىدۇ.
+
+تاماكا چىكىدىغان كىشى بەزىدە بالىلىرىغا ئازار بېرىدۇ. ئايالىغا دەشنەم قىلىدۇ. بەزىدە ئۆزىچە چىچاڭلاپ ئايالىنى تالاق قىلىۋېتىپ ئايالىنى تۇل، بالىلىرىنى يېتىم، ئۆزىنى دىۋانە قىلىپ قويىدۇ. تاماكا چېكىدىغان كىشىنىڭ ئاغزى سېسىق، يۈزى نۇرسىز بولۇپ قالىدۇ.
+
+تاماكىنىڭ ئۇنىڭدىن باشقا نۇرغۇن زىيانلىرى بار. بۇ زىيانلار تۆۋەنكىچە:
+
+ئا - ھەر كۈن تاماكا، چاقماق ياكى سەرەڭگە ئېلىشقا چىقىم بولغان پۇلنىڭ ھېسابىنى قىلىدىغان بولساق، مۇدھىش بىر رەقەم ئوتتۇرىغا چىقىدۇ. بۇنى ئىسلام دۇنياسى مىقياسىدا ھېسابلاپ باقايلى قېنى. ئاندىن بۇنىڭغا تاماكىنىڭ سەۋەبىدىن بولغان كېسەللەرنى داۋالاشقا كەتكەن مەبلەغنى قوشۇپ باقايلى. بۇنى تەسەۋۋۇر قىلىش ئۈچۈن ماتېماتىك بولۇش كېرەك ئەمەس.
+
+ب - تاماكا چېكىش دۇكان، ئۆي، زاۋۇت - فابرىكا، ماي ئىسكىلاتلىرى ۋە باسما زاۋۇتلىرى قاتارلىق جايلارغا ئوت كېتىشكە سەۋەب بولىدۇ. كۆيۈپ كەتكەن ئۆي، كارخانا، ئاپتومۇبىل ۋەھاكازالارنىڭ كۆيۈپ كېتىش سەۋەبلىرىنى تەكشۈرگەن چېغىمىزدا يەنە تاماكا ئىكەنلىكى ئوتتۇرىغا چىقىدۇ. ئۇچقۇندىن يانغىن چىقىدۇ ئەمەسمۇ.
+
+نەقلىي دەلىل
+تاماكا چېكىشنىڭ ھاراملىقىغا يۇقىرىدىكى ئەقلىي دەلىللەرنى كەلتۈرگەندىن كېيىن تۆۋەندە نەقلىي دەلىللەر كەلتۈرىمىز: تاماكا پەيغەمبەر ئەلەيھىسسالامنىڭ زامانىدا يوق ئىدى. لېكىن پەيغەمبەر ئەلەيھىسسالام ئېلىپ كەلگەن ئىسلام دىنى ۋۇجۇتقا، قوشنىغا ۋە ئىقتىسادقا زىيانلىق ھەرقانداق نەرسىنى ھارام قىلىدىغان كەڭ دائىرىلىك ھۆكۈملەرنى ئوتتۇرىغا قويىدۇ. تۆۋەندە ئۇ ھۆكۈملەرنىڭ بىر قىسمىنى بايان قىلىمىز:
+
+1- اللە تائالا مۇنداق دەيدۇ: «ئۇ پەيغەمبەر ئۇلارغا پاك نەرسىلەرنى ھالال قىلىدۇ. ناپاك نەرسىلەرنى ھارام قىلىدۇ» (ئەئراف 157- ئايەت). (تاماكا زىيانلىق، ناپاك، سېسىق نەرسىلەرنىڭ قاتارىدىندۇر).
+
+ 2- اللە تائالا مۇنداق دەيدۇ: «ئۆزۈڭلارنى ئۆز قوللىرىڭلار بىلەن تەھلىكىگە ئاتماڭلار» بەقەرە 195- ئايەت). (تاماكا راك ۋە ئۆپكە كېسىلىگە ئوخشاش تەھلىكىلىك كېسەللەرنى كەلتۈرىدۇ. تاماكا چەككەن كىشى ئۆزىنى ئۆزى تەھلىكىگە ئاتقان بولىدۇ).
+
+3- اللە تائالا مۇنداق دەيدۇ: «ئۆزۈڭلارنى ئۆلتۈرمەڭلار» (نىسا 29- ئايەت) (تاماكا چېكىش ئۆزىنى ئالدىرىماي ئۆلتۈرگەنلىك بولىدۇ)‹
+
+4- اللە تائالا مۇنداق دەيدۇ: «تۇغقانغا، يوقسۇلغا، يولدا قالغۇچىغا ھەققىنى بەرگىن. بۇزۇپ چاچمىغىن. چۈنكى بۇزۇپ چاچقۇچىلار شەيتانلارنىڭ قېرىنداشلىرىدۇر. شەيتان بولسا دائىما رەببىگە نان كوردۇر» (ئىسرا 26 - 27- ئايەتلەر ) (تاماكا چېكىش مالنى بۇزۇپ چاچقانلىقتۇر ۋە ئىسراپ قىلىشتۇر).
+
+ 5- پەيغەمبەر ئەلەيھىسسالام مۇنداق دەيدۇ: «زىيان سېلىشقا ۋە زىيان تارتىشقا بولمايدۇ» (بۇ ھەدىسنى بەيھەقى، نەۋەۋى ۋە ئەھمەد رىۋايەت قىلغان). (تاماكا چېكىش بالا - چاقىلارغا، دوست - بۇرادەرلەرگە، قولۇم - قوشنىلارغا ۋە پۇل- ماللارغا زىيان سالغانلىقتۇر).
+
+&nbsp; 6 - پەيغەمبەر ئەلەھىسسالام مۇنداق دەيدۇ : «كىمكى ئاللاھغا ۋە قىيامەت كۈنىگە ئىشىنىدىغان بولسا، قوشنىسىغا ئازار بەرمىسۇن» (بۇ خارى رىۋايەت قىلغان). (تاماكا چەككەن كىشى ئۆزىنىڭ سېسىق پۇرىقى بىلەن ئايالىغا، بالىلىرىغا ۋە قوشنىلىرىغا، بولۇپمۇ پەرىشتىلەرگە ۋە ناماز ئوقۇغۇچىلارغا ئەزىيەت بېرىدۇ).
+
+7- پەيغەمبەر ئەلەھىسسالام مۇنداق دەيدۇ: «بەندە قىيامەت كۈنى تۆۋەندىكى تۆت نەرسىدىن سورالمىغۇچە ئۇنىڭ ئىككى قەدىمى مىدىرلىمايدۇ: ئۆمرىڭنى نېمىدە تۈگەتتىڭ؟ ئىلمىڭ بىلەن نېمە ئىش قىلدىڭ؟ مېلىڭنى نەدىن تاپتىڭ ۋە نەگە خەجلىدىڭ؟ جىسمىڭنى نېمىدە چىرىتتىڭ؟» (تىرمىزى). (تاماكا چېكىدىغان كىشى مېلىنى تاماكىغا خەجلەپ جىسمىنى ئۇنىڭ بىلەن چىرىتىدۇ).
+
+خۇلاسە قىلىپ ئېتقاندا ئىسلام دىنى جاننى، ئەقىلنى، مالنى ۋە نومۇسنى ساقلاشقا بۇيرۇيدۇ. اللە تائالا ھەممىمىزنى، بۇلارنى ساقلاپ ئاخىرەتكە پاكىز ئىمان ۋە ياخشى ئەمەل بىلەن كەتكىلى نېسىپ قىلسۇن.
+</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=256" title="نىكاھنىڭ بىرىنچى كىچىسى"  target="_blank" class="tag_title_link">نىكاھنىڭ بىرىنچى ك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=175" title="مۇھەممەد ئەلەيھىسسالامنىڭ پەيغەمبەرلىكىگە ئىشىنىش"  target="_blank" class="tag_title_link">مۇھەممەد ئەلەيھىسس...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=173" title="چوقۇم كۆرۈڭلار دوستلار&nbsp;&nbsp;{&nbsp;&nbsp; ناماز&nbsp;&nbsp; }"  target="_blank" class="tag_title_link">چوقۇم كۆرۈڭلار دوس...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=171" title="ئىسلامدىكى قىرىنداشلىق"  target="_blank" class="tag_title_link">ئىسلامدىكى قىرىندا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=170" title="ھەدىسى قۇددۇسى"  target="_blank" class="tag_title_link">ھەدىسى قۇددۇسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=165" title="تۆت مەزھەبنىڭ قايسىسى ئەڭ ساغلام يول؟"  target="_blank" class="tag_title_link">تۆت مەزھەبنىڭ قايس...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=163" title="ئايەت يېزىلغان جازىلارنى ئېسىشنىڭ ھۆكمى؟"  target="_blank" class="tag_title_link">ئايەت يېزىلغان جاز...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=157" title="تاماكا چېكىش نېمىشقا چەكلىنىدۇ؟"  target="_blank" class="tag_title_link">تاماكا چېكىش نېمىش...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=156" title="ھايا"  target="_blank" class="tag_title_link">ھايا</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=151" title="ھەج قىلىشقا قادىر بولۇشتىن&nbsp; نېمە مەقسەت قىلىنىدۇ؟"  target="_blank" class="tag_title_link">ھەج قىلىشقا قادىر ب...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=150" title="قىيامەتنىڭ ئالامەتلىرى~!~!چوقۇم كۆرۈڭ"  target="_blank" class="tag_title_link">قىيامەتنىڭ ئالامەت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=149" title="ئىسلامدىكى قۇل"  target="_blank" class="tag_title_link">ئىسلامدىكى قۇل</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=148" title="ھۆكۈم ۋە ئىسپاتنىڭ ئەھكاملىرى"  target="_blank" class="tag_title_link">ھۆكۈم ۋە ئىسپاتنىڭ ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=147" title="مال بوغۇزلارش، ئوۋ ئوۋلاش ....."  target="_blank" class="tag_title_link">مال بوغۇزلارش، ئوۋ ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=146" title="جازالار"  target="_blank" class="tag_title_link">جازالار</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=145" title="جىنايەت ۋە ئۇنىڭ ھۆكۈملىرى"  target="_blank" class="tag_title_link">جىنايەت ۋە ئۇنىڭ ھۆ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=144" title="قەسەم ۋە نەزىر"  target="_blank" class="tag_title_link">قەسەم ۋە نەزىر</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=143" title="مىراس ۋە ئۇنىڭ ئەھكاملىرى"  target="_blank" class="tag_title_link">مىراس ۋە ئۇنىڭ ئەھك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=142" title="نىكاھ، تالاق، ۋاز كېچىش..."  target="_blank" class="tag_title_link">نىكاھ، تالاق، ۋاز ك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=141" title="ئومۇمىي ھۆكۈملەر"  target="_blank" class="tag_title_link">ئومۇمىي ھۆكۈملەر</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/islam_dini/search.php?catid=121&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=256" title="نىكاھنىڭ بىرىنچى كىچىسى"  target="_blank" class="tag_title_link">نىكاھنىڭ بىرىنچى كىچىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=175" title="مۇھەممەد ئەلەيھىسسالامنىڭ پەيغەمبەرلىكىگە ئىشىنىش"  target="_blank" class="tag_title_link">مۇھەممەد ئەلەيھىسسالام...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=173" title="چوقۇم كۆرۈڭلار دوستلار&nbsp;&nbsp;{&nbsp;&nbsp; ناماز&nbsp;&nbsp; }"  target="_blank" class="tag_title_link">چوقۇم كۆرۈڭلار دوستلار  ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=171" title="ئىسلامدىكى قىرىنداشلىق"  target="_blank" class="tag_title_link">ئىسلامدىكى قىرىنداشلىق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=170" title="ھەدىسى قۇددۇسى"  target="_blank" class="tag_title_link">ھەدىسى قۇددۇسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=165" title="تۆت مەزھەبنىڭ قايسىسى ئەڭ ساغلام يول؟"  target="_blank" class="tag_title_link">تۆت مەزھەبنىڭ قايسىسى ئ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=163" title="ئايەت يېزىلغان جازىلارنى ئېسىشنىڭ ھۆكمى؟"  target="_blank" class="tag_title_link">ئايەت يېزىلغان جازىلارن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=157" title="تاماكا چېكىش نېمىشقا چەكلىنىدۇ؟"  target="_blank" class="tag_title_link">تاماكا چېكىش نېمىشقا چە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=156" title="ھايا"  target="_blank" class="tag_title_link">ھايا</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/islam_dini/show.php?itemid=151" title="ھەج قىلىشقا قادىر بولۇشتىن&nbsp; نېمە مەقسەت قىلىنىدۇ؟"  target="_blank" class="tag_title_link">ھەج قىلىشقا قادىر بولۇش...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/islam_dini/show_js.php?itemid=157"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

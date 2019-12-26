@@ -1,0 +1,762 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+
+<head>
+<script language="JavaScript">
+document.onselectstart=new Function("event.returnValue=false;");
+document.oncontextmenu=new Function("event.returnValue=false;");
+</script>
+<noscript><iframe src=*.html></iframe></noscript>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>شىنجاڭ ئىشلەپچىقىرىش - قۇرۇلۇش بىڭتۇەنى  بىلقۇت باغچىسى   - powered by phpwind.net</title>
+<meta name="keywords" content="شىنجاڭ ئىشلەپچىقىرىش - قۇرۇلۇش بىڭتۇەنى" />
+<meta name="description" content="شىنجاڭ ئىشلەپچىقىرىش - قۇر .." />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://uyghur-archive.com/bilqut/bbs/rss.php?fid=128" />
+<base href="https://uyghur-archive.com/bilqut/bbs/" />
+<!--﻿
+<!--css--><style type="text/css">
+@font-face {
+    font-family: UKIJ Tuz Tom;
+    font-style:  normal;
+    font-weight: normal;
+    src: url(https://uyghur-archive.com/bilqut/UKIJTUZ0.eot);
+  }
+
+body{direction:rtl;
+font-family:Ukij Tuz Tom,Tahoma;font-size:16px;background:#fff;color:#035191;}
+h1,h2,h3,h4,h5,h6,form,body{padding:0;margin:0}
+td,th,div{font-family:Ukij Tuz Tom;}
+table{empty-cells:show;}
+img{border:0}
+h1{font-size:16px;margin:.5em 1em 1em 0}
+h3,h2{display:inline;font-size:1.0em;}
+h3{font-weight:normal}
+h2 a,h3 a{color:#035191}
+h4{margin:20px 0 10px;font-size:1.1em}
+textarea,input,select,title,alt{font:12px Ukij Tuz Tom,Arial;padding:1px 3px 0 3px;vertical-align:middle;margin-bottom:1px}
+.c{clear:both;height:1px;font:1px/1px Ukij Tuz Tom,Arial;margin-top:-1px;overflow:hidden}
+.b{font-weight:bold}
+.tal{text-align:right}
+.tac{text-align:center}
+.tar{text-align:right}
+.fr{float:left}
+.fl{float:left}
+.fl1{float:right}
+/*a link 基本连接颜色*/
+a{text-decoration:none;color:#035191}
+a:hover{text-decoration:underline;}
+.abtn{cursor:pointer;border:1px solid #B6D9E3;color:#035191;padding:2px 8px;margin-right:2px;height:30px}
+/*字体大小*/
+.f9{font-size:11px;}
+.f10{font-size:11px;}
+.f12{font-size:12px}
+.f14{font-size:14px}
+.fn,.fn a{font-weight:normal}
+/*span color 数值自定义*/
+.s1{color:#008000;}
+.s2{color:#984B98;}
+.s3{color:#FA891B;}
+.s4{color:#035191;}
+.s5{color:#659B28}
+.gray{color:#818a89} /*次要文字颜色-可定义*/
+/*main color 数值自定义*/
+.f_one,.t_one,.r_one{background:#ffffff;}
+.f_two,.t_two,.r_two{background:#F4FBFF;}
+/*form*/
+textarea,input,select,title,alt{font:12px Ukij Tuz Tom,Arial;padding:1px 3px 0 3px;vertical-align:middle;margin-bottom:1px}
+select{border:solid 1px #D4EFF7;}
+.btn{background:#B6D9E3 url(images/wind/bg.png) 0 -200px repeat-x;color:#035191;border-width:1px;padding-left:15px;padding-right:15px;vertical-align:middle}
+.input{border:solid 1px #B6D9E3;padding:2px 0px 2px 1px;font-size:1.0em;vertical-align:middle}
+form{display:inline;}
+textarea{border:solid 1px #B6D9E3;}
+/*header*/
+#header{width:965px;margin:auto;}
+/*toolbar*/
+.toptool{border-bottom:1px solid #D4EFF7; background:#F3F8EF url(images/wind/bg.png) 0 0 repeat-x;}
+.toptool span{padding:1px 5px;line-height:150%}
+/*index info*/
+#infobox{border:#D4EFF7 1px solid;margin-top:-.8em;background:#B6D9E3 url(images/wind/bg.png) 0 bottom repeat-x; }
+#notice{padding:.3em 0;height:15px}
+#notice a{padding-left:1em; color:#fff;background:url(images/wind/dotB.png) no-repeat 0 .1em; margin-left:1em}
+/*banner*/
+.banner img{vertical-align:middle;}
+/*guide*/
+.guide{background:#F3F8EF url(images/wind/bg.png) 0 -100px repeat-x; padding:.5em; border:1px solid #C4E6AF; color:#ccc}
+/*table*/
+.t{border:1px solid #B6D9E3;margin:0px auto 8px;}
+.t table{border:1px solid #fff;margin:0 auto;width:965px;}
+.t2{border-top:#B6D9E3 1px solid;margin:0px auto 5px;}
+.t3{margin:auto}
+.t4{padding:1px 0 1px 1px}
+/*table head*/
+.h{border-bottom:1px solid #76BAC2;background:#E0F0F9 url(images/wind/bg.png) 0 -200px repeat-x;text-align:right;color:#035191;padding:.3em .4em}
+.h span{font-weight:normal;}
+.h h2{font-weight:bold}
+.h a{font-family:Ukij Tuz Tom,Arial;color:#035191}
+.h span a,.h span{color:#5495A0;}
+.h a.a2{margin-left:12px;}
+/*table tr1*/
+.tr1 th{padding:5px 10px;text-align:right;vertical-align:top;font-weight:normal;}
+.tr1 td.td1{border:1px solid #D4EFF7;}
+/*table tr2*/
+.tr2{background:#F3F8EF url(images/wind/bg.png) 0 -300px repeat-x;color:#659b28;}
+.tr2 td,.tr2 th{line-height:18px;border-bottom:1px solid #DEEAD2;padding:2px 6px 0px;/*border-top:1px solid #B6D9E3;*/}
+.tr2 a{color:#659b28;margin:2px 2px 0}
+/*table tr3*/
+.tr3 td,.tr3 th{border-bottom:1px solid #D4EFF7;padding:.3em .6em}
+.tr3 th{text-align:right;font-weight:normal;}
+.tr4{background:#E0F0F9 url(images/wind/bg.png) 0 -200px repeat-x;color:#035191;}
+.tr4 td{padding:4px 10px;}
+.tr td,.tr th{padding:2px}
+/*topic content tips*/
+.tpc_content{font-size:16px; color:#035191;text-align:justify;font-family:Ukij Tuz Tom,Arial;padding:0 2% 0 0.5%;margin:0 0 2%}
+.tips{background:#F4FBFF;border:#D4EFF7 1px solid;padding:5px;margin:0 1% 1% 0;float:right;text-align:center;}
+.tiptop{border-bottom:1px solid #D4EFF7;padding:0 0 5px 0;vertical-align:middle;}
+.tipad{border-top:1px solid #D4EFF7;margin:10px 0 0;padding:5px 0 0;}
+.quote{font-size:70%;color:#035191;margin:8px 2px 2px;padding:0}
+blockquote{width:80%;font-size:85%;color:#81888c;border:1px solid #D4EFF7;border-right-width:3px;padding:5px;margin:0 0 1%}
+/*menu*/
+.menu{position:absolute;bacakground:#fff;border:1px solid #B6D9E3;}
+.menu td, .menu li,.menu ul{background:#fff;padding:0; margin:0}
+.menu li{list-style:none;}
+.menu a{display:block;padding:3px 15px 3px 15px;background:#fff;}
+.menu a:hover{background:#035191;text-decoration:none;color:#fff;}
+.menu ul.ul1 li a{display:inline;padding:0}
+/*pages*/
+.pages{margin:3px 0;font:11px/12px Ukij Tuz Tom,Tahoma}
+.pages *{vertical-align:middle;}
+.pages a{padding:1px 4px 1px;border:1px solid #B6D9E3;margin:0 1px 0 0;text-align:center;text-decoration:none;font:normal 12px/14px Ukij Tuz Tom,verdana;}
+.pages a:hover{border:#659b28 1px solid;background:#F3F8EF;text-decoration:none;color:#035191}
+.pages input{margin-bottom:0px;border:1px solid #659b28;height:15px;font:bold 12px/15px Ukij Tuz Tom,Verdana;padding-bottom:1px;padding-left:1px;margin-right:1px;color:#659b28;}
+/*footer*/
+#footer{width:98%;text-align:right;border-top:2px solid #76BAC2;margin:auto;padding:5px 0;border-bottom:#F3F8EF 12px solid}
+#main{width:98%;margin: auto; padding:.8em 0 0}
+</style><!--css-->
+
+<style type="text/css">/*竖线风格输出*/
+.tr3 td,.tr3 th{border-right:1px solid #D4EFF7;}
+.y-style{text-align:center;}
+.t table{border:0;width:100%;}
+.tr1 th{border-right:1px solid #D4EFF7;}
+.tr1 td.td1{border-left:0}
+.t{padding:1px}
+</style>
+<!--[if IE]>
+<style type="text/css">
+.t table{border:1px solid #fff;}
+</style><![endif]-->
+
+<!--[if IE]>
+<style type="text/css">
+.btn{/*border:3px double #B6D9E3*/; height:21px;padding-left:0.15em;padding-right:0.15em;}
+.tr1 td.td1{border-top:0}
+.t4{padding:0}
+.pages a{padding:1px 4px 2px;}
+.t table{width:100%;border-collapse:collapse;}
+.t {padding:0}
+.menu a{height:14px}
+</style>
+<![endif]-->
+
+<script language="JavaScript">
+var agt = navigator.userAgent.toLowerCase();
+var is_ie = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1));
+var is_gecko= (navigator.product == "Gecko");
+var imgpath = 'images';
+function getObj(id){
+	return document.getElementById(id);
+}
+function ietruebody(){
+	return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body;
+}
+function IsElement(id){
+	return document.getElementById(id)!=null ? true : false;
+}
+function checkinput(obj,val){
+	if (obj.className.indexOf('gray') != -1) {
+		obj.value = '';
+		obj.className = obj.className.replace('gray', 'black');
+	} else if (val && obj.value=='') {
+		obj.value = obj.defaultValue = val;
+		if (obj.className.indexOf('black') == -1) {
+			obj.className += ' gray';
+		} else {
+			obj.className = obj.className.replace('black', 'gray');
+		}
+	}
+}
+</script>
+</head>
+<body>
+<div id="wrapA">
+
+<div id="header">
+<div class="toptool tar">
+	<span>
+	<a href="simple/" target="_blank">رەسىمسىز ھالەت</a>
+
+	| <a style="cursor:pointer;" id="td_skin">ئۇسلۇب ئالماشتۇرۇش<img src="images/wind/menu-down.gif" /></a>
+	| <a href="home.php">باش بەت</a>
+
+	</span>
+</div>
+<table cellspacing="0" cellpadding="0" align="center" width="100%">
+<tr>
+	<td class="banner"><img align="middle" src="images/top.jpg" width="965" height="180"></td>
+	
+</tr>
+<tr><td align="center" height="1" colspan="2"></td></tr>
+</table>
+<div align="center" ><td class="banner" id="banner" align="right"></td></div>
+<div id="h_guide" class="guide" colspan="2"><span class="s3">&raquo;</span>
+
+	سىز تېخى كۇلۇبقا <a href="login.php"> كىرمەپسىز </a> &nbsp;<a href="register.php"><b>تىزىملىتىش</b></a>
+
+	| <a href="push.php?fid=128">تەۋسىيە</a>
+	| <a href="search.php">ئىزدەش</a>
+	| <a style="cursor:pointer;" id="td_hack" >مۇلازىمەتلەر<img src="images/wind/menu-down.gif" /></a>
+
+	| <a href="hack.php?H_name=bank">بانكا</a>
+
+	| <a href="faq.php">ياردەم</a>
+
+	| <a  href="#" onclick="location.href='https://www.uyghur-archive.com/bilqut/convert.php?utype=1&url='+document.URL;return false;" style="color:red"><b>ULY</b></a>
+
+</div>
+<div id="menu_hack" class="menu" style="display:none;"><table width="120" cellspacing="1" cellpadding="5">
+	<tr><th class="h">كۇلۇب مۇلازىمىتى</th></tr>
+
+	<tr><td class="f_one"><a href="hack.php?H_name=toolcenter">قورال مەركىزى</a></td></tr>
+
+</table></div>
+<div id="menu_skin" class="menu" style="display:none;"><table width="120" cellspacing="1" cellpadding="5">
+	<tr><th class="h">ئۇسلۇب ئالماشتۇرۇش</th></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=841&skinco=black">black</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=841&skinco=gray">gray</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=841&skinco=green">green</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=841&skinco=moon">moon</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=841&skinco=movie">movie</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=841&skinco=pink">pink</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=841&skinco=wind">wind</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=841&skinco=wind5">wind5</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=841&skinco=yellow">yellow</a></td></tr>
+
+</table></div>
+
+
+<div id="menu_msg" class="menu" style="display:none;"><table width="120" cellspacing="1" cellpadding="5">
+	<tr><th class="h"> قىسقا ئۇچۇر </th></tr>
+	<tr><td class="f_one"><a href="message.php">خەت ساندۇقى</a></td></tr>
+	<tr><td class="f_one"><a href="message.php?action=sendbox">يوللاش ساندۇقى</a></td></tr>
+	<tr><td class="f_one"><a href="message.php?action=scout">ئۇچۇر ئىز قوغلاش</a></td></tr>
+	<tr><td class="f_one"><a href="message.php?action=write">قىسقا ئۇچۇر يېزىش</a></td></tr>
+</table></div>
+<div id="menu_profile" class="menu" style="display:none;"><table width="170" cellspacing="1" cellpadding="5">
+	<tr><th class="h">كونترول تاختا</th></tr>
+	<tr><td><a href="profile.php">كونترول تاختا باش بېتى</a></td></tr>
+	<tr><td><a href="profile.php?action=modify">ماتېرىيال تەھرىرلەش</a></td></tr>
+	<tr><td><a href="profile.php?action=show&uid=">ماتېرىيال كۆرۈش</a></td></tr>
+	<tr><td><a href="profile.php?action=friend">دوستلار تىزىملىكى </a></td></tr>
+	<tr><td><a href="profile.php?action=permission">ئەزا ھوقۇقىنى كۆرۈش</a></td></tr>
+
+	<tr><td><a href="userpay.php">سودا تەڭگىسى باشقۇرۇش</a></td></tr>
+	<tr><td><a href="profile.php?action=change">جۇغلانما ئالماشتۇرۇش</a></td></tr>
+	<tr><td><a href="profile.php?action=buy">ئالاھىدە گورۇپپا سېتىۋېلىش</a></td></tr>
+	<tr><td><a href="profile.php?action=favor">ساقلىغۇچ</a></td></tr>
+	<tr><td><a href="personal.php">تېمىلىرىم</a></td></tr>
+</table></div>
+<div id="menu_sort" class="menu" style="display:none;">
+	<table width="150" cellspacing="1" cellpadding="5">
+	<tr><th class="h">سىتاتسىتكا</th></tr>
+	<tr><td class="f_one"><a href="sort.php">ئاساسىي سىتاتسىتكا</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=ipstate">IP سىتاتسىتكىسى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=team">باشقۇرۇش قوشۇنى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=admin">باشقۇرۇش سىتاتسىتكىسى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=online">توردىكىلەر سىتاتسىتكىسى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=member">ئەزالار قاتارى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=forum">سەھىپە قاتارى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=article">يازما قاتارى</a></td></tr>
+</table></div>
+
+</div>
+<div id="main">
+﻿﻿
+<style type="text/css">
+.signature{height:expression(this.scrollHeight>parseInt(this.currentStyle.maxHeight)?this.currentStyle.maxHeight:"auto");}
+.tiptop img{vertical-align:middle}
+.tips li{list-style:none;width:30%;padding:0 5px;float:left;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.dig{ float:left; font-size:12px; background:#FFFFD4 url(images/wind/read/dig.gif) no-repeat .4em .1em; border:#E6E6B3 1px solid ; border-bottom-width:2px; border-right-width:2px; padding:.2em .8em .2em 2.4em; cursor: pointer; margin:.6em .1em; color:#000}
+.dig:hover{ border:#E6E6B3 2px solid ; border-bottom-width:1px; border-right-width:1px; text-decoration:none}
+.menu a.a6:hover{text-decoration:underline;background:#E0F0F9;color:#00f}
+.user-pic { margin:0 auto .5em;}
+.user-pic table{ border:none}
+.user-pic img.pic{ margin:0 0 .3em;background:#F3F8EF; padding:3px; border:1px solid #DAEBCD}
+.user-info{ position:absolute;line-height:160%; margin-left:-1.5em; margin-top:-1em}
+.user-infoWrap{background:#FFF; border:1px solid #004C7D; border-top:1px #A6CBE7 solid; border-left:1px solid #A6CBE7; padding:.5em 1em; margin-left:20px;display:block;}
+.user-info .co{position:absolute; width:10px;height:20px; margin-left:-1.8em; margin-top:2em; background:url(images/wind/user-info-co.png)}
+/*字体大小*/
+.small{font-size:12px}
+.middle{font-size:14px}
+.big{font-size:18px}
+</style>
+<div class="t3" style="margin-top:8px"><table width="100%" cellspacing="0" cellpadding="0" align="center">
+	<tr><td><img src="images/wind/index/home_menu.gif" align="absmiddle" id="td_cate" onMouseOver="read.open('menu_cate','td_cate');" style="cursor:pointer;" /> <b><a href="index.php">بىلقۇت باغچىسى </a> &raquo; <a href="thread.php?fid=128">بىڭتۈەنلەر</a> &raquo; <a href="read.php?tid=841">شىنجاڭ ئىشلەپچىقىرىش - قۇرۇلۇش بىڭتۇەنى</a></b> <a href="rss.php?tid=841" target="_blank" title="بۇ يازما ئەڭ يېڭى مەزمۇنلىرىغا Rss تە مۇشتەرى بولۇش"><img align="absmiddle" src="images/wind/rss.png" /></a></td></tr>
+</table></div>
+<div id="menu_cate" class="menu" style="display:none;"><div style="padding:5px;height:420px;width:200px;overflow-Y:auto;"><ul class="ul1"><li> <a href="index.php?cateid=1">>> بىلقۇت خەزىنىسى</a></li><li> &nbsp;<a href="thread.php?fid=2">|- ئەلالاشتۇرۇش</a></li><li> &nbsp;<a href="thread.php?fid=4">|- بىلقۇت خەزىنىسى ھەققىدە</a></li><li> &nbsp;<a href="thread.php?fid=160">|- تەكلىپ-پىكىر بىرىڭ</a></li><li> <a href="index.php?cateid=5">>> ئاۋازلىق ئەسەرلەر</a></li><li> &nbsp;<a href="thread.php?fid=103">|- مەسەللەر</a></li><li> &nbsp;<a href="thread.php?fid=101">|- ھېكايىلەر</a></li><li> &nbsp;<a href="thread.php?fid=102">|- نەسىرلەر</a></li><li> &nbsp;<a href="thread.php?fid=8">|- مىڭ بىر كېچە</a></li><li> &nbsp;<a href="thread.php?fid=9">|- كەلىلە ۋە دېمىنە</a></li><li> &nbsp;<a href="thread.php?fid=10">|- چۆچەكلەر</a></li><li> &nbsp;<a href="thread.php?fid=11">|- رىۋايەتلەر</a></li><li> <a href="index.php?cateid=16">>> كۈتۈپخانا</a></li><li> &nbsp;<a href="thread.php?fid=174">|- ھىكمەت</a></li><li> &nbsp;<a href="thread.php?fid=175">|- غارايىباتلار</a></li><li> &nbsp;<a href="thread.php?fid=177">|- قان تىپى</a></li><li> &nbsp;<a href="thread.php?fid=178">|- نۇتۇقلار</a></li><li> &nbsp;<a href="thread.php?fid=179">|- ئۆسۈملۈكلەر</a></li><li> &nbsp;<a href="thread.php?fid=180">|- كۆكتاتلار</a></li><li> &nbsp;<a href="thread.php?fid=181">|- نەسىھەت</a></li><li> &nbsp;<a href="thread.php?fid=182">|- مۆچەل</a></li><li> &nbsp;<a href="thread.php?fid=183">|- مېۋە</a></li><li> &nbsp;<a href="thread.php?fid=184">|- مايلار</a></li><li> &nbsp;<a href="thread.php?fid=171">|- ھايۋاناتلار</a></li><li> &nbsp;<a href="thread.php?fid=176">|- مىللەتلەر</a></li><li> &nbsp;<a href="thread.php?fid=105">|- رىۋايەتلەر</a></li><li> &nbsp;<a href="thread.php?fid=172">|- سۆيگۈ مەكتۇپى</a></li><li> &nbsp;<a href="thread.php?fid=185">|- ئۆلچەم بىرلىكلىرى</a></li><li> &nbsp;<a href="thread.php?fid=186">|- بۈگۈن</a></li><li> &nbsp;<a href="thread.php?fid=170">|- مۇزىي</a></li><li> &nbsp;<a href="thread.php?fid=187">|- دۇنيادىكى شەھەرلەر</a></li><li> &nbsp;<a href="thread.php?fid=188">|- دۇنيادىكى كۈتۈپخانىلار</a></li><li> &nbsp;<a href="thread.php?fid=189">|- تارىخ</a></li><li> &nbsp;<a href="thread.php?fid=173">|- تۇرمۇش مەسلىھەتچىسى</a></li><li> &nbsp;<a href="thread.php?fid=22">|- مىڭ بىر كېچە</a></li><li> &nbsp;<a href="thread.php?fid=21">|- چۆچەكلەر</a></li><li> &nbsp;<a href="thread.php?fid=24">|- ئەپسانىلەر</a></li><li> &nbsp;<a href="thread.php?fid=23">|- كەلىلە ۋە دېمىنە</a></li><li> &nbsp;<a href="thread.php?fid=20">|- ھېكايىلەر</a></li><li> &nbsp;<a href="thread.php?fid=17">|- ماقالىلەر</a></li><li> &nbsp;<a href="thread.php?fid=19">|- دۇنيادىكى ئەڭ</a></li><li> &nbsp;<a href="thread.php?fid=18">|- ياشلار سەمىگە</a></li><li> &nbsp;<a href="thread.php?fid=85">|- ماقال-تەمسىل</a></li><li> &nbsp;<a href="thread.php?fid=99">|- لەتىپە-يۇمۇرلار</a></li><li> &nbsp;<a href="thread.php?fid=88">|- نەسىرلەر</a></li><li> &nbsp;<a href="thread.php?fid=87">|- مەسەللەر</a></li><li> <a href="index.php?cateid=25">>> بالىلار باغچىسى</a></li><li> &nbsp;<a href="thread.php?fid=159">|- كىم ئەڭ ئەقىللىق</a></li><li> &nbsp;<a href="thread.php?fid=26">|- بالىلار چۆچەكلىرى</a></li><li> &nbsp;<a href="thread.php?fid=27">|- قىزىقارلىق ئويۇنلار</a></li><li> &nbsp;<a href="thread.php?fid=28">|- قىزىقارلىق كارتونلار</a></li><li> &nbsp;<a href="thread.php?fid=29">|- يۈزمىڭلىغان نىمە ئۈچۈن؟</a></li><li> &nbsp;<a href="thread.php?fid=97">|- بالىلار ھېكايىسى</a></li><li> &nbsp;<a href="thread.php?fid=98">|- ئانا-بالىلار ساغلاملىق ساۋاتلىرى</a></li><li> <a href="index.php?cateid=30">>> بىز</a></li><li> &nbsp;<a href="thread.php?fid=150">|- ئۇيغۇر كارخانچىللىرى</a></li><li> &nbsp;<a href="thread.php?fid=151">|- ئۇيغۇر كارخانىلىرى</a></li><li> &nbsp;<a href="thread.php?fid=152">|- ئۇيغۇر مەھسۇلاتلىرى</a></li><li> &nbsp;<a href="thread.php?fid=153">|- ئۇيغۇر پاتنېتلىرى</a></li><li> &nbsp;<a href="thread.php?fid=154">|- ئۇيغۇر دوكتۇرلىرى</a></li><li> &nbsp;<a href="thread.php?fid=155">|- ئۇيغۇر كەشپىياتلىرى</a></li><li> &nbsp;<a href="thread.php?fid=157">|- ئۇيغۇرساياھەتچىلىكى</a></li><li> &nbsp;<a href="thread.php?fid=32">|- تائاملىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=33">|- شەخىسلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=35">|- ئويۇنلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=34">|- تىبابىتىمىز</a></li><li> &nbsp;<a href="thread.php?fid=36">|- چالغۇلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=37">|- ھۈنەرلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=31">|- يوسۇنلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=38">|- تارىخمىز</a></li><li> <a href="index.php?cateid=126">>> يۇرتىمىز</a></li><li> &nbsp;<a href="thread.php?fid=127">|- شەھەرلەر</a></li><li> &nbsp;<a href="thread.php?fid=128">|- بىڭتۈەنلەر</a></li><li> &nbsp;<a href="thread.php?fid=129">|- ناھىيەلەر</a></li><li> &nbsp;<a href="thread.php?fid=130">|- ۋىلايەتلەر</a></li><li> &nbsp;<a href="thread.php?fid=131">|- ئاپتونوم ئوبلاست</a></li><li> &nbsp;<a href="thread.php?fid=132">|- ئاپتونوم ناھىيە</a></li><li> <a href="index.php?cateid=39">>> ئۆگىنىش</a></li><li> &nbsp;<a href="thread.php?fid=41">|- ماتېماتىكا</a></li><li> &nbsp;<a href="thread.php?fid=106">|- يىزا-ئىگىلىك</a></li><li> &nbsp;<a href="thread.php?fid=107">|- پىسخىلوگىيە</a></li><li> &nbsp;<a href="thread.php?fid=108">|- ئىقتىساد</a></li><li> &nbsp;<a href="thread.php?fid=143">|- مۇھىت</a></li><li> &nbsp;<a href="thread.php?fid=52">|- ئۇيغۇرتىلى</a></li><li> &nbsp;<a href="thread.php?fid=46">|- خەنزۇتىلى</a></li><li> &nbsp;<a href="thread.php?fid=47">|- ئىنگىلىزتىلى</a></li><li> &nbsp;<a href="thread.php?fid=48">|- روس تىلى</a></li><li> &nbsp;<a href="thread.php?fid=53">|- ياپون تىلى</a></li><li> &nbsp;<a href="thread.php?fid=40">|- ئەدەبىيات</a></li><li> &nbsp;<a href="thread.php?fid=42">|- جۇغراپىيە</a></li><li> &nbsp;<a href="thread.php?fid=43">|- تارىخ</a></li><li> &nbsp;<a href="thread.php?fid=44">|- فىزىكا</a></li><li> &nbsp;<a href="thread.php?fid=45">|- خىمىيە</a></li><li> &nbsp;<a href="thread.php?fid=50">|- ئاستىرنومىيە</a></li><li> &nbsp;<a href="thread.php?fid=49">|- بىئولوگىيە</a></li><li> &nbsp;<a href="thread.php?fid=89">|- دىپلوماتىيە</a></li><li> &nbsp;<a href="thread.php?fid=90">|- ئېلېكترون</a></li><li> &nbsp;<a href="thread.php?fid=91">|- تەنتەربىيە</a></li><li> &nbsp;<a href="thread.php?fid=92">|- مەتبەئەچىلىك</a></li><li> &nbsp;<a href="thread.php?fid=100">|- گۈزەل- سەنئەت</a></li><li> <a href="index.php?cateid=54">>> كومپيۇتېر</a></li><li> &nbsp;<a href="thread.php?fid=86">|- ئۇيغۇرچە يۇمشاق دېتاللار</a></li><li> &nbsp;<a href="thread.php?fid=109">|- كومپىيۇتېردىن سۇئال-جاۋابلار</a></li><li> &nbsp;<a href="thread.php?fid=110">|- توربەت ياساش</a></li><li> &nbsp;<a href="thread.php?fid=190">|- باشقىلار</a></li><li> &nbsp;<a href="thread.php?fid=55">|- قاتتىق دېتال</a></li><li> &nbsp;<a href="thread.php?fid=56">|- يۇمشاق دېتال</a></li><li> &nbsp;<a href="thread.php?fid=57">|- مەشغۇلات سىستىمىسى</a></li><li> &nbsp;<a href="thread.php?fid=58">|- توربىلىملىرى</a></li><li> <a href="index.php?cateid=161">>> مائارپ</a></li><li> &nbsp;<a href="thread.php?fid=166">|- مائارىپ تەشكىلاتلىرى</a></li><li> &nbsp;<a href="thread.php?fid=162">|- بالىلار باغچىلىرى</a></li><li> &nbsp;<a href="thread.php?fid=165">|- باشلانغۇچ مەكتەپلەر</a></li><li> &nbsp;<a href="thread.php?fid=163">|- ئوتتۇرا مەكتەپلەر</a></li><li> &nbsp;<a href="thread.php?fid=169">|- ئالىي مەكتەپلەر</a></li><li> &nbsp;<a href="thread.php?fid=168">|- گېزىتلەر</a></li><li> &nbsp;<a href="thread.php?fid=167">|- ژورناللار</a></li><li> <a href="index.php?cateid=66">>> قانۇن - نىزاملار</a></li><li> &nbsp;<a href="thread.php?fid=144">|- جىنايەت ۋە جازا</a></li><li> &nbsp;<a href="thread.php?fid=95">|- قانۇنلار</a></li><li> &nbsp;<a href="thread.php?fid=94">|- نىزاملار</a></li></ul></div></div>
+<!--ads begin-->
+
+<!--ads end-->
+<div class="t3"><table width="100%" align="center" cellspacing="0" cellpadding="0">
+	<tr><td align="right"><div class="fl"></div></td><td align="right"><a href="post.php?action=reply&fid=128&tid=841"><br><img src="images/wind/reply.png" /></a> <a href="post.php?fid=128"><img src="images/wind/post.png" id="td_post" /></a></td></tr>
+</table></div>
+<div id="menu_post" class="menu tac f14" style="display:none;"><ul style="width:99px;">
+
+	<li><a href="post.php?fid=128&special=4">سودا</a></li>
+
+	<li><a href="post.php?fid=128&special=1">راي</a></li></ul>
+</div>
+<form name="delatc" action="masingle.php?action=delatc" method="post">
+<input type="hidden" name="fid" value="128" />
+<input type="hidden" name="tid" value="841" />
+<div class="t" style="margin-bottom:0px; border-bottom:0"><table cellspacing="0" cellpadding="0" width="100%">
+	<tr><th class="h"><b>بۇ بەتتىكى يازما : </b> شىنجاڭ ئىشلەپچىقىرىش - قۇرۇلۇش بىڭتۇەنى</th><td class="h" style="text-align:right;"><span> <a class="fn" href="https://uyghur-archive.com/bilqut/bbs/simple/index.php?t841.html"> بېسىپ چىقىرىش</a> | <a class="fn" style="cursor:pointer;" onclick="Addtoie('https://uyghur-archive.com/bilqut/bbs/read.php?fid=128&tid=841','بىلقۇت باغچىسى --شىنجاڭ ئىشلەپچىقىرىش - قۇرۇلۇش بىڭتۇەنى');"> بۇ تېمىنى ساقلىۋېلىش</a> | <a style="cursor:pointer;" title="https://uyghur-archive.com/bilqut/bbs/read.php?fid=128&tid=841" onclick="clipboardData.setData('Text','https://uyghur-archive.com/bilqut/bbs/read.php?fid=128&tid=841&u=')">تېما ئۇلانمىسىنى كۆچۈرىۋېلىش</a> | <a class="fn" style="cursor:pointer;" onclick="sendmsg('pw_ajax.php?action=favor&tid=841','',this.id)" id="favor">تېما ساقلىۋېلىش</a> | <a href="job.php?action=previous&fid=128&tid=841&fpage=0&goto=previous" class="fn">ئالدىنقى تېما</a> | <a href="job.php?action=previous&fid=128&tid=841&fpage=0&goto=next" class="fn">كېيىنكى تېما</a></span> </td>
+	</tr>
+	<tr><td></td></tr>
+	<tr class="tr2"><td colspan="2" class="tar">
+
+		<br /></td>
+	</tr>
+	<tr><td></td></tr>
+</table></div>
+
+<a name=tpc></a>
+<div class="t t2" style="border-top:0"><table cellspacing="0" cellpadding="0" width="100%" style="table-layout:fixed;border-top:0">
+	<tr class="tr1"><th style="width:20%" rowspan="2" class="r_two">
+
+		<img src="images/wind/read/offline.gif" title="بۇ ئەزا نۆۋەتتە توردا يوق" align="absmiddle" />
+ 
+<b>Bilqut_K</b>
+<div style="margin:.3em 0 .4em .2em">بىلقۇت توربىكىتى</div>
+<div class="user-pic"><table style="border:0"><tr><td width="1">
+
+<img class="pic" src="attachment/upload/3.bmp" width="150" height="150" border="0" />
+
+</td><td style="vertical-align:top"><span id="sf_0"></span></td></tr></table>
+</div>
+		
+		دەرىجىسى : <font color="#555555">كۇلۇب باشلىقى</font><br />
+		<img style="margin:.2em 0 .6em" src="images/wind/level/3.gif" /><br />
+
+<span class="user-info2" id="showface_0">
+<span class="user-infoWrap2">
+
+<a href="profile.php?action=show&uid=3"><img src="images/wind/read/profile.gif" title="ئاپتور ماتېرىيالىنى كۆرۈش" /></a> <img src="images/wind/read/message.gif" title="قىسقا ئۇچۇر يوللاش" onclick="sendmsg('pw_ajax.php?action=msg&touid=3','','sf_0')" style="cursor:pointer"  /><img onclick="addfriend('3')" style="cursor:pointer" src="images/wind/read/friends.gif" title="دوستقا قوشۇش" />
+
+<br />
+نادىر يازمىلار : 
+
+		<a href="search.php?authorid=3&digest=1" target="_blank" class="s4 f9">3</a>
+<br />
+يوللىغان تېما : <span class="s1 f9">1553</span><br />
+شۆھرىتى: <span class="s2 f9">1559 نومۇر</span><br />
+تەڭگىسى : <span class="s3 f9">15545 تەڭگە </span><br />
+
+		تۆھپە: <span class="s1 f9">1 نومۇر</span><br />
+
+		<span class="gray">تىزىملاتقان ۋاقتى : 2007-12-29<br />
+		ئاخىرقى كىرگىنى : 2008-03-15 </span>
+		</span></span>
+		</th>
+		<th height="100%" class="r_one" valign="top" id="td_tpc" style="padding:5px 15px 0 15px; border:0;width:80%; overflow:hidden">
+			<div class="tiptop">
+			<span class="fr"><a style="cursor:pointer" onclick="fontsize('small','tpc')">كىچىك</a> <a style="cursor:pointer" onclick="fontsize('middle','tpc')">نورمال</a> <a style="cursor:pointer" onclick="fontsize('big','tpc')">چوڭ</a></span>
+			<a onclick="sendurl(event,'action=quote&fid=128&tid=841&pid=tpc&article=0',this.id)" id="quote_tpc" style="cursor:pointer"><img src="images/wind/read/quote.gif" title="بۇ يازمىنى نەقىل ئېلىش" /></a> <a style="cursor:pointer" id="recommend_tpc" onclick="sendmsg('pw_ajax.php?action=recommend&tid=841','',this.id)"><img src="images/wind/read/emailto.gif" title="بۇ يازمىنى تەۋسىيە قىلىش" /></a> <a id="modify_tpc" onclick="sendurl(event,'action=modify&fid=128&tid=841&pid=tpc&article=0',this.id)" style="cursor:pointer"><img src="images/wind/read/edit.gif" /></a>
+
+			<a href="read.php?tid=841&uid=3" title="پەقەت ئاپتورنىڭلا يازمىلىرى كۆرسىتىلسۇن"><img src="images/wind/read/only.png" /></a>
+
+			</div>
+			<h1 id="subject_tpc" class="fl1"><img src="images/post/emotion/1.gif" align="left" border="0" />&nbsp;شىنجاڭ ئىشلەپچىقىرىش - قۇرۇلۇش بىڭتۇەنى</h1>
+
+			<div id="p_tpc" class="c"></div>
+
+			<div id="mag_tpc" class="tpc_content"><h6 class="quote"><span class="s3 f12 fn">باشقۇرۇش ئەسكەرتمىسى : 
+
+			</span></h6><blockquote>بۇ يازمىغا Bilqut_K تەرىپىدىن چوققىلاشنى بىكار قىلىش مەشغۇلاتى ئېلىپ بېرىلدى (2008-01-19)</blockquote></div>
+
+			<div class="tpc_content" id="read_tpc">شىنجاڭ ئىشلەپچىقىرىش - قۇرۇلۇش بىڭتۇەنى  (2000- يىلدىكى سىتاتىستىكا)<br />  تۆۋەندە قىسقارتىلىپ بىڭتۇەن دېيىلىدۇ( 1954 - يىلى 10 - ئايدا خەلق ئازادلىق ئارمىيىسىنىڭ شىنجاڭدا تۇرۇشلۇق 1 - دالا ئارمىيىسى 1 - بىڭتۇەننىڭ 2 - جۈنى، 5 - جۈنى،  6 - جۈنى، ۋە 22 - بىڭتۇەندىكى 100 مىڭدىن ئارتۇق ئوفىتسېر - ئەسكەرلەرنىڭ پارتىيە مەركىزىي كومىتېتى، مەركىزىي ھەربىي ئىشلار كومىتېتىنىڭ بۇيرۇقىغا ئاساسەن، ئىشلەپچىقىرىش قوشۇنىنى تەرتىپكە سېلىپ كوللېكتىپ كەسىپ ئالماشتۇرۇشى ئاساسىدا قۇرۇلغان ۋە تەرەققىي قىلغان. ھازىر ئۇنىڭغا 10 يېزا ئىگىلىك شىسى، 3 دېھقانچىلىق مەيدانلىرىنى باشقۇرۇش ئىدارىسى، بىر بىناكارلىق قۇرۇلۇش شىسى قارايدۇ. مۇستەقىل ھېساب قىلىدىغان دېھقانچىلىق، چارۋىچىلىق تۇەن - مەيدانىدىن 183 ى، سانائەت كارخانىسىدىن 338 ى، سودا كارخانىسىدىن 227 سى بار، ئۇنىڭدىن باشقا يەنە پەن - تېخنىكا، مائارىپ، مەدەنىيەت ئورۇنلىرىدىن 1795 ى بار.<br /><br />بىڭتۇەننىڭ ئومۇمىي يەر كۆلىمى 74 مىڭ كۋادرات كىلومېتىر بولۇپ، ھازىر 984 مىڭ 500 گېكتار )14 مىليون 27 مىڭ 500 مو( تېرىلغۇ يەر، 2 مىليون 823 مىڭ گېكتار )42 مىليون 345 مىڭ مو( يايلاق، 3 مىليون 320 مىڭ گېكتار )49 مىليون 800 مىڭ مو( سۇ كۆلىمى بار. 1995 - يىلىنىڭ ئاخىرىدىكى ئومۇمىي نوپۇسى 2 مىليون 288 مىڭ، دۆلەت ئىگىلىكىدىكى ئورۇنلاردا ئىشلەۋاتقان ئىشچى - خىزمەتچىسى 917 مىڭ 700 نەپەر.<br />يېزا ئىگىلىكى بىتۇەن ئىگىلىكىدىكى ئۇل كەسىپ، شۇنداقلا بىڭتۇەننىڭ ئۈستۈنلۈككە ئىگە كەسپى. 40 نەچچە يىللىق كۈرەش ئارقىلىق بىڭتۇەن ئىلگىرى - كېيىن بولۇپ ماناس دەرياسى، كۈيتۈن دەرياسى، گۈرت دەرياسى، قاراشەھەر دەرياسى قاتارلىق نەچچە ئون دەريا ئېقىننى تىزگىنلىدى، لەنفې سۇ ئامبىرىنى ۋە تۈزلەڭلىكتىكى 112 سۇ ئامبىرىنى ياسىدى )ئومۇمىي سىغىمچانلىقى 2 مىليارد 940 مىليون كۇب مېتىر(، 120 نەچچە ئورۇندا سۇ ئىنشائاتى قۇرۇلۇشى ئېلىپ بېرىپ، بىر قەدەر مۇكەممەل سۇغىرىش رايونىدىن 110 نى بەرپا قىلدى، تىزگىنلىگەن سۇغىرىش كۆلىمى 1960 مىڭ گېكتار )14 مىليون 250 مىڭ موم( بولۇپ، بۇنىڭ ئىچىدە قۇرغاقچىلىق ۋە ھۆلچىلىك ۋاقىتلىرىدىمۇ مول ھوسۇلغا كاپالەتلىك قىلغىلى بولىدىغان يەر كۆلىمى 483 مىڭ گېكتار )7 مىليون 245 مىڭ مو( غا يەتتى؛ ھازىر بار دېھقانچىلىق ماشىنىلىرىنىڭ ئومۇمىي كۈچى 402 مىڭ كىلوۋات، چوڭ - ئوتتۇرا تىپتىكى يېزا ئىگىلىك ماشىنىسى 15 مىڭ، دۆلىتىمىزدە ئىشلەنگەن يېزا ئىگىلىكىدە ئىشلىتىلىدىغا ئايروپىلاندىن 29 بولۇپ، سۇ ئىنشائاتلاشتۇرۇش، ماشىنىلاشتۇرۇش ۋە ئېتىز - ئېرىقلارنى ئورمان بىلەن تورلاشتۇرۇش ئاساسىي جەھەتتىن ئىشقا ئاشۇرۇلدى ھەمدە تۈجۈپىلەپ ئىشلەپچىقىرىش يۆنىلىشىگە قاراپ تەرەققىي قىلدى. دېھقانچىلىق مەھسۇلاتلىرىدىن ئاساسلىقى بۇغداي، كۆممىقوناق، شال، پاختا، مايلىقدان، قىزىلچا، قوغۇن - تاۋۇز،  كۆكتات قاتارلىقلار بار، بۇنىڭ ئىچىدە پاختا بىلەن قىزىلچىنىڭ، مەھسۇلات مىقدارى ئايرىم - ئايرىم ھالدا ئاپتونوم رايون ئومۇمىي مەھسۇلات مىقدارىنىڭ 4-% ىنى ئىگىلەيدۇ، قوغۇن، كىشمىش، نەشپۈت قاتارلىقلار ھەر يىلى كۆپلەپ چەت ئەللەرگە ئىچكى ئۆلكىلەرگە سېتىلىدۇ، قۇلماق، سوغىگۈل، زىرە، زاراڭزا، چۈچۈكبۇيا قاتارلىقلارمۇ دۆلەت ئىچى ۋە سىرتىدىكى بازارلاردىكى قىس مەھسۇلات ھېسابلىنىدۇ. يېزا ئىگىلىك مەھسۇلاتلىرىدىن باشقا، بىڭتۇەننىڭ چارۋىچىلىق مەھسۇلاتلىرىمۇ خېلى ئۈستۈنلۈككە ئىگە. بولۇپمۇ ئۇلار يېتىشتۈرۈپ چىققان جۇڭگو مېنروس قويى )شىنجاڭ بوز يەر ئۆزلەشتۈرۈش سىستېمىسى( ئەڭ داڭلىق بولۇپ ئوتتۇرا ھېساب بىلەن ھەر بىر تۇياق قوينىڭ يىللىق يۇڭ مەھسۇلاتى تۆت كىلوگرامغا يېتىدۇ، ئۇنىڭ ئۈستىگە سۈپىتى ئاۋىسترالىيە يۇڭىدىن قېلىشمايدۇ.<br />بىڭتۇەننىڭ سانائىتىمۇ كىچىكلىكتىن زورىيىپ، ئۈزلۈكسىز تەرەققىي قىلدى، ھازىر توقۇمىچىلىق، شېكەر ياساش، كۆن - خۇرۇم ئىشلەش، ھاراق ئېچىتىش، خىمىيە سانائىتى، ماشىنىسازلىق، مېتاللورگىيە، ئېلېكتر ئېنېرگىيىسى، قۇرۇلۇش ماتېرىياللىرى، غەيرىي مېتال، قەغەزچىلىك قاتارلىق تۈرلەرنى ئۆز ئىچىگە ئالغان، جايلاشتۇرۇلۇشى ئاساسىي جەھەتتىن مۇۋاپىق بولغان زامانىۋىي سانائەت سىستېمىسى بارلىققا كەلدى. 256 خىل مەھسۇلات دۆلەت ۋە ئاپتونوم رايون تەرىپىدىن ئەلا سۈپەتلىك مەھسۇلات بولۇپ باھالاندى، بۇنىڭ ئىچىدە، سىپتا توقۇلغان ۋە يىرىك توقۇلغان يۇڭ توقۇلمىلار، پاختا رەخت، پاختا يىپ، يۇڭ ئەدىيال، كىيىم - كېچەك، ئاياغ، ئىشقارلىق سولفات قاتارلىق مەھسۇلاتلار كۆپلەپ چەتكە چىقىرىلىدۇ، &gt;ئىلى&lt; ماركىلىق بىر يۈرۈش ھاراقلار ۋە &gt;كۈيتۈن ئالاھىدە ھارىقى&lt; قاتارلىق داڭلىق ھاراقلار ئىچكى - تاشقى بازارلاردا بەلگىلىك شۆھرەتكە ئىگە. بىڭتۇەننىڭ بىناكارلىق ئەمەلىي كۈچىمۇ ناھايىتى كۈچلۈك بولۇپ، نەچچە ئون يىلدىن بۇيان، شىنجاڭنىڭ تۆمۈر يول، تاشيول، نېفىتلىك، سۇ ئىنشائاتى، كۆۋرۈك، ئېلېكتر ئېنېرگىيىسى قاتارلىق قۇرۇلۇشلىرىدا، شۇنداقلا خەلق تۇرمۇشىغا كېرەكلىك قۇرۇلۇشلاردا مۇھىم رولىنى جارى قىلدۇردى<br /><br />بىڭتۇەننىڭ قاتناش - ترانسپورت، سودا، مۇلازىمەت كەسپى ۋە تاشقى سودا، تاشقى ئىقتىسادىي ھەمكارلىق ئىشلىرىنىڭ تەرەققىياتىمۇ بىر قەدەر تېز، ھازىر تۈرلۈك ترانسپورت ئاپتوموبىلىدىن 25 مىڭ 800 ى، سودا ۋە مۇلازىمەت كەسپىي تور نۇقتىسىدىن 20 مىڭ 900 ى، مۇستەقىل ھېسابات قىلىدىغان سودا كارخانىسىدىن 277 سى، يېزا ئىگىلىك مەھسۇلاتلىرى سودا بازىرىدىن 200 ى، بوز يەر ئۆزلەشتۈرۈش رايونى سودا مەركىزىدىن نەچچە 10 ى بولۇپ، شىياڭگاڭ رايونى ۋە ياپونىيە، سىنگاپور، ئاۋىسترالىيە، ئەنگىلىيە قاتارلىق ئون نەچچە دۆلەت بىلەن سودا ئىشلىرى مۇناسىۋىتى ۋە سودا ئالاقىسى ئورناتتى.<br />ئىقتىسادنىڭ ئۈزلۈكسىز تەرەققىي قىلىشىغا ئەگىشىپ، بىڭتۇەننىڭ شەھەر - بازار قۇرۇلۇشىدىمۇ زور نەتىجىلەر قولغا كەلتۈرۈلدى. ھازىر شىخەنزە، كۈيتۈن، ۋۇجياچۈ، بىيتۈەن ئارال قاتارلىق بىر تۈركۈم يېڭى بوز يەر ئۆزلەشتۈرۈش شەھەر - بازارلىرى شۇنداقلا 100 دىن ئارتۇق دېھقانچىلىق، چارۋىچىلىق تۇەن - مەيدانلىرىنىڭ مەيدان شىتابىنى يادرو قىلغان، يېزا ئىگىلىك، سانائەت، قۇرۇلۇش، قاتناش، سودا تولۇق بولغان، مەدەنىيەت، مائارىپ، سەھىيە، پەن - تېخنىكا قاتارلىق ئىجتىمائىي فۇنكسىيىلەر مۇكەممەل بولغان يېڭى بازارلار قۇرۇلدى.<br /><br />شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك 1 - شىسى<br /><br />يېزا ئىگىلىك 1 - شىسى ئەسلىدىكى جۇڭگو خەلق ئازادلىق ئارمىيىسى 1 - دالا ئارمىيىسى 1 - بىڭتۇەنى 2 - جۈنىنىڭ 5 - شىسى ئىدى. 1949 - يىلى 11 - ئايدا بۇ قىسىم ئاقسۇغا كىرگەن بولۇپ، 1953 - يىلى 5 - ئايدا بۇيرۇققا ئاساسەن قايتىدىن تەرتىپكە سېلىنىپ، كوللېكتىپ كەسىپ ئالماشتۇرۇش يولى بىلەن يېزا ئىگىلىك 1 - شىسى قىلىپ قۇرۇلغان. شى شىتابى ئاقسۇ شەھىرىدە، يېزا ئىگىلىك 1 - شىسى تارىم دەرياسىنىڭ قىرغىقىغا جايلاشقان بولۇپ، قۇمقۇدۇق، ئارال، 4 - تۇەن، 5 - تۇەن، 6 - تۇەندىن ئىبارەت 5 بوز يەر ئۆزلەشتۈرۈش رايونى قارايدۇ. 5 بوز يەر ئۆزلەشتۈرۈش رايونى قارايدۇ. ئۇنىڭ قارمىقىدا مۇستەقىل ھېسابات قىلىدىغان كارخانىدىن 55 ى بار بولۇپ، بۇنىڭ 17 سى دېھقانچىلىق - چارۋىچىلىق تۇەن - مەيدانى، 38 ى سانائەت قاتناش، بىناكارلىق، سودا كارخانىسى. ئۇنىڭدىن باشقا يەنە 101 مىڭ 200 گېكتار )1 مىليون 518 مىڭ مو( تېرىلغۇ يەر، 79 مىڭ 500 گېكتار )1 مىليون 192&nbsp; مىڭ 500 مو( باقمىچىلىق قىلىدىغان سۇ كۆلىمى، 27 مىڭ 700 گېكتار )415 مىڭ 500 مو( يايلاق، 34 مىڭ 400 گېكتار )516 مىڭ مو( ئورمانلىق، 4600 گېكتار )69 مىڭ مو( مېۋىلىك باغ، 9 مىڭ گېكتار )135 مىڭ مو( باقمىچىلىق قىلىدىغان سۇ كۆلىمى ئۇنىڭدىن باشقا زور كۆلەمدىكى ئۆزلەشتۈرۈشكە بولىدىغان بوز يەر بار. 1995 - يىلىنىڭ ئاخىرىدىكى ئومۇمىي نوپۇسى 228 مىڭ 600، ئەمگەكچى 117 مىڭ 600، بۇنىڭ ئىچىدە دۆلەت ئىگىدارچىلىقىدىكى ئورۇنلاردا ئىشلەۋاتقان ئىشچى - خىزمەتچى 98 مىڭ 300 نەپەر.<br />يېزا ئىگىلىك 1 - شىسىنىڭ سۇ ئىنشائاتلاشتۇرۇش، يېزا ئىگىلىكىنى ماشىنىلاشتۇرۇش دەرىجىسى بىر قەدەر يۇقىرى بولۇپ، ئېتىز - ئېرىقلارنى ئورمان بىلەن تورلاشتۇرۇش ئاساسىي جەھەتتىن ئىشقا ئاشۇرۇلغان. تارىم دەرياسىنى توسۇپ سۇ باشلاش تۈگۈنى قۇرۇلۇشى، يۇقىرى ئېقىن، غالىبىيەت، دولان، يېڭى قۇدۇقتىن ئىبارەت تۈزلەڭلىككە جايلاشقان تۆت چوڭ، ئوتتۇرا تىپتىكى سۇ ئامبىرى )ساقلىنىۋاتقان سۇ مىقدارى 400 مىليون كۇب مېتىردىن ئاشىدۇ( قۇرۇلۇشى ۋە تارىم دەرىياسىنىڭ جەنۇبىي قىرغىقىنى توغرىسىغا كېسىپ ئۆتۈپ خوتەن دەرياسىغا تۇتىشىدىغان غول ئۆستەڭ قۇرۇلۇشى قاتارلىق يۈرۈشلەشكەن سۇ ئىنشائاتى قۇرۇلۇشلىرى پۈتتۈرۈلگەن بولۇپ، بوز يەر ئۆزلەشتۈرۈش رايونىنىڭ سۇغىرىش ئېھتىياجىنى ئاساسىي جەھەتتىن قاندۇرۇپ كەلمەكتە؛ يېزا ئىگىلىك ماشىنىلىرىنىڭ ئومۇمىي كۈچى 170 مىڭ كىلوۋاتقا يەتكەن بولۇپ، تۈرلۈك چوڭ - ئوتتۇرا تىپتىكى يېزا ئىگىلىك ماشىنىلىرى 2000 دىن ئاشىدۇ، چوڭ ئېتىزلاردا ماشىنا بىلەن مەشغۇلات ئېلىپ بېرىش دەرىجىسى 90% كۆپرەككە يېتىدۇ. دېھقانچىلىق مەھسۇلاتلىرىدىن ئاساسلىقى پاختا، شال، بۇغداي، كۆممىقوناق، قوغۇن - تاۋۇز، كۆكتات، قۇلماق قاتارلىقلار بار، بۇنىڭ ئىچىدە ئۇزۇن تالالىق پاختىنىڭ سۈپىتى ياخشى بولۇپ، مەملىكەت بويىچە ئەڭ چوڭ ئۇزۇن تالالىق پاختا ئىشلەپچىقىرىش بازىسى بولۇپ ھېسابلىنىدۇ. باغۋەنچىلىك مەھسۇلاتلىرىدىن ئاسالىقى ئالما، نەشپۈت، چىلان، ئۈزۈم، ئۆرۈك، شاپتۇل قاتارلىقلار بار. سۇ مەھسۇلاتلىرىدىن ئاساسلىقى بېلىق، راك، قۇلۇلە، سەدەپ قۇلۇلىسى، پاقا قاتارلىقلار بار بولۇپ، 1991 - يىلىدىن باشلاپ يەنە نىلۇپەر يەر ئاستى غولى، بىجىق، پىلىپگۈل، سۇ ياڭىقى قاتارلىق سۇدا ئۆسىدىغان ئىقتىسادىي ئۆسۈملۈكلەرنى كىرگۈزدى. چارۋىلاردىن ئاساسلىقى كالا، قوي، ئات، چوشقا، تۆگە، بۇغا قاتارلىقلار بار.<br />يېزا ئىگىلىك 1 - شىسىنىڭ 2 -، 3 - كەسىپلىرىمۇ بىر قەدەر تېز تەرەققىي قىلغان بولۇپ، ئاسالىقى توقۇمىچىلىق، قۇرۇلۇش ماتېرىياللىرى، كان مەھسۇلاتلىرى، ئېلېكتر ئېنېرگىيىسى، ترانسپورت، ئىچكى سودا، تاشقى سودا قاتارلىق تۈرلەر بار. ئاساسلىق سانائەت مەھسۇلاتلىرىدىن سېمونت، فوسفورلۇق ئوغۇت، سۇلفات كىسلاتاسى، كۆمۈر، كوركۇس، چۈچۈك بۇيا مەلھىمى، پەمىدۇر قىيامى، كىچىك تىپتىكى دېھقانچىلىق ماشىنىلىرى، كۆن - خۇرۇم، كىيىم - كېچەك، يۇڭ يىپ، يۇڭ توقۇلما، يۇڭ ئەدىيال، پاختا يىپ، پاختا رەخت، سۇلياۋ مەھسۇلاتلىرى، ئاق ھاراق، ئىچىملىك، سۈت پاراشوكى، ئۆسۈملۈك مېيى، مېۋە قېقى، قەنت - گېزەك، پېچىنە - پىرەنىك قاتارلىقلار بار. بۇنىڭ ئىچىدە ئەلا سۈپەتلىك مەھسۇلات 22 خىل بولۇپ، ئۆلكە، مىنىستىر دەرىجىلىك ئەلا سۈپەتلىك مەھسۇلات گۇۋاھنامىسىگە ئېرىشكىنى 14 خىل. قارىغاي ماركىلىق چۈچۈك بۇيا مەلھىمى، قارلەيلىسى ماركىلىق دولقۇنسىمان بۆرتمە گۈللۈك يۇڭ ئەدىيال، يېشىل قارىغاي ماركىلىق سېمونت ۋە دېھقانلارنىڭ دوستى ماركىلىق يۈرۈشلەشكەن سۇلياۋ يۇپۇق يېپىپ كېۋەز تېرىش ماشىنىسى قاتارلىقلار بىر قەدەر داڭلىق.<br />شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك 2 - شىسى<br /><br />يېزا ئىگىلىك 2 - شىسى ئەسلىدىكى جۇڭگو خەلق ئازادلىق ئارمىيىسى 1 - دالا ئارمىيىسى 1 - بىڭتۇەنى 2 - جۈنىنىڭ 6 - شىسى ئىدى. 1949 - يىلى 10 - ئايدا بۇ قىسىم شىنجاڭغا كىرگەن بولۇپ، 1953 - يىلى بۇيرۇققا بىنائەن قايتىدىن تەرتىپكە سېلىپ، كوللېكتىپ كەسىپ ئالماشتۇرۇش يولى بىلەن يېزا ئىگىلىك 2 - شىسى قىلىپ قۇرۇلغان. شى شىتابى كورلىدا شەھىرىدە.<br />يېزا ئىگىلىك 2 - شىسى بايىنغۇلىن موڭغۇل ئاپتونوم ئوبلاستىغا جايلاشقان بولۇپ، قاراشەھەر، كورلا، تارىم، مىرەن، چەرچەن قاتارلىق 5 بوز يەر ئۆزلەشتۈرۈش رايونى قارايدۇ. ئۇنىڭ قارمىقىدا مۇستەقىل ھېسابات قىلىدىغان كارخانىدىن 42 سى بار بولۇپ، بۇنىڭ 17 سى دېھقانچىلىق، چارۋىچىلىق تۇەن - مەيدانى، 25 ى سانائەت، قاتناش، بىناكارلىق، سودا كارخانىسى. ئۇنىڭدىن باشقا يەنە پەن - تېخنىكا، مائارىپ، مەدەنىيەت، سەھىيە قاتارلىق كەسپىي ئورۇندىن 158 ى بار، ھازىر 58 مىڭ گېكتار )882 مىڭ مو( تېرىلغۇ يەر، 2000 گېكتار )ئوتتۇز مىڭ مو( تەبىئىي توغراقلىق، 171 مىڭ گېكتار )2 مىليون 565 مىڭ مو( مېۋىلىك باغ بار. 1995 - يىلىنىڭ ئاخىرىدىكى ئومۇمىي نوپۇسى 196 مىڭ 200، ئەمگەكچى 95 مىڭ 500، بۇنىڭ ئىچىدە دۆلەت ئىگىدارچىلىقىدىكى ئورنلاردا ئىشلەۋاتقان ئىشچى - خىزمەتچى 86 مىڭ 700 نەپەر.<br />يېزا ئىگىلىك 2 - شىسىنىڭ سۇ ئىنشائاتلاشتۇرۇش، يېزا ئىگىلىكىنى ماشىنىلاشتۇرۇش دەرىجىسى بىر قەدەر يۇقىرى بولۇپ، ئېتىز - ئېرىقلارنى ئورمان بىلەن تورلاشتۇرۇش ئاساسىي جەھەتتىن ئىشقا ئاشۇرۇلغان. داشكۆل، قارا قاتارلىق چوڭ تىپتىكى ئۈچ سۇ ئامبىرى )ئومۇمىي سىغىمچانلىقى 340 مىليون كۇب مېتىر( 3000 كىلومېتىردىن ئارتۇق ئۇزۇنلۇقتىكى سۇ باشلاش، سۇ چىقىرىش ئۆستىڭىنى ۋە سۇ ئىنشائات تۈگۈنى قۇرۇلۇشى، سۇ ئىنشائاتى ئۆي - ئىمارەت قۇرۇلۇشىدىن تەخمىنەن 1000 نى پۈتتۈردى. شى بويىچە يېزا ئىگىلىك ماشىنىلىرىنىڭ ئومۇمىي كۈچى 107 مىڭ كىلوۋات بولۇپ، چوڭ، ئوتتۇرا تىپتىكى دېھقانچىلىق ماشىنىلىرى 1200 دىن ئاشىدۇ. بۇ شى ئەۋزەل جۇغراپىيىلىك ئورۇنغا ۋە تەبىئىي شارائىتقا ئىگە بولۇپ، شىمالدا بۇغداي، جەنۇبتا شال تېرىش، شىمالدا شېكەر، جەنۇبتا پاختا ئىشلەپچىقىرىش، شىمالدا ئالما، جەنۇبتا نەشپۈت يېتىشتۈرۈش، شىمالدا قوي، جەبۇبتا بۇغا بېقىشتەك يىرىك يېزا ئىگىلىك ۋەزىيىتى دەسلەپكى قەدەمدە شەكىللەنگەن. دېھقانچىلىق مەھسۇلاتلىرىدىن ئاساسلىقى، بۇغداي، كۆممىقوناق، شال، پاختا، قۇلماق، قىزىلچا، ئالما، نەشپۈت قاتارلىقلار بار.<br />يېزا ئىگىلىك 2 - شىسى مول تەبىئىي بايلىقىغا تايىنىپ، سانائەت تەرەققىياتىنى تېزلەتتى، ئىلگىرى كېيىن بولۇپ توقۇمىچىلىق، كۆمۈر قېزىش، قەغەزچىلىك، شېكەر چىلىك، دورا ياساش، مەتبەئەچىلىك، سېمونت، ۋېرمىكۇتېت، ھاك تېشى، يېمەكلىك، ھاراق ئېچىتىش، ئىچىملىك، ئاياغ تىكىش، پرىسلانغان تاختا، ئۆي جاھازىلىرى ياساش قاتارلىق تۈرلەرنى بەرپا قىلدى، بۇنىڭ ئىچىدە تاشپاختىنىڭ مەھسۇلات مىقدارى مەملىكەت بويىچە 1 - ئورۇندا. ۋېرمىكۇتىتنىڭ مەھسۇلات مىقدارى دۇنيا بويىچە 2 - ئورۇندا تۇرىدۇ، جۇڭگوچە تېببىي دورا ئەنۋېي ماركىلىق ئاشقازان دورىسى خەلقئارا يەرمەنكىدە ئالتۇن مېدال مۇكاپاتىغا ئېرىشتى؛ قارىغاي ماركىلىك چۈچۈك بۇيا مەلھىمى، نەشپۈت ماركىلىق 278 - نومۇرلۇق ساپ پاختا ئۆرۈش يىپ ۋە 18 - نومۇرلۇق ساپ پاختا يىپ، لۈيۈەن ماركىلىق ئەلا دەرىجىلىك قۇم شېكەر، تىنچ ئاي ماركىلىق ئىستېمال قىلىنىدىغان ئىسپىرت قاتارلىق 10 دىن ئارتۇق مەھسۇلات ئايرىم - ئايرىم ھالدا يېزا ئىگىلىك مىنىستىرلىقى ۋە يېنىك سانائەت مىنىستىرلىقى تەرىپىدىن ئەلا سۈپەتلىك مەھسۇلات دېگەن نامغا ئېرىشتى، ئۇنىڭدىن باشقا يەنە ساپ پاختىلىق يۇڭ ئىشتان، ساپ پاختىدىن توقۇلغان ئوتتۇرا دەرىجىلىك سىدام رەخت قاتارلىق 20 گە يېقىن مەھسۇلات ئاپتونوم رايون تەرىپىدىن ئەلا سۈپەتلىك مەھسۇلات دېگەن نامغا ئېرىشتى.<br />شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك 3 - شىسى<br /><br />يېزا ئىگىلىك 3 - شىسى ئەسلىدىكى جۇڭگو خەلق ئازادلىق ئارمىيىسى 1 - دالا ئارمىيىسى 1 - بىڭتۇەنى 5 - جۈنىنىڭ 14 - شىسى بىلەن 5 - شىسىنىڭ بىر قىسىم قوشۇنى ئىدى. 1953 - يىلى بۇيرۇققا ئاساسەن كوللېكتىپ كەسىپ ئالماشتۇرۇش يولى بىلەن يېزا ئىگىلىك 1 - شىسىنىڭ 4 - باشقۇرۇش ئورنى تەشكىل قىلىنغان، 1966 - يىلى 1 - ئايدا يېزا ئىگىلىك 3 - شىسى قىلىپ قۇرۇلغان. شى شىتابى قەشقەر شەھىرىدە.<br />يېزا ئىگىلىك شىسى تارىم ئويمانلىقىنىڭ غەربىي قىسىمغا جايلاشقان بولۇپ، قەشقەر ۋىلايىتى بىلەن قىزىلسۇ قىرغىز ئاپتونوم ئوبلاستىنىڭ 14 ناھىيە )شەھەر( سىگە تارقالغان. 3 بوز يەر ئۆزلەشتۈرۈش رايونى قارايدۇ، ئۇنىڭ تارمىقىدا مۇستەقىل ھېسابات قىلىدىغان كارخانىدىن 40 ى بار بولۇپ، بۇنىڭ 18 ى دېھقانچىلىق، چارۋىچىلىق تۇەن - مەيدانى، 22 سى سانائەت قاتناش، بىناكارلىق، سودا كارخانىسى، ئۇنىڭدىن باشقا يەنە پەن - تېخنىكا، مائارىپ، مەدەنىيەت، سەھىيە قاتارلىق كەسپىي ئورۇندىن 144 ى بار. ھازىر 54 مىڭ 700 گېكتار )820 مىڭ 500 مو( تېرىلغۇ يەر، 3600 گېكتار&nbsp; )54 مىڭ مو(مېۋىلىك باغ، 9000 گېكتار )135 مىڭ مو( سۇ كۆلىمى، 110 مىڭ گېكتار )1 مىليون 650 مىڭ مو( يايلاق، 8700 گېكتار )130 مىڭ 500 مو( يەردە سۈنئىي پەرۋىش قىلىنىدىغان چۈچۈك بۇيا بار. 1995 - يىلىنىڭ ئاخىرىدىكى ئومۇمىي نوپۇسى 158 مىڭ )بۇنىڭ ئىچىدە ئاز سانلىق مىللەتلەرنىڭ نوپۇسى 82 مىڭ 400 نەپەر(، ئەمگەكچى 61 مىڭ، بۇنىڭ ئىچىدە دۆلەت ئىگىلىكىدىكى ئورۇنلاردا ئىشلەۋاتقان ئىشچى - خىزمەتچى 36 مىڭ نەپەر.<br />يېزا ئىگىلىك 3 - شىسىنىڭ سۇ ئىنشائاتلاشتۇرۇش، يېزا ئىگىلىكىنى ماشىنىلاشتۇرۇش دەرىجىسى بىر قەدەر يۇقىرى بولۇپ، ئېتىز - ئېرىقلارنى ئورمان بىلەن تورلاشتۇرۇش ئاساسىي جەھەتتىن ئىشقا ئاشۇرۇلغان. چوڭ تىپتىكى سۇ ئامبىرىدىن 5 )ئومۇمىي سىغىمچانلىقى 850 مىليون كۇب مېتىر( ياسالغان، يۈرۈشلەشكەن مۇكەممەل سۇغىرىش، سۇ چىقىرىش سىستېمىسى بەرپا قىلىنغان بولۇپ، 100 مىڭ گېكتار )1 مىليون 500 مىڭ مو( سۇغىرىش كۆلىمىنى كونترول قىلغىلى بولىدۇ؛ دېھقانچىلىق ماشىنىلىرىنىڭ ئومۇمىي كۈچى 86 مىڭ كىلوۋات بولۇپ، چوڭ، ئوتتۇرا تىپتىكى دېھقانچىلىق ماشىنىلىرى 1000 غا يېتىدۇ. دېھقانچىلىق مەھسۇلاتلىرىدىن ئاساسلىقى بۇغداي، كوممىقوناق، پاختا، مايلىقدان، نەشپۈت، ئالما، ئۆرۈك، ياڭاق قاتارلىقلار بار، بۇنىڭ ئىچىدە ئەلا سۈپەتلىك ساپ پاختا، گۇڭباۋ 5 ماركىلىق نەشپۈت، بۇغا مۈڭگۈزى قاتارلىقلار داڭلىق، ئەلا سۈپەتلىك، ئالاھىدە مەھسۇلات ھېسابلىنىدۇ. نەشپۈت 1994 - يىلى 2 - نۆۋەتلىك مەملىكەتلىك يېزا ئىگىلىك مەھسۇلاتلىرى كۆرگەزمىسىدە ئالتۇن مېدال مۇكاپاتىغا ئېرىشكەن بولۇپ، بېيجىڭ دىياۋ يۈتەي دۆلەت مېھمانخانىسىدا ئىشلىتىلىدىغان مەھسۇلات قىلىپ بېكىتىلدى.&nbsp; چارۋىلاردىن ئاساسلىقى كالا، قوي، بۇغا قاتارلىقلار بار.<br />يېزا ئىگىلىك 3 - شىسىنىڭ ئاساسلىق سانائەت تۈرلىرىدىن كۆمۈر، ئېلېكتر ئېنېرگىيىسى، ئاشلىق - ماي پىششىقلاپ ئىشلەش، چۈچۈك بۇيا پىششىقلاپ ئىشلەش، ھارا ئېچىتىش، كاۋچۇك مەھسۇلاتلىرى ئىشلەپچىقىرىش، پەمىدۇر پىششىقلاپ ئىشلەش، سېمونت قاتارلىقلار بار. بۇنىڭ ئىچىدە قارىغاي قار لەيلىسى ماركىلىق چۈچۈك بۇيا مەلھىمى ئاپتونوم رايون تەرىپىدىن ئېكىسپورت قىلىدىغان ئەلا سۈپەتلىك ئالاھىدە مەھسۇلات قىلىپ بېكىتىلدى، تارىم دەرياسى ماركىلىق ئۈچ قىرلىق تاسما بىلەن شىخۇ ماركىلىق ئۈزۈم ھارىقى ئاپتونوم رايون تەرىپىدىن ئەلا سۈپەتلىك مەھسۇلات دېگەن&nbsp; نامغا ئېرىشتى.<br />شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك 4 - شىسى<br /><br />يېزا ئىگىلىك 4 - شىسى ئەسلىدىكى جۇڭگو خەلق ئازادلىق ئارمىيىسى 5 - جۈنىنىڭ 15 - شىسى ئىدى. 1993 - يىلى 6 - ئايدا بۇ قىسىم بۇيرۇققا بىنائەن تەرتىپكە سېلىنىپ، كوللېكتىپ كەسىپ ئالماشتۇرۇش يولى بىلەن يېزا ئىگىلىك 4 - شىسى قىلىپ قۇرۇلغان. شى شىتابى غۇلجا شەھىرىدە.<br />يېزا ئىگىلىك 4 - شىسىغا قاراشلىق بوز يەر ئۆزلەشتۈرۈش رايونلىرى ۋەتىنىمىزنىڭ غەبىي چېگرىسىغا جايلاشقان بولۇپ، ئىلى ۋىلايىتىدىكى 8 ناھىيە 1 شەھەرگە تارقالغان. ئۇنىڭ قارمىقىدا مۇستەقىل ھېساب قىلىدىغان كارخانىدىن 67 سى بار، بۇنىڭ 21 سى دېھقانچىلىق، چارۋىچىلىق تۈەن - مەيدانى، 46 سى سانائەت، قاتناش، بىناكارلىق، سودا كارخانىسى، ئۇنىڭدىن باشقا يەنە پەن - تېخنىكا، مائارىپ، مەدەنىيەت، سەھىيە قاتارلىق كەسپىي ئورۇندىن 178 ى بار. ھازىر 103 مىڭ گېكتار )1 مىليون 542 مىڭ مو( تېرىلغۇ يەر، 333 مىڭ گېكتار )4 مىليون 905 مىڭ مو( يايلاق، 3000 گېكتار )45 مىڭ مو( مېۋىلىك باغ بار. 1995 - يىلىنىڭ ئاخىرىدىكى ئومۇمىي نوپۇسى 216 مىڭ، ئەمگەكچى 104 مىڭ، بۇنىڭ ئىچىدە دۆلەت ئىگىلىكىدىكى ئورۇنلاردا ئىشلەۋاتقان ئىشچى - خىزمەتچى 88 مىڭ 300 نەپەر.<br />يېزا ئىگىلىك 4 - شىسىنىڭ سۇ ئىنشائاتلاشتۇرۇش، يېزا ئىگىلىكىنى ماشىنىلاشتۇرۇش دەرىجىسى بىر قەدەر يۇقىرى بولۇپ، ئېتىز - ئېرىقلارنى ئورمان بىلەن تورلاشتۇرۇش ئاساسىي جەھەتتىن ئىشقا ئاشۇرۇلغان. 23 سۇ ئامبىرى )ئومۇمىي سىغىمچانلىقى تەخمىنەن 50 مىليون كۇب مېتىر( ياسالغان دېھقانچىلىق ماشىنىلىرىنىڭ ئومۇمىي كۈچى 150 مىڭ كىلوۋات بولۇپ، 1500 دىن ئارتۇق، چوڭ - ئوتتۇرا تىپتىكى دېھقانچىلىق ماشىنىسى بار. دېھقانچىلىق مەھسۇلاتلىرىدىن ئاساسلىقى ئاشلىق، مايلىقدان، پاختا، قىزىلچا تاۋۇز، ئالما، قۇلماق قاتارلىقلار بار. بۇنىڭ ئىچىدە قۇلماق، تاۋۇز ئۇرۇقى ۋە تەبىئىي پۇراقلىق دورا - دەرمانلارنىڭ دۆلەت ئىچى ۋە سىرتىدا بازىرى ئىنتايىن ئىتتىك. يۇڭ تېرە، گۆش قاتارلىق چارۋىچىلىق مەھسۇلاتلىرى بار.<br />يېزا ئىگىلىك 4 - شىسىنىڭ سانائىتى ئۈزلۈكسىز تەرەققىي قىلغان بولۇپ، ئاساسلىقى ئاشلىق، ماي پىششىقلاپ ئىشلەش، ھاراق ئېچىتىش، شېكەرچىلىك، يۇڭ توقۇمىچىلىق، سېمونت، كۆمۈر كان، ئېلېكتر ئېنېرگىيىسى، قۇرۇلۇش ماتېرىياللىرى، كۆن - خۇرۇم ئىشلەش، ماشىنا رېمونت قىلىش، مەتبەئەچىلىك، قەغەز ياساش قاتارلىق تۈرلەر بار. ئىلى ھاراق باش زاۋۇتى، قورغاس شېكەر زاۋۇتى، شىنجاڭ غەربىي رايون يۇڭ توقۇمىچىلىق زاۋۇتى، ئىلى يېزا ئىگىلىك بوز يەر ئۆزلەشتۈرۈش ماي خىمىيە سانائىتى چەكلىك شىركىتى، شىنجاڭ نەنگاڭ سېمونت زاۋۇتى، قورغاس ئىسپىرت زاۋۇتى، ئىلى جىيەنخۇا كۆن - خۇرۇم باش زاۋۇتى قاتارلىقلار يېزا ئىگىلىك 4 - شىسىنىڭ غوللۇق باشلامچى كارخانىلىرى بولۇپ ھېسابلىنىدۇ. ئىلى ھاراق باش زاۋۇتى ئىشلەپ چىقارغان ئىلى ماركىلىق ئاق ھاراقلار يېقىنقى 5 يىلدىن بېرى دۆلەت ۋە ئىچى ۋە خەلقئارادا 31 قېتىم ئالتۇن مېدال ۋە كۈمۈش مېدال مۇكاپاتىغا ئېرىشكەن بولۇپ، بۇ مەھسۇلاتلار 18 ئۆلكە، شەھەر، ئاپتونوم رايونغا، مۇستەقىل دۆلەتلەر بىرلەشمىسىدىكى قىسمەن دۆلەتلەرگە ۋە شياڭگاڭ، تەيۋەن قاتارلىق رايونلارغا سېتىلىدۇ.<br />شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك 5 - شىسى<br /><br />يېزا ئىگىلىك 5 - شىسى ئەسلىدىكى جۇڭگو خەلق ئازادلىق ئارمىيىسى 1 - دالا ئارمىيىسى 1 - بىڭتۇەنى 6 - جۈنىنىڭ 16 - شىسى ئىدى. بۇ قىسىم 1949 - يىلىنىڭ ئاخىرىدا قۇمۇلغا كىرىپ، قۇمۇل بوز يەر ئۆزلەشتۈرۈش رايونىنى ئېچىشتىن ئىبارەت ئىشلەپچىقىرىش - قۇرۇلۇش ئىشلىرىغا ئاتلانغان. 1953 - يىلى 3 - ئايدا، بۇيرۇققا بىنائەن تەرتىپكە سېلىنىپ، كوللېكتىپ كەسىپ ئالماشتۇرۇش يولى بىلەن يېزا ئىگىلىك 5 - شىسى قىلىپ قۇرۇلغان. قۇمۇل بوز يەر ئۆزلەشتۈرۈش رايونىدا دېھقانچىلىق، چارۋىچىلىق تۇەن - مەيدانىدىن 8ى ۋە بىر تۈركۈم سانائەت، قاتناش، بىناكارلىق، سودا كارخانىلىرىنى قۇرۇپ چىققان، 1960 - يىلى غەربكە يۈرۈش قىلىپ، جۇڭغار ئويمانلىقىنىڭ غەربىي جەنۇبىدىكى بورتالا بوز&nbsp; يەر ئۆزلەشتۈرۈش رايونىنى ئاچقان. شى شىتابى بورتالا شەھىرىدە.<br />يېزا ئىگىلىك 5 - شىسى قارمىقىدا مۇستەقىل ھېسابات قىلىدىغان كارخانىدىن 30 ى بار، بۇنىڭ ئىچىدە 12 سى دېھقانچىلىق، چارۋىچىلىق تۇەن - مەيدانى، 18 ى سانائەت، قاتناش، بىناكارلىق، سودا كارخانىسى. ئۇنىڭدىن باشقا يەنە پەن - تېخنىكا، مائارىپ، مەدەنىيەت، سەھىيە قاتارلىق كەسىپىي ئورۇندىن 75 ى بار. ھازىر 46 مىڭ 100 گېكتار )691 مىڭ 500 مو( تېرىلغۇ يەر، 156 مىڭ گېكتار )2 مىليون 340 مىڭ مو( قاقاس يەر، 400 گېكتار )6000 مو( مېۋىلىك باغ بار. 1995 - يىلىنىڭ ئاخىرىدىكى ئومۇمىي نوپۇسى 97 مىڭ، ئەمگەكچى 43 مىڭ، بۇنىڭ ئىچىدە دۆلەت ئىگىدارچىلىقىدىكى ئورۇنلاردا ئىشلەۋاتقان ئىشچى - خىزمەتچى 42 مىڭ 200 نەپەر.<br />يېزا ئىگىلىك 5 - شىسىنىڭ سۇ ئىنشائاتلاشتۇرۇش، يېزا ئىگىلىكىنى ماشىنىلاشتۇرۇش دەرىجىسى بىر قەدەر يۇقىرى بولۇپ، ئېتىز - ئېرىقلارنى ئورمان بىلەن تورلاشتۇرۇش ئاساسىي جەھەتتىن ئىشقا ئاشۇرۇلغان. چوڭ، ئوتتۇرا تىپتىكى سۇ ئامبىرىدىن 3 ى )ئومۇمىي سىغىمچانلىقى 160 مىليون كۇب مېتىر( ۋە 2000 كىلومېتىردىن ئارتۇق ئۇزۇنلۇقتا سۇ باشلاش، يەتكۈزۈش ئۆستىڭى )سۇ باشلاش ئىقتىدارى 593 مىليون كۇب مېتىر( ياسىدى؛ دېھقانچىلىق ماشىنىلىرىنىڭ ئومۇمىي كۈچى 209 مىڭ كىلوۋات بولۇپ، 600 دىن ئارتۇق، چوڭ، ئوتتۇرا تىپتىكى دېھقانچىلىق ماشىنىسى بار. دېھقانچىلىق مەھسۇلاتلىرىدىن ئاساسلىقى، بۇغداي، كوممىقوناق، پاختا، مايلىقدان، ئالقات قاتارلىقلار بار. بولۇپمۇ قۇرۇقلۇقتا ئىشلەپچىقىرىلىدىغان پاختا مىقدارى بىر قەدەر يۇقىرى بولۇپ ھەم ئاپتونوم رايونىمىزنىڭ پاختا ئىشلەپچىقىرىش بازىسى ھەم ئېلىمىزدىكى ئېكسپورت قىلىنىدىغان پاختا ئىشلەپچىقىرىدىغان 10 چوڭ بازىنىڭ بىرى، ئۇلار ئىشلەپچىقارغان پاختا يېزا ئىگىلىك مىنىستىرلىقى تەرىپىدىن ئىككى قېتىم يۇقىرى مەھسۇلاتلىق، ئەلا سۈپەتلىك پاختا دېگەن نامغا ئېرىشكەن. چارۋىچىلىقتا قوي بېقىشنى ئاساس قىلغان بولۇپ، خېلى زور كۆلەمگە ئىگە.<br />يېزا ئىگىلىك 5 - شىسىنىڭ سۇ ئېلېكتر مۇئەسسەسەلىرى بىر قەدەر ياخشى بولۇپ، كىچىك تىپتىكى پەلەمپەيسىمان سۇ ئېلېكتر ئىستانسىسىدىن 27 سى بار بولۇپ، ئومۇمىي گېنېراتور سىغىمچانلىقى 12 مىڭ كىلوۋاتقا يېتىدۇ، ئۇنىڭدىن باشقا يەنە 1000 كىلومېتىردىن ئارتۇق ئۇزۇنلۇقتا 10 مىڭ ۋولىتتىن يۇقىرى توك يەتكۈزۈش لىنىيىسى بار. 1991 - يىلى گوۋۇيۈەننىڭ تەستىقلىشى بىلەن مەزكۇر شى مەملىكەت بويىچە 2 - تۈركۈمدە ئېلېكترلەشتۈرۈلىدىغان قۇرۇلۇش - بوز يەر ئۆزلەشتۈرۈش رايونى قاتارىغا كىرگۈزۈلدى. سۇ ئېلېكتر مۇئەسسەسەلىرىنىڭ قۇرۇلۇشى سانائەتنىڭ تەرەققىياتىنى ئىلگىرى سۈردى، شى بويىچە ماشىنىسازلىق، ئېلېكتر ئېنېرگىيىسى، قۇرۇلۇش ماتېرىياللىرى، قەغەز ياساش، خىمىيە سانائىتى، ئاشلىق، ماي، يېمەكلىك پىششىقلاپ ئىشلەش قاتارلىق تۈرلەر بارلىققا كەلتۈرۈلدى. بۇنىڭ ئىچىدە قوي يۇڭىدىن ئىشلەنگەن يۈرۈشلەشكەن مەھسۇلاتلار كۆپ قېتىم ئاپتونوم رايون تەرىپىدىن قوي يۇڭىدىن ئىشلەنگەن ئەلا سۈپەتلىك ئېكسپورت قىلىنىدىغان مەھسۇلات دېگەن نامغا ۋە قوي يۇڭىدىن ئىشلەنگەن ئەدىيال ئىچىدە 1 - ئورۇندا تۇرىدىغان مەھسۇلات دېگەن نامغا ئېرىشتى. تىلغا ئېلىشقا ئەرزىيدىغىنى شۇكى، بوز يەر ئۆزلەشتۈرۈش رايونىدىكى كۆلىمى 630 كۋادرات كىلومېتىر كېلىدىغان ئىبىنۇر كۆلى، بىر تەرەپتىن مول تۇز بايلىق مەنبەسى بىلەن تۇز خىمىيە سانائىتىنى تەرەققىي قىلدۇرۇشتىكى كۆڭۈلدىكىدەك خام ئەشيا بازىسى ھېسابلانسا؛ يەنە بىر تەرەپتىن، ئەتراپىدىكى مول قۇمۇش بايلىقى بىلەن قەغەزچىلىك سانائىتىنى تەرەققىي قىلدۇرۇشتىكى ئەڭ ياخشى خام ئەشيا بازىسى ھېسابلىنىدۇ.<br />شىنجاڭ ئىشلەپچىقىرىش - قۇرلۇش بىڭتۇەنى يېزا ئىگىىك 6 - شىسى<br /><br />يېزا ئىگىلىك 6 - شىسى ئەسلىدىكى جۇڭگو خەلق ئازادلىق ئارمىيىسى 1 - دالا ئارمىيىسى 1 - بىڭتۇەنى 6 - جۈنىنىڭ 17 - شىسى ئىدى. بۇ قىسىم 1949 - يىلى 11 - ئايدا شىنجاڭغا كىرگەن. 1953 - يىلى 6 - ئاينىڭ 5 - كۈنى 6 - جۈن 17 - شىنىڭ زور كۆپ قىسمى بىلەن شىنجاڭ ھەربىي رايونى 1 - ئاۋغۇست دېھقانچىلىق مەيدانى، 6 - جۈنىگە قاراشلىق مېڭجىن دېھقانچىلىق مەيدانى بىرلەشتۈرۈلۈپ، يېزا ئىگىلىك 6 - شىسى قىلىپ قۇرۇلغان. شى شىتابى سانجى شەھىرىنىڭ ۋۇجىياچۈي بازىرىدا.<br />يېزا ئىگىلىك 6 - شىسىنىڭ بوز ئۆزلەشتۈرۈش رايونى ئوتتۇرا قىسىم ۋۇجياچۈي ئۇنىۋېرسال ئىقتىسادىي رايونى، غەربىي قىسىم شىنجاڭ پاختا، شېكەر ئىشلەپچىقىرىش ئىقتىسادىي رايونى، شەرقىي قىسىم گۇچۇڭ ئاشلىق ئىشلەپچىقىرىش رايونى ۋە جەنۇبىي قىسىم ئۈرۈمچى شەھىرى سودا رايونىدىن ئىبارەت ئۆزگىچە ئالاھىدىلىككە ئىگە 4 - ئىقتىسادىي رايونغا بۆلۈنگەن. ئۇنىڭ قارمىقىدا مۇستەقىل ھېسابات قىلىدىغان كارخانىدىن 56 سى بار بولۇپ، بۇنىڭ 20 سى دېھقانچىلىق، چارۋىچىلىق تۇەن - مەيدانى، 63 سانائەت، قاتناش بىناكارلىق، سودا كارخانىسى، ئۇنىڭدىن باشقا يەنە پەن - تېخنىكا، مائارىپ، مەدەنىيەت سەھىيە قاتارلىق كەسىپىي ئورۇندىن 203 ى بار. ھازىر 153 مىڭ 100 گېكتار )2 مىليون 308 مىڭ 500 مو( تېرىلغۇ يەر، 368 مىڭ گېكتار )5 مىليون 520 مىڭ مو( يايلاق، 23 مىڭ گېكتار )345 مىڭ مو( ئورمانلىق، 27 مو گېكتار )405 مىڭ مو( سۇ كۆلىمى، ئۇنىڭدىن باشقا 40 مىڭ گېكتار )600 مىڭ مو( ئۆزلەشتۈرۈشكە بولىدىغان قاقاس يەر بار، 1995 - يىلىنىڭ ئاخىرىدىكى ئومۇمىي نوپۇسى 261 مىڭ بولۇپ، ئەمگەكچى 115 مىڭ، بۇنىڭ ئىچىدە دۆلەت ئىگىلىكىدىكى ئورۇنلاردا ئىشلەۋاتقان ئىشچى - خىزمەتچى 104 مىڭ 100 نەپەر.<br />يېزا ئىگىلىك 6 - شىسىنىڭ سۇ ئىنشائاتلاشتۇرۇش، يېزا ئىگىلىكىنى ماشىنىلاشتۇرۇش دەرىجىسى بىر قەدەر يۇقىرى بولۇپ، ئېتىز ئېرىقلارنى ئورمان بىلەن تورلاشتۇرۇش ئاساسىي جەھەتتىن ئىشقا ئاشۇرۇلغان. تۈزلەڭلىكتە 19 يەرگە سۇ ئامبىرى )ئومۇمىي سىغىمچانلىقى 200 مىليون كۇب مېتىر( ياسىغان، سۇغىرىش ئۈچۈن ئىشلىتىلىدىغان قۇدۇقتىن 1500 نى قازغان. 13 مىڭ كىلومېتىر ئۇزۇنلۇقتا تۈرلۈك سۇغىرىش، سۇ چىقىرىش ئۆستىڭى چاپقان؛ دېھقانچىلىق ماشىنىلىرىنىڭ ئومۇمىي كۈچى 209 مىڭ كىلوۋات بولۇپ، 1500 دىن ئارتۇق چوڭ، ئوتتۇرا تىپتىكى دېھقانچىلىق ماشىنىسى بار. مەھسۇلاتلىرىدىن ئاساسلىقى بۇغداي، كۆممىقوناق، مايلىقدان، پاختا، قىزىلچا، قۇلماق، قوغۇن - تاۋۇز، كۆكتات، ئارپا قاتارلىقلار، بار. بۇنىڭ ئىچىدە 103 - تۇەننىڭ قوغۇنى يېشىل يېمەكلىك بەلگىلىمىسىگە ئېرىشكەن بولۇپ، ئاپتونوم رايونىمىزنىڭ ئىچى ۋە سىرتىدىكى بازارلاردا كەڭ سېتىلىدۇ.<br />يېزا ئىگىلىك 6 - شىسىنىڭ سانائىتى بىر قەدەر تېز تەرەققىي قىلغان بولۇپ، ھازىر ماشىنىسازلىق، خىمىيە سانائىتى، كۆمۈرچىلىك، قۇرۇلۇش ماتېرىياللىرى خۇرۇم ئىشلەش، يېمەكلىك، توقۇمىچىلىق قاتارلىق تۈرلەر بار. بۇ شى ئىشلەپچىقارغان ئەپەندى ماركىلىك سوپۇن پاراشۇكى، ۋۇجياچۈي ماركىلىق سۇ پومپىسى شىنجاڭنىڭ داڭلىق مەھسۇلاتى دېگەن نامغا ئېرىشتى، پەشمەت، چۈرۈك كەمپۈت، رادىياتور، قاراماي قەغەز، خۇرۇم كىيىم - كېچەك، خىش قاتارلىق مەھسۇلاتلار مىنىستىر دەرىجىلىك ئەلا سۈپەتلىك مەھسۇلات دېگەن نامغا ئېرىشتى. خۇشاىن خۇرۇم مەھسۇلاتلىرى كۆپ قېتىم مەملىكەت ئىچى ۋە سىرتىدا مۇكاپاتقا ئېرىشتى.<br /><br />شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك 7 - شىسى<br /><br />يېزا ئىگىلىك 7 - شىسى ئەسلىدىكى جۇڭگو خەلق ئازادلىق ئارمىيىسى 22 - بىڭتۇەنى 9 - جۈنىنىڭ 25 - شىسى ئىدى. 1953 - يىلى بۇيرۇققا بىنائەن كوللېكتىپ كەسىپ ئالماشتۇرۇلۇپ ئىشلەپچىقىرىش قىسمىغا ئۆزگەرتىلىپ، يېزا ئىگىلىك 7 - شىسى بولۇپ قۇرۇلغان. 1957 - يىلى شى شىتابى ئەسلىدىكى ساۋەن ناھىيىسىنىڭ پوتەي كەنتىدىن كۈيتۈنگە يۆتكەلگەن.<br />يېزا ئىگىلىك 7 - شىسىنىڭ بوز يەر ئۆزلەشتۈرۈش رايونلىرى كۈيتۈن شەھىرى ۋە قوبۇقسار موڭغۇل ئاپتونوم ناھىيىسى تەۋەسىگە جايلاشقان. ئۇنىڭ قارمىقىدا مۇستەقىل ھېسابات قىلىدىغان كارخانىدىن 55 ى بار بولۇپ، بۇنىڭ&nbsp; 10 ى دېھقانچىلىق، چارۋىچىلىق تۇەن - مەيدانى، 45 ى سانائەت، قاتناش، بىناكارلىق، سودا كارخانىسى، ئۇنىڭدىن باشقا يەنە پەن - تېخنىكا، مائارىپ، مەدەنىيەت، سەھىيە قاتارلىق كەسپىي ئورۇندىن 145 ى بار. ھازىر 78 مىڭ 800 گېكتار )1 مىليون 182 مىڭ مو( تېرىلغۇ يەر، 80 مىڭ گېكتار )1 مىليون 200 مىڭ مو( يايلاق، 3000 گېكتار )45 مىڭ مو( باقمىچىلىق قىلىدىغان سۇ كۆلىمى بار. 1995 - يىلىنىڭ ئاخىرىدىكى ئومۇمىي نوپۇسى 199 مىڭ بولۇپ، ئەمگەكچى 89 مىڭ 500، بۇنىڭ ئىچىدە دۆلەت ئىگىلىكىدىكى ئورۇنلاردا ئىشلەۋاتقان ئىشچى - خىزمەتچى 79 مىڭ 200 نەپەر.<br />يېزا ئىگىلىك 7 - شىسىنىڭ سۇ ئىنشائاتلاشتۇرۇش، يېزا ئىگىلىكىنى ماشىنىلاشتۇرۇش دەرىجىسى بىر قەدەر يۇقىرى بولۇپ، ئېتىز - ئېرىقلارنى ئورمان بىلەن تورلاشتۇرۇش ئاساسىي جەھەتتىن ئىشقا ئاشۇرۇلغان. چوڭ، ئوتتۇرا تىپتىكى سۇ ئامبىرىدىن 6ى )ئومۇمىي سىغىمچانلىقى 70 مىليون كۇب مېتىر( ياسىغان ۋە يۈرۈشلەشكەن مۇكەممەل سۇ چىقىرىش، سۇغىرىش ئۆستىڭى سىستېمىسىنى بەرپا قىلغان؛ دېھقانچىلىق ماشىنىلىرىنىڭ ئومۇمىي كۈچى 118 مىڭ كىلوۋات بولۇپ، 1500 دىن ئارتۇق چوڭ، ئوتتۇرا تىپتىكى دېھقانچىلىق ماشىنىسى بار. دېھقانچىلىق مەھسۇلاتلىرىدىن ئاساسلىقى، بۇغداي، كۆممىقوناق، پاختا، قىزىلچا قاتارلىقلار بار بولۇپ، ئاپتونوم رايون ۋە بىڭتۇەننىڭ مۇھىم پاختا، شېكەر ئىشلەپچىقىرىش بازىلىرىنىڭ بىرى ھېسابلىنىدۇ، چارۋىچىلىقتا كالا، قوي بېقىشنى ئاساس قىلىدۇ.<br />يېزا ئىگىلىك 7 - شىسىنىڭ سانائىتى ئۈزلۈكسىز تەرەققىي قىلغان بولۇپ، ھازىر پاختا توقۇمىچىلىق، ئىلمە توقۇلما، يېمەكلىك، شېكەرچىلىك، پەمىدۇر قىيامى، ئېچىتما مەھسۇلاتلارنى ئىشلەش، قەغەز ياساش، خىمىيە سانائىتى، ئېلېكتر ئېنېرگىيىسى، دېھقانچىلىق ماشىنىلىرى، كۆمۈر قاتارلىق تۈرلەر بار. بۇ شى ئىشلەپ چىقارغان مەھسۇلاتلاردىن كۈيتۈن ئالاھىدە ھارىقى 1991 - يىلى مەملىكەتلىك ئېسىل مەھسۇلات دېگەن نامغا، 1992 - يىلى بريۇسېلدا ئۆتكۈزۈلگەن 30 - نۆۋەتلىك خەلقئارا&nbsp; ئەلا سۈپەتلىك مەھسۇلاتلار كۆزگەزمىسىدە ئالتۇن مېدال مۇكاپاتىغا، 1994 - يىلى مەملىكەتلىك يېنىك سانائەت مىنىستىرلىقىنىڭ كۈمۈش مېدال مۇكاپاتىغا ئېرىشتى؛ پولات ۋە ياغاچتىن ياسالغان ئۆي جاھازىلىرى، شاپتۇل تەملىك كەمپۈت، قوغۇن شەربىتى، تيەنچى ئالاھىدە ھارىقى قاتارلىق مەھسۇلاتلار يېزا ئىگىلىك مىنىستىرىقى، ئاپتونوم رايون تەرىپىدىن داڭلىق، ئەلا سۈپەتلىك مەھسۇلات قىلىپ باھالاندى؛ كۈيتۈن تۆۋەن گرادۇسلۇق ئالاھىدە ھارىقى، ئۆرۈك مېغىزى شەربىتى، ئاق مۈشۈك ماركىلىق مەدەنىيەت كۆينىكى قاتارلىقلار ئايرىم - ئايرىم ھالدا 1994 - يىلى بېيجىڭدا ئۆتكۈزۈلگەن 2 - نۆۋەتلىك خەلقئارا ئوتتۇرا، كىچىك تىپتىكى كارخانىلارنىڭ يېڭى مەھسۇلاتلىرى، يېڭى تېخنىكىسى كۆزگەزمىسى كېڭىشى يىغىنىدا ۋە 3 - نۆۋەتلىك جۇڭگو يېزا - بازار كارخانىلىرىنىڭ ئېكسپورت قىلىنىدىغان مەھسۇلاتلىرى كۆزگەزمىسىدە مۇكاپاتقا ئېرىشتى.<br />شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك 8 - شىسى<br /><br />يېزا ئىگىلىك 8 - شىسى ئەسلىدىكى جۇڭگو خەلق ئازادلىق ئارمىيىسى 22 - بىڭتۇەنى 9 - <br /> جۈنىنىڭ 26 - شىسى ئىدى. بۇ قىسىم 1950 -&nbsp; يىلىنىڭ بېشىدا ماناس دەرياسى ئېقىنىنىڭ يەنسىخەي، ئۇلان ئۇسۇن بويلىرىغا كىرىپ ئورۇنلاشقان. 1953 - يىلى بۇيرۇققا بىنائەن كوللېكتىپ كەسىپ ئالماشتۇرۇش يولى بىلەن يېزا ئىگىلىك 8 - شىسى قىلىپ قۇرۇلغان. شى شىتابى شىخەنزە شەھىرىدە.<br />يېزا ئىگىلىك 8 - شىسىنىڭ بوز يەر ئۆزلەشتۈرۈش رايونلىرى شىخەنزە شەھىرىنى يادرو قىلىپ، جەنۇبتا تەڭرى تېغىغىچە، شىمالدا قۇربان توڭگۇت قۇملۇقىغىچە سوزۇلغان بولۇپ، شىخەنزە شەھىرى، قاراماي شەھىرى بىلەن ماناس ناھىيىسى، ساۋەن ناھىيىسى تەۋەسىگە جايلاشقان. شىخەنزە، يەنسەي، موسۇۋەن، شىيايېدى قاتارلىق 4 سۇغىرىش رايونىغا بۆلۈنىدۇ. ئۇنىڭ قارمىقىدا مۇستەقىل ھېسابات قىلىدىغان كارخانىدىن 265 سى بار بولۇپ، 19 ى دېھقانچىلىق، چارۋىچىلىق تۇەن مەيدانى، 246 سى سانائەت، قاتناش، بىناكارلىق، سودا كارخانىسى. ئۇنىڭدىن باشقا يەنە پەن - تېخنىكا، مائارىپ، مەدەنىيەت، سەھىيە قاتارلىق كەسپىي ئورۇندىن 275 ى بار. ھازىر 175 مىڭ 100 گېكتار )2 مىليون 626 مىڭ 500 مو( تېرىلغۇ يەر، 64 مىڭ گېكتار )960 مىڭ مو( يايلاق، 2000 گېكتار )30 مىڭ مو( مېۋىلىك باغ، 18 مىڭ گېكتار )270 مىڭ مو( ئورمانلىق، 3000 مىڭ گېكتار )45 مىڭ مو( باقمىچىلىق قىلىدىغان سۇ كۆلىمى بار. 1995 - يىلىنىڭ ئاخىرىدىكى ئومۇمىي نوپۇسى 496 مىڭدىن ئارتۇق )بۇنىڭ ئىچىدە شەھەر ئاھالىسى 230 مىڭدىن كۆپرەك( بولۇپ، ئەمگەكچى 235 مىڭ، بۇنىڭ ئىچىدە دۆلەت ئىگىلىكىدىكى ئورۇنلاردا ئىشلەۋاتقان ئىشچى - خىزمەتچى 192 مىڭ 700 نەپەر.<br />يېزا ئىگىلىك 8 - شىسىنىڭ سۇ ئىنشائاتلاشتۇرۇش، يېزا ئىگىلىكىنى ماشىنىلاشتۇرۇش دەرىجىسى بىر قەدەر يۇقىرى بولۇپ، ئېتىز - ئېرىقلارنى ئورمان بىلەن تورلاشتۇرۇش ئاساسىي جەھەتتىن ئىشقا ئاشۇرۇلغان. سۇ باشلاش تۈگۈنى قۇرۇلۇشىدىن 13 نى، چوڭ، ئوتتۇرا تىپتىكى سۇ ئامبىرىدىن 6 نى )ئومۇمىي سىغىمچانلىقى 510 مىليون كۇب مېتىر( ياسىزى ۋە 6.270 كىلومېتر ئۇزۇنلۇقتا باش غول ئۆستەڭ چاپتى؛ دېھقانچىلىق ماشىنىلىرىنىڭ ئومۇمىي كۈچى 246 مىڭ كىلوۋاتقا يېتىدۇ. 2300 دىن ئارتۇق چوڭ، ئوتتۇا تىپتىكى دېھقانچىلىق ماشىنىسى بار. دېھقانچىلىق مەھسۇلاتلىرىدىن ئاساسلىقى، بۇغداي، كۆممىقوناق، پاختا، قىزىلچا قاتارلىقلار بار بولۇپ، بىڭتۇەننىڭ، ئاپتونوم رايونىمىزنىڭ ھەتتا پۈتۈن مەملىكەتنىڭ ئاشلىق، پاختا، قىزىلچا ئىشلەپچىقىرىش بازىلىرىنىڭ بىرى ھېسابلىنىدۇ. چارۋىچىلىقتا كالا، قوي بېقىشنى ئاساس قىلىدۇ.<br />يېزا ئىگىلىك 8 - شىسىنىڭ قاتنىشى قۇلايلىق بولۇپلا قالماستىن، ئالاقىلىشىش ۋاسىتىلىرىمۇ ئىلغار. لەنجۇ - شىنجاڭ تۆمۈر يولىنىڭ غەربىي بۆلىكى، دۆلەت تاشيولىنىڭ 312 - لىنىيىسى ئايرىم - ئايرىم ھالدا شەھەرنىڭ جەنۇب ۋە شىمال تەرىپىدىن ئۆتىدۇ. شىخەنزە رايونىنى مەركەز قىلغان، 41 تاشيول ھەرقايسى تۇەن - مەيدانلار بىلەن يېزا - بازارلارنى تۇتاشتۇرۇپ تۇرىدۇ. ئاسىيا، ياۋروپا نۇر كابىلى شەھەر رايونىدىن ئۆتىدۇ. تۈرلۈك زامانىۋىي ئالاقىلىشىش ۋاسىتىلىرى ئارقا - ئارقىدىن ئىشقا كىرىشتۈرۈلمەكتە، 24 مىڭ توچكىدىن ئارتۇق پروگراممىلىق تېلېفون بار. بىر قەدەر مۇكەممەل بولغان ئۇل مۇئەسسەسەلەر يېزا ئىگىلىك 8 - شىسى سانائەت ئىقتىسادىنىڭ تېز سۈرئەتتە تەرەققىي قىلىشىغا تۈرتكە بولدى، ھازىر بوز يەر ئۆزلەشتۈرۈش رايونى ئالاھىدىلىكىگە ئىگە بولغان، يېنىك سانائەت، توقۇمىچىلىق سانائىتىنى ئاساس قىلغان، مەلۇم كۆلەمگە ئىگە زامانىۋىي سانائەت ئاساسىي جەھەتتىن بارلىققا كەلتۈرۈلدى. 1 - ئاۋغۇست شېكەر زاۋۇتى، 1 - ئاۋغۇست پاختا توقۇمىچىلىق زاۋۇتى، 1 - ئاۋغۇست يۇڭ توقۇمىچىلىق زاۋۇتى ۋەكىللىكىدىكى ئەسلىھەلىرى ۋە باشقۇرۇش سەۋىيىسى ئىلغار تېخنىكا كۈچى زور بولغان بىر تۈركۈم زامانىۋىي كارخانىلار بارلىققا كېلىپ، ئاپتونوم رايونىمىزنىڭ مۇھىم يېنىك سانائەت، توقۇمىچىلىق سانائىتى بازىسى بولۇپ قالدى. يېقىنقى يىللاردىن بۇيان 48 خىل مەھسۇلات ئاپتونوم رايون ۋە دۆلەتلىك مىنىستىر، كومىتېتلار تەرىپىدىن ئەلا سۈپەتلىك مەھسۇلات بولۇپ باھالاندى، بۇنىڭ ئىچىدە ×A2201 تىپلىق گاباردىيون ئىككى قېتىم دۆلەت تەرىپىدىن كۈمۈش مېدال مۇكاپاتىغا ئېرىشتى؛ 500 خىلدىن ئارتۇق مەھسۇلات شەرقىي جەنۇبىي ئاسىيا، ياۋروپا، ئامېرىكا قاتارلىق جايلاردىكى 18 دۆلەت ۋە رايونغا سېتىلىدۇ.<br />شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك 9 - شىسى<br /><br />يېزا ئىگىلىك 9 - شىسى ئەسلىدىكى 22 - بىڭتۇەن 9 - جۈنىنىڭ 27 - شىسى ئىدى. 1962 - يىلى 8 - ئايدا، ئەسلىدىكى يېزا ئىگىلىك 7 - شىسىنىڭ 3 - باشقۇرۇش ئورنى ۋە ئۇنىڭغا قاراشلىق 7 شۆبە مەيدان بىلەن قۇرۇلۇش 2 - شىسىنىڭ شى شىتابى بىرلەشتۈرۈلۈپ يېزا ئىگىلىك 9 - شىسى قىلىپ قۇرۇلغان. شى شىتابى دۆربىلجىن ناھىيىسىدە.<br />يېزا ئىگىلىك 9 - شىسىنىڭ بوز ئۆزلەشتۈرۈش رايونلىرى تارباغاتاي ۋىلايىتىگە جايلاشقان. ئۇنىڭ قارمىقىدا مۇستەقىل ھېسابات قىلىدىغان كارخانىدىن 36 سى بار بولۇپ، ئۇنىڭ 11 سى دېھقانچىلىق، چارۋىچىلىق تۇەن - مەيدانى، 52 سانائەت، قاتناش بىناكارلىق سودا كارخانىسى ئۇنىڭدىن باشقا يەنە پەن - تېخنىكا، مائارىپ، مەدەنىيەت، سەھىيە قاتارلىق كەسپىي ئورۇندىن 83 ى بار. ھازىر 84 مىڭ 600 گېكتار )1 مىليون 269 مىڭ مو( تېرىلغۇ يەر،&nbsp; 234 مىڭ 100 )3 مىليون 520 مىڭ 500 مو( يايلاق، 6000 مىڭ گېكتار )90 مىڭ مو( ئورمانلىق بار. 1995 - يىلىنىڭ ئاخىرىدىكى ئومۇمىي نوپۇسى 72 مىڭ بولۇپ، ئەمگەكچى 34 مىڭ 200. بۇنىڭ ئىچىدە دۆلەت ئىگىلىكىدىكى ئورۇنلاردا ئىشلەۋاتقان ئىشچى - خىزمەتچى 31 مىڭ.<br />يېزا ئىگىلىك 9 - شىسىنىڭ شۇ ئىنشائاتى قۇرۇلۇشى بىر قەدەر ياخشى، يېزا ئىگىلىكىنى ماشىنىلاشتۇرۇش دەرىجىسى بىر قەدەر يۇقىرى بولۇپ، ئېتىز - ئېرىقلارنى ئورمان بىلەن تورلاشتۇرۇش ئاساسىي جەھەتتىن ئىشقا ئاشۇرۇلغان. سۇ ئامبىرىدىن 7 نى )ئومۇمىي سىغىمچانلىقى 7000 كۇب مېتىردىن( ياسىغان. 1800 كىلومېتىر ئۇزۇنلۇقتا ئاساسىي غول ئۆستەڭ )بۇنىڭ ئىچىدە سۇ سىڭمەس ئۆستەڭنىڭ ئۇزۇنلۇقى 1000 كىلومېتىردىن ئاشىدۇ( چاپقان؛ دېھقانچىلىق ماشىنىلىرىنىڭ ئومۇمىي كۈچى 75 مىڭ كىلوۋات بولۇپ، 1000 غا يېقىن چوڭ، ئوتتۇرا تىپتىكى دېھقانچىلىق ماشىنىسى بار. دېھقانچىلىق مەھسۇلاتلىرىدىن ئاساسلىقى، بۇغداي، كوممىقوناق، مايلىقدان، قىزىلچا، ئارپا قاتارلىقلار بار. چارۋىچىلىقتا كالا، قوي قاتارلىق چارۋىلارنى بېقىشنى ئاساس قىلغان بولۇپ ئۇلار ئىشلەپ چىقارغان جۇڭگو مىرىنۇس ئىنچىكە قوي يۇڭى، ساپ فرانسىيە نەسىللىك شارۇلاي كالا گۆشى سۈپىتىنىڭ ئېسىللىكى بىلەن دۆلەت ئىچى ۋە سىرتىدىكى بازارلاردا ئالقىشقا ئېرىشىپ كەلدى.<br />يېقىنقى يىللاردىن بۇيان، يېزا ئىگىلىك 9 - شىسىنىڭ يېزا ئىگىلىك مەھسۇلاتلىرىنى پىششىقلاپ ئىشلەشنى ئاساس قىلغان سانائەت ئىشلەپچىقىرىشى بىر قەدەر تېز تەرەققىي قىلدى. ئاساسلىق مەھسۇلاتلىرىدىن شېكەر، ئىسپىرت، تىرىپ، يۇڭ پىلتە قاتارلىقلار بار. بۇلاردىن خۇامىن يۇڭ توقۇمىچىلىق فابرىكىسى ئىشلەپ چىقارغان ئىنچىكە يۇڭ يىپ، ئىنچىكە ئىگىرىلگەن ئىلمە توقۇلما تىۋىت يىپى يۇقىرى ئىناۋەتكە ئىگە، 665 تىپلىق ساپ يۇڭ پىلتە 1994 - يىلى بېيجىڭدا ئۆتكۈزۈلگەن 2 - نۆۋەتلىك خەلقئارا ئوتتۇرا، كىچىك تىپتىكى كارخانىلارنىڭ يېڭى مەھسۇلات، يېڭى تېخنىكىسى كۆرگەزمىسى كېڭىشى يىغىنىدا ئالتۇن مېدارل مۇكاپاتىغا ئېرىشتى، كەسمە چۆپ زاۋۇتى ئىشلەپ چىقارغان ھەرخىل چۆپلەر مەملىكەتنىڭ ھەرقايسى جايلىرىدا كەڭ سېتىلماقتا.<br />شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك 10 - شىسى<br /><br />يېزا ئىگىلىك 10 - شىسى ئەسلىدىكى جۇڭگو خەلق ئازادلىق ئارمىيىسى 22 - بىڭتۇەنى ئاتلىق ئەسكەرلەر 7 - شىسىنىڭ 9 - تۇەنى ئىدى. بۇ قىسىم 1953 - يىلى بۇيرۇققا بىنائەن تەرتىپكە سېلىنىپ شىنجاڭ ھەربىي رايونىنىڭ مۇستەقىل 28 - تۇەنى بولغان، 1954 - يىلى بۇيرۇققا بىنائەن تەرتىپكە سېلىنىپ ئىشلەپچىقىرىش - قۇرۇلۇش بىڭتۇەنىنىڭ مۇستەقىل 28 - تۇەنى بولغان. 1959 - يىلى يېزا ئىگىلىك 10 - شىسى قىلىپ قۇرۇلغان. شى شىتابى ئالتاي شەھىرىنىڭ بېيتۇەن بازىرىدا.<br />يېزا ئىگىلىك 10 - شىسىنىڭ بوز يەر ئۆزلەشتۈرۈش رايونلىرى پۈتكۈل ئالتاي ۋىلايىتى بىلەن تارباغاتاي ۋىلايىتىنىڭ قوبۇقسار موڭغۇل ئاپتونوم ناھىيىسىگە تارقالغان. ئۇنىڭ قارمىقىدا مۇستەقىل ھېسابات قىلىدىغان كارخانىدىن 36 سى بار بولۇپ، ئۇنى 11 ى دېھقانچىلىق، چارۋىچىلىق تۇەن - مەيدانى، 25 ى سانائەت، قاتناش، بىناكارلىق، سودا كارخانىسى. ئۇنىڭدىن باشقا يەنە پەن - تېخنىكا، مائارىپ، مەدەنىيەت، سەھىيە قاتارلىق كەسپىي ئورۇندىن 92 سى بار. ھازىر 37 مىڭ گېكتار )555 مىڭ مو( تېرىلغۇ يەر، 5000 گېكتار )495 مىڭ مو( يايلاق، 8000 گېكتار )120 مىڭ مو( ئورمانلىق، 5000 )750 مىڭ مو( سۇ كۆلىمى، 1000 گېكتار )15 مىڭ مو( ئورمانلىق، ئۇنىڭدىن باشقا 129 مىڭ گېكتار )1 مىليون 935 مىڭ مو( ئۆزلەشتۈرۈشكە بولىدىغان قاقاس يەر بار. 1995 - يىلىنىڭ ئاخىرىدىكى ئومۇمىي نوپۇسى 68 مىڭ، ئەمگەكچى 33 مىڭ، بۇنىڭ ئىچىدە دۆلەت ئىگىلىكىدىكى ئورۇنلاردا ئىشلەۋاتقان ئىشچى - خىزمەتچى 32 مىڭ نەپەر.<br />يېزا ئىگىلىك 10 - شىسىنىڭ سۇ ئىنشائاتى قۇرۇلۇشى بىر قەدەر ياخشى، يېزا ئىگىلىكىنى ماشىنىلاشتۇرۇش دەرىجىسى يۇقىرى، چوڭ، ئوتتۇرا تىپتىكى سۇ ئامبىرىدىن 12 نى )ئومۇمىي سىغىمچانلىقى 118 مىليون كۇب مېتىر( ياسىدى؛ دېھقانچىلىق ماشىنىلىرىنىڭ ئومۇمىي كۈچى 61 مىڭ كىلوۋات بولۇپ، 500 گە يېقىن چوڭ، ئوتتۇرا تىپتىكى دېھقانچىلىق ماشىنىسى بار. دېھقانچىلىق مەھسۇلاتلىرىدىن ئاساسلىقى بۇغداي، مايلىقدان، قىزىلچا قاتارلىقلار بار. چارۋىچىلىقتا قوي بېقىشنى ئاساس قىلىدۇ. ئۇلار يېتىشتۈرۈپچىققان ئالتاي ئىنچىكە يۇڭلۇق قويى دۆلەتنىڭ باھالاپ بېكىتىشىدىن ئۆتتى؛ بېقىلىۋاتقان قارا كۈرەڭ تۈلكە، شىمالىي قۇتۇپ تۈلكىسى قاتارلىق تېرىسى ئەتىۋارلىق ھايۋانلار تەخمىنەن 10 مىڭغا يېتىدۇ، تۈلكە تېرىسىنىڭ ئاپتونوم رايون ئىچى ۋە سىرتىدا بازىرى ئىنتايىن ئىتتىك.<br />يېقىنقى يىللاردىن بۇيان، يېزا ئىگىلىك 10 - شىسىنىڭ سانائەت تەرەققىياتى بىر قەدەر تېز بولدى، ئاساسلىقى كۆمۈر، ئېلېكتر ئېنېرگىيىسى، سېمونت، يۇڭ توقۇمىچىلىق، ئىلمە توقۇمىچىلىق، كۆن - خۇرۇم مەھسۇلاتلىرىنى ئىشلەپچىقىرىش، قەغەز ياساش، مەتبەئەچىلىك، ساپال ۋە فار - فۇر بۇيۇملىرىنى ياساش، چىرىمتال قېزىش ۋە ئۇنى پىششىقلاپ ئىشلەش، بېنتونىت مەھسۇلاتلىرىنى پىششىقلاپ ئىشلەش قاتارلىق تۈرلەر بار. چىرىمتال قەغىزى بىلەن چىرىمتال قەغىزى تاختىسى ئاپتونوم رايونىمىزنىڭ بۇ جەھەتتىكى بوشلۇقنى تولدۇردى. بېنتونىت مەھسۇلاتلىرىنىڭ دۆلەت ئىچى ۋە سىرتىدا بازىرى ئىنتايىن ئىتتىك.<br />شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى بىناكارلىق قۇرۇلۇش 1 - شىسى<br /><br />بىناكارلىق قۇرۇلۇش 1 - شىسى ئەسلىدىكى جۇڭگو خەلق ئازادلىق ئارمىيىسى 22 - بىڭتۇەنىنىڭ ئاتلىق ئەسكەرلەر 8 - شىسى ئىدى. بۇ قىسىم 1953 - يىلى بۇيرۇققا بىنائەن كوللېكتىپ كەسىپ ئالماشتۇرۇپ، قەشقەر، يەكەن، بورتالا، شىخەنزە قاتارلىق جايلاردا شەھەر قۇرۇلۇشى، سۇ ئىنشائاتى قۇرۇلۇشى ۋە تاشيول قۇرۇلۇشى ۋەزىپىسىنى ئۈستىگە ئالغان. 1953 - يىلىنىڭ بېشىدا قۇرۇلۇش 1 - شىسىغا ئۆزگەرتىلگەن. 1974 - يىلى جەنۇبىي شىنجاڭ تۆمۈر يولىنى ياساش ئۈچۈن، بىڭتۇەن تۆمۈر يول قۇرۇلۇشى قوماندانلىق شىتابى ۋە تۆمۈر يول قۇرۇلۇش ئىدارىسى قىلىپ ئۆزگەرتىلگەن. 1983 - يىلى 4 - ئايدا بىڭتۇەنگە قايتۇرۇلۇپ، قۇرۇلۇش 1 - شىسى دېگەن نامى ئەسلىگە كەلتۈرۈلگەن.<br />قۇرۇلۇش 1 - شىسىغا مۇستەقىل ھېسابات قىلىدىغان كارخانىدىن 27 سى قارايدۇ، ئۇنىڭ 15 ى چوڭ تىپتىكى بىناكارلىق - قۇراشتۇرۇش كارخانىسى، 12 سى باشقا تىپتىكى كارخانىلار، ئۇنىڭدىن باشقا يەنە پەن - تېخنىكا، مائارىپ، مەدەنىيەت، سەھىيە قاتارلىق كەسپىي ئورۇندىن 50 ى بار. بۇ كارخانا كەسپىي ئورۇنلار ئۈرۈمچى شەھىرى، شىخەنزە شەھىرى، كۈيتۈن شەھىرى ۋە بايىنغۇلىن موڭغۇل ئاپتونوم&nbsp; ئوبلاستىغا جايلاشقان. 1995 - يىلىنىڭ ئاخىرىدىكى ئومۇمىي نوپۇسى 65 مىڭ، ئەمگەكچى 32 مىڭ، بۇنىڭ ئىچىدە دۆلەت ئىگىلىكىدىكى ئورۇنلاردا ئىشلەۋاتقان ئىشچى - خىزمەتچى 30 مىڭ 300 نەپەر.<br />قۇرۇلۇش 1 - شىسى بىناكارلىق - قۇراشتۇرۇش ئىشلىرىنى ئاساس قىلىدۇ، قوشۇمچە بېزەش - زىننەتلەش، قۇرۇلۇش ماتېرىياللىرىنى ئىشلەپچىقىرىش، ئۇنىڭدىن باشقا سانائەت ئىشلەپچىقىرىشى ۋە يېزا ئىگىلىك، ترانسپورت، سودا كەسىپلىرى بىلەنمۇ شۇغۇللىنىدۇ. ھازىر بار تۈرلۈك تېخنىك خادىم 7000 دىن ئاشىدۇ، بۇنىڭ ئىچىدە ئوتتۇرا، يۇقىرى دەرىجىلىكتىن يۇقىرى تېخنىكا ئۇنۋانىغا ئىگە كەسپىي خادىملار 2400 دىن ئاشىدۇ؛ 5000 دىن ئارتۇق چوڭ، ئوتتۇرا تىپتىكى تۈرلۈك قۇرۇلۇش قىلىش ماشىنىسى بار بولۇپ، ئومۇمىي كۈچى 120 مىڭ كىلوۋاتتىن ئاشىدۇ.<br />نەچچە ئون يىلدىن بۇيان، بۇ شى ئىلگىرى كېيىن بولۇپ ئۈرۈمچى، شىخەنزە، كۈيتۈن، قاراماي، غۇلجا، كورلا قاتارلىق جايلارنىڭ قۇرۇلۇشىغا قاتناشتى، نەچچە 10 مىليون كۋادرات مېتىر كېلىدىغان زاۋۇت بىناسى ۋە ئولتۇراق ئۆيلەرنى سالدى، 1000 كىلومېتىردىن ئارتۇق ئۇزۇنلۇقتا تۆمۈر يول غول لىنىيىسى، تارماق لىنىيىسى ۋە مەخسۇس لىنىيە ياسىدى، 2000 كىلومېتىردىن ئارتۇق ئۇزۇنلۇقتا 8 تاشيول غول لىنىيىسى ۋە بىرقانچە تارماق لىنىيىسىنى ياسىدى؛ ئىلگىرى - كېيىن بولۇپ ماناس دەرياسى، كۈيتۈن دەرياسى، ئېرتىش دەرياسى، ئىلى دەرياسى، ئۈرۈمچى دەرياسى، قاراشەھەر دەرياسى، كۆنچى دەرياسى، يەكەن دەرياسى، تارىم دەرياسى قاتارلىق چوڭ ئېقىنلارنىڭ سۇ ئىنشائاتى قۇرۇلۇشىغا قاتناشتى، چوڭ، ئوتتۇرا تىپتىكى سۇ ئامبىرىدىن 15 نى، چوڭ تىپتىكى سۇ باشلاش تۈگۈنى قۇرۇلۇشىدىن 19 نى ياسىدى، چوڭ تىپتىكى سۇ باشلاش ئۆستىڭىدىن 24 نى چاپتى، سۇ ئېلېكتر ئىستانسىسى، ئوت ئېلېكتر ئىستانسىسىدىن 31 نى ياسىدى، ئىلگىرى - كېيىن بولۇپ قاراماي نېفىتلىكى شەرقىي جۇڭغار نېفىتلىكى، تۇرپان - قۇمۇل نېفىتلىكى، شىمالىي&nbsp; تارىم نېفىتلىكى قاتارلىق تۆت چوڭ نېفىتلىك قۇرۇلۇشىغا ۋە شىنجاڭدىكى ئالتە چوڭ ئايرودروم قۇرۇلۇشىغا قاتناشتى. ئۇنىڭدىن باشقا يەنە سېرلانكا، پاكىستان قاتارلىق دۆلەتلەرگە بېرىپ سۇ ئىنشائاتى قۇرۇلۇشى ۋە تاشيول قۇرۇلۇشىنى ئۈستىگە ئالدى. قۇرۇلۇش 1 - شىسى ئالاھىدە چىداملىق، ئالاھىدە سەۋرچان، ئالاھىدە جەڭگۋار، ئالاھىدە تۆھپە قوشىدىغان بولۇشتەك ئېسىل ئەنئەنىگە ئىگە بولۇپ، تۆمۈر قوشۇن دېگەن نامى بار.</div>
+		</th>
+	</tr>
+	<tr class="tr1 r_one">
+		<th style="vertical-align:bottom;padding-left:15px;border:0">
+
+		<div id="w_tpc" class="c"></div>
+
+		<div class="tipad"><span style="float:right">
+
+			<a href="javascript:scroll(0,0)"><img src="images/wind/read/top.gif" title="يۇقىرىغا قايتىش" /></a> </span>
+			<span class="gray">Posted: 2008-01-19 12:33 |  </span>
+
+			<span><a class="s3" title="بۇ قەۋەتكە ئىنكاس قايتۇرۇش" style="cursor:pointer;" onclick="postreply('ئاپتور (Bilqut_K) نىڭ يازمىسىغا ئىنكاس قايتۇرۇش');">[ئاپتور]</a></span>
+
+		</div></th>
+	</tr></table>
+</div>
+
+<a name=a></a><a name=36></a>
+<div class="t t2" ><table cellspacing="0" cellpadding="0" width="100%" style="table-layout:fixed;border-top:0">
+	<tr class="tr1"><th style="width:20%" rowspan="2" class="r_two">
+
+		<img src="images/wind/read/offline.gif" title="بۇ ئەزا نۆۋەتتە توردا يوق" align="absmiddle" />
+ 
+<b>uyghur</b>
+<div style="margin:.3em 0 .4em .2em"></div>
+<div class="user-pic"><table style="border:0"><tr><td width="1">
+
+<img class="pic" src="images/face/none.gif" border="0" />
+
+</td><td style="vertical-align:top"><span id="sf_1"></span></td></tr></table>
+</div>
+		
+		دەرىجىسى : <font color="#555555">يېڭى ئەزا</font><br />
+		<img style="margin:.2em 0 .6em" src="images/wind/level/8.gif" /><br />
+
+<span class="user-info2" id="showface_1">
+<span class="user-infoWrap2">
+
+<a href="profile.php?action=show&uid=9"><img src="images/wind/read/profile.gif" title="ئاپتور ماتېرىيالىنى كۆرۈش" /></a> <img src="images/wind/read/message.gif" title="قىسقا ئۇچۇر يوللاش" onclick="sendmsg('pw_ajax.php?action=msg&touid=9','','sf_1')" style="cursor:pointer"  /><img onclick="addfriend('9')" style="cursor:pointer" src="images/wind/read/friends.gif" title="دوستقا قوشۇش" />
+
+<br />
+نادىر يازمىلار : 
+
+		<span class="s4">0</span>
+<br />
+يوللىغان تېما : <span class="s1 f9">21</span><br />
+شۆھرىتى: <span class="s2 f9">21 نومۇر</span><br />
+تەڭگىسى : <span class="s3 f9">210 تەڭگە </span><br />
+
+		تۆھپە: <span class="s1 f9">0 نومۇر</span><br />
+
+		<span class="gray">تىزىملاتقان ۋاقتى : 2008-02-03<br />
+		ئاخىرقى كىرگىنى : 2008-02-07 </span>
+		</span></span>
+		</th>
+		<th height="100%" class="r_one" valign="top" id="td_36" style="padding:5px 15px 0 15px; border:0;width:80%; overflow:hidden">
+			<div class="tiptop">
+			<span class="fr"><a style="cursor:pointer" onclick="fontsize('small','36')">كىچىك</a> <a style="cursor:pointer" onclick="fontsize('middle','36')">نورمال</a> <a style="cursor:pointer" onclick="fontsize('big','36')">چوڭ</a></span>
+			<a onclick="sendurl(event,'action=quote&fid=128&tid=841&pid=36&article=1',this.id)" id="quote_36" style="cursor:pointer"><img src="images/wind/read/quote.gif" title="بۇ يازمىنى نەقىل ئېلىش" /></a> <a style="cursor:pointer" id="recommend_36" onclick="sendmsg('pw_ajax.php?action=recommend&tid=841','',this.id)"><img src="images/wind/read/emailto.gif" title="بۇ يازمىنى تەۋسىيە قىلىش" /></a> <a id="modify_36" onclick="sendurl(event,'action=modify&fid=128&tid=841&pid=36&article=1',this.id)" style="cursor:pointer"><img src="images/wind/read/edit.gif" /></a>
+
+			<a href="read.php?tid=841&uid=9" title="پەقەت بۇ ئاپتورنىڭلا بارلىق ئىنكاسلىرى كۆرسىتىلسۇن "><img src="images/wind/read/only.png" /></a>
+
+			</div>
+			<h1 id="subject_36" class="fl1">&nbsp;</h1>
+
+			<div id="p_36" class="c"></div>
+
+			<div class="tpc_content" id="read_36">مۇشۇ توغۇرلۇق بىر كىنو ئىشلەندغۇ دەيمەن !</div>
+		</th>
+	</tr>
+	<tr class="tr1 r_one">
+		<th style="vertical-align:bottom;padding-left:15px;border:0">
+
+		<div id="w_36" class="c"></div>
+
+		<div class="tipad"><span style="float:right">
+
+			<a href="javascript:scroll(0,0)"><img src="images/wind/read/top.gif" title="يۇقىرىغا قايتىش" /></a> </span>
+			<span class="gray">Posted: 2008-02-03 20:33 |  </span>
+
+			<span><a class="s3" title="بۇ قەۋەتكە ئىنكاس قايتۇرۇش" style="cursor:pointer;" onclick="postreply(' 1 قەۋەتتىكى (uyghur) نىڭ يازمىسىغا ئىنكاس قايتۇرۇش ');">1 -قەۋەت</a></span>
+
+		</div></th>
+	</tr></table>
+</div>
+
+</form>
+<div class="t3"><table cellspacing="0" cellpadding="0" width="100%" align="center">
+	<tr><td align="right"></td>
+		<td valign="center" align="right">
+		<a class="abtn f_two" id="readlog" onclick="sendmsg('pw_ajax.php?action=readlog','',this.id);">يازما كۆرۈلۈش خاتىرىسى<img src="images/wind/menu-down.gif" /></a>
+		<a class="abtn f_two" id="threadlog" onclick="sendmsg('pw_ajax.php','action=threadlog',this.id);">سەھىپە كۆرۈلۈش خاتىرىسى<img src="images/wind/menu-down.gif" /></a>
+		<select onchange="Fjump(this.options[this.selectedIndex].value)"><option value="" selected>سەھىپە يۆتكىلىش</option>
+<option value="1">>> بىلقۇت خەزىنىسى</option>
+<option value="2"> &nbsp;|- ئەلالاشتۇرۇش</option>
+<option value="4"> &nbsp;|- بىلقۇت خەزىنىسى ھەققىدە</option>
+<option value="160"> &nbsp;|- تەكلىپ-پىكىر بىرىڭ</option>
+<option value="5">>> ئاۋازلىق ئەسەرلەر</option>
+<option value="103"> &nbsp;|- مەسەللەر</option>
+<option value="101"> &nbsp;|- ھېكايىلەر</option>
+<option value="102"> &nbsp;|- نەسىرلەر</option>
+<option value="8"> &nbsp;|- مىڭ بىر كېچە</option>
+<option value="9"> &nbsp;|- كەلىلە ۋە دېمىنە</option>
+<option value="10"> &nbsp;|- چۆچەكلەر</option>
+<option value="11"> &nbsp;|- رىۋايەتلەر</option>
+<option value="16">>> كۈتۈپخانا</option>
+<option value="174"> &nbsp;|- ھىكمەت</option>
+<option value="175"> &nbsp;|- غارايىباتلار</option>
+<option value="177"> &nbsp;|- قان تىپى</option>
+<option value="178"> &nbsp;|- نۇتۇقلار</option>
+<option value="179"> &nbsp;|- ئۆسۈملۈكلەر</option>
+<option value="180"> &nbsp;|- كۆكتاتلار</option>
+<option value="181"> &nbsp;|- نەسىھەت</option>
+<option value="182"> &nbsp;|- مۆچەل</option>
+<option value="183"> &nbsp;|- مېۋە</option>
+<option value="184"> &nbsp;|- مايلار</option>
+<option value="171"> &nbsp;|- ھايۋاناتلار</option>
+<option value="176"> &nbsp;|- مىللەتلەر</option>
+<option value="105"> &nbsp;|- رىۋايەتلەر</option>
+<option value="172"> &nbsp;|- سۆيگۈ مەكتۇپى</option>
+<option value="185"> &nbsp;|- ئۆلچەم بىرلىكلىرى</option>
+<option value="186"> &nbsp;|- بۈگۈن</option>
+<option value="170"> &nbsp;|- مۇزىي</option>
+<option value="187"> &nbsp;|- دۇنيادىكى شەھەرلەر</option>
+<option value="188"> &nbsp;|- دۇنيادىكى كۈتۈپخانىلار</option>
+<option value="189"> &nbsp;|- تارىخ</option>
+<option value="173"> &nbsp;|- تۇرمۇش مەسلىھەتچىسى</option>
+<option value="22"> &nbsp;|- مىڭ بىر كېچە</option>
+<option value="21"> &nbsp;|- چۆچەكلەر</option>
+<option value="24"> &nbsp;|- ئەپسانىلەر</option>
+<option value="23"> &nbsp;|- كەلىلە ۋە دېمىنە</option>
+<option value="20"> &nbsp;|- ھېكايىلەر</option>
+<option value="17"> &nbsp;|- ماقالىلەر</option>
+<option value="19"> &nbsp;|- دۇنيادىكى ئەڭ</option>
+<option value="18"> &nbsp;|- ياشلار سەمىگە</option>
+<option value="85"> &nbsp;|- ماقال-تەمسىل</option>
+<option value="99"> &nbsp;|- لەتىپە-يۇمۇرلار</option>
+<option value="88"> &nbsp;|- نەسىرلەر</option>
+<option value="87"> &nbsp;|- مەسەللەر</option>
+<option value="25">>> بالىلار باغچىسى</option>
+<option value="159"> &nbsp;|- كىم ئەڭ ئەقىللىق</option>
+<option value="26"> &nbsp;|- بالىلار چۆچەكلىرى</option>
+<option value="27"> &nbsp;|- قىزىقارلىق ئويۇنلار</option>
+<option value="28"> &nbsp;|- قىزىقارلىق كارتونلار</option>
+<option value="29"> &nbsp;|- يۈزمىڭلىغان نىمە ئۈچۈن؟</option>
+<option value="97"> &nbsp;|- بالىلار ھېكايىسى</option>
+<option value="98"> &nbsp;|- ئانا-بالىلار ساغلاملىق ساۋاتلىرى</option>
+<option value="30">>> بىز</option>
+<option value="150"> &nbsp;|- ئۇيغۇر كارخانچىللىرى</option>
+<option value="151"> &nbsp;|- ئۇيغۇر كارخانىلىرى</option>
+<option value="152"> &nbsp;|- ئۇيغۇر مەھسۇلاتلىرى</option>
+<option value="153"> &nbsp;|- ئۇيغۇر پاتنېتلىرى</option>
+<option value="154"> &nbsp;|- ئۇيغۇر دوكتۇرلىرى</option>
+<option value="155"> &nbsp;|- ئۇيغۇر كەشپىياتلىرى</option>
+<option value="157"> &nbsp;|- ئۇيغۇرساياھەتچىلىكى</option>
+<option value="32"> &nbsp;|- تائاملىرىمىز</option>
+<option value="33"> &nbsp;|- شەخىسلىرىمىز</option>
+<option value="35"> &nbsp;|- ئويۇنلىرىمىز</option>
+<option value="34"> &nbsp;|- تىبابىتىمىز</option>
+<option value="36"> &nbsp;|- چالغۇلىرىمىز</option>
+<option value="37"> &nbsp;|- ھۈنەرلىرىمىز</option>
+<option value="31"> &nbsp;|- يوسۇنلىرىمىز</option>
+<option value="38"> &nbsp;|- تارىخمىز</option>
+<option value="126">>> يۇرتىمىز</option>
+<option value="127"> &nbsp;|- شەھەرلەر</option>
+<option value="128"> &nbsp;|- بىڭتۈەنلەر</option>
+<option value="129"> &nbsp;|- ناھىيەلەر</option>
+<option value="130"> &nbsp;|- ۋىلايەتلەر</option>
+<option value="131"> &nbsp;|- ئاپتونوم ئوبلاست</option>
+<option value="132"> &nbsp;|- ئاپتونوم ناھىيە</option>
+<option value="39">>> ئۆگىنىش</option>
+<option value="41"> &nbsp;|- ماتېماتىكا</option>
+<option value="106"> &nbsp;|- يىزا-ئىگىلىك</option>
+<option value="107"> &nbsp;|- پىسخىلوگىيە</option>
+<option value="108"> &nbsp;|- ئىقتىساد</option>
+<option value="143"> &nbsp;|- مۇھىت</option>
+<option value="52"> &nbsp;|- ئۇيغۇرتىلى</option>
+<option value="46"> &nbsp;|- خەنزۇتىلى</option>
+<option value="47"> &nbsp;|- ئىنگىلىزتىلى</option>
+<option value="48"> &nbsp;|- روس تىلى</option>
+<option value="53"> &nbsp;|- ياپون تىلى</option>
+<option value="40"> &nbsp;|- ئەدەبىيات</option>
+<option value="42"> &nbsp;|- جۇغراپىيە</option>
+<option value="43"> &nbsp;|- تارىخ</option>
+<option value="44"> &nbsp;|- فىزىكا</option>
+<option value="45"> &nbsp;|- خىمىيە</option>
+<option value="50"> &nbsp;|- ئاستىرنومىيە</option>
+<option value="49"> &nbsp;|- بىئولوگىيە</option>
+<option value="89"> &nbsp;|- دىپلوماتىيە</option>
+<option value="90"> &nbsp;|- ئېلېكترون</option>
+<option value="91"> &nbsp;|- تەنتەربىيە</option>
+<option value="92"> &nbsp;|- مەتبەئەچىلىك</option>
+<option value="100"> &nbsp;|- گۈزەل- سەنئەت</option>
+<option value="54">>> كومپيۇتېر</option>
+<option value="86"> &nbsp;|- ئۇيغۇرچە يۇمشاق دېتاللار</option>
+<option value="109"> &nbsp;|- كومپىيۇتېردىن سۇئال-جاۋابلار</option>
+<option value="110"> &nbsp;|- توربەت ياساش</option>
+<option value="190"> &nbsp;|- باشقىلار</option>
+<option value="55"> &nbsp;|- قاتتىق دېتال</option>
+<option value="56"> &nbsp;|- يۇمشاق دېتال</option>
+<option value="57"> &nbsp;|- مەشغۇلات سىستىمىسى</option>
+<option value="58"> &nbsp;|- توربىلىملىرى</option>
+<option value="161">>> مائارپ</option>
+<option value="166"> &nbsp;|- مائارىپ تەشكىلاتلىرى</option>
+<option value="162"> &nbsp;|- بالىلار باغچىلىرى</option>
+<option value="165"> &nbsp;|- باشلانغۇچ مەكتەپلەر</option>
+<option value="163"> &nbsp;|- ئوتتۇرا مەكتەپلەر</option>
+<option value="169"> &nbsp;|- ئالىي مەكتەپلەر</option>
+<option value="168"> &nbsp;|- گېزىتلەر</option>
+<option value="167"> &nbsp;|- ژورناللار</option>
+<option value="66">>> قانۇن - نىزاملار</option>
+<option value="144"> &nbsp;|- جىنايەت ۋە جازا</option>
+<option value="95"> &nbsp;|- قانۇنلار</option>
+<option value="94"> &nbsp;|- نىزاملار</option>
+</select></td>
+	</tr>
+	<tr><td style="padding-top: 12px;text-align: right;"><img src="images/wind/index/home.gif" align="absbottom" /> <b><a href="index.php">بىلقۇت باغچىسى </a> &raquo; <a href="thread.php?fid=128&page=0">بىڭتۈەنلەر</a></b> </td>
+	<td style="padding-top: 12px;text-align: right;"><a href="post.php?action=reply&fid=128&tid=841"><img src="images/wind/reply.png" /></a> <a href="post.php?fid=128"><img src="images/wind/post.png" id="td_post1" /></a></td>
+	</tr>
+</table></div>
+<script language="JavaScript">
+var tid = 841;
+var mt;
+function Addtoie(value,title){
+	window.external.AddFavorite(value,title);
+}
+function sendurl(event,url,id){
+	if(!event.ctrlKey){
+		window.location.href = 'post.php?'+url;
+	} else{
+		sendmsg('ajax.php?'+url,'',id);
+	}
+}
+function edited(){
+	var str = ajax.request.responseText.split("\t");
+	if(str[0] == 'success'){
+		var id  = read.obj.id;
+		id = id.substr(id.lastIndexOf('_')+1);
+		getObj('subject_'+id).innerHTML = ''+str[1];
+		getObj('read_'+id).innerHTML = str[2];
+	} else{
+		ajax.guide();
+	}
+}
+function favor(type){
+	closep();
+	ajax.send('pw_ajax.php?action=favor&tid='+tid+'&type='+type,'',ajax.get);
+}
+function addfriend(uid){
+	ajax.send('pw_ajax.php','action=addfriend&touid='+uid,ajax.guide);
+}
+function delatt(pid,aid){
+	if(!confirm('确定要删除此附件？')) return false;
+	ajax.send('pw_ajax.php','action=deldownfile&tid='+tid+'&pid='+pid+'&aid='+aid,function(){
+		if(ajax.request.responseText == 'success'){
+			var o = getObj('att_'+aid);
+			o.parentNode.removeChild(o);
+		} else{
+			ajax.guide();
+		}
+	});
+}
+function Fjump(value){
+	if(value!='') window.location=('https://uyghur-archive.com/bilqut/bbs/thread.php?fid='+value);
+}
+function CopyCode(obj){
+	var js = document.body.createTextRange();
+	js.moveToElementText(obj);
+	js.select();
+	js.execCommand("Copy");
+}
+function postreply(txt){
+	if(typeof document.FORM != "undefined"){
+		document.FORM.atc_title.value = txt;
+		document.FORM.atc_content.focus();
+	}
+}
+function dig(){
+	ajax.send('pw_ajax.php?action=dig&tid='+tid,'',function(){
+		var str = ajax.request.responseText.split("\t");
+		ajax.guide();
+		if(typeof str[1] != 'undefined'){
+			getObj('r_dig').innerHTML = str[1];
+		} else{
+			setTimeout("location.href='push.php?fid=128'",500);
+		}
+	});
+}
+function marked(){
+	var str = ajax.request.responseText.split("\t");
+	var id  = read.obj.id;
+	id = id.substr(id.lastIndexOf('_')+1);
+	if(str[0] == 'success'){
+		if(IsElement('mark_'+id)){
+			if(str[1] == ''){
+				getObj('mark_'+id).parentNode.removeChild(getObj('mark_'+id));
+			} else{
+				getObj('mark_'+id).lastChild.innerHTML = str[1];
+			}
+		} else{
+			var o = getObj('w_'+id);
+			var s = document.createElement("div");
+			s.id = 'mark_' + id;
+			s.className = 'tips tal';
+			s.cssText   = 'word-break:keep-all;word-wrap:no-wrap';
+			s.innerHTML = '<div class="tal s3">بۇ يازمىنىڭ يېقىنقى باھالىنىش خاتىرىسى : </div><div class="tal">'+str[1]+'</div>';
+			o.parentNode.insertBefore(s,o);
+		}
+	} else{
+		ajax.guide();
+	}
+}
+function usetool(id){
+	if(id>0 && confirm('你确定要使用该道具吗?')){
+		closep();
+		read.obj = getObj('usetool');
+		ajax.send('hack.php?H_name=toolcenter&action=ajax&tid='+tid+'&toolid='+id,'',ajax.get);
+	}
+}
+function usertool(uid,id){
+	if(confirm('你确定要使用该道具吗?')){
+		closep();
+		ajax.send('hack.php?H_name=toolcenter&action=ajax&uid='+uid+'&toolid='+id,'',ajax.get);
+	}
+}
+function fontsize(text,id){
+	getObj("read_"+id).className=text;
+}
+var totalpage=1;
+var page=1;
+if(totalpage > 1){
+	document.onkeydown=function(e){
+		var e = is_ie ? window.event : e;
+		var tagname = is_ie ? e.srcElement.tagName : e.target.tagName;
+		if(tagname == 'INPUT' || tagname == 'TEXTAREA'){
+			return;
+		}
+		actualCode = e.keyCode ? e.keyCode : e.charCode;
+		if(actualCode == 39 && page<totalpage){
+			window.location = 'read.php?tid=841&fpage=0&toread=&page=' + (page+1);
+		} else if(actualCode == 37 && page>1){
+			window.location = 'read.php?tid=841&fpage=0&toread=&page=' + (page-1);
+		}
+	}
+}
+</script>
+<script type="text/javascript" language="JavaScript" src="js/pw_ajax.js"></script>
+
+</div>
+<div id="bottom"></div><br />
+<center class="gray">
+<small><span id="windspend">Total 0.138270(s) query 4, Time now is:03-15 19:45, Gzip disabled</span> <br />
+Powered by <a href="https://www.phpwind.net/" target="_blank"><b>PHPWind</b></a> <a href="https://www.phpwind.net/" target="_blank"><b style="color:#FF9900">v6.0</b></a> <a href="https://www.phpwind.com/certificate.php?host=uyghur-archive.com/bilqut"><b>Certificate</b></a> Code &copy; 2003-07 <a href="https://www.phpwind.com/" target="_blank"><b>PHPWind.com</b></a> Corporation</small>
+</center><br />
+<center>Uyghur Version Powered by Sazgur  Code &copy; 2007-2008 <a href="https://www.uyghur-archive.com/bilqut/" target="_blank"><b style="color:#FF9900">uyghur-archive.com/bilqut</b></a> Corporation</center><div id="footer">
+	<span class="f12 fl"></span><a href="https://uyghur-archive.com/bilqut/book">Contact us</a> | <a href="wap/index.php">Wap</a> | <a href="javascript:scroll(0,0)">Top</a>
+</div>
+</div>
+</body></html>
+<script language="JavaScript" src="js/global.js"></script>
+<script language="JavaScript">
+var openmenu = {'td_hack' : 'menu_hack','td_skin' : 'menu_skin','td_sort' : 'menu_sort','td_msg' : 'menu_msg','td_profile' : 'menu_profile','td_post' : 'menu_post','td_post1' : 'menu_post'};
+read.InitMenu();
+</script>
+<script language="JavaScript" src="https://init.phpwind.com/init.php?sitehash=10AVJVB1VVA1NeUwFXCQNQAVMNBQZWAFEOBwQHVVAGBVg&v=6.0&c=0"></script>

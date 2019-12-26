@@ -1,0 +1,384 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>يولۇچى بىلەن بۆرە-مەدەنىيىتىمىز-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,مەدەنىيىتىمىز">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/madiniytimiz/" class="red"> مەدەنىيىتىمىز</a>
+         | <a class="razimantur" href="/madiniytimiz/list.php?catid=71" >شەھەرلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=72" >ناھىيىلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=73" >ئوبلاستلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=74" >ۋىلايەتلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=75" >رېۋايەتلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=76" >تەمسىللىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=77" >ئۆلچەملىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=78" >چۆچەكلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=79" >سەنئەتكارىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=81" >تىل-يېزىقىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=82" >ئەپسانىلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=83" >مەسەللىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=84" >تائاملىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=85" >شەخسلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=86" >ئويۇنلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=88" > چالغۇلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=89" > ھۈنەرلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=90" > يوسۇنلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=91" > تارىخمىز  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/madiniytimiz/">مەدەنىيىتىمىز</a> >> <a href="/madiniytimiz/list.php?catid=83">مەسەللىرىمىز </a> >>  يولۇچى بىلەن بۆرە</div>
+<!--主标题--><h1>يولۇچى بىلەن بۆرە </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-04-16 12:15:46&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">17</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<img src="/raziman_img/bash/reng/reng_1.gif" id="img1" style="cursor:hand;"  onclick="conhat(1)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_2.gif" id="img2" style="cursor:hand;"  onclick="conhat(2)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_3.gif" id="img3" style="cursor:hand;"  onclick="conhat(3)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_4.gif" id="img4" style="cursor:hand;"  onclick="conhat(4)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_5.gif" id="img5" style="cursor:hand;"  onclick="conhat(5)">&nbsp;&nbsp;                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut"> بىر كۈنى، يولۇچى يول بويىدا ئولتۇرۇپ تاماق يەۋاتسا، بىردىنلا ئورمانلىقتىن بىر بۆرە چىقىپ، يۈگۈرگىنىچە يولۇچىنىڭ يېنىغا كەپتۇ ۋە ئۇنىڭدىن سوراپتۇ:
+&nbsp;&nbsp;- بۇرادەر، نېمە يەۋاتىسەن؟
+&nbsp;&nbsp;يولۇچى ناندىن بىر پارچە ئېلىپ بۆرىگە بېرىپتۇ. بۆرە ناننى بىر يالماپ يەۋېتىپتۇ ۋە ئاغزى - بۇرنىنى يالاپ تۇرۇپ:
+&nbsp;&nbsp;- ئىنسانلارنىڭ نېنى نېمىدېگەن مەززىلىك - ھە! مەن ھەر كۈنى مۇشۇنداق مەززىلىك تائاملارنى يېيەلىگەن بولسام، ناھايىتى ياخشى بولاتتى! - دەپتۇ.
+&nbsp;&nbsp;- ئۇنداق بولسا، بۇغداي تېرىپ خالىغىنىڭچە يەۋەرگىن! - دەپتۇ يولۇچى.
+&nbsp;&nbsp;راستمۇ بۇرادەر؟ ماڭا بىر ياخشىلىق قىلىپ، نان تەييارلاشنى ئۆگىتىپ قويغىن، -دەپتۇ بۆرە.
+&nbsp;&nbsp;يولۇچى بۆرىگە نان تەييارلاشنى ئۆگىتىشكە باشلاپتۇ.
+&nbsp;&nbsp;- ئالدى بىلەن يەر ئاغدۇرۇش لازىم.
+&nbsp;&nbsp;- دەرھال نان تەييار بولامدۇ؟
+&nbsp;&nbsp;- نېمە دەۋاتىسەن! بۇ ئىش ئۇنچىۋالا ئاسانغا چۈشمەيدۇ. يەرنى ئاغدۇرۇپ بولۇپ، ئۇرۇق سېلىش لازىم.
+&nbsp;&nbsp;- شۇنىڭ بىلەن نان تەييار بولامدۇ؟
+&nbsp;&nbsp;- ياق، خېلى كۈتىسەن. كۈزدە ئۇرۇق سالسا، كېلەر يىل ئەتىيازدا ئۈنىدۇ، يازدا...
+&nbsp;&nbsp;- يازدا نان تەييار بولامدۇ؟
+&nbsp;&nbsp;- بىر ئاز كۈتىسەن، بۇغداي پىشقاندىن كېيىن ئورىسەن، باغلايسەن، ئاندىن كېيىن...
+&nbsp;&nbsp;- ئاندىن كېيىن نان تەييار بولامدۇ؟ - دېگىنىچە ۋارقىراپتۇ بۆرە.
+&nbsp;&nbsp;- ياق تېخى، ئۆنچىلەرنى خامانغا توشۇيسەن، تېپىسەن، سورۇپ ئادالايسەن، تۈگمەنگە ئاپىرىسەن.
+&nbsp;&nbsp;- ئەمدىغۇ يېسەم بولار؟
+&nbsp;&nbsp;- ياق، يېيىشكە بەكمۇ ئالدىراپ كەتمە! ئۇن تارتىسەن، خېمىر قىلىسەن، ئاندىن نان پىشۇرىسەن.
+&nbsp;&nbsp;- ئۇ چاغدا يېيىشكە بولامدۇ؟
+&nbsp;&nbsp;- ئەلۋەتتە. شۇ چاغدا تەييار بولىدۇ، خالىغىنىڭچە يەيسەن.
+&nbsp;&nbsp;- بولدى قوي! نان يېيىشنى خالىمايمەن، تولىمۇ خۇشۇمنى كەتكۈزدى، - دەپتۇ بۆرە بىر ئۇھ تارتىپ.
+&nbsp;&nbsp;- نېمە ئۈچۈن؟ - دەپ سوراپتۇ يولۇچى.
+&nbsp;&nbsp;- بەكمۇ تەقەززا قىلىۋېتىدىكەن. سەن شۇنداق بىر ئەقىل كۆرسەتكىنكى، قورسىقىم بىراقلا تويسۇن.
+&nbsp;&nbsp;- ناھايىتى ياخشى، ئۇنداقتا سەن ئاۋۇ ئوتلاققا بارغىن، ئۇ يەردە بىر ئات تايچىقى بىلەن ئوتلاۋاتىدۇ، بېرىپ شۇ تايچاقنى يە، - دەپتۇ يولۇچى.
+&nbsp;&nbsp;بۆرە خۇشال بوپتۇ. ئۇ ئوتلاققا قاراپ يۈگۈرۈپتۇ ۋە تايچاققا يېقىنلىشىپ، ئۇنىڭغا:
+&nbsp;&nbsp;- ئەي تايچاق! ئاۋۇ يەردىكى بىر يولۇچى سېنى يېيىشىمنى ئېيىتتى، - دەپ ۋارقىراپتۇ.
+&nbsp;&nbsp;- قېنى، يېگى، - دەپتۇ تايچاق ۋە شۇ ھامان ئانىسىنىڭ يېنىغا يوشۇرۇنۇپتۇ. بۆرە غەزەپلەنگەن ھالدا:
+&nbsp;&nbsp;- بۇ نېمە قىلغىنىڭ؟ مېنىڭ بىلەن مۆكۈشمەك ئوينىماقچىمۇ سەن؟ - دەپتۇ ۋە شۇئان ئاتقا ئېتىلىپتۇ. ئات ئۇنى بىر تەپكەنىكەن، ئۇ يېقىلىپ چۈشۈپتۇ. بۆرە يەنە ئورنىدىن تۇرۇپ ئاتقا ئېتىلىپتۇ. ئات يەنە كېلىشتۈرۈپ بىرنى تەپكەنىكەن، بۆرە ئوڭدىسىغا يىقىلىپتۇ ۋە ئۆلگىلى تاس قاپتۇ. بۆرە مىڭ تەستە يولۇچىنىڭ يېنىغا بېرىپتۇ ۋە ئۇنىڭغا شۇنداق دەپتۇ:
+&nbsp;&nbsp;- بولدى قوي! تايچاقنى يېيىشتىن خۇشۇم كەتتى.
+&nbsp;&nbsp;- يەنە نېمە بولدى؟ - دەپ سوراپتۇ يولۇچى.
+&nbsp;&nbsp;- ئۇنىڭ ئانىسىنىڭ پۇتلىرى ناھايىتى چوڭ ھەم كۈچلۈك ئىكەن.
+&nbsp;&nbsp;يولۇچى بىر ئاز ئويلانغاندىن كېيىن، بۆرىگە شۇنداق دەپتۇ:
+&nbsp;&nbsp;- ئۇنداق بولسا، ئاۋۇ تەرەپتىكى چىمەنزارلىققا بارغىن، ئۇ يەردە بىر قوچقار ئوتلاۋاتىدۇ. ئۇنىڭ پۇتى كىچىك بېرىپ شۇنى يە.
+&nbsp;&nbsp;بۆرە يۈگۈرگىنىچە چىمەنزارلىققا بېرىپتۇ ۋە قوچقارنى كۆرۈپ:
+&nbsp;&nbsp;- بۇرادەر، ئاۋۇ يەردىكى بىر ئادەم مېنىڭ سېنى يېيىشىمنى ئېيتتى، ئەمدى بۇنىڭغا نېمە دەيسەن؟ - دەپتۇ.
+&nbsp;&nbsp;- ئەگەر ئۇ شۇنداق دېگەن بولسا، بۇنىڭغا نېمە دەيتتىم؟ پەقەت ساڭا دەيدىغان بىرلا شەرتىم بار. ئۇ بولسىمۇ، مېنى پارچە - پارچە قىلىپ يېمە، سەن دەريانىڭ قىرغىقىدا ئاغزىڭنى يوغان ئېچىپ تۇرغىن، مەن يۈگۈرۈپ بېرىپ ئىچىڭگە كىرىپ كېتەي.
+&nbsp;&nbsp;بۆرە دەريانىڭ قىرغىقىدا تۇرۇپ ئاغزىنى يوغان ئېچىپتۇ، قوچقار كەينىگە شوخشۇپ بېرىپ، بۆرىگە توغرىلىنىپتۇ. ئاندىن يۈگۈرگەن پېتى كېلىپ بۆرىنى شۇنداق بىر ئۈسۈپتۇكى، بۆرە يەرگە ئوڭدىسىغا يېقىلىپ چۈشۈپتۇ - دە، بىر ھازاغىچە ھوشىغا كېلەلمەپتۇ.
+&nbsp;&nbsp;بۆرە ھوشىغا كېلىپ قارىسا، قوچقار كۆرۈنمەپتۇ. ئۇ ئورنىدىن تۇرۇپ ئۆز - ئۆزىگە شۇنداق دەپتۇ:
+&nbsp;&nbsp;- مەن قوچقارنى يېدىممۇ يا يېمىدىممۇ؟ ھەي، يېمىگەن بولسام كېرەك. </span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=276" title="قوشكېزەك ئوغلاقلار"  target="_blank" class="tag_title_link">قوشكېزەك ئوغلاقلار</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=275" title="ئاغمىخان بىلەن بۆرە"  target="_blank" class="tag_title_link">ئاغمىخان بىلەن بۆر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=274" title="لەگلەك ھەققىدە مەسەل"  target="_blank" class="tag_title_link">لەگلەك ھەققىدە مەس...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=273" title="بېلىق بىلەن تۈلكە"  target="_blank" class="tag_title_link">بېلىق بىلەن تۈلكە</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=272" title="ئالتۇن قۇش"  target="_blank" class="tag_title_link">ئالتۇن قۇش</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=271" title="مايمۇنچاق"  target="_blank" class="tag_title_link">مايمۇنچاق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=270" title="پېلەك بىلەن خەمەك"  target="_blank" class="tag_title_link">پېلەك بىلەن خەمەك</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=269" title="ئۈچ ھۇرۇن"  target="_blank" class="tag_title_link">ئۈچ ھۇرۇن</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=268" title="ئاچكۆز ئوغلاق"  target="_blank" class="tag_title_link">ئاچكۆز ئوغلاق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=267" title="توشقاننىڭ پۇشايمىنى"  target="_blank" class="tag_title_link">توشقاننىڭ پۇشايمىن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=266" title="قىزغانچۇق توشقان"  target="_blank" class="tag_title_link">قىزغانچۇق توشقان</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=265" title="ئېشەكنىڭ چۈشى"  target="_blank" class="tag_title_link">ئېشەكنىڭ چۈشى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=264" title="مۈشۈكنىڭ بېلىق تۇتۇشى"  target="_blank" class="tag_title_link">مۈشۈكنىڭ بېلىق تۇت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=263" title="قارىغۇ ۋە رەڭ"  target="_blank" class="tag_title_link">قارىغۇ ۋە رەڭ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=262" title="قىزغانچۇق چۈجە"  target="_blank" class="tag_title_link">قىزغانچۇق چۈجە</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=261" title="پىلنىڭ ئۆلۈمى"  target="_blank" class="tag_title_link">پىلنىڭ ئۆلۈمى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=260" title="كىچىك ئاق خوراز"  target="_blank" class="tag_title_link">كىچىك ئاق خوراز</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=259" title="غەيۋەتچى قۇشقاچلار"  target="_blank" class="tag_title_link">غەيۋەتچى قۇشقاچلار</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=258" title="يولۇچى بىلەن بۆرە"  target="_blank" class="tag_title_link">يولۇچى بىلەن بۆرە</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=257" title="ئوغلاقنىڭ بۆرىنى بابلىشى"  target="_blank" class="tag_title_link">ئوغلاقنىڭ بۆرىنى ب...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/madiniytimiz/search.php?catid=83&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=276" title="قوشكېزەك ئوغلاقلار"  target="_blank" class="tag_title_link">قوشكېزەك ئوغلاقلار</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=275" title="ئاغمىخان بىلەن بۆرە"  target="_blank" class="tag_title_link">ئاغمىخان بىلەن بۆرە</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=274" title="لەگلەك ھەققىدە مەسەل"  target="_blank" class="tag_title_link">لەگلەك ھەققىدە مەسەل</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=273" title="بېلىق بىلەن تۈلكە"  target="_blank" class="tag_title_link">بېلىق بىلەن تۈلكە</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=272" title="ئالتۇن قۇش"  target="_blank" class="tag_title_link">ئالتۇن قۇش</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=271" title="مايمۇنچاق"  target="_blank" class="tag_title_link">مايمۇنچاق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=270" title="پېلەك بىلەن خەمەك"  target="_blank" class="tag_title_link">پېلەك بىلەن خەمەك</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=269" title="ئۈچ ھۇرۇن"  target="_blank" class="tag_title_link">ئۈچ ھۇرۇن</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=268" title="ئاچكۆز ئوغلاق"  target="_blank" class="tag_title_link">ئاچكۆز ئوغلاق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=267" title="توشقاننىڭ پۇشايمىنى"  target="_blank" class="tag_title_link">توشقاننىڭ پۇشايمىنى</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/madiniytimiz/show_js.php?itemid=258"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

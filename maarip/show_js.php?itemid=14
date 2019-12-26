@@ -1,0 +1,3 @@
+﻿try {setidval('hits','43');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/maarip/show.php?itemid=13">مۇئەللىم ۋە مەكتەپنىڭ پەيدا بولۇشى</a></li><li>  كىيىنكىسى  :  <a href="/maarip/show.php?itemid=15">باشلانغۇچ مەكتەپلەر مائارىپىنى ئومۇملاشتۇرۇش</a></li>');}catch(e){}

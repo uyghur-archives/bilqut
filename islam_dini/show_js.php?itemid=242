@@ -1,0 +1,3 @@
+﻿try {setidval('hits','1111');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/islam_dini/show.php?itemid=241">سۈرە جاسىيەنىڭ تەرجىمىسى</a></li><li>  كىيىنكىسى  :  <a href="/islam_dini/show.php?itemid=243">سۈرە مۇھەممەدنىڭ تەرجىمىسى</a></li>');}catch(e){}

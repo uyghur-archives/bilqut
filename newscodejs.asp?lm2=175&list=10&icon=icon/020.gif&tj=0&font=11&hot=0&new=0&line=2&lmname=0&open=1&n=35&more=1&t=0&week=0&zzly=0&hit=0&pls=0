@@ -1,0 +1,109 @@
+<!-- Tor bat exligu chi Ablimitjan Maham  QQ :250092392    Tel: 6722530    E-Mail :Raziman@126.com ,ablmtjan@126.com -->
+document.write("<head></head>");
+
+
+document.write("<table border=0 cellpadding=2 cellspacing=0 width=100%>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=icon/020.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=581 target=_blank><font color='' style='font-size:11pt'>بېقىۋېلىش قانۇنى</a>");
+
+	document.write("</td><td align=justify>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=icon/020.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=580 target=_blank><font color='' style='font-size:11pt'>جۇڭخۇا خەلق جۇمھۇىي...</a>");
+
+	document.write("</td><td align=justify>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=icon/020.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=579 target=_blank><font color='' style='font-size:11pt'>ئاياللارنىڭ ھوقۇق –...</a>");
+
+	document.write("</td><td align=justify>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=icon/020.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=411 target=_blank><font color='' style='font-size:11pt'>ئەسەر ھوقۇقى قانۇنى...</a>");
+
+	document.write("</td><td align=justify>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=icon/020.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=410 target=_blank><font color='' style='font-size:11pt'>مىللىي تېررىتورىيى...</a>");
+
+	document.write("</td><td align=justify>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=icon/020.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=409 target=_blank><font color='' style='font-size:11pt'>ئانا – بالىلارنىڭ سا...</a>");
+
+	document.write("</td><td align=justify>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=icon/020.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=408 target=_blank><font color='' style='font-size:11pt'>ئەمگەك قانۇنى</a>");
+
+	document.write("</td><td align=justify>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=icon/020.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=407 target=_blank><font color='' style='font-size:11pt'>ئامانلىق باشقۇرۇش ج...</a>");
+
+	document.write("</td><td align=justify>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=icon/020.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=406 target=_blank><font color='' style='font-size:11pt'>كەنت ئاھالە كومىتېت...</a>");
+
+	document.write("</td><td align=justify>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=icon/020.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=405 target=_blank><font color='' style='font-size:11pt'>ئادۋوكاتلار قانۇنى...</a>");
+
+	document.write("</td><td align=justify>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=right colspan=2></td></tr>");
+
+document.write("</table>");

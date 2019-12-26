@@ -1,0 +1,334 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ھېكايىچىلىقنىڭ پىرى چېخوف-ئەدەبىيات-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,ئەدەبىيات">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/edebiyat/" class="red"> ئەدەبىيات</a>
+         | <a class="razimantur" href="/edebiyat/list.php?catid=259" >شېئىرىيەت گۈلزارى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=261" >تەڭرىتاغ چېچەكلىرى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=262" >نەسرىي ئەسەرلەر </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=263" >فانتازىيىلىك ئەسەرلەر </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=264" >سەھنە ئەسەرلىرى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=265" >دېرىزىنىڭ سىرتىدا...    </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=266" >مەشھۇر ئەسەر مەزمۇنى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=268" >ئەدىپلەر ئارخىپى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=269" >ئەسەر ۋە باھا</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=271" >قانۇن ۋە ئەدەبىيات</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=272" >ئەدەبىيات يېڭلىقلىرى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=274" > تەرمە گۈللەر </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=275" >ئۇنىۋېرسال ئەدەبىي ئەسەرلەر</a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/edebiyat/">ئەدەبىيات</a> >> <a href="/edebiyat/list.php?catid=268">ئەدىپلەر ئارخىپى</a> >>  ھېكايىچىلىقنىڭ پىرى چېخوف</div>
+<!--主标题--><h1>ھېكايىچىلىقنىڭ پىرى چېخوف </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-03-10 02:55:51&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">5</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<img src="/raziman_img/bash/reng/reng_1.gif" id="img1" style="cursor:hand;"  onclick="conhat(1)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_2.gif" id="img2" style="cursor:hand;"  onclick="conhat(2)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_3.gif" id="img3" style="cursor:hand;"  onclick="conhat(3)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_4.gif" id="img4" style="cursor:hand;"  onclick="conhat(4)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_5.gif" id="img5" style="cursor:hand;"  onclick="conhat(5)">&nbsp;&nbsp;                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut"><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; LINE-HEIGHT: 44pt; unicode-bidi: embed; TEXT-ALIGN: center; mso-line-height-rule: exactly" align=center><FONT face="ALKATIP Tor Tom"><SPAN lang=AR-SA style="FONT-SIZE: 26pt; FONT-FAMILY: &#39;ALKATIP Tor Tom&#39;">ھېكايىچىلىقنىڭ پىرى چېخوف </SPAN><SPAN lang=EN-US dir=ltr style="FONT-SIZE: 26pt; FONT-FAMILY: &#39;ALKATIP Tor Tom&#39;"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></FONT></P><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: center" align=center><SPAN lang=EN-US><A href="https://russianway.rchgi.spb.ru/Chekhov/01_title.pdf"><SPAN dir=ltr style="TEXT-DECORATION: none; text-underline: none"><?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id=_x0000_t75 stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0"></v:f><v:f eqn="sum @0 1 0"></v:f><v:f eqn="sum 0 0 @1"></v:f><v:f eqn="prod @2 1 2"></v:f><v:f eqn="prod @3 21600 pixelWidth"></v:f><v:f eqn="prod @3 21600 pixelHeight"></v:f><v:f eqn="sum @0 0 1"></v:f><v:f eqn="prod @6 1 2"></v:f><v:f eqn="prod @7 21600 pixelWidth"></v:f><v:f eqn="sum @8 21600 0"></v:f><v:f eqn="prod @7 21600 pixelHeight"></v:f><v:f eqn="sum @10 21600 0"></v:f></v:formulas><v:path o:connecttype="rect" gradientshapeok="t" o:extrusionok="f"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype></SPAN></A></SPAN></P><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; LINE-HEIGHT: 12pt; unicode-bidi: embed; TEXT-ALIGN: center; mso-line-height-rule: exactly" align=center><SPAN lang=AR-SA style="FONT-SIZE: 9pt; mso-font-width: 90%"><o:p><FONT face="Times New Roman">&nbsp;<IMG src="https://www.nndb.com/people/849/000024777/chekhov2.gif"></FONT></o:p></SPAN></P><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; LINE-HEIGHT: 12pt; unicode-bidi: embed; TEXT-ALIGN: center; mso-line-height-rule: exactly" align=center><SPAN lang=AR-SA style="FONT-SIZE: 9pt; mso-font-width: 90%"><o:p><FONT face="Times New Roman"></FONT></o:p></SPAN>&nbsp;</P><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: center" align=center><SPAN dir=ltr></SPAN><SPAN dir=ltr></SPAN><SPAN lang=EN-US dir=ltr style="FONT-SIZE: 14pt; mso-font-width: 90%"><SPAN dir=ltr></SPAN><SPAN dir=ltr></SPAN><FONT face="Times New Roman">—</FONT></SPAN><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN><SPAN lang=EN-US style="FONT-SIZE: 14pt; mso-font-width: 90%; mso-ascii-font-family: 宋体; mso-hansi-font-family: 宋体"><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN><FONT face="Times New Roman"> </FONT></SPAN><FONT face="ALKATIP Basma Tom"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma Tom&#39;; mso-font-width: 90%">ئۇلۇغ ئەدىب چېخوف ۋاپاتىنىڭ 100 يىللىقىنى خاتىرىلەيمىز</SPAN></FONT></P><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: center" align=center><FONT face="ALKATIP Basma Tom"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma Tom&#39;; mso-font-width: 90%">&nbsp;</SPAN><SPAN lang=EN-US dir=ltr style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma Tom&#39;; mso-font-width: 90%"><o:p></o:p></SPAN></FONT></P><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: center" align=center><FONT face="ALKATIP Tor Tom"><SPAN lang=AR-SA style="FONT-SIZE: 15pt; FONT-FAMILY: &#39;ALKATIP Tor Tom&#39;; mso-font-width: 90%">توختى مەھمۇت ئەلائى</SPAN></FONT></P><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: center" align=center><FONT face="ALKATIP Tor Tom"><SPAN lang=AR-SA style="FONT-SIZE: 15pt; FONT-FAMILY: &#39;ALKATIP Tor Tom&#39;; mso-font-width: 90%"></SPAN><SPAN lang=AR-SA style="FONT-SIZE: 12pt; mso-ansi-font-size: 10.5pt"><o:p></o:p></SPAN></FONT>&nbsp;</P><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: center" align=center><SPAN lang=EN-US dir=ltr><o:p><FONT face="Times New Roman">&nbsp;</FONT></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; TEXT-INDENT: 25.15pt; LINE-HEIGHT: 21pt; unicode-bidi: embed; TEXT-ALIGN: justify; mso-line-height-rule: exactly; mso-char-indent-count: 2.0"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">ئانتون پاۋلوۋىچ چېخوف (</SPAN><FONT face="Times New Roman"><SPAN lang=EN-US dir=ltr style="FONT-SIZE: 14pt">Антон Павлович Чехов</SPAN><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN></FONT><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%"><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN>) 19- ئەسىرنىڭ كېيىنكى يېرىمى ۋە 20- ئەسىرنىڭ باشلىرىدا ئۆتكەن رۇسىيە تەنقىدىي رىئالىزم ئەدەبىياتىنىڭ كۆزگە كۆرۈنگەن ئۇستازى، دۇنيا ئەدەبىياتى تارىخىدا «ھېكايىچىلىقنىڭ پىرى» دەپ تەرىپلىنىدىغان ئۇلۇغ ئەدىبتۇر. ئۇ 1860- يىلى 29- يانۋار رۇسىيىنىڭ جەنۇبىدىكى ئازوۋ دېڭىزىغا يېقىن روستوف ئوبلاستىنىڭ مەركىزى تاگانروگ</SPAN><FONT face="Times New Roman"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; mso-font-width: 90%"> (</SPAN><SPAN lang=EN-US dir=ltr style="FONT-SIZE: 14pt; COLOR: black">Таганрог</SPAN><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN><SPAN lang=AR-SA style="FONT-SIZE: 14pt; mso-font-width: 90%"><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN>) </SPAN></FONT><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">شەھىرىدە سۇنغان ئۇششاق تىجارەتچى ئائىلىسىدە دۇنياغا كەلگەن. چېخوف ئۆزىنىڭ كېلىپ چىقىشى ھەققىدە توختالغىنىدا، قىزىقارلىق قىلىپ: «مېنىڭ تومۇرلىرىمدا ئېقىۋاتقىنى دېھقاننىڭ قېنى» دېگەن، چۈنكى ئۇنىڭ ئاتا- بوۋىلىرى يانچىلاردىن ئىدى. 1841- يىلىغا كەلگەندىلا ئاندىن ئۇنىڭ بوۋىسى 3500 رۇبلىغا ئۆزى ۋە ئائىلىسىدىكىلەرنىڭ ھۆرلۈك ھوقۇقىنى سېتىۋېلىپ يانچىلىقتىن ئاران دېگەندە قۇتۇلىدۇ. 1844- يىلى چېخوفنىڭ دادىسى تاگانروگ شەھىرىگە كېلىپ بىر دۇكاندا پرىكازچىك بولىدۇ. ئۇ بۇ يەردە ئون نەچچە يىل ئىشلەپ مىڭ تەسلىكتە بىر مىلىچمال دۇكىنى ئاچقان بولسىمۇ، لېكىن تىجارىتى ئوبدان يۈرۈشمىگەنلىكتىن ئۇزاققا بارمايلا ۋەيران بولىدۇ. ئۈستى- ئۈستىگە بوغۇلغان قەرزدىن ئۆزىنى قاچۇرۇش ئۈچۈن، چېخوفنىڭ دادىسى خۇپىيانە ھالدا موسكۋاغا كېلىپ تىرىكچىلىك قىلىدۇ ۋە ئارقىدىنلا ئائىلىسىدىكىلەرمۇ بىر- بىرلەپ موسكۋاغا كۆچۈپ چىقىپ، تېخى ئوتتۇرا مەكتەپتە ئوقۇۋاتقان چېخوفلا ئۆزى يالغۇز تاگانروگدا قېلىپ، ئوقۇتقۇچىسىنىڭ ياردىمىدە ئوقۇشىنى تاماملايدۇ. 1879- يىلى چېخوف موسكۋا ئۇنىۋېرسىتېتىغا كىرىپ دوختۇرلۇقتا ئوقۇيدۇ.</SPAN><SPAN lang=EN-US dir=ltr style="FONT-SIZE: 14pt"><o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; TEXT-INDENT: 25.15pt; LINE-HEIGHT: 21pt; unicode-bidi: embed; TEXT-ALIGN: justify; mso-line-height-rule: exactly; mso-char-indent-count: 2.0"><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%"><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN>1880- يىلى 9- مارت نەشىردىن چىققان «يىڭناغۇچ» ناملىق يۇمۇرلۇق ئەسەرلەر ژۇرنىلىنىڭ 10- سانىدا چېخوفنىڭ «ئوقۇمۇشلۇق قوشنامغا يېزىلغان خەت» دېگەن ھېكايىسى ۋە «رومان ۋە پوۋىستلاردا ئەڭ كۆپ ئۇچرىتىپ تۇرىدىغىنىمىز نېمە؟» دېگەن يۇمۇرلۇق ئېپىزوتى ئېلان قىلىنىدۇ. مانا بۇ چېخوفنىڭ ئەدەبىي ھاياتىنىڭ باشلىنىشى ئىدى. 1883- يىلىدىن باشلاپ، ئۇ «چېخونت» دېگەن تەخەللۇس بىلەن «مىختا»، «چىنوۋنىكنىڭ ئۆلۈمى»</SPAN><FONT face="Times New Roman"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; mso-font-width: 90%"> (</SPAN><SPAN lang=EN-US dir=ltr style="FONT-SIZE: 14pt; COLOR: black; mso-font-width: 80%">Смерть чиновника</SPAN><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN><SPAN lang=AR-SA style="FONT-SIZE: 14pt; mso-font-width: 90%"><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN>)، </SPAN></FONT><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">«سېمىز ۋە ئورۇق»، «خامېلېئون»، «سۇيىقەستچى»، «سېرژانت پرېشبىيېۋ» قاتارلىق نۇرغۇن يۇمۇرلۇق ئېسىل ئەسەرلىرىنى ئېلان قىلىدۇ. چېخوفنىڭ بۇ مۇنەۋۋەر يۇمۇرلۇق ھېكايىلىرى چوڭقۇر مەزمۇنغا ۋە مۇكەممەل سيۇژىتغا ئىگە ئەسەرلەر بولۇپ، ئۇلاردا چار پادىشاھ رۇسىيىسىدىكى ئەمەلدارلارنىڭ رەزىل ئەپت بەشىرىسى ئېچىپ بېرىلىپ، ئىستىبدات يانچىلىق تۈزۈمىنىڭ خەلققە سېلىۋاتقان زۇلۇملىرى ئۆتكۈر تىللار بىلەن قامچىلىنىدۇ. </SPAN><SPAN lang=EN-US dir=ltr style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%"><o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; TEXT-INDENT: 25.15pt; LINE-HEIGHT: 21pt; unicode-bidi: embed; TEXT-ALIGN: justify; mso-line-height-rule: exactly; mso-char-indent-count: 2.0"><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%"><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN>1884- يىلى چېخوف ئۇنىۋېرسىتېتنى پۈتتۈرگەندىن كېيىن، موسكۋانىڭ شەھەر ئەتراپىدا دوختۇرلۇق بىلەن شۇغۇللىنىپ، پۇرسەت تاپسىلا دېھقانلار، پومىشچىكلار، ئەمەلدارلار، ئوقۇتقۇچىلار دېگەندەك جەمئىيەتنىڭ ھەر قايسى قاتلاملىرىدىكى كىشىلەر بىلەن قويۇق ئارلىشىدۇ. <o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; TEXT-INDENT: 25.15pt; LINE-HEIGHT: 21pt; unicode-bidi: embed; TEXT-ALIGN: justify; mso-line-height-rule: exactly; mso-char-indent-count: 2.0"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">1884- يىلىدىن 1886- يىلىغىچە بولغان مەزگىلدە، چېخوف ئۆز نەزىرىنى ئاددىي ئەمگەكچىلەرگە يۆتكەپ، ئۇلارنىڭ ئازاب- ئوقۇبەتلىك تۇرمۇشىنى قەلەمگە ئالىدۇ ۋە «ئوستېر قۇلۇلىسى»، «ھەسرەت»، «پەرىشانلىق»، «غەزەلچى قىز»، «ۋانكا» قاتارلىق مۇنەۋۋەر ھېكايىلەرنى يازىدۇ. يازغۇچى بۇ ئەسەرلىرىدە ئاددىي كىشىلەرنىڭ كۈندىلىك تۇرمۇشىدا يۈز بەرگەن ئىشلارنى سيۇژىت قىلىپ، ئوبيېكتىپ ۋە يوشۇرۇن مەنىلىك بايان قىلىش ئۇسلۇبى، ئەپچىل قۇرۇلمىغا ئىگە بەدىئىي تەپسىلاتلار ۋە كۆڭۈل قويۇپ تاللانغان تۇرمۇش كارتىنىلىرى ئارقىلىق، پېرسوناژلارنىڭ پىسىخىك ھالىتىنى ئېچىپ بېرىش جەريانىدا، ئىجتىمائىي تۇرمۇشنىڭ مەلۇم بىر مۇھىم تەرىپىنى ئەكس ئەتتۈرۈپ، ئۆزىنىڭ كۈچلۈك ھېسسىياتىنى ئاممىباپ تىللار ئارقىلىق ئەسەردىكى بىر پۈتۈن ئوبرازلار سىستېمىسى ئىچىگە سىڭدۈرۈۋېتىدۇ. <o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; TEXT-INDENT: 25.15pt; LINE-HEIGHT: 21pt; unicode-bidi: embed; TEXT-ALIGN: justify; mso-line-height-rule: exactly; mso-char-indent-count: 2.0"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">19- ئەسىرنىڭ 80- يىللىرىنىڭ كېيىنكى يېرىمىدىن باشلاپ، چېخوفنىڭ شۆھرىتى كۈندىن كۈنگە ئاشقانلىقتىن، 1888- يىلى ئۆكتەبىردە چار رۇسىيە پەنلەر ئاكادېمىيىسى ئۇنىڭغا ئەڭ ئالىي ئەدەبىيات مۇكاپاتى بولغان «پۇشكىن مۇكاپاتى» نى بېرىدۇ. تۇنجى يازمىسى ئېلان قىلىنغاندىن تارتىپ تاكى «پۇشكىن مۇكاپاتى» غا ئېرىشكىنىگىچە ئارىدىن پەقەت سەككىز يېرىم يىللا ئۆتكەن، شۇ كەمگىچە رۇسىيە ئەدەبىيات ساھەسىدە تېخى ئانچە جىق كىشى بىلىپ كەتمەيدىغان بۇ ياش ئەدىب «چېخونت» بىردىنلا پېتربورگدىكى ھەممىلا كىشى ھەۋەس بىلەن تىلغا ئالىدىغان داڭدار شەخس— چېخوفقا ئايلىنىدۇ. مانا مۇشۇ ۋاقىتتىن باشلاپ، چېخوف يەنە سەھنە ئەسەرلىرى ئىجادىيىتى بىلەنمۇ شۇغۇللىنىپ، «ھارامزادە» («پلاتونوف» دەپمۇ ئاتالغان)، «ھاماقەت»، «تويلىشىش تەلىپى»، «تويلىشىش» ۋە «خاتىرە كۈنى» قاتارلىق كومېدىيىلىك درامىلارنى يازىدۇ. <o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; TEXT-INDENT: 25.15pt; LINE-HEIGHT: 21pt; unicode-bidi: embed; TEXT-ALIGN: justify; mso-line-height-rule: exactly; mso-char-indent-count: 2.0"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">1890- يىلى باھاردا، خېلىدىن بۇيان تەن سالامەتلىكى ياخشى بولماي كېلىۋاتقان چېخوف، يول ئازابىغا قارىماي، بىپايان سىبىرىيىنى كېسىپ ئۆتۈپ، ئەينى زاماندا چار رۇسىيە ھۆكۈمىتى جىنايەتچىلەرنى سۈرگۈن قىلىدىغان ساخالىن ئارىلىغا بارىدۇ. بۇ جاي پانىي دۇنيادىكى بىر «دوزاخ» ئىدى، بۇ يەردە تۈرلۈك ياۋايىلىق، جاندىن ئۆتىدىغان ئازاب ۋە بالايى ئاپەتلەرنى ئۆز كۆزى بىلەن كۆرگەن چېخوفتا، ئالتە- يەتتە يىلدىن بۇيان چوڭقۇر ئىخلاس ۋە ئېتىقاد باغلاپ كەلگەن تولستوي پەلسەپىسىگە نىسبەتەن بارغانسېرى يىراقلىشىش، ھەتتا ئۇنى ئىنكار قىلىش ئىستىكى باش كۆتۈرۈشكە باشلايدۇ. <o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; TEXT-INDENT: 25.15pt; LINE-HEIGHT: 21pt; unicode-bidi: embed; TEXT-ALIGN: justify; mso-line-height-rule: exactly; mso-char-indent-count: 2.0"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%"><SPAN style="mso-spacerun: yes">&nbsp;</SPAN>بىزگە مەلۇمكى، چېخوف بىلەن تولستوينىڭ ئىدىيە جەھەتتە بىر قانچە ئورتاقلىقى بار. ئۇلار 19- ئەسىردىكى رۇسىيە جەمئىيىتىنى قاتتىق تەنقىدلىگۈچىلەر بولۇپ، بىرى جەمئىيەتنىڭ ئىللەتلىرىنى خۇددى دوختۇرنىڭ ئوپېراتسىيە پىچىقىدەك كولاپ چىقىرىپ، كىتابخانلارنىڭ ئالدىغا تىزىپ قويىدۇ؛ بىرى رىئاللىقتىكى چىرىكلىك ۋە ئىپلاسلىقلارنى خۇددى ئەينەكتەك ئەينەن ئەكس ئەتتۈرۈپ، كىشىلەرنىڭ دىققىتىنى قوزغايدۇ. شۇنىڭ بىلەن بىرگە، ئۇلار خەلققە قارىتا كەم ئۇچرايدىغان ھېسداشلىق ۋە مەسئۇلىيەتچانلىقىنىمۇ ئوچۇق بىلدۈرىدۇ. لېكىن، چېخوف تولستوينىڭ ئىدىيىۋى خائىشلىرىغا پۈتۈنلەي قوشۇلۇپ كەتمەيدۇ. ئۇ تولستويچىلىققا راسا شەيدا بولغان چاغلىرىدىمۇ شۇنداق قىلىدۇ. ئۇنىڭ تولستوينىڭ قاباھەتكە زورلۇق كۈچى بىلەن قارشى چىقماسلىق نەزەرىيىسىگە تولۇق ئىشىنىپ كەتمىگەنلىكى بۇنىڭ ئېنىق دەلىلىدۇر. ئەنە شۇنداق توغرا تەنقىدىي پوزىتسىيە چېخوفقا ئىجادىيەتتە داۋاملىق يېڭىلىق يارىتىشتا ھەيدەكچى بولىدۇ. <o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; TEXT-INDENT: 25.15pt; LINE-HEIGHT: 21pt; unicode-bidi: embed; TEXT-ALIGN: justify; mso-line-height-rule: exactly; mso-char-indent-count: 2.0"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">1892- يىلى ئۇنىڭ ئەشۇ قېتىمقى سەپىرىنىڭ ھاسىلاتى سۈپىتىدە «ئالتىنچى پالاتا» ۋە «سۈرگۈن ماكانىدا» دېگەن ئىككى پارچە ئەسىرى ئېلان قىلىنىدۇ. چېخوف بۇ ئەسىرىدە ھەم رەزىللىك بىلەن قارشىلاشماسلىقتەك قۇللارچە باش ئېگىش ئىدىيىسىنى تەنقىدلەيدۇ، ھەم زاھىدلارچە تەركىدۇنياچىلىق ۋە بۇ دۇنيادىن كۆڭلى سوۋۇپ كېتىشتەك ئۈمىدسىزلىك پوزىتسىيىسىنىمۇ ئىنكار قىلىدۇ. «ئالتىنچى پالاتا» ناملىق پوۋېستنىڭ ئېلان قىلىنىشى چېخوف ئىجادىيەت تەرەققىياتىنىڭ بۇرۇلۇش نۇقتىسى بولۇپ قالىدۇ، ھەمدە بۇ ئەسەر دۇنياغا كەلگەن 1892- يىلىدىن ئەدىبنىڭ ئۆمرىدىكى ئەڭ ئاخىرقى ھېكايىسى «كېلىن» ئېلان قىلىنغان 1903- يىلىغىچە بولغان ئارىلىق چېخوف بەدىئىي ئىجادىيىتىنىڭ ئەڭ يۇقۇرى پەللە مەزگىلىگە ئايلىنىدۇ. <o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; TEXT-INDENT: 25.15pt; LINE-HEIGHT: 21pt; unicode-bidi: embed; TEXT-ALIGN: justify; mso-line-height-rule: exactly; mso-char-indent-count: 2.0"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">19- ئەسىرنىڭ 90- يىللىرىدا، رۇسىيە جەمئىيىتىدىكى سىياسىي ۋە ئىقتىسادىي زىددىيەتلەر كۈندىن- كۈنگە ئۆتكۈرلىشىشكە باشلايدۇ. يېڭى تارىخىي شارائىتقا دۇچ كەلگەن چېخوفمۇ دەۋر قەدىمىگە ماس ھالدا ئىجتىمائىي پائالىيەتلەرگە پائال ئىشتراك قىلىدۇ. 1892- يىلى ئۇ تۆۋەن نوۋىگورد ئوبلاستى ۋە ۋورونىژ ئوبلاستىغا بېرىپ، قەھەتچىلىككە ئۇچرىغان خەلققە پۇل ۋە ماددىي بۇيۇملارنى ياردەم قىلىدۇ؛ 1892- يىلىدىن 1893- يىلىغىچە بولغان ئارىلىقتا، ئۇ شېرپىخوف ناھىيىسىدە تارقالغان خولېرا كېسەللىكىنى تۈگىتىش خىزمىتىگە قاتنىشىدۇ؛ 1897- يىلى ئۇ پۈتۈن رۇسىيە بويىچە ئېلىپ بېرىلغان نوپۇس تەكشۈرۈش خىزمىتىگە قاتنىشىدۇ؛ 1898- يىلى ئۇ فرانسىيە يازغۇچىسى زولا بىگۇناھ يەھۇدى ئوفىتسېرى دېرىفوسنى ئاقلاش ئۈچۈن قوزغىغان ھەققانىيەت ھەرىكىتىنى قوللايدۇ؛ 1902- يىلى باھاردا ئۇ يازغۇچى كرولىنكو بىلەن بىرلىكتە چار رۇسىيە پەنلەر ئاكادېمىيىسىنىڭ چار پادىشاھ نىكولاي</SPAN><SPAN dir=ltr></SPAN><SPAN dir=ltr></SPAN><SPAN dir=ltr style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%; mso-ansi-language: ZH-CN"><SPAN dir=ltr></SPAN><SPAN dir=ltr></SPAN>Ⅱ</SPAN><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%; mso-ansi-language: ZH-CN">نىڭ</SPAN><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%; mso-ansi-language: AR-SA"> قوپاللىق بىلەن ئارىلىشىشى ئالدىدا باش ئېگىپ، ماكسىم گوركىينىڭ پەخرىي ئاكادېمىكلىق نامىنى ئەمەلدىن قالدۇرۇشىغا ئېتىراز بىلدۈرىدۇ؛ 1902- يىلىدىن 1904- يىلىغىچە بولغان ئارىلىقتا، ئۇ دېموكراتىيىنى قولغا كەلتۈرۈش ئۈچۈن كۈرەش قىلىپ چار پادىشاھ ھۆكۈمىتىنىڭ زىيانكەشلىكىگە ئۇچرىغان ئالىي مەكتەپ ئوقۇغۇچىلىرىغا نۇرغۇن قېتىم ماددىي ياردەم بېرىدۇ... يۇقارقى بىر قاتار پاكىتلاردىن كۆرۈنۈپ تۇرۇپتۇكى: ئەينى دەۋردىكى روسىيىدە ئىنقىلابىي ھەرىكەتلەرنىڭ تەرەققىي قىلىشىغا ئەگىشىپ، </SPAN><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">چېخوفنىڭ </SPAN><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%; mso-ansi-language: AR-SA">دېموكراتىزملىق مەيدانى ۋە ئىدىيىسى بارغانسېرى قەتئىيلىشىدۇ، جۈملىدىن بۇلار ئۇنىڭ كېيىنكى ۋاقىتلاردىكى ھېكايە ۋە دراما ئىجادىيىتى ئۈچۈنمۇ ئىدىيىۋىي ئاساس بولۇپ قالىدۇ. <o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; TEXT-INDENT: 25.15pt; LINE-HEIGHT: 21pt; unicode-bidi: embed; TEXT-ALIGN: justify; mso-line-height-rule: exactly; mso-char-indent-count: 2.0"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">چېخوفنىڭ </SPAN><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%; mso-ansi-language: AR-SA">بۇ مەزگىلدە يازغان پوۋېست، ھېكايىلىرىدە ئىجتىمائىي تۇرمۇشتىكى نۇرغۇنلىغان چوڭ- چوڭ مەسىلىلەر ئوتتۇرىغا قويۇلىدۇ. مەسىلەن، «دېھقان»، «يېڭى داچا»، «كاماندۇرۇپكىغا چىقىش»، «جىلغىدا» قاتارلىق ئەسەرلەردە ئەينى دەۋردىكى رۇسىيە يېزىلىرىنىڭ نامرات، قالاق ۋە نادانلىق ھالىتى، يېزىلاردىكى بايلار ۋە نامراتلار ئوتتۇرىسىدىكى كەسكىن پەرق ۋە زىددىيەتلەر تەسۋىرلىنىپ، نادان ۋە بېكىنمە ھالەتتىكى ئەمگەكچىلەرنىڭ ۋۇجۇدىدا ستىخىيىلىك رەۋىشتە پەيدا بولغان نارازىلىق ۋە بىزارلىق كەيپىياتى ئەكس ئەتتۈرۈپ بېرىلىدۇ. <o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; TEXT-INDENT: 25.15pt; LINE-HEIGHT: 21pt; unicode-bidi: embed; TEXT-ALIGN: justify; mso-line-height-rule: exactly; mso-char-indent-count: 2.0"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">چېخوف يەنە داڭلىق دراماتورگ بولۇش سۈپىتى بىلەن، ئىجادىيەت ھاياتىنىڭ كېيىنكى دەۋرلىرىدە «ئىۋانوف»، «چايكا»، «ۋانىيە تاغا»، «ئۈچ ئاچا- سىڭىل»، «گىلاسلىق باغ» قاتارلىق كۆپ پەردىلىك درامىلارنى يازىدۇ. چېخوف بۇ ئەسەرلىرىدە 1905- يىلىدىكى رۇسىيە بۈيۈك ئىنقىلابىنىڭ ھارپىسىدا بىر قىسىم ئۇششاق بۇرژۇئازىيە زىيالىلىرىنىڭ بۇرۇختۇملۇق ئىچىدىكى ئىنتىلىشلىرىنى ئەگرى توقاي ۋەقەلىك تەپسىلاتلىرى ئارقىلىق ئەكس ئەتتۈرۈپ بېرىدۇ. بۇ دراما ئەسەرلىرىدە قويۇق لىرىكىلىق پۇراق ۋە يوشۇرۇن مەنىلەرگە باي دىئالوگلار بولۇپ، دراما ۋەقەلىكلىرى گەرچە كۈندىلىك تۇرمۇشتىن ئېلىنغان ئادەتتىكى ئىشلار بولسىمۇ، لېكىن ئۇلار چوڭقۇر سىمۋوللۇق مەنىگە ئىگە قىلىنغان.<SPAN style="mso-spacerun: yes">&nbsp; </SPAN></SPAN><SPAN lang=EN-US dir=ltr style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%"><o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; TEXT-INDENT: 25.15pt; LINE-HEIGHT: 21pt; unicode-bidi: embed; TEXT-ALIGN: justify; mso-line-height-rule: exactly; mso-char-indent-count: 2.0"><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%; mso-ansi-language: AR-SA"><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN>19- ئەسىرنىڭ 90- يىللىرىدا روسىيىدە كاپىتالىزمنىڭ ئۇچقاندەك تەرەققىي قىلىشىغا ئەگىشىپ، پۇل- مېلىغا تايىنىپ خەلقنىڭ قېنىنى شورايدىغان رەزىل كۈچلەر بارغانسېرى زورىيىدۇ ۋە ئۇلار رۇسىيە جەمئىيىتىنىڭ ھەممە بۇلۇڭ- پۇچقاقلىرىغىچە سىڭىپ كىرىپ، مىشچانلىق ئىدىيىسى كىشىلەرنىڭ قەلبىنى تەدرىجىي چىرىتىشكە باشلايدۇ. مانا مۇشۇنداق بىر تارىخىي شارائىتتا، </SPAN><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">چېخوف </SPAN><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%; mso-ansi-language: AR-SA">باشتىن- ئاخىر دەۋر ئاۋانگارتىغا خاس خىسلەت بىلەن قولىغا قەلەم ئېلىپ، ئىجتىمائىي ھاياتتا مەۋجۇت بولۇپ تۇرۇۋاتقان چاكىنا كىشىلەرنىڭ مىشچانلىق ئىدىيىسىنى كەسكىن تەنقىد قىلىدۇ. مەسىلەن، ئۇ «يوۋنىچ»، «قارىقات» ۋە «بويۇندىكى ئاننا» قاتارلىق ھېكايىلىرىدە ئۆزىنىڭ ئۆتكۈر قەلىمى ئارقىلىق، مىشچانلىق ئىدىيىسىنىڭ پاتقىقىغا چوڭقۇر پېتىپ، روھىي جەھەتتىن چۈشكۈنلەشكەن زىيالىلارنى قاتتىق قامچىلايدۇ. <o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; TEXT-INDENT: 25.15pt; LINE-HEIGHT: 21pt; unicode-bidi: embed; TEXT-ALIGN: justify; mso-line-height-rule: exactly; mso-char-indent-count: 2.0"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">تارىخ شۇنى ئىسپاتلىغانكى، 19- ئەسىرنىڭ ئاخىرلىرى ۋە 20- ئەسىرنىڭ باشلىرىدىكى روسىيىدە 1905- يىلىدىكى بۈيۈك ئىنقىلابقا تەييارلىق كۆرۈلۈۋاتقان بولۇپ، رۇسىيە جەمئىيىىتىدە «ئەمدى بۇنداق ياشاۋەرمەيلى» دەيدىغان كەيپىيات ئىنتايىن كۈچىيىدۇ. چېخوف مۇشۇ دەۋردە يازغان نۇرغۇن ئەسەرلىرىدە بۇ خىل ئىجتىمائىي كەيپىياتنى يۇقۇرى بەدىئىي ماھارەت بىلەن ئەكس ئەتتۈرۈپ بېرىدۇ. «غىلاب بەندىسى»، «قارىقات»، «ئىت يېتىلىۋالغان ئايال»، «ئەدەبىيات ئوقۇتقۇچىسى»، «كېسەل كۆرۈش»، «كاماندۇرۇپكىغا چىقىش»، «يېڭى داچا»، «دېھقان»، «كېلىن» قاتارلىق ئەسەرلەردە گەرچە بىر- بىرىگە ئانچە ئوخشىمايدىغان تۇرمۇش كارتىنىلىرى ئەكس ئەتتۈرۈلگەن بولسىمۇ، لېكىن ئۇلارنىڭ ھەممىسىگە «ئەمدى بۇنداق ياشاۋەرمەيلى» دېگەن ئىجتىمائىي كەيپىيات چوڭقۇر سىڭدۈرۈۋېتىلگەن. <o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; TEXT-INDENT: 25.15pt; LINE-HEIGHT: 21pt; unicode-bidi: embed; TEXT-ALIGN: justify; mso-line-height-rule: exactly; mso-char-indent-count: 2.0"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">كىتابخانلارغا ئايانكى، چېخوف ئۇلۇغ ئەدىب بولۇش بىلەن بىرگە، يەنە پۈتۈن ھاياتىنى خەلقنى كېسەل ئازابىدىن قۇتقۇزۇشقا بېغىشلىغان داڭلىق دوختۇر ئىدى. ئۇ جامائەت ئىشلىرى بىلەن شۇغۇللىنىش جەريانىدا، دائىم مېلىخوف ۋە يالتا قاتارلىق جايلارغا بېرىپ نامرات دېھقانلارنىڭ كېسىلىنى ھەقسىز كۆرۈپ قويىدۇ. 1892- يىلى روسىيىنىڭ نۇرغۇن جايلىرىدا خولېرا كېسىلى تارقالغاندا، ئۇ مېلىخوف ناھىيىسىدىكى داۋالاش پونكىتىنىڭ خىزمەتلىرىگە رىياسەتچىلىك قىلىپ، 25 كەنت، تۆت زاۋۇت ۋە بىر موناستىردىكى كېسەللىك ئەھۋالىنى تىزگىنلەپ، قىسقىغىنە ئۈچ ئاي ئىچىدىلا مىڭدىن ئارتۇق كىشىنىڭ كېسىلىنى داۋالايدۇ. جامائەت ئىشلىرىغا قىزغىن ئىشتراك قىلىش چېخوفنىڭ پۈتكۈل ھاياتىدىكى بىر خىل يۈكسەك ئېتىقادى ۋە غايىسى ئىدى. <o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; TEXT-INDENT: 25.15pt; LINE-HEIGHT: 21pt; unicode-bidi: embed; TEXT-ALIGN: justify; mso-line-height-rule: exactly; mso-char-indent-count: 2.0"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">تىنىمسىز ئىجادىي ئەمگەك ۋە ئۈزۈلمەس جامائەت ئىشلىرى ئاخىر بۇ زەبەردەست تالانت ئىگىسىنى ھالىدىن كەتكۈزىدۇ. 1903- يىلى 11- ئايدا سالامەتلىكى ناچارلاشقان چېخوف دەم ئېلىپ داۋالىنىش ئۈچۈن يالتاغا بارىدۇ. بۇ يەردە ئۇ ئەينى دەۋردىكى داڭلىق ئەدەبىي تەنقىدچى كىگن دېدلوف</SPAN><FONT face="Times New Roman"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; mso-font-width: 90%"> (</SPAN><SPAN lang=EN-US dir=ltr style="FONT-SIZE: 14pt">Кигн <SPAN style="mso-font-width: 90%">Владимир Людвигович </SPAN>Дедлов 1856</SPAN></FONT><SPAN dir=ltr style="FONT-SIZE: 14pt; FONT-FAMILY: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;ALKATIP Basma&#39;">～</SPAN><FONT face="Times New Roman"><SPAN lang=EN-US dir=ltr style="FONT-SIZE: 14pt">1908</SPAN><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN><SPAN lang=AR-SA style="FONT-SIZE: 14pt; mso-font-width: 90%"><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN>) </SPAN></FONT><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">قا يازغان خېتىدە، ئۆزىنىڭ بۇرۇختۇملۇق ۋە زېرىكىشلىك تۇرمۇشى ھەققىدە توختىلىپ: «ھازىر ماڭا تۇرمۇش يېنىمدىلا تۇرسىمۇ، لېكىن ئۇنىڭدا بىر ئەدىب كۆرۈپ زوق ئېلىشقا تېگىشلىك نەرسىلەر قالمىغاندەك بىلىنىۋاتىدۇ» دەيدۇ. 1904- يىلى 6- ئايدا چېخوفنىڭ كېسىلى تېخىمۇ ئېغىرلىشىدۇ ۋە ئۇ</SPAN><SPAN lang=AR-SA style="FONT-SIZE: 14pt; mso-font-width: 90%"><FONT face="Times New Roman"> </FONT></SPAN><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">موسكۋا بەدىئىي تىياتىرخانىسىنىڭ تالانتلىق ئارتىسى، سۆيۈملۈك ئايالى ئولگا كنىپپېر</SPAN><FONT face="Times New Roman"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; mso-font-width: 90%"> (</SPAN><SPAN lang=RU dir=ltr style="FONT-SIZE: 14pt; mso-ansi-language: RU">О́льга Леона́рдовна Кни́ппер</SPAN><SPAN lang=EN-US dir=ltr style="FONT-SIZE: 14pt; COLOR: black"> 1868</SPAN></FONT><SPAN dir=ltr style="FONT-SIZE: 14pt; COLOR: black; FONT-FAMILY: 宋体; mso-ascii-font-family: &#39;Times New Roman&#39;; mso-hansi-font-family: &#39;ALKATIP Basma&#39;">～</SPAN><FONT face="Times New Roman"><SPAN lang=EN-US dir=ltr style="FONT-SIZE: 14pt; COLOR: black">1959</SPAN><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN><SPAN lang=AR-SA style="FONT-SIZE: 14pt; mso-font-width: 90%"><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN>) </SPAN></FONT><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">نىڭ ھەمراھلىقىدا گېرمانىيىدىكى بادېنۋېيلېر</SPAN><FONT face="Times New Roman"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; mso-font-width: 90%"> (</SPAN><SPAN lang=EN-US dir=ltr style="FONT-SIZE: 14pt; mso-font-width: 90%">Баденвейлер</SPAN><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN><SPAN lang=AR-SA style="FONT-SIZE: 14pt; mso-font-width: 90%"><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN>) </SPAN></FONT><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">غا بېرىپ</SPAN><SPAN lang=AR-SA style="FONT-SIZE: 14pt; mso-font-width: 90%"><FONT face="Times New Roman"> </FONT></SPAN><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">داۋالىنىدۇ. ئەمما ئۇنىڭغا چاپلاشقان ئۆپكە تۇبېركۇليۇز كېسىلى ئاخىرقى باسقۇچقا بېرىپ قالغانلىقتىن، تېخى ئەمدىلا 44 ياشقا كىرگەن بۇ ئۇلۇغ ئەدىب شۇ يىلى 7- ئاينىڭ 15- كۈنى گېرمانىيىدە ئالەمدىن ئۆتىدۇ. <o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; TEXT-INDENT: 25.15pt; LINE-HEIGHT: 21pt; unicode-bidi: embed; TEXT-ALIGN: justify; mso-line-height-rule: exactly; mso-char-indent-count: 2.0"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">چېخوفنىڭ بارلىق ئەسەرلىرىدىن شۇنى كۆرۈۋېلىشقا بولىدۇكى، ئۇ دۇنيا ئەدەبىياتى مۇنبىرىدىكى ئۆزگىچە بىر سەنئەتكار. گەرچە ئۇنىڭ ۋاپاتىغا توپتوغرا 100 يىل بولغان بولسىمۇ، لېكىن ئۇ <SPAN style="mso-spacerun: yes">&nbsp;</SPAN>قالدۇرۇپ كەتكەن 470 نەچچە پارچە ھېكايە ۋە پوۋېست، 10 پارچىدىن ئارتۇق دراما قاتارلىق ئەسەرلەر تارىخنىڭ رەھىمسىز سىناقلىرىدىن ئۆتۈپ، دۇنيا ئەدەبىياتى خەزىنىسىدىكى قىممەتلىك مىراسقا ئايلاندى. <o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; TEXT-INDENT: 25.15pt; LINE-HEIGHT: 21pt; unicode-bidi: embed; TEXT-ALIGN: justify; mso-line-height-rule: exactly; mso-char-indent-count: 2.0"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">رۇس ئەدەبىياتىدا، بولۇپمۇ ھېكايىچىلىق جەھەتتە، چېخوفدىن كېيىن چوڭقۇر ئۆزگىرىش مەيدانغا كەلدى. شۇنى ئېيتىشقا بولىدۇكى، چېخوف رۇسىيە ھېكايىچىلىقىدا يېڭى دەۋر ياراتتى. چېخوفنىڭ ئۆزىمۇ رۇس ئەدەبىياتى، جۈملىدىن دۇنيا ئەدەبىياتى سەھنىسىدە ھېكايىچىلىقنىڭ پىرى بولۇپ قالدى. ئۇ ۋەقەلىك، كومپوزىتسىيە، پېرسوناژ، تىل ۋە باشقا جەھەتلەردە يېڭىلىق يارىتىپ، ئۆزىگە خاس بەدىئىي ئۇسلۇبنى شەكىللەندۈردى. <o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; TEXT-INDENT: 25.15pt; LINE-HEIGHT: 21pt; unicode-bidi: embed; TEXT-ALIGN: justify; mso-line-height-rule: exactly; mso-char-indent-count: 2.0"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">چېخوف خەلقپەرۋەر يازغۇچى، چۈنكى ئۇنىڭ مۇنەۋۋەر بەدىئىي ئەسەرلىرى خەلقنىڭ ئىشلىرىغا بېغىشلانغان. ئۇنىڭ بارلىق ئەسەرلىرىگە سىڭدۈرۈلگەن ئەخلاقىي ھېسسىيات، ئۇ ياراتقان رىئال خائىشچانلىققا ئىگە جانلىق ئوبرازلار، بۈگۈنكى كۈندىمۇ يەنىلا ئۆزىنىڭ بەدىئىي رىغبەتلەندۈرۈش كۈچىنى يوقاتمىغان بولۇپ، ئۇلار بىزنىڭ چاكىنا كىشىلەرنىڭ مىشچانلارچە ھايات قارىشى، شۇنداقلا بۇرژۇئازىيىنىڭ پۇلپەرەسلىك خائىشى بىلەن كۆرەش قىلىشىمىزدىكى ئۆتكۈر ئىدىيىۋىي قورال بولالايدۇ. چېخوفنىڭ مۇنەۋۋەر ھېكايىلىرىگە مۇجەسسەملەنگىنى مەڭگۈ يوقالمايدىغان ئىجتىمائىي مەزمۇن ۋە بەدىئىي قىممەت بولۇپ، ئۇلۇغ ئەدىبنىڭ دېموكراتىزملىق روھى ئەۋلادلار قەلبىنى نۇرلاندۇرۇپ تۇرىدىغان ئۆچمەس ماياكتۇر. ئۇلۇغ ئۇستاز لېنىن ھەقىقىي سەنئەتكار، يوشۇرۇن ھېسسىياتقا باي لىرىك شائىر، رىئالىزمچى ئەدىب چېخوفنىڭ ئۇلۇغ ئىجادىيەتلىرىگە يۈكسەك باھا بېرىپ: «يېڭى تىپتىكى پرولېتارىيات تاماشىبىنلىرى لىرىك شائىرلارغا، چېخوفقا، تۇرمۇش ھەقىقەتلىرىگە مۇھتاج» دېگەن ئىدى. </SPAN><SPAN lang=EN-US dir=ltr style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;"><o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: center" align=center><SPAN lang=EN-US dir=ltr><o:p><FONT face="Times New Roman">&nbsp;</FONT></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; TEXT-INDENT: 25.15pt; LINE-HEIGHT: 21pt; unicode-bidi: embed; TEXT-ALIGN: justify; mso-line-height-rule: exactly; mso-char-indent-count: 2.0"><FONT face="ALKATIP Basma Tom"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma Tom&#39;; mso-font-width: 90%">پايدىلانغان ماتېرىياللار: </SPAN><SPAN lang=EN-US dir=ltr style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma Tom&#39;; mso-font-width: 90%"><o:p></o:p></SPAN></FONT></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; TEXT-INDENT: 25.15pt; LINE-HEIGHT: 21pt; unicode-bidi: embed; TEXT-ALIGN: justify; mso-line-height-rule: exactly; mso-char-indent-count: 2.0"><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%"><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN>‹1› </SPAN><SPAN lang=AR-DZ style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%; mso-bidi-language: AR-DZ">مۇھەممەت ئىمىن. «چەت ئەل ئەدەبىياتى»، ئۈرۈمچى، شىنجاڭ ئۇنىۋېرسىتېتى نەشرىياتى، 1990- يىل 1- نەشرى 1- بېسىلىشى،ئىككى توم.</SPAN><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%"><o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; TEXT-INDENT: 25.15pt; LINE-HEIGHT: 21pt; unicode-bidi: embed; TEXT-ALIGN: justify; mso-line-height-rule: exactly; mso-char-indent-count: 2.0"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">‹2› </SPAN><SPAN lang=AR-DZ style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%; mso-bidi-language: AR-DZ">خې نيەن (</SPAN><SPAN dir=ltr style="FONT-SIZE: 14pt; FONT-FAMILY: 宋体; mso-font-width: 90%; mso-ascii-font-family: &#39;ALKATIP Basma&#39;; mso-hansi-font-family: &#39;ALKATIP Basma&#39;; mso-bidi-font-family: &#39;ALKATIP Basma&#39;">贺年</SPAN><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN><SPAN lang=AR-DZ style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%; mso-bidi-language: AR-DZ"><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN>) تۈزگەن. «دۇنياغا مەشھۇر ئەدىبلەرنىڭ ئەسەرلىرىدىن تېز ئوقۇشلۇق» </SPAN><SPAN lang=AR-DZ style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%; mso-bidi-language: AR-DZ; mso-fareast-font-family: 华文中宋">(«</SPAN><SPAN dir=ltr style="FONT-SIZE: 14pt; FONT-FAMILY: 华文中宋; mso-font-width: 90%; mso-ascii-font-family: &#39;ALKATIP Basma&#39;; mso-hansi-font-family: &#39;ALKATIP Basma&#39;; mso-bidi-font-family: &#39;ALKATIP Basma&#39;">世界著名文学家作品速读集</SPAN><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN><SPAN lang=AR-DZ style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%; mso-bidi-language: AR-DZ; mso-fareast-font-family: 华文中宋"><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN>»)، </SPAN><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">خەنزۇچە. كۆكخوت، ئىچكى موڭغۇل ئەدەبىيات- سەنئەت نەشرىياتى،2001- يىل 9- ئاي 1- نەشرى، 1- بېسىلىشى.<o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; TEXT-INDENT: 25.15pt; LINE-HEIGHT: 21pt; unicode-bidi: embed; TEXT-ALIGN: justify; mso-line-height-rule: exactly; mso-char-indent-count: 2.0"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">‹3› جۇ يېكۇاڭ (</SPAN><SPAN dir=ltr style="FONT-SIZE: 14pt; FONT-FAMILY: 宋体; mso-font-width: 90%; mso-ascii-font-family: &#39;ALKATIP Basma&#39;; mso-hansi-font-family: &#39;ALKATIP Basma&#39;; mso-bidi-font-family: &#39;ALKATIP Basma&#39;">朱也旷</SPAN><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%"><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN>). «چېخوفقا ئېھتىرام»، خەنزۇچە. «ئوقۇرمەنلەر مەجمۇئەسى ھەپتىلىك گېزىتى» نىڭ 2004- يىل 15- ئىيۇل سانىنىڭ 3- بېتى. <o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; TEXT-INDENT: 25.15pt; LINE-HEIGHT: 21pt; unicode-bidi: embed; TEXT-ALIGN: justify; mso-line-height-rule: exactly; mso-char-indent-count: 2.0"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">‹4› «چېخوف ئەسەرلىرىدىن تاللانما». شاڭخەي، تەرجىمە نەشرىياتى، 1999- يىل 6- ئاي 2- نەشرى 2- بېسىلىشى.<o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; TEXT-INDENT: 25.15pt; LINE-HEIGHT: 21pt; unicode-bidi: embed; TEXT-ALIGN: justify; mso-line-height-rule: exactly; mso-char-indent-count: 2.0"><SPAN lang=AR-SA style="FONT-SIZE: 14pt; FONT-FAMILY: &#39;ALKATIP Basma&#39;; mso-font-width: 90%">‹5› «لېنىننىڭ ئەدەبىيات- سەنئەتكە دائىر ئەسەرلىرى» . بېيجىڭ، خەلق ئەدەبىيات- سەنئەت نەشرىياتى، 2000- يىل 10- ئاي 2- نەشرى 1- بېسىلىشى. <o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: justify"><SPAN lang=EN-US dir=ltr><o:p><FONT face="Times New Roman">&nbsp;</FONT></o:p></SPAN></P><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: center" align=center><FONT face="ALKATIP Basma Tom"><SPAN lang=AR-EG style="FONT-SIZE: 15pt; FONT-FAMILY: &#39;ALKATIP Basma Tom&#39;; mso-font-width: 90%; mso-bidi-language: AR-EG">ئاپتورى: كورلا شەھەرلىك خەلق قۇرۇلتىيى دائىمىي كومىتېتى ئىشخانىسىدىن<SPAN style="mso-spacerun: yes">&nbsp; </SPAN>توختى مەھمۇت</SPAN></FONT></P><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: center" align=center><SPAN lang=EN-US dir=ltr><o:p><FONT face="Times New Roman">&nbsp;</FONT></o:p></SPAN></P><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: center" align=center><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN><SPAN lang=AR-SA style="FONT-SIZE: 15pt; FONT-FAMILY: &#39;ALKATIP Basma Tom&#39;"><SPAN dir=rtl></SPAN><SPAN dir=rtl></SPAN><FONT face="ALKATIP Basma Tom">2004- يىل 28- ماي كورلا</FONT></SPAN></P><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: center" align=center><SPAN lang=AR-SA style="FONT-SIZE: 15pt; FONT-FAMILY: &#39;ALKATIP Basma Tom&#39;"><FONT face="ALKATIP Basma Tom"></FONT></SPAN>&nbsp;</P><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: center" align=center><SPAN lang=AR-SA style="FONT-SIZE: 15pt; FONT-FAMILY: &#39;ALKATIP Basma Tom&#39;"><FONT face=c4d010ff64f2108909195a60#880800 size=5>چېخوف سۈرەتلىرىدىن تاللانما:</FONT></SPAN></P><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: center" align=center><SPAN lang=AR-SA style="FONT-SIZE: 15pt; FONT-FAMILY: &#39;ALKATIP Basma Tom&#39;"><FONT face=c4d010ff64f2108909195a60#880800 size=5><IMG src="https://homeopathy.wildfalcon.com/wp-content/uploads/2009/01/180px-achekhov89.jpg"></FONT></SPAN></P><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: center" align=center><SPAN lang=AR-SA style="FONT-SIZE: 15pt; FONT-FAMILY: &#39;ALKATIP Basma Tom&#39;"></SPAN>&nbsp;</P><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: center" align=center><SPAN lang=AR-SA style="FONT-SIZE: 15pt; FONT-FAMILY: &#39;ALKATIP Basma Tom&#39;">&nbsp;<IMG src="https://writemuse.com/blog/media/450px-Anton_Pavlovich_Chekhov.jpg"></SPAN></P><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: center" align=center><SPAN lang=AR-SA style="FONT-SIZE: 15pt; FONT-FAMILY: &#39;ALKATIP Basma Tom&#39;"></SPAN>&nbsp;</P><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: center" align=center><SPAN lang=AR-SA style="FONT-SIZE: 15pt; FONT-FAMILY: &#39;ALKATIP Basma Tom&#39;"><IMG src="https://www.indiana.edu/~thtr/2004/cherry_orchard/cherry_orchard_images/olga_and_anton.jpg"></SPAN></P><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: center" align=center><SPAN lang=AR-SA style="FONT-SIZE: 15pt; FONT-FAMILY: &#39;ALKATIP Basma Tom&#39;"></SPAN>&nbsp;</P><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: center" align=center><SPAN lang=AR-SA style="FONT-SIZE: 15pt; FONT-FAMILY: &#39;ALKATIP Basma Tom&#39;"><IMG src="https://upload.wikimedia.org/wikipedia/commons/a/af/Anton_Chekhov_and_Olga_Knipper%2C_1901.jpg"></SPAN></P><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: center" align=center><SPAN lang=AR-SA style="FONT-SIZE: 15pt; FONT-FAMILY: &#39;ALKATIP Basma Tom&#39;"></SPAN>&nbsp;</P><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: center" align=center><SPAN lang=AR-SA style="FONT-SIZE: 15pt; FONT-FAMILY: &#39;ALKATIP Basma Tom&#39;"><IMG src="https://www.kryingsky.com/Stan/AssociatedArtists/AssArtistsComponents/ChekhovSuit.gif"></SPAN></P><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: center" align=center><SPAN lang=AR-SA style="FONT-SIZE: 15pt; FONT-FAMILY: &#39;ALKATIP Basma Tom&#39;"></SPAN>&nbsp;</P><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: center" align=center><SPAN lang=AR-SA style="FONT-SIZE: 15pt; FONT-FAMILY: &#39;ALKATIP Basma Tom&#39;"><IMG src="https://img240.imageshack.us/img240/5500/55332500fc5.jpg"></SPAN></P><SPAN lang=EN-US dir=ltr style="FONT-SIZE: 15pt; FONT-FAMILY: &#39;ALKATIP Basma Tom&#39;"><o:p></o:p></SPAN></span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2436" title="شائىر مۇھەممەد رەھىم"  target="_blank" class="tag_title_link">شائىر مۇھەممەد رەھ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2435" title="پىچىرلاش(كۆكلەمى)"  target="_blank" class="tag_title_link">پىچىرلاش(كۆكلەمى)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2434" title="پادىشاھنىڭ كىيىمى بارمۇ؟"  target="_blank" class="tag_title_link">پادىشاھنىڭ كىيىمى ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2433" title="تولۇقچى قوڭغۇزنىڭ ساياھىتى"  target="_blank" class="tag_title_link">تولۇقچى قوڭغۇزنىڭ ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2432" title="ئۆمەر مەتنۇرى قۇتيارنىڭ قىسقىچە تەرجىمىھالى... - ئا.ئا.تەنھا"  target="_blank" class="tag_title_link">ئۆمەر مەتنۇرى قۇتي...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2431" title="ئەنۋەر ھىدايەتنىڭ قىسقىچە تەرجىمىھالى... - ئا.ئا.تەنھا"  target="_blank" class="tag_title_link">ئەنۋەر ھىدايەتنىڭ ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2430" title="شائىر رەخىم ياسىن قاينامىنىڭ قىسقىچە تەرجىمىھالى"  target="_blank" class="tag_title_link">شائىر رەخىم ياسىن ق...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2429" title="شائىرە رىسالەت مەرداننىڭ قىسقىچە تەرجىمىھالى"  target="_blank" class="tag_title_link">شائىرە رىسالەت مەر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2428" title="باشقۇرغۇچىلارغا تەۋسىيە"  target="_blank" class="tag_title_link">باشقۇرغۇچىلارغا تە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2427" title="شائىر قۇربان ئابلىمىتنىڭ قىسقىچە تەرجىمھالى"  target="_blank" class="tag_title_link">شائىر قۇربان ئابلى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2426" title="شائىرە، ئاتىكەم سىدىق ئايقۇتنىڭ قىسقىچە تەرجىمىھالى"  target="_blank" class="tag_title_link">شائىرە، ئاتىكەم سى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2425" title="شائىر  غوجىمۇھەممەد مۇھەممەدنىڭ قىسقىچە تەرجىمىھالى"  target="_blank" class="tag_title_link">شائىر  غوجىمۇھەمم...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2424" title="شائىرە چىمەنگۈل ئاۋۇتنىڭ قىسقىچە تەرجىمھالى"  target="_blank" class="tag_title_link">شائىرە چىمەنگۈل ئا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2423" title="قاراتېكىن يېڭى ھۆسىنخەتلىرى"  target="_blank" class="tag_title_link">قاراتېكىن يېڭى ھۆس...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2422" title="ئەدەبىيات تەتقىقاتچىسى شائىرە  ئايسىمە ئىدىرىسنىڭ قىسقىچە تەرجىمىھالى"  target="_blank" class="tag_title_link">ئەدەبىيات تەتقىقات...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2421" title="تونۇلىۋاتقان  ياش شائىر،يازغۇچى ،خەتتات ۋە ھەيكەلتاراش غەنىزات ﯰيغۇرنىڭ تەرجىمھالى"  target="_blank" class="tag_title_link">تونۇلىۋاتقان  ياش ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2420" title="مەرھۇم ھۈسەيىن تاشنىڭ ئەلبۇمى"  target="_blank" class="tag_title_link">مەرھۇم ھۈسەيىن تاش...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2419" title="يېزىش- كىتاپ ئوقۇشتىن باشلىنىدۇ"  target="_blank" class="tag_title_link">يېزىش- كىتاپ ئوقۇشت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2418" title="مونولوگ...ئەخمەتجان تۇرۇپ بەگتۈرۈكنىڭ «دىئالوگ»ىغا ......"  target="_blank" class="tag_title_link">مونولوگ...ئەخمەتجان...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2417" title="شائىر، نەسىرچى ۋە ژۇرنالىست ئەركىن نۇر"  target="_blank" class="tag_title_link">شائىر، نەسىرچى ۋە ژ...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/edebiyat/search.php?catid=268&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2436" title="شائىر مۇھەممەد رەھىم"  target="_blank" class="tag_title_link">شائىر مۇھەممەد رەھىم</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2435" title="پىچىرلاش(كۆكلەمى)"  target="_blank" class="tag_title_link">پىچىرلاش(كۆكلەمى)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2434" title="پادىشاھنىڭ كىيىمى بارمۇ؟"  target="_blank" class="tag_title_link">پادىشاھنىڭ كىيىمى بارمۇ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2433" title="تولۇقچى قوڭغۇزنىڭ ساياھىتى"  target="_blank" class="tag_title_link">تولۇقچى قوڭغۇزنىڭ ساياھ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2432" title="ئۆمەر مەتنۇرى قۇتيارنىڭ قىسقىچە تەرجىمىھالى... - ئا.ئا.تەنھا"  target="_blank" class="tag_title_link">ئۆمەر مەتنۇرى قۇتيارنىڭ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2431" title="ئەنۋەر ھىدايەتنىڭ قىسقىچە تەرجىمىھالى... - ئا.ئا.تەنھا"  target="_blank" class="tag_title_link">ئەنۋەر ھىدايەتنىڭ قىسقى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2430" title="شائىر رەخىم ياسىن قاينامىنىڭ قىسقىچە تەرجىمىھالى"  target="_blank" class="tag_title_link">شائىر رەخىم ياسىن قاينا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2429" title="شائىرە رىسالەت مەرداننىڭ قىسقىچە تەرجىمىھالى"  target="_blank" class="tag_title_link">شائىرە رىسالەت مەرداننى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2428" title="باشقۇرغۇچىلارغا تەۋسىيە"  target="_blank" class="tag_title_link">باشقۇرغۇچىلارغا تەۋسىي...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2427" title="شائىر قۇربان ئابلىمىتنىڭ قىسقىچە تەرجىمھالى"  target="_blank" class="tag_title_link">شائىر قۇربان ئابلىمىتنى...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/edebiyat/show_js.php?itemid=2409"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

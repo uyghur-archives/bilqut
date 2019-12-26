@@ -1,0 +1,1896 @@
+﻿
+﻿<html>
+<head>
+
+<script language="javaScript" SRC="images/UyghurInput_B.js"></SCRIPT>
+<script type="text/javascript" src="js/prototype.js"></script>
+<script type="text/javascript" src="js/effects.js"></script>
+<script type="text/javascript" src="js/common.js"></script>
+<script type="text/javascript" src="js/curvycorners.js"></script>
+
+<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" media="screen, projection" href="css/ie.css" />
+<![endif]-->
+<!--[if IE 7.0]>
+<link rel="stylesheet" type="text/css" media="screen, projection" href="css/ie7.css" />
+<![endif]-->
+
+<script src="UyghurInput_B.js"></script> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Bilqut_Kنىڭ ئەسەرلىرى -uyghur-archive.com/bilqut</title>
+<meta name="keywords" content="ئەزالار مەركىزى ">
+<meta name="description" content="ئەزالار مەركىزى ">
+<meta name="generator" content="Phpcms 2007">
+<link href="/favicon.ico" rel="shortcut icon">
+<script type="text/javascript" src="swfobject.js"></script>
+<link href="/templates/bilrazi/skins/Bash/style.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language=javascript>attachAll = true; </script>
+<noscript><iframe src=*.html></iframe></noscript>
+<script language="JavaScript">
+document.onselectstart=new Function("event.returnValue=false;");
+document.oncontextmenu=new Function("event.returnValue=false;");
+</script>
+<style type="text/css">
+
+
+/*  yan teripng  css   bash landi */
+
+<!--
+* {
+ margin:0;
+ padding:0
+}
+div, dl, dt, dd {
+ display:inline-block;
+}
+div, dl, dt, dd {
+ display:block
+}
+h2 {
+ margin:0;
+ font: 800 14px/20px "Ukij Tuz Tom";
+}
+#yan, #yan_music, #yan_balilar, #yan_biz, #yan_class {
+ background-color:#e8f1f6;
+ border:1px solid #b3b9c9;
+ margin:0px;
+ width:220px;
+ padding:4px 0
+}
+#yan div, #yan_music div, #yan_balilar div, #yan_biz div, #yan_class div {
+ padding:31px 4px 0px;
+ position:relative;
+}
+#yan dt, #yan_music dt, #yan_balilar dt, #yan_biz dt, #yan_class dt {
+ text-align:center;
+ font: 14px/23px "Ukij Tuz Tom";
+ font-size:14px;
+}
+#yan dd, #yan_music dd, #yan_balilar dd, #yan_biz dd, #yan_class dd {
+ font: 12px/20px "Ukij Tuz Tom";
+ padding:1px;
+}
+#yan1 dt, #yan_music1 dt, #yan_balilar1 dt, #yan_biz1 dt, #yan_class1 dt {
+ left: 1px;
+ top: 4px
+}
+#yan2 dt, #yan_music2 dt, #yan_balilar2 dt, #yan_biz2 dt, #yan_class2 dt {
+ left:109px;
+ top:4px
+}
+#yan3 dt, #yan_music3 dt, #yan_balilar3 dt, #yan_biz3 dt, #yan_class3 dt {
+ left:1px;
+ top:4px
+}
+#yan4 dt, #yan_music4 dt, #yan_balilar4 dt, #yan_biz4 dt, #yan_class4 dt {
+ left:109px;
+ top:4px;
+}
+#yan5 dt, #yan_biz5 dt, #yan_class5 dt {
+ left: 1px;
+ top: 4px
+}
+#yan6 dt, #yan_biz6 dt, #yan_class6 dt {
+ left:109px;
+ top:4px
+}
+#yan7 dt, #yan_biz7 dt, #yan_class7 dt {
+ left:1px;
+ top:4px
+}
+#yan8 dt, #yan_biz8 dt, #yan_class8 dt {
+ left:109px;
+ top:4px
+}
+#yan9 dt, #yan_class9 dt {
+ left:1px;
+ top:4px
+}
+#yan10 dt, #yan_class10 dt {
+ left:109px;
+ top:4px
+}
+#yan11 dt, #yan_class11 dt {
+ left:1px;
+ top:4px
+}
+#yan12 dt, #yan_class12 dt {
+ left:109px;
+ top:4px
+}
+#yan13 dt, #yan_class13 dt {
+ left:1px;
+ top:4px
+}
+#yan14 dt, #yan_class14 dt {
+ left:109px;
+ top:4px
+}
+#yan15 dt, #yan_class15 dt {
+ left:1px;
+ top:4px
+}
+#yan16 dt, #yan_class16 dt {
+ left:109px;
+ top:4px
+}
+#yan17 dt {
+ left:1px;
+ top:4px
+}
+#yan18 dt {
+ left:109px;
+ top:4px
+}
+#yan19 dt {
+ left:1px;
+ top:4px
+}
+#yan20 dt {
+ left:109px;
+ top:4px
+}
+#yan21 dt {
+ left:1px;
+ top:4px
+}
+#yan22 dt {
+ left:109px;
+ top:4px
+}
+#yan23 dt {
+ left:1px;
+ top:4px
+}
+#yan24 dt {
+ left:109px;
+ top:4px
+}
+#yan25 dt {
+ left:1px;
+ top:4px
+}
+#yan26 dt {
+ left:109px;
+ top:4px
+}
+#yan27 dt {
+ left:1px;
+ top:4px
+}
+#yan28 dt {
+ left:109px;
+ top:4px
+}
+#yan29 dt {
+ left:1px;
+ top:4px
+}
+#yan30 dt {
+ left:109px;
+ top:4px
+}
+#yan31 dt {
+ left:1px;
+ top:4px
+}
+#yan32 dt {
+ left:109px;
+ top:4px
+}
+.close dt {
+ height:23px;
+ width:105px;
+ background:#E5F2F8;
+ position:absolute;
+ border:1px solid #b3b9c9;
+}
+.close dd {
+ display:none
+}
+.open dt {
+ height:28px;
+ width:105px;
+ background:#f7fbff;
+ position:absolute;
+ border:1px solid #b3b9c9;
+ border-bottom:none;
+ color:#db1577;
+}
+.open dd {
+ background:#f7fbff;
+ border:1px solid #b3b9c9;
+}
+-->
+.style1 {
+ text-align: center;
+}
+/*  yan yerepng  end */
+
+
+
+
+
+
+/*  bilqut hezinish bashlandi  */
+#hezine {
+background-color:#e8f1f6;
+ border:1px solid #b3b9c9;
+ margin:0px;
+ width:505px;
+ padding:4px 0;
+}
+#hezine div {
+ padding:28px 4px 0px;
+ position:relative;
+}
+/*  bilqut hezinisi  end */
+
+
+
+
+
+#awaz {
+background-color:#e8f1f6;
+ border:1px solid #b3b9c9;
+ margin:auto;
+ width:505px;
+ padding:4px 0
+}
+#awaz div {
+ padding:31px 4px 0px;
+ position:relative;
+}
+#awaz dt {
+ text-align:center;
+ font: 12px/23px "Ukij Tuz Tom";
+ font-size:14px;
+}
+#awaz dd {
+ font: 12px/20px "Ukij Tuz Tom";
+ padding:1px;
+}
+#awaz_1 dt {
+ left: 4px;
+ top: 4px
+}
+#awaz_2 dt {
+ left:137px;
+ top:4px
+}
+#awaz_3 dt {
+ left:268px;
+ top:4px
+}
+#awaz_4 dt {
+ left:394px;
+ top:4px;
+}
+#awaz_5 dt {
+ left: 4px;
+ top: 4px
+}
+#awaz_6 dt {
+ left:137px;
+ top:4px
+}
+#awaz_7 dt {
+ left:268px;
+ top:4px
+}
+#awaz_8 dt {
+ left:394px;
+ top:4px
+}
+ #yan_mezmun {
+ background-color:#f7fbff;
+ margin:5px;
+ width: auto;
+ border : medium double #e9f0f8;
+}
+
+
+
+
+/*-------------------------------*/
+
+
+
+
+
+
+<!--
+* { margin:0; padding:0; font-size:12px; font-weight:normal; }
+.razi  { font-weight:bolder!important; }
+.box { border-top-color:#c00!important; }
+.pr { color:#060!important;margin:0px;  }
+#tab02 { position:relative; width:200px; margin:0px; border:solid #ccc; border-width:0 1px 1px; }
+#tab02 h4 {border-left:0 solid #ccc; border-right:0 solid #ccc; border-top:1px solid #ccc; border-bottom:1px solid #ccc; width:200px; height:25px; line-height:18px; margin-bottom:-1px; text-align:center; background-image:url(image/01.jpg); cursor:pointer }
+#tab02 h4.up { color:#c00; }
+#tab02 ol { display:none; height:154px; padding:5px; color:#666; }
+#tab02 ol.up { display:block; }
+
+.style1 {
+text-align: center;
+}
+
+-->
+</style>
+</head>
+<body  topmargin="0">
+
+<div class="header">
+<table width="965" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="965" height="90" align="center">
+<img border="0" src="/bbs/images/top.jpg" width="965" height="180"></td>
+    </tr>
+</table>
+
+<!--频道列表-->
+
+
+
+
+<table style="width: 100%">
+<tr>
+<td style="width: 180px" id="logo" class="style1">
+<img alt="" src="/images/weblogo.gif" ></td>
+<td ><div id="Whatever" align="center">
+    <ul class="TabBarLevel1" id="TabPage1">
+        <li id="Tabi" class="Selected"><a href="/">باش بەت </a></li>
+              <li >| 
+<a class="white" target="_blank" href="/bilqut_news/">بىلقۇت خەزىنسى </a></li>
+  
+        <li >| 
+<a class="white" target="_blank" href="/KutupXana/">كۇتۇپخانا</a></li>
+  
+        <li >| 
+<a class="white" target="_blank" href="/bbs/">مۇنبەر</a></li>
+  
+        <li >| 
+<a class="white" target="_blank" href="/balilarbaghchisi/">بالىلار باغچىسى</a></li>
+  
+        <li >| 
+<a class="white" target="_blank" href="/biz/">بىز</a></li>
+  
+        <li >| 
+<a class="white" target="_blank" href="/Uginish/"> ئۆگىنىش</a></li>
+  
+        <li >| 
+<a class="white" target="_blank" href="/tenterbiye/">تەنتەربىيە</a></li>
+  
+        <li >| 
+<a class="white" target="_blank" href="/kompiyuter/">كومپيۇتېر</a></li>
+  
+        <li >| 
+<a class="white" target="_blank" href="/qanun_nizamlar/">قانۇن</a></li>
+  
+        <li >| 
+<a class="white" target="_blank" href="/maarip/">مائارىپ</a></li>
+  
+        <li >| 
+<a class="white" target="_blank" href="/Hizmet_Uchuri/">ئۇچۇر</a></li>
+  
+        <li >| 
+<a class="white" target="_blank" href="/aptonomrayonimiz/">يۇرتىمىز</a></li>
+  
+        <li >| 
+<a class="white" target="_blank" href="/KutupXana/Muzey/">مۇزېي</a></li>
+  
+        <li >| 
+<a class="white" target="_blank" href="/kitab/">كىتاب</a></li>
+  
+        <li >| 
+<a class="white" target="_blank" href="/News/">خەۋەر</a></li>
+  
+        <li >| 
+<a class="white" target="_blank" href="/Kino/">كىنولار</a></li>
+  
+        <li >| 
+<a class="white" target="_blank" href="/photo/">رەسىملەر</a></li>
+  
+        <li >| 
+<a class="white" target="_blank" href="/tarih/">تارىخ</a></li>
+  
+        <li >| 
+<a class="white" target="_blank" href="https://uyghur-archive.com/bilqut/biz/list_56.php">تېبابەت</a></li>
+  
+        <li >| 
+<a class="white" target="_blank" href="/awazliq/">ئاۋازلىق ئەسەرلەر </a></li>
+  
+        <li >| 
+<a class="white" target="_blank" href="/music/">ناخشىلار </a></li>
+  
+        <li >| 
+<a class="white" target="_blank" href="/game/">ئويۇن</a></li>
+  
+        <li >| 
+<a class="white" target="_blank" href="/etotlar/">ئېتوتلار</a></li>
+  
+        <li >| 
+<a class="white" target="_blank" href="/MTV/">MTV</a></li>
+  
+
+    </ul>
+</div></td>
+</tr>
+</table>
+</div>
+<table style="width: 965px" cellspacing="0" cellpadding="0" align="center" id="iz">
+<tr>
+<td><script language="javascript" src="/member/login.php?action=js"></script></td>
+<td><div id="izdesh">
+<script language="JavaScript" src="/data/js/search.js"></script>
+
+
+</div>
+</td>
+</tr>
+</table>
+<!--会员登录   
+<table width="100%" cellpadding="0" cellspacing="0" class="bg_login" id="table1" align="center">
+<tr>
+<td id="loginweb" >
+    <script language="javascript" src="/member/login.php?action=js"></script></td>
+<td  id="izdesh_web">
+<script language="JavaScript" src="/data/js/search.js"></script></td>
+</tr>
+</table>              -->
+
+
+
+
+<table cellspacing="0" cellpadding="0" border="0" width="980">
+<tr>
+<td valign="top" class="left">
+
+﻿<h1>Bilqut_Kنىڭ ئارخىبى </h1>
+<table cellpadding="0" cellspacing="0" class="righttable">
+  <tr>
+   <td class="pic" align="center"><img id="UserFace" src="https://bilqut.biz/bbs/attachment/upload/3.jpg" width="150" height="150"></td>
+  </tr>
+  <tr>
+   <td> 
+             <table cellSpacing=0 cellPadding=0 width="100%">
+                <tr>
+                  <td width="60" class="td_right">ئسمى : </td>
+                  <td width="150" class="td_left"></td>
+                </tr>
+                <tr>
+                  <td class="td_right">جىنسى : </td>
+                  <td class="td_left">ئەر</td>
+                </tr>
+                <tr>
+                  <td class="td_right">تۇغۇلغان ۋاقتى : </td>
+                  <td class="td_left">未知</td>
+                </tr>
+                <tr>
+                  <td class="td_right">تۇرۇشلۇق جايى : </td>
+                  <td class="td_left">新疆维吾尔自治区-乌鲁木齐市</td>
+                </tr>
+                <tr>
+                  <td class="td_right">ئادىرسى : </td>
+                  <td class="td_left"></td>
+                </tr>
+                <tr>
+                  <td class="td_right">پوچتانۇمىرى : </td>
+                  <td class="td_left"></td>
+                </tr>
+                <tr>
+                  <td class="td_right">تېلغۇن : </td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td class="td_right">تور بېتى : </td>
+                  <td class="td_left"><a href="" target="_blank"></a></td>
+                </tr>
+                <tr>
+                  <td class="td_right">QQ : </td>
+                  <td class="td_left"><a href="https://wpa.qq.com/msgrd?V=1&Uin=343272065&Site=uyghur-archive.com/bilqut&Menu=yes" title="点击QQ交谈" target="_blank">343272065</a></td>
+                </tr>
+                <tr>
+                  <td class="td_right">MSN : </td>
+                  <td class="td_left"></td>
+                </tr>
+                <tr>
+                  <td class="td_right">ICQ : </td>
+                  <td class="td_left"></td>
+                </tr>
+                <tr>
+                  <td class="td_right">SKYPE : </td>
+                  <td class="td_left"></td>
+                </tr>
+                <tr>
+                  <td class="td_right">支付宝 : </td>
+                  <td class="td_left"></td>
+                </tr>
+                <tr>
+                  <td class="td_right">贝宝 : </td>
+                  <td class="td_left"></td>
+                </tr>
+                <tr>
+                  <td class="td_right">ئىمزاسى : </td>
+                  <td class="td_left"></td>
+                </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+</td>
+<td width="10" valign="top">
+</td>
+<td valign="top" class="right">
+<div class="memberborder_1">
+<div class="memberborder_2">
+<h1><a href="/member/member.php?username=Bilqut_K" class="red">Bilqut_Kنىڭ ئەسەرلىرى </a></h1>
+  <table cellpadding="2" cellspacing="1" class="righttable">
+
+    <tr>
+      <td align="left" colspan="3">
+<table cellpadding="0" cellspacing="0" width="100%" height="25" class="gray">
+  <tr>
+    <td width="80%" class="td_left">&nbsp;&nbsp;□ <a href="/bilqut_news/"><strong>بىلقۇت خەزىنسى </strong></a>（ئومۇمى سانى : 4）</td>
+    <td class="td_right"><a href="/member/member.php?username=Bilqut_K&channelid=7">تېخمۇ كۆپ >></a>&nbsp;</td>
+  </tr>
+</table>
+
+</td>
+    </tr>
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/bilqut_news/show.php?itemid=11" target="_blank">بىلقۇتتىن سوۋغا ئىنگىلىزچە كارتون ئېلىپبە</a></td>
+  <td align="center" width="80">342</td>
+  <td align="center" width="100">2008-03-15</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/bilqut_news/show.php?itemid=9" target="_blank">ئۇيغۇر كارتون ئېلىپبە  </a></td>
+  <td align="center" width="80">621</td>
+  <td align="center" width="100">2008-03-04</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/bilqut_news/show.php?itemid=8" target="_blank"> «بىلقۇت» خەزىنىسى5 - ئايلىق ئەلالاشتۇرۇلدى!</a></td>
+  <td align="center" width="80">1113</td>
+  <td align="center" width="100">2008-03-04</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/bilqut_news/show.php?itemid=7" target="_blank"><<بىلقۇت خەزىنىسى>> ھەققىدە </a></td>
+  <td align="center" width="80">749</td>
+  <td align="center" width="100">2008-02-17</td>
+</tr>
+
+
+
+    <tr>
+      <td align="left" colspan="3">
+<table cellpadding="0" cellspacing="0" width="100%" height="25" class="gray">
+  <tr>
+    <td width="80%" class="td_left">&nbsp;&nbsp;□ <a href="/KutupXana/"><strong>كۇتۇپخانا</strong></a>（ئومۇمى سانى : 1296）</td>
+    <td class="td_right"><a href="/member/member.php?username=Bilqut_K&channelid=8">تېخمۇ كۆپ >></a>&nbsp;</td>
+  </tr>
+</table>
+
+</td>
+    </tr>
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/KutupXana/show.php?itemid=1392" target="_blank">كىرپە</a></td>
+  <td align="center" width="80">0</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/KutupXana/show.php?itemid=1391" target="_blank">ھىڭ </a></td>
+  <td align="center" width="80">0</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/KutupXana/show.php?itemid=1390" target="_blank">دادۇر </a></td>
+  <td align="center" width="80">2</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/KutupXana/show.php?itemid=1389" target="_blank">بېھى </a></td>
+  <td align="center" width="80">1</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/KutupXana/show.php?itemid=1388" target="_blank">شاتۇت </a></td>
+  <td align="center" width="80">0</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/KutupXana/show.php?itemid=1387" target="_blank">قاپاق ئۇرۇقى مېيى</a></td>
+  <td align="center" width="80">0</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/KutupXana/show.php?itemid=1386" target="_blank">قىچا مېيى </a></td>
+  <td align="center" width="80">0</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/KutupXana/show.php?itemid=1385" target="_blank">ياڭاق مېيى</a></td>
+  <td align="center" width="80">0</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/KutupXana/show.php?itemid=1384" target="_blank">سىيادان مېيى </a></td>
+  <td align="center" width="80">0</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/KutupXana/show.php?itemid=1383" target="_blank">دەند مېيى</a></td>
+  <td align="center" width="80">0</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+
+
+    <tr>
+      <td align="left" colspan="3">
+<table cellpadding="0" cellspacing="0" width="100%" height="25" class="gray">
+  <tr>
+    <td width="80%" class="td_left">&nbsp;&nbsp;□ <a href="/balilarbaghchisi/"><strong>بالىلار باغچىسى</strong></a>（ئومۇمى سانى : 172）</td>
+    <td class="td_right"><a href="/member/member.php?username=Bilqut_K&channelid=10">تېخمۇ كۆپ >></a>&nbsp;</td>
+  </tr>
+</table>
+
+</td>
+    </tr>
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/balilarbaghchisi/show.php?itemid=184" target="_blank">بالىنىڭ ئەقىللىق بولۇش - بولماسلىقى ئانا  بىلەن مۇناسىۋەتلىكمۇ؟</a></td>
+  <td align="center" width="80">1</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/balilarbaghchisi/show.php?itemid=183" target="_blank">سۈت چاچراپ چىقىش ئىنكاسى قانداق شەكىللىنىدۇ؟ </a></td>
+  <td align="center" width="80">1</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/balilarbaghchisi/show.php?itemid=182" target="_blank">بالىياتقۇنىڭ چوڭ - كىچىكلىكىگە قانداق  ھۆكۈم قىلغىلى بولىدۇ؟ </a></td>
+  <td align="center" width="80">2</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/balilarbaghchisi/show.php?itemid=181" target="_blank">ئالتە ئايلىق بوۋاقلارنى بېقىشنىڭ قانداق  ئالاھىدىلىكى بار؟ </a></td>
+  <td align="center" width="80">1</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/balilarbaghchisi/show.php?itemid=180" target="_blank">يېڭى تۇغۇلغان بوۋاقلارنىڭ بەدەن تېمپېراتۇرىسىنىڭ  قانداق ئالاھىدىلىكى بار؟ </a></td>
+  <td align="center" width="80">1</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/balilarbaghchisi/show.php?itemid=179" target="_blank">مېۋە سۈتلىرىنى كالا سۈتى ئورنىدا ئىچىشكە بولامدۇ؟</a></td>
+  <td align="center" width="80">1</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/balilarbaghchisi/show.php?itemid=178" target="_blank">ئانا بولۇش — پىشقان ئايال بولۇشتىكى  مۇھىم بىر ئۆتكەلمۇ؟ </a></td>
+  <td align="center" width="80">1</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/balilarbaghchisi/show.php?itemid=177" target="_blank">ئەقلىي قابىلىيەتمۇ ئىرسىي خاراكتېرلىك بولامدۇ؟</a></td>
+  <td align="center" width="80">1</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/balilarbaghchisi/show.php?itemid=176" target="_blank">[بالىلار ھېكايىسى]ئىھتىياچان ئوغلاق </a></td>
+  <td align="center" width="80">0</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/balilarbaghchisi/show.php?itemid=175" target="_blank">ئېزىپ قالغان ئالا ئاسلان </a></td>
+  <td align="center" width="80">0</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+
+
+    <tr>
+      <td align="left" colspan="3">
+<table cellpadding="0" cellspacing="0" width="100%" height="25" class="gray">
+  <tr>
+    <td width="80%" class="td_left">&nbsp;&nbsp;□ <a href="/biz/"><strong>بىز</strong></a>（ئومۇمى سانى : 324）</td>
+    <td class="td_right"><a href="/member/member.php?username=Bilqut_K&channelid=11">تېخمۇ كۆپ >></a>&nbsp;</td>
+  </tr>
+</table>
+
+</td>
+    </tr>
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/biz/show.php?itemid=329" target="_blank"> ئۇيغۇر ھېيت - ئايەم يېمەكلىكلىرى</a></td>
+  <td align="center" width="80">21</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/biz/show.php?itemid=328" target="_blank"> ئۇيغۇر دولان مەشرىپى ۋە دولان ئۇسسۇلى</a></td>
+  <td align="center" width="80">22</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/biz/show.php?itemid=327" target="_blank">ئۇيغۇرلارنىڭ ئۆي سايمانلىرى</a></td>
+  <td align="center" width="80">15</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/biz/show.php?itemid=326" target="_blank">ئۇيغۇر دېھقانچىلىق ئىشلەپقىرىش مۇراسىملىرى</a></td>
+  <td align="center" width="80">12</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/biz/show.php?itemid=325" target="_blank">ئۇيغۇر كىيىم - كېچەك ئالاھىدىلىكىرى</a></td>
+  <td align="center" width="80">34</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/biz/show.php?itemid=324" target="_blank">ئۇيغۇرلاردا تۇماقچىلىق</a></td>
+  <td align="center" width="80">13</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/biz/show.php?itemid=323" target="_blank">ئۇيغۇرلاردا جۇۋىچىلىق</a></td>
+  <td align="center" width="80">13</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/biz/show.php?itemid=322" target="_blank"> ئۇيغۇرلاردا پىلىچىلىك</a></td>
+  <td align="center" width="80">13</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/biz/show.php?itemid=321" target="_blank">ئۆرەغۇن (تىك غۇنقا)</a></td>
+  <td align="center" width="80">13</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/biz/show.php?itemid=320" target="_blank">قاندىن بولغان باش ئاغرىقى (سۇدائى دەمەۋى)</a></td>
+  <td align="center" width="80">56</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+
+
+    <tr>
+      <td align="left" colspan="3">
+<table cellpadding="0" cellspacing="0" width="100%" height="25" class="gray">
+  <tr>
+    <td width="80%" class="td_left">&nbsp;&nbsp;□ <a href="/Uginish/"><strong> ئۆگىنىش</strong></a>（ئومۇمى سانى : 360）</td>
+    <td class="td_right"><a href="/member/member.php?username=Bilqut_K&channelid=12">تېخمۇ كۆپ >></a>&nbsp;</td>
+  </tr>
+</table>
+
+</td>
+    </tr>
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Uginish/show.php?itemid=360" target="_blank"> راك كېسلنى داۋالىغان ئۇيغۇر</a></td>
+  <td align="center" width="80">45</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Uginish/show.php?itemid=359" target="_blank"> كىتاب دېڭىزى قانچىلىك چوڭ</a></td>
+  <td align="center" width="80">16</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Uginish/show.php?itemid=358" target="_blank">يىراققا سەكرەش</a></td>
+  <td align="center" width="80">22</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Uginish/show.php?itemid=357" target="_blank"> ئېگىزگە سەكرەش</a></td>
+  <td align="center" width="80">13</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Uginish/show.php?itemid=356" target="_blank"> ئېلېكتر ماگنىتلىق ئوچاق</a></td>
+  <td align="center" width="80">18</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Uginish/show.php?itemid=355" target="_blank"> ئېلېكتر كارتىلىق توك سائىتى</a></td>
+  <td align="center" width="80">16</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Uginish/show.php?itemid=354" target="_blank"> مەڭگۈ بىتەرەپ دۆلەت</a></td>
+  <td align="center" width="80">15</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Uginish/show.php?itemid=353" target="_blank">ئەڭ مەنپەئەتدار دۆلەت مۇئامىلىسى</a></td>
+  <td align="center" width="80">12</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Uginish/show.php?itemid=352" target="_blank">ئاكتىنومىتسېتلار</a></td>
+  <td align="center" width="80">10</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Uginish/show.php?itemid=351" target="_blank">ئازوتنى تۇراقلاشتۇرالايدىغان ھۈجەيرىلەر</a></td>
+  <td align="center" width="80">11</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+
+
+    <tr>
+      <td align="left" colspan="3">
+<table cellpadding="0" cellspacing="0" width="100%" height="25" class="gray">
+  <tr>
+    <td width="80%" class="td_left">&nbsp;&nbsp;□ <a href="/tenterbiye/"><strong>تەنتەربىيە</strong></a>（ئومۇمى سانى : 0）</td>
+    <td class="td_right"><a href="/member/member.php?username=Bilqut_K&channelid=30">تېخمۇ كۆپ >></a>&nbsp;</td>
+  </tr>
+</table>
+
+</td>
+    </tr>
+
+
+    <tr>
+      <td align="left" colspan="3">
+<table cellpadding="0" cellspacing="0" width="100%" height="25" class="gray">
+  <tr>
+    <td width="80%" class="td_left">&nbsp;&nbsp;□ <a href="/kompiyuter/"><strong>كومپيۇتېر</strong></a>（ئومۇمى سانى : 0）</td>
+    <td class="td_right"><a href="/member/member.php?username=Bilqut_K&channelid=15">تېخمۇ كۆپ >></a>&nbsp;</td>
+  </tr>
+</table>
+
+</td>
+    </tr>
+
+
+    <tr>
+      <td align="left" colspan="3">
+<table cellpadding="0" cellspacing="0" width="100%" height="25" class="gray">
+  <tr>
+    <td width="80%" class="td_left">&nbsp;&nbsp;□ <a href="/qanun_nizamlar/"><strong>قانۇن</strong></a>（ئومۇمى سانى : 28）</td>
+    <td class="td_right"><a href="/member/member.php?username=Bilqut_K&channelid=16">تېخمۇ كۆپ >></a>&nbsp;</td>
+  </tr>
+</table>
+
+</td>
+    </tr>
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/qanun_nizamlar/show.php?itemid=28" target="_blank"> جاسۇسلۇق جىنايىتى</a></td>
+  <td align="center" width="80">21</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/qanun_nizamlar/show.php?itemid=27" target="_blank"> ئاسىيلىق قىلىپ قېچىپ كېتىش جىنايىتى</a></td>
+  <td align="center" width="80">10</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/qanun_nizamlar/show.php?itemid=26" target="_blank">دۈشمەنگە تەسلىم بولۇپ ئاسىيلىق قىلىش جىنايىتى</a></td>
+  <td align="center" width="80">15</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/qanun_nizamlar/show.php?itemid=25" target="_blank"> دۆلەت ھاكىمىيىتىنى ئاغدۇرۇش جىنايىتى</a></td>
+  <td align="center" width="80">22</td>
+  <td align="center" width="100">2008-04-07</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/qanun_nizamlar/show.php?itemid=24" target="_blank"> دۆلەت مەخپىيەتلىكىنى ساقلاش قانۇنى</a></td>
+  <td align="center" width="80">20</td>
+  <td align="center" width="100">2008-04-03</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/qanun_nizamlar/show.php?itemid=23" target="_blank">ئاز سانلىق مىللەتلەر سايلىمى</a></td>
+  <td align="center" width="80">17</td>
+  <td align="center" width="100">2008-04-03</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/qanun_nizamlar/show.php?itemid=22" target="_blank">دۆلەتنى پارچىلاش جىنايىتى</a></td>
+  <td align="center" width="80">22</td>
+  <td align="center" width="100">2008-04-03</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/qanun_nizamlar/show.php?itemid=21" target="_blank">ئادۋوكاتلار قانۇنى</a></td>
+  <td align="center" width="80">58</td>
+  <td align="center" width="100">2008-02-06</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/qanun_nizamlar/show.php?itemid=20" target="_blank">كەنت ئاھالە كومىتېتىنىڭ تەشكىلىي قانۇنى</a></td>
+  <td align="center" width="80">39</td>
+  <td align="center" width="100">2008-02-06</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/qanun_nizamlar/show.php?itemid=19" target="_blank">ئامانلىق باشقۇرۇش جازا قانۇنى</a></td>
+  <td align="center" width="80">110</td>
+  <td align="center" width="100">2008-02-06</td>
+</tr>
+
+
+
+    <tr>
+      <td align="left" colspan="3">
+<table cellpadding="0" cellspacing="0" width="100%" height="25" class="gray">
+  <tr>
+    <td width="80%" class="td_left">&nbsp;&nbsp;□ <a href="/maarip/"><strong>مائارىپ</strong></a>（ئومۇمى سانى : 109）</td>
+    <td class="td_right"><a href="/member/member.php?username=Bilqut_K&channelid=28">تېخمۇ كۆپ >></a>&nbsp;</td>
+  </tr>
+</table>
+
+</td>
+    </tr>
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/maarip/article_109.php" target="_blank"> مەكىت ناھىيىلىك 1 - باشلانغۇچ مەكتەپ</a></td>
+  <td align="center" width="80">35</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/maarip/article_108.php" target="_blank">بۆرتالا شەھەرلىك 1 - باشلانغۇچ مەكتەپ</a></td>
+  <td align="center" width="80">11</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/maarip/article_107.php" target="_blank"> شىنجاڭ سەنئەت ئىنستىتۇتى</a></td>
+  <td align="center" width="80">23</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/maarip/article_106.php" target="_blank">شىنجاڭ مالىيە ئىقتىساد ئىنستىتۇتى</a></td>
+  <td align="center" width="80">11</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/maarip/article_105.php" target="_blank">ئۈرۈمچى شەھەرلىك 6 - ئوتتۇرا مەكتەپ</a></td>
+  <td align="center" width="80">28</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/maarip/article_104.php" target="_blank"> ئۈرۈمچى شەھەرلىك 1 - ئوتتۇرا مەكتەپ</a></td>
+  <td align="center" width="80">24</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/maarip/article_103.php" target="_blank">سانجى پېداگوگىكا ئالىي تېخنىكومى ئىلمىي ژۇرنىلى</a></td>
+  <td align="center" width="80">10</td>
+  <td align="center" width="100">2008-04-07</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/maarip/article_102.php" target="_blank"> شىنجاڭ سانائەت ئىنستىتۇتى</a></td>
+  <td align="center" width="80">14</td>
+  <td align="center" width="100">2008-04-07</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/maarip/article_101.php" target="_blank"> شىنجاڭ تەجرىبە ئوتتۇرا مەكتەپ</a></td>
+  <td align="center" width="80">28</td>
+  <td align="center" width="100">2008-04-07</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/maarip/article_100.php" target="_blank"> شىخەنزە شەھەرلىك 1 - باشلانغۇچ مەكتەپ</a></td>
+  <td align="center" width="80">23</td>
+  <td align="center" width="100">2008-04-07</td>
+</tr>
+
+
+
+    <tr>
+      <td align="left" colspan="3">
+<table cellpadding="0" cellspacing="0" width="100%" height="25" class="gray">
+  <tr>
+    <td width="80%" class="td_left">&nbsp;&nbsp;□ <a href="/Hizmet_Uchuri/"><strong>ئۇچۇر</strong></a>（ئومۇمى سانى : 8）</td>
+    <td class="td_right"><a href="/member/member.php?username=Bilqut_K&channelid=27">تېخمۇ كۆپ >></a>&nbsp;</td>
+  </tr>
+</table>
+
+</td>
+    </tr>
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Hizmet_Uchuri/info_11.php" target="_blank">ئۆي ئىجارىگە بېرەمسىز؟</a></td>
+  <td align="center" width="80">21</td>
+  <td align="center" width="100">2008-03-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Hizmet_Uchuri/info_10.php" target="_blank">ئۆي ئىجارىگە بېرىش ئېلانى</a></td>
+  <td align="center" width="80">45</td>
+  <td align="center" width="100">2008-03-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Hizmet_Uchuri/info_9.php" target="_blank">كاررېفور تاللا بازىرىغا بىر نەپەر ئىشخانا خادىمى قوبۇل قىلىنىدۇ !</a></td>
+  <td align="center" width="80">55</td>
+  <td align="center" width="100">2008-03-07</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Hizmet_Uchuri/info_8.php" target="_blank">ئۆي ئىجارىگە بېرىلىدۇ  </a></td>
+  <td align="center" width="80">30</td>
+  <td align="center" width="100">2008-03-06</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Hizmet_Uchuri/info_7.php" target="_blank">تېرەك كۆچىتى سىتىلىدۇ </a></td>
+  <td align="center" width="80">24</td>
+  <td align="center" width="100">2008-03-06</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Hizmet_Uchuri/info_6.php" target="_blank">سۇلماس ئېلىكتىرون پەن - تېخنىكا چەكلىك شىركىتى ئىشچى خىزمەتچى قوبۇل قىلىش ئىلانى</a></td>
+  <td align="center" width="80">42</td>
+  <td align="center" width="100">2008-03-04</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Hizmet_Uchuri/info_5.php" target="_blank">پىركازچىك،تىجارەت بۈلىمىگەمەسئۇل، كاتىپ،بۇغالتېر قوبۇل قىلىش ئېلانى</a></td>
+  <td align="center" width="80">28</td>
+  <td align="center" width="100">2008-03-04</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Hizmet_Uchuri/info_4.php" target="_blank">يىمەك - ئىچمەك جەمئىيتىگە خىزمەتچى قوبۇل قىلىدۇ </a></td>
+  <td align="center" width="80">40</td>
+  <td align="center" width="100">2008-02-28</td>
+</tr>
+
+
+
+    <tr>
+      <td align="left" colspan="3">
+<table cellpadding="0" cellspacing="0" width="100%" height="25" class="gray">
+  <tr>
+    <td width="80%" class="td_left">&nbsp;&nbsp;□ <a href="/aptonomrayonimiz/"><strong>يۇرتىمىز</strong></a>（ئومۇمى سانى : 44）</td>
+    <td class="td_right"><a href="/member/member.php?username=Bilqut_K&channelid=14">تېخمۇ كۆپ >></a>&nbsp;</td>
+  </tr>
+</table>
+
+</td>
+    </tr>
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/aptonomrayonimiz/article_142.php" target="_blank"> كۈنەس ناھىيىسى</a></td>
+  <td align="center" width="80">14</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/aptonomrayonimiz/article_141.php" target="_blank">چاقىلىق ناھىيىسى</a></td>
+  <td align="center" width="80">11</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/aptonomrayonimiz/article_140.php" target="_blank">شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك ئىككىنچى شىسى</a></td>
+  <td align="center" width="80">7</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/aptonomrayonimiz/article_139.php" target="_blank"> شىنجاڭ ئىشلەپچىقىرش - قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك بىرىنچى شىسى</a></td>
+  <td align="center" width="80">5</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/aptonomrayonimiz/article_138.php" target="_blank">تۇرپان شەھىرى</a></td>
+  <td align="center" width="80">19</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/aptonomrayonimiz/article_137.php" target="_blank"> قۇمۇل شەھىرى</a></td>
+  <td align="center" width="80">11</td>
+  <td align="center" width="100">2008-04-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/aptonomrayonimiz/article_136.php" target="_blank">قەشقەر ۋىلايىتى</a></td>
+  <td align="center" width="80">32</td>
+  <td align="center" width="100">2008-04-07</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/aptonomrayonimiz/article_135.php" target="_blank">غۇلجا ناھىيىسى</a></td>
+  <td align="center" width="80">11</td>
+  <td align="center" width="100">2008-04-07</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/aptonomrayonimiz/article_134.php" target="_blank"> غۇلجا شەھىرى</a></td>
+  <td align="center" width="80">12</td>
+  <td align="center" width="100">2008-04-07</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/aptonomrayonimiz/article_108.php" target="_blank"> شىنجاڭ ئىشلەپچىقىرىش - قۇرۇلۇش بىڭتۇەنى</a></td>
+  <td align="center" width="80">11</td>
+  <td align="center" width="100">2008-02-06</td>
+</tr>
+
+
+
+    <tr>
+      <td align="left" colspan="3">
+<table cellpadding="0" cellspacing="0" width="100%" height="25" class="gray">
+  <tr>
+    <td width="80%" class="td_left">&nbsp;&nbsp;□ <a href="/kitab/"><strong>كىتاب</strong></a>（ئومۇمى سانى : 0）</td>
+    <td class="td_right"><a href="/member/member.php?username=Bilqut_K&channelid=19">تېخمۇ كۆپ >></a>&nbsp;</td>
+  </tr>
+</table>
+
+</td>
+    </tr>
+
+
+    <tr>
+      <td align="left" colspan="3">
+<table cellpadding="0" cellspacing="0" width="100%" height="25" class="gray">
+  <tr>
+    <td width="80%" class="td_left">&nbsp;&nbsp;□ <a href="/News/"><strong>خەۋەر</strong></a>（ئومۇمى سانى : 28）</td>
+    <td class="td_right"><a href="/member/member.php?username=Bilqut_K&channelid=21">تېخمۇ كۆپ >></a>&nbsp;</td>
+  </tr>
+</table>
+
+</td>
+    </tr>
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/News/article_28.php" target="_blank">سەنشىيا بوغۇزى گۇيجۇ بازىرىدىكى پارتلاش</a></td>
+  <td align="center" width="80">112</td>
+  <td align="center" width="100">2008-04-26</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/News/article_27.php" target="_blank">پەن جىۋىن  : ئاللاھ  پارتىيىسى  30 مىڭ پاي  راكېتا تەييارلاپتۇ ، دېدى </a></td>
+  <td align="center" width="80">202</td>
+  <td align="center" width="100">2008-03-06</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/News/article_26.php" target="_blank">ئېكۋاتور ۋە ۋېنېسۇئېلا كولۇمبىيىدىن دىپلوماتىك  مۇناسىۋىتىنى ئۈزدى </a></td>
+  <td align="center" width="80">25</td>
+  <td align="center" width="100">2008-03-06</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/News/article_25.php" target="_blank">بۇش  « خاماس »  ھۆكۈمىتىنى ئاغدۇرۇش پىلانىنى تەستىقلىغانىكەن </a></td>
+  <td align="center" width="80">58</td>
+  <td align="center" width="100">2008-03-06</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/News/article_24.php" target="_blank">ھىلارى بىلەن ئوباما  تىخ  ئۇچىنى  جۇڭگوغا  قاراتتى </a></td>
+  <td align="center" width="80">126</td>
+  <td align="center" width="100">2008-03-06</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/News/article_23.php" target="_blank">نىپالنىڭ  11 ياشلىق  ئايال  گىگنى  ئىستىپا بەردى</a></td>
+  <td align="center" width="80">103</td>
+  <td align="center" width="100">2008-03-06</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/News/article_22.php" target="_blank">تۈركىيە  ئىككى  توننىچە  زەھەرنى قولغا  چۈشۈردى </a></td>
+  <td align="center" width="80">54</td>
+  <td align="center" width="100">2008-03-06</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/News/article_21.php" target="_blank">« مېھىر - شەپقەت پادىشاھ »  غا ۋارىس چىقمىدى </a></td>
+  <td align="center" width="80">40</td>
+  <td align="center" width="100">2008-03-06</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/News/article_20.php" target="_blank">بالىلار 11  يېشىدىلا بالىلىق دەۋرىدىن خوشلىشىدىكەن </a></td>
+  <td align="center" width="80">95</td>
+  <td align="center" width="100">2008-03-06</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/News/article_19.php" target="_blank">خەۋەپسىزلىك كېڭىشى ئىراننى جازالاش  سالمىقىنى  زورايتتى </a></td>
+  <td align="center" width="80">56</td>
+  <td align="center" width="100">2008-03-06</td>
+</tr>
+
+
+
+    <tr>
+      <td align="left" colspan="3">
+<table cellpadding="0" cellspacing="0" width="100%" height="25" class="gray">
+  <tr>
+    <td width="80%" class="td_left">&nbsp;&nbsp;□ <a href="/Kino/"><strong>كىنولار</strong></a>（ئومۇمى سانى : 49）</td>
+    <td class="td_right"><a href="/member/member.php?username=Bilqut_K&channelid=18">تېخمۇ كۆپ >></a>&nbsp;</td>
+  </tr>
+</table>
+
+</td>
+    </tr>
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Kino/movie_60.php" target="_blank">ساھىبجامالنىڭ ئۆلىمى (2)</a></td>
+  <td align="center" width="80">179</td>
+  <td align="center" width="100">2008-02-12</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Kino/movie_59.php" target="_blank">ساھىبجامالنىڭ ئۆلىمى (1)</a></td>
+  <td align="center" width="80">208</td>
+  <td align="center" width="100">2008-02-12</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Kino/movie_58.php" target="_blank">نەسىردىن ئەپەندى (4)</a></td>
+  <td align="center" width="80">189</td>
+  <td align="center" width="100">2008-02-12</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Kino/movie_57.php" target="_blank">نەسىردىن ئەپەندى (3)</a></td>
+  <td align="center" width="80">179</td>
+  <td align="center" width="100">2008-02-12</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Kino/movie_56.php" target="_blank">مەمەت ھەققىدە پاراڭ (2)</a></td>
+  <td align="center" width="80">160</td>
+  <td align="center" width="100">2008-02-12</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Kino/movie_55.php" target="_blank">مەمەت ھەققىدە پاراڭ</a></td>
+  <td align="center" width="80">150</td>
+  <td align="center" width="100">2008-02-12</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Kino/movie_54.php" target="_blank">موللا زەيدىن (2)</a></td>
+  <td align="center" width="80">138</td>
+  <td align="center" width="100">2008-02-12</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Kino/movie_53.php" target="_blank">موللا زەيدىن (1)</a></td>
+  <td align="center" width="80">145</td>
+  <td align="center" width="100">2008-02-12</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Kino/movie_52.php" target="_blank">داپ (2)</a></td>
+  <td align="center" width="80">138</td>
+  <td align="center" width="100">2008-02-12</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/Kino/movie_51.php" target="_blank">داپ (1)</a></td>
+  <td align="center" width="80">153</td>
+  <td align="center" width="100">2008-02-12</td>
+</tr>
+
+
+
+    <tr>
+      <td align="left" colspan="3">
+<table cellpadding="0" cellspacing="0" width="100%" height="25" class="gray">
+  <tr>
+    <td width="80%" class="td_left">&nbsp;&nbsp;□ <a href="/photo/"><strong>رەسىملەر</strong></a>（ئومۇمى سانى : 22）</td>
+    <td class="td_right"><a href="/member/member.php?username=Bilqut_K&channelid=20">تېخمۇ كۆپ >></a>&nbsp;</td>
+  </tr>
+</table>
+
+</td>
+    </tr>
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/photo/picture_32.php" target="_blank">دېڭىزئاستى </a></td>
+  <td align="center" width="80">492</td>
+  <td align="center" width="100">2008-02-21</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/photo/picture_31.php" target="_blank">دىڭىز ئاستى سۇ ھايۋانلىرى</a></td>
+  <td align="center" width="80">652</td>
+  <td align="center" width="100">2008-02-20</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/photo/picture_30.php" target="_blank">ئۇيغۇرلاردا توي </a></td>
+  <td align="center" width="80">1879</td>
+  <td align="center" width="100">2008-02-20</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/photo/picture_29.php" target="_blank">45 پارچە ئويۇن رەسىملىرى </a></td>
+  <td align="center" width="80">422</td>
+  <td align="center" width="100">2008-02-20</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/photo/picture_28.php" target="_blank">ئىسىل ماشىنىلارنىڭ رەسىمى 40 پارچە </a></td>
+  <td align="center" width="80">2566</td>
+  <td align="center" width="100">2008-02-20</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/photo/picture_27.php" target="_blank">ئۆسۈملۈكلەر 30 پارچە  </a></td>
+  <td align="center" width="80">1541</td>
+  <td align="center" width="100">2008-02-20</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/photo/picture_26.php" target="_blank">30 پارچە ئۇچار قانات رەسىم </a></td>
+  <td align="center" width="80">1260</td>
+  <td align="center" width="100">2008-02-20</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/photo/picture_25.php" target="_blank">20 پارچە كارتون</a></td>
+  <td align="center" width="80">768</td>
+  <td align="center" width="100">2008-02-20</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/photo/picture_24.php" target="_blank">كارتونلار </a></td>
+  <td align="center" width="80">739</td>
+  <td align="center" width="100">2008-02-20</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/photo/picture_23.php" target="_blank">كارتون رەسىملەر</a></td>
+  <td align="center" width="80">355</td>
+  <td align="center" width="100">2008-02-20</td>
+</tr>
+
+
+
+    <tr>
+      <td align="left" colspan="3">
+<table cellpadding="0" cellspacing="0" width="100%" height="25" class="gray">
+  <tr>
+    <td width="80%" class="td_left">&nbsp;&nbsp;□ <a href="/tarih/"><strong>تارىخ</strong></a>（ئومۇمى سانى : 0）</td>
+    <td class="td_right"><a href="/member/member.php?username=Bilqut_K&channelid=32">تېخمۇ كۆپ >></a>&nbsp;</td>
+  </tr>
+</table>
+
+</td>
+    </tr>
+
+
+    <tr>
+      <td align="left" colspan="3">
+<table cellpadding="0" cellspacing="0" width="100%" height="25" class="gray">
+  <tr>
+    <td width="80%" class="td_left">&nbsp;&nbsp;□ <a href="/awazliq/"><strong>ئاۋازلىق ئەسەرلەر </strong></a>（ئومۇمى سانى : 288）</td>
+    <td class="td_right"><a href="/member/member.php?username=Bilqut_K&channelid=38">تېخمۇ كۆپ >></a>&nbsp;</td>
+  </tr>
+</table>
+
+</td>
+    </tr>
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/awazliq/article_309.php" target="_blank">ھېكمەتلىك ساندۇق</a></td>
+  <td align="center" width="80">191</td>
+  <td align="center" width="100">2008-04-08</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/awazliq/article_308.php" target="_blank">گۇمانخور پادىشاھ</a></td>
+  <td align="center" width="80">101</td>
+  <td align="center" width="100">2008-04-08</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/awazliq/article_307.php" target="_blank">گاداي بىلەن شاھ</a></td>
+  <td align="center" width="80">66</td>
+  <td align="center" width="100">2008-04-08</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/awazliq/article_306.php" target="_blank">دمدەر ھەققىدە رېۋايەت</a></td>
+  <td align="center" width="80">59</td>
+  <td align="center" width="100">2008-04-08</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/awazliq/article_305.php" target="_blank">شەپەرەڭ ھەققىدە رېۋايەت</a></td>
+  <td align="center" width="80">49</td>
+  <td align="center" width="100">2008-04-08</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/awazliq/article_304.php" target="_blank">لاچىن توغرىسىدا رېۋايەت</a></td>
+  <td align="center" width="80">46</td>
+  <td align="center" width="100">2008-04-08</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/awazliq/article_303.php" target="_blank">ئەللىك توققۇزىنچى كېچە</a></td>
+  <td align="center" width="80">185</td>
+  <td align="center" width="100">2008-04-08</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/awazliq/article_302.php" target="_blank">ئەللىك سەككىزىنچى كېچە</a></td>
+  <td align="center" width="80">56</td>
+  <td align="center" width="100">2008-04-08</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/awazliq/Bilqut_301.php" target="_blank">لەگلەك</a></td>
+  <td align="center" width="80">66</td>
+  <td align="center" width="100">2008-04-08</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/awazliq/Bilqut_300.php" target="_blank">خىش بىلەن تام</a></td>
+  <td align="center" width="80">46</td>
+  <td align="center" width="100">2008-04-08</td>
+</tr>
+
+
+
+    <tr>
+      <td align="left" colspan="3">
+<table cellpadding="0" cellspacing="0" width="100%" height="25" class="gray">
+  <tr>
+    <td width="80%" class="td_left">&nbsp;&nbsp;□ <a href="/music/"><strong>ناخشىلار </strong></a>（ئومۇمى سانى : 355）</td>
+    <td class="td_right"><a href="/member/member.php?username=Bilqut_K&channelid=39">تېخمۇ كۆپ >></a>&nbsp;</td>
+  </tr>
+</table>
+
+</td>
+    </tr>
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/music/article_357.php" target="_blank">Allahindan-bul</a></td>
+  <td align="center" width="80">252</td>
+  <td align="center" width="100">2008-02-27</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/music/article_356.php" target="_blank">Aklim-karisti</a></td>
+  <td align="center" width="80">111</td>
+  <td align="center" width="100">2008-02-27</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/music/article_355.php" target="_blank">Ah-soygum</a></td>
+  <td align="center" width="80">48</td>
+  <td align="center" width="100">2008-02-27</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/music/article_354.php" target="_blank">Ahbeguz</a></td>
+  <td align="center" width="80">46</td>
+  <td align="center" width="100">2008-02-27</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/music/article_353.php" target="_blank">Agla</a></td>
+  <td align="center" width="80">40</td>
+  <td align="center" width="100">2008-02-27</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/music/article_352.php" target="_blank">Acilen</a></td>
+  <td align="center" width="80">35</td>
+  <td align="center" width="100">2008-02-27</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/music/article_351.php" target="_blank">Acele</a></td>
+  <td align="center" width="80">31</td>
+  <td align="center" width="100">2008-02-27</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/music/article_349.php" target="_blank">95 Tan sla</a></td>
+  <td align="center" width="80">35</td>
+  <td align="center" width="100">2008-02-27</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/music/article_348.php" target="_blank">40Derije</a></td>
+  <td align="center" width="80">20</td>
+  <td align="center" width="100">2008-02-27</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/music/article_347.php" target="_blank">Few Days Down</a></td>
+  <td align="center" width="80">28</td>
+  <td align="center" width="100">2008-02-27</td>
+</tr>
+
+
+
+    <tr>
+      <td align="left" colspan="3">
+<table cellpadding="0" cellspacing="0" width="100%" height="25" class="gray">
+  <tr>
+    <td width="80%" class="td_left">&nbsp;&nbsp;□ <a href="/game/"><strong>ئويۇن</strong></a>（ئومۇمى سانى : 39）</td>
+    <td class="td_right"><a href="/member/member.php?username=Bilqut_K&channelid=40">تېخمۇ كۆپ >></a>&nbsp;</td>
+  </tr>
+</table>
+
+</td>
+    </tr>
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/game/article_44.php" target="_blank">بۇلۇت بالا</a></td>
+  <td align="center" width="80">58</td>
+  <td align="center" width="100">2008-04-27</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/game/article_43.php" target="_blank">بىر قويىمەن</a></td>
+  <td align="center" width="80">46</td>
+  <td align="center" width="100">2008-04-27</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/game/article_42.php" target="_blank">بايراق تۇتاشتۇرۇش</a></td>
+  <td align="center" width="80">58</td>
+  <td align="center" width="100">2008-04-27</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/game/article_41.php" target="_blank">ئايرىپىلان ئۇچۇشى</a></td>
+  <td align="center" width="80">62</td>
+  <td align="center" width="100">2008-04-27</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/game/article_40.php" target="_blank">توخۇ ئېتىش</a></td>
+  <td align="center" width="80">249</td>
+  <td align="center" width="100">2008-02-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/game/article_39.php" target="_blank">قاتىل</a></td>
+  <td align="center" width="80">199</td>
+  <td align="center" width="100">2008-02-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/game/article_38.php" target="_blank">نىمجان ئويۇنى </a></td>
+  <td align="center" width="80">127</td>
+  <td align="center" width="100">2008-02-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/game/article_37.php" target="_blank">خاككىر ئىمپىرىيىسى </a></td>
+  <td align="center" width="80">153</td>
+  <td align="center" width="100">2008-02-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/game/article_36.php" target="_blank">بۇنى ئوينىيالارسىزمۇ ؟</a></td>
+  <td align="center" width="80">228</td>
+  <td align="center" width="100">2008-02-13</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/game/article_35.php" target="_blank">خەتەرلىك ساياھەت </a></td>
+  <td align="center" width="80">136</td>
+  <td align="center" width="100">2008-02-13</td>
+</tr>
+
+
+
+    <tr>
+      <td align="left" colspan="3">
+<table cellpadding="0" cellspacing="0" width="100%" height="25" class="gray">
+  <tr>
+    <td width="80%" class="td_left">&nbsp;&nbsp;□ <a href="/etotlar/"><strong>ئېتوتلار</strong></a>（ئومۇمى سانى : 10）</td>
+    <td class="td_right"><a href="/member/member.php?username=Bilqut_K&channelid=41">تېخمۇ كۆپ >></a>&nbsp;</td>
+  </tr>
+</table>
+
+</td>
+    </tr>
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/etotlar/article_24.php" target="_blank">خاتا ئۇرۇلغان تېلىفون </a></td>
+  <td align="center" width="80">223</td>
+  <td align="center" width="100">2008-03-07</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/etotlar/article_25.php" target="_blank">تۇماق سىتىش </a></td>
+  <td align="center" width="80">124</td>
+  <td align="center" width="100">2008-03-07</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/etotlar/article_26.php" target="_blank">يالغانچىنىڭ قۇيرىقى بىر تۇتام </a></td>
+  <td align="center" width="80">165</td>
+  <td align="center" width="100">2008-03-07</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/etotlar/article_21.php" target="_blank">خوتۇنىڭىز بولماي كىم </a></td>
+  <td align="center" width="80">379</td>
+  <td align="center" width="100">2008-02-28</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/etotlar/article_22.php" target="_blank">ئۇزۇتۇش </a></td>
+  <td align="center" width="80">195</td>
+  <td align="center" width="100">2008-02-28</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/etotlar/article_23.php" target="_blank">دوختۇرغا كۆرىنىش </a></td>
+  <td align="center" width="80">181</td>
+  <td align="center" width="100">2008-02-28</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/etotlar/article_20.php" target="_blank">چىرايلىقمىكەن </a></td>
+  <td align="center" width="80">286</td>
+  <td align="center" width="100">2008-02-28</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/etotlar/article_19.php" target="_blank">مەس بولۇپ قالغاندا </a></td>
+  <td align="center" width="80">197</td>
+  <td align="center" width="100">2008-02-28</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/etotlar/article_18.php" target="_blank">باھانە </a></td>
+  <td align="center" width="80">138</td>
+  <td align="center" width="100">2008-02-28</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/etotlar/article_17.php" target="_blank">ھىسامكام بىلەم ئابدۇكىرەم ئابلىز غولجىدا </a></td>
+  <td align="center" width="80">386</td>
+  <td align="center" width="100">2008-02-25</td>
+</tr>
+
+
+
+    <tr>
+      <td align="left" colspan="3">
+<table cellpadding="0" cellspacing="0" width="100%" height="25" class="gray">
+  <tr>
+    <td width="80%" class="td_left">&nbsp;&nbsp;□ <a href="/MTV/"><strong>MTV</strong></a>（ئومۇمى سانى : 59）</td>
+    <td class="td_right"><a href="/member/member.php?username=Bilqut_K&channelid=42">تېخمۇ كۆپ >></a>&nbsp;</td>
+  </tr>
+</table>
+
+</td>
+    </tr>
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/MTV/show.php?itemid=62" target="_blank">چەتئەلچە11</a></td>
+  <td align="center" width="80">123</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/MTV/show.php?itemid=61" target="_blank">چەتئەلچە10</a></td>
+  <td align="center" width="80">123</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/MTV/show.php?itemid=60" target="_blank">چەتئەلچە09</a></td>
+  <td align="center" width="80">123</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/MTV/show.php?itemid=59" target="_blank">چەتئەلچە 08</a></td>
+  <td align="center" width="80">123</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/MTV/show.php?itemid=58" target="_blank">چەتئەلچە 07</a></td>
+  <td align="center" width="80">123</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/MTV/show.php?itemid=57" target="_blank">چەتئەلچە 06</a></td>
+  <td align="center" width="80">123</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/MTV/show.php?itemid=56" target="_blank">چەتئەلچە 05</a></td>
+  <td align="center" width="80">123</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/MTV/show.php?itemid=55" target="_blank">چەتئەلچە 04</a></td>
+  <td align="center" width="80">123</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/MTV/show.php?itemid=54" target="_blank">چەتئەلچە 03</a></td>
+  <td align="center" width="80">123</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+<tr onmouseout="this.style.backgroundColor='#ffffff'" onmouseover="this.style.backgroundColor='#EBF6FB'" bgColor="#ffffff">
+  <td>·<a href="/MTV/show.php?itemid=53" target="_blank">چەتئەلچە 02</a></td>
+  <td align="center" width="80">123</td>
+  <td align="center" width="100">2008-05-25</td>
+</tr>
+
+
+
+
+  </table>
+</form>
+</div></div>
+</td>
+</tr>
+</table>
+
+﻿
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<div align="center">
+<table border="0" width="960" id="table23" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" style="font-family: Ukij Tuz Tom; font-size: 12px; color: #005CA1">
+<div align="center">
+<table border="0" width="970" id="table24" cellspacing="1" bgcolor="#f2f9ff" style="border: 1px solid #D7F1FB" dir="rtl">
+<tr>
+<td align="center" colspan="3" style="font-family: Ukij Tuz Tom; font-size: 12px; color: #005CA1">
+<table border="1" width="90%" id="table25" cellspacing="3" style="border-collapse: collapse" bgcolor="#D7F1FB" bordercolor="#A6D8FF" cellpadding="0" dir="ltr">
+<tr>
+<td align="center" width="110" style="font-family: Ukij Tuz Tom; font-size: 12px; color: #005CA1"><span style="font-size: 11pt" lang="ar-sa">
+<a href="#" style="text-decoration: none; font-family:Ukij Tuz Tom; font-size:12px"><font color="#005CA1">
+قوشۇۋېلىڭ</font></a></span></td>
+<td align="center" width="110" style="font-family: Ukij Tuz Tom; font-size: 12px; color: #005CA1"><span style="font-size: 11pt" lang="ar-sa">
+<font color="#005CA1">بېكىتىمىز بوپتىمۇ </font> 
+</span> </td>
+<td align="center" width="110" style="font-family: Ukij Tuz Tom; font-size: 12px; color: #005CA1"><span style="font-size: 11pt" lang="ar-sa">
+<a href="#" style="text-decoration: none; font-family:Ukij Tuz Tom; font-size:12px">
+<font color="#005CA1">ھەممە ئاڭلىسۇنمۇ</font></a></span></td>
+<td align="center" width="110" style="font-family: Ukij Tuz Tom; font-size: 12px; color: #005CA1"><span style="font-size: 11pt" lang="ar-sa">
+<a href="#" style="text-decoration: none; font-family:Ukij Tuz Tom; font-size:12px"><font color="#005CA1">
+بۇغداي سۆزىمىز بار</font></a></span></td>
+<td align="center" width="110" style="font-family: Ukij Tuz Tom; font-size: 12px; color: #005CA1"><span style="font-size: 11pt" lang="ar-sa">
+<a href="#" style="text-decoration: none; font-family:Ukij Tuz Tom; font-size:12px"><font color="#005CA1">
+يالغۇزلا ماڭامسىز</font></a></span></td>
+<td align="center" width="110" style="font-family: Ukij Tuz Tom; font-size: 12px; color: #005CA1"><span style="font-size: 11pt" lang="ar-sa">
+<font color="#005CA1">ئالاقىلىشامسىز</font></span></td>
+<td align="center" width="110" style="font-family: Ukij Tuz Tom; font-size: 12px; color: #005CA1"><span style="font-size: 11pt" lang="ar-sa">
+<a href="#" style="text-decoration: none; font-family:Ukij Tuz Tom; font-size:12px"><font color="#005CA1">
+شىركىتىمىزگە قاراڭ</font></a></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="102" align="right" style="font-family: Ukij Tuz Tom; font-size: 12px; color: #005CA1">&nbsp;</td>
+<td align="center" style="font-family: Ukij Tuz Tom; font-size: 12px; color: #005CA1"><span style="font-size: 11pt">
+            	<font color="#005CA1">
+            <span lang="ar-sa">بارلىق ھوقۇق&nbsp; شىنجاڭ ‹‹بىلقۇت›› ئېلېكترون 
+پەن- تېخنىكا تەرەققىيات چەكىلىك شىركىتگە تەۋە</span>&nbsp;</font></td>
+<td width="102" align="left" style="font-family: Ukij Tuz Tom; font-size: 12px; color: #005CA1">&nbsp;</td>
+</tr>
+<tr>
+<td width="102" rowspan="4" dir="rtl" style="font-family: Ukij Tuz Tom; font-size: 12px; color: #005CA1">
+<span style="font-size: 11pt">
+<img border="0" src="/images/boot_02.gif" width="100" height="102" align="left"></td>
+<td align="center" style="font-family: Ukij Tuz Tom; font-size: 12px; color: #005CA1"><font color="#005CA1" size="3">
+新 疆 碧 黎 库 特 电 子 科 技 开 发 有 限 公 司</font></td>
+<td width="102" rowspan="4" dir="ltr" style="font-family: Ukij Tuz Tom; font-size: 12px; color: #005CA1">
+<span style="font-size: 11pt">
+<img border="0" src="/images/boot_01.gif" width="100" height="102" align="left"></td>
+</tr>
+<tr>
+<td align="center" style="font-family: Ukij Tuz Tom; font-size: 12px; color: #005CA1">
+<p dir="ltr">
+<span style="font-size: 11pt">
+<font color="#005CA1">
+QQ:&nbsp; 502410794(Bilqut)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+250092392<span lang="zh-cn">(Raziman</span>)</font></td>
+</tr>
+<tr>
+<td align="center" style="font-family: Ukij Tuz Tom; font-size: 12px; color: #005CA1">
+<span style="font-size: 11pt">
+<font color="#005CA1">
+新ICP备07002316</font></td>
+</tr>
+<tr>
+<td align="center" style="font-family: Ukij Tuz Tom; font-size: 12px; color: #005CA1">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" colspan="3" height="30" bgcolor="#16387C" style="font-family: Ukij Tuz Tom; font-size: 12px; color: #005CA1"><script language="javascript" src="https://count32.51yes.com/click.aspx?id=320168560&logo=1"></script>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+
+
+<script type="text/javascript" src="/include/js/Std_StranJF.Js"></script>
+</body>
+</html>

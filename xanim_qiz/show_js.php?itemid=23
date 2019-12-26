@@ -1,0 +1,3 @@
+﻿try {setidval('hits','2810');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/xanim_qiz/show.php?itemid=1">ئەقىللىق قىز بولاي دېسىڭىز</a></li><li>  كىيىنكىسى  :  <a href="/xanim_qiz/show.php?itemid=24">مۇھةببةتلصشصشنصڭ مۇۋاپصق پةسلص</a></li>');}catch(e){}

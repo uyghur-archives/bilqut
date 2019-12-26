@@ -1,0 +1,306 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ئىلى ۋىلايىتى-مەدەنىيىتىمىز-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,مەدەنىيىتىمىز">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/madiniytimiz/" class="red"> مەدەنىيىتىمىز</a>
+         | <a class="razimantur" href="/madiniytimiz/list.php?catid=71" >شەھەرلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=72" >ناھىيىلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=73" >ئوبلاستلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=74" >ۋىلايەتلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=75" >رېۋايەتلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=76" >تەمسىللىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=77" >ئۆلچەملىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=78" >چۆچەكلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=79" >سەنئەتكارىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=81" >تىل-يېزىقىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=82" >ئەپسانىلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=83" >مەسەللىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=84" >تائاملىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=85" >شەخسلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=86" >ئويۇنلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=88" > چالغۇلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=89" > ھۈنەرلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=90" > يوسۇنلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=91" > تارىخمىز  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/madiniytimiz/">مەدەنىيىتىمىز</a> >> <a href="/madiniytimiz/list.php?catid=74">ۋىلايەتلىرىمىز </a> >>  ئىلى ۋىلايىتى</div>
+<!--主标题--><h1>ئىلى ۋىلايىتى </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2008-01-19 11:17:18&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">195</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">
+&nbsp; 
+&nbsp; ئىلى ۋىلايىتى ئاپتونوم رايونىمىزنىڭ غەربىيى قىسىمىغا جايلاشقان. شەرقىي جەنۇبىي قىسمى ۋىلايىتى، بايىغۇلىن موڭغۇل ئاپتونوم ئوبلاستى بىلەن، شىمالىي قىسمى بورتالا موڭغۇل ئوبلاستى ۋە تارباغاتاي ۋىلايىتى بىلەن تۇتىشىدۇ، غەربىي قىسمى قازاقىستان بىلەن چېگرىلىنىدۇ (چېگرا سىزىقىنىڭ ئۇزۇنلۇقى 432 كىلومېتىر). شەرقىدن غەربىگىچە بولغان ئۇزۇنلۇقى 350 كىلومېتىر، جەنۇبىدىن شىمالىغىچە بولغان كەڭلىكى 180 كىلومېتىر، ئومۇمىي يەر كۆلىمى 56 مىڭ 800 كۋادرات كىلومېتىر، ۋىلايەتكە بىر شەھەر، سەككىز ناھىيە (غۇلجا شەھىرى، غۇلجا ناھىيىسى، چاپچال شىبە ئاپتونوم ناھىيىسى، توققۇزتارا ناھىيىسى، كۈنەس ناھىيىسى، موڭغۇلكۈرە ناھىيىسى، تېكەس ناھىيىسى، نىلقا ناھىيىسى) قارايدۇ. تۇرۇشلۇق ئورۇنلاردىن شىنجاڭ ئىشلەپچىقىرىش قۇرۇلۇش بىڭتۇەنى يېزا ئىگىلىك 4 - شىسىنىڭ شتابى ۋە 19 يېزا ئىگىلىك - دېھقانچىلىق تۇەن - مەيدانلىرى بار. ۋىلايەتلىك مەمۇرىي مەھكىمە تۇرۇشلۇق ئورۇن غۇلجا شەھىرى بىلەن ئۈرۈمچى شەھىرىنىڭ ئارىلىقى 700 كىلومېتىر، 1995 - يىلىنىڭ ئاخىرىدىكى ئومۇمىي نوپۇسى بىر مىليون 965 مىڭ 800 بولۇپ، ئۇيغۇرلار% 26.8 نى، خەنزۇلار% 32.8 نى، قازاقلار% 23.1 ىنى، باشقا مىللەتلەر% 17.28 تەشكىل قىلىدۇ.
+&nbsp; ئىلى ۋىلايىتىگە قاراشلىق جايلار غەربىي ۋە شەرقىي خەن دەۋرلىرىدىن قىن دەۋرىگىچە ئۇيسۇن ۋە ھونلارنىڭ يېرى ئىدى. سۈي ۋە تاڭ دەۋرلىرىدە غەربىي تۈركلەرگە تەۋە بولۇپ، بېشبالىق قورۇقچى بەگ مەھكىمىسىگە قارىغان. مىڭ دەۋرىدە ئۇيراق موڭغۇللىرىنىڭ كۆچۈپ يۈرۈپ مال باقىدىغان يېرى بولغان. مىڭ دەۋرىدە ئۇيرات مۇڭغۇللىرىنىڭ كۆچۈپ يۈرۈپ مال باقىدىغان يېرى بولغان. چىڭ سۇلالىسى چىيەنلۇڭنىڭ 25 - يىلى (1760 - يىلى) ئىلىدا مەسلىھەت ۋەزىرى ۋە ئىش بېجىرىش ۋەزىرى تۇرۇغۇزۇلغان. چيەنلۇڭنىڭ 27 - يىلى (1762 - يىلى) ئىلى جياڭجۈنى تەيىنلەنگەن. ئۇ، كۈرەقەلئەسىدە تۇرغان. چىڭ سۇلالىسى گۇاڭشۈنىڭ 14 - يىلى (1888 - يىلى) ئىلى - تارباغاتاي دوتەيلىكى تەسىس قىلىنغان، ئىلى مەھكىمىسى قۇرۇلغان.&nbsp; مىنگونىڭ 6 - يىلى (1917 - يىلى) ئىلى - تارباغاتاي دوتەيلىكى ئايرىلىپ، ئىلى دوتەيلىكى قۇرۇلغان. مىنگونىڭ 01 - يىلى (1921 - يىلى) 2 - مەمۇرىي رايونغا ئۆزگەرتىلگەن. مىنگونىڭ 27 - يىلى (9381 - يىلى) ئىلى ۋىلايىتىگە ئۆزگەرتىلگەن. 5195 - يىلى ئىلى ۋىلايىتى ئەمەلدىن قالدۇرۇلۇپ، ئەسلىدە ئۇنىڭغا قاراشلىق ناھىيە - شەھەرلەر ئىلى قازاق ئاپتونوم ئوبلاستىغا بىۋاسىتە قارايدىغان بولغان. 1975 - يىلى ئىلى قازاق ئاپتونوم ئوبلاستىنىڭ ئورگىنى كۈيتۈن شەھىرىگە يۆتكىلىپ ئىلى ۋىلايىتى ئەسلىگە كەلتۈرۈلگەن. 1979 - يىلى قازاق ئاپتونوم ئوبلاستىنىڭ ئورگىنى شەھىرىگە قايتۇرۇپ كېلىنگەن ھەم ئىلى ۋىلايىتى ئەمەلدىن قالدۇرۇلغان. 1984 - يىلى ئىلى ۋىلايىتى ئەسلىگە كەلتۈرۈلگەن.
+&nbsp; ئىلى ۋىلايىتىنىڭ يەر شەكلىدىن قارىغاندا شەرقىي ئېگىز ھەم تار، غەربىي پەس ھەم كەڭ بولۇپ، تاغلىق جايلار% 68.54 نى، ئېدىرلىق 10.31% نى، تۈزلەڭلىك% 21.15 نى ئىگىلەيدۇ. ئاساسلىق دەريا - ئېقىنلاردىن ئىلى دەرياسى بىلەن ئۇنىڭ ئۈچ تارماق ئېقىنى بولغان تېكەس دەرياسى، كۈنەس دەرياسى ۋە قاش دەرياسى قاتارلىقلار بار. يەر ئۈستى سۇ بايلىقى 14 مىليارد 550 مىليون كۇب مېتىر، تۈزلەڭلىك رايونلىرىدىكى يەر ئاستى سۈيىدىن پايدىلىنىش مىقدارى 4 مىليارد&nbsp; 945 مىليون كۇب مېتىر، يىلپىز، شىمال ئۆچكىسى، تۆت پۇتلۇق قۇرۇقلۇق تاشپاقىسى، ئارقار، قارا تايغان بۇغا، قىزىل تۈلكە، ئۇلار، ئاققۇ قاتارلىق ياۋايى ھايۋانات بايلىقلىرى ۋە سوغىگۈل، چۈچۈك بۇيا، ھىڭ، قار لەيلىسى، چوغلۇق، كان مەھسۇلاتلىرى بايلىقىرىدىن كۆمۈر، ئالتۇن، تۆمۈر، مىس، ئۇران، ھاك تېشى، خرۇستال قاتارلىقلار بار.
+&nbsp; ئىلى ۋىلايىتىنىڭ ئىقلىمى ئايرىم - ئايرىم ھالدا، مۆتىدىل سوغۇق بەلۋاغنىڭ نەم كىلىمات ئىقلىمىغا، سوغۇق بەلۋاغنىڭ نەم كىلىمات ئىقلىمىغا ۋە مۆتىدىل بەلۋاغنىڭ مۆتىدىل قۇرغاق كىلىمات ئىقلىمىغا كىرىدۇ. يىللىق ئوتتۇرىچە تېمپېراتۇرىسى℃ 2.9 ～℃ 9.1، ئەڭ يۇقىرى تېمېپىراتۇرا℃ 40.2، ئەڭ تۆۋەن تېمپېراتۇرا -℃ 43.2. قۇياشنىڭ يىللىق ئوتتۇرىچە چۈشۈش ۋاقتى 2700 ～ 3000 سائەت، قىروسىز مەزگىلى&nbsp; 130 ～ 180 كۈن. يىللىق ئوتتۇرىچە ھۆل - يېغىن مىقدارى، دەريا ساھىلىدىكى تۈزلەڭلىك رايونلىرىنىڭ 200 ～ 300 مىللىمېتىر؛ دەريا ساھىللىرنىڭ تاغقا يېقىن جايلىرى، ئوتتۇرا تاغلىق رايونلار ۋە ئوچۇق ئويمانلىقلارنىڭ 350 ～ 800 مىلىمېتىر؛ سۇنىڭ يىللىق ئوتتۇرىچە پارغا ئايلىنىش مىقدارى 1260 ～ 0190 مىللىمېتىر.
+&nbsp; ئىلى ۋىلايىتىنىڭ دېھقانچىلىق ھەم چارۋىچىلىقى بىر قەدەر تەرەققىي قىلغان بولۇپ، ھازىر 286 مىڭ 900 گېكتار (4 مىليون 303 مىڭ 200 مو) تېرىلغۇ يەر، 407 مىڭ 300 گېكتار (6 مىليون 110 مىڭ مو) ئورمانلىق، 3 مىليون 419 مىڭ 300 گېكتار (51 مىليون 290 مىڭ مو) يايلاق بار. يەنە 4 مىليون 900 مىڭ گېكتار (73 مىليون 500 مىڭ مو) بوز يەر بار. ئاساسىق يېزا ئىگىلىك مەھسۇلاتلىرىدىن بۇغداي، كۆممىقوناق، مايلىقدان، قىزىلچا، زىغىر، مېۋە - چېۋە، كۆكتات قاتارلىقلار بار. زىغىر، تاماكا، ئالما قاتارلىقلار ئالاھىدە مەھسۇلات ھېسابلىنىدۇ. چارۋىچىلىقى ئوتلاق چارۋىچىلىقىنى ئاساس قىلغان بولۇپ، قوي، كالا، ئات قاتارلىق چارۋىلار بېقىلىدۇ. بۇلاردىن ئىلى ئېتى، شىنجاڭ ئىنچىكە يۇڭلۇق قويى بىر قەدەر داڭلىق. يۇڭ توقۇمچىلىق، خۇرۇمچىلىق، كەندىر توقۇمىچىلىق، ھاراق ئېچىتىش، كۆمۈركان، ئېلېكتر ئېنېرگىيە، قۇرۇلۇش ماتېرىياللىرى، شېكەر ئىشلەش، ئاشلىق، ماي پىششىقلاپ ئىشلەش قاتارلىق سانائەت تۈرلىرى بار.
+&nbsp; ئىلى ۋىلايىتىنىڭ ئاساسىي مۇئەسسەسەلىرى تەدرىجىي مۇكەممەللەشمەكتە. دۆلەت يولىنىڭ 231 -، 218 - لىنىيىلىرى ۋىلايەتنى كېسىپ ئۆتىدۇ، ناھىيە، يېزىلاردىكى يوللار تەرەپ - تەرەپكە تۇتىشىپ كەتكەن. غۇلجا شەھىرىدە يەنە قەرەللىك ھالدا بىۋاسىتە ئالمائاتاغا بارىدىغان خەلقئارالىق&nbsp; يولۇچىلار ئاپتوموبىلى بار. غۇلجا ئايرودرومىغا ئوتتۇرا تىپتىن يۇقىرى ئايروپىلان قونالايدۇ، ھەر كۈنى ئۈرۈمچىگە ئۇچىدىغان ئايروپىلان بار. ئاسىيا، ياۋروپا نۇر كابىلىنىڭ ئۈرۈمچى - ئىلى بۆلىكى ئىشلىتىشكە كىرىشتۈرۈلدى، شەھەر، ناھىيىلەردىكى تېلېاونلار پۈتۈن مەملىكەت تورىغا كىرگۈزۈلگەن بولۇپ، پروگراممىلىق تېلېفون 67 مىڭ توچكىغا يېتىدۇ، سىمسىز چاقىرغۇ، كۆچمە تېلېفون قاتارلىق كەسىپلەر يولغا قويۇلغان. بۇ ۋىلايەتتىكى قورغاس، دۆلەت، مۇزارتتىن ئىبارەت ئۈچ دۆلەتلىك ر - دەرىجىلىك پورت ە غۇلجا يولوچىلار قاتناش بېكىتىدىن ئىبارەت 2 - دەرىجىلىك پورت ئاپتونوم رايونىمىز بىلەن مۇستەقىل دۆلەتلەر بىرلەشمە گەۋدىسىدىكى ھەرقايسى دۆلەتلەر ئوتتۇرىسىدىكى مۇھىم سودا يولى بولۇپ قالدى. بۇ ۋىلايەتنىڭ ئاساسلىق مەدەنىي يادىكارلىقلىرىدىن ئۇسۇن توپا قەبرىستانلىقى، ئالمىلىق قەدىمىي شەھەر خارابىسى، گېدىڭ تېغى ئابىدىسى، خۇييۈەنجۇڭ دۇمباق مۇنارى. تۇغلۇق تۆمۈر خان مازىرى، سۇلتان ئۇۋەيسىخان مازىرى، ئالتۇن چوققا ئىبادەتخانىسى خارابىسى قاتارلىقلار بار، كىچىك يوپۇرماقلىق ئاق موم قوغداش رايونى، تاڭبالو ئارشىڭى قاتارلىق داڭلىق مەنزىرىلىك جايلار بار.℃ 40.2&nbsp; &nbsp; ، ئەڭ تۆۋەن تېمپېراتۇرا -℃ 43.2. قۇياشنىڭ يىللىق ئوتتۇرىچە چۈشۈش ۋاقتى 2700 ～ 3000 سائەت، قىروسىز مەزگىلى&nbsp; 130 ～ 180 كۈن. يىللىق ئوتتۇرىچە ھۆل - يېغىن مىقدارى، دەريا ساھىلىدىكى تۈزلەڭلىك رايونلىرىنىڭ 200 ～ 300 مىللىمېتىر؛ دەريا ساھىللىرنىڭ تاغقا يېقىن جايلىرى، ئوتتۇرا تاغلىق رايونلار ۋە ئوچۇق ئويمانلىقلارنىڭ 350 ～ 800 مىلىمېتىر؛ سۇنىڭ يىللىق ئوتتۇرىچە پارغا ئايلىنىش مىقدارى 1260 ～ 0190 مىللىمېتىر.
+&nbsp; ئىلى ۋىلايىتىنىڭ دېھقانچىلىق ھەم چارۋىچىلىقى بىر قەدەر تەرەققىي قىلغان بولۇپ، ھازىر 286 مىڭ 900 گېكتار (4 مىليون 303 مىڭ 200 مو) تېرىلغۇ يەر، 407 مىڭ 300 گېكتار (6 مىليون 110 مىڭ مو) ئورمانلىق، 3 مىليون 419 مىڭ 300 گېكتار (51 مىليون 290 مىڭ مو) يايلاق بار. يەنە 4 مىليون 900 مىڭ گېكتار (73 مىليون 500 مىڭ مو) بوز يەر بار. ئاساسىق يېزا ئىگىلىك مەھسۇلاتلىرىدىن بۇغداي، كۆممىقوناق، مايلىقدان، قىزىلچا، زىغىر، مېۋە - چېۋە، كۆكتات قاتارلىقلار بار. زىغىر، تاماكا، ئالما قاتارلىقلار ئالاھىدە مەھسۇلات ھېسابلىنىدۇ. چارۋىچىلىقى ئوتلاق چارۋىچىلىقىنى ئاساس قىلغان بولۇپ، قوي، كالا، ئات قاتارلىق چارۋىلار بېقىلىدۇ. بۇلاردىن ئىلى ئېتى، شىنجاڭ ئىنچىكە يۇڭلۇق قويى بىر قەدەر داڭلىق. يۇڭ توقۇمچىلىق، خۇرۇمچىلىق، كەندىر توقۇمىچىلىق، ھاراق ئېچىتىش، كۆمۈركان، ئېلېكتر ئېنېرگىيە، قۇرۇلۇش ماتېرىياللىرى، شېكەر ئىشلەش، ئاشلىق، ماي پىششىقلاپ ئىشلەش قاتارلىق سانائەت تۈرلىرى بار.
+&nbsp; ئىلى ۋىلايىتىنىڭ ئاساسىي مۇئەسسەسەلىرى تەدرىجىي مۇكەممەللەشمەكتە. دۆلەت يولىنىڭ 231 -، 218 - لىنىيىلىرى ۋىلايەتنى كېسىپ ئۆتىدۇ، ناھىيە، يېزىلاردىكى يوللار تەرەپ - تەرەپكە تۇتىشىپ كەتكەن. غۇلجا شەھىرىدە يەنە قەرەللىك ھالدا بىۋاسىتە ئالمائاتاغا بارىدىغان خەلقئارالىق&nbsp; يولۇچىلار ئاپتوموبىلى بار. غۇلجا ئايرودرومىغا ئوتتۇرا تىپتىن يۇقىرى ئايروپىلان قونالايدۇ، ھەر كۈنى ئۈرۈمچىگە ئۇچىدىغان ئايروپىلان بار. ئاسىيا، ياۋروپا نۇر كابىلىنىڭ ئۈرۈمچى - ئىلى بۆلىكى ئىشلىتىشكە كىرىشتۈرۈلدى، شەھەر، ناھىيىلەردىكى تېلېاونلار پۈتۈن مەملىكەت تورىغا كىرگۈزۈلگەن بولۇپ، پروگراممىلىق تېلېفون 67 مىڭ توچكىغا يېتىدۇ، سىمسىز چاقىرغۇ، كۆچمە تېلېفون قاتارلىق كەسىپلەر يولغا قويۇلغان. بۇ ۋىلايەتتىكى قورغاس، دۆلەت، مۇزارتتىن ئىبارەت ئۈچ دۆلەتلىك ر - دەرىجىلىك پورت ە غۇلجا يولوچىلار قاتناش بېكىتىدىن ئىبارەت 2 - دەرىجىلىك پورت ئاپتونوم رايونىمىز بىلەن مۇستەقىل دۆلەتلەر بىرلەشمە گەۋدىسىدىكى ھەرقايسى دۆلەتلەر ئوتتۇرىسىدىكى مۇھىم سودا يولى بولۇپ قالدى. بۇ ۋىلايەتنىڭ ئاساسلىق مەدەنىي يادىكارلىقلىرىدىن ئۇسۇن توپا قەبرىستانلىقى، ئالمىلىق قەدىمىي شەھەر خارابىسى، گېدىڭ تېغى ئابىدىسى، خۇييۈەنجۇڭ دۇمباق مۇنارى. تۇغلۇق تۆمۈر خان مازىرى، سۇلتان ئۇۋەيسىخان مازىرى، ئالتۇن چوققا ئىبادەتخانىسى خارابىسى قاتارلىقلار بار، كىچىك يوپۇرماقلىق ئاق موم قوغداش رايونى، تاڭبالو ئارشىڭى قاتارلىق داڭلىق مەنزىرىلىك جايلار بار.</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=106" title="قەشقەر ۋىلايىتى"  target="_blank" class="tag_title_link">قەشقەر ۋىلايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=105" title="خوتەن ۋىلايىتى"  target="_blank" class="tag_title_link">خوتەن ۋىلايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=104" title="ئاقسۇ ۋىلايىتى"  target="_blank" class="tag_title_link">ئاقسۇ ۋىلايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=103" title="قۇمۇل ۋىلايىتى"  target="_blank" class="tag_title_link">قۇمۇل ۋىلايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=102" title="تۇرپان ۋىلايىتى"  target="_blank" class="tag_title_link">تۇرپان ۋىلايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=101" title="ئالتاي ۋىلايىتى"  target="_blank" class="tag_title_link">ئالتاي ۋىلايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=100" title="تارغاتاي ۋىلايىتى"  target="_blank" class="tag_title_link">تارغاتاي ۋىلايىتى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=99" title="ئىلى ۋىلايىتى"  target="_blank" class="tag_title_link">ئىلى ۋىلايىتى</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/madiniytimiz/search.php?catid=74&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=106" title="قەشقەر ۋىلايىتى"  target="_blank" class="tag_title_link">قەشقەر ۋىلايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=105" title="خوتەن ۋىلايىتى"  target="_blank" class="tag_title_link">خوتەن ۋىلايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=104" title="ئاقسۇ ۋىلايىتى"  target="_blank" class="tag_title_link">ئاقسۇ ۋىلايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=103" title="قۇمۇل ۋىلايىتى"  target="_blank" class="tag_title_link">قۇمۇل ۋىلايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=102" title="تۇرپان ۋىلايىتى"  target="_blank" class="tag_title_link">تۇرپان ۋىلايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=101" title="ئالتاي ۋىلايىتى"  target="_blank" class="tag_title_link">ئالتاي ۋىلايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=100" title="تارغاتاي ۋىلايىتى"  target="_blank" class="tag_title_link">تارغاتاي ۋىلايىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=99" title="ئىلى ۋىلايىتى"  target="_blank" class="tag_title_link">ئىلى ۋىلايىتى</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/madiniytimiz/show_js.php?itemid=99"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

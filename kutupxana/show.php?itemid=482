@@ -1,0 +1,364 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ئاخشام كۆرگەن فانتازەيىلىك چۈش-كۇتۇپخانا-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,كۇتۇپخانا">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/kutupxana/" class="red"> كۇتۇپخانا</a>
+         | <a class="razimantur" href="/kutupxana/list.php?catid=43" >ھېكايىلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=44" > شېئىر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=45" > كەلىلە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=46" > نەسىرلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=47" > يۇمۇرلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=48" > ھىكمەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=49" > نەسىھەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=50" > ماقالىلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=51" > ياشلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=52" > تۇرمۇش </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=53" > نۇتۇقلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=54" >مەكتۇب  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=55" >غارايىبات</a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=56" > دۇنيادا ئەڭ  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=57" >قان تىپى </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=58" > مۆچەل  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=59" > مىللەتلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=60" > بۈگۈن  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=61" >مۇزېي </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=62" >تارىخ </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=63" >شەھەرلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=64" >دۆلەتلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=65" >كۇتۇبخانىلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=66" >مايلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=67" >مېۋە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=68" >كۆكتاتلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=69" >ئۆسۈملۈكلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=70" > ھايۋاناتلار  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/kutupxana/">كۇتۇپخانا</a> >> <a href="/kutupxana/list.php?catid=43">ھېكايىلەر </a> >>  ئاخشام كۆرگەن فانتازەيىلىك چۈش</div>
+<!--主标题--><h1>ئاخشام كۆرگەن فانتازەيىلىك چۈش </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-05-01 11:59:58&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">375</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<img src="/raziman_img/bash/reng/reng_1.gif" id="img1" style="cursor:hand;"  onclick="conhat(1)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_2.gif" id="img2" style="cursor:hand;"  onclick="conhat(2)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_3.gif" id="img3" style="cursor:hand;"  onclick="conhat(3)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_4.gif" id="img4" style="cursor:hand;"  onclick="conhat(4)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_5.gif" id="img5" style="cursor:hand;"  onclick="conhat(5)">&nbsp;&nbsp;                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut"><div class="f14">ئاخشام مەن بىرەر نەرسىنىمۇ تۈزۈك ئويلاپ كەتمەيلا ئۇخلاپ قالغان ئىدىم&#46;&#46;&#46;&#46;&#46; قانداق چاغدا ئۇخلاپ قالغىنىمنى ئۆزۈممۇ بىلمەيمەن&#46; ئەتتىگەندە تۇرۇپ بامداتقا مەسچىتكا چىقتىم، ئۆيگە كىرىپ كومپىيوتېرنىڭ ئالدىغا كىلىپ ئولتۇرۇپ توساتتىن خىيالىمغا ئاخشام كۆرگەن چۈشۈپ كىلىپ قالدى&#46;&#46;&#46;&#46;&#46;<span style="DISPLAY: none">&nbsp;</span><br />-ھەي چاققان بول ، بولمىسا ئۇلار بىزنى يەپ قويغۇدەك&#46;<span style="DISPLAY: none">&nbsp;</span><br />دېدى سەمەت جىددىي تەلەپپۇزدا، ھەممەيلەن تەرەپ-تەرەپكە قېچىشتۇق&#46; ئارىدىن تۆتىمىز بىريەرگە كىلىپ قالدۇق، ئاندىن بېشىمىزنى بىر يەرگە ئېلىپ كىلىپ مەسلىھەتلەشتۇق، مەن بېنا ئىشىكىگەمەسئۇل بولدۇم، قالغانلارمۇ ئۆزىنىڭ نېمە ۋەزىپىگە قۇيۇلغانلىقىنى بىلىپ كېتىشىپ قالدى&#46; ئىشىك ئالدىدا تۇراتتىم توساتتىن ئۇچىسىغا ئاپپاق كىيىم كىيگەن بىرەيلەن چىقتى&#46; گەپ سۆز يوقلا ماڭا قاراپ ئېتىلىپ كەلدى، نىمە قىلارىمنى بىلەلمەي قېچىشقا باشلىدىم&#46; ئارىدىن ئۇزۇن ئۆتمەي بىلال كېلىپ ئۇ ئادەمنىڭ بېشىغا بىرنى ئۇردى، ئۇ جايىدىلا يىقىلدى&#46; ئەسلىدە ئۇ ئادەم بىرخىل ۋىروستا يۇقۇملانغان بۇلۇپ ئادەم گۈشى يەيدىكەن&#46; ئالدىمىزدىكى بىنادا تۇرغانلارنىڭ ھەممىسى شۇنداقكەن ، ئەسلى بۇ ساراڭلار ساناتورىيىسى بۇلۇپ مۇشۇنداقلارنى يىغىۋاپتىكەن، ئۇلار دوختۇرلارنىڭ ھەممىسىنى يەپ تەييار قىلىپ قۇيۇپتۇ&#46;<span style="DISPLAY: none"> )</span><br />ئەمدى كۆرۈڭ ئۇلار بىزگە قالدى&#46; ئەمدى قانداق قىلغۇلۇق، يەنە بىرسى چىقتى مەن باردىم بېرىپ ئۇنىڭ بېشىغا بىرنى كۈچەپلا ئۇردۇم، ئۇمۇ يىقىلىپ جايىدىلا جان بەردى&#46; ھە&#46;&#46;&#46;&#46; ئەسلىدە ئۇلار شۇنداق قىلسا ئۆلىدىكەندە دەپ ئويلىدىم ئىچىمدە&#46;<span style="DISPLAY: none">&nbsp;</span></div><div class="f14"><span style="DISPLAY: none"></span>ئو&#46;&#46;&#46; ما ئىشنى كۆرۈڭ ئەمدى نىمانداق جىق ساراڭلار بۇ، ھەممىسى چىقتىغۇ قانداق قىلدۇق ئەمدى؟<span style="DISPLAY: none">&nbsp;</span><br />گوم&#46;&#46;&#46; پارتىلىغان ئاۋاز بىلەن بىرنەچچە ساراڭ ئۆلدى قالغانلىرى يەنە قوغلاپ كەلدى، بەزىلىرىنىڭ كاللىسىلا بار باشقا يىرى پارتىلاپ كەتكەن، بەزىلىرىنىڭ يېرىمى يوق يەنە بەزىلىرىنىڭ ئۇيەر-بۇيەر لىرى يوق، ئىشقىلىپ بەك قورقىنىچلىق مەنزىرە&#46;<span style="DISPLAY: none"> </span> <br />-مەن باشتا كېلەي دەپ ھۇجۇمغا ئۆتتۈم، بىر نەچچىسىنى ئۆلتۈرۈپ تۇرسام ئارقىمدىن بىر نەچچە ساراڭلار كىلىپ مىنى تۇتىۋېلىپ بەدەنلىرىمنى تاتلىغىلى تۇردى&#46;<span style="DISPLAY: none">&nbsp;</span><br />-ھەي باللا بۇلار مىنى تۇتىۋالدى، دەپ قاتتىق توۋلىدىم،</div><div class="f14">-ساراڭ نېمە دەيسەن بىز ئۆز ئادەم دېدى بىرسى مىنى يان تەرەپكە تارتىپ&#46;  قارىسام راسلا مېنىڭ تولۇقتا بىرگە ئوقىغان ساۋاغدىشىم ئىكەن&#46;<span style="DISPLAY: none">&nbsp;</span><br />-ھە ! قانداق ئەھۋالىڭ؟ نېمىش قىلىۋاتىسەن؟ دەپ سورىدىم مەن ئۇنىڭ قوللىرىنى چىڭ سىقىپ تۇرۇپ&#46;<span style="DISPLAY: none">&nbsp;</span><br />-ياخشى تۇرىۋاتىمەن&#46;دېدى ئۇ ماقا قاراپ تۇرۇپ&#46;<span style="DISPLAY: none"> <br /></span><br />-بىزگە مەركەزدىن بۇيرۇق چۈشتى، دېدى ئۇ قەددىنى تىك تۇتۇپ&#46;<span style="DISPLAY: none">&nbsp;</span><br />-نېمە بۇيرۇق؟ دېدىم مەن ھەيرانلىق ئىچىدە&#46;<br />-بۇ يەر ئەپسىز بۇ ياققا كەل&#46; دەپ چاپىنىمنىڭ پىشىدىن تارتتى،  بىردەمدە ئۈچ تېمى بار بىر تېمى يوق ئۆينىڭ ئالدىغا كېلىپ قالدۇق&#46;<span style="DISPLAY: none">&nbsp;</span><br />-ھە دىگىنە نېمە بۇيرۇق؟ دەپ سورىدىم مەن تەقەززارلىق بىلەن&#46;<span style="DISPLAY: none">&nbsp;</span><br />-ھازىر ئادەم گۈشى يەيدىغان ساراڭلار يەرشارىدىلا ئەمەس ، باشقا قوشنا پىلانتلاردىمۇ يامراپ كېتىپتۇ، دەپ سۆزىنى داۋام قىلدى ئۇ&#46;<span style="DISPLAY: none"> </span> <br />بىز ئالدى بىلەن مارىسقا چىقىمىز، سەنمۇ ھازىردىن باشلاپ ئالاھىدە خادىم، قالغان گەپلەرنى يولدا قىلىشايلى دەپ، مېنى ئۆينىڭ ئىچىگە ئىتتىرىپ ماڭدى&#46;<span style="DISPLAY: none">&nbsp;</span><br />ئۆي ئىچىگە كىرىپ تۇرۇپلا قالدىم، قارىسام يارىيا ئېشەك ھارۋۇسى تۇرىدۇ، بىر تۈرۈككە باغلاپ قۇيۇپتۇ&#46; توۋا!!!  دەپ قۇيۇپلا ھارۋۇغا چىقتىم&#46;<span style="DISPLAY: none">&nbsp;</span></div><div class="f14"><span style="DISPLAY: none"></span>خىت دىگەن ئاۋاز بىلەنلا ئاسمانغا كۆتۈرۈلدۇق&#46; ھاڭ ھاڭ ھاڭ ھاڭ&#46;&#46;&#46;&#46;&#46;&#46; ۋاي-ۋۇي  شۇنداق شوخ ئېشەككەن بۇ، يولدا ھېلى ھاڭراپ ، ھېلى سايراپ دىگەندەك كىتىۋاتىدۇ&#46; بىر كەمدە پەسكە قارىسام خېلى بىر يەرگە چىقىپ بوپتىمىز، يەر شارى شۇنداق چىرايلىق تۇرىدۇ&#46; ئانچە ئۇزۇن ماڭمايلا مارىسقىمۇ كەلگەن ئوخشايمىز &#46;<span style="DISPLAY: none">&nbsp;</span></div><div class="f14"><span style="DISPLAY: none"></span>-قېنى چۈشە كەلدۇق ،دېدى ئۇ&#46; ماڭغاندا ئېشەك ھارۋۇسىدا ماڭغانداك قىلغان چۈشكەندە ئارقامغا قارىسام شۇنداق ھەيۋەت ئۇچار تەخسىدىن چۈشىۋاتىمىز&#46; بۇ نېمە ئىشتۇ ئەمدى دەپ ياقامنى تۇتۇپ قويۇپ ئالدىمغا قاراپ ماڭدىم&#46;<br />شۇنداق ھەيۋەت بىر شارقىراتمىنىڭ ئالدىغا كەلدۇق، سۇ لار ھەرخىل رەڭدە چۈشىۋاتىدۇ، بىر توپ ئادەملەر سۇ ئىچىۋېتىپتۇ&#46;&#46;&#46;&#46;<span style="DISPLAY: none">&nbsp;</span></div><div class="f14"><span style="DISPLAY: none"></span>-ئەنە ئاۋۇلار ئاشۇ ساراڭلارنىڭ ئارىسىدىكى بىرنەچچىلىرى، دېدى بىرەيلەن قولى بىلەن ئۇلارنى كۆرسىتىپ&#46; ئۇنىڭغىچە ئۇلار بىزنى كۆرۈپ قېلىپ يۈگۈرىشىپ كەلدى، ئەڭ ئالدى بىلەن مېنىڭ ئالدىمغا كىلىپ تۆت پۇتلۇق ئۆرە تۇرۇشتى، ئۇلار ساراڭلارنىڭ ياخشىلىرى ئىكەن، دوست بولۇپ قالدۇق، ساراڭلار بىزنى باشلاپ يەنە بىر توپ ساراڭلار بار يەر يەرگە باشلاپ ماڭدى، ساراڭلار بار يەرگىمۇ كەلدۇق، ئەتراپقا بومبا كۆمدۇق، ئاندىن ئۇلارغا قاراپ ۋارقىرىدۇق&#46;<span style="DISPLAY: none">&nbsp;</span><br />-ھوي&#46;&#46;&#46; ساراڭلار بىز سىلەرنى ئىزدەپ كەلدۇق تېز كىلىشە&#46;&#46;&#46;<span style="DISPLAY: none">&nbsp;</span><br />ھايت-ھۇيت دىگۈچە ئۇلار بىر توپ بۇلۇپ كەلدى، ئالە شەرىڭنى&#46;&#46;&#46; بەك جىق جۇمۇ ئۇلار، ھەيران قالدىم&#46;<span style="DISPLAY: none">&nbsp;</span>بىزنى ئۇ يەرگە باشلاپ بارغان ساراڭلار بىردەمدە بىزنى باغلاشقا كىرىشتى، قۇلۇمدا قورال بار ئىدى، نەگە كەتتى ئۇ بىلمىدىم، بەلكىم قورىققان بولسا قاچقان ئوخشايدۇ ئۇ ناچار دەپ ئويلىدىم ئىچىمدە&#46;<span style="DISPLAY: none">&nbsp;</span>ھەممە ساراڭلار بىزنى قورشىۋالدى&#46; ئەتراپىمغا قارىسام مەن بىلەن بىرگە كەلگەنلەرمۇ يوق&#46; قانداق قىلىمەن ئەمدى يەرگە قاراپ تىزلىنىپ تۇرىمەن، ئۇلار جىق گەپلەرنى قىلدى ، نېمە دىگىنىنى ئىسىمگە ئالالمىدىم&#46; ئىشقىلىپ ماڭا پايدىلىق گەپ قىلمىدى دەپ ئويلايمەن&#46;<span style="DISPLAY: none">&nbsp;</span>چىرايى شۇنداق بەتبەشىرە بىر ساراڭ ئوتتۇرىغا كىلىپ چېچىمدىن مۈرەمدىن تۇتتى، ھېچقانداق گەپ-سۆز يوقلا يېنىدىن قىلىچىنى چىقىرىپ بىر قولۇمنى كەستى، توۋا!!&#46;&#46;&#46;  ئا ساراڭ قولۇمنى كىسىپ يەپ كەتتى دەيمەن&#46;&#46; <br />-ئانا&#46;&#46;&#46;&#46;&#46;<span style="DISPLAY: none">&nbsp;</span><br />-نېمە بولدى بالام، يەنە قارا بېسىپ قاپتۇدە؟ دېدى ئانام &#46;<span style="DISPLAY: none"></span></div><div class="f14"><span style="DISPLAY: none"></span>ئەتراپقا بىر قۇر نەزەر كۆزۈمنى تاشلىسام ھۇجرامدا يېتىپتىمەن يوتقانلارمۇ كارۋاتتىن چۈشۈپ كېتىپتۇ، توۋا!!! <br />-شۇ كۈندە قارا باسىدۇ، سائەت نەچچە بولدى ئانا &#46;<br />-تۆت بولدى بالام&#46;<span style="DISPLAY: none"><br /> </span> <br />ئورنۇمدىن تۇرۇپ تاھارەت ئېلىپ مەسچىتكە قاراپ ماڭدىم&#46;&#46;&#46;&#46;&#46;<span style="DISPLAY: none"> <br /></span> <br />مەن كۈندە شۇنداق غەيرى چۈشلەرنى كۆرىمەن، بەلكىم بۈگۈن كېچە ئۇخلاپ بۇنىڭدىنمۇ دەششەت چۈش كۆرۈشۈم مۇمكىن&#46;&#46;&#46;&#46;&#46;&#46;&#46;&#46;&#46;&#46;<span style="DISPLAY: none">&nbsp;</span></div><div class="f14"><span style="DISPLAY: none"></span></div><div class="f14"><span style="DISPLAY: none"></span><span style="BACKGROUND-COLOR: #ff0000"><span style="COLOR: #6633cc">مەنبەنى نېمە دىسەم بولار؟ ياخشىسى ئۆزخىياللىرىم دەي&#46;&#46;&#46; !</span></span> </div></span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=489" title="مۇزلىغان دەرىزە(ھىكايە)"  target="_blank" class="tag_title_link">مۇزلىغان دەرىزە(ھى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=488" title="تىمتاس مۇھەببەت(ھىكايە)"  target="_blank" class="tag_title_link">تىمتاس مۇھەببەت(ھى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=487" title="پۇل ھەممىدىن مۇھىممۇ؟؟؟؟؟؟"  target="_blank" class="tag_title_link">پۇل ھەممىدىن مۇھىم...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=486" title="ئەلۋىدا سۇيۇملۇگۇم پاتىمە !"  target="_blank" class="tag_title_link">ئەلۋىدا سۇيۇملۇگۇم...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=485" title="كۈنسىرى ئاۋاتلىشۋاتقان قىمارخانا ۋە چۆلدەرەۋاتقان كىتاپخانا"  target="_blank" class="tag_title_link">كۈنسىرى ئاۋاتلىشۋا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=484" title="ساۋاقداشلىق مېھرى مەڭگۈ ئۆلمەيدۇ!!!"  target="_blank" class="tag_title_link">ساۋاقداشلىق مېھرى ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=483" title="مەن پاھىشە ئەمەس (ھىكايە)"  target="_blank" class="tag_title_link">مەن پاھىشە ئەمەس (ھ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=482" title="ئاخشام كۆرگەن فانتازەيىلىك چۈش"  target="_blank" class="tag_title_link">ئاخشام كۆرگەن فانت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=481" title="ئويلاپ كۈرۈڭ؟"  target="_blank" class="tag_title_link">ئويلاپ كۈرۈڭ؟</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=480" title="ھەسرەت(ھىكايە)"  target="_blank" class="tag_title_link">ھەسرەت(ھىكايە)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=479" title="كۆلچى يازمىسى: كۆيۈۋاتقان ئەر"  target="_blank" class="tag_title_link">كۆلچى يازمىسى: كۆيۈ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=478" title="[ھېكايە]&nbsp;&nbsp;خىيال"  target="_blank" class="tag_title_link">[ھېكايە]  خىيال...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=477" title="خىياللىرىمسەن(ھىكايە)"  target="_blank" class="tag_title_link">خىياللىرىمسەن(ھىكا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=476" title="مةختۇمسۇلانىڭ  چېچىنى كةستۈرۈشى"  target="_blank" class="tag_title_link">مةختۇمسۇلانىڭ  چېچ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=475" title="پاھىشە قىز ۋە ئوغرى يىگىت"  target="_blank" class="tag_title_link">پاھىشە قىز ۋە ئوغرى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=474" title="ساۋاقدىشىم"  target="_blank" class="tag_title_link">ساۋاقدىشىم</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=473" title="(مېھرىگىيا)سۇلماس گۈل"  target="_blank" class="tag_title_link">(مېھرىگىيا)سۇلماس گ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=472" title="(مېھرىگىيا)كەچكۈز كۈيلىرى"  target="_blank" class="tag_title_link">(مېھرىگىيا)كەچكۈز ك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=471" title="تەنھالىق دالاسى"  target="_blank" class="tag_title_link">تەنھالىق دالاسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=470" title="[ھىكايە]بالا"  target="_blank" class="tag_title_link">[ھىكايە]بالا</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/kutupxana/search.php?catid=43&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=489" title="مۇزلىغان دەرىزە(ھىكايە)"  target="_blank" class="tag_title_link">مۇزلىغان دەرىزە(ھىكايە)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=488" title="تىمتاس مۇھەببەت(ھىكايە)"  target="_blank" class="tag_title_link">تىمتاس مۇھەببەت(ھىكايە)</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=487" title="پۇل ھەممىدىن مۇھىممۇ؟؟؟؟؟؟"  target="_blank" class="tag_title_link">پۇل ھەممىدىن مۇھىممۇ؟؟؟...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=486" title="ئەلۋىدا سۇيۇملۇگۇم پاتىمە !"  target="_blank" class="tag_title_link">ئەلۋىدا سۇيۇملۇگۇم پاتى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=485" title="كۈنسىرى ئاۋاتلىشۋاتقان قىمارخانا ۋە چۆلدەرەۋاتقان كىتاپخانا"  target="_blank" class="tag_title_link">كۈنسىرى ئاۋاتلىشۋاتقان ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=484" title="ساۋاقداشلىق مېھرى مەڭگۈ ئۆلمەيدۇ!!!"  target="_blank" class="tag_title_link">ساۋاقداشلىق مېھرى مەڭگۈ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=483" title="مەن پاھىشە ئەمەس (ھىكايە)"  target="_blank" class="tag_title_link">مەن پاھىشە ئەمەس (ھىكايە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=482" title="ئاخشام كۆرگەن فانتازەيىلىك چۈش"  target="_blank" class="tag_title_link">ئاخشام كۆرگەن فانتازەيى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=481" title="ئويلاپ كۈرۈڭ؟"  target="_blank" class="tag_title_link">ئويلاپ كۈرۈڭ؟</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=480" title="ھەسرەت(ھىكايە)"  target="_blank" class="tag_title_link">ھەسرەت(ھىكايە)</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/kutupxana/show_js.php?itemid=482"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

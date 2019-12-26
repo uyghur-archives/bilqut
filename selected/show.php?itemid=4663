@@ -1,0 +1,379 @@
+﻿<br />
+<b>Warning</b>:  session_start() [<a href='function.session-start'>function.session-start</a>]: open(D:/ԭ���ļ�/Bilqut_web/data/sessions/\sess_ucn2nk00g6go1envgibqk8k885, O_RDWR) failed: Permission denied (13) in <b>D:\ԭ���ļ�\Bilqut_web\include\common.inc.php</b> on line <b>17</b><br />
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ئادەم قېنىنى شورايدىغان چىشى پاشا-كۇتۇپخانا-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,كۇتۇپخانا">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/kutupxana/" class="red"> كۇتۇپخانا</a>
+         | <a class="razimantur" href="/kutupxana/list.php?catid=43" >ھېكايىلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=44" > شېئىر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=45" > كەلىلە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=46" > نەسىرلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=47" > يۇمۇرلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=48" > ھىكمەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=49" > نەسىھەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=50" > ماقالىلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=51" > ياشلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=52" > تۇرمۇش </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=53" > نۇتۇقلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=54" >مەكتۇب  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=55" >غارايىبات</a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=56" > دۇنيادا ئەڭ  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=57" >قان تىپى </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=58" > مۆچەل  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=59" > مىللەتلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=60" > بۈگۈن  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=61" >مۇزېي </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=62" >تارىخ </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=63" >شەھەرلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=64" >دۆلەتلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=65" >كۇتۇبخانىلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=66" >مايلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=67" >مېۋە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=68" >كۆكتاتلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=69" >ئۆسۈملۈكلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=70" > ھايۋاناتلار  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/kutupxana/">كۇتۇپخانا</a> >> <a href="/kutupxana/list.php?catid=70"> ھايۋاناتلار  </a> >>  ئادەم قېنىنى شورايدىغان چىشى پاشا</div>
+<!--主标题--><h1>ئادەم قېنىنى شورايدىغان چىشى پاشا </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-06-28 12:38:22&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">2994</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<img src="/raziman_img/bash/reng/reng_1.gif" id="img1" style="cursor:hand;"  onclick="conhat(1)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_2.gif" id="img2" style="cursor:hand;"  onclick="conhat(2)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_3.gif" id="img3" style="cursor:hand;"  onclick="conhat(3)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_4.gif" id="img4" style="cursor:hand;"  onclick="conhat(4)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_5.gif" id="img5" style="cursor:hand;"  onclick="conhat(5)">&nbsp;&nbsp;                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">پاشىلار ئىچىدىكى ئەڭ يىرگىنىچلىكى ئادەم قېنىنى شورايدىغان پاشا. چىشى، ئەركەك پاشىلارنىڭ ئوزۇقلىنىش خۇسۇسىيىتى پەقەت ئوخشىمايدۇ، ئەركەك پاشا «گۆشسىز تاماق يەيدۇ»، ئۇ مەخسۇس ئۆسۈملۈكنىڭ گۈل شىرنىسى ۋە مېۋە، غول، يوپۇرماقلارنىڭ شىرنىسىنى ئوزۇقلۇق قىلىدۇ. چىشى پاشا ئاندا - ساندا ئۆسۈملۈكلەرنىڭ شىرنىسىنى تېتىپ كۆرىدۇ، لېكىن چېتىشقاندىن كېيىن قان شورىماي تۇرالمايدۇ. چۈنكى، ئۇ قان شورىغاندىن كېيىنلا ئاندىن تۇخۇمدىنى يېتىلىدۇ، شۇنىڭ ئۈچۈن ئادەمنىڭ قېنىنى پەقەتلا چىشى پاشا شورايدۇ.
+پاشىنىڭ بىر جۈپ سېزىش بۇرۇتى ۋە ئۈچ جۈپ پۇتىغا نۇرغۇن ئايلىنىپ ئۆسكەن سېزىش تۈكلىرى تارقالغان بولۇپ، ھەربىر سېزىش تۈكىگە يۇمىلاق ياكى سوقىچاق ئۇششاق تۆشۈكلەر زىچ تىزىلىدۇ. كېچىسى پاشا مۇشۇ خىل سېزىش ئاپپاراتىغا تايىنىپ، ئادەم ھاۋاغا چىقارغان كاربون (Ⅳ) ئوكسىدنى سېزىپ، مىڭدىن بىر سېكۇنت ئىچىدە ئىنكاس قايتۇرۇپ، قېنىنى شورايدىغان ئوبيېكتى بار جايغا دەلمۇ دەل ئۇچۇپ بارالايدۇ. پاشا قان شوراشتىن بۇرۇن تەركىبىدە ئانتىكوئاگۇلىن (قاننىڭ ئۇيۇشىغا قارشى ماددا) بار شۆلگەينى تېرە ئاستىغا كىرگۈزۈپ، قان بىلەن ئارىلاشتۇرۇپ قاننى ئۇيۇپ قالمايدىغان سۇيۇق قان پلازمىسىغا ئايلاندۇرىدۇ، ئاندىن تېنىدە ساقلىنىپ قېلىپ ھەزىم بولمىغان كونا قاننى قۇسۇۋېتىپ، يېڭى قاننى شورايدۇ. ئەگەر بىر ئادەمنى بىرلا ۋاقىتتا10&nbsp;&nbsp;مىڭ دانە پاشا چاقسا، شۇ ئادەمنىڭ قېنىنى تامامەن شوراپ بولىدۇ.
+پاشا قان شوراشتا تېخى «سېمىزىنى تاللاپ، ئورۇقىنى شاللىۋېتىپ» مەخسۇس ئۆزىگە تېتىغۇدەك ئوبيېكتنى ئىزدەيدۇ. پاشا تاتلىق ئۇخلاۋاتقان ئادەمنىڭ ياستۇقى يېنىدا «غىڭىلداپ» چۆرگىلىگەندە يېقىن ئارىلىقتىكى سېزىش ئاپپاراتىغا (سېزورلىرىغا) تايىنىپ تېمپېراتۇرا، نەملىك ۋە تەرنىڭ خىمىيىۋى تەركىبىنى سېزەلەيدۇ. شۇنىڭ ئۈچۈن پاشا ئالدى بىلەن بەدەن تېمپېراتۇرىسى بىرقەدەر يۇقىرى، كۆپ تەرلەيدىغان ئادەمنى چاقىدۇ. چۈنكى، بەدەن تېمپېراتۇرىسى يۇقىرى، كۆپ تەرلەيدىغان ئادەمنىڭ تېنىدىن ئاجرىتىپ چىقىرىلغان پۇراق تەركىبىدە ئامىنو كىسلاتا، سۈت كىسلاتا ۋە ئاممىياك تۈرىدىكى بىرىكمىلەر بىرقەدەر كۆپ بولۇپ، پاشىنى ناھايىتى ئوڭاي جەلپ قىلىدۇ.
+پاشىنىڭ ئاساسلىق زىيىنى كېسەل تارقىتىش. تەتقىقاتلارغا ئاساسلانغاندا، پاشا تارقىتىدىغان كېسەللىكلەر80&nbsp;&nbsp;خىلدىن ئاشىدىكەن. يەر شارىدا ھېچقانداق ھايۋاننىڭ ئىنسانلارغا كەلتۈرىدىغان زىيىنى پاشىنىڭكىدەك ئۇنداق زور بولمايدۇ.
+دۇنيادا پاشىنىڭ2000&nbsp;&nbsp;دىن ئارتۇق تۈرى، دۆلىتىمىزدە140&nbsp;&nbsp;دىن ئارتۇق تۈرى بار. كېسەل تارقىتىدىغان چوڭ پاشىلار ئۈچ خىلغا بۆلۈنىدۇ: بىر خىلى، ئانوفېلېس پاشىسى ياكى بەزگەك پاشىسى دەپمۇ ئاتىلىدۇ، ئۇ ئاساسلىقى بەزگەك كېسىلىنى تارقىتىدۇ، ئىككىنچى خىلى، كۇلېكس پاشىسى دەپ ئاتىلىدۇ، ئاساسلىقى قىل قۇرت كېسەللىكى ۋە تارقىلىشچان B تىپلىق مېڭە ياللۇغى كېسەللىكىنى تارقىتىدۇ. ئۈچىنچى خىلى، ئېيدېس پاشىسى دەپ ئاتىلىدۇ، تېنىدە ئاق - قارا داغلىرى بولىدىغانلىقى ئۈچۈن قارا داغلىق پاشا دەپمۇ ئاتىلىدۇ، ئۇ ئاساسلىقى تارقىلىشچان B تىپلىق مېڭە ياللۇغى ۋە دېنگې قىزىتمىسىنى تارقىتىدۇ.
+ياز كۈنلىرىدىكى مۇۋاپىق مۇھىتتا چىشى پاشا تۇخۇمىنى سۇغا تۇغىدۇ.1&nbsp;&nbsp;−2&nbsp;&nbsp;كۈندىن كېيىنلا لىچىنكىسى تۇخۇمدىن چىقىدۇ، ئۇ پاشا لىچىنكىسى دەپ ئاتىلىدۇ. پاشا لىچىنكىسى تۆت قېتىم قاسىراق تاشلىغاندىن كېيىن قورچاققا ئايلىنىدۇ، قورچىقى سۇدا داۋاملىق2&nbsp;&nbsp;−3&nbsp;&nbsp;كۈن ياشاپ، قانات چىقىرىپ يېتىلگەن پاشىغا ئايلىنىدۇ. بىر ئەۋلاد دەۋرنى تاماملاش ئۈچۈن تەخمىنەن10&nbsp;&nbsp;～12&nbsp;&nbsp;كۈن ۋاقىت كېتىدۇ، بىر يىل ئىچىدە7&nbsp;&nbsp;−8&nbsp;&nbsp;دەۋر كۆپىيىشى مۇمكىن.
+پاشا يوقىتىش كېسەللىكنىڭ ئالدىنى ئېلىش، كېسەللىكلەرنى ئازايتىشنىڭ ئۈنۈملۈك يولىدۇر.
+</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4663" title="ئادەم قېنىنى شورايدىغان چىشى پاشا"  target="_blank" class="tag_title_link">ئادەم قېنىنى شوراي...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4662" title="باكتىرىيە ئامبىرى چىۋىن"  target="_blank" class="tag_title_link">باكتىرىيە ئامبىرى ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4661" title="زىراپە"  target="_blank" class="tag_title_link">زىراپە</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4660" title="تۆمۈرتۇمشۇق"  target="_blank" class="tag_title_link">تۆمۈرتۇمشۇق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4659" title="سېغىزخان"  target="_blank" class="tag_title_link">سېغىزخان</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4658" title="پاتمىچۇق"  target="_blank" class="tag_title_link">پاتمىچۇق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4657" title="خانقىز"  target="_blank" class="tag_title_link">خانقىز</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4656" title="مىڭئاياغ"  target="_blank" class="tag_title_link">مىڭئاياغ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4655" title="مۈشۈكياپىلاق"  target="_blank" class="tag_title_link">مۈشۈكياپىلاق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4654" title="يىلان"  target="_blank" class="tag_title_link">يىلان</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4653" title="فرىگاتامىنور قۇشى"  target="_blank" class="tag_title_link">فرىگاتامىنور قۇشى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4652" title="سازاڭ"  target="_blank" class="tag_title_link">سازاڭ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4651" title="ئاق چۈمۈلە"  target="_blank" class="tag_title_link">ئاق چۈمۈلە</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4650" title="قىزىلپېچ قۇشى"  target="_blank" class="tag_title_link">قىزىلپېچ قۇشى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4649" title="قىزىل پاچاق ھەيران"  target="_blank" class="tag_title_link">قىزىل پاچاق ھەيران</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4648" title="قاپلان"  target="_blank" class="tag_title_link">قاپلان</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4647" title="قاغا"  target="_blank" class="tag_title_link">قاغا</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4646" title="سازاڭسىمان مەددە"  target="_blank" class="tag_title_link">سازاڭسىمان مەددە</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4645" title="قۇندۇز (دەريا قامىسى)"  target="_blank" class="tag_title_link">قۇندۇز (دەريا قامىس...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4644" title="توقۇمىچى قۇش"  target="_blank" class="tag_title_link">توقۇمىچى قۇش</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/kutupxana/search.php?catid=70&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4663" title="ئادەم قېنىنى شورايدىغان چىشى پاشا"  target="_blank" class="tag_title_link">ئادەم قېنىنى شورايدىغان...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4662" title="باكتىرىيە ئامبىرى چىۋىن"  target="_blank" class="tag_title_link">باكتىرىيە ئامبىرى چىۋىن</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4661" title="زىراپە"  target="_blank" class="tag_title_link">زىراپە</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4660" title="تۆمۈرتۇمشۇق"  target="_blank" class="tag_title_link">تۆمۈرتۇمشۇق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4659" title="سېغىزخان"  target="_blank" class="tag_title_link">سېغىزخان</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4658" title="پاتمىچۇق"  target="_blank" class="tag_title_link">پاتمىچۇق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4657" title="خانقىز"  target="_blank" class="tag_title_link">خانقىز</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4656" title="مىڭئاياغ"  target="_blank" class="tag_title_link">مىڭئاياغ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4655" title="مۈشۈكياپىلاق"  target="_blank" class="tag_title_link">مۈشۈكياپىلاق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=4654" title="يىلان"  target="_blank" class="tag_title_link">يىلان</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/kutupxana/show_js.php?itemid=4663"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html><br />
+<b>Warning</b>:  Unknown: open(D:/ԭ���ļ�/Bilqut_web/data/sessions/\sess_ucn2nk00g6go1envgibqk8k885, O_RDWR) failed: Permission denied (13) in <b>Unknown</b> on line <b>0</b><br />
+<br />
+<b>Warning</b>:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (D:/ԭ���ļ�/Bilqut_web/data/sessions/) in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: open(D:/ԭ���ļ�/Bilqut_web/data/sessions/\sess_ucn2nk00g6go1envgibqk8k885, O_RDWR) failed: Permission denied (13) in D:\ԭ���ļ�\Bilqut_web\include\common.inc.php on line 17
+PHP Warning:  Unknown: open(D:/ԭ���ļ�/Bilqut_web/data/sessions/\sess_ucn2nk00g6go1envgibqk8k885, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (D:/ԭ���ļ�/Bilqut_web/data/sessions/) in Unknown on line 0

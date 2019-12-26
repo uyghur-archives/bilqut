@@ -1,0 +1,57 @@
+<!-- Tor bat exligu chi Ablimitjan Maham  QQ :250092392    Tel: 6722530    E-Mail :Raziman@126.com ,ablmtjan@126.com -->
+document.write("<head></head>");
+
+
+document.write("<table border=0 cellpadding=2 cellspacing=0 width=100%>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=image/news.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=938 target=_blank><font color='' style='font-size:11pt'>«بىلقۇت خەزىنىسى» تۈزىتىلدى</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=image/news.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=937 target=_blank><font color='' style='font-size:11pt'>«بىلقۇت» خەزىنىسى ئەلالاشتۇرۇلدى</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=image/news.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=911 target=_blank><font color='' style='font-size:11pt'>سېتىۋالغۇچىلار سەمىگە</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=image/news.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=821 target=_blank><font color='' style='font-size:11pt'>تەكلىپ_پىكىر بېرىڭ</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=image/news.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=820 target=_blank><font color='' style='font-size:11pt'>«بىلقۇت خەزىنىسى» ھەققىدە</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=image/news.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=818 target=_blank><font color='' style='font-size:11pt'>«بىلقۇت خەزىنىسى» نىڭ شىنجاڭىدىكى سېتىش نۇق...</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=right colspan=2></td></tr>");
+
+document.write("</table>");

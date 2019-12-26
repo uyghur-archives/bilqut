@@ -1,0 +1,469 @@
+<?
+	function showmenu($chanid)
+	{
+		global $db;
+		$result = $db->query("SELECT catid,catname FROM phpcms_category where channelid=$chanid and catid!=122 order by listorder asc");
+		while($rsm=$db->fetch_array($result))
+		{
+			$catid=$rsm['catid'];
+			$menulist=$rsm['catname'];
+			$menulist='<a href="AwazTur.php?catid='.$catid.'" target="_blank" class="uyunmenu" style="font-size:11pt;font-family:ukij tuz tom">'.$menulist.'</a> | ';
+			$listmenu=$listmenu.$menulist;
+		}
+		$listmenu='<a href="default.php" style="font-size:11pt ;font-family:ukij tuz tom">باش بەت </a> |'.$listmenu.'';
+		//$listmenu='<a href="default.php">باش بەت </a> |'.$listmenu.'';
+	$db->free_result($result);
+	return $listmenu;
+	}
+//===================================
+
+//===================================	
+	function showOnemenu($catid)
+	{
+		global $db;
+		$result = $db->query("SELECT catid,catname FROM phpcms_category where channelid=32 and catid=".$catid."");
+		if($rsm=$db->fetch_array($result))
+		{
+			$menulist=$rsm['catname'];
+			$menulist='<a href="AwazTur.php?catid='.$catid.'" target="_blank" class="uyunmenu">'.$menulist.'</a>';
+		}
+		$listmenu=$listmenu.'';
+	$db->free_result($result);
+	return $menulist;
+	}	
+/*
+	显示专辑演唱者姓名
+*/	
+	function ShowCDsinger($chilid)
+	{
+		global $db;
+		$sql="SELECT specialid,specialname FROM phpcms_special where specialid =".$chilid." and parentid!=0";
+		$result = $db->query($sql);
+		while($rsm=$db->fetch_array($result))
+		{
+			$spname=$rsm['specialname'];
+		}
+		$db->free_result($result);	
+		return $spname;
+	}
+	
+/*
+	显示专辑演唱者姓名
+*/	
+	function ShowCDname($chilid)
+	{
+		global $db;
+		$sql="SELECT specialid,specialname,keyid FROM phpcms_special where arrchildid =".$chilid." and parentid=0";
+		$result = $db->query($sql);
+		while($rsm=$db->fetch_array($result))
+		{
+			$spname=$rsm['specialname'];
+			$spname='<a href="EserTur.php?cdid='.$chilid.'&chid='.$rsm['keyid'].'" target="_blank">'.$spname.'</a>';
+		}
+		$db->free_result($result);	
+		return $spname;
+	}	
+/*	
+	函数功能:读取最新，热门，推荐歌曲
+*/
+	function ShowMusicList($num,$isflag,$catid,$vorder,$numjan)
+	{
+		global $db;
+		$sql="SELECT movieid,title,thumb,my_singer,catid,hits FROM ".channel_table('movie', 32)."  where status=3 AND my_bianhao='' ";
+		switch($isflag)
+		{
+			case 1:
+				$sql=$sql." and catid=".$catid." ";
+				break;
+			case 2:
+				$sql=$sql." and specialid=".$catid." ";
+				break;
+			default:
+				$sql=$sql;
+				break;
+		}
+		$sql=$sql."ORDER BY ".$vorder." DESC LIMIT ".$num."";
+		$result=$db->query($sql);
+		$html=$html.'<table width="98%" border="0" align="center" cellpadding="0" cellspacing="0" style="font-size:11pt;">';
+		$html=$html.'<form id="MusicList'.$catid.$numjan.'" name="MusicList'.$catid.$numjan.'" method="post" target="_blank" action="player/Anglash.php?catid='.$catid.'" onsubmit="chckform(MusicList'.$catid.$numjan.')">';		
+		//$i=0;
+		//onclick="BasbaPlyer(\'player/Anglash.php?check='.$songid.'&catid='.$catid.'\',\'BasbasPlayer\',\'width=651,height=531\')"
+		while($rs=$db->fetch_array($result))
+		{
+			//$i=$i+1;
+			$songname=$rs['title'];
+			$songid=$rs['movieid'];
+			$singer=$rs['my_singer'];
+			if($singer==''){
+				$singername='نامەلۇم';
+			}else{
+				$singername=$singer;
+			}
+			$hits=$rs['hits'];
+			$catid=$rs['catid'];
+			$html=$html.'<tr>';
+			$html=$html.'<td width="10%" align="center"><a href="player/Anglash.php?check='.$songid.'&catid='.$catid.'" target="_blank"><img  src="images/phone.gif" border="0"/></a></td>';
+			if($vorder=='hits'){
+				$html=$html.'<td width="10%" align="center">'.$hits.'</td>';
+			}else{
+			$html=$html.'<td width="10%" align="center"><a href="player/Anglash.php?check='.$songid.'&catid='.$catid.'" target="_blank"><img  src="images/play.gif" border="0"/></a></td>';
+			}
+			//$html=$html.'<td width="30%" height="24" align="center"></td>';
+			$html=$html.'<td width="68%" align="right" class="borderbottom"><div style="float:right;"><a href="player/Anglash.php?check='.$songid.'&catid='.$catid.'" target="_blank" class="songname">'.$songname.'</a></div></td>';
+			$html=$html.'<td width="10%" align="center"><input type="checkbox" name="check[]" value="'.$songid.'" /></td>';
+			$html=$html.'</tr>';
+		}
+		$html=$html.'<tr>';
+		//$html=$html.'<td height="24" colspan="4" align="center"><input type="button" name="Submit" value="Play" onclick="javascript:window.open('"player/Anglash.php"','""','"width=316,height=435"')"/>';
+		$html=$html.'<td height="24" colspan="4" align="center"><input type="Submit" name="Submit" value="ئاڭلاش" class="Tallash" />';
+		$html=$html.'&nbsp;<input type="button" name="Submit2" value="ھەممىنى تاللاش " onclick="CheckAll(MusicList'.$catid.$numjan.')" class="Tallash" />';
+		$html=$html.'&nbsp;<input type="button" name="Submit2" value="ئەكسىنى تاللاش" onclick="CheckOthers(MusicList'.$catid.$numjan.')" class="Tallash" /></td>';
+		$html=$html.'</tr>';
+		$html=$html.'</form>';	
+		$html=$html.'</table>';
+  		$db->free_result($result);
+		return $html;
+	}
+//===============================
+
+	function ShowCDMusicList($num,$spid,$vorder)
+	{
+		global $db;
+		$sql="SELECT movieid,title,thumb,my_singer,catid,specialid FROM ".channel_table('movie', 32)."  where status=3 and specialid=".$spid." ";
+		$sql=$sql."ORDER BY ".$vorder." DESC LIMIT ".$num."";
+		$result=$db->query($sql);
+		$html=$html.'<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" style="font-size:11pt;">';
+		$html=$html.'<form id="cdMusicList" name="cdMusicList" method="post" target="_blank" action="player/Anglash.php?catid='.$spid.'&spsong=1" onsubmit="chckform(cdMusicList)">';		
+		while($rs=$db->fetch_array($result))
+		{
+			$songname=$rs['title'];
+			$songid=$rs['movieid'];
+			$singer=$rs['my_singer'];
+			$catid=$rs['catid'];		
+			$html=$html.'<tr onmouseover="this.bgColor=\'#F0F0F0\'" onmouseout="this.bgColor=\'#FFFFFF\'">';
+			$html=$html.'<td width="10%" align="center"><a href="player/Anglash.php?check='.$songid.'&catid='.$catid.'" target="_blank"><img  src="images/phone.gif" border="0"/></a></td>';
+			$html=$html.'<td width="10%" align="center"><a href="player/Anglash.php?check='.$songid.'&catid='.$catid.'" target="_blank"><img  src="images/play.gif" border="0"/></a></td>';
+			$html=$html.'<td width="30%" height="24" align="center">'.$singer.'</td>';
+			$html=$html.'<td width="42%" align="right"><a href="player/Anglash.php?check='.$songid.'&catid='.$catid.'" target="_blank">'.$songname.'</a></td>';
+			$html=$html.'<td width="8%" align="center"><input type="checkbox" name="check[]" value="'.$songid.'" /></td>';
+			$html=$html.'</tr>';
+		}
+		$html=$html.'<tr>';
+		//$html=$html.'<td height="24" colspan="4" align="center"><input type="button" name="Submit" value="Play" onclick="javascript:window.open('"player/Anglash.php"','""','"width=316,height=435"')"/>';
+		$html=$html.'<td height="24" colspan="4" align="center"><input type="submit" name="Submit" value="ئاڭلاش" class="Tallash" />';
+		$html=$html.'&nbsp;<input type="button" name="Submit2" value="ھەممىنى تاللاش " onclick="CheckAll(cdMusicList)" class="Tallash" />';
+		$html=$html.'&nbsp;<input type="button" name="Submit2" value="ئەكسىنى تاللاش" onclick="CheckOthers(cdMusicList)" class="Tallash" /></td>';
+		$html=$html.'</tr>';
+		$html=$html.'</form>';	
+		$html=$html.'</table>';
+  		$db->free_result($result);
+		return $html;
+	}	
+	
+//==============================
+	function ShowLeftMusicList($num,$isflag,$catid,$vorder)
+	{
+		global $db;
+		$sql="SELECT movieid,title,thumb,my_singer,catid,hits FROM ".channel_table('movie', 32)."  where status=3 AND my_bianhao='' ";
+		switch($isflag)
+		{
+			case 1:
+				$sql=$sql." and catid=".$catid." ";
+				break;
+			default:
+				$sql=$sql;
+				break;
+		}
+		$sql=$sql."ORDER BY ".$vorder." DESC LIMIT ".$num."";
+		$result=$db->query($sql);
+		$i=0;
+		$html=$html.'<table width="98%" border="0" align="center" cellpadding="0" cellspacing="0" style="font-size:11pt;margin-top:10px;">';		
+		while($rs=$db->fetch_array($result))
+		{
+			$i=$i+1;
+			$songname=$rs['title'];
+			$songid=$rs['movieid'];
+			$singer=$rs['my_singer'];
+			$catid=$rs['catid'];
+			$hits=$rs['hits'];					
+			$html=$html.'<tr>';
+			//$html=$html.'<td width="7%" height="24" align="center"><a href="player/Anglash.php?check='.$songid.'&catid='.$catid.'" target="_blank"><img  src="images/phone.gif" border="0"/></a></td>';
+			//$html=$html.'<td width="7%" align="center"><a href="player/Anglash.php?check='.$songid.'&catid='.$catid.'" target="_blank"><img  src="images/play.gif" border="0"/></a></td>';
+			$html=$html.'<td width="7%" align="center" height="24">'.$hits.'</td>';
+			$html=$html.'<td width="40%" align="right"><a href="player/Anglash.php?check='.$songid.'&catid='.$catid.'" target="_blank">'.$songname.'</a></td>';
+			$html=$html.'<td width="6%" align="center" style="font-weight:bold;"><span class="numur">'.shownumber($i).'</span></td>';
+			$html=$html.'</tr>';
+		}
+		$html=$html.'<tr>';	
+		$html=$html.'</table>';
+  		$db->free_result($result);
+		return $html;
+	}
+	
+	function ShowPlayMusicList($num,$isflag,$catid,$vorder)
+	{
+		global $db;
+		$sql="SELECT movieid,title,thumb,my_singer,catid,hits FROM ".channel_table('movie', 32)."  where status=3 AND my_bianhao='' ";
+		switch($isflag)
+		{
+			case 1:
+				$sql=$sql." and catid=".$catid." ";
+				break;
+			default:
+				$sql=$sql;
+				break;
+		}
+		$sql=$sql."ORDER BY ".$vorder." DESC LIMIT ".$num."";
+		$result=$db->query($sql);
+		$i=0;
+		$html=$html.'<table width="98%" border="0" align="center" cellpadding="0" cellspacing="0" style="font-size:11pt;margin-top:10px;">';		
+		while($rs=$db->fetch_array($result))
+		{
+			$i=$i+1;
+			$songname=$rs['title'];
+			$songid=$rs['movieid'];
+			$singer=$rs['my_singer'];
+			$catid=$rs['catid'];
+			$hits=$rs['hits'];
+			if($i%2==0){
+				$iscolor='#FFFFFF';
+			}else{
+				$iscolor='#FDF8F2';			
+			}				
+			$html=$html.'<tr style="background-color:'.$iscolor.'">';
+			$html=$html.'<td width="6%" align="center" height="24"><a href="Anglash.php?check='.$songid.'&catid='.$catid.'" target="_blank"><img src="../images/play.gif" border="0"></a></td>';
+			$html=$html.'<td width="41%" align="right"><a href="Anglash.php?check='.$songid.'&catid='.$catid.'" target="_blank" style="color:#914e1f; font-size:11pt;">'.$songname.'</a></td>';
+			$html=$html.'<td width="6%" align="center" style="font-weight:bold;"><span class="numur">'.shownumber($i).'</span></td>';
+			$html=$html.'</tr>';
+		}
+		$html=$html.'<tr>';	
+		$html=$html.'</table>';
+  		$db->free_result($result);
+		return $html;
+	}	
+//==============================	
+	
+	//ShowCD(9,32,'specialid',3,80,90)
+	function ShowCD($num,$chid,$vorder,$ismod,$imgW,$imgH)
+	{
+		global $db;
+		$sql="SELECT specialid,arrchildid,specialname,keyid,specialpic,addtime,keyid,hits FROM phpcms_special  where keyid=".$chid." and parentid=0 ORDER BY ".$vorder." DESC LIMIT ".$num."";
+		$result=$db->query($sql);
+		$html='<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="margin-top:5px; margin-bottom:5px; font-size:11pt;direction:rtl">';
+		$html=$html.'<tr>';
+		$i=0;
+		while($rs=$db->fetch_array($result))
+		{
+			$i=$i+1;
+			$picurl=$rs['specialpic'];
+			$specialname=$rs['specialname'];
+			$spsinger=ShowCDsinger($rs['arrchildid']);
+			$addtime=date('Y-m-d',$rs['addtime']);
+			$hits=$rs['hits'];
+			$html=$html.'<td><div style="margin-top:5px;"><a href="EserTur.php?cdid='.$rs['arrchildid'].'&chid='.$rs['keyid'].'" target="_blank"><img src="../'.$picurl.'" border="0" width="'.$imgW.'" height="'.$imgH.'" style="border:#fff solid 1px; padding:3px 3px 3px 3px;"></a></div></td>';
+/*			$html=$html.'<td><div style="margin-right:5px;line-height:20px;text-align:right; margin-top:5px;">پىلاستىنكا:<a href="EserTur.php?cdid='.$rs['arrchildid'].'&chid='.$rs['keyid'].'" target="_blank">'.$specialname.'</a>';
+			$html=$html.'<br>تۈرى :'.$spsinger;
+			if($vorder!='hits'){
+			$html=$html.'<br>ۋاقىت:'.$addtime;
+			}else{
+			$html=$html.'<br>ئاۋاتلىقى :'.$hits;
+			}
+			$html=$html.'<br><a href="EserTur.php?cdid='.$rs['arrchildid'].'&chid='.$rs['keyid'].'" target="_blank">ئاڭلاش</a>';
+			$html=$html.'</div><td>';	*/
+			$html=$html.'<td><div style="margin-right:5px;line-height:20px;text-align:right; margin-top:5px;"><a href="EserTur.php?cdid='.$rs['arrchildid'].'&chid='.$rs['keyid'].'" target="_blank">'.str_cut($specialname,28).'</a>';
+			$html=$html.'<br>'.$spsinger;
+			if($vorder!='hits'){
+			$html=$html.'<br>ۋاقىت:'.$addtime;
+			}else{
+			//$html=$html.'<br>'.$hits;
+			}
+			//$html=$html.'<br><a href="EserTur.php?cdid='.$rs['arrchildid'].'&chid='.$rs['keyid'].'" target="_blank">ئاڭلاش</a>';
+			$html=$html.'</div><td>';						
+			if($i%$ismod==0)
+			{
+				$html=$html.'</tr><tr>';
+			}
+		}
+		$html=$html.'</tr>';
+		$html=$html.'</table>';
+		$db->free_result($result);
+		return $html;
+	}
+//=============================
+	function ShowAllCD($chid,$imgW,$imgH)
+	{
+		global $db;
+		$sql="SELECT specialid,arrchildid,specialname,keyid,specialpic,addtime,hits FROM phpcms_special  where arrchildid=".$chid." and parentid=0 and specialid>0 and keyid='32' ORDER BY specialid DESC";
+		$result=$db->query($sql);
+		$html='<table width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size:11pt;">';
+		while($rs=$db->fetch_array($result))
+		{
+			  $html=$html.'<tr>';
+				$picurl=$rs['specialpic'];
+				$specialname=$rs['specialname'];
+				$spsinger=ShowCDsinger($rs['arrchildid']);
+				$addtime=date('Y-m-d',$rs['addtime']);
+				$hits=$rs['hits'];
+				$html=$html.'<td align="right;"><a href="EserTur.php?cdid='.$rs['arrchildid'].'&chid='.$rs['keyid'].'" target="_blank"><img src="../'.$picurl.'" border="0" width="'.$imgW.'" height="'.$imgH.'" style="border:#fff solid 1px; padding:3px 3px 3px 3px;"></a></td>';
+				$html=$html.'<td><div style="margin-right:5px;line-height:20px;text-align:right; margin-top:5px;">نامى:<a href="EserTur.php?cdid='.$rs['arrchildid'].'&chid='.$rs['keyid'].'" target="_blank">'.str_cut($specialname,40).'</a>';
+				$html=$html.'<br>تۈرى :'.$spsinger;
+				if($vorder!='hits'){
+				$html=$html.'<br>ۋاقىت'.$addtime;
+				$html=$html.'<br>ئاۋاتلىقى:'.$hits;
+				}
+				//$html=$html.'<br><a href="EserTur.php?cdid='.$rs['arrchildid'].'&chid='.$rs['keyid'].'" target="_blank">ئاڭلاش</a>';
+				$html=$html.'</div><td>';
+			   $html=$html.'</tr>';
+		}
+		$html=$html.'</table>';
+		$db->free_result($result);
+		return $html;
+	}
+//=============================	
+	
+	function shownumber($number)
+	{
+		if($number<=9)
+		{
+			$numberList='0'.$number;
+		}else{
+			$numberList=$number;		
+		}
+		return $numberList;
+	}
+	
+//=======================================
+	function ShowMTVList($num,$isflag,$vorder,$modnum,$imgW,$imgH,$keywords)
+	{
+		global $db;
+		$divW=$imgW+3;
+		$divH=$imgH+3;
+		$sql="SELECT movieid,catid,title,thumb,my_singer FROM ".channel_table('movie', 15)."  where status=3 ";
+		switch($isflag)
+		{
+			case 1:
+				$sql=$sql."  and title like '%".$keywords."%' ";
+				break;
+			case 2:
+				$sql=$sql." and my_singer like '%".$keywords."%' ";
+				break;	
+			case 3:
+				$sql=$sql."  and title like '%".$keywords."%' ";
+				break;										
+			default:
+				$sql=$sql;
+				break;
+		}
+		$sql=$sql."ORDER BY ".$vorder." DESC LIMIT ".$num;
+		$result = $db->query($sql);
+		$i=0;
+		$html='<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">';
+		$html=$html.'<tr>';
+		while($rs = $db->fetch_array($result))
+		{
+			$i=$i+1;
+			$mtvid=$rs['movieid'];
+			$keywords='uploadfile';
+			$okey='uploadfile_mtv';
+			$listurl=$rs['thumb'];
+			$murl=explode("/",$listurl);
+			$lurl=$murl[2];
+			if($lurl!=$okey){
+				$listurl=str_replace($keywords,$okey,$lurl);				
+				$listurl='/uploadfile/mtv/'.$listurl.'/'.$murl[3].'/'.$murl[4];
+			}else{
+				$listurl='/'.$listurl;
+			}	
+			$mtvname=$rs['title'];
+			$html=$html.'<td>';
+			//$html=$html.'<div style="width:'.$divW.'px; height:'.$divH.'px; border:#666666 solid 1px; margin-top:2px;">';
+			$html=$html.'<div style="width:'.$divW.'px; height:'.$divH.'px; margin-top:2px;">';
+			$html=$html.'<a href="../mtv/mtvAnglash.php?mtvid='.$mtvid.'" target="_blank" ><img src="'.$listurl.'" border="0" width="'.$imgW.'" height="'.$imgH.'" style="background-color:#fafafa; padding:5px 5px 5px 5px; border:#000 solid 1px;"></a>';
+			$html=$html.'</div>';
+			$html=$html.'<div style="width:'.$divW.'px; height:18px; line-height:20px; text-align:center;margin-top:2px;">';
+			$html=$html.'<a href="../mtv/mtvAnglash.php?mtvid='.$mtvid.'" target="_blank" style="font-size:11pt; direction:rtl;">'.str_cut($mtvname,24).'</a>';
+			$html=$html.'</div>';
+			//$html=$html.'<div style="width:'.$divW.'px; height:18px; line-height:20px; text-align:right; border:#666666 solid 1px; margin-top:5px;">';
+			//$html=$html.'<a href="mtvAnglash.php?mtvid='.$mtvid.'" target="_blank">'.$mtvname.'</a>';
+			//$html=$html.'</div>';						
+			$html=$html.'</td>';
+			if($i%$modnum==0)
+			{
+				$html=$html.'</tr><tr>';
+			}
+		}
+		$html=$html.'</tr>';
+		$html=$html.'</table>';	
+		$db->free_result($result);	
+		return $html;
+	}
+	
+//=================================
+	function ShowSinger($catid)
+	{
+		global $db;
+		$sql="SELECT my_singer from phpcms_movie_32 where catid=".$catid." and my_singer!='' group by my_singer";
+		$rstur=$db->query($sql);
+		while($rs=$db->fetch_array($rstur))
+		{
+			$my_singer=$rs['my_singer'];
+			$mysinger=$mysinger.'<a href="usersearch.php?stype=2&keywords='.$my_singer.'" style="font-size:11pt;line-height:24px;" target="_blank">['.$my_singer.']</a>'.'&nbsp;&nbsp;&nbsp;';
+		}
+		$db->free_result($rstur);
+		return $mysinger;
+	}
+	
+	function ShowCD_new($num,$chid,$vorder,$ismod,$imgW,$imgH,$bigimg=0)
+	{
+		global $db;
+		$sql="SELECT specialid,arrchildid,specialname,keyid,specialpic,addtime,keyid,hits FROM phpcms_special  where keyid=".$chid." and parentid=0 ORDER BY ".$vorder." DESC LIMIT ".$num."";
+		$result=$db->query($sql);
+		$html='<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="margin-top:5px; margin-bottom:5px; font-size:11pt;direction:rtl">';
+		$html=$html.'<tr>';
+		$i=0;
+		while($rs=$db->fetch_array($result))
+		{
+			$i=$i+1;
+			$picurl=$rs['specialpic'];
+			$specialname=$rs['specialname'];
+			$spsinger=ShowCDsinger($rs['arrchildid']);
+			$addtime=date('Y-m-d',$rs['addtime']);
+			$hits=$rs['hits'];
+			$html=$html.'<td>';
+			$html=$html.'<div style="margin-top:3px;"><a href="EserTur.php?cdid='.$rs['arrchildid'].'&chid='.$rs['keyid'].'" target="_blank"><img src="../'.$picurl.'" border="0" width="'.$imgW.'" height="'.$imgH.'" style="border:#fff solid 1px; padding:3px 3px 3px 3px;"></a></div>';	
+			$html=$html.'<div style="margin-top:5px;line-height:20px;"><a href="EserTur.php?cdid='.$rs['arrchildid'].'&chid='.$rs['keyid'].'" target="_blank">'.str_cut($specialname,33).'</a></div>';		
+			$html=$html.'</td>';					
+			if($i%$ismod==0)
+			{
+				$html=$html.'</tr><tr>';
+			}
+		}
+		$html=$html.'</tr>';
+		$html=$html.'</table>';
+		$db->free_result($result);
+		return $html;
+	}					
+?>﻿document.write('<table width="96%" border="0" align="center" cellpadding="0" cellspacing="0" style="margin-top:10px;" dir="rtl">');
+document.write('<tr style="border:#fafafa dotted 1px;">');
+document.write('<td align="right" height="24">');document.write('<li><a href="/awaz/player/Anglash.php?check=2891&catid=168" target="_blank" style="color:#914E1F">');document.write('لەۋدىن قەلىبكە   16');document.write('</a>');document.write('</td>');document.write('<td align="center" width="10%">');document.write('<a href="/awaz/player/Anglash.php?check=2891&catid=168" target="_blank">');document.write('<img  src="/awaz/images/play.gif" border="0"/>');document.write('</a></li>');document.write('</td>');document.write('</tr>');
+document.write('<tr style="border:#fafafa dotted 1px;">');
+document.write('<td align="right" height="24">');document.write('<li><a href="/awaz/player/Anglash.php?check=2890&catid=168" target="_blank" style="color:#914E1F">');document.write('لەۋدىن قەلىبكە   15');document.write('</a>');document.write('</td>');document.write('<td align="center" width="10%">');document.write('<a href="/awaz/player/Anglash.php?check=2890&catid=168" target="_blank">');document.write('<img  src="/awaz/images/play.gif" border="0"/>');document.write('</a></li>');document.write('</td>');document.write('</tr>');
+document.write('<tr style="border:#fafafa dotted 1px;">');
+document.write('<td align="right" height="24">');document.write('<li><a href="/awaz/player/Anglash.php?check=2889&catid=168" target="_blank" style="color:#914E1F">');document.write('لەۋدىن قەلىبكە   14');document.write('</a>');document.write('</td>');document.write('<td align="center" width="10%">');document.write('<a href="/awaz/player/Anglash.php?check=2889&catid=168" target="_blank">');document.write('<img  src="/awaz/images/play.gif" border="0"/>');document.write('</a></li>');document.write('</td>');document.write('</tr>');
+document.write('<tr style="border:#fafafa dotted 1px;">');
+document.write('<td align="right" height="24">');document.write('<li><a href="/awaz/player/Anglash.php?check=2888&catid=168" target="_blank" style="color:#914E1F">');document.write('لەۋدىن قەلىبكە   13');document.write('</a>');document.write('</td>');document.write('<td align="center" width="10%">');document.write('<a href="/awaz/player/Anglash.php?check=2888&catid=168" target="_blank">');document.write('<img  src="/awaz/images/play.gif" border="0"/>');document.write('</a></li>');document.write('</td>');document.write('</tr>');
+document.write('<tr style="border:#fafafa dotted 1px;">');
+document.write('<td align="right" height="24">');document.write('<li><a href="/awaz/player/Anglash.php?check=2887&catid=168" target="_blank" style="color:#914E1F">');document.write('لەۋدىن قەلىبكە   12');document.write('</a>');document.write('</td>');document.write('<td align="center" width="10%">');document.write('<a href="/awaz/player/Anglash.php?check=2887&catid=168" target="_blank">');document.write('<img  src="/awaz/images/play.gif" border="0"/>');document.write('</a></li>');document.write('</td>');document.write('</tr>');
+document.write('<tr style="border:#fafafa dotted 1px;">');
+document.write('<td align="right" height="24">');document.write('<li><a href="/awaz/player/Anglash.php?check=2886&catid=168" target="_blank" style="color:#914E1F">');document.write('لەۋدىن قەلىبكە   11');document.write('</a>');document.write('</td>');document.write('<td align="center" width="10%">');document.write('<a href="/awaz/player/Anglash.php?check=2886&catid=168" target="_blank">');document.write('<img  src="/awaz/images/play.gif" border="0"/>');document.write('</a></li>');document.write('</td>');document.write('</tr>');
+document.write('<tr style="border:#fafafa dotted 1px;">');
+document.write('<td align="right" height="24">');document.write('<li><a href="/awaz/player/Anglash.php?check=2885&catid=168" target="_blank" style="color:#914E1F">');document.write('لەۋدىن قەلىبكە   10');document.write('</a>');document.write('</td>');document.write('<td align="center" width="10%">');document.write('<a href="/awaz/player/Anglash.php?check=2885&catid=168" target="_blank">');document.write('<img  src="/awaz/images/play.gif" border="0"/>');document.write('</a></li>');document.write('</td>');document.write('</tr>');
+document.write('<tr style="border:#fafafa dotted 1px;">');
+document.write('<td align="right" height="24">');document.write('<li><a href="/awaz/player/Anglash.php?check=2884&catid=168" target="_blank" style="color:#914E1F">');document.write('لەۋدىن قەلىبكە   9');document.write('</a>');document.write('</td>');document.write('<td align="center" width="10%">');document.write('<a href="/awaz/player/Anglash.php?check=2884&catid=168" target="_blank">');document.write('<img  src="/awaz/images/play.gif" border="0"/>');document.write('</a></li>');document.write('</td>');document.write('</tr>');
+document.write('<tr style="border:#fafafa dotted 1px;">');
+document.write('<td align="right" height="24">');document.write('<li><a href="/awaz/player/Anglash.php?check=2883&catid=168" target="_blank" style="color:#914E1F">');document.write('لەۋدىن قەلىبكە   8');document.write('</a>');document.write('</td>');document.write('<td align="center" width="10%">');document.write('<a href="/awaz/player/Anglash.php?check=2883&catid=168" target="_blank">');document.write('<img  src="/awaz/images/play.gif" border="0"/>');document.write('</a></li>');document.write('</td>');document.write('</tr>');
+document.write('<tr style="border:#fafafa dotted 1px;">');
+document.write('<td align="right" height="24">');document.write('<li><a href="/awaz/player/Anglash.php?check=2882&catid=168" target="_blank" style="color:#914E1F">');document.write('لەۋدىن قەلىبكە   7');document.write('</a>');document.write('</td>');document.write('<td align="center" width="10%">');document.write('<a href="/awaz/player/Anglash.php?check=2882&catid=168" target="_blank">');document.write('<img  src="/awaz/images/play.gif" border="0"/>');document.write('</a></li>');document.write('</td>');document.write('</tr>');
+document.write('<tr style="border:#fafafa dotted 1px;">');
+document.write('<td align="right" height="24">');document.write('<li><a href="/awaz/player/Anglash.php?check=2881&catid=168" target="_blank" style="color:#914E1F">');document.write('لەۋدىن قەلىبكە   6');document.write('</a>');document.write('</td>');document.write('<td align="center" width="10%">');document.write('<a href="/awaz/player/Anglash.php?check=2881&catid=168" target="_blank">');document.write('<img  src="/awaz/images/play.gif" border="0"/>');document.write('</a></li>');document.write('</td>');document.write('</tr>');
+document.write('</table>');

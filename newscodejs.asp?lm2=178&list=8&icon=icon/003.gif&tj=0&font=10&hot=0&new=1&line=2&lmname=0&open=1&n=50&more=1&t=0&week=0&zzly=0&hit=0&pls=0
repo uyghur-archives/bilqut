@@ -1,0 +1,65 @@
+<!-- Tor bat exligu chi Ablimitjan Maham  QQ :250092392    Tel: 6722530    E-Mail :Raziman@126.com ,ablmtjan@126.com -->
+document.write("<head></head>");
+
+
+document.write("<table border=0 cellpadding=2 cellspacing=0 width=100%>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=596 target=_blank><font color='' style='font-size:10pt'>نورۇز بايرىمى</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=595 target=_blank><font color='' style='font-size:10pt'>مەشرەپتىكى جۇۋاز ئويۇنى</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=594 target=_blank><font color='' style='font-size:10pt'>كۆك مەشرىپى</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=593 target=_blank><font color='' style='font-size:10pt'>قېيت مەشرىپى</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=592 target=_blank><font color='' style='font-size:10pt'>دولان مەشرىپى ۋە دولان ئۇسس...</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=591 target=_blank><font color='' style='font-size:10pt'>ئوتتۇز ئوغۇل مەشرىپى</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:10pt'><img src=icon/003.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=590 target=_blank><font color='' style='font-size:10pt'>مەشرەپ ئويۇنى</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=right colspan=2></td></tr>");
+
+document.write("</table>");

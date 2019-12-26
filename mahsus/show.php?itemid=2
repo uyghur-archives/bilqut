@@ -1,0 +1,365 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>قاسىم سىدىق. ئېينىشتېيىن ئېفىرنى &quot;پۇتۇنلەي ئىنكار قىلغان&quot;مۇ؟-مەخسۇس سەھىپىلەر-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,مەخسۇس سەھىپىلەر">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/mahsus/" class="red"> مەخسۇس سەھىپىلەر</a>
+         | <a class="razimantur" href="/mahsus/list.php?catid=132" >قاسىم سىدىق ئىلمىي ماقالىلىرى</a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/mahsus/">مەخسۇس سەھىپىلەر</a> >> <a href="/mahsus/list.php?catid=132">قاسىم سىدىق ئىلمىي ماقالىلىرى</a> >>  قاسىم سىدىق. ئېينىشتېيىن ئېفىرنى &quot;پۇتۇنلەي ئىنكار قىلغان&quot;مۇ؟</div>
+<!--主标题--><h1>قاسىم سىدىق. ئېينىشتېيىن ئېفىرنى &quot;پۇتۇنلەي ئىنكار قىلغان&quot;مۇ؟ </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-04-16 15:46:06&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">245</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">ئېينىشتېيىن ئېفىرنى &quot;پۇتۇنلەي ئىنكار قىلغان&quot;مۇ؟ 
+
+
+قاسىم سىدىق 
+
+1 
+
+
+بۇ مەسىلىگە مۇناسىۋەتلىك پەننى ئومۇملاشتۇرۇش خاراكتىرىدىكى نۇرغۇن ماتىرياللاردا، ئالبىرىت ئېينىشتېيىن ئېفىر ئەرۋاھىنى ئۇزۇل- كىسىل گۆرگە تىقتى، &quot;پۇتۇنلەي ئىنكار قىلدى (1)&quot; ۋەھاكازا دىگەندەك سۆزلەرنى كۆپلەپ ئۇچىراتقىلى بولىدۇ. نەتىجىدە &quot;ئېينىشتېيىن ئېفىرنى پۇتۇنلەي ئىنكار قىلغان&quot; دىگەن چۇشەنچە ئۇبدانلا ئومۇملاشقان چۇشەنچە بولۇپ قالدى. ھالبۇكى، ھىچقاچان &quot;ئېينىشتېيىن ئېفىرنى مۇقەررەر مەۋجۇت ئەمەس دەپ پەرەز قىلمىغان(2)&quot; بولۇپ، پاكىتلار يۇقۇرىدىكىدەك ھۆكۇملەر بىلەن ئەسلا سىغىشمايدۇ. 
+ئېينىشتېيىن ئۆزىنىڭ &quot;ھەركەتتىكى جىسىملارنىڭ ئېلىكتىر دىنامىكىسى ھەققىدە(3)&quot; ناملىق دەۋر بۆلگۈچ ئەسىرىدە نىسبىلىك پىرىنسىپى بىلەن يورۇقلۇق تېزلىكىنىڭ ئۆزگەرمەسلىك پىرىنسىپىدىن ئىبارەت &quot;ئىككى ماتىماتىكىلىق پەرەز&quot;گە تايىنىپ ئېفىر ھەققىدە شۇنداق يازىدۇ: ماكسىۋىل نەزىريىسىگە تايىنىپ،&quot;بۇ ئىككى ماتىماتىكىلىق پەرەزگە ئاساسەن ھەركەتتىكى جىسىملارنىڭ ئاددى ۋە زىدىيەتلىك بولمىغان ئېلىكتىر دىنامىكىسىنى قولغا كەلتۇرگىلى بولىدۇ. &quot;يورۇقلۇق ئېفىرى&quot;نىڭ ئارتۇقچە ئىكەنلىگى ئىسپاتلاندى. چۇنكى، بۇ يەردە شەرھىلەنگەن كۆز قاراشلارغا ئاساسلانغاندا ئالاھىدە خۇسۇسيەتكە ئېگە بولغان&quot;مۇتلەق تىنچ بوشلۇق&quot;نى كىرگۇزۇشنىڭ زۆرۈرىيىتى يوق. شۇنداقلا، ئېلىكتىر ماگىنىت جەريانلىرى يۈز بېرىدىغان ھەقىقى بوشلۇقنىڭ ھەربىر نوقتىسى ئۈچۈن بىر تېزلىك ۋىكتۇرى بەلگۇلەشنىڭمۇ ھاجىتى يوق(4)&quot;. 
+كۆرۈنۈپ تۇرۇپتۇكى، بۇ يەردە ئاللىقانداقتۇر ئېفىرنى پۇتۇنلەي يوق دىيىش مەسىلىسى مەۋجۇت ئەمەس. پەقەت مەسىلىنى ئېفىرنىڭ ئىشتىراكىسىزمۇ ھەل قىلىش مۈمكىنلىگى ئوتتۇرىغا قويولغان. 
+ئېينىشتېيىن تار مەنىلىك نىسبىلىك نەزىريىسىدە ئېفىرنى &quot;تاشلىۋەتتى&quot; دېگەن تەقدىردىمۇ، بۇنىڭلىق بىلەن ئېينىشتېيىن ئېفىرنى ئۇزۇل –كېسىل يوقاتتى دېگىلى ھەرگىز بولمايدۇ. چۇنكى، ئېينىشتېيىن كەڭ مەنىلىك نىسبىلىك نەزىريىسىدە ئېفىرنى قايتا ئېلىپ كىرىدۇ؛ &quot;تار مەنىلىك نىسبىلىك نەزىريىسى نوقتىسىدىن قارىغاندا، ئېفىر پەرىزى ئىشلىتىش قىممىتى يوق پەرەز... بىراق، باشقا بىر نوقتىدىن ئېفىر پەرىزىگە پايدىلىق بولغان ئاساسلارنى ئوتتۇرىغا قويوش مۇمكىن. ئېفىرنىڭ مەۋجۇتلىكىنى ئىنكار قىلىش ئاقىۋەت ھەقىقى بوشلۇقنىڭ ھېچقانداق فىزىكىلىق خۇسۇسيەتكە ئېگە ئەمەسلىكىدىن دېرەك بىرىدۇ، بۇخىل قاراش مىخانىكىنىڭ تۈپ ئەمەلىيىتىگە ئۇيغۇن ئەمەس(5)&quot; 
+ئېينىشتېيىن ئېفىرنى ئۇزۇل – كىسىل ئىنكار قىلىش بۇياقتا تۇرسۇن دەل ئۇنىڭ ئەكىسچە ئۇنى ئۇزۇل – كىسىل مۇئەييەنلەشتۇرىدۇ. 
+&quot;كەڭ مەنىلىك نىسبىلىك نەزىرىيىسىگە ئاساسلانغاندا بوشلۇققا ئاللىقاچان فىزىكىلىق خاراكتىر بېرىلگەن بولىدۇ...ئېفىر بولمىغان بىرخىل بوشلۇقنى تەسەۋۇر قىلىش مۈمكىن ئەمەس. چۈنكى، بۇنداق بوشلۇقتا يورۇقلۇق تارقىلالمايلا قالماي، بەلكى،ئۇنىڭدا ئۆلچىگۇچ ۋە سائەتنىڭ مەۋجۇت بولۇپ تۇرالىشىمۇ مۈمكىن ئەمەس(6)&quot;. 
+ئېينىشتېيىن نەزىرىدە مەيدان، بوشلۇق ۋە ئېفىر قاتارلىقلار ھەرگىز ئايرىم – ئايرىم نەرسە ئەمەس؛ &quot;لورنتىسنىڭ ئىختىراسى تۈپەيلى بۇگۇن شۇنداق ئېيتىش مۈمكىنكى، فىزىكىلىق بوشلۇق ۋە ئېفىر بىرلا خىل نەرسىنىڭ ئىككى خىل ئاتىلىشى بولۇپلا قالماي، مەيدان بوشلۇقىنىڭ فىزىكىلىق ھالىتىدۇر(7)&quot;. 
+ئېينىشتېيىن ئېفىرنى تاشلىۋىتىش بۇياقتا تۇرسۇن، ھەتتا، ئونىڭ خۇسۇسىيەت، فۇنكىتسىيىلىرىنى تەسۋىرلەپ ئۆتىدۇ. 
+&quot;كەڭ مەنىلىك نىسبىلىك نەزىرىيىسىنىڭ ئېفىرى شۇنداق بىر مۇھىتتىكى، ئۇنىڭ ئۆزىدە پۈتۈنلەي مىخانىكىلىق ۋە كىنېماتىكىلىق خۇسۇسىيەت يوق. بىراق، ئۇ مىخانىكىلىق ھادىسىلەرنى بەلگۇلەشكە قاتنىشىدۇ(8)&quot;. 
+تارمەنىلىك نىسبىلىك نەزىرىيىسىمۇ ئېفىرنى ھىچقاچان ئىنكار قىلمىغان؛ &quot;ئىنچىكە ۋە توغرا ھېساپلاشلار كۆرسەتتىكى، تار مەنىلىك نىسبىلىك نەزىرىيىسى زادىلا ئېفىرنى جەزمەن ئىنكار قىلىشنى تەلەپ قىلغىنى يوق. ئېفىرنىڭ مەۋجۇتلىقىنى پەرەز قىلىشقا بولىدۇ(9)&quot;. 
+دېمەك، يۇقۇرىقىلاردىن كۆرۈپ ئېلىشقا بولىدۇكى، نىسبىلىك نەزىرىيىسى ئېفىرنى ھىچقاچان &quot;پۇتۇنلەي ئىنكار قىلغان&quot; ئەمەس. مەيدان ئۇقۇمى تەدىرىجى ھالدا ئېفىر ئۇقۇمى، شۇنداقلا، بوشلۇق ئۇقۇمىنىڭ ئورنىغا دەسسەشكە باشلىدى دىيىشكە بولىدۇ. 
+ئېينىشتېيىنچە ئېيىتساق، يۇقۇرىدا نامى زىكىر قىلىنغان بۇ ئۈچ نەرسە ماھىيەتتە بىرلا نەرسىدىن ئىبارەت. 
+
+2 
+
+مەشھۇر مېكلىسۇن – مورلى تەجىربىسى (1881-1887) ئاخىرقى قېتىم ئىشلەنگەن ۋاقىتتا ئېينىشتېيىن تېخى ئىككى ياشتا ئىدى. كۆپچىلىك نەزىرىدە ئېفىرنىڭ مەۋجۇت ئەمەسلىكىنى تولۇق ئىسپاتلىدى دەپ قارالغان بۇ تەجرىبىدىن ئېينىشتېيىن ئۆزىنىڭ &quot;ھەركەتتىكى جىسىملارنىڭ ئېلىكتىر دىنامىكىسى ھەققىدە&quot; ناملىق مەشھۇر ئەسىرىنى يازغان ۋاقىتتا تېخى خەۋەرسىز ئىدى؛ &quot;مېنىڭ ئىدىيىۋى تەرەققىيات جەريانىمدا مېكلىسوننىڭ نەتىجىسى چوڭ تەسىر كۆرسەتكىنى يوق. مەن ھەتتا بۇ تېمىغا مۇناسىۋەتلىك تۇنجى ئىلمى ماقالەمنى يازغان ۋاقىتتا(1905-يىلى)زادى ئۇنى بىلەتتىممۇ ياكى بىلمەيىتتىممۇ؟(10)&quot; 
+&quot;مەن مېكلىسۇننى ھامان ئىلىم – پەن ساھاسىدىكى سەنئەتكار ھىساپلايمەن... ئۇ، ئۆزىنى ھىچقاچان پەن ساھاسىدىكى تەلەپچان &quot;مۇتەخەسىس&quot;ھىسابلىغان ئەمەس. ئەمىليەتتىمۇ شۇنداق(11)&quot;. 
+بىز، يۇقۇرىدىكى بايانلاردىن ئېينىشتېيىن تار مەنىلىك نىسبىلىك نەزىرىيىسىنى ئوتتۇرىغا قويغاندا مېكسىلۇن- مورلې تەجرىبىسىنى ئەمەس، بەلكى، &quot;يارقىن لوگىكىلىق ئىدىيە&quot;نى ئاساس قىلغانلىقىنى (12)كۆرۈۋىلىش بىلەن بىرگە ، ئۇنىڭ بۇ تەجرىبىگە تۇتقان پۇزىتسىيەسىنىمۇ كۆرۈپ ئالالايمىز. 
+ئېينىشتېيىن گەرچە 1905-يىلى يۇقۇرىدىكى تەجرىبىدىن خەۋەرسىز بولسىمۇ، لېكىن، ئۇزۇن ئۆتمەي ئۇنىڭدىن خەۋەردار بولغان ئىدى(13). ئۇ، كەڭ مەنىلىك نىسبىلىك نەزىرىيىسى ۋە ئېفىرنى مۇئەييەنلەشتۈرىدىغان بايانلارنى يۇقۇرىدىكى تەجرىبىدىن خەۋەردار ھالەتتە ئوتتۇرىغا قويغان. 
+دېمەك، ئېينىشتېيىن مېكلىسۇن – مورلې تەجرىبىسىنىڭ نەتىجىسىگە قانائەتلەنگەن ئەمەس. ئەگەر ئېينىشتېيىن بۇ تەجرىبە مەسىلىنى ئۈزۈل-كېسىل ھەل قىلدى دەپ قارىغان بولسا، كېيىن يەنە ئېفىرنى ئېلىپ كىرمىگەن بولاتتى. 
+ئېينىشتېيىن مېكلسۇن – مورلې تەجرىبىسىگە باشتىن ئاخىر گۇمانلىق پۇزىتسىيە تۇتقان دەپ قاراشقا بولىدۇ. بۇ مەسىلىنى ئايدىڭلاشتۇرۇپ ئېلىش ئۈچۈن ئامىرىكا كاسىسىېى سانائەت ئىنىستىتۇتىنىڭ فىزىكا فىروفىسسۇرى S. R. شانىگىلانىدنىڭ ئېينىشتېيىن بىلەن ئېلىپ بارغان تۆت پارچە سوھبەت خاتىرىسىنى(14) كۆرۇپ چىقىش مۇئەييەن قىممەتكە ئىگە. 
+شانگىلانىد شۇنداق يازىدۇ: &quot;مەن ئېنىشتېينگە ،مېكلسۇن كاسسېدا ئۆز ئوقۇغۇچىلىرىغا سۆزلىگەن نۇتقىدا ئۆزىنىڭ پۇتىسدام تەجرىبىسىنى ھەرگىز ئېيىتمىغان، ھەتتا ئۆزىنىڭ ئىنتىروفىرومېتىرنىڭ شەكلىنىمۇ سۆزلىمىگەن، دېۋىدىم، ئېينىشتېيىن: بۇنداق بولىشى ئىنتايىن تەبىئى، چۈنكى، بىر ئوقۇتقۇچىنىڭ ئوقوغۇچىلارغا بىلدۈردىغانلىرى پۈتۈنلەي مۇقۇملاشتۇرۇلغان پاكىتلار بولىشى كېرەك،دىدى(15)&quot; 
+ئېينىشتېيىننىڭ ئېفىر ھەققىدىكى كۆز قاراشلىرىدىن قارىغاندا،دەرۋەقە، مېكلىسۇن تەجرىبىسىنىڭ نەتىجىسى تېخى &quot;مۇقۇملاشتۇرۇلغان پاكىت&quot; ئەمەس ئىدى. ئۇ، مېكلىسوننىڭ &quot;سەنئەتكار&quot;ئىكەنلىكى ۋە ئۇنىڭ تەجرىبىسىنىڭ بەك &quot;گۇزەل&quot; ئىكەنلىكىنى قايتا- قايتا تىلغا ئالىدۇ. لېكىن، بۇ تەجرىبىنىڭ نەتىجىسىگە سۆھبەت جەريانىدا باشتىن –ئاياق پۇزىتسىيە بىلدۈرمەيدۇ. 
+يىغىپ ئېيىتقاندا، بىز يۇقۇرىقىلاردىن ئېينىشتېيىننىڭ ئېفىرنى ساقلاپ قالغانلىغى، مېكلىسۇن تەجرىبىسى بىلەن ئېينىشتېيىن ئىدىيىسى ئوتتۇرىسدىكى مۇناسىۋەت بەزى كىشىلەر ئېيتىپ يۈرگەندەك ئۇنچىۋالا زىچ باغلىنىشقا ۋە بىردەكلىككە ئېگە ئەمەسلىكىنى كۆرۇپ ئالالايمىز. 
+
+ئىزاھلار (ئاپتۇردىن) 
+
+(1) جاۋ باۋ جىڭ – &quot;فارادې&quot; – ئۇيغۇرچە نەشىرى – 54-بەت. 
+N.B لېدنك – &quot;مەيدان&quot; – ئۇيغۇرچە نەشىرى- 178-بەت. (2) 
+(3) &quot;ئىېنىشتېيىن ئەسەرلىرى&quot; – سودا نەشىرىياتى 1977-يىل نەشىرى. 2-تۇم. 83-بەت. بو ماقالە ئەسلى 1905-يىلى 6-ئايدا يىزىلغان. 9-ئايدا &quot;گىرمانىيە فىزىكا ژورنىلى&quot;دا ئېلان قىلىنغان. 
+(4) يۇقۇرىدىكى كىتاپ 84-بەت. 
+(5) يۇقۇرىدىكى كىتاپ. 1-توم. 125-بەت. 
+(6) يۇقۇرىدىكى كىتاپ 1-توم. 128-بەت. 
+(7) يۇقۇرىدىكى كىتاپ. 261-بەت. 
+(8) يۇقۇرىدىكى كىتاپ. 126-127-بەتلەر. 
+(9) يۇقۇرىدىكى كىتاپ. 124-بەت. 
+(10) يۇقۇرىدىكى كىتاپ. 617-بەت. 
+(11) يۇقۇرىدىكى كىتاپ. 561-بەت. 
+(12) گېئورگى. گاموف – &quot;فىزىكىنىڭ تەرەققىيات تارىخى&quot; ئۇيغۇرچە نەشىرى. 297-بەت. 
+(13) &quot;ئېينىشتېيىن ئەسەرلىرى&quot; – 1-توم 489-بەت. 
+(14) يۇقۇرىدىكى كىتاپ 489،561،566،617-بەتلەر. 
+(15) يۇقۇرىدىكى كىتاپ. 563-بەت. 
+
+1990-يىل ئاۋغۇسىت. 
+</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/2009/0705/22.htm" title="ئەھمەدجان ئىكرام"  target="_blank" class="tag_title_link">ئەھمەدجان ئىكرام</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=21" title="ھەر بىر پەن ئۆزىنىڭ پەلسەپەسىنى تېپىۋىلىشى كېرەك"  target="_blank" class="tag_title_link">ھەر بىر پەن ئۆزىنىڭ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=20" title="ھاۋا قاچىلاپ ماڭىدىغان ماشىنا ياسالدى!"  target="_blank" class="tag_title_link">ھاۋا قاچىلاپ ماڭىد...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=16" title="قاسىم سىدىق تەنقىد ۋە مۇئەييەنلەشتۈرۈش ئوخشاشلا موھىم"  target="_blank" class="tag_title_link">قاسىم سىدىق تەنقىد ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=15" title="قاسىم سىدىق . فىزىكىلىق&nbsp;&nbsp;شەكىل نەزەرىيىسى"  target="_blank" class="tag_title_link">قاسىم سىدىق . فىزىك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=14" title="قۇربانجان سەمەت : «فىزىكىلىق شەكىل نەزەرىيىسى» توغرىسىدا ئويلىغانلىرىم"  target="_blank" class="tag_title_link">قۇربانجان سەمەت : «...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=13" title="قاسىم سىدىق،&nbsp;&nbsp;قۇربانجان سەمەت،&nbsp;&nbsp;ئابلىمىت ھاكىم ھاجىم&nbsp;&nbsp;:قاتلاملىق ئالەم"  target="_blank" class="tag_title_link">قاسىم سىدىق،  قۇربا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=12" title="قاسىم سىدىق :&nbsp;&nbsp; ئالەمنىڭ بىر&nbsp;&nbsp;كۈنى ۋە&nbsp;&nbsp;&quot;ئالەم سائىتى&quot;"  target="_blank" class="tag_title_link">قاسىم سىدىق :   ئالە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=11" title="قاسىم سىدىق&nbsp;&nbsp;&nbsp;&nbsp;ئېلېمېنتار ئالەم ۋە دەۋرى ئالەم"  target="_blank" class="tag_title_link">قاسىم سىدىق    ئېلېم...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=10" title="قاسىم سىدىق:&nbsp;&nbsp; كەڭ تورداشلارغا&nbsp;&nbsp;سالام"  target="_blank" class="tag_title_link">قاسىم سىدىق:   كەڭ ت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=9" title="زامانداشلىرىمغا ئوچۇق خەت"  target="_blank" class="tag_title_link">زامانداشلىرىمغا ئو...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=8" title="ئىلىم پەن ساھەسىدىكى نوپۇزلۇق ئەربابلارنىڭ&nbsp;&nbsp;‹‹ بوشلۇق نەزەرىيىسى ››گە (فىزىكىلىق شەكىل نەز"  target="_blank" class="tag_title_link">ئىلىم پەن ساھەسىدى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=7" title="&quot;چوڭ پارتىلاش ئالەم مودېلى&quot; دىن ئالەمگە نەزەر"  target="_blank" class="tag_title_link">&quot;چوڭ پارتىلاش ئالەم...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=6" title="قاسىم سىدىق ---&quot;يوقلۇق&quot; ۋە ئالەمنى بىلىش مەسىلىسى"  target="_blank" class="tag_title_link">قاسىم سىدىق ---&quot;يوقل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=5" title="قاسىم سىدىق--《ئوبىكتىپ زامان》- خاتا سەزگۈمۇ ۋە ياكى چىنلىق؟"  target="_blank" class="tag_title_link">قاسىم سىدىق--《ئوبىك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=4" title="قاسىم سىدىق--ساختا 《چەكسىزلىك》ۋە ھەقىقى چەكسىزلىك"  target="_blank" class="tag_title_link">قاسىم سىدىق--ساختا ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=3" title="قاسىم سىدىق--ئالىم بولماق ئاسان ئەمەس"  target="_blank" class="tag_title_link">قاسىم سىدىق--ئالىم ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=2" title="قاسىم سىدىق. ئېينىشتېيىن ئېفىرنى &quot;پۇتۇنلەي ئىنكار قىلغان&quot;مۇ؟"  target="_blank" class="tag_title_link">قاسىم سىدىق. ئېينىش...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=1" title="قاسىم سىدىق كوسمولۇگىيە ---"  target="_blank" class="tag_title_link">قاسىم سىدىق كوسمول...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/mahsus/search.php?catid=132&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/2009/0705/22.htm" title="ئەھمەدجان ئىكرام"  target="_blank" class="tag_title_link">ئەھمەدجان ئىكرام</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=21" title="ھەر بىر پەن ئۆزىنىڭ پەلسەپەسىنى تېپىۋىلىشى كېرەك"  target="_blank" class="tag_title_link">ھەر بىر پەن ئۆزىنىڭ پەلس...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=20" title="ھاۋا قاچىلاپ ماڭىدىغان ماشىنا ياسالدى!"  target="_blank" class="tag_title_link">ھاۋا قاچىلاپ ماڭىدىغان ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=16" title="قاسىم سىدىق تەنقىد ۋە مۇئەييەنلەشتۈرۈش ئوخشاشلا موھىم"  target="_blank" class="tag_title_link">قاسىم سىدىق تەنقىد ۋە مۇ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=15" title="قاسىم سىدىق . فىزىكىلىق&nbsp;&nbsp;شەكىل نەزەرىيىسى"  target="_blank" class="tag_title_link">قاسىم سىدىق . فىزىكىلىق  ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=14" title="قۇربانجان سەمەت : «فىزىكىلىق شەكىل نەزەرىيىسى» توغرىسىدا ئويلىغانلىرىم"  target="_blank" class="tag_title_link">قۇربانجان سەمەت : «فىزىك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=13" title="قاسىم سىدىق،&nbsp;&nbsp;قۇربانجان سەمەت،&nbsp;&nbsp;ئابلىمىت ھاكىم ھاجىم&nbsp;&nbsp;:قاتلاملىق ئالەم"  target="_blank" class="tag_title_link">قاسىم سىدىق،  قۇربانجان ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=12" title="قاسىم سىدىق :&nbsp;&nbsp; ئالەمنىڭ بىر&nbsp;&nbsp;كۈنى ۋە&nbsp;&nbsp;&quot;ئالەم سائىتى&quot;"  target="_blank" class="tag_title_link">قاسىم سىدىق :   ئالەمنىڭ ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=11" title="قاسىم سىدىق&nbsp;&nbsp;&nbsp;&nbsp;ئېلېمېنتار ئالەم ۋە دەۋرى ئالەم"  target="_blank" class="tag_title_link">قاسىم سىدىق    ئېلېمېنتا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=10" title="قاسىم سىدىق:&nbsp;&nbsp; كەڭ تورداشلارغا&nbsp;&nbsp;سالام"  target="_blank" class="tag_title_link">قاسىم سىدىق:   كەڭ تورداش...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/mahsus/show_js.php?itemid=2"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

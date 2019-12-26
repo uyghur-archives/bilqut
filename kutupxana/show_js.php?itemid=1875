@@ -1,0 +1,3 @@
+﻿try {setidval('hits','163');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/kutupxana/show.php?itemid=1874">مەن نېمە ئۈچۈن مۇسۇلمان بولدۇم؟</a></li><li>  كىيىنكىسى  :  <a href="/kutupxana/show.php?itemid=1876">مۇۋەپپەقىيەت قازىنىشتىكى تۆت پەلەمپەي</a></li>');}catch(e){}

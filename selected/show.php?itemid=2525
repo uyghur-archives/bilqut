@@ -1,0 +1,341 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ئىسىم يېزىش ھوقۇقى(دىلو مىسالى)-ئەدەبىيات-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,ئەدەبىيات">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/edebiyat/" class="red"> ئەدەبىيات</a>
+         | <a class="razimantur" href="/edebiyat/list.php?catid=259" >شېئىرىيەت گۈلزارى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=261" >تەڭرىتاغ چېچەكلىرى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=262" >نەسرىي ئەسەرلەر </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=263" >فانتازىيىلىك ئەسەرلەر </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=264" >سەھنە ئەسەرلىرى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=265" >دېرىزىنىڭ سىرتىدا...    </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=266" >مەشھۇر ئەسەر مەزمۇنى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=268" >ئەدىپلەر ئارخىپى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=269" >ئەسەر ۋە باھا</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=271" >قانۇن ۋە ئەدەبىيات</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=272" >ئەدەبىيات يېڭلىقلىرى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=274" > تەرمە گۈللەر </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=275" >ئۇنىۋېرسال ئەدەبىي ئەسەرلەر</a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/edebiyat/">ئەدەبىيات</a> >> <a href="/edebiyat/list.php?catid=271">قانۇن ۋە ئەدەبىيات</a> >>  ئىسىم يېزىش ھوقۇقى(دىلو مىسالى)</div>
+<!--主标题--><h1>ئىسىم يېزىش ھوقۇقى(دىلو مىسالى) </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2008-08-07 06:39:03&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">172</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut"><P class=MsoNormal dir=rtl style="MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: center" align=center><SPAN lang=AR-SA style="FONT-SIZE: 16pt; FONT-FAMILY: &#39;UKIJ Esliye&#39;">ئىسىم يېزىش ھوقۇقى(دىلو مىسالى)<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: justify"><SPAN lang=AR-SA style="FONT-SIZE: 16pt; FONT-FAMILY: &#39;UKIJ Esliye&#39;"><o:p>&nbsp;</o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; TEXT-INDENT: 6pt; unicode-bidi: embed; TEXT-ALIGN: justify; mso-char-indent-count: .5"><SPAN lang=AR-SA style="FONT-SIZE: 12pt; FONT-FAMILY: &#39;UKIJ Esliye&#39;">ئەمەت قاتارلىق 5كىشى «قانۇننىڭ رۇلى»دىگەن چەتئەل تىلىدىكى ئەسەرنى بىرىلىكتە تەرجىمەقىلغان،پۈتۈن كىتاپنى ئەمەت تەكشۈرۈپ كۈرۈپ چىقىپ نەشىرىياتقا تاپشۇرغان،ھەمدە كىتاپنىڭ تىتولىغا ئەمەت تەرجىمە قىلغان دەپ يازغان.نەشىرىيات تەھرىر بولۇمى كۈرۈپ چىقىپ ياخشى تەرجىمە قىلىنىپتۇ،نەشىر قىلىشقا بولىدىكەن دەپ،ئەمەت بىلەن نەشىر توختامى ئىمزالىغان،توختامدا 2001-يىلى 4-ئاينىڭ ئاخىرى نەشىر قىلىشنى پۈتۈشكەن.شۇنىڭ بىلەن تەھرىرلەش،كوررىكتورلاش ئېلىپ بارغان.<o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: justify"><SPAN lang=AR-SA style="FONT-SIZE: 12pt; FONT-FAMILY: &#39;UKIJ Esliye&#39;">4-ئاينىڭ29-كۈنى كىتاپ بازارغا سېلىنىپ بولغان،4-ئاينىڭ30-كۈنى ماي بايرىمىلىق7كۈن دەم ئېلىش قويۇپ بىرىلگەچكە،تىرجىمە قىلغۇچى ئەمەت تېخى كىتاپنىڭ نەشىر نۇسخىسىنى تاپشۇرۇپ ئالمىغان.بايرام ئاخىرلاشقان تۇنجى كۈنى ئەسەرنى بىرلىكتە تەرجىمە قىلغانلاردىن سەمەت نەشىرىياتقا تېلفۇن بىرىپ،بۇنىڭ زادى قانداق ئىش ئىكەنلىكىنى،5ئادەم تەرجىمە قىلغان ئەسەرگە نىمىشقا بىر ئادەم تەرجىمە قىلدى دەپ يېزىلغانلىغىنى سۈرۈشتۈرىدۇ.شۇ كۈنى يەنە ئۇ ئەسەرنى تەرجىمە قىلىشقا قاتناشقۇچىلاردىن ھاشىر بىلەن قاسىممۇ بۇ ئىشنى نەشىرىيات ئورنىغا ئىنكاس قىلىپ تۈزىتىشنى تەلەپ قىلىدۇ.نەشىرىيات ئورنى تىزىملىكنى تەكشۇرۇپ كۈرۈپ تىتولدا راستىنلا تەرجىمە قىلغان بىر ئادەمنىڭ ئىسمى بار ئىكەنلىكىنى ئېيتىدۇ.سەمەت تەرجىمە قىلغۇچىلار ئەمەتكە يۇمشاق دىسكا تاپشۇرغان،چۇقۇم شۇنىڭ قىلغان ئىشى،سېلىشتۇرۇپ كۈرۈپ بېقىڭلار دەيدۇ.نەشىرىيات ئورنى تەكشۈرۈش ئارقىلىق تەرجىمىنىڭ باش ئاخىرىدىكى زىتلىقتىن بىر نەچچە ئادەمنىڭ تەرجىمە قىلغانلىغىنى ھىس قىلىپ،تارقىتىلغان كىتاپلارنى قايتۇرۇپ كىلىپ،كىتاپنىڭ تىتولىغا<SPAN style="mso-spacerun: yes">&nbsp; </SPAN>تەرجىمە قىلغۇچىلارنىڭ ئىسمىنى تۇلۇقلاپ يېزىشنى،بىراق يەنە بىر ئاي ۋاقىت ئۇزارتىپ بىرىشنى دەيدۇ،سەمەت،ھاشىر،قاسىملار بۇنىڭغا قوشۇلىدۇ.ئەمەت بۇ ئىشلاردىن تېخى خەۋەرسڭز ئىدى،تەرجىمە قىلغۇچىلاردىن يەنە بىرىمۇ تېخى ئىپادە بىلدۈرمىگەن ئىدى.<o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: justify"><SPAN lang=AR-SA style="FONT-SIZE: 12pt; FONT-FAMILY: &#39;UKIJ Esliye&#39;">سۇئال:<o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: justify"><SPAN lang=AR-SA style="FONT-SIZE: 12pt; FONT-FAMILY: &#39;UKIJ Esliye&#39;">1.«قانۇننىڭ رولى»نىڭ تەرجىمە ئەسىرىگە ھەر قايسى تەرجىمە قىلغۇچىلار ئىسىم يېزىش ھوقۇقىدىن بەھرىمەن بولامدۇ؟،نىمە ئۈچۈن؟<o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: justify"><SPAN lang=AR-SA style="FONT-SIZE: 12pt; FONT-FAMILY: &#39;UKIJ Esliye&#39;">2.بۇ كىتاپنى نەشىر قىلىش مەسىلىسدە نەشىرىيات ئورنى بىلەن ئەمەت قانداق جاۋاپكارلىقىنى ئۈستىگە ئالىدۇ؟<o:p></o:p></SPAN></P><P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-ALIGN: justify"><SPAN lang=AR-SA style="FONT-SIZE: 12pt; FONT-FAMILY: &#39;UKIJ Esliye&#39;">3.نەشىرايات ئورنىنىڭ كىتاپنىڭ مۇقاۋىسى،تىتولىنى ئىشلەش،نەشىر قىلىش ۋاختىنى ئۇزارتىشىدا نامۇۋاپىقلىق بارمۇ؟،بولسا قانداق ھەل قىلىش كىرەك؟<o:p></o:p></SPAN></P></span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2532" title="شەخسىنىڭ نام-ئابروي مەسىلىسىگە سەل قارىمايلى!"  target="_blank" class="tag_title_link">شەخسىنىڭ نام-ئابرو...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2531" title="ئىگىدارلىق ھوقۇقى ئېنىق بولمىغان فىلىم ھوقۇقى"  target="_blank" class="tag_title_link">ئىگىدارلىق ھوقۇقى ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2530" title="ﭘﯘﯨﺮﺍﻻﺭ ﻗﺎﻧﯘﻥ ﯪﺭﻗﯩﻠﯩﻖ ﯲﺯﻧﻰ ﻗﻮﻏﺪﺍﺷﻨﻰ ﺑﯩﻠﺶ ﻛﯩﺮﻩﻙ"  target="_blank" class="tag_title_link">ﭘﯘﯨﺮﺍﻻﺭ ﻗﺎﻧﯘﻥ ﯪﺭﻗﯩﻠﯩﻖ ﯲﺯﻧﻰ ﻗﻮﻏﺪﺍﺷﻨﻰ ﺑﯩﻠﺶ ﻛﯩﺮﻩﻙ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2529" title="ﯲﻱ ﺋﯩﺠﺎﺭﻩ ﺑﯩﺮﺩﯨﻐﺎﻧﻼﺭ ﺑﯩﻠﯩﺸﻜﻪ ﺗﯩﮕﯩﺸﻠﯩﻚ ﺋﯩﺸﻼﺭ"  target="_blank" class="tag_title_link">ﯲﻱ ﺋﯩﺠﺎﺭﻩ ﺑﯩﺮﺩﯨﻐﺎﻧﻼﺭ ﺑﯩﻠﯩﺸﻜﻪ ﺗﯩﮕﯩﺸﻠﯩﻚ ﺋﯩﺸﻼﺭ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2528" title="شۇجى: تازا ئۇرۇڭلار، ئۆلسە مەن ئىگە!!!"  target="_blank" class="tag_title_link">شۇجى: تازا ئۇرۇڭلار...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2527" title="ﻣﻪﻛﺘﻪﭖ ﺧﺎﻟﯩﻐﺎﻧﭽﻪ ﺩﯦﭙﻠﻮﻡ ﯲﺯﮔﻪﺭﺗﺴﻪ ﺑﻮﻻﻣﺪﯗ ؟"  target="_blank" class="tag_title_link">ﻣﻪﻛﺘﻪﭖ ﺧﺎﻟﯩﻐﺎﻧﭽﻪ ﺩﯦﭙﻠﻮﻡ ﯲﺯﮔﻪﺭﺗﺴﻪ ﺑﻮﻻﻣﺪﯗ ؟...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2526" title="ئاپتورى نامەلۇم ئەسەر(دىلو مىسالى)"  target="_blank" class="tag_title_link">ئاپتورى نامەلۇم ئە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2525" title="ئىسىم يېزىش ھوقۇقى(دىلو مىسالى)"  target="_blank" class="tag_title_link">ئىسىم يېزىش ھوقۇقى(...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2524" title="ئورۇنداش ھوقۇقىغا دائىر مىسال"  target="_blank" class="tag_title_link">ئورۇنداش ھوقۇقىغا ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2523" title="ﺗﯘل ﻣﻮﻣﺎي ۋە ﭼﯩﺮﯨﻚ ﺋﯘﻧﺴﯘر"  target="_blank" class="tag_title_link">ﺗﯘل ﻣﻮﻣﺎي ۋە ﭼﯩﺮﯨﻚ ﺋﯘﻧﺴﯘر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2522" title="ھەمكارلاشقان ئەسەرنىڭ قوغداش مۇددىتىنى ھىساپلاش"  target="_blank" class="tag_title_link">ھەمكارلاشقان ئەسەر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2521" title="بۇ ھەركەت ئەسەر ھوقۇقىغا دەخلى تەرۇز قىلغانمۇ؟"  target="_blank" class="tag_title_link">بۇ ھەركەت ئەسەر ھوق...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2520" title="ئۈن-سىن بويۇمى باشقۇرۇش نىزامى"  target="_blank" class="tag_title_link">ئۈن-سىن بويۇمى باشق...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2519" title="توختامغا خىلاپلىق قىلىش سوممىسىنى ھىساپلاش"  target="_blank" class="tag_title_link">توختامغا خىلاپلىق ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2518" title="ئۆي ئىجارە بىرىشتە دىققەت قىلىڭ"  target="_blank" class="tag_title_link">ئۆي ئىجارە بىرىشتە ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2517" title="دۇنيا نەشر ھوقۇقى ئەھدىنامىسى توغرىسدا"  target="_blank" class="tag_title_link">دۇنيا نەشر ھوقۇقى ئ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2516" title="ھەمكارلىشىپ ئىجات قىلغان ئەسەر ھوقۇقىغا ۋارسلىق قى"  target="_blank" class="tag_title_link">ھەمكارلىشىپ ئىجات ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2515" title="ئاز سانلىق مىللەتلەرنىڭ دەپىن قىلىش ئادىتىگە ھۆرمەت قىلىش"  target="_blank" class="tag_title_link">ئاز سانلىق مىللەتل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2514" title="قەلەم ھەققى تاپاۋەت بېجىنى ھىساپلاش"  target="_blank" class="tag_title_link">قەلەم ھەققى تاپاۋە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2513" title="  TRIPs توغرىسىدا"  target="_blank" class="tag_title_link">  TRIPs توغرىسىدا</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/edebiyat/search.php?catid=271&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2532" title="شەخسىنىڭ نام-ئابروي مەسىلىسىگە سەل قارىمايلى!"  target="_blank" class="tag_title_link">شەخسىنىڭ نام-ئابروي مەس...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2531" title="ئىگىدارلىق ھوقۇقى ئېنىق بولمىغان فىلىم ھوقۇقى"  target="_blank" class="tag_title_link">ئىگىدارلىق ھوقۇقى ئېنىق...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2530" title="ﭘﯘﯨﺮﺍﻻﺭ ﻗﺎﻧﯘﻥ ﯪﺭﻗﯩﻠﯩﻖ ﯲﺯﻧﻰ ﻗﻮﻏﺪﺍﺷﻨﻰ ﺑﯩﻠﺶ ﻛﯩﺮﻩﻙ"  target="_blank" class="tag_title_link">ﭘﯘﯨﺮﺍﻻﺭ ﻗﺎﻧﯘﻥ ﯪﺭﻗﯩﻠﯩﻖ ﯲﺯﻧﻰ ﻗﻮﻏﺪﺍﺷﻨﻰ ﺑﯩﻠﺶ ﻛﯩﺮﻩﻙ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2529" title="ﯲﻱ ﺋﯩﺠﺎﺭﻩ ﺑﯩﺮﺩﯨﻐﺎﻧﻼﺭ ﺑﯩﻠﯩﺸﻜﻪ ﺗﯩﮕﯩﺸﻠﯩﻚ ﺋﯩﺸﻼﺭ"  target="_blank" class="tag_title_link">ﯲﻱ ﺋﯩﺠﺎﺭﻩ ﺑﯩﺮﺩﯨﻐﺎﻧﻼﺭ ﺑﯩﻠﯩﺸﻜﻪ ﺗﯩﮕﯩﺸﻠﯩﻚ ﺋﯩﺸﻼﺭ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2528" title="شۇجى: تازا ئۇرۇڭلار، ئۆلسە مەن ئىگە!!!"  target="_blank" class="tag_title_link">شۇجى: تازا ئۇرۇڭلار، ئۆل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2527" title="ﻣﻪﻛﺘﻪﭖ ﺧﺎﻟﯩﻐﺎﻧﭽﻪ ﺩﯦﭙﻠﻮﻡ ﯲﺯﮔﻪﺭﺗﺴﻪ ﺑﻮﻻﻣﺪﯗ ؟"  target="_blank" class="tag_title_link">ﻣﻪﻛﺘﻪﭖ ﺧﺎﻟﯩﻐﺎﻧﭽﻪ ﺩﯦﭙﻠﻮﻡ ﯲﺯﮔﻪﺭﺗﺴﻪ ﺑﻮﻻﻣﺪﯗ ؟...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2526" title="ئاپتورى نامەلۇم ئەسەر(دىلو مىسالى)"  target="_blank" class="tag_title_link">ئاپتورى نامەلۇم ئەسەر(د...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2525" title="ئىسىم يېزىش ھوقۇقى(دىلو مىسالى)"  target="_blank" class="tag_title_link">ئىسىم يېزىش ھوقۇقى(دىلو ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2524" title="ئورۇنداش ھوقۇقىغا دائىر مىسال"  target="_blank" class="tag_title_link">ئورۇنداش ھوقۇقىغا دائىر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2523" title="ﺗﯘل ﻣﻮﻣﺎي ۋە ﭼﯩﺮﯨﻚ ﺋﯘﻧﺴﯘر"  target="_blank" class="tag_title_link">ﺗﯘل ﻣﻮﻣﺎي ۋە ﭼﯩﺮﯨﻚ ﺋﯘﻧﺴﯘر...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/edebiyat/show_js.php?itemid=2525"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

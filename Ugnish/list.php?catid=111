@@ -1,0 +1,338 @@
+﻿
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title> تەنتەربىيە  -ئۆگىنىش--Bilqut Uyghur web</title>
+<meta name="keywords" content=",">
+<meta name="description" content="-">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/Ugnish/" class="red"> ئۆگىنىش</a>
+         | <a class="razimantur" href="/Ugnish/list.php?catid=98" > ماتېماتىكا  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=99" >يىزا-ئىگىلىك </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=100" >پسىخولوگىيە </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=101" >ئىقتىساد </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=102" >مۇھىت </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=103" >ئەدەبىيات </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=104" >جۇغراپىيە </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=105" >فىزىكا </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=106" > خىمىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=107" >ئاسترونومىيە </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=108" > بىئولوگىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=109" > دېپلوماتىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=110" > ئېلېكترون  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=111" > تەنتەربىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=112" >مەتبەئەچىلىك </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=113" > گۈزەل- سەنئەت  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<!--主体标签-->
+<table width="950" cellpadding="0"  cellspacing="0">
+  <tr>
+    <td width="750" valign="top">
+<!--位置导航-->
+    <div class="position">ئورنىڭىز : <a href="/Ugnish/">ئۆگىنىش</a> >> <a href="/Ugnish/list.php?catid=111"> تەنتەربىيە  </a> >> </div>
+     <div class="cat_box_1">
+ <div class="cat_title">
+     <div class="cat_name"> تەنتەربىيە  </div>
+ <div class="cat_url"><a href="" class="more"></a></div>
+     </div>
+<!--最新图片文章--><table width="100%"  cellpadding="2" cellspacing="0">
+
+
+</table>
+
+<table cellpadding="0" cellspacing="0" class="tag_box_1">
+
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1439" title="ۋېلىسىپىت تەنھەرىكىتى" 0 class="tag_title_link">ۋېلىسىپىت تەنھەرىكىتى</a>   
+    
+ <td><span>2009-03-09</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1438" title="ماتورلۇق قېيىق تەنھەرىكىتى" 0 class="tag_title_link">ماتورلۇق قېيىق تەنھەرىكىتى</a>   
+    
+ <td><span>2009-02-25</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1437" title="موتسىكلىت تەنھەرىكىتى" 0 class="tag_title_link">موتسىكلىت تەنھەرىكىتى</a>   
+    
+ <td><span>2009-02-08</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1436" title="دېڭىز قاتناش مودېلى تەنھەرىكىتى" 0 class="tag_title_link">دېڭىز قاتناش مودېلى تەنھەرىكىتى</a>   
+    
+ <td><span>2009-01-18</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1435" title="ئاۋىئاتسىيە مودېلى تەنھەرىكىتى" 0 class="tag_title_link">ئاۋىئاتسىيە مودېلى تەنھەرىكىتى</a>   
+    
+ <td><span>2009-01-15</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1434" title="پلانېر تەنھەرىكىتى" 0 class="tag_title_link">پلانېر تەنھەرىكىتى</a>   
+    
+ <td><span>2008-12-05</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1433" title="ئاۋىئاتسىيە تەنھەرىكىتى" 0 class="tag_title_link">ئاۋىئاتسىيە تەنھەرىكىتى</a>   
+    
+ <td><span>2008-11-16</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1432" title="رادىئو تەنھەرىكىتى" 0 class="tag_title_link">رادىئو تەنھەرىكىتى</a>   
+    
+ <td><span>2008-11-13</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1431" title="ھازىرقى زامان قىشلىق ئىككى تۈر" 0 class="tag_title_link">ھازىرقى زامان قىشلىق ئىككى تۈر</a>   
+    
+ <td><span>2008-11-11</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1430" title="تاغقا چىقىش" 0 class="tag_title_link">تاغقا چىقىش</a>   
+    
+ <td><span>2008-11-03</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1429" title="قارىغا ئېتىش" 0 class="tag_title_link">قارىغا ئېتىش</a>   
+    
+ <td><span>2008-11-02</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1428" title="سۇمۇ (شاڭپۇ)" 0 class="tag_title_link">سۇمۇ (شاڭپۇ)</a>   
+    
+ <td><span>2008-10-30</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1427" title="بوكس" 0 class="tag_title_link">بوكس</a>   
+    
+ <td><span>2008-10-28</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1426" title="جۇدو (رۇداۋ)" 0 class="tag_title_link">جۇدو (رۇداۋ)</a>   
+    
+ <td><span>2008-10-26</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1425" title="چەۋەندازلىق" 0 class="tag_title_link">چەۋەندازلىق</a>   
+    
+ <td><span>2008-10-25</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1424" title="چېلىشىش" 0 class="tag_title_link">چېلىشىش</a>   
+    
+ <td><span>2008-10-19</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1423" title="ئوقيا ئېتىش" 0 class="tag_title_link">ئوقيا ئېتىش</a>   
+    
+ <td><span>2008-10-17</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1422" title="كۆۋرۈك قارتا" 0 class="tag_title_link">كۆۋرۈك قارتا</a>   
+    
+ <td><span>2008-10-15</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1421" title="قورشاۋ قاتار" 0 class="tag_title_link">قورشاۋ قاتار</a>   
+    
+ <td><span>2008-10-13</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=1420" title="شاھمات" 0 class="tag_title_link">شاھمات</a>   
+    
+ <td><span>2008-10-11</span> </td>
+  </tr>
+
+</table>
+
+<div class="pages">جەمئى: <b>73</b>&nbsp;&nbsp;&nbsp;&nbsp;باش بەت
+&nbsp;ئالدىنقى بەت
+&nbsp;<a href='/Ugnish/list.php?catid=111&page=2'>كىينكى بەت
+</a>&nbsp;<a href='/Ugnish/list.php?catid=111&page=4'>ئاخىرقى بەت</a>&nbsp;بە ت: <b><font color=red>1</font>/4</b>&nbsp;&nbsp;<input type='text' name='page' id='page' class='page' size='3' onKeyDown='if(event.keyCode==13) {window.location="/Ugnish/list.php?catid=111&page="+$("page").value+""; return false;}'> <input type='button' value='GO' class='gotopage' style='width:30px' onclick='window.location="/Ugnish/list.php?catid=111&page="+$("page").value+""'>
+</div>
+     </div>	
+<!--搜索框--></td>
+    <td width="10"></td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>تەۋسىيە ئەسەر </h1><h2><a href="/Ugnish/search.php?catid=111&elite=1&search=1" class="more">يەنە بار </a></h2></div>
+<!--推荐文章js调用-->
+<table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1439" title="ۋېلىسىپىت تەنھەرىكىتى"  target="_blank" class="tag_title_link">ۋېلىسىپىت تەنھەرىكىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1438" title="ماتورلۇق قېيىق تەنھەرىكىتى"  target="_blank" class="tag_title_link">ماتورلۇق قېيىق تەنھەرىك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1437" title="موتسىكلىت تەنھەرىكىتى"  target="_blank" class="tag_title_link">موتسىكلىت تەنھەرىكىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1436" title="دېڭىز قاتناش مودېلى تەنھەرىكىتى"  target="_blank" class="tag_title_link">دېڭىز قاتناش مودېلى تەن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1435" title="ئاۋىئاتسىيە مودېلى تەنھەرىكىتى"  target="_blank" class="tag_title_link">ئاۋىئاتسىيە مودېلى تەنھ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1434" title="پلانېر تەنھەرىكىتى"  target="_blank" class="tag_title_link">پلانېر تەنھەرىكىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1433" title="ئاۋىئاتسىيە تەنھەرىكىتى"  target="_blank" class="tag_title_link">ئاۋىئاتسىيە تەنھەرىكىت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1432" title="رادىئو تەنھەرىكىتى"  target="_blank" class="tag_title_link">رادىئو تەنھەرىكىتى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1431" title="ھازىرقى زامان قىشلىق ئىككى تۈر"  target="_blank" class="tag_title_link">ھازىرقى زامان قىشلىق ئى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=1430" title="تاغقا چىقىش"  target="_blank" class="tag_title_link">تاغقا چىقىش</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>ئاۋات ئەسەر </h1><h2><a href="/Ugnish/search.php?catid=111&ordertype=3&search=1" class="more">يەنە بار </a></h2></div>
+<table cellpadding="0" cellspacing="0" class="tag_box">
+
+
+</table>
+</td>
+  </tr>
+</table>
+
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

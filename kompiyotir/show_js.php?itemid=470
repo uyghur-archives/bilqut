@@ -1,0 +1,3 @@
+﻿try {setidval('hits','2282');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/kompiyotir/show.php?itemid=469">phpwindتىكى تېما ئېلىشتا ئەمدى قىينالمايسىز</a></li><li>  كىيىنكىسى  :  <a href="/kompiyotir/show.php?itemid=471">تور بەتتا دائىم ئىشلىتىدىغان بىر نەچچە خىل ئېلان كودلىرى</a></li>');}catch(e){}

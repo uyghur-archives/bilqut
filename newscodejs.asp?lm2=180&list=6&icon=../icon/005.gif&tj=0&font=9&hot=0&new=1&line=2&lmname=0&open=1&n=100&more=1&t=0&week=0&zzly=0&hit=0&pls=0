@@ -1,0 +1,57 @@
+<!-- Tor bat exligu chi Ablimitjan Maham  QQ :250092392    Tel: 6722530    E-Mail :Raziman@126.com ,ablmtjan@126.com -->
+document.write("<head></head>");
+
+
+document.write("<table border=0 cellpadding=2 cellspacing=0 width=100%>");
+
+document.write("<tr><td align=justify><font style='font-size:9pt'><img src=../icon/005.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=880 target=_blank><font color='' style='font-size:9pt'>پۇل ۋە پۇلچىلىق</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:9pt'><img src=../icon/005.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=879 target=_blank><font color='' style='font-size:9pt'>كەندىر توقۇمچىلىقى</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:9pt'><img src=../icon/005.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=878 target=_blank><font color='' style='font-size:9pt'>چاق ۋە چاق ئېگىرىش</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:9pt'><img src=../icon/005.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=877 target=_blank><font color='' style='font-size:9pt'>ئىلىمچىلىك</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:9pt'><img src=../icon/005.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=876 target=_blank><font color='' style='font-size:9pt'>خوتەن قەغىزى</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:9pt'><img src=../icon/005.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=875 target=_blank><font color='' style='font-size:9pt'>يېڭسار پىچىقى</a>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=right colspan=2></td></tr>");
+
+document.write("</table>");

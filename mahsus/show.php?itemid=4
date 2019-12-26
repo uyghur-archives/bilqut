@@ -1,0 +1,378 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>قاسىم سىدىق--ساختا 《چەكسىزلىك》ۋە ھەقىقى چەكسىزلىك-مەخسۇس سەھىپىلەر-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,مەخسۇس سەھىپىلەر">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/mahsus/" class="red"> مەخسۇس سەھىپىلەر</a>
+         | <a class="razimantur" href="/mahsus/list.php?catid=132" >قاسىم سىدىق ئىلمىي ماقالىلىرى</a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/mahsus/">مەخسۇس سەھىپىلەر</a> >> <a href="/mahsus/list.php?catid=132">قاسىم سىدىق ئىلمىي ماقالىلىرى</a> >>  قاسىم سىدىق--ساختا 《چەكسىزلىك》ۋە ھەقىقى چەكسىزلىك</div>
+<!--主标题--><h1>قاسىم سىدىق--ساختا 《چەكسىزلىك》ۋە ھەقىقى چەكسىزلىك </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-04-28 15:59:05&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">245</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">ساختا 《چەكسىزلىك》ۋە ھەقىقى چەكسىزلىك
+
+قاسىم سىدىق
+
+بىز كۇندىلىك تۇرمۇشتا ۋە ئىلمىي ساھەلەردە دائىم &quot;چەكسىز&quot;، &quot;چەكسىزلىك&quot; ئاتالغۇلىرىنى ئۇچرىتىپ تۇرىمىز. ھالبۇكى، يۇقۇرىقى ساھەلەردە ئىشلىتىلىۋاتقان &quot;چەكسىزلىك&quot; نى تېخى ئۈزۈل-كېسىل ئسپاتلانغان مۇكەممەل ئۇقۇم دىيىشكە بولمايدۇ. قەدىمدىن تارتىپ ھازىرىغىچە غەرىب ۋە شەرىقتىكى نۇرغۇنلىغان مۇتەپەككۇرلەر بۇ نوقتىدا تالاش-تارتىش قىلىپ كەلدى ۋە بۇ مەسىلە شۇڭغىچە ھەل بولمىدى، ئالەمنىڭ چەكلىكلىكى بىلەن چەكسىزلىكى ئۇستىدە بەس-مۇنازىرە تارىخىي دەرۋەقە، تولىمۇ ئۇزۇن تارىخ.
+گېگىل سان ۋە ئۇلارنىڭ يىغىندىسىدىن كېلىپ چىققان نەتىجىنى، ھەقىقى چەكسىزلىك ئەمەس، بەلكى، &quot;يامان چەكسىزلىك&quot; دەپ ئاتىغان. &quot;ئىنگلىس يامان چەكسىزلىك بىلەن ھەقىقى چەكسىزلىكتىن ئىبارەت ئىككى ئۇقۇمنى پەرىقلەندۇرگەن ئىدى&quot;، &quot;-ماتېماتىكىدا چەكسىز تىزمىنى قوللۇنۇش ئادىتى بولمىغان بولسا،-دەپ يازىدۇ ئىنگىلىس،-پۇتۇن خاتا تۇيغۇلارنىڭ بولىشى مۇمكىن ئەمەس ئىدى. ماتېماتىكىدا ئېنىق بولمىغان، چەكسىز نەرسىگە يىتىش ئۇچۇن، ئېنىق بولغان، چەكلىك نەرسىلەردىن چىقىپ ئىش قىلغىنىمىزدىن بارلىق ماتېماتىكىلىق تىزما، پىلۇس ياكى مىنۇس بولسۇن، ھەممىسى بىردىن باشلىنىش لازىم. بولمىسا ساناش مۇمكىن ئەمەس. لېكىن، ماتېماتىكاشۇناسلارنىڭ ئىدىيە جەھەتتىكى ئېھتىياجى ھەرگىز رىيال دۇنيا ئۈچۈن مەجبۇرىي قانۇن ئەمەس.&quot; 
+يەنە شۇنىمۇ ئەسكەرتىش زۇرۇركى: مەشھۇر ماتېماتىكا ئالىمى گائۇس ھەتتا: &quot;-مەن ‹چەكسىزلىك› دىن ئىبارەت بۇ ئاتالغۇنىڭ ئىشلىتىلىشىگە قارشى تۇرىمەن. ماتېماتىكىدا&nbsp;&nbsp;چەكسىزلىك&nbsp;&nbsp;پۇت&nbsp;&nbsp;قويۇپ&nbsp;&nbsp;تۇرغىدەك زىمىن يوق&quot; دەپ ئۇزۇپ ئېيىتقان ئىدى.
+كۆرۇنۇپ تۇرۇپتۇكى، چەكسىزلىكنى ئىسپاتلاش ۋە ئۇنى مۇكەممەل ئۇقۇم دەرىجىسىگە كۆتۇرۇش مۇشكۇل، شۇنداقلا زۆرۈرى خىزمەت. بۇ مەسىلىنىڭ ئۇزۇل-كېسىل ھەل بولۇشى، ھەرقايسى پەنلەر ۋە ئۇلارنىڭ مۇناسىۋەتلىك ساھەلىرىگە ئوخشىمىغان دەرىجىدە تەسىر كۆرسىتىدۇ. قولۇڭلاردىكى ئەسەر ئاپتۇرغا نىسبەتەن ئېيىتقاندا، يۇقارقى مۇددىئا ئاستىدا ئىزدىنىشنىڭ دەسلەپكى نەتىجىسى،كىتابخانلارنىڭ ئەستايىدىل مۇھاكىمە قىلىپ كۆرۇشىنى ئۆتۈنىمەن.
+
+&quot;چەكسىزلىك&quot; نىڭ خۇسۇسيەتلىرى
+&quot;چەكسىزلىك&quot; ئومۇمەن تۆۋەندىكى خۇسۇسيەتلەرگە ئىگە:
+1.&quot;چەكسىزلىك&quot; نىڭ چېكى بولمايدۇ، چېكى بولىدۇ دىيىلسە، ئۇ ھالدا ئۇ چەكسىزلىك بولمايدۇ.
+2.&quot;چەكسىزلىك&quot; ئۆلچەمسىز (مىقدارسىز) بولىدۇ. ئۆلچىگىلى بولىدۇ دىيىلسە ئۇ چەكسىز بولمايدۇ.
+3.&quot;چەكسىزلىك&quot; ئۈزلۈكسىز بولىدۇ. ئۈزلۈكسىز بولمىغان شەيئىلەرنىڭ ھەممىسى چەكلىك بولىدۇ.
+4.&quot;چەكسىزلىك&quot; يىگانە بولىدۇكى، تەڭدىشى بولمايدۇ. تەڭدىشى بولىدۇ دىيىلسە، ئۇھالدا ئىككى &quot;چەكسىزلىك&quot; كېلىپ چىقىدۇ-دە،ئۇلار بىر-بىرىگە چەك بولۇپ قالىدۇ.
+5.&quot;چەكسىزلىك&quot; نىڭ باشلىنىش ۋە ئاخىرلىشىشى بولمايدۇ. باشلىنىش ۋە ئاخىرلىشىش بار ديىلسە ئۇ يەنىلا چەكلىك بولۇپ قالىدۇ.
+6.&quot;چەكسىزلىك&quot; شەكىلىسىز بولىدۇ. شەكىلگە ئىگە نەرسىلەرنىڭ ھەممىسى چەكلىك بولىدۇ. 
+
+ئېنىقلىما:
+چەكسىزلىك-پايانسىز، مىقدارسىز، تەڭداشسىز ۋە باش-ئاخىرى بولمىغان مەۋجۇتلۇق.
+
+&quot;چەكلىكلىك&quot;نىڭ خۇسۇسيەتلىرى
+1. &quot;چەكلىكلىك&quot; نىڭ ھامان پايانى (چېكى) بولىدۇ.
+2. &quot;چەكلىكلىك&quot; نى ئۆلچىگىلى بولىدۇ.
+3. &quot;چەكلىكلىك&quot; شەكىلگە ئىگە.
+4. &quot;چەكلىكلىك&quot; ئۈزلۈكسىز بولمايدۇ، تۇيۇق بولىدۇ.
+5.&quot;چەكلىكلىك&quot; نىڭ باش-ئاخىرى بولىدۇ.
+
+ئېنىقلىما:
+&quot;چەكلىكلىك&quot;-پايانى، مىقدارى، شەكلى، باش-ئاخىرى بولغان، شۇنداقلا، تۇيۇق بولغان مەۋجۇتلۇق. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ئۇقۇمنىڭ چەكلىكلىكى 
+1. مەيلى پۇتۇن ئىنسانىيەت ۋە مەيلى بىرەر مىللەت ياكى شەخس نۇقتىسىدىن ئېيتايلى، ئۇلار خالىغان پەيىتتە ئىگەللىگەن ۋە ئىگەللەيدىغان ئۇقۇم مىقدارى ھامان چەكلىك بولىدۇ.
+2. مۇئەييەن ئۇقۇم ئاڭلاتقاندا مەنا (ئۇقۇمنىڭ مېغىزى) ھامان چەكلىك بولىدۇ.
+3. ھەرقانداق ئۇقۇمنىڭ دائېرىسى (ھەجىمى) ھامان چەكلىك بولىدۇ.
+ئىنسانىيەت ھازىرغىچە دائىرىسى، مەناسى ۋە مىقدارى چەكسىز بولغان ئۇقۇم ،شۇنداقلا، ئۇقۇملار – سېستىمىسىنى كەشىپ 
+قىلغىنى يوق.
+&nbsp;&nbsp; 
+ ئاكسىيۇما:
+ئۇقۇم ۋە ئۇقۇملار مىقدارى، دائىرىسى ۋە مەناسى ھامان چەكلىك بولىدۇ. 
+&nbsp;&nbsp; 
+ساننىڭ چەكلىكلىكى 
+سان-ئۇقۇم. دېمەك، مىقدارى، مەناسى ۋە دائىرىسى چەكسىز بولغان سان مەۋجۇت ئەمەس.
+&quot;سانسىز سان&quot; مەۋجۇت ئەمەس، &quot;سانسىز سان مەۋجۇت&quot; دىيىلسە، ساننىڭ مەۋجۇتلىقى ئىنكار قىلىنىدۇ. 
+نوقۇل سان بىلەن چەكسىزلىكنى ئىپادىلىگىلى ۋە ئىسپاتلىغىلى بولمايدۇ.&nbsp;&nbsp;ئاتالمىش &quot;چەكسىز سانلار قاتارى&quot; پەقەت ئۆز گەۋدىسى ئىچىدە چەكلەنگەنلىگى ئۇچۇن، چەكسىزلىكنى ھامان سىرتىدا قالدۇرىدۇ. 
+&quot;چەكسىز داۋاملاشتۇرۇش&quot; چۇشەنچىسى سانلار قاتارى گەۋدىسىنىڭ &quot;چەكسىز&quot;لىگىنى ئەمەس،بەلكى، ئىزچىللىغىنى كۆرسەتكىنىدە توغرا بولغان بولىدۇ. شۇنداقتىمۇ ئاتالغۇنى ئۆزگەرتىش كىرەك. مۇبادا سانلار قاتارىنىڭ ئۆز گەۋدىسى چەكسىز بولىدۇ دىيىلسىە، ئۇنى يەنە داۋاملاشتۇرۇشنىڭ ئىمكانىيىتى يوققا چىقىدۇ ۋە ئەھمىيىتى قالمايدۇ.
+كونكىرىت سان، مەنا، ھەجىم ۋە مىقدار جەھەتتىن چەكلىك ئىكەن، كونكىرىت سانلار ۋە ياكى كونكىرىت سانلاردىن تەشكىل تاپقان ھەرقانداق سانلار قاتارىمۇ چەكلىك بولىدۇ. 
+چەكسىزلىك-مىقدارسىزلىقتىن ئىبارەت خۇسۇسيەتكە ئىگە ئىكەن، دېمەك، &quot;چەكسىز سان&quot;، &quot;چەكسىز سانلار قاتارى&quot; دىيىش، &quot;سانسىز سان&quot; ۋە &quot;سانسىز سانلار قاتارى&quot; دېگەن بىلەن باراۋەر بولىدۇ.
+قارىغاندا گىگىل، ئېنگىلىس ۋە گائۇستەك مەشھۇر شەخىسلەر بىھۇدە گەپ قىلمىغاندەك تۇرىدۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ شەكىلنىڭ چەكلىكلىكى
+ھەرقانداق شەكىل جەزمەن چەككە ئىگە، چەكسىز شەكىل مەۋجۇت ئەمەس، چۇنكى ھەرقانداق شەكىل مۇئەييەن ئارقا كۆرۇنۇش ئىچىدە چەكلىنىدۇ.
+تۈز سىزىق – شەكىل، دېمەك، &quot;چەكسىز تۇز سىزىق&quot;، &quot;تۈز سىزىقنى چەكسىز داۋاملاشتۇرۇش&quot; ۋاھاكازالارنىڭ ھەممىسى مۇمكىن ئەمەس. پەقەت تۈز سىزىقنى ئىزچىل داۋاملاشتۇرۇش مۇمكىن، ھالبۇكى، &quot;چەكسىزلىك&quot; بىلەن&quot;ئىزچىللىق&quot; بىر ئۇقۇم ئەمەس.
+
+ھەقىقى چەكسىزلىك قەيەردە؟
+1.ھازىرقى زامان فىزىكىسى ۋە ئالەمشۇناسلىغى، بارلىق ماسسا-ئېنىرگىيىنى ئۆز ئىچىگە ئالغان ماددى ئالەمنى چەكلىك دەپ قاراش بىلەن بىرگە، مۇئەييەن شەكىل سۇپىتىدە تەسۋىرلەيدۇ. ھەقىقىي چەكسىزلىك دەل موشۇ&nbsp;&nbsp;ماددىي ئالەمنىڭ ئارقا كۆرۇنىشىدىن ئىبارەت. (ئاپتۇر بۇ ھەقتە ئۆزىنىڭ &quot;ئالەمنىڭ غەيرى ماددا قاتلىمى – يوقلۇق&quot; سەرلەۋھىلىك ماقالىسىدا&nbsp;&nbsp;توختىلىپ ئۆتكەن) چەككە ۋە شەكىلگە ئىگە بولغان ماددى ئالەم ھامان چەكسىزلىك ۋە شەكىلسىزلىك سۇپىتىدە مەۋجۇتلۇق – &quot;يوقلۇق&quot;نى ئارقا كۆرۇنۇش قىلغان بولىدۇ.
+2. ئاتالمىش &quot;چەكسىز تۇز سىزىق&quot; ئوخشاشلا يۇقارقىدەك ئارقا كۆرۇنۇش ئىچىدە تۇرىدۇ.
+3. خالىغان پەيىتتە، ئىنسانىيەت ئىگەللىگەن ۋە ئىگەللەيدىغان ئۇقۇملارنىڭ مىقدارى، مەناسى ۋە دائىرىسى چەكلىك ئىكەن، بىزنىڭ روھى دۇنيارىمىزغا نىسبەتەن ئېيىتقاندا، ھەقىقىي چەكسىزلىك دەل مۇشۇ ئۇمۇمىي ئۇقۇملار يىغىندىسىنىڭ سىرتىدا قالىدۇ. بىلىش جەريانى ۋە ئۇنىڭ نەتىجىسى ھەرقانداق پەيىتتە چەكلىك بولىدۇ. بىلىشنىڭ مەۋجۇتلىگى بىلمەسلىكنىڭ مەۋجۇتلىگىنى چەتكە قاقمايدۇ. بەلكى بىر-بىرىنى تەقەززا قىلىدۇ.
+ئۇقۇملار سېستىمىسى مىقدارى، مەنا، دائىرە ۋە چەككە يېغىنچاقلىنىپ،بىلىشنىڭ ئومۇمىي گەۋدىسىنى شەكىللەندۈرىدۇ. ھالبۇكى، بىلمەسلىك&nbsp;&nbsp;&nbsp;&nbsp;ھامان بۇ گەۋدىنىڭ سىرتىدا قالىدۇ ۋە بۇ گەۋدىگە ئارقا كۆرۇنۇش بولىدۇ. دېمەك، بىلىشنىڭ ئومۇمىي گەۋدىسىنىڭ سىرتىدا مەناسى، مىقدارى ۋە&nbsp;&nbsp;چېكى بولمىغان ھەقىقى چەكسىزلىك ھامان مەۋجۇت بولۇپ تۇرىدۇ.
+
+ماددا چەكسىز پارچىلانمايدۇ
+1. يۇقىرىقى نۇقتىئنەزەرلەر ئېتىراپ قىلىنغان ئەھۋال ئاستىدا، يەنىلا&nbsp;&nbsp;&nbsp;&nbsp;&quot;ماددا چەكسىز پارچىلىنىدۇ&quot;، &quot;ئاساسىي زەررىچىلەر مەۋجۇت ئەمەس&quot; دىيىش توغرا ئەمەس. ماددى ئالەم تۇراقلىق ماسسىغا ئىگە چەكلىك ئالەم ئىكەن ئۇنىڭ چەكسىز پارچىلنىشىنى تەسەۋۇر قىلغىلى بولمايدۇ. چەكسىزلىك-مىقدارسىزلىق ۋە شەكىلسىزلىك ئىكەن &quot;ماددا چەكسىز پارچىلىنىدۇ&quot; دىيىش ماددىنى مىقدارسىز ۋە شەكىلسىز دىيىشكە ئېلىپ كىلىدۇ. ئۇنىڭ ئۈستىگە &quot;پارچە&quot; ئۇقۇمى بىلەن &quot;چەكسىزلىك&quot; ئۇقۇمى سىغىشالمايدۇ.
+2. گەرچە ئىنسانىيەتنىڭ بىلىش تارىخى بۇ جەرياننى ئورۇنلاپ ئۈلگۇرمىگەن بولسىمۇ، ھەقىقى مەنىدىكى ئاساسىي زەررىچىلەر جەزمەن مەۋجۇت. ئاساسىي زەرىچىلەر مەۋجۇت ئەمەس دىيىش، ماددىي ئالەمنىڭ مەۋجۇتلىكىنى ئىنكار قىلىشقا ئېلىپ كىلىدۇ.&nbsp;&nbsp;
+
+1989.يىل
+</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/2009/0705/22.htm" title="ئەھمەدجان ئىكرام"  target="_blank" class="tag_title_link">ئەھمەدجان ئىكرام</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=21" title="ھەر بىر پەن ئۆزىنىڭ پەلسەپەسىنى تېپىۋىلىشى كېرەك"  target="_blank" class="tag_title_link">ھەر بىر پەن ئۆزىنىڭ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=20" title="ھاۋا قاچىلاپ ماڭىدىغان ماشىنا ياسالدى!"  target="_blank" class="tag_title_link">ھاۋا قاچىلاپ ماڭىد...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=16" title="قاسىم سىدىق تەنقىد ۋە مۇئەييەنلەشتۈرۈش ئوخشاشلا موھىم"  target="_blank" class="tag_title_link">قاسىم سىدىق تەنقىد ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=15" title="قاسىم سىدىق . فىزىكىلىق&nbsp;&nbsp;شەكىل نەزەرىيىسى"  target="_blank" class="tag_title_link">قاسىم سىدىق . فىزىك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=14" title="قۇربانجان سەمەت : «فىزىكىلىق شەكىل نەزەرىيىسى» توغرىسىدا ئويلىغانلىرىم"  target="_blank" class="tag_title_link">قۇربانجان سەمەت : «...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=13" title="قاسىم سىدىق،&nbsp;&nbsp;قۇربانجان سەمەت،&nbsp;&nbsp;ئابلىمىت ھاكىم ھاجىم&nbsp;&nbsp;:قاتلاملىق ئالەم"  target="_blank" class="tag_title_link">قاسىم سىدىق،  قۇربا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=12" title="قاسىم سىدىق :&nbsp;&nbsp; ئالەمنىڭ بىر&nbsp;&nbsp;كۈنى ۋە&nbsp;&nbsp;&quot;ئالەم سائىتى&quot;"  target="_blank" class="tag_title_link">قاسىم سىدىق :   ئالە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=11" title="قاسىم سىدىق&nbsp;&nbsp;&nbsp;&nbsp;ئېلېمېنتار ئالەم ۋە دەۋرى ئالەم"  target="_blank" class="tag_title_link">قاسىم سىدىق    ئېلېم...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=10" title="قاسىم سىدىق:&nbsp;&nbsp; كەڭ تورداشلارغا&nbsp;&nbsp;سالام"  target="_blank" class="tag_title_link">قاسىم سىدىق:   كەڭ ت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=9" title="زامانداشلىرىمغا ئوچۇق خەت"  target="_blank" class="tag_title_link">زامانداشلىرىمغا ئو...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=8" title="ئىلىم پەن ساھەسىدىكى نوپۇزلۇق ئەربابلارنىڭ&nbsp;&nbsp;‹‹ بوشلۇق نەزەرىيىسى ››گە (فىزىكىلىق شەكىل نەز"  target="_blank" class="tag_title_link">ئىلىم پەن ساھەسىدى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=7" title="&quot;چوڭ پارتىلاش ئالەم مودېلى&quot; دىن ئالەمگە نەزەر"  target="_blank" class="tag_title_link">&quot;چوڭ پارتىلاش ئالەم...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=6" title="قاسىم سىدىق ---&quot;يوقلۇق&quot; ۋە ئالەمنى بىلىش مەسىلىسى"  target="_blank" class="tag_title_link">قاسىم سىدىق ---&quot;يوقل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=5" title="قاسىم سىدىق--《ئوبىكتىپ زامان》- خاتا سەزگۈمۇ ۋە ياكى چىنلىق؟"  target="_blank" class="tag_title_link">قاسىم سىدىق--《ئوبىك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=4" title="قاسىم سىدىق--ساختا 《چەكسىزلىك》ۋە ھەقىقى چەكسىزلىك"  target="_blank" class="tag_title_link">قاسىم سىدىق--ساختا ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=3" title="قاسىم سىدىق--ئالىم بولماق ئاسان ئەمەس"  target="_blank" class="tag_title_link">قاسىم سىدىق--ئالىم ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=2" title="قاسىم سىدىق. ئېينىشتېيىن ئېفىرنى &quot;پۇتۇنلەي ئىنكار قىلغان&quot;مۇ؟"  target="_blank" class="tag_title_link">قاسىم سىدىق. ئېينىش...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=1" title="قاسىم سىدىق كوسمولۇگىيە ---"  target="_blank" class="tag_title_link">قاسىم سىدىق كوسمول...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/mahsus/search.php?catid=132&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/2009/0705/22.htm" title="ئەھمەدجان ئىكرام"  target="_blank" class="tag_title_link">ئەھمەدجان ئىكرام</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=21" title="ھەر بىر پەن ئۆزىنىڭ پەلسەپەسىنى تېپىۋىلىشى كېرەك"  target="_blank" class="tag_title_link">ھەر بىر پەن ئۆزىنىڭ پەلس...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=20" title="ھاۋا قاچىلاپ ماڭىدىغان ماشىنا ياسالدى!"  target="_blank" class="tag_title_link">ھاۋا قاچىلاپ ماڭىدىغان ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=16" title="قاسىم سىدىق تەنقىد ۋە مۇئەييەنلەشتۈرۈش ئوخشاشلا موھىم"  target="_blank" class="tag_title_link">قاسىم سىدىق تەنقىد ۋە مۇ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=15" title="قاسىم سىدىق . فىزىكىلىق&nbsp;&nbsp;شەكىل نەزەرىيىسى"  target="_blank" class="tag_title_link">قاسىم سىدىق . فىزىكىلىق  ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=14" title="قۇربانجان سەمەت : «فىزىكىلىق شەكىل نەزەرىيىسى» توغرىسىدا ئويلىغانلىرىم"  target="_blank" class="tag_title_link">قۇربانجان سەمەت : «فىزىك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=13" title="قاسىم سىدىق،&nbsp;&nbsp;قۇربانجان سەمەت،&nbsp;&nbsp;ئابلىمىت ھاكىم ھاجىم&nbsp;&nbsp;:قاتلاملىق ئالەم"  target="_blank" class="tag_title_link">قاسىم سىدىق،  قۇربانجان ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=12" title="قاسىم سىدىق :&nbsp;&nbsp; ئالەمنىڭ بىر&nbsp;&nbsp;كۈنى ۋە&nbsp;&nbsp;&quot;ئالەم سائىتى&quot;"  target="_blank" class="tag_title_link">قاسىم سىدىق :   ئالەمنىڭ ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=11" title="قاسىم سىدىق&nbsp;&nbsp;&nbsp;&nbsp;ئېلېمېنتار ئالەم ۋە دەۋرى ئالەم"  target="_blank" class="tag_title_link">قاسىم سىدىق    ئېلېمېنتا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/mahsus/show.php?itemid=10" title="قاسىم سىدىق:&nbsp;&nbsp; كەڭ تورداشلارغا&nbsp;&nbsp;سالام"  target="_blank" class="tag_title_link">قاسىم سىدىق:   كەڭ تورداش...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/mahsus/show_js.php?itemid=4"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

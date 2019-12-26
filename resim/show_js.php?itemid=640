@@ -1,0 +1,2 @@
+﻿try {setidval('hits','22717');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}

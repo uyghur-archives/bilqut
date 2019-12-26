@@ -1,0 +1,89 @@
+<!-- Tor bat exligu chi Ablimitjan Maham  QQ :250092392    Tel: 6722530    E-Mail :Raziman@126.com ,ablmtjan@126.com -->
+document.write("<head></head>");
+
+
+document.write("<table border=0 cellpadding=2 cellspacing=0 width=100%>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=image/off.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1017 target=_blank><font color='' style='font-size:11pt'>قۇم بىلەن قامغاق</a>");
+
+document.write("</td><td align=left><img src=/images/new.gif>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=image/off.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1016 target=_blank><font color='' style='font-size:11pt'>ئەركىننىڭ چۈشى</a>");
+
+document.write("</td><td align=left><img src=/images/new.gif>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=image/off.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1015 target=_blank><font color='' style='font-size:11pt'>نەشپۇتنى تېتىپ بېقىش</a>");
+
+document.write("</td><td align=left><img src=/images/new.gif>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=image/off.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1014 target=_blank><font color='' style='font-size:11pt'>چۆپ بىلەن چىلان</a>");
+
+document.write("</td><td align=left><img src=/images/new.gif>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=image/off.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1013 target=_blank><font color='' style='font-size:11pt'>خىش ۋە تام</a>");
+
+document.write("</td><td align=left><img src=/images/new.gif>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=image/off.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1012 target=_blank><font color='' style='font-size:11pt'>ئېيىقچاق قىزاردى</a>");
+
+document.write("</td><td align=left><img src=/images/new.gif>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=image/off.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1011 target=_blank><font color='' style='font-size:11pt'>ئۆتۇك باي بىلەن كالاچ با...</a>");
+
+document.write("</td><td align=left><img src=/images/new.gif>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=justify><font style='font-size:11pt'><img src=image/off.gif border=0></font>");
+
+document.write("<a href=/News_View.asp?NewsID=1010 target=_blank><font color='' style='font-size:11pt'>بوۋاي بىلەن شەيتان</a>");
+
+document.write("</td><td align=left><img src=/images/new.gif>");
+
+document.write("</td><td align=justify>");
+
+document.write("</td></tr>");
+
+document.write("<tr><td align=right colspan=2></td></tr>");
+
+document.write("</table>");

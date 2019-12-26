@@ -1,0 +1,418 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ۋىجدانلىق مەلىكە-مەدەنىيىتىمىز-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,مەدەنىيىتىمىز">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/madiniytimiz/" class="red"> مەدەنىيىتىمىز</a>
+         | <a class="razimantur" href="/madiniytimiz/list.php?catid=71" >شەھەرلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=72" >ناھىيىلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=73" >ئوبلاستلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=74" >ۋىلايەتلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=75" >رېۋايەتلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=76" >تەمسىللىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=77" >ئۆلچەملىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=78" >چۆچەكلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=79" >سەنئەتكارىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=81" >تىل-يېزىقىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=82" >ئەپسانىلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=83" >مەسەللىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=84" >تائاملىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=85" >شەخسلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=86" >ئويۇنلىرىمىز </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=88" > چالغۇلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=89" > ھۈنەرلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=90" > يوسۇنلىرىمىز  </a>
+
+ | <a class="razimantur" href="/madiniytimiz/list.php?catid=91" > تارىخمىز  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/madiniytimiz/">مەدەنىيىتىمىز</a> >> <a href="/madiniytimiz/list.php?catid=78">چۆچەكلىرىمىز </a> >>  ۋىجدانلىق مەلىكە</div>
+<!--主标题--><h1>ۋىجدانلىق مەلىكە </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-05-24 13:30:25&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">142</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; قەدىمكى زاماندا قاسىماخۇن دېگەن بىر قاسساپ ئۆتكەنىكەن، ئۇنىڭ ئابدۇللا ۋە پەزىلەتخان ئىسىملىك ئىككى بالىسى بار ئىكەن. قاسىماخۇن قاسساپلىق قىلىپ يۈرگەن كۈنلىرىدە، ئەرزان ئېلىپ، قىممەت سېتىپ، بەزىلىرىگە ياغ بىلەن پەش، بەزىلىرىگە گۆش بىلەن بەز سېتىپ بېيىپ كېتىپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;كۈنلەرنىڭ بىرىدە قاسىماخۇن يامان بىر چۈش كۆرۈپتۇ. ئەتىسى ئۇنىڭ كۆڭلى غەش بولۇپ، ئۇيان ئويلاپتۇ، بۇيان ئويلاپتۇ. ئاخىر ئۆزىنىڭ يېقىن دوستلىرىدىن بولغان قازاخۇنۇمنى ئۆيىگە چاقىرىپ مېھمان قىلىپتۇ ۋە سۆز ئارىسىدا:
+&nbsp;&nbsp;&nbsp;&nbsp;- قازاخۇنۇم، تۈنۈگۈن ئاخشام بىر غەلىتە چۈش كۆرۈپ قالدىم، بۇ چۈشۈمگە بىر تەبىر بېرىپ، مەن گۇناھكارنىڭ كۆڭلىنى يورۇتار دېگەن ئوي بىلەن ئۆزلىرىنى ئاۋارە قىلغانتىم، - دەپ چۈشىنىڭ تەپسىلاتىنى ئېيتىپ بېرىپتۇ. قازى:
+&nbsp;&nbsp;&nbsp;&nbsp;- ھەي قاسىماخۇن، سىلىنىڭ بۇ كۆرگەن چۈشلىرى يامانلىقنىڭ ئالامىتى بولۇپ، ئۇ گۇناھلىرىنىڭ تاغدىنمۇ ئېشىپ كەتكەنلىكىنىڭ بېشارىتىدۇر، - دەپتۇ. قاسىماخۇن قازىدىن:
+&nbsp;&nbsp;&nbsp;&nbsp;- شەرىئەتتە بۇ پالاكەتتىن قۇتۇلۇشنىڭ يولى بارمىدۇ؟ - دەپ سوراپتۇ. قازى:
+&nbsp;&nbsp;&nbsp;&nbsp;ئەلۋەتتە بار، مەنچە بولغاندا ھەج قىلىشنىڭ ساۋابىغا ھېچنېمە يەتمەيدۇ. ھەج قىلىپ يانسىلا، ئىنشائاللا خۇداۋەندى كېرىم گۇناھلىرىنى ساقىت قىلىپ، ھەر ئىككىلا ئالەمنى سىلىگە يورۇق قىلغاي، - دەپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;شۇ كۈندىن باشلاپ قاسىماخۇن سەپەر تەييارلىقىغا كىرىشىپتۇ. تەييارلىقىڭلار پۈتۈشكە ئاز قالغاندا، ئۇ يەنە قازى بىلەن كۆرۈشۈپ سوراپتۇ:
+&nbsp;&nbsp;&nbsp;&nbsp;- سەپىرىمدە بىر نازۇك مۈشكۈلات تۇرىدۇ؟
+&nbsp;&nbsp;&nbsp;&nbsp;- ئېيتسىلا، ھەر نىچۈك مۈشكۈلات بولسا، مەن - پېقىر كۈچۈمنىڭ يېتىشىچە قارىشىپ بېرەي، - دەپتۇ قازى.
+&nbsp;&nbsp;&nbsp;&nbsp;- ئۇ بولسىمۇ ئۆزلىرىگە ئايانكى، - دەپتۇ سودىگەر، - بالىلىرىمنىڭ ئانىسى يوق. مەن بولسام ئوغلۇم بىلەن سەپەر قىلماقچى، قىزىم پەزىلەتخاننى بىللە ئېلىپ يۈرۈش بىئەپ. شۇڭا ئۆزلىرىدەك ئۆلىما زاتنى مەن سەپەردىن يانغۇچە قىزىمغا ئاتىدارچىلىق قىلارمىكىن دېگەن نىيەتتە بولغانىدىم.
+&nbsp;&nbsp;&nbsp;&nbsp;قازى ماقۇل بولۇپتۇ. شۇنىڭدىن كېيىن قاسساپ يۈك - تاقلىرىنى تېڭىپ، ئالتۇن - كۈمۈشلىرىنى كولاپ ئېلىپ، قازىغىمۇ كۆپ نەرسىلەرنى بېرىپ يولغا چىقىپتۇ. شۇنداق قىلىپ، پەزىلەتخان قازىنىڭ ئۆيىدە قاپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;پەزىلەتخان بەدەنلىرى قاش تېشىدەك سۈزۈك، چىرايى قىزارغان ئالمىدەك رەڭدار، ئاۋازى بۇلبۇلنىڭكىدەك خۇشخۇي، كۆزلىرى بۇلاقتەك، ئاغزى ئويماقتەك، ئۆزى زېرەك بىر قىز ئىكەن. ماڭسا ئۇنىڭ قاپقارا سۇمبۇل چاچلىرى يىپەكتەك ئەۋرىشىم بويلىرىغا چىرمىشىپ، تاپىنىنى يۆگەپ تۇرىدىكەن.
+&nbsp;&nbsp;&nbsp;&nbsp;قازى پەزىلەتخاننى كۆرۈشى بىلەنلا ئىچىگە ئوت چۈشۈپ، كۆكسىگە چۈشكەن ئاق ساقىلى كۆيۈپ تۈتۈنگە ئايلىنىپ كەتكەندەك بولۇپتۇ. پەزىلەتخاننىڭ ئەتراپىدا پەرۋانىدەك ئايلىنىپ، پەيت كېلىشىنى تەققازالىق بىلەن كۈتۈپتۇ. پەزىلەتخان قازىنىڭ كۆزلىرىدىكى شەھۋانىيەت ئۇچقۇنلىرىنىڭ كۈندىن - كۈنگە يالقۇنجاپ كېتىپ بارغانلىقىنى كۆرۈپ قورقىدىكەن، كېچە - كېچىلىرى ئاتا - ئانىسىنى، ئاكىسىنى ئەسلەپ زار - زار يىغلاپ چىقىدىكەن.
+&nbsp;&nbsp;&nbsp;&nbsp;بىر كۈنى پادىشاھنىڭ خوتۇنلىرى قازىنىڭ ئۆي ئىچىنى چايغا چىللاپتۇ. پەزىلەتخانمۇ تەييارلىنىپتۇ. بۇ پۇرسەتنى قولدىن بەرگۈسى كەلمىگەن قازى پەزىلەتخانغا:
+&nbsp;&nbsp;&nbsp;&nbsp;- سىز كىشىنىڭ ئامانىتى، چايغا بېرىشىڭىزنى ماقۇل كۆرمەيمەن، - دەپ رۇخسەت قىلماپتۇ. قىز نائىلاج ئۆيدە قاپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;چۈشكە يېقىن قازى پەزىلەتخاننى قىچقىرىپ:
+&nbsp;&nbsp;&nbsp;&nbsp;- ئۆيدىكىلەر كەلمىدى، سىز ماڭا تەرەتكە سۇ تەييارلاپ بېرىڭ، - دەپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;قىز ئاپتۇۋىغا سۇ ئېلىپ كەلگەنىكەن، قازى ئاپتوۋىغا قول ئۇزاتقان بولۇپ، قىزنىڭ بىلىكىدىن كاپ قىلىپ تۇتۇۋېلىپ:
+&nbsp;&nbsp;&nbsp;&nbsp;- مېنى قىينىماڭ، - دپتۇ. پەزىلەتخان:
+&nbsp;&nbsp;&nbsp;&nbsp;- سىلى دادامنىڭ ئورنىدىكى ئادەم، بۇ ئىشلىرى پەقەت توغرا ئەمەس، - دېسە قازى:
+&nbsp;&nbsp;&nbsp;&nbsp;- ھازىر ماڭا ئۇنداق گەپنىڭ كېرىكى يوق. مەن سىزنى ئاران قولغا چۈشۈردۈم، - دەپ پەزىلەتخانغا يېقىنلىشىپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;ئاچچىقتىن يېرىلغۇدەك بولغان پەزىلەتخان ئاپتۇۋا بىلەن قازىنىڭ پېشانىسىگە بىرنى ئۇرغانىكەن، قازىنىڭ پېشانىسى يېرىلىپتۇ. قازى پېشانىسىنى تۇتۇپلا قاپتۇ، قىز پۇرسەتنى غەنىيمەت بىلىپ قېچىپ چىقىپ، ئۆز ھۇجرىسىغا كىرىۋاپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;شۇ كۈنىلا قازى قىزنىڭ دادىسىغا &gt;قىزىڭىز سىز كەتكەندىن كېيىنلا يولدىن چىقىپ، نامىڭىزنى بۇلغاشقا باشلىدى. ئاتا ئورنىدا تۇرۇپ نەسىھەت قىلسام، مېنى ھاقارەتلەپ، ھەتتا بېشىمنىمۇ ياردى. شۇڭا قىزىڭىزنى ئۆز قولىڭىزغا ئېلىڭ...&lt; دەپ خەت يېزىپ، كارۋانلاردىن ماڭدۇرۇۋېتپتۇ. خەتنى يول ئۈستىدە تاپشۇرۇۋالغان قاسساپ غەزەپكە كەپتۇ ھەم ئوغلى ئابدۇللانى قەسەم ئىچكۈزۈپ، پەزىلەتنى ئۆلتۈرۈپ يۈرىكىنى ئېلىپ كېلىشكە بۇيرۇپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;ئابدۇللا كېچە - كۈندۈزلەپ يول يۈرۈپ، يۈرگەندىمۇ مول يۈرۈپ ئۆيىگە قايتىپ كەپتۇ. سىڭلىسىنى كۆرۈپ، يىغىسىنى ئاڭلاپ، ئۇنى ئۆلتۈرۈشكە قولى بارماپتۇ. شۇنىڭ بىلەن ئابدۇللا سىڭلىسىغا:
+&nbsp;&nbsp;&nbsp;&nbsp;- دادامنىڭ ئالدىدا قۇرئان تۇتۇپ قەسەم ئىچكەن بولساممۇ، لېكىن سېنى ئۆلتۈرۈشكە قولۇم بارمىدى. بۇ يۇرتتىن بېشىڭنى ئېلىپ چىقىپ كەت. ئالەمنىڭ ئېتىكى كەڭ، - دەپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;ئابدۇللا سىڭلىسىنى قاچۇرۋەتكەندىن كېيىن بىر قوينى ئۆلتۈرۈپ، يۈرىكىنى ئېلىپ، يەنە دادىسىنىڭ يېنىغا يېنىپ كېتىپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;ئەمدى گەپنى پەزىلەتخاندىن ئاڭلايلى:
+&nbsp;&nbsp;&nbsp;&nbsp; پەزىلەتخان قەلەندەرچە كىيىنىپ، شەھەردىن چىققاندىن كېيىن دەريانى بويلاپ يول يۈرۈپتۇ، يول يۈرسىمۇ مول يۈرۈپتۇ. سۇلارنى كېچىپتۇ، چۆللەرنى كېزىپتۇ، دۆڭلەردىن ئېشىپتۇ، ئاخىر ئادەمزاتتىنمۇ، گىياھدىمۇ ئەسەر بولمىغان قۇملۇققا كىرىپ قاپتۇ. ئۇيان مېڭىپتۇ، بۇيان مېڭىپتۇ، بۇ يەردىن ھېچقانداق قىلىپ چىقىپ كېتەلمەپتۇ، قىز ئۇسسۇزلۇق ھەم ئاچلىقتىن ھالسىزلىنىشقا باشلاپتۇ. ئۇ &gt;ئەمدى ئۆلىدىغان بولدۇم&lt; دەپ ئويلاپ، بىر قۇم دۆڭنىڭ ئۈستىگە چىقىپ، ئۆزىنى قۇمغا تاشلاپتۇ، يىغلا - يىغلا ھوشىدىن كېتىپتۇ. دەل شۇ چاغدا باشقا بىر يۇرتنىڭ پادىشاھى ۋەزىرى بىلەن شىكارغا چىققانىكەن. ئۇ كېتىۋاتسا قولىدىكى قۇش ئۇچۇشقا تەلپۈنۈپتۇ. پادىشاھ ئەتراپىغا قاراپ ھېچقانداق بىر نەرسىنىڭ قارىسىنى كۆرمەپتۇ. قۇش بولسا ھەدەپ ئۇچۇشقا تەلپۈنگۈدەك. بۇنى كۆرگەن ئەتراپىدىكىلەر:
+&nbsp;&nbsp;&nbsp;&nbsp;- پادىشاھىم، قۇشنى قويۇۋېتەيلى، - دەپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;پادىشاھ قولىدىكى قۇشنى قويۇۋېتىپتۇڭ. قۇش تىك ئۆرلەپ، ئاندىن يىراقتىكى بىر دۆڭنىڭ ئۈستىگە ئۆزىنى ئېتىپتۇ. پادىشاھ ئات چاپتۇرۇپ كېلىپ قارىغۇدەك بولسا قۇشنىڭ ئايىغى ئاستىدا ئاي دېسە ئاي ئەمەس، كۈن دېسە كۈن ئەمەس بىر قىز ھوشسىز ياتقۇدەك. پەزىلەتخاننىڭ ھۆسىن - جامالىنى كۆرۈپ، ئۇنىڭغا ئاشىقى بىقارار بولغان پادىشاھ:
+&nbsp;&nbsp;&nbsp;&nbsp;- سىز پەرىزاتمۇ ياكى ئادەممۇ؟ بۇ يەرگە كېلىپ قالدىڭىز؟ - دەپ سوراپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;قىز بېشىدىن ئۆتكەنلەرنى بىر - بىرلەپ ئېيتىپ بېرىپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;ئۇنداق بولسا مەن سىزگە قىيامەتلىك يولداش بولاي، - دەپتۇ. پادىشاھ ۋە پەزىلەتخاننى ئۆز يۇرتىغا ئېلىپ بېرىپ، قىرىق كېچە - كۈندۈز توي قىلىپ نىكاھىغا ئاپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;ئارىدىن بىر يىل ئۆتە - ئۆتمەي پەزىلەتخان يەڭگىپتۇ. تۇغقان بالىسى قوشكېزەك بولۇپ، ئايدەك بىر جۈپ ئوغۇل ئىكەن. پادىشاھ ئىنتايىن خۇشال بولۇپتۇ، ئەسلىدە ئۇنىڭ بىر قانچە خوتۇنلىرى بولسىمۇ، پەرزەنت يۈزى كۆرمىگەنىكەن.
+&nbsp;&nbsp;&nbsp;&nbsp;ئارىدىن يەنە بىر قانچە يىللار ئۆتۈپتۇ. بىر كۈنى پەزىلەتخان كۆڭلىنى ئېچىش ئۈچۈن راۋاققا چىقىپ ئەتراپىغا قاراپتىكەن، يىراقتا كېتىۋاتقان كارۋانلارنى كۆرۈپتۇ ۋە ئاتىسىنى ئەسلەپ يىغلاپتۇ. پەزىلەتخان راۋاقتىن چۈشكەندە، پادىشاھ ئۇنىڭ كۆزلىرىگە قاراپ:
+&nbsp;&nbsp;&nbsp;&nbsp;- نېمە ئۈچۈن يىغلىدىڭىز؟ - دەپ سوراپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;- مەن سىزگە چۈشكىلى بىر قانچە يىللار بولدى. سىز بىر قېتىممۇ مېنىڭ ئاتامنى ئەسلىمىدىڭىز. ئاتامنى كۆرگۈم كېلىپ قالدى، - دەپ جاۋاب بېرىپتۇ. پادىشاھ:
+&nbsp;&nbsp;&nbsp;&nbsp;- بۇ يىغلايدىغان ئىش ئەمەس، ئەگەر ئاتا - ئانىڭىزنى كۆرگىڭىز كەلسە، مەن سىزنى سەلتەنەت بىلەن يولغا سالىمەن، - دەپتۇ ۋە ۋەزىرىنى مەلىكىنى مۇھاپىزەت قىلىپ ئاپىرىدىغان لەشكەرلەرگە باش قىلىپ تەيىنلەپ، ئۆز يۇرتىغا يولغا ساپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;بۇلار بىر قانچە كۈن يول يۈرۈپتۇ، بىر كۈنى بىر قونالغۇغا كېلىپ قونۇپتۇ. قاتتىق چارچىغان لەشكەرلەرنىڭ ھەممىسى ئۇيقۇغا كېتىپتۇ. ۋەزىر بۇ پۇرسەتنى غەنىيمەت بىلىپ، پەزىلەتخاننىڭ چېدىرىغا كىرىپتۇ. پەزىلەتخان ئىككى ئوغلىنى يېنىغا ئېلىپ ياتقانىكەن. ۋەزىر پەزىلەتخانغا&quot;
+&nbsp;&nbsp;&nbsp;&nbsp;- سىزنى پادىشاھ بىلەن ئىككىمىز بىرلىكتە تاپقانىدۇق. مېنىڭمۇ سىزدە ھەققىم بار. شۇڭا بۈگۈن بىر كېچە ئىككىمىز بىللە ياتساق، - دەپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;پەزىلەتخان رەت قىلىپتۇ. ۋەزىر يەنە تەكلىپىنى قويۇپتۇ، ئەگەر يەنە رەت قىلسا ئىككىلا ئوغلىنى ئۆلتۈرۈۋېتىدىغانلىقىنى ئېيتىپتۇ. پەزىلەتخان يەنىلا ئۇنىماپتۇ. ۋەزىر ئۇنىڭ ئىككى بالىسىنى چېپىۋېتىپتۇ. چوڭقۇر قايغۇغا چۆككەن پەزىلەتخان ئاخىر:
+&nbsp;&nbsp;&nbsp;&nbsp;- بۈگۈن كېچىنى ئىككى ئوغلۇمنىڭ ماتىمى بىلەن ئۆتكۈزەي، ئەتىگە مەن سىزنىڭ ئىختىيارىڭىزدا بولاي، - دەپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;ۋەزىر نائىلاج &gt;ماقۇل&lt; دەپ قايتىپ چىقىپ ئۇخلاپتۇ. پەزىلەتخان ئىككى ئوغلىنى چېدىرنىڭ ئىچىگە كۆمۈپ، ئۆزى ئەرەنچە ياسىنىۋېلىپ قېچىپتۇ. ۋەزىر ئەتىسى پەزىلەتخاننىڭ چېدىرىغا كىشى كىرگۈزسە، ئۇنىڭ يوقلۇقى مەلۇم بولۇپتۇ. تەرەپ - تەرەپكە لەشكەرلىرىنى چاپتۇرۇپ ئىزلەپ تاپالماي، ئاخىر ئۆز يۇرتلىرىغا قايتىپتۇ. ۋەزىر ئۆز يۇرتىغا يېتىپ بېرىپ پادىشاھقا:
+&nbsp;&nbsp;&nbsp;&nbsp;- سىزنىڭ ئايالىڭىز كېچىدە ئىككى بالىسىنى ئۆلتۈرۈۋېتىپ قېچىپ كەتتى، ئىزلەپ تاپالمىدۇق، - دەپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;پادىشاھ بۇ گەپكە بىر ئىشىنىپ، بىر ئىشەنمەي، پەزىلەتخاننىڭ دەردىدە روھى چۈشۈپتۇ. ھېچقانداق نەرسە ئۇنىڭ كۆڭلىنى ئاچالماپتۇ. ئاخىر سودىگەرچە ياسىنىپ، پەزىلەتخاننى ئىزلەپ يۇرتمۇ يۇرت كېزىپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;ئەمدى گەپنى پەزىلەتخاندىن ئاڭلايلى، مەلىكە شۇ قاراڭغۇ كېچىدە قېچىپ تاڭ ئېتىشقا ئاز قالغاندا بىر تاغنىڭ ئۈستىگە چىقىپتۇ. تاغنىڭ ئەتراپىغا قارىسا بىر قويچى قوي بېقىپ يۈرۈپتۇ. تاغنىڭ تۈۋىدە بولسا بىر چوڭ كۆل تۇرغۇدەك. پەزىلەتخان بۇنى كۆرۈپ &gt;دادامنىڭ دوستىدىنمۇ، پادىشاھنىڭ ۋەزىرىدىنمۇ ماڭا ۋاپا كەلمىدى، ئەمدى قويچىدىن ئەسلا ۋاپا كەلمەيدۇ&lt; دەپ ھاياتىدىن ئۈمىدىنى ئۈزۈپ، ئۆزىنى ھېلىقى كۆلگە تاشلاپتۇ، كۆل چوڭقۇر بولمىغانلىقتىن چۆكمەپتۇ. ھېلىقى قويچى قويلىرىنى سۇغىرىش ئۈچۈن مۇشۇ يەرگە ھەيدەپ ئەكەلگەنىكەن. قويلار بىر نەرسىدىن ئۆركۈپ كۆلگە يېقىن كەلمەي تۇرۇۋاپتۇ. قانچە ھەيدىسىمۇ سۇ تەرەپكە يېقىن كەلمەپتۇ، ئاخىر قويچى كۆلنىڭ يېنىغا كېلىپ قارىسا كۆلنىڭ ئىچىدە بىر ئادم تۇرۇدەك، قويچى كۆيۈمچانلىق بىلەن:
+&nbsp;&nbsp;&nbsp;&nbsp;- ھەي ئادەم، سۇدىن چىقىڭ، قويلار ئۈچ كۈندىن بېرى سۇ ئىچمىگەن. ئەگەر سىز ئەر كىشى بولسىڭىز، مېنىڭ جان دوستۇم بولىسىز، ئەگەر ئايال كىشى بولسىڭىز مېنىڭ قىيامەتلىك سڭىلىم بولىسىز، ئۇنداق قىلماي سۇدىن چىقىڭ، - دەپتۇ. پەزىلەتخان بۇ گەپنى ئاڭلاپ سۇدىن چىقىپتۇ. قويچى ئۆز ۋەدىسى بويىچە &gt;سىز مېنىڭ ھەقىقىي قىيامەتلىك سڭلىم بولىسىز&lt; دەپتۇ. قويلار قانغۇچە سۇ ئىچىپتۇ. پەزىلەتخان ئۆز سەرگۈزەشتىلىرىنى قويچىغا بىر - بىرلەپ سۆزلەپ بېرىپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;شۇنداق قىلىپ، بۇ ئىككىسى ئاكا - سىڭىل بولۇپ ئۆتۈشكە باشلاپتۇ. بۇ قويچىنىڭ بېقىۋاتقان قويلىرى پەزىلەتخاننىڭ دادىسىنىڭ قويلىرىكەن.
+&nbsp;&nbsp;&nbsp;&nbsp;ئەمدى گەپنى پەزىلەتخاننىڭ دادىسىدىن ئاڭلايلى:
+&nbsp;&nbsp;&nbsp;&nbsp;- قاسىماخۇن بىر يىلدىن كېيىن ھەج سەپىرىدىن قايتىپ كەپتۇ، لېكىن قىزىنىڭ قايغۇسى ئۇنىڭ يۈرىكىنى ھەرە چىققاندەك ئازابلىغاچقا، كۆزلىرىدىن ياش قۇرۇماپتۇ، كېچىلىرى ئۇيقۇسى كەلمەي تاڭ ئاتقۇزۇپتۇ. بېرىپ - بېرىپ ئەس ھوشىنىمۇ يوقىتىپ قويۇپتۇ. شۇڭا ئۇ قاسساپلىققا ئوغلى ئابدۇللانى قويۇپ، ئۆزى چوڭ بىر كارۋان ساراينى بىنا قىلىپ، ئۇياق - بۇياقتىن كەلگەنلەر بىلەن مۇڭدىشىپ، قىزىنىڭ قايغۇسىنى يەڭگىللىتىشنىڭ ئامالىنى ئىزلەپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;بىر كۈنى بۇ سارايغا چوڭ بىر كارۋان كېلىپ چۈشۈپتۇ. بۇ كارۋان سودىگەرچە ياسىنىپ پەزىلەتخاننى ئىزلەپ يۈرگەن پادىشاھ ۋە ئۇنىڭ ھەمراھلىرىكەن. قاسىماخۇن كەچتە ئادىتى بويىچە كارۋان بېشىنىڭ ئۆيىگە كىرىپ ھال - ئەھۋال سوراپتۇ. بۇ ئىككى دەردمەن دەرھال بىر - بىرىگە يېقىپتۇ. قاسىماخۇن دەررۇ تۇتۇش قىلىپ كارۋان بېشىغا كاتتا زىياپەت بېرىپتۇ. ئۇلار داستىخان ئۈستىدە بىر پەس مۇڭداشقاندىن كېيىن كاران بېشى:
+&nbsp;&nbsp;&nbsp;&nbsp;- شەھەرلىرىدە كۆكسىدە ئوتى، يۈرىكىدە مۇڭى بار كىشى بولسا چاقىرسىلا، ئەمدى ئۇنىڭدىن بىر ئاز گەپ ئاڭلساق، - دەپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;قاسىماخۇن تەرەپ - تەرەپكە ئادەم چىقىرىپ، گەپچى، ھېكايىچى دېگەنلەرنى يىغىپ كەپتۇ. لېكىن ئۇلارنىڭ بىرەرىنىڭمۇ گەپلىرى كارۋان بېشىنىڭ كۆڭلىنى ئاچالماپتۇ. مۇشۇ زىياپەت ئۈچۈن قوي ئەكىرگەن قويچى بۇ گەپلەرنى ئاڭلاپ:
+&nbsp;&nbsp;&nbsp;&nbsp;- مەن بىر ھېكايە ئېيتىپ باقسام، ئەگەر ھېكايەم ياراپ قېلىپ كارۋان بېشىنىڭ كۆڭلى ئېچىلىپ قالسا ئەجەپ ئەمەس، - دەپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;قاسىماخۇن ئۇنىڭ كىرىشىگە ئىجازەت قىلىپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;- ئاڭلىغاننى ئېيتايمۇ، كۆرگەننىمۇ؟ - دەپتۇ قويچى.
+&nbsp;&nbsp;&nbsp;&nbsp;- كۆرگىنىڭنى ئېيت، - دەپتۇ كارۋان بېشى.
+&nbsp;&nbsp;&nbsp;&nbsp;قويچى بېشىدىن ئۆتكەنلەرنى بىر - بىرلەپ سۆزلەپ، ئۆز شەھىرىدىن قېچىپ چىققان يېرىگە كەلگەندە يىغلاپ تاشلاپتۇ. ئەسلىدە بۇ قويچى قويچىنىڭ كىيىمىنى كىيىۋالغان پەزىلەتخانىكەن. شۇنىڭ بىلەن قاسىماخۇن بۇ قويچىنىڭ ئۆزى قىزى پەزىلەتخان ئىكەنلىكىنى بىلىپ، قۇچاقلاپ يىغلاپ كېتىپتۇ. سۆزنىڭ ئاخىرىنى تەقەززالىق بىلەن كۈتكەن كارۋان بېشى ئالدىراپ:
+&nbsp;&nbsp;&nbsp;&nbsp;- ھاجىم، سەۋر قىلسىلا، بۇ ئايالنىڭ گېپى تېخى تۈگىمىدى،&nbsp;&nbsp;قېنى ئاخىرىنى ئاڭلايلى، - دەپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;پەزىلەتخان سۆزنى داۋاملاشتۇرۇپ كېلىپ ئىككى ئوغلىنى ۋەزىرنىڭ ئۆلتۈرۈۋەتكەن يېرىگە كەلگەندە، كارۋان بېشى - پادىشاھمۇ يىغلاپ ئۆزىنى يەرگە تاشلاپتۇ. پادىشاھ بىلەن پەزىلەتخان تېپىشىپتۇ. ئەتىسى يۇرت - جامائەت بۇ ئاجايىپ ئەھۋالنى ئاڭلاپ، قازىنى تاش بوران قىپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;بىر قانچە كۈن ئۆتكەندىن كېيىن پادىشاھ سۆيۈملۈك ئايالى پەزىلەتخاننى، ئۇنىڭ دادىسى ۋە ئاكىسىنى ئېلىپ ئۆز شەھىرىگە قايتىپ كەپتۇ ھەم ۋەزىرنى دارغا ئېسىشقا پەرمان قىلىپتۇ.
+&nbsp;&nbsp;&nbsp;&nbsp;شۇنداق قىلىپ، بۇلار قايتىدىن تېپىشىپ، خاتىرجەم ياشاپ ئالەمدىن ئۆتكەنىكەن. 
+&nbsp;&nbsp;&nbsp;&nbsp;</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=461" title="ۋىجدانلىق مەلىكە"  target="_blank" class="tag_title_link">ۋىجدانلىق مەلىكە</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=460" title="ئىسكەندەر بىلەن ھۈرلىقا"  target="_blank" class="tag_title_link">ئىسكەندەر بىلەن ھۈ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=459" title="كەمەك ھەييار بىلەن مۇختەر ھەييار"  target="_blank" class="tag_title_link">كەمەك ھەييار بىلەن ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=458" title="تايغان بىلەن بۈركۈت"  target="_blank" class="tag_title_link">تايغان بىلەن بۈركۈ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=457" title="خېمىر باتۇر"  target="_blank" class="tag_title_link">خېمىر باتۇر</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=456" title="چىن تۆمۈر باتۇر"  target="_blank" class="tag_title_link">چىن تۆمۈر باتۇر</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=455" title="«يېرىل تېشىم، يېرىل»"  target="_blank" class="tag_title_link">«يېرىل تېشىم، يېرى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=454" title="پادىشاھنىڭ ئۈچ قىزى"  target="_blank" class="tag_title_link">پادىشاھنىڭ ئۈچ قىز...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=453" title="شاھزادە قابىل"  target="_blank" class="tag_title_link">شاھزادە قابىل</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=452" title="خاسىيەتلىك تاش"  target="_blank" class="tag_title_link">خاسىيەتلىك تاش</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=451" title="ياخشىلىق يەردە قالماس"  target="_blank" class="tag_title_link">ياخشىلىق يەردە قال...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=450" title="قورققاق"  target="_blank" class="tag_title_link">قورققاق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=449" title="جىننى قورقۇتقان مەنسۇر ئەللاجى"  target="_blank" class="tag_title_link">جىننى قورقۇتقان مە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=448" title="كىشىنىڭ ھەققى"  target="_blank" class="tag_title_link">كىشىنىڭ ھەققى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=447" title="باتۇر ئۆچكە ھەققىدە چۆچەك"  target="_blank" class="tag_title_link">باتۇر ئۆچكە ھەققىد...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=446" title="باتۇر قىز&nbsp;&nbsp;چۆچىكى"  target="_blank" class="tag_title_link">باتۇر قىز  چۆچىكى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=445" title="چېچەن تاز چۆچىكى"  target="_blank" class="tag_title_link">چېچەن تاز چۆچىكى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=444" title="مايمۇن قىز"  target="_blank" class="tag_title_link">مايمۇن قىز</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=443" title="ھۈۋەي باتۇر ھەققىدە چۆچەك"  target="_blank" class="tag_title_link">ھۈۋەي باتۇر ھەققىد...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=442" title="سەپەر قۇل ھەققىدە چۆچەك"  target="_blank" class="tag_title_link">سەپەر قۇل ھەققىدە چ...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/madiniytimiz/search.php?catid=78&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=461" title="ۋىجدانلىق مەلىكە"  target="_blank" class="tag_title_link">ۋىجدانلىق مەلىكە</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=460" title="ئىسكەندەر بىلەن ھۈرلىقا"  target="_blank" class="tag_title_link">ئىسكەندەر بىلەن ھۈرلىقا</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=459" title="كەمەك ھەييار بىلەن مۇختەر ھەييار"  target="_blank" class="tag_title_link">كەمەك ھەييار بىلەن مۇخت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=458" title="تايغان بىلەن بۈركۈت"  target="_blank" class="tag_title_link">تايغان بىلەن بۈركۈت</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=457" title="خېمىر باتۇر"  target="_blank" class="tag_title_link">خېمىر باتۇر</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=456" title="چىن تۆمۈر باتۇر"  target="_blank" class="tag_title_link">چىن تۆمۈر باتۇر</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=455" title="«يېرىل تېشىم، يېرىل»"  target="_blank" class="tag_title_link">«يېرىل تېشىم، يېرىل»</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=454" title="پادىشاھنىڭ ئۈچ قىزى"  target="_blank" class="tag_title_link">پادىشاھنىڭ ئۈچ قىزى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=453" title="شاھزادە قابىل"  target="_blank" class="tag_title_link">شاھزادە قابىل</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/madiniytimiz/show.php?itemid=452" title="خاسىيەتلىك تاش"  target="_blank" class="tag_title_link">خاسىيەتلىك تاش</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/madiniytimiz/show_js.php?itemid=461"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

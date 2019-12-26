@@ -1,0 +1,335 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ﭼﻮﻗﺎﻥ؛ﺧﯘﺩﺍ ﮔﯘﯞﺍﻫ-ئەدەبىيات-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,ئەدەبىيات">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/edebiyat/" class="red"> ئەدەبىيات</a>
+         | <a class="razimantur" href="/edebiyat/list.php?catid=259" >شېئىرىيەت گۈلزارى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=261" >تەڭرىتاغ چېچەكلىرى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=262" >نەسرىي ئەسەرلەر </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=263" >فانتازىيىلىك ئەسەرلەر </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=264" >سەھنە ئەسەرلىرى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=265" >دېرىزىنىڭ سىرتىدا...    </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=266" >مەشھۇر ئەسەر مەزمۇنى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=268" >ئەدىپلەر ئارخىپى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=269" >ئەسەر ۋە باھا</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=271" >قانۇن ۋە ئەدەبىيات</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=272" >ئەدەبىيات يېڭلىقلىرى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=274" > تەرمە گۈللەر </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=275" >ئۇنىۋېرسال ئەدەبىي ئەسەرلەر</a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/edebiyat/">ئەدەبىيات</a> >> <a href="/edebiyat/list.php?catid=259">شېئىرىيەت گۈلزارى</a> >>  ﭼﻮﻗﺎﻥ؛ﺧﯘﺩﺍ ﮔﯘﯞﺍﻫ</div>
+<!--主标题--><h1>ﭼﻮﻗﺎﻥ؛ﺧﯘﺩﺍ ﮔﯘﯞﺍﻫ </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2008-04-14 07:05:25&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">79</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<img src="/raziman_img/bash/reng/reng_1.gif" id="img1" style="cursor:hand;"  onclick="conhat(1)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_2.gif" id="img2" style="cursor:hand;"  onclick="conhat(2)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_3.gif" id="img3" style="cursor:hand;"  onclick="conhat(3)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_4.gif" id="img4" style="cursor:hand;"  onclick="conhat(4)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_5.gif" id="img5" style="cursor:hand;"  onclick="conhat(5)">&nbsp;&nbsp;                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut"><P align=center><FONT color=#ff0000 size=5>ﺧﯘﺩﺍ ﮔﯘﯞﺍﻫ</FONT></P>
+<P align=justify><BR><BR><FONT size=4>ﺑﯘ ﺑﯩﺮ ﺳﻪﺯﮔﯜ ﻣﻪﺳﯩﻠﻪ.ﻛﯜﻟﭙﻪﺕ ﯞﻩ ﺑﻪﺧﯩﺘﻨﯩﯔ ﺑﯩﺮﻟﯩﺸﯩﺶ ﻧﯘﻗﺘﯩﺴﻰ.ﯰﻧﯩﯖﺪﺍ ﺋﯩﺸﻪﻧﭽﻪ ﯞﻩ ﺟﺎﺳﺎﺭﻩﺗﻨﯩﯔ ﻫﺎﻣﯩﻴﺴﻰ ﺑﺎﺭ.ﯰ ﻫﻪﻗﯩﻘﻪﺕ ﯞﻩ ﻣﻪﻏﻠﯘﺑﯩﻴﻪﺕ ﻣﻪﯞﺟﯘﺗﻠﯘﻗﻨﯩﯔ ﯪﻧﺎ ﺳﯜﭘﻪﺕ ﻫﻮﻛﯘﻣﯩﺮﺍﻧﻠﯩﻘﯩﺪﺍ ﺑﻪﺧﯩﺘﻨﯩﯔ ﻫﻮﻛﯘﻣﯩﺮﺍﻥ ﺑﯘﻟﯘﺷﻨﻰ ﯴﻣﯩﺖ ﻗﯩﻠﯩﺪﯗ.ﻳﺎﺭﺗﯩﺶ ﻗﯩﻤﻤﻪﺕ ﻧﯘﻗﺘﯩﺴﯩﺪﯨﻦ ﻣﻪﻧﺎﻏﺎ ﺋﯩﮕﻪ ﺑﯘﻟﯘﺷﻨﻰ ﺋﯩﺰﺩﻩﻳﺪﯗ.ﯬﻣﻤﺎ ،ﯰ ﻣﻪﻧﺎﻏﺎ ﺋﯩﮕﻪ ﺑﻮﻻﻟﻤﺎﻳﺪﯗ.ﭼﯜﻧﻜﻰ،ﻳﺎﺭﺗﯩﺶ ﺑﯩﻠﻪﻥ ﻳﺎﺭﻟﯩﺶ ﯮﺗﺘﯘﺭﺳﯩﺪﯨﻜﻰ ﻣﯘﻧﺎﺳﯩﯟﻩﺕ ﺑﯩﺮﺧﯩﻞ ﻣﻪﻏﻠﯘﺑﯩﻴﻪﺕ ﻧﯘﻗﺘﯩﺴﯩﻐﺎ ﻳﯧﻐﯩﻨﭽﺎﻗﻼﻧﻐﺎﻥ.ﯬﺑﻪﺩﻯ ﻫﻪﻗﯩﻘﻪﺕ ﭘﻪﻗﻪﺕ ﺑﯩﺮﻻ.ﯰ ﺑﻮﻟﺴﯩﻤﯘ ﻫﻪﻗﯩﻘﻰ ﻣﻪﻧﺎﻧﻰ ﻣﻪﻧﺎﻏﺎ ﺋﯩﮕﻪ ﻗﯩﻠﻤﺎﻕ.ﻳﻪﻧﻰ ﻳﺎﺭﻟﯩﺶ ﻗﯩﺴﯩﺴﯩﻨﻰ ﯪﺩﺍﻗﻘﻰ ﺋﯩﺮﺍﺩﻩ ﻧﯘﻗﺘﯩﺴﯩﻐﺎ ﻳﯧﻐﯩﻨﭽﺎﻗﻠﯩﻤﺎﻕ.ﯰﻧﯩﯖﺪﺍ ﺑﯘﻳﯘﻛﻠﯘﻙ ﺑﺎﺭ، ﻗﯩﻤﻤﻪﺕ ﺑﺎﺭ،ﻫﻪﻡ ﺳﯜﭘﻪﺕ ﺷﻪﻛﻠﯩﻨﯩﯔ ﺑﯩﺮ ﭘﯜﺗﯜﻥ ﻳﯧﻐﯩﻨﭽﺎﻗﻼﻧﻐﺎﻥ ﻫﺎﺳﯩﻼﺕ ﺑﺎﺭ.ﯬﻣﻤﺎ،ﭼﯜﺷﯜﻧﯜﺵ ﻧﯘﻗﺘﯩﺴﯩﺪﺍ ﻧﺎﺩﺍﻧﻠﯩﻖ ﯞﻩ ﺑﯩﺨﯘﺗﻠﯘﻗﻨﯩﯔ ﯬﺳﻪﺑﻰ ﭼﻮﻗﺎﻧﻠﯩﺮﻯ ﻫﻮﻛﯘﻣﯩﺮﺍﻥ ﯮﺭﯗﻧﺪﺍ ﺗﯘﺭﯨﺪﯗ.ﯰ ﭼﯜﺷﻪﻧﻤﻪﻳﺪﯗ.ﺑﯩﻠﻤﻪﻳﺪﯗ.ﯬﮔﻪﺭ ﭼﯜﺷﯜﻧﯜﺵ ﺑﻮﻟﺴﺎ ﺋﯩﺪﻯ،ﺋﯩﻨﺴﺎﻥ ﻳﺎﻛﻰ ﯪﺩﯨﻤﻰ ﻣﻪﯞﺟﯘﺗﻠﯘﻕ ﻛﯜﻟﭙﻪﺕ ﺑﯩﻠﻪﻥ ﯬﻣﻪﺱ ﺑﻪﻟﻜﻰ ﻣﻪﻧﺎﻟﯩﻖ ﯪﺭﻗﯩﻠﯩﻖ ﯪﺩﯨﻤﻰ ﻳﺎﺭﻟﯩﺶ ﻗﯩﺴﯩﺴﯩﻨﻰ ﺭﻭﻳﺎﭘﻘﺎ ﭼﯩﻘﺎﺭﻏﺎﻥ ﺑﯘﻻﺗﺘﻰ.ﯬﭘﺴﯘﺱ،ﯰ ﺑﯩﻠﻤﻪﻳﺪﯗ،ﭼﯜﺷﻪﻧﻤﻪﻳﺪﯗ.ﺑﺎﺭﻟﯩﻖ ﻫﺎﺳﯩﻼﺗﻨﻰ ﺗﻪﺟﯩﺮﺑﯩﭽﯩﻠﯩﻜﻨﯩﯔ ﯬﯓ ﻳﺎﺭﻗﯩﻦ ﻧﯘﻗﺘﯩﺴﻰ ﺩﻩﭖ ﺑﯩﻠﯩﺪﯗ.ﻣﯘﺷﯘ ﯪﺭﻗﯩﻠﯩﻖ ﺩﯗﻧﻴﺎﻧﻰ ،ﻫﺎﻳﺎﺗﻠﯩﻘﻨﻰ ﯞﻩ ﻗﯩﻤﻤﻪﺕ ﻗﺎﺭﺷﯩﻨﻰ ﺑﻪﻟﮕﯩﻠﻪﻳﺪﯗ.ﻧﻪﺗﯩﺠﯩﺪﻩ ﺋﯩﻨﺴﺎﻥ ﻫﺎﻳﺎﺗﻠﯩﻖ ﻣﻪﻏﻠﯘﺑﯩﻴﯩﺘﯩﻨﯩﯔ ﺋﯩﻼﻫﻰ ﺑﯩﺸﺎﺭﯨﺘﯩﻨﻰ ﺋﯩﺴﭙﺎﺗﻼﻳﺪﯗ ﯞﻩ ﻣﻪﻏﻠﯘﺑﯩﻴﻪﺗﻜﻪ ﻗﺎﺭﺍﭖ ﻳﯜﺯﻟﯩﻨﯩﺪﯗ.<BR>ﺯﺍﻣﺎﻥ ﺩﯨﮕﻪﻥ ﻧﯩﻤﻪ؟.ﯰ ﺑﯩﺮ ﺷﻪﻳﺌﻰ ﻧﯘﻗﺘﯩﺴﺪﯨﻦ ﻣﻪﯞﺟﯘﺗﻠﯘﻕ،ﯬﻣﻤﺎ ،ﭘﻪﻳﻼﺳﻮﭘﻘﺎ ﻧﯩﺴﺒﻪﺗﻪﻥ ﯰ ﺑﯩﺮ ﻳﻮﻗﻠﯘﻗﻨﯩﯔ ﺑﯩﺸﺎﺭﯨﺘﻰ.ﭼﯜﻧﻜﻰ؛ﺗﯜﻧﯜﮔﯜﻥ ﯲﺗﯜﭖ ﻛﻪﺗﻜﻪﻥ ﻫﺎﺳﯩﻼﺗﻘﺎ ﺗﻪﯞﻩ،ﺑﯜﮔﯜﻥ ﯬﺗﯩﻨﯩﯔ ﻛﯩﺴﯩﺸﯩﺶ ﻧﯘﻗﺘﯩﺴﻰ ،ﯬﺗﻪ ﻧﺎﻣﻪﻟﯘﻡ ﻫﺎﺳﯩﻼﺕ،ﺩﯨﻤﻪﻙ ﺑﯜﮔﯜﻥ، ﯬﺗﻪ ﯞﻩ ﺗﯜﻧﯜﮔﯜﻥ ﻧﯘﻗﺘﯩﺴﯩﻨﯩﯔ ﺑﯩﺮﺩﯨﻦ ﺑﯩﺮ ﻛﯩﺴﯩﺸﯩﺶ ﺋﯩﭙﺎﺩﯨﺴﻰ،ﯬﻣﻤﺎ ﯰ ﻧﺎﻣﻪﻟﯘﻡ،ﯰﻧﻰ ﺑﯩﻠﮕﯩﻠﻰ ﺑﻮﻟﻤﺎﺳﻠﯩﻖ ﻳﺎﻛﻰ ﭘﻪﺭﻩﺯ ﻗﯩﻠﻐﯩﻠﻰ ﺑﻮﻟﻤﺎﺳﻠﯩﻖ ﻧﯘﻗﺘﯩﺴﯩﺪﻥ ﯰ ﺑﯩﺰﻧﯩﯔ ﭼﯜﺷﯜﻧﯜﺵ ﺩﺍﯸﺮﻣﯩﺰﻧﯩﯔ ﺳﯩﺮﺗﯩﺪﺍ.ﺩﯨﻤﻪﻙ ﯰ ﻣﻪﺟﯘﺕ ﯬﻣﻪﺱ.ﻣﯘﺷﯘ ﻧﯘﻗﺘﯩﻐﺎ ﯪﺳﺎﺳﻼﻧﻐﺎﻧﺪﺍ ﺯﺍﻣﺎﻥ ﻣﻪﯞﺟﯘﺕ ﺑﻮﻟﻤﯩﻐﺎﻥ ﺋﯩﻜﻪﻥ،ﺯﺍﻣﺎﻥ ﻫﺎﺳﯩﻼﺗﻠﯩﺮﯨﻨﻰ ﻣﻪﯞﺟﯘﺕ ﺩﯨﻴﯩﺸﻜﻪ ﺑﻮﻻﻣﺪﯗ ﺑﻮﻟﻤﺎﻣﺪﯗ،ﺑﯩﺰ ﯬﺳﻠﻰ ﺯﺍﻣﺎﻧﻨﯩﯔ ﺟﯜﺯﺋﻰ ﻫﺎﺳﯩﻼﺗﯩﺪﯨﻦ ﺯﺍﻣﺎﻥ ﺳﻮﺑﯩﺴﺘﺎﻧﺴﯩﻴﻪﺳﻰ ﻣﻪﯞﺟﯘﺕ ﺑﻮﻟﻤﯩﻐﺎﻥ ﻧﺎﻣﻪﻟﯘﻡ ﺷﻪﻳﺌﻰ ﺩﻩﭖ ﻗﺎﺭﯨﻐﺎﻥ ﺋﯩﻜﻪﻧﻤﯩﺰ ؛ﺩﯨﻤﻪﻙ ،ﯰﻧﯩﯔ ﻫﺎﺳﯩﻼﺗﻰ ﺑﻮﻟﻐﺎﻥ (ﺳﻮﺑﯩﺴﺘﺎﻧﺴﯩﻴﻪ) ﻣﻪﯞﺟﯘﺕ ﯬﻣﻪﺱ ﺩﻩﭖ ﻗﺎﺭﺍﺷﻘﺎ ﺗﺎﻣﺎﻣﻪﻡ ﻫﻪﻗﻠﯩﻘﻤﯩﺰ.ﺑﯘ ﻧﯘﻗﺘﯩﺪﺍ ﺑﯩﺮﺩﯨﻦ ﺑﯩﺮ ﺋﯩﺴﭙﺎﺕ ﺯﺍﻣﺎﻥ ﭼﯜﺷﻪﻧﭽﯩﺴﻰ.ﺑﯘ ﺑﯩﺰﺩﯨﻦ ﯬﻗﯩﻞ ﯞﻩ ﺗﻪﭘﻪﻛﻜﯘﺭ ﺗﻪﻟﻪﭖ ﻗﯩﻠﯩﺪﯗ.<BR>ﻳﻮﻗﻠﯘﻕ، ﻣﻪﻳﻠﻰ ﻏﻪﺭﯨﭗ ﺗﻪﭘﻪﻛﻜﯘﺭﯨﺪﺍ ﺑﻮﻟﺴﯘﻥ ﻳﺎﻛﻰ ﺷﻪﺭﯨﻖ ﺗﻪﭘﻪﻛﻜﯘﺭﯨﺪﺍ ﺑﻮﻟﺴﯘﻥ ،ﯰ ﺑﯩﺮﺩﯨﻦ ﺑﯩﺮ ﻣﻪﯞﺟﯘﺗﻠﯘﻗﻨﯩﯔ ﺋﯩﭙﺎﺩﯨﺴﻰ،ﺋﯩﻨﺴﺎﻥ ﺗﻪﭘﻪﻛﻜﯘﺭﯨﻨﻰ ﺟﯘﺷﻘﯘﻧﻠﯘﻗﻘﺎ ﺋﯩﮕﻪ ﻗﯩﻠﯩﺪﯨﻐﺎﻥ ﺑﯩﺮﺩﯨﻦ ﺑﯩﺮ ﺷﻪﻳﺌﻰ ﺯﺍﻣﺎﻥ ﯞﻩ ﻛﯩﻤﻠﯩﻚ ﭼﯜﺷﻪﻧﭽﯩﺴﻰ،ﯰﻧﯩﯖﺪﺍ ﻳﺎﺭﻟﯩﺸﻨﯩﯔ ﺑﯩﻠﯩﺸﻜﻪ ﺑﻮﻟﻐﺎﻥ ﺯﺍﻣﺎﻥ ﺗﻪﻗﻪﺯﺯﺍﺳﯩﻤﯘ ،ﯬﺑﻪﺩﻯ ﻣﻪﯞﺟﯘﺗﻠﯘﻗﻨﯩﯔ ﻳﺎﺭﻗﯩﻦ ﻧﯘﻗﺘﯩﺴﯩﻐﺎ ﺑﻮﻟﻐﺎﻥ ﺑﯩﻠﯩﺸﻨﯩﯔ ﯪﺭﺯﯗ ﺋﯩﺴﺘﯩﮕﯩﻤﯘ ﺑﺎﺭ .ﯬﻣﻤﺎ،ﺋﯩﻨﺴﺎﻥ ﺗﻪﭘﻪﻛﻜﯘﺭﻯ ﺑﯩﻠﯩﺸﻨﯩﯔ ﺑﯩﺮﺩﯨﻦ ﺑﯩﺮ ﯞﺍﺳﺘﯩﺴﻰ ﯬﻣﻪﺱ،ﯰ ﺑﯩﺮ ﺟﻪﻳﺮﺍﻥ.ﺑﯩﺮﺩﯨﻦ ﺑﯩﺮ ﺑﯩﻠﯩﺸﻨﯩﯔ ﯞﺍﺳﯩﺘﯩﺴﻰ ﺋﯩﻼﻫﻰ ﺑﯩﺸﺎﺭﻩﺕ ﯞﻩ ﯬﻗﯩﻞ .ﯰ ﺑﯩﺰﻧﯩﯔ ﯬﻗﻠﯩﻤﯩﺰﮔﻪ ﺟﯘﺷﻘﯘﻧﻠﯘﻕ ﯪﺗﺎ ﻗﯩﻠﺴﺎ ﺳﻪﺯﮔﯜﻣﯩﺰﺩﯨﻜﻰ ﺗﻪﺑﯩﺌﻰ ﺑﯩﻠﯩﺸﻜﻪ ﺑﻮﻟﻐﺎﻥ ﺋﯩﻨﺘﯩﻠﯩﺸﻨﻰ ﻗﻪﻳﺴﻪﺭﻟﯩﻜﻜﻪ ﺋﯩﮕﻪ ﻗﯩﻠﯩﺪﯗ.ﺩﯨﻤﻪﻙ ،ﺑﯩﻠﯩﺶ ﻫﻪﺭﮔﯩﺰﻣﯘ ﺋﯩﻨﺴﺎﻧﻰ ﻫﺎﺳﯩﻼﺕ ﯬﻣﻪﺱ ﺑﻪﻟﻜﻰ ﯬﺑﻪﺩﻯ ﻣﻪﯞﺟﯘﺗﻠﯘﻗﻨﯩﯔ ﯬﻗﯩﻠﺪﯨﻜﻰ ﺗﻪﺑﯩﺌﻰ ﺋﯩﻨﻜﺎﺳﻰ ﯞﻩ ﺑﯩﺸﺎﺭﻩﺗﻨﯩﯔ ﺋﯩﻨﺴﺎﻧﻰ ﺋﯩﻨﺘﯩﻠﯩﺸﻨﯩﯔ ﻫﺎﺳﯩﻼﺗﻰ.ﻣﯘﺷﯘ ﻧﯘﻗﺘﯩﺪﯨﻦ ﺑﯩﺰ ﯮ(ﺋﯩﻨﺴﺎﻥ) ﯬﻣﻪﺱ،ﯰ ﺑﯩﺮ ﺟﻪﻳﺮﺍﻥ.ﺑﯩﺮﺩﯨﻦ ﺑﯩﺮ ﺑﯩﻠﯩﺸﻨﯩﯔ ﯞﺍﺳﯩﺘﯩﺴﻰ ﺋﯩﻼﻫﻰ ﺑﯩﺸﺎﺭﻩﺕ ﯞﻩ ﯬﻗﯩﻞ .ﯰ ﺑﯩﺰﻧﯩﯔ ﯬﻗﻠﯩﻤﯩﺰﮔﻪ ﺟﯘﺷﻘﯘﻧﻠﯘﻕ ﯪﺗﺎ ﻗﯩﻠﺴﺎ ﺳﻪﺯﮔﯜﻣﯩﺰﺩﯨﻜﻰ ﺗﻪﺑﯩﺌﻰ ﺑﯩﻠﯩﺸﻜﻪ ﺑﻮﻟﻐﺎﻥ ﺋﯩﻨﺘﯩﻠﯩﺸﻨﻰ ﻗﻪﻳﺴﻪﺭﻟﯩﻜﻜﻪ ﺋﯩﮕﻪ ﻗﯩﻠﯩﺪﯗ.ﺩﯨﻤﻪﻙ ،ﺑﯩﻠﯩﺶ ﻫﻪﺭﮔﯩﺰﻣﯘ ﺋﯩﻨﺴﺎﻧﻰ ﻫﺎﺳﯩﻼﺕ ﯬﻣﻪﺱ ﺑﻪﻟﻜﻰ ﯬﺑﻪﺩﻯ ﻣﻪﯞﺟﯘﺗﻠﯘﻗﻨﯩﯔ ﯬﻗﯩﻠﺪﯨﻜﻰ ﺗﻪﺑﯩﺌﻰ ﺋﯩﻨﻜﺎﺳﻰ ﯞﻩ ﺑﯩﺸﺎﺭﻩﺗﻨﯩﯔ ﺋﯩﻨﺴﺎﻧﻰ ﺋﯩﻨﺘﯩﻠﯩﺸﻨﯩﯔ ﻫﺎﺳﯩﻼﺗﻰ.ﻣﯘﺷﯘ ﻧﯘﻗﺘﯩﺪﯨﻦ ﺑﯩﺰ (ﺋﯩﻨﺴﺎﻥ)ﻗﯘﺩﯗﺭﻩﺗﻠﯩﻜﻤﯘ،ﻏﻪﺭﯨﭗ ﻫﺎﺯﯨﺮﻗﻰ ﺯﺍﻣﺎﻥ ﭘﻪﻳﻼﺳﻮﭘﻰ ﻧﯩﺘﭽﻰ "ﮔﯩﮕﺎﻧﯩﺖ ﺋﯩﻨﺴﺎﻥ(ﺧﺎﺳﯩﻴﻪﺗﻠﯩﻚ ﺋﯩﻨﺴﺎﻥ )"ﺗﻪﻟﯩﻤﺎﺗﯩﻨﻰ ﺯﺍﺩﻯ ﻧﯩﻤﯩﮕﻪ ﯪﺳﺎﺳﻪﻥ ﯮﺗﺘﯘﺭﻏﺎ ﻗﻮﻳﺪﻯ،ﺑﻪﻟﻜﯩﻢ ﯰ ﺑﯘﻧﻰ ﺑﯩﺮﺩﻩﻣﻠﯩﻚ ﻫﯩﺴﺴﻰ ﻫﺎﻳﺎﺟﺎﻧﻐﺎ ﻳﺎﻛﻰ ﯰﺯﯗﻥ ﺯﺍﻣﺎﻥ ﻫﺎﻳﺎﺗﻠﯩﻖ ﻫﺎﺳﯩﻼﺗﯩﻨﯩﯔ ﻣﯘﻗﻪﺩﺩﻩﺱ ﺑﯩﺸﺎﺭﻩﺗﻠﯩﺮﯨﮕﻪ ﺗﺎﻳﺎﻧﯩﭗ ﯮﺗﺘﯘﺭﻏﺎ ﻗﻮﻳﺸﯩﺪﯨﻦ ﻗﻪﺗﺌﻰ ﻧﻪﺯﻩﺭ ﯰ ﺑﯩﺰﮔﻪ ﺋﯩﻨﺴﺎﻧﻨﯩﯔ "ﮔﯩﮕﺎﻧﯩﺖ"ﺳﯜﭘﯜﺗﯩﺪﯨﻦ ﺋﯩﻨﺴﺎﻥ ﻫﺎﻣﺎﻥ "ﮔﯩﮕﺎﻧﯩﺘﻠﯩﻖ ﻧﯘﻗﺘﯩﺴﻐﺎ ﻳﯩﺘﯩﺸﻜﻪ ﻗﺎﺩﯨﺮ "ﺩﯨﮕﻪﻥ ﻳﻪﻛﯜﻧﮕﻪ ﺑﺎﺷﻼﻳﺪﯗ.<BR>ﻏﻪﺭﯨﭙﻨﯩﯔ ﯬﻗﯩﻞ ﭘﺎﺭﺍﺳﯩﺘﻰ ﮔﯩﺮﯨﻚ ﯬﻗﯩﻞ ﭘﺎﺭﺍﺳﯩﺘﯩﻨﻰ ﯪﺳﺎﺱ ﻗﯩﻠﻐﺎﻥ.ﺋﯩﻨﺴﺎﻥ ﯬﻗﻠﯩﻨﯩﯔ ﺗﺎﻛﺎﻣﯘﻟﻠﯩﻘﯩﻨﻰ ﺗﻪﭘﻪﻛﻜﯘﺭ ﯪﺭﻗﯩﻠﯩﻖ ﻣﻪﯞﺟﯘﺗﻠﯘﻕ ﯪﺳﺎﺳﯩﻨﻰ ﺑﯩﻠﯩﺸﻨﯩﯔ ﺑﯩﺸﺎﺭﯨﺘﻰ ﻗﯩﻠﻐﺎﻥ.ﯬﻣﻤﺎ،ﺗﻮﻟﯘﭖ ﺗﺎﺷﻘﺎﻥ ﺋﯩﻼﻫﻰ ﺑﯩﺸﺎﺭﻩﺗﻠﻪﺭﮔﻪ ﺗﯘﻳﯘﻧﻐﺎﻥ ﺷﻪﺭﯨﻖ ،ﺟﯘﻣﻠﯩﺪﯨﻦ ﺋﯩﺴﻼﻡ ﺋﯩﺪﻭﻟﻮﮔﻴﺴﻰ ﻣﯩﺘﺎ ﻓﯩﺰﯨﻜﺎ (ﺋﯩﻼﻫﻴﻪﺗﺸﯘﻧﺎﺳﻠﯩﻖ)ﯪﺳﺎﺳﯩﻐﺎ ﻗﯘﺭﯗﻟﻐﺎﻥ.ﺑﯘﻧﯩﯖﺪﯨﻜﻰ ﭘﻪﺭﯨﻖ ﺑﯩﺮﻯ ﻣﺎﺗﯩﺮﺍﻟﯩﺰﯨﻢ ﯪﺳﺎﺳﯩﺪﯨﻜﻰ ﯬﻗﯩﻠﻨﻰ ﯪﺳﺎﺱ ﻗﯩﻠﺴﺎ ﻳﻪﻧﻪ ﺑﯩﺮﻯ ﺋﯩﻼﻫﯩﻴﻪﺗﻨﻰ(ﺑﯩﺸﺎﺭﻩﺕ ﯞﻩ ﯞﻩﻫﯩﻴﻨﻰ)ﯪﺳﺎﺱ ﻗﯩﻠﻐﺎﻥ.<BR>ﺋﯩﻜﻜﻰ ﻧﯘﻗﺘﺎ ﯮﺗﺘﯘﺭﺳﯩﺪﯨﻜﻰ ﻛﯘﺭﻩﺵ ﺷﯘ ﺑﻮﻟﺪﯨﻜﻰ ،ﺑﯩﺮ ﻣﻪﻧﺒﻪﭼﯩﻠﯩﻚ ﯪﺳﺎﺳﯩﺪﯨﻜﻰ ﺋﯩﻼﻫﯩﻴﻪﺗﻨﯩﯔ ﻫﻪﻗﻠﯩﻖ ﺗﻪﺭﭘﯩﺪﯨﻜﻰ ﻛﯜﭺ ﻗﯘﺩﯗﺭﺗﻰ ﻧﯩﯔ ﯬﻗﯩﻞ ﯞﻩ ﯞﻩﻫﻰ ﯪﺳﺎﺳﯩﺪﯨﻜﻰ ﻛﻪﺳﻜﯩﻦ ﺗﻮﻗﯘﻧﯩﺸﻰ ﺑﻮﻟﺪﻯ.ﺑﯘ ﻳﻪﺭﺩﯨﻜﻰ ﯪﺳﺎﻟﯩﻖ ﯞﺍﺳﺘﻪ ﯬﻗﯩﻞ ﭘﺎﺭﺍﺳﻪﺕ ﺑﻮﻟﺪﻯ.ﺑﯘ ﻫﻪﺭ ﺋﯩﻜﻜﻰ ﺗﻪﺭﻩﭘﻜﻪ ﯪﻳﺎﻥ.<BR>ﻏﻪﺭﯨﭙﻨﯩﯔ ﯬﻗﯩﻞ ﭘﺎﺭﺍﺳﯩﺘﻰ ﺋﯩﻨﺴﺎﻥ ﺗﺎﻛﺎﻣﯘﻟﻠﯩﻘﯩﻨﻰ ﺑﯩﺸﺎﺭﻩﺗﻠﯩﮕﻪﻥ ﺑﻮﻟﺴﺎ ،ﺷﻪﺭﯨﻘﻨﯩﯔ (ﺋﯩﺴﻼﻡ)ﯬﻗﯩﻞ ﭘﺎﺭﺍﺳﯩﺘﻰ ﺗﻪﯞﻫﯩﺘﻜﻪ (ﺑﯩﺮ ﺋﯩﻼﻫﻨﻰ )ﺑﯩﻠﯩﺸﻜﻪ ﺑﯩﺸﺎﺭﻩﺗﻠﯩﺪﻯ.ﺑﯘﻧﯩﯖﺪﯨﻜﻰ ﻛﻪﺳﻜﯩﻦ ﺗﻮﻗﯘﻧﯘﺵ ﯪﺯ ﻛﻪﻡ 15 ﯬﺳﯩﺮ ﺩﺍﯞﺍﻡ ﯬﺗﺘﻰ.ﺑﯘ ﺟﻪﻳﺮﺍﻧﺪﺍ ﻧﯘﺭﻏﯘﻥ ﺯﺍﻣﺎﻥ ﯞﻩ ﻣﺎﻛﺎﻥ ﯮﺯﮔﯜﺭﺷﻰ ﺑﻮﻟﺪﻯ.ﮔﺎﺩﺍﻳﻼ ﺑﺎﻱ ﺑﻮﻟﺪﻯ.ﭘﺎﺩﯨﺸﺎﻫﻼ ﮔﺎﺩﺍﻱ ﺑﻮﻟﺪﻯ.ﻣﺎﺩﺩﯨﯟﻯ ﺋﯧﻬﺘﯩﻴﺎﺝ ﻫﻪﻣﻤﯩﻨﻰ ﺑﯧﺴﯩﭗ ﭼﯜﺷﺘﻰ،ﺑﯘﻧﯩﯔ ﻫﻪﻣﻤﯩﺴﻰ ﺑﯩﺮﺧﯩﻞ ﺯﻭﺭﺍﯞﺍﻧﻠﯩﻖ ﯞﺍﺳﺘﯩﺴﯩﻨﻰ ﯪﺳﺎﺱ ﻗﯩﻠﻐﺎﻥ ﻫﺎﻟﺪﯨﻜﻰ ﻳﺎﯞﺍﻳﯩﻠﯩﻖ ﺑﯩﻠﻪﻥ ﺋﭙﺎﺩﯨﻠﻪﻧﺪﻯ.ﺋﯩﻼﻫﻰ ﻗﯘﻟﭽﯩﻠﯩﻖ ﻳﻮﻗﺎﻟﺪﻯ.ﯬﻗﯩﻞ ﭘﺎﺭﺍﺳﻪﺕ ﻣﻪﻫﻜﯘﻣﻠﯘﻗﻘﺎ ﻳﯜﺯﻟﻪﻧﺪﻯ،ﯪﺩﯨﻤﻰ ﺟﺎﺳﺎﺭﻩﺕ ﻫﻮﻛﯘﻣﯩﺮﺍﻧﻠﯩﻘﻘﺎ ﯮﺗﺘﻰ،ﭼﻮﻝ ﺷﻪﻫﻪﺭ ﺑﻮﻟﺪﻯ،ﺷﻪﻫﻪﺭ ﭼﻮﻝ ﺑﻮﻟﺪﻯ.ﺋﯩﻨﺴﺎﻥ ﻫﺎﻳﺎﺗﻠﯩﻘﻨﯩﯔ ﺟﻪﻳﺮﺍﻧﻰ ﻣﺎﻧﺎ ﺷﯘﻧﺪﺍﻕ ﺩﻩﯞﯦﺮﺳﯩﻤﺎﻥ ﮔﯘﻟﻠﯩﻨﯩﺶ ﯞﻩ ﺧﺎﺭﺍﭘﻠﯩﺸﯩﺸﻨﻰ ﺑﯧﺸﯩﺪﯨﻦ ﯮﺗﻜﯜﺯﮔﻪﻥ ﺑﻮﻟﺴﯩﻤﯘ ﯬﻣﻤﺎ ﯰ ﻳﻪﻧﯩﻼﻡ ﺋﯩﻨﺴﺎﻧﻰ ﻳﺎﯞﺍﻳﻰ ﺗﻪﺑﯩﻴﺘﯩﻨﻰ ﯮﺯﮔﻪﺭﯨﺘﻤﯩﺪﻯ.<BR>ﺯﺍﻣﺎﻥ ﺋﯩﻨﺴﺎﻥ ﯬﻗﯩﻞ ﭘﺎﺭﺍﺳﯩﺘﯩﻨﻰ ﻣﻪﺳﺨﯩﺮﻯ ﻗﯩﻠﺪﻯ.ﻣﺎﻛﺎﻥ ﻗﺎﻗﺎﻫﻼﭖ ﻛﯜﻟﺪﻯ.ﯬﻣﻤﺎ ﺋﯩﻨﺴﺎﻥ ﻳﺎﯞﺍﻳﯩﻠﯩﻘﻰ ﯲﺯﮔﻪﺭﻣﯩﺪﻯ.ﻳﺎﯞﺍﻳﯩﻠﯩﻖ ﯞﻩ ﺟﺎﻫﯩﻠﻠﯩﻖ ﻫﻪﻣﻤﺎ ﻳﻪﺭﻧﻰ ﻗﺎﭘﻠﯩﺪﻯ.ﻗﯘﻳﺎﺵ ﯮﺯ ﻧﯘﺭﻯ ﯪﺭﻗﯩﻠﯩﻖ ﻛﯜﻧﺪﻩ ﻳﯩﯖﻰ ﺑﯩﺮ ﻛﯜﻧﻨﯩﯔ ﻳﯧﺘﯩﭗ ﻛﯧﻠﯩﺸﯩﺪﯨﻦ ﺩﯨﺮﻩﻙ ﺑﻪﺭﺳﯩﻤﯘ ﯬﻣﻤﺎ ﺋﯩﻨﺴﺎﻥ ﻳﺎﯞﺍﻳﯩﻠﯩﻘﻰ ﺑﯩﻠﯩﺸﻨﻰ ﯬﻣﻪﺱ ﺑﻪﻟﻜﻰ ﺑﻪﺭﺑﺎﺗﭽﯩﻠﯩﻘﻨﻰ ﺗﻪﻟﻪﭖ ﻗﯩﻠﺪﻯ.ﻳﺎﺷﺎﺷﻨﻰ ﯬﻣﻪﺱ ﺑﻪﻟﻜﻰ ﻫﺎﻻﻛﻪﺗﻨﻰ ﺗﺎﻟﻠﯩﯟﺍﻟﺪﻯ.ﺑﯘﻧﯩﯖﻐﺎ ﻗﺎﺭﺗﺎ ﺗﯘﭘﺮﺍﻕ ﻛﯜﻧﺴﯩﺮﻯ ﺋﯧﺸﯩﭗ ﺑﯧﺮﯞﺍﺗﻘﺎﻥ ﻧﺎﺭﺍﺯﯨﻠﯩﻐﯩﻨﻰ ﺑﯧﺴﯩﺸﻘﺎ ﻧﺎﺋﯩﻼﺝ ﻗﺎﻟﺪﻯ.ﺯﯨﻤﯩﻦ ﮔﺎﯕﮕﯩﺮﺩﻯ.ﺳﯘ ﻏﻪﺯﻩﭘﻠﻪﻧﺪﻯ،ﯮﺕ ﯬﺳﻪﺑﯩﻴﻠﻪﺷﺘﻰ.ﻳﺎﺭﺍﻟﻤﯩﺸﺘﯩﻜﻰ ﺗﻪﯕﭙﯘﯕﻠﯘﻕ ﻧﻪﻟﻪﺩﻩ ﻗﺎﻟﺪﻯ.ﺑﯘﻧﻰ ﺑﯩﻠﮕﯩﻠﻰ ﺑﻮﻟﻤﺎﻳﺪﯗ.ﯬﻣﻤﺎ ،ﻫﻪﺭ ﻛﯜﻧﺪﻩ ﺑﯩﺮ ﺑﻪﺭﺑﺎﺗﭽﯩﻠﯩﻘﻨﻰ ﯪﯕﻼﭖ ﺗﯘﺭﯨﻤﯩﺰ.ﺑﯘ ﺋﯩﻨﺴﺎﻧﻨﯩﯔ ﯪﺗﺎﻟﻤﯩﺶ ﺗﻪﯕﺪﺍﺷﺴﯩﺰ ﯬﻗﯩﻞ ﭘﺎﺭﺍﺳﺘﯩﻨﯩﯔ ﻳﻪﻧﻪ ﻗﺎﻧﺪﺍﻕ ﺧﯩﺴﻠﻪﺗﻜﻪ ﺋﯩﮕﻪ ﺋﯩﻜﻪﻧﻠﯩﮕﻰ ﻫﻪﻗﻘﯩﺪﻩ ﺑﯩﺰﻧﻰ ﭼﻮﯕﻘﯘﺭ ﯮﻳﻐﺎ ﺳﺎﻟﯩﺪﯗ.<BR></P></FONT><br><br>[ &#65169;&#64472; &#65267;&#65166;&#65199;&#65251;&#65166;    abduraxit    &#65175;&#65258;&#65197;&#64488;&#64345;&#64489;&#65194;&#64488;&#65254;    2008-4-19 22:27:09 &#65175;&#64476;&#65199;&#64475;&#65175;&#64476;&#64342; &#65175;&#65258;&#65259;&#65198;&#64488;&#65198;&#65247;&#65258;&#65255;&#65194;&#65263; . ]</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2319" title="شائىرنىڭ كىملىك"  target="_blank" class="tag_title_link">شائىرنىڭ كىملىك</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2318" title="ﺗﯜﺭﻟﯘﻙ ﻛﯩﺘﺎﭘﻼﺭ ﯞﺍﺷﺎﯓ"  target="_blank" class="tag_title_link">ﺗﯜﺭﻟﯘﻙ ﻛﯩﺘﺎﭘﻼﺭ ﯞﺍﺷﺎﯓ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2317" title="شائىر مۇھەممەتجان راشىدىن ئەدەبىي ئۇسلۇبىنىڭ ئالاھىدىلىكلىرى"  target="_blank" class="tag_title_link">شائىر مۇھەممەتجان ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2316" title="[ﯪﺭﻏﺘﯘﻍ] ﻫﯩﻠﻠﯩﺲ ﻣﯩﻠﻠﯩﺮ: ﯬﺩﻩﺑﯩﻴﺎﺕ ﯲﻟﺪﯨﻤﯘ"  target="_blank" class="tag_title_link">[ﯪﺭﻏﺘﯘﻍ] ﻫﯩﻠﻠﯩﺲ ﻣﯩﻠﻠﯩﺮ: ﯬﺩﻩﺑﯩﻴﺎﺕ ﯲﻟﺪﯨﻤﯘ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2315" title="ﯲﻛﻪﺵ ﺟﺎﭘﭙﺎﺭ:&lt;&lt;ﯪﻣﻪﺕ ﯞﻩ ﯪﭘﻪﺕ&gt;&gt; ﻫﻪﻗﻘﯩﺪﻩ"  target="_blank" class="tag_title_link">ﯲﻛﻪﺵ ﺟﺎﭘﭙﺎﺭ:&lt;&lt;ﯪﻣﻪﺕ ﯞﻩ ﯪﭘﻪﺕ&gt;&gt; ﻫﻪﻗﻘﯩﺪﻩ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2314" title="ئەلگىيار مۇنبىرى پەرھات تۇرسۇن بىلەن سۆھبەت ئېلىپ"  target="_blank" class="tag_title_link">ئەلگىيار مۇنبىرى پ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2313" title="ﺧﻮﺵ ﺩﯨﻤﻪﻳﻼ ﻛﻪﺗﻜﯩﻦ ﭘﻪﺭﯨﺸﺘﻪﻡ ( ﺗﯘﺭﺍﻥ)"  target="_blank" class="tag_title_link">ﺧﻮﺵ ﺩﯨﻤﻪﻳﻼ ﻛﻪﺗﻜﯩﻦ ﭘﻪﺭﯨﺸﺘﻪﻡ ( ﺗﯘﺭﺍﻥ)...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2312" title="نىزار قەببانىيغا خەت(نىزار قەببانىي ۋاپاتىنىڭ 10يىللىغا )"  target="_blank" class="tag_title_link">نىزار قەببانىيغا خ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2311" title="ﻧﯩﻤﯩﺸﻘﺎ&lt;&lt; ﺧﻪﻧﺰﯗ&gt;&gt; ﺑﻮﻟﻤﯩﻐﺎﻥ ﺑﻮﻟﻐﯘﻳﺘﯘﻕ؟.........."  target="_blank" class="tag_title_link">ﻧﯩﻤﯩﺸﻘﺎ&lt;&lt; ﺧﻪﻧﺰﯗ&gt;&gt; ﺑﻮﻟﻤﯩﻐﺎﻥ ﺑﻮﻟﻐﯘﻳﺘﯘﻕ؟.............</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2310" title="ﯮﺭﺗﺎﻗﻠﯩﻖ ﯞﻩ ﺧﺎﺳﻠﯩﻖ"  target="_blank" class="tag_title_link">ﯮﺭﺗﺎﻗﻠﯩﻖ ﯞﻩ ﺧﺎﺳﻠﯩﻖ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2309" title="ﭼﻮﻗﺎﻥ:ﭘﻪﻟﻪﺳﻪﭘﯩﮕﻪ ﺋﯧﻬﺘﯩﻴﺎﺝ ﺋﯩﻨﺴﺎﻥ"  target="_blank" class="tag_title_link">ﭼﻮﻗﺎﻥ:ﭘﻪﻟﻪﺳﻪﭘﯩﮕﻪ ﺋﯧﻬﺘﯩﻴﺎﺝ ﺋﯩﻨﺴﺎﻥ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2308" title="قىممەتلىك روھ،ئۇنتۇلغۇسىز تەسىرات"  target="_blank" class="tag_title_link">قىممەتلىك روھ،ئۇنت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2307" title="ﭼﻮﻗﺎﻥ؛ﺧﯘﺩﺍ ﮔﯘﯞﺍﻫ"  target="_blank" class="tag_title_link">ﭼﻮﻗﺎﻥ؛ﺧﯘﺩﺍ ﮔﯘﯞﺍﻫ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2306" title="شائىر  شېئىر يازغاندا ..."  target="_blank" class="tag_title_link">شائىر  شېئىر يازغان...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2305" title="ﺑﯜﮔﯜﻧﻜﻰ ﭘﺎﺭﺍﯓ"  target="_blank" class="tag_title_link">ﺑﯜﮔﯜﻧﻜﻰ ﭘﺎﺭﺍﯓ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2304" title="[ﻣﯘﻧﺎﺯﯨﺮﻩ]ﺋﻮﻗﯘﺗﻘﯘﭼﯩﻼﺭﻧﻰ ﺗﯧﭙﯩﺸﻤﺎﻗﻘﺎ ﺳﺎﻟﻐﺎﻥ، ﺋﺎﻟﺘﯘﻧﺪﯨﻦ ﻗﯩﻤﻤﻪﺕ، >["  target="_blank" class="tag_title_link">[ﻣﯘﻧﺎﺯﯨﺮﻩ]ﺋﻮﻗﯘﺗﻘﯘﭼﯩﻼﺭﻧﻰ ﺗﯧﭙﯩﺸﻤﺎﻗﻘﺎ ﺳﺎﻟﻐﺎﻥ، ﺋﺎﻟﺘﯘﻧﺪﯨﻦ ﻗﯩﻤﻤﻪﺕ، &gt;[...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2303" title="دات باسقان تېغ"  target="_blank" class="tag_title_link">دات باسقان تېغ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2302" title="ﭼﻮﻗﺎﻥ:ﺳﯘﻣﺮﯗﻏﻨﯩﯔ ﯮﻥ ﻳﯩﻠﻠﯩﻘﻰ(ﺗﻮﭘﻼﻡ) ﯞﻩ ﯮ ﻫﻪﻗﺘﻪ ﯮﻳﻠﯩﻨﯩﺶ"  target="_blank" class="tag_title_link">ﭼﻮﻗﺎﻥ:ﺳﯘﻣﺮﯗﻏﻨﯩﯔ ﯮﻥ ﻳﯩﻠﻠﯩﻘﻰ(ﺗﻮﭘﻼﻡ) ﯞﻩ ﯮ ﻫﻪﻗﺘﻪ ﯮﻳﻠﯩﻨﯩﺶ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2301" title="ﻳﯩﺮﺗﯩﻠﻐﺎﻥ ﻧﯩﻘﺎﭖ ( ﺗﯘﺭﺍﻥ)"  target="_blank" class="tag_title_link">ﻳﯩﺮﺗﯩﻠﻐﺎﻥ ﻧﯩﻘﺎﭖ ( ﺗﯘﺭﺍﻥ)...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2300" title="مۇنبەرلىرىمىزدىكى تىما پاخاللىقى تۇغرىسىدا ئىككى كەلىمە سۆز"  target="_blank" class="tag_title_link">مۇنبەرلىرىمىزدىكى ...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/edebiyat/search.php?catid=259&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2319" title="شائىرنىڭ كىملىك"  target="_blank" class="tag_title_link">شائىرنىڭ كىملىك</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2318" title="ﺗﯜﺭﻟﯘﻙ ﻛﯩﺘﺎﭘﻼﺭ ﯞﺍﺷﺎﯓ"  target="_blank" class="tag_title_link">ﺗﯜﺭﻟﯘﻙ ﻛﯩﺘﺎﭘﻼﺭ ﯞﺍﺷﺎﯓ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2317" title="شائىر مۇھەممەتجان راشىدىن ئەدەبىي ئۇسلۇبىنىڭ ئالاھىدىلىكلىرى"  target="_blank" class="tag_title_link">شائىر مۇھەممەتجان راشىد...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2316" title="[ﯪﺭﻏﺘﯘﻍ] ﻫﯩﻠﻠﯩﺲ ﻣﯩﻠﻠﯩﺮ: ﯬﺩﻩﺑﯩﻴﺎﺕ ﯲﻟﺪﯨﻤﯘ"  target="_blank" class="tag_title_link">[ﯪﺭﻏﺘﯘﻍ] ﻫﯩﻠﻠﯩﺲ ﻣﯩﻠﻠﯩﺮ: ﯬﺩﻩﺑﯩﻴﺎﺕ ﯲﻟﺪﯨﻤﯘ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2315" title="ﯲﻛﻪﺵ ﺟﺎﭘﭙﺎﺭ:&lt;&lt;ﯪﻣﻪﺕ ﯞﻩ ﯪﭘﻪﺕ&gt;&gt; ﻫﻪﻗﻘﯩﺪﻩ"  target="_blank" class="tag_title_link">ﯲﻛﻪﺵ ﺟﺎﭘﭙﺎﺭ:&lt;&lt;ﯪﻣﻪﺕ ﯞﻩ ﯪﭘﻪﺕ&gt;&gt; ﻫﻪﻗﻘﯩﺪﻩ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2314" title="ئەلگىيار مۇنبىرى پەرھات تۇرسۇن بىلەن سۆھبەت ئېلىپ"  target="_blank" class="tag_title_link">ئەلگىيار مۇنبىرى پەرھات...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2313" title="ﺧﻮﺵ ﺩﯨﻤﻪﻳﻼ ﻛﻪﺗﻜﯩﻦ ﭘﻪﺭﯨﺸﺘﻪﻡ ( ﺗﯘﺭﺍﻥ)"  target="_blank" class="tag_title_link">ﺧﻮﺵ ﺩﯨﻤﻪﻳﻼ ﻛﻪﺗﻜﯩﻦ ﭘﻪﺭﯨﺸﺘﻪﻡ ( ﺗﯘﺭﺍﻥ)...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2312" title="نىزار قەببانىيغا خەت(نىزار قەببانىي ۋاپاتىنىڭ 10يىللىغا )"  target="_blank" class="tag_title_link">نىزار قەببانىيغا خەت(نى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2311" title="ﻧﯩﻤﯩﺸﻘﺎ&lt;&lt; ﺧﻪﻧﺰﯗ&gt;&gt; ﺑﻮﻟﻤﯩﻐﺎﻥ ﺑﻮﻟﻐﯘﻳﺘﯘﻕ؟.........."  target="_blank" class="tag_title_link">ﻧﯩﻤﯩﺸﻘﺎ&lt;&lt; ﺧﻪﻧﺰﯗ&gt;&gt; ﺑﻮﻟﻤﯩﻐﺎﻥ ﺑﻮﻟﻐﯘﻳﺘﯘﻕ؟.............</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=2310" title="ﯮﺭﺗﺎﻗﻠﯩﻖ ﯞﻩ ﺧﺎﺳﻠﯩﻖ"  target="_blank" class="tag_title_link">ﯮﺭﺗﺎﻗﻠﯩﻖ ﯞﻩ ﺧﺎﺳﻠﯩﻖ...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/edebiyat/show_js.php?itemid=2307"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

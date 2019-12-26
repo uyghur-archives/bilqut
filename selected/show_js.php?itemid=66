@@ -1,0 +1,3 @@
+﻿try {setidval('hits','2883');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/til_yeziq/show.php?itemid=65">ﺋﯩﭙﭙﻪﺕ ﺯﺍﺭ - ﺯﺍﺭ ﻳﯩﻐﻼﻳﺪﯗ</a></li><li>  كىيىنكىسى  :  <a href="/til_yeziq/show.php?itemid=67">ﺑﯩﺮ ﻳﯩﮕﯩﺘﻨﯩﯔ ﻛﻮﭼﯩﺴﻰ</a></li>');}catch(e){}

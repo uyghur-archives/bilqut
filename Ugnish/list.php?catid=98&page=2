@@ -1,0 +1,338 @@
+﻿
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title> ماتېماتىكا  -ئۆگىنىش--Bilqut Uyghur web</title>
+<meta name="keywords" content=",">
+<meta name="description" content="-">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/Ugnish/" class="red"> ئۆگىنىش</a>
+         | <a class="razimantur" href="/Ugnish/list.php?catid=98" > ماتېماتىكا  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=99" >يىزا-ئىگىلىك </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=100" >پسىخولوگىيە </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=101" >ئىقتىساد </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=102" >مۇھىت </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=103" >ئەدەبىيات </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=104" >جۇغراپىيە </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=105" >فىزىكا </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=106" > خىمىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=107" >ئاسترونومىيە </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=108" > بىئولوگىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=109" > دېپلوماتىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=110" > ئېلېكترون  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=111" > تەنتەربىيە  </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=112" >مەتبەئەچىلىك </a>
+
+ | <a class="razimantur" href="/Ugnish/list.php?catid=113" > گۈزەل- سەنئەت  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<!--主体标签-->
+<table width="950" cellpadding="0"  cellspacing="0">
+  <tr>
+    <td width="750" valign="top">
+<!--位置导航-->
+    <div class="position">ئورنىڭىز : <a href="/Ugnish/">ئۆگىنىش</a> >> <a href="/Ugnish/list.php?catid=98"> ماتېماتىكا  </a> >> </div>
+     <div class="cat_box_1">
+ <div class="cat_title">
+     <div class="cat_name"> ماتېماتىكا  </div>
+ <div class="cat_url"><a href="" class="more"></a></div>
+     </div>
+<!--最新图片文章--><table width="100%"  cellpadding="2" cellspacing="0">
+
+
+</table>
+
+<table cellpadding="0" cellspacing="0" class="tag_box_1">
+
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=67" title="ھېسابلاش قورالى" 0 class="tag_title_link">ھېسابلاش قورالى</a>   
+    
+ <td><span>2008-10-25</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=66" title="«بىرلا سىزىپ چىقىش» ۋە «تۇتاش تور»" 0 class="tag_title_link">«بىرلا سىزىپ چىقىش» ۋە «تۇتاش تور»</a>   
+    
+ <td><span>2008-10-19</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=65" title="قىمارۋازنىڭ ئۇتۇش - ئۇتتۇرۇش ئېھتىماللىقى" 0 class="tag_title_link">قىمارۋازنىڭ ئۇتۇش - ئۇتتۇرۇش ئېھتىماللىقى</a>   
+    
+ <td><span>2008-10-17</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=64" title="كۆلدىكى بېلىق سانىنى ئېھتىماللىقتىن پايدىلىنىپ ئۆلچەش ئۇسۇلى" 0 class="tag_title_link">كۆلدىكى بېلىق سانىنى ئېھتىماللىقتىن پايدىلىنىپ ئۆلچەش ئۇسۇلى</a>   
+    
+ <td><span>2008-10-15</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=63" title="خەتنى كونۋېرتقا خاتا سېلىش مەسىلىسى" 0 class="tag_title_link">خەتنى كونۋېرتقا خاتا سېلىش مەسىلىسى</a>   
+    
+ <td><span>2008-10-13</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=62" title="سېھرىي چاسا" 0 class="tag_title_link">سېھرىي چاسا</a>   
+    
+ <td><span>2008-10-11</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=61" title="قەپەس پرىنسىپى" 0 class="tag_title_link">قەپەس پرىنسىپى</a>   
+    
+ <td><span>2008-10-09</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=60" title="موبيۇس ھالقىسى" 0 class="tag_title_link">موبيۇس ھالقىسى</a>   
+    
+ <td><span>2008-10-07</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=59" title="ﺟﺎﻫﺎﻥ ﻣﺎﺗﯧﻤﺎﺗﯧﻜﺎ ﺗﺎﺭﯨﺨﯩﺪﯨﻜﻰ ﮔﯩﮕﺎﻧﯩﺖ&quot; ﯬﻳﻠﯧﺮ &quot;" 0 class="tag_title_link">ﺟﺎﻫﺎﻥ ﻣﺎﺗﯧﻤﺎﺗﯧﻜﺎ ﺗﺎﺭﯨﺨﯩﺪﯨﻜﻰ ﮔﯩﮕﺎﻧﯩﺖ&quot; ﯬﻳﻠﯧﺮ &quot;</a>   
+    
+ <td><span>2008-10-05</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=58" title="ﻓﯘﻧﯩﻜﺴﯩﻴﻪ ﭼﯘﺷﻪﻧﭽﯩﺴﯩﻨﯩﯔ ﻗﯩﺴﻘﯩﭽﻪ ﺗﻪﺭﻩﻗﻘﯩﻴﺎﺕ ﺗﺎﺭﯨﺨﻰ" 0 class="tag_title_link">ﻓﯘﻧﯩﻜﺴﯩﻴﻪ ﭼﯘﺷﻪﻧﭽﯩﺴﯩﻨﯩﯔ ﻗﯩﺴﻘﯩﭽﻪ ﺗﻪﺭﻩﻗﻘﯩﻴﺎﺕ ﺗﺎﺭﯨﺨﻰ</a>   
+    
+ <td><span>2008-10-05</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=57" title="[ﺋﻮﭘﯩﺮﺍﺗﺴﯩﻴﻪ ﻧﻪﺯﻩﺭﯨﻴﺴﻰ] ﺩﯨﻨﺎﻣﯧﻜﯩﻠﯩﻖ ﻻﻳﯩﮭﻠﻪﺵ" 0 class="tag_title_link">[ﺋﻮﭘﯩﺮﺍﺗﺴﯩﻴﻪ ﻧﻪﺯﻩﺭﯨﻴﺴﻰ] ﺩﯨﻨﺎﻣﯧﻜﯩﻠﯩﻖ ﻻﻳﯩﮭﻠﻪﺵ</a>   
+    
+ <td><span>2008-10-05</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=56" title="ﻣﺎﺗﯧﻤﺎﺗﯧﻜﯩﻠﯩﻖ ﺋﯩﺴﭙﺎﺕ ﺋﯘﺳﯘﻟﻰ- ﻗﺎﺭﯨﺸﻰ ﻣﯩﺴﺎﻝ" 0 class="tag_title_link">ﻣﺎﺗﯧﻤﺎﺗﯧﻜﯩﻠﯩﻖ ﺋﯩﺴﭙﺎﺕ ﺋﯘﺳﯘﻟﻰ- ﻗﺎﺭﯨﺸﻰ ﻣﯩﺴﺎﻝ</a>   
+    
+ <td><span>2008-10-05</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=55" title="يايسىمان سىيرىلغۇچ ۋە ۋارىئاتسىيە" 0 class="tag_title_link">يايسىمان سىيرىلغۇچ ۋە ۋارىئاتسىيە</a>   
+    
+ <td><span>2008-10-05</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=54" title="چەمبەر" 0 class="tag_title_link">چەمبەر</a>   
+    
+ <td><span>2008-10-03</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=53" title="قەدىمكى گوگۇ تېئورېمىسى" 0 class="tag_title_link">قەدىمكى گوگۇ تېئورېمىسى</a>   
+    
+ <td><span>2008-10-01</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=52" title="«ئالتۇن سان» ۋە خىللاش ئۇسۇلى" 0 class="tag_title_link">«ئالتۇن سان» ۋە خىللاش ئۇسۇلى</a>   
+    
+ <td><span>2008-09-29</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=51" title="يەرگە خىش يېيىتىش ئىلمى" 0 class="tag_title_link">يەرگە خىش يېيىتىش ئىلمى</a>   
+    
+ <td><span>2008-09-25</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=50" title="گېئومېتىرىيە ئاساسلىرى" 0 class="tag_title_link">گېئومېتىرىيە ئاساسلىرى</a>   
+    
+ <td><span>2008-09-23</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=49" title="توخۇ - توشقان مەسىلىسى" 0 class="tag_title_link">توخۇ - توشقان مەسىلىسى</a>   
+    
+ <td><span>2008-09-21</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/Ugnish/show.php?itemid=48" title="تەپمۇ تەڭلىكنىڭ ئىشلىتىلىشى" 0 class="tag_title_link">تەپمۇ تەڭلىكنىڭ ئىشلىتىلىشى</a>   
+    
+ <td><span>2008-09-19</span> </td>
+  </tr>
+
+</table>
+
+<div class="pages">جەمئى: <b>87</b>&nbsp;&nbsp;&nbsp;&nbsp;<a href='/Ugnish/list.php?catid=98'>باش بەت
+</a>&nbsp;<a href='/Ugnish/list.php?catid=98&page=1'>ئالدىنقى بەت
+</a>&nbsp;<a href='/Ugnish/list.php?catid=98&page=3'>كىينكى بەت
+</a>&nbsp;<a href='/Ugnish/list.php?catid=98&page=5'>ئاخىرقى بەت</a>&nbsp;بە ت: <b><font color=red>2</font>/5</b>&nbsp;&nbsp;<input type='text' name='page' id='page' class='page' size='3' onKeyDown='if(event.keyCode==13) {window.location="/Ugnish/list.php?catid=98&page="+$("page").value+""; return false;}'> <input type='button' value='GO' class='gotopage' style='width:30px' onclick='window.location="/Ugnish/list.php?catid=98&page="+$("page").value+""'>
+</div>
+     </div>	
+<!--搜索框--></td>
+    <td width="10"></td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>تەۋسىيە ئەسەر </h1><h2><a href="/Ugnish/search.php?catid=98&elite=1&search=1" class="more">يەنە بار </a></h2></div>
+<!--推荐文章js调用-->
+<table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=87" title="مەندە بىر تېپىشماق بار !!!!!!"  target="_blank" class="tag_title_link">مەندە بىر تېپىشماق بار !!...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=86" title="يىغىندى بەلگىسى (∑) ۋە ئارقىمۇئارقا كۆپەيتىش بەلگىسى (∏)"  target="_blank" class="tag_title_link">يىغىندى بەلگىسى (∑) ۋە ئا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=85" title="تەڭ (=)، كىچىك (&lt;)، چوڭ (&gt;)"  target="_blank" class="tag_title_link">تەڭ (=)، كىچىك (&lt;)، چوڭ (&gt;)...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=84" title="i بەلگىسى"  target="_blank" class="tag_title_link">i بەلگىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=83" title="ئونلۇق كەسىر چېكىتىنىڭ ئىشلىتىلىشى"  target="_blank" class="tag_title_link">ئونلۇق كەسىر چېكىتىنىڭ ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=82" title="ئەرەبلەر كەسىر سىزىقىنى ئىجاد قىلغان"  target="_blank" class="tag_title_link">ئەرەبلەر كەسىر سىزىقىنى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=81" title="قوشۇش، ئېلىش، كۆپەيتىش، بۆلۈشلەرنىڭ كېلىپ چىقىشى"  target="_blank" class="tag_title_link">قوشۇش، ئېلىش، كۆپەيتىش،...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=80" title="ماتېماتىكىدىكى بەلگىلەر"  target="_blank" class="tag_title_link">ماتېماتىكىدىكى بەلگىلە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=79" title="لوگىكىلىق ئۇسۇل"  target="_blank" class="tag_title_link">لوگىكىلىق ئۇسۇل</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/Ugnish/show.php?itemid=78" title="ئېلېكترونلۇق ھېسابلاش ماشىنىسى"  target="_blank" class="tag_title_link">ئېلېكترونلۇق ھېسابلاش م...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>ئاۋات ئەسەر </h1><h2><a href="/Ugnish/search.php?catid=98&ordertype=3&search=1" class="more">يەنە بار </a></h2></div>
+<table cellpadding="0" cellspacing="0" class="tag_box">
+
+
+</table>
+</td>
+  </tr>
+</table>
+
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

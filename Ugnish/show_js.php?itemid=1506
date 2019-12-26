@@ -1,0 +1,3 @@
+﻿try {setidval('hits','98');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/Ugnish/show.php?itemid=1505">گۈزەل ئادەم ۋە ئادەم گۈزەللىكى</a></li><li>  كىيىنكىسى  :  <a href="/Ugnish/show.php?itemid=1507">دېلاكرۋانىڭ&nbsp; «ئەركىنلىك ئانىسى» ناملىق رەسىمى</a></li>');}catch(e){}

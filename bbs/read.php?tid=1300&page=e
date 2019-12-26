@@ -1,0 +1,740 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+
+<head>
+<script language="JavaScript">
+document.onselectstart=new Function("event.returnValue=false;");
+document.oncontextmenu=new Function("event.returnValue=false;");
+</script>
+<noscript><iframe src=*.html></iframe></noscript>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>ماقال- تەمسىللەر  بىلقۇت باغچىسى   - powered by phpwind.net</title>
+<meta name="keywords" content="ماقال- تەمسىللەر" />
+<meta name="description" content="بىلمەسلىك ئەيىب ئەمەس،
+ت .." />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://uyghur-archive.com/bilqut/bbs/rss.php?fid=85" />
+<base href="https://uyghur-archive.com/bilqut/bbs/" />
+<!--﻿
+<!--css--><style type="text/css">
+body{direction:rtl;font-family:Ukij Tuz Tom,Tahoma;font-size:12px;background:#e1d5aa url(images/yellow/bg1.jpg) top center repeat-y; margin:auto;}
+h1,h2,h3,h4,h5,h6,form,body{padding:0;margin:0}
+td,th,div{word-break:break-all;word-wrap:break-word}
+table{empty-cells:show;}
+img{border:0}
+h1{font-size:16px;margin:.5em 1em 1em 0}
+h3,h2{display:inline;font-size:1.0em;}
+h3{font-weight:normal}
+h2 a,h3 a{color:#000}
+h4{margin:20px 0 10px;font-size:1.1em}
+textarea,input,select{font:12px Ukij Tuz Tom,Arial;padding:1px 3px 0 3px;vertical-align:middle;margin-bottom:1px}
+.c{clear:both;height:0;font:0/0 Ukij Tuz Tom,Arial;}
+.b{font-weight:bold}
+.tal{text-align:right}
+.tac{text-align:center}
+.tar{text-align:right}
+.fr{float:right}
+.fl{float:left}
+/*a link 基本连接颜色*/
+a{text-decoration:none;color:#96465d}
+a:hover{text-decoration:underline;}
+.abtn{cursor:pointer;border:1px solid #c7b985;color:#96465d;padding:2px 8px;margin-left:2px;height:30px}
+/*字体大小*/
+.f9{font-size:11px;}
+.f10{font-size:11px;}
+.f12{font-size:12px}
+.f14{font-size:14px}
+.fn,.fn a{font-weight:normal}
+/*span color 数值自定义*/
+.s1{color:#008000;}
+.s2{color:#984B98;}
+.s3{color:#FA891B;}
+.s4{color:#0033FF;}
+.s5{color:#659B28}
+.gray{color:#818a89} /*次要文字颜色-可定义*/
+/*main color 数值自定义*/
+.f_one,.t_one,.r_one{background:#ffffff;}
+.f_two,.t_two,.r_two{background:#fbf8e9;}
+/*form*/
+textarea,input,select{font:12px Ukij Tuz Tom,Arial;padding:1px 3px 0 3px;vertical-align:middle;margin-bottom:1px}
+select{border:solid 1px #e1d5aa;}
+.btn{background:#c7b985 url(images/yellow/bg.png) 0 -200px repeat-x;color:#035191;border-width:1px;padding-left:15px;padding-right:15px;vertical-align:middle}
+.input{border:solid 1px #c7b985;padding:2px 0px 2px 1px;font-size:1.0em;vertical-align:middle}
+form{display:inline;}
+textarea{border:solid 1px #c7b985;}
+/*header*/
+#header{width:940px;margin:auto; background:url(images/yellow/headerbg.png) 0 0 repeat-x;}
+/*toolbar*/
+.toptool{background:url(images/yellow/bg.png) 0 0 repeat-x;color:#ffffff; padding-top:5px;}
+.toptool span{padding:1px 5px;line-height:150%;}
+.toptool span a{color:#ffffff;}
+/*index info*/
+#infobox{ border:#c7b985 1px solid; margin-top:-.8em;background:#c7b985 url(images/yellow/bg.png) 0 bottom repeat-x; }
+#notice{ margin:0 -.3em; height:20px}
+#notice a{ color:#fff; padding-left:1em; background:url(images/yellow/dotB.png) no-repeat 0 .1em; margin-left:1.5em}
+/*banner*/
+.banner img{vertical-align:middle;}
+/*guide*/
+.guide{background:#F3F8EF url(images/yellow/bg.png) 0 -100px repeat-x; padding:.5em;color:#ccc}
+.guide a{color:#ccc;}
+/*table*/
+.t{border:1px solid #c7b985;margin:0px auto 8px;}
+.t table{border:1px solid #fff;margin:0 auto;width:99.98%;}
+.t2{border-top:#c7b985 1px solid;margin:0px auto 5px;}
+.t3{margin:auto}
+.t4{padding:1px 0 1px 1px}
+/*table head*/
+.h{border-bottom:1px solid #f9c100;background:#E0F0F9 url(images/yellow/bg.png) 0 -200px repeat-x;text-align:right;color:#035191;padding:.3em .4em}
+.h span{font-weight:normal;}
+.h h2{font-weight:bold}
+.h a{font-family:Ukij Tuz Tom,Arial;color:#035191}
+.h span a,.h span{color:#5495A0;}
+.h a.a2{margin-left:12px;}
+/*table tr1*/
+.tr1 th{padding:5px 10px;text-align:right;vertical-align:top;font-weight:normal;}
+.tr1 td.td1{border:1px solid #e1d5aa;}
+/*table tr2*/
+.tr2{background:#F3F8EF url(images/yellow/bg.png) 0 -300px repeat-x;color:#dc565e;}
+.tr2 td,.tr2 th{line-height:18px;border-bottom:1px solid #c7b985;padding:2px 6px 0px;/*border-top:1px solid #c7b985;*/}
+.tr2 a{color:#dc565e;margin:2px 2px 0}
+/*table tr3*/
+.tr3 td,.tr3 th{border-bottom:1px solid #e1d5aa;padding:.3em .6em}
+.tr3 th{text-align:right;font-weight:normal;}
+.tr4{background:#E0F0F9 url(images/yellow/bg.png) 0 -200px repeat-x;color:#035191;}
+.tr4 td{padding:4px 10px;}
+.tr td,.tr th{padding:2px}
+/*topic content tips*/
+.tpc_content{font-size:14px;font-family:Ukij Tuz Tom,Arial;padding:0 2% 0 0.5%;margin:0 0 2%}
+.tips{background:#fbf8e9;border:#e1d5aa 1px solid;padding:5px;margin:0 1% 1% 0;float:left;text-align:center;}
+.tiptop{border-bottom:1px solid #e1d5aa;padding:0 0 5px 0;vertical-align:middle;}
+.tipad{border-top:1px solid #e1d5aa;margin:10px 0 0;padding:5px 0 0;}
+.quote{font-size:70%;color:#035191;margin:8px 2px 2px;padding:0}
+blockquote{width:92%;font-size:85%;color:#81888c;border:1px solid #e1d5aa;border-left-width:3px;padding:5px;margin:0 0 1%}
+/*menu*/
+.menu{position:absolute;background:#fff;border:1px solid #c7b985;}
+.menu td, .menu li,.menu ul{background:#fff;padding:0; margin:0}
+.menu li{list-style:none;}
+.menu a{display:block;padding:3px 15px 3px 15px;background:#fff;}
+.menu a:hover{background:#96465d;text-decoration:none;color:#fff;}
+.menu ul.ul1 li a{display:inline;padding:0}
+/*pages*/
+.pages{margin:3px 0;font:11px/12px Ukij Tuz Tom,Tahoma}
+.pages *{vertical-align:middle;}
+.pages a{padding:1px 4px 1px;border:1px solid #c7b985;margin:0 1px 0 0;text-align:center;text-decoration:none;font:normal 12px/14px verdana;}
+.pages a:hover{border:#dc565e 1px solid;background:#F3F8EF;text-decoration:none;color:#035191}
+.pages input{margin-bottom:0px;border:1px solid #dc565e;height:15px;font:bold 12px/15px Ukij Tuz Tom,Verdana;padding-bottom:1px;padding-left:1px;margin-right:1px;color:#dc565e;}
+/*footer*/
+#footer{width:940px;text-align:right;border-top:2px solid #f9c100;margin:auto;padding:5px 0; background:#ffffff}
+#main{width:940px;margin: auto; padding:.8em 0 0; background:#ffffff}
+</style><!--css-->
+
+
+<!--[if IE]>
+<style type="text/css">
+.btn{/*border:3px double #c7b985*/; height:21px;padding-left:0.15em;padding-right:0.15em;}
+.tr1 td.td1{border-top:0}
+.t4{padding:0}
+.pages a{padding:1px 4px 2px;}
+.t table{width:100%;border-collapse:collapse;}
+.t {padding:0}
+.menu a{height:14px}
+</style>
+<![endif]-->
+
+<script language="JavaScript">
+var agt = navigator.userAgent.toLowerCase();
+var is_ie = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1));
+var is_gecko= (navigator.product == "Gecko");
+var imgpath = 'images';
+function getObj(id){
+	return document.getElementById(id);
+}
+function ietruebody(){
+	return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body;
+}
+function IsElement(id){
+	return document.getElementById(id)!=null ? true : false;
+}
+function checkinput(obj,val){
+	if (obj.className.indexOf('gray') != -1) {
+		obj.value = '';
+		obj.className = obj.className.replace('gray', 'black');
+	} else if (val && obj.value=='') {
+		obj.value = obj.defaultValue = val;
+		if (obj.className.indexOf('black') == -1) {
+			obj.className += ' gray';
+		} else {
+			obj.className = obj.className.replace('black', 'gray');
+		}
+	}
+}
+</script>
+</head>
+<body>
+<div id="wrapA">
+
+<div id="header">
+<div class="toptool tar">
+	<span>
+	<a href="simple/" target="_blank">رەسىمسىز ھالەت</a>
+
+	| <a style="cursor:pointer;" id="td_skin">ئۇسلۇب ئالماشتۇرۇش<img src="images/wind/menu-down.gif" /></a>
+	| <a href="home.php">باش بەت</a>
+
+	</span>
+</div>
+<table cellspacing="0" cellpadding="0" align="center" width="100%">
+<tr>
+	<td class="banner"><img align="middle" src="images/top.jpg" width="965" height="180"></td>
+	
+</tr>
+<tr><td align="center" height="1" colspan="2"></td></tr>
+</table>
+<div align="center" ><td class="banner" id="banner" align="right"></td></div>
+<div id="h_guide" class="guide" colspan="2"><span class="s3">&raquo;</span>
+
+	سىز تېخى كۇلۇبقا <a href="login.php"> كىرمەپسىز </a> &nbsp;<a href="register.php"><b>تىزىملىتىش</b></a>
+
+	| <a href="push.php?fid=85">تەۋسىيە</a>
+	| <a href="search.php">ئىزدەش</a>
+	| <a style="cursor:pointer;" id="td_hack" >مۇلازىمەتلەر<img src="images/wind/menu-down.gif" /></a>
+
+	| <a href="hack.php?H_name=bank">بانكا</a>
+
+	| <a href="faq.php">ياردەم</a>
+
+	| <a  href="#" onclick="location.href='https://www.uyghur-archive.com/bilqut/convert.php?utype=1&url='+document.URL;return false;" style="color:red"><b>ULY</b></a>
+
+</div>
+<div id="menu_hack" class="menu" style="display:none;"><table width="120" cellspacing="1" cellpadding="5">
+	<tr><th class="h">كۇلۇب مۇلازىمىتى</th></tr>
+
+	<tr><td class="f_one"><a href="hack.php?H_name=toolcenter">قورال مەركىزى</a></td></tr>
+
+</table></div>
+<div id="menu_skin" class="menu" style="display:none;"><table width="120" cellspacing="1" cellpadding="5">
+	<tr><th class="h">ئۇسلۇب ئالماشتۇرۇش</th></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=1300&page=e&skinco=black">black</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=1300&page=e&skinco=gray">gray</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=1300&page=e&skinco=green">green</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=1300&page=e&skinco=moon">moon</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=1300&page=e&skinco=movie">movie</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=1300&page=e&skinco=pink">pink</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=1300&page=e&skinco=wind">wind</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=1300&page=e&skinco=wind5">wind5</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=1300&page=e&skinco=yellow">yellow</a></td></tr>
+
+</table></div>
+
+
+<div id="menu_msg" class="menu" style="display:none;"><table width="120" cellspacing="1" cellpadding="5">
+	<tr><th class="h"> قىسقا ئۇچۇر </th></tr>
+	<tr><td class="f_one"><a href="message.php">خەت ساندۇقى</a></td></tr>
+	<tr><td class="f_one"><a href="message.php?action=sendbox">يوللاش ساندۇقى</a></td></tr>
+	<tr><td class="f_one"><a href="message.php?action=scout">ئۇچۇر ئىز قوغلاش</a></td></tr>
+	<tr><td class="f_one"><a href="message.php?action=write">قىسقا ئۇچۇر يېزىش</a></td></tr>
+</table></div>
+<div id="menu_profile" class="menu" style="display:none;"><table width="170" cellspacing="1" cellpadding="5">
+	<tr><th class="h">كونترول تاختا</th></tr>
+	<tr><td><a href="profile.php">كونترول تاختا باش بېتى</a></td></tr>
+	<tr><td><a href="profile.php?action=modify">ماتېرىيال تەھرىرلەش</a></td></tr>
+	<tr><td><a href="profile.php?action=show&uid=">ماتېرىيال كۆرۈش</a></td></tr>
+	<tr><td><a href="profile.php?action=friend">دوستلار تىزىملىكى </a></td></tr>
+	<tr><td><a href="profile.php?action=permission">ئەزا ھوقۇقىنى كۆرۈش</a></td></tr>
+
+	<tr><td><a href="userpay.php">سودا تەڭگىسى باشقۇرۇش</a></td></tr>
+	<tr><td><a href="profile.php?action=change">جۇغلانما ئالماشتۇرۇش</a></td></tr>
+	<tr><td><a href="profile.php?action=buy">ئالاھىدە گورۇپپا سېتىۋېلىش</a></td></tr>
+	<tr><td><a href="profile.php?action=favor">ساقلىغۇچ</a></td></tr>
+	<tr><td><a href="personal.php">تېمىلىرىم</a></td></tr>
+</table></div>
+<div id="menu_sort" class="menu" style="display:none;">
+	<table width="150" cellspacing="1" cellpadding="5">
+	<tr><th class="h">سىتاتسىتكا</th></tr>
+	<tr><td class="f_one"><a href="sort.php">ئاساسىي سىتاتسىتكا</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=ipstate">IP سىتاتسىتكىسى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=team">باشقۇرۇش قوشۇنى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=admin">باشقۇرۇش سىتاتسىتكىسى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=online">توردىكىلەر سىتاتسىتكىسى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=member">ئەزالار قاتارى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=forum">سەھىپە قاتارى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=article">يازما قاتارى</a></td></tr>
+</table></div>
+
+</div>
+<div id="main">
+﻿﻿
+<style type="text/css">
+.signature{height:expression(this.scrollHeight>parseInt(this.currentStyle.maxHeight)?this.currentStyle.maxHeight:"auto");}
+.tiptop img{vertical-align:middle}
+.tips li{list-style:none;width:30%;padding:0 5px;float:left;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.dig{ float:left; font-size:12px; background:#FFFFD4 url(images/yellow/read/dig.gif) no-repeat .4em .1em; border:#E6E6B3 1px solid ; border-bottom-width:2px; border-right-width:2px; padding:.2em .8em .2em 2.4em; cursor: pointer; margin:.6em .1em; color:#000}
+.dig:hover{ border:#E6E6B3 2px solid ; border-bottom-width:1px; border-right-width:1px; text-decoration:none}
+.menu a.a6:hover{text-decoration:underline;background:#E0F0F9;color:#00f}
+.user-pic { margin:0 auto .5em;}
+.user-pic table{ border:none}
+.user-pic img.pic{ margin:0 0 .3em;background:#F3F8EF; padding:3px; border:1px solid #DAEBCD}
+.user-info{ position:absolute;line-height:160%; margin-left:-1.5em; margin-top:-1em}
+.user-infoWrap{background:#FFF; border:1px solid #004C7D; border-top:1px #A6CBE7 solid; border-left:1px solid #A6CBE7; padding:.5em 1em; margin-left:20px;display:block;}
+.user-info .co{position:absolute; width:10px;height:20px; margin-left:-1.8em; margin-top:2em; background:url(images/wind/user-info-co.png)}
+/*字体大小*/
+.small{font-size:12px}
+.middle{font-size:14px}
+.big{font-size:18px}
+</style>
+<div class="t3" style="margin-top:8px"><table width="100%" cellspacing="0" cellpadding="0" align="center">
+	<tr><td><img src="images/yellow/index/home_menu.gif" align="absmiddle" id="td_cate" onMouseOver="read.open('menu_cate','td_cate');" style="cursor:pointer;" /> <b><a href="index.php">بىلقۇت باغچىسى </a> &raquo; <a href="thread.php?fid=85">ماقال-تەمسىل</a> &raquo; <a href="read.php?tid=1300">ماقال- تەمسىللەر</a></b> <a href="rss.php?tid=1300" target="_blank" title="بۇ يازما ئەڭ يېڭى مەزمۇنلىرىغا Rss تە مۇشتەرى بولۇش"><img align="absmiddle" src="images/yellow/rss.png" /></a></td></tr>
+</table></div>
+<div id="menu_cate" class="menu" style="display:none;"><div style="padding:5px;height:420px;width:200px;overflow-Y:auto;"><ul class="ul1"><li> <a href="index.php?cateid=1">>> بىلقۇت خەزىنىسى</a></li><li> &nbsp;<a href="thread.php?fid=2">|- ئەلالاشتۇرۇش</a></li><li> &nbsp;<a href="thread.php?fid=4">|- بىلقۇت خەزىنىسى ھەققىدە</a></li><li> &nbsp;<a href="thread.php?fid=160">|- تەكلىپ-پىكىر بىرىڭ</a></li><li> <a href="index.php?cateid=5">>> ئاۋازلىق ئەسەرلەر</a></li><li> &nbsp;<a href="thread.php?fid=103">|- مەسەللەر</a></li><li> &nbsp;<a href="thread.php?fid=101">|- ھېكايىلەر</a></li><li> &nbsp;<a href="thread.php?fid=102">|- نەسىرلەر</a></li><li> &nbsp;<a href="thread.php?fid=8">|- مىڭ بىر كېچە</a></li><li> &nbsp;<a href="thread.php?fid=9">|- كەلىلە ۋە دېمىنە</a></li><li> &nbsp;<a href="thread.php?fid=10">|- چۆچەكلەر</a></li><li> &nbsp;<a href="thread.php?fid=11">|- رىۋايەتلەر</a></li><li> <a href="index.php?cateid=16">>> كۈتۈپخانا</a></li><li> &nbsp;<a href="thread.php?fid=174">|- ھىكمەت</a></li><li> &nbsp;<a href="thread.php?fid=175">|- غارايىباتلار</a></li><li> &nbsp;<a href="thread.php?fid=177">|- قان تىپى</a></li><li> &nbsp;<a href="thread.php?fid=178">|- نۇتۇقلار</a></li><li> &nbsp;<a href="thread.php?fid=179">|- ئۆسۈملۈكلەر</a></li><li> &nbsp;<a href="thread.php?fid=180">|- كۆكتاتلار</a></li><li> &nbsp;<a href="thread.php?fid=181">|- نەسىھەت</a></li><li> &nbsp;<a href="thread.php?fid=182">|- مۆچەل</a></li><li> &nbsp;<a href="thread.php?fid=183">|- مېۋە</a></li><li> &nbsp;<a href="thread.php?fid=184">|- مايلار</a></li><li> &nbsp;<a href="thread.php?fid=171">|- ھايۋاناتلار</a></li><li> &nbsp;<a href="thread.php?fid=176">|- مىللەتلەر</a></li><li> &nbsp;<a href="thread.php?fid=105">|- رىۋايەتلەر</a></li><li> &nbsp;<a href="thread.php?fid=172">|- سۆيگۈ مەكتۇپى</a></li><li> &nbsp;<a href="thread.php?fid=185">|- ئۆلچەم بىرلىكلىرى</a></li><li> &nbsp;<a href="thread.php?fid=186">|- بۈگۈن</a></li><li> &nbsp;<a href="thread.php?fid=170">|- مۇزىي</a></li><li> &nbsp;<a href="thread.php?fid=187">|- دۇنيادىكى شەھەرلەر</a></li><li> &nbsp;<a href="thread.php?fid=188">|- دۇنيادىكى كۈتۈپخانىلار</a></li><li> &nbsp;<a href="thread.php?fid=189">|- تارىخ</a></li><li> &nbsp;<a href="thread.php?fid=173">|- تۇرمۇش مەسلىھەتچىسى</a></li><li> &nbsp;<a href="thread.php?fid=22">|- مىڭ بىر كېچە</a></li><li> &nbsp;<a href="thread.php?fid=21">|- چۆچەكلەر</a></li><li> &nbsp;<a href="thread.php?fid=24">|- ئەپسانىلەر</a></li><li> &nbsp;<a href="thread.php?fid=23">|- كەلىلە ۋە دېمىنە</a></li><li> &nbsp;<a href="thread.php?fid=20">|- ھېكايىلەر</a></li><li> &nbsp;<a href="thread.php?fid=17">|- ماقالىلەر</a></li><li> &nbsp;<a href="thread.php?fid=19">|- دۇنيادىكى ئەڭ</a></li><li> &nbsp;<a href="thread.php?fid=18">|- ياشلار سەمىگە</a></li><li> &nbsp;<a href="thread.php?fid=85">|- ماقال-تەمسىل</a></li><li> &nbsp;<a href="thread.php?fid=99">|- لەتىپە-يۇمۇرلار</a></li><li> &nbsp;<a href="thread.php?fid=88">|- نەسىرلەر</a></li><li> &nbsp;<a href="thread.php?fid=87">|- مەسەللەر</a></li><li> <a href="index.php?cateid=25">>> بالىلار باغچىسى</a></li><li> &nbsp;<a href="thread.php?fid=159">|- كىم ئەڭ ئەقىللىق</a></li><li> &nbsp;<a href="thread.php?fid=26">|- بالىلار چۆچەكلىرى</a></li><li> &nbsp;<a href="thread.php?fid=27">|- قىزىقارلىق ئويۇنلار</a></li><li> &nbsp;<a href="thread.php?fid=28">|- قىزىقارلىق كارتونلار</a></li><li> &nbsp;<a href="thread.php?fid=29">|- يۈزمىڭلىغان نىمە ئۈچۈن؟</a></li><li> &nbsp;<a href="thread.php?fid=97">|- بالىلار ھېكايىسى</a></li><li> &nbsp;<a href="thread.php?fid=98">|- ئانا-بالىلار ساغلاملىق ساۋاتلىرى</a></li><li> <a href="index.php?cateid=30">>> بىز</a></li><li> &nbsp;<a href="thread.php?fid=150">|- ئۇيغۇر كارخانچىللىرى</a></li><li> &nbsp;<a href="thread.php?fid=151">|- ئۇيغۇر كارخانىلىرى</a></li><li> &nbsp;<a href="thread.php?fid=152">|- ئۇيغۇر مەھسۇلاتلىرى</a></li><li> &nbsp;<a href="thread.php?fid=153">|- ئۇيغۇر پاتنېتلىرى</a></li><li> &nbsp;<a href="thread.php?fid=154">|- ئۇيغۇر دوكتۇرلىرى</a></li><li> &nbsp;<a href="thread.php?fid=155">|- ئۇيغۇر كەشپىياتلىرى</a></li><li> &nbsp;<a href="thread.php?fid=157">|- ئۇيغۇرساياھەتچىلىكى</a></li><li> &nbsp;<a href="thread.php?fid=32">|- تائاملىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=33">|- شەخىسلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=35">|- ئويۇنلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=34">|- تىبابىتىمىز</a></li><li> &nbsp;<a href="thread.php?fid=36">|- چالغۇلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=37">|- ھۈنەرلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=31">|- يوسۇنلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=38">|- تارىخمىز</a></li><li> <a href="index.php?cateid=126">>> يۇرتىمىز</a></li><li> &nbsp;<a href="thread.php?fid=127">|- شەھەرلەر</a></li><li> &nbsp;<a href="thread.php?fid=128">|- بىڭتۈەنلەر</a></li><li> &nbsp;<a href="thread.php?fid=129">|- ناھىيەلەر</a></li><li> &nbsp;<a href="thread.php?fid=130">|- ۋىلايەتلەر</a></li><li> &nbsp;<a href="thread.php?fid=131">|- ئاپتونوم ئوبلاست</a></li><li> &nbsp;<a href="thread.php?fid=132">|- ئاپتونوم ناھىيە</a></li><li> <a href="index.php?cateid=39">>> ئۆگىنىش</a></li><li> &nbsp;<a href="thread.php?fid=41">|- ماتېماتىكا</a></li><li> &nbsp;<a href="thread.php?fid=106">|- يىزا-ئىگىلىك</a></li><li> &nbsp;<a href="thread.php?fid=107">|- پىسخىلوگىيە</a></li><li> &nbsp;<a href="thread.php?fid=108">|- ئىقتىساد</a></li><li> &nbsp;<a href="thread.php?fid=143">|- مۇھىت</a></li><li> &nbsp;<a href="thread.php?fid=52">|- ئۇيغۇرتىلى</a></li><li> &nbsp;<a href="thread.php?fid=46">|- خەنزۇتىلى</a></li><li> &nbsp;<a href="thread.php?fid=47">|- ئىنگىلىزتىلى</a></li><li> &nbsp;<a href="thread.php?fid=48">|- روس تىلى</a></li><li> &nbsp;<a href="thread.php?fid=53">|- ياپون تىلى</a></li><li> &nbsp;<a href="thread.php?fid=40">|- ئەدەبىيات</a></li><li> &nbsp;<a href="thread.php?fid=42">|- جۇغراپىيە</a></li><li> &nbsp;<a href="thread.php?fid=43">|- تارىخ</a></li><li> &nbsp;<a href="thread.php?fid=44">|- فىزىكا</a></li><li> &nbsp;<a href="thread.php?fid=45">|- خىمىيە</a></li><li> &nbsp;<a href="thread.php?fid=50">|- ئاستىرنومىيە</a></li><li> &nbsp;<a href="thread.php?fid=49">|- بىئولوگىيە</a></li><li> &nbsp;<a href="thread.php?fid=89">|- دىپلوماتىيە</a></li><li> &nbsp;<a href="thread.php?fid=90">|- ئېلېكترون</a></li><li> &nbsp;<a href="thread.php?fid=91">|- تەنتەربىيە</a></li><li> &nbsp;<a href="thread.php?fid=92">|- مەتبەئەچىلىك</a></li><li> &nbsp;<a href="thread.php?fid=100">|- گۈزەل- سەنئەت</a></li><li> <a href="index.php?cateid=54">>> كومپيۇتېر</a></li><li> &nbsp;<a href="thread.php?fid=86">|- ئۇيغۇرچە يۇمشاق دېتاللار</a></li><li> &nbsp;<a href="thread.php?fid=109">|- كومپىيۇتېردىن سۇئال-جاۋابلار</a></li><li> &nbsp;<a href="thread.php?fid=110">|- توربەت ياساش</a></li><li> &nbsp;<a href="thread.php?fid=190">|- باشقىلار</a></li><li> &nbsp;<a href="thread.php?fid=55">|- قاتتىق دېتال</a></li><li> &nbsp;<a href="thread.php?fid=56">|- يۇمشاق دېتال</a></li><li> &nbsp;<a href="thread.php?fid=57">|- مەشغۇلات سىستىمىسى</a></li><li> &nbsp;<a href="thread.php?fid=58">|- توربىلىملىرى</a></li><li> <a href="index.php?cateid=161">>> مائارپ</a></li><li> &nbsp;<a href="thread.php?fid=166">|- مائارىپ تەشكىلاتلىرى</a></li><li> &nbsp;<a href="thread.php?fid=162">|- بالىلار باغچىلىرى</a></li><li> &nbsp;<a href="thread.php?fid=165">|- باشلانغۇچ مەكتەپلەر</a></li><li> &nbsp;<a href="thread.php?fid=163">|- ئوتتۇرا مەكتەپلەر</a></li><li> &nbsp;<a href="thread.php?fid=169">|- ئالىي مەكتەپلەر</a></li><li> &nbsp;<a href="thread.php?fid=168">|- گېزىتلەر</a></li><li> &nbsp;<a href="thread.php?fid=167">|- ژورناللار</a></li><li> <a href="index.php?cateid=66">>> قانۇن - نىزاملار</a></li><li> &nbsp;<a href="thread.php?fid=144">|- جىنايەت ۋە جازا</a></li><li> &nbsp;<a href="thread.php?fid=95">|- قانۇنلار</a></li><li> &nbsp;<a href="thread.php?fid=94">|- نىزاملار</a></li></ul></div></div>
+<!--ads begin-->
+
+<!--ads end-->
+<div class="t3"><table width="100%" align="center" cellspacing="0" cellpadding="0">
+	<tr><td align="right"><div class="fl"></div></td><td align="right"><a href="post.php?action=reply&fid=85&tid=1300"><br><img src="images/yellow/reply.png" /></a> <a href="post.php?fid=85"><img src="images/yellow/post.png" id="td_post" /></a></td></tr>
+</table></div>
+<div id="menu_post" class="menu tac f14" style="display:none;"><ul style="width:99px;">
+
+	<li><a href="post.php?fid=85&special=4">سودا</a></li>
+
+	<li><a href="post.php?fid=85&special=1">راي</a></li></ul>
+</div>
+<form name="delatc" action="masingle.php?action=delatc" method="post">
+<input type="hidden" name="fid" value="85" />
+<input type="hidden" name="tid" value="1300" />
+<div class="t" style="margin-bottom:0px; border-bottom:0"><table cellspacing="0" cellpadding="0" width="100%">
+	<tr><th class="h"><b>بۇ بەتتىكى يازما : </b> ماقال- تەمسىللەر</th><td class="h" style="text-align:right;"><span> <a class="fn" href="https://uyghur-archive.com/bilqut/bbs/simple/index.php?t1300.html"> بېسىپ چىقىرىش</a> | <a class="fn" style="cursor:pointer;" onclick="Addtoie('https://uyghur-archive.com/bilqut/bbs/read.php?fid=85&tid=1300','بىلقۇت باغچىسى --ماقال- تەمسىللەر');"> بۇ تېمىنى ساقلىۋېلىش</a> | <a style="cursor:pointer;" title="https://uyghur-archive.com/bilqut/bbs/read.php?fid=85&tid=1300" onclick="clipboardData.setData('Text','https://uyghur-archive.com/bilqut/bbs/read.php?fid=85&tid=1300&u=')">تېما ئۇلانمىسىنى كۆچۈرىۋېلىش</a> | <a class="fn" style="cursor:pointer;" onclick="sendmsg('pw_ajax.php?action=favor&tid=1300','',this.id)" id="favor">تېما ساقلىۋېلىش</a> | <a href="job.php?action=previous&fid=85&tid=1300&fpage=0&goto=previous" class="fn">ئالدىنقى تېما</a> | <a href="job.php?action=previous&fid=85&tid=1300&fpage=0&goto=next" class="fn">كېيىنكى تېما</a></span> </td>
+	</tr>
+	<tr><td></td></tr>
+	<tr class="tr2"><td colspan="2" class="tar">
+
+		<br /></td>
+	</tr>
+	<tr><td></td></tr>
+</table></div>
+
+<a name=tpc></a>
+<div class="t t2" style="border-top:0"><table cellspacing="0" cellpadding="0" width="100%" style="table-layout:fixed;border-top:0">
+	<tr class="tr1"><th style="width:20%" rowspan="2" class="r_two">
+
+		<img src="images/yellow/read/online.gif" title="بۇ ئەزا نۆۋەتتە توردا بار" align="absmiddle" />
+ 
+<b>Bilqut_K</b>
+<div style="margin:.3em 0 .4em .2em">بىلقۇت توربىكىتى</div>
+<div class="user-pic"><table style="border:0"><tr><td width="1">
+
+<img class="pic" src="attachment/upload/3.bmp" width="150" height="150" border="0" />
+
+</td><td style="vertical-align:top"><span id="sf_0"></span></td></tr></table>
+</div>
+		
+		دەرىجىسى : <font color="#555555">كۇلۇب باشلىقى</font><br />
+		<img style="margin:.2em 0 .6em" src="images/yellow/level/3.gif" /><br />
+
+<span class="user-info2" id="showface_0">
+<span class="user-infoWrap2">
+
+<a href="profile.php?action=show&uid=3"><img src="images/yellow/read/profile.gif" title="ئاپتور ماتېرىيالىنى كۆرۈش" /></a> <img src="images/yellow/read/message.gif" title="قىسقا ئۇچۇر يوللاش" onclick="sendmsg('pw_ajax.php?action=msg&touid=3','','sf_0')" style="cursor:pointer"  /><img onclick="addfriend('3')" style="cursor:pointer" src="images/yellow/read/friends.gif" title="دوستقا قوشۇش" />
+
+<br />
+نادىر يازمىلار : 
+
+		<a href="search.php?authorid=3&digest=1" target="_blank" class="s4 f9">5</a>
+<br />
+يوللىغان تېما : <span class="s1 f9">1572</span><br />
+شۆھرىتى: <span class="s2 f9">1582 نومۇر</span><br />
+تەڭگىسى : <span class="s3 f9">15735 تەڭگە </span><br />
+
+		تۆھپە: <span class="s1 f9">1 نومۇر</span><br />
+
+		<span class="gray">تىزىملاتقان ۋاقتى : 2007-12-29<br />
+		ئاخىرقى كىرگىنى : 2008-03-17 </span>
+		</span></span>
+		</th>
+		<th height="100%" class="r_one" valign="top" id="td_tpc" style="padding:5px 15px 0 15px; border:0;width:80%; overflow:hidden">
+			<div class="tiptop">
+			<span class="fr"><a style="cursor:pointer" onclick="fontsize('small','tpc')">كىچىك</a> <a style="cursor:pointer" onclick="fontsize('middle','tpc')">نورمال</a> <a style="cursor:pointer" onclick="fontsize('big','tpc')">چوڭ</a></span>
+			<a onclick="sendurl(event,'action=quote&fid=85&tid=1300&pid=tpc&article=0',this.id)" id="quote_tpc" style="cursor:pointer"><img src="images/yellow/read/quote.gif" title="بۇ يازمىنى نەقىل ئېلىش" /></a> <a style="cursor:pointer" id="recommend_tpc" onclick="sendmsg('pw_ajax.php?action=recommend&tid=1300','',this.id)"><img src="images/yellow/read/emailto.gif" title="بۇ يازمىنى تەۋسىيە قىلىش" /></a> <a id="modify_tpc" onclick="sendurl(event,'action=modify&fid=85&tid=1300&pid=tpc&article=0',this.id)" style="cursor:pointer"><img src="images/yellow/read/edit.gif" /></a>
+
+			<a href="read.php?tid=1300&uid=3" title="پەقەت ئاپتورنىڭلا يازمىلىرى كۆرسىتىلسۇن"><img src="images/yellow/read/only.png" /></a>
+
+			</div>
+			<h1 id="subject_tpc" class="fl1"><img src="images/post/emotion/1.gif" align="left" border="0" />&nbsp;ماقال- تەمسىللەر</h1>
+
+			<div id="p_tpc" class="c"></div>
+
+			<div class="tpc_content" id="read_tpc">بىلمەسلىك ئەيىب ئەمەس،<br />تىرىشماسلىق ئەيىب.<br /><br />بىلىم ئالمىغان ياش،<br />كېرەكسىز بىر تاش.<br /><br />بىلىم ئەقىلنىڭ چىرىغى.<br /><br />بىلىمسىز ئادەم — مېۋىسىز دەرەخ.<br /><br />بىلىملىكنىڭ باھاسى يوق،<br />بىلىمسىزنىڭ ساپاسى يوق.<br /><br />بىلىم ئۆگەنسە كىشى،<br />كۆككە يېتۇر بېشى.<br /><br />جانلىق نادان ئۆلۈك،<br />جانسىز ئالىم تىرىك.<br /><br />سورا - سورا بىلىم ئاپتۇ،<br />ئويلا - ئويلا كېيىن قاپتۇ.<br /><br />قىلىچنىڭ كۈچىدىن،<br />قەلەمنىڭ كۈچى ئارتۇق.<br /><br />بىلىمنى ئوغرى ئالماس.<br /><br />مالسىزلىقتىن ئاڭسىزلىق يامان.<br /><br />مۇشەققەتسىز ھۈنەر بولماس.<br /><br />بىلىمسىزگە بېرىلگەن مەنسەپ،<br />كىچىك بالىغا تۇتقۇزۇلغان ئۇستىرا.<br /><br />ياشلىقىڭدا بىلىم ئال،<br />قېرىغاندا ئىشقا سال.<br /><br />بىلىملىك ئوقۇر،<br />بىلىمسىز توقۇر.<br /><br />بىلىمى يوق كىشىنىڭ،<br />بەرىكىتى يوق ئىشىنىڭ.<br /><br />بىلىملىكنىڭ گېپى روشەن.<br /><br />ئىككى ئاقىل ئاراسىدا قىل ئۈزۈلمەس،<br />تۆمۈر زەنجىرنى ئۈزگەي ئىككى بىلمەس.<br /><br />ئەقىل كۆرمە، كۆز كۆرمەس.<br /><br />خىيال كېچىدە ئېچىلار،<br />گۈل سەھەردە.<br /><br />بىكار گەپتىن جىگدە ياخشى،<br />ئارپا ناندىن گىردە.<br /><br />بىلىملىكنىڭ چارىسى كۆپ،<br />بىلىمسىزنىڭ باھانىسى كۆپ.<br /><br />بىلىمسىز باش، گەۋدىگە يۈك.<br /><br />بىلىمدىن ئارتۇق بايلىق يوق.<br /><br />بىلىملىككە ئامەت كۆپ،<br />بىلىمسىزگە ئاپەت كۆپ.<br /><br />دۆلەت تۈگەر، بىلىم تۈگىمەس.<br /><br />رەھىم بىلەن يۈتەر،<br />زۇلۇم بىلەن پۈتەر.<br /><br />سورىغاندا ئەيىب يوق.<br /><br />قاپاقتەك كاللىدا،<br />تېرىقتەك مېڭە بولسۇن.<br /><br />پۇلۇڭا ئىشەنگۈچە،<br />ئەقلىڭگە ئىشەن.<br /><br />يەر تېرىساڭ رەت بىلەن،<br />موللا بولساڭ خەت بىلەن.<br /><br />مېۋىلىك دەرەخنىڭ شېخى تۆۋەن،<br />بىلىملىك كىشىنىڭ يۈزى.<br /><br />موللا ئىسارى، قەلەم بىچارى.<br /><br />موللا خۇدا بەردى قۇيما دىۋەڭ.<br />قۇيماق يېسىڭىز كىشىگە دېمەڭ.<br /><br />نادانغا ئات بەرسە، مىنىپ ئۆلتۈرەر.<br /><br />بىلىملىك ئەل غېمىدە، نادان ئەجەل غېمىدە.<br /><br />بىلىملىك ئىشىغا ئىشىنىدۇ، نادان چۈشىگە ئىشىنىدۇ.<br /><br />ئەل ئىچى ئالتۇن بۆشۈك، پەن — بىلىم ئالتۇن كۆشۈك.<br /><br />ئەمگىكى ئازنىڭ ھۈنىرى ئاز، تىرىشمىغاننىڭ بىلىمى ئاز.<br /><br />بىلىم تاپماي ماختانما.<br /><br />ئىشنىڭ يامىنى يوق، بىلىمنىڭ ئېغىرى يوق.<br /><br />ئەقىل ئازمايدۇ، بىلىم توزىمايدۇ.<br /><br />ئۆزۈڭ بىلمىگەننى كىشىدىن سورا، كىشى بىلمىسە كىچىكتىن سورا.<br /><br />ئۆزى بىلمىگەننىڭ ئاغزىغا قارىما.<br /><br />كۈچۈڭگە ئىشەنمەي، بىلىمىڭگە ئىشەن.<br /><br />بىلىملىك باتۇر، بىلىمسىز تارتىنچاق.<br />بىلىمسىزگە پۇشايمان ھەمراھ.<br /><br />چوڭ بىلەنمۇ، كىچىك بىلەنمۇ كېڭەش، ئاخىرى ئۆز ئەقلىڭ بىلەن يەش.<br /><br />بىلىمى ئازنىڭ ئاچچىقى يامان.<br /><br />ئىككى بالىنىڭ ئارىسىدىكى بوۋاي بالا بولىدۇ.<br />ئىككى بوۋاي ئارىسىدىكى بالا دەنا بولىدۇ.<br /><br />بىلىمسىز ئەر كۈلگە ئوخشايدۇ.<br /><br />بىلىملىك كىشى ئۇزار، بىلىمسىز كىشى توزار.<br /><br />كۆچەت سالساڭ پۇتاپ تۇر، تۈز لىم ئالىسەن. <br />پۇرسەت تېپىپ كىتاب كۆر بىلىم ئالىسەن.<br /><br />بىلىمسىزدىن ئۈلگە چىقماس، كۆڭۈزلسىزدىن كۈلكە چىقماس.<br /><br />بىلىملىكنىڭ كۆزى كىتابتا، بىلىمسىزنىڭ كۆزى تامدا.<br /><br />ياشلىقتا بىلىم ئالمىغان، <br />قېرىغاندا ھەسرەت چېكەر.<br /><br /><br /><br /><br />قىلىچنىڭ كۈچىدىن قەلەمنىڭ كۈچى ئارتۇق.<br /><br />بىلگەنگە ئون ئىككى،<br />بىلمىگەنگە ئوتتۇز ئىككى.<br /><br />بىلىملىك ئاسمانغا چىقىپتۇ،<br />بىلىمسىز ساماندا يېتىپتۇ.<br /><br />ھۈنىرى يق ئەردىن مىكيان ياخشى.<br /><br />بىلىمسىزگە ھال ئېيتقۇچە، ئىچىڭدە سىڭىپ كەتسۇن.<br /><br />بىلىم ئېلىش ئالتۇن يىغىشتىنمۇ ئارتۇق.<br /><br />يىغلىماقنىڭ كۈلمىكى بار،<br />كۈلمەكنىڭ يىغلىمىقى )بار(.<br /><br />بەگ بولسا پۇلدىن ئازماس،<br />بىلىم بولسا سۆزدىن )ئازماس(.<br /><br />سورا - سورا بىلىم ئاپتۇ،<br />ئوينا - ئوينا نادان قاپتۇ.<br /><br />ھۈنەرلىك كىشى خار بولماس،<br />ھۈنىرى بار قۇل )بولماس(.<br /><br />ئىلىمسىز ئادەم — مېۋىسىز دەرەخ.<br /><br />بىلگەن بىلگەننى قىلۇر،<br />بىلمىگەن نېمىنى )قىلۇر(؟<br /><br />بىلىم ئالاي دېسەڭ، ئۆزۈڭنىڭ بىلىمسىز ئىكەنلىكىنى ئىقرار قىل.<br /><br />بىلىملىك ئويلاپ تاپار،<br />بىلىمسىز كولاپ )تاپار(.<br /><br />پەننى سۆيگەن زار بولماس،<br />ئەلنى سۆيگەن خار )بولماس(.<br /><br />دۇتار تارىسى ساتاردا يوق،<br />بىلىمسىز كىشى قاتاردا )يوق(.<br /><br />سەپەر قىلغان يول بىلەر،<br />كۆپ كۆرگەن مول )بىلەر(.<br /><br />ئىلىملىك نۇر،<br />ئىلىمسىز خور.<br /><br />ئاي تۈندە كېرەك،<br />بىلىم كۈندە )كېرەك(.<br /><br />بىلىم قاچماس تىرىشچاندىن،<br />بەخت قاچماس ئىشچاندىن.<br /><br />بەگ بولسا يولدىن ئازماس،<br />بىلىم بولسا سۆزدىن )ئازماس(.<br /><br />بىلىم يىغىش ئالتۇن يىغىشتىنمۇ ئارتۇق.<br /><br /><br /><br /><br />ئالىم بولساڭ، ئالەم سېنىڭكى.<br /><br />سورىغان بىلىم ئالۇر،<br />ئۇيالغان كېيىن قالۇر.<br /><br />بىلىملىكنىڭ باھاسى يوق.<br />بىلىمسىزنىڭ ساپاسى )يوق(.<br /><br />بىلىملىك كىشى ئۇزار،<br />بىلىمسىز كىشى تۇزار.<br /><br />بىلگەن بىلگىنىنى ئىشلەر،<br />بىلمىگەن بارمىقىنى چىشلەر.<br /><br />ئەقىل توزىماس،<br />بىلىم خورىماس.<br /><br />مېۋىلىك دەرەخ ئېگىلىپ تۇرىدۇ.<br /><br />بىلىم ئەقىلنىڭ چىرىغى.<br /><br />بىلىمسىز بىرنى يېڭەر،<br />بىلىملىك مىڭنى )يېڭەر(.<br /><br />چىراغ يېقىپ بىلىم ئال.<br /><br />بىلىم دۆلەت،<br />كىيىم سۆلەت.<br /><br />بەلگە بولسا يولدىن ئازمايسەن،<br />بىلىم بولسا سۆزدىن )ئازمايسەن(.<br /><br />بىلىمسىز ئادەم، مېۋىسىز دەرەخ.<br /><br />كۆپ ئوقۇغان كۆپ بىلەر.<br /><br />بىر كىتاب ئوقۇساڭ، بىر سەر ئەقىل قوشۇلار.<br /><br />بىلىملىك  — نۇر،<br />بىلىمسىز — خور.<br /><br />بىلىملىك ئاسمانغا چىقار،<br />بىلىمسىز ساماندا ياتار.<br /><br />ئوقۇغان ئوغۇل ئاتىسىدىن ئەلا.<br /><br />نادانلىق — قاراڭغۇلۇقتىن يامان.<br /><br />توغرى سۆز تاشنى يارار،<br />ئەگرى سۆز باشنى )يارار(.<br /><br />بىلىمسىزدىن ئۈلگە چىقماس،<br />كۆڭۈلسىزدىن كۈلكە )چىقماس(.<br /><br />ھۈنەر ئېقىپ تۇرغان بۇلاق،<br />بىلىم يېنىپ تۇرغان چىراغ.<br /><br />بىلىملىكنىڭ تەدبىرى كۆپ.<br /><br />بىلىملىكتىن ئارتۇق، دۆلەتمەن يوق.<br /><br />بىلىملىك كىشىنى ماقتار،<br />بىلىمسىز ئۆزىنى )ماقتار(.<br /><br />ياخشىلىق يەردە قالماس،<br />بىلىملىك كىشى خار بولماس.<br /><br />بىلىم — بىلگۈچىدە،<br />ئەقىل سەزگۈچىدە.<br /><br />بىلىم يىغىش - ئالتۇن يىغىشتىنمۇ ئەلا.<br /><br />بىلگەنگە ئون ئىككى، بىلمىگەنگە ئوتتۇز ئىككى.<br /><br />مېۋىسىز دەرەخ ئوتۇن بولىدۇ،<br />بىلىملىك كىشى پۈتۈن بولىدۇ.<br /><br />ھارۋا يولى تار ئەمەس،<br />بىلىملىكلەر خار ئەمەس.<br /><br />چالا موللا ۋالاقلايدۇ،<br />ئەگىرى نوغۇچ تاراقلايدۇ.<br /><br />بىلگىنىڭنى ئايىما،<br />بىلمىگەننى بىلىمەن دەپ كايىما.<br /><br />بىلىملىك كىشى — بولۇر سەپنىڭ بېشى.<br /><br />بىلىملىك ھاكىم بولۇر،<br />بىلىمسىز مەھكۇم )بولۇر(.<br /><br />مېۋىلىك دەرەخ ئېگىلىپ تۇرىدۇ،<br />كىشىلەر ئاڭا تىيەك قويىدۇ.<br /><br />مېۋىسىز دەرەخ غادىيىپ تۇرار،<br />كىشىلەر ئۇنى پۇتاپ تۇرار.<br /><br />يۇمشاقنى قاتۇرغان شىلىم،<br />پولاتنى ئۇچۇرغان بىلىم.<br /><br />بىلگىنى راۋاب چېلىپتۇ،<br />بىلمىگىنى چاۋاك )چېلىپتۇ(.<br /><br />بىلگەننىڭ ئەتىۋاسى كۆپ،<br />بىلمىگەننىڭ پەتىۋاسى )كۆپ(.<br /><br />بىلىملىك ئويلاپ تاپار،<br />بىلىمسىز كولاپ )تاپار(.<br /><br />بىلىملىك ئەل غېمىدە،<br />نادان ئەجەل غېمىدە.<br /><br />بىلىملىكنىڭ كۆزىدە ئالەم بار،<br />بىلىمسىزنىڭ كۆزىدە مالەم )بار(.<br /><br />بىلىملىكتىن نۇر چىقىدۇ،<br />بىلىمسىزدىن قۇسۇر )چىقىدۇ(.<br /><br />بىلىمسىز باش يارىدۇ،<br />بىلىملىك تاش )يارىدۇ(.<br /><br />مېۋىلىك دەرەخنىڭ شېخى تۆۋەن، <br />&#39;بىلىملىك ئەرنىڭ يۈزى )تۆۋەن(.<br /><br />ئەخمەق مال - مۈلۈك قوغلىشار،<br />ئەقىللىق بىلىم )قوغلىشار(.<br /><br />ئاي تۈندە كېرەك،<br />بىلىم كۈندە )كېرەك(.<br /><br />ھۈنەرنى تېپىپ ئالغىلى بولماس،<br />بىلىمنى سېتىپ ئالغىلى )بولماس(.<br /><br />ئادەم بىلگىنىنى دەيدۇ.<br />توخۇ كۆرگىنىنى يەيدۇ.<br /><br />چۈجە خوراز بىلگىنىنى چىللايدۇ.<br /><br />چالا موللام ئادەم ئۆلتۈرەر.<br /><br />ئۆرۈك - ئۆرۈكنى كۆرسە ئالا بولار،<br />تۈرۈك موللىنى كۆرسە جىم بولار.<br /><br />ئالىم زالىمنىڭ قېلىچىنى سۇندۇرالايدۇ.<br /><br />تېتىر، تېتىرنىڭ ئىشى پېتىر.<br /><br />بىلگەنگە ئوچۇق، <br />بىلمىگەنگە تۇتۇق.<br /><br />قۇش زىننىتى پەي بىلەن،<br />ئادەم زىننىتى بىلىم بىلەن.<br /><br />بىلىم ئەرنىڭ يۈزى.<br /><br />بىلىمسىز كىشى  — لەززەتسىز ئىشى.<br /><br />بىلىمسىز ئادەم مېۋىسىز دەرەخ.<br /><br />بىلىمسىز شەھەر سورىماس،<br />شەھەر سورىسا يېشى قۇرىماس.<br /><br />بىلىمگە بېقىپ ئىززەت، <br />ئۇستازغا بېقىپ شاگىرت.<br /><br />نادان ھاكىم يۇرت بۇزار.<br /><br />بىلىم ئېلىش يىڭنىدە قۇدۇق كولىغاندەك.<br /><br />ياخشىنىڭ ئېتى ئۆلمەس،<br />ئالىمنىڭ خېتى )ئۆلمەس(.<br /><br />يېرىم چېلەك سۇ شالاقشىيدۇ.<br /><br />بوش تاغار ئۆرە تۇرمايدۇ.<br /><br /><br /><br /><br /><br />ئېتەلا خېمىر، ياقالا پېتىي،<br />ئۇرۇقىدا بولسا ھەممىگە تېتىي.<br /><br />سەللە يوغان، ئىمان يوق،<br />پەشخۇن يوغان، بىر نان )يوق(.<br /><br />قىزىلچىنى قەنت قىلغان ھۈنەر بىلەن پەن.<br /><br />بىلىمسىزنىڭ دەناسى يوق،<br />قىلغان سۆزىنىڭ مەناسى )يوق(.<br /><br />قاشتېشى سايدا تولا،<br />تېپىپ ساتساڭ پايدا تولا.<br /><br />بىلىملىك ئادەم ئالىم،<br />بىلىمسىز ئادەم زالىم.<br /><br />ئەقىلدىن ئارتۇق بايلىق بولماس.<br /><br />ئېتىزدا يوق، خاماندا يوق،<br />تاغاردا يوق، قازاندا )يوق(.<br /><br />پۇلۇڭغا ئىشەنگۈچە، ئەقلىڭگە ئىشەن.<br /><br />بىلىكى چوڭ بىرنى يېڭەر،<br />بىلىمى چوڭ مىڭنى )يېڭەر(.<br /><br />يامغۇر بىلەن يەر كۆكىرەر،<br />بىلىم بىلەن ئەل كۆكىرەر.<br /><br />بىلىملىككە ھۆرمەت قىل.<br /><br />بىلىمسىزلىك — پەمسىزلىك.<br /><br />بىلىملىك بولساڭ ھەق سۆزلە.<br /><br />بىلىملىكنىڭ دەسمايىسى — پەن.<br /><br />نادانغا سۆھبەت ياراشماس،<br />بىلىملىككە تۆھمەت )ياراشماس(.<br /><br />بىلىملىكنى قارىلىساڭ،<br />ئۆزۈڭنى خارلايسەن.<br /><br />بىلىمىم بار دېسەڭ،<br />بىلىكىڭنى پەس تۇت.<br /><br />بىلىملىك — بىلىمسىزدىن تۆر تالاشماس.<br /><br />بىلىم دېگەن ئۆزى ھۈنەر،<br />نەگە نېمە تېرىسا ئۈنەر.<br /><br />قارىغىن ئىچى پور قاقشال تېرەككە،<br />قەد كېرىپ تۇرسىمۇ، كەلمەس كېرەككە.<br /><br />بىلىم ئالساڭ، تىلىڭ چىقىدۇ،<br />ئالمىساڭ يېلىڭ چىقىدۇ.<br /><br />بىلىملىكنىڭ يولى ئۇلۇغ،<br />بىلىمسىزنىڭ قولى قۇرۇق.<br /><br />بىلىم ئالغان خار بولماس،<br />ماڭغان يولى تار )بولماس(.<br /><br />ئەقىل ياشتا ئەمەس، باشتا.<br /><br />قويچىغا چوماق كېرەك.<br /><br />كۆپ ئوقۇغان، كۆپ بىلەر.<br /><br />بىلگەن بىلگىنىنى قىلار،<br />بىلمىگەن نېمىنىقىلار؟<br /><br />بىلگەنگە ئون ئىككى،<br />بىلمىگەنگە ئوتتۇز ئىككى.<br />بىلىملىك ئاسمانغا چىقىپتۇ،<br />بىلىمسىز ساماندا يېتىپتۇ.<br /><br />دۇتارنىڭ تارىسى ساتاردا يوق،<br />بىلىمسىز كىشى قاتاردا )يوق(.<br /><br />بىر چالمىدا ئىككى پاختەكنى سوقۇپتۇ.<br /><br />سورىغان بىلىم ئاپتۇ،<br />سورىمىغان كېيىن قاپتۇ.<br /><br />بىلىملىك ئۇزار،<br />بىلىمسىز  توزار.<br /><br />دەرەخ يىلتىزى بىلەن كۈچلۈك،<br />ئادەم بىلىمى بىلەن كۈچلۈك.<br /><br />ئالتۇن چىققان يەر قەدىرلىك.<br /><br />ئوقۇغان كۆرگەن - بىلگىنىنى سۆزلەر،<br />ئوقۇمىغان نېمىنى سۆزلەر؟<br /><br />بىلىمسىز ئادەم — مېۋىسىز دەرەخ.<br /><br />ئوقۇغاننىڭ ئەقلى ئۇزىرار،<br />ئوقۇمىغاننىڭ بوينى )ئۇزىرار(.<br /><br />بىلىمسىزنىڭ جېنى يوق،<br />ھۈنەرسىزنىڭ نېنى )يوق(.<br /><br />ئەقىللىقنى دوست تۇتقىن، ساڭا ئەقىل ئۆگىتەر،<br />بىلىملىكنى دوست تۇتقىن ساڭا بىلىم ئۆگىتەر.<br /><br />بىلىملىك تۈگكەن تۈگۈچ ئەلنىڭ بايلىقى،<br />نادانلار تۈگكەن تۈگۈچ تۆگە مايىقى.<br /><br />ياشلىقىڭدا بىلىم ئال،<br />قېرىغاندا ئىشقا سال.<br /><br />بىلمەسلىك ئەيىب ئەمەس، تىرىشماسلىق ئەيىب.<br /><br />بىلگەندىن ئۆگەن، بىلمىەنگە ئۆگەت.<br /><br />سورا - سورا بىلىۋاپتۇ،<br />ئويلا - ئويلا كېيىن قاپتۇ.<br /><br />بىلىمسىزگە ئىش يوق،<br />ئىشسىزغا ئاش )يوق(.<br /><br />بىلىملىك بىلەر پايدا - زىياننى،<br />بىلىمسىز تۈگىتەر ئاتىسى يىغقاننى.<br /><br />بىلىملىك بېرىلەر،<br />بىلىمسىز كېرىلەر.<br /><br />بىلىم ياشنىتار،<br />نادانلىق قاقشىتار.<br /><br />بىلگىنىڭنى ئەلدىن ئايىما.<br /><br />ئەخمەق مال - مۈلۈك قوغلىشار،<br />ئەقىللىق بىلىم )قوغلىشار(.<br /><br />بىلىملىك نۇرلىنار،<br />بىلىمسىز خورلىنار.<br /><br />بىلىم تەجرىبىلەرنىڭ جۇغلانمىسى،<br />قابىلىيەت غەيرەتنىڭ نەتىجىسى.<br /><br />مۇبارەك قورسىقىدا بىلىم يوق،<br />تولا گەپ ساتىدۇ ھېلىم دوك.<br /><br />بىلىم ئىشقىدا كۆيسەڭ ئالتۇن شوتىدا ئۆرلەيسەن.<br /><br />بىلىملىككە گەپ قىلسام ئاڭلىدى، بىلدى،<br />بىلىمسىزگە گەپ قىلسام ئاڭلىدى، كۈلدى.<br /><br />بىلىم يىغىش ئالتۇن يىغىشتىنمۇ ئارتۇق.<br /><br />بىلىمسىزنىڭ يۈزى قېلىن،<br />بىلىملىكنىڭ بېلى )قېلىن(.<br /><br />بىلىملىكنىڭ ئۆمرى ئۇزۇن،<br />ناداننىڭ ئۆمرى قىسقا.<br /><br />ئۇلۇغ سۇ شەپە قىلماس،<br />بىلىملىك كىشى ھەيۋە قىلماس.<br /><br />ئېشىمدا يوق پۇرچاق، پوقامدا نېمە قىلسۇن؟<br /><br />يەر قاتتىق بولسا ئۆكۈز ساپاندىن كۆرىدۇ.<br /><br />پۇل بارغا جاپا،<br />پۇل يوققا تاپا.<br /><br />سورا  - سورا بىلىم ئاپتۇ،<br />ئۇيۇلا - ئۇيۇلا كېيىن قاپتۇ.<br /><br />نادان كىشى ماختانسا،<br />سىناق ۋاقتىدا مات بولىدۇ.<br /><br />ئەقىل - ئىدراك قەيەردە بولسا،<br />ئۇلۇغلۇق شۇ يەردە بولىدۇ.<br /><br />پەن ئۆگەنگەن قەنت يەيدۇ،<br />ئۆگەنمىگەن غەم يەيدۇ.<br /><br />ئۆگەنگەنگە گەپ كەتمەس،<br />نادان باشتىن دەرد كەتمەس.<br /><br />قېلىپقا بېقىپ كەش،<br />ياقىغا بېقىپ پەش.<br /><br />جىگدىدىن بادام چىقماس،<br />بىلىملىك كىشىدىن نادان )چىقماس(.<br /><br />خىيال كېچىدە ئېچىلار،<br />گۈل سەھەردە )ئېچىلار(.<br /><br />ئەخمەقنىڭ ئەقلى چۈشتىن كېيىن.<br /><br />ئەقىل كۆرمىسە كۆز كۆرمەس.<br /><br />گۆھەر ياتىدۇ سايدا،<br />تونىمىسا نېمە پايدا.<br /><br />تىلىڭ كۆيسە مۇز يالا،<br />ئىچىڭ كۆيسە تۇز يالا.<br /><br />سەھەر قىلسا ناشتا،<br />كېسەل تۇرماس باشتا.<br /><br />گۇمان ئىماننى يەپتۇ.<br /><br />كۆمەچ پىشقىچە توقاچ كۆيۈپتۇ.<br /><br />ئىخلاس قىلساڭ سەمىمىي نىيەتتە،<br />خەزىنىمۇ ئېچىلار ئەلبەتتە.<br /><br />توخۇ داڭگال چۈشەپتۇ،<br />ئوتۇنچى جاڭگال )چۈشەپتۇ(.<br /><br />بىكار گەپتىن جىگدە ياخشى،<br />ئارپا ناندىن گىردە )ياخشى(.<br /><br />قۇرۇق تاغار ئۆرە تۇرماس.<br /><br />ئات بايغا يارىشۇر،<br />ناۋات چايغا )يارىشۇر(.<br /><br />ئۆردەك كۆلدە ياشايدۇ،<br />يولۋاس چۆلدە )ياشايدۇ(.<br /><br />بىلىم — دەسمايىسىز ھۈنەر.<br /><br />تەننىڭ ساقلىقى — پادىشاھلىق.<br /><br />بىلىم بىلگەننىڭ،<br />ئەقىل سەزگەننىڭ.<br /><br />پاراسەت بولسا، قىلدا پىل باغلىيالايسەن.<br /><br />ئەقىلسىز  باش گەۋدەڭگە يۈك.<br /><br />ئەقىلدىن ئارتۇق بايلىق يوق.<br /><br />بىلىملىكنىڭ چارىسى كۆپ،<br />دېتى يوقنىڭ بانىسى )كۆپ(.<br /><br />يەتتە ئۆلچەپ بىر كەس.<br /><br />بىلىملىك نۇرلىنار،<br />بىلىمسىز خورلىنار.<br /><br />قۇرۇق چېلەك تاراقلايدۇ،<br />نادان ۋالاقلايدۇ.<br /><br />ئەقىلسىزلىك — باشقا كەلگەن ئاپەت،<br />پاراسەت — ئامەت.<br /><br />سۆلەت گىرىمىدە، <br />گۈزەللىك بىلىمىدە.<br /><br />بىلىملىكتۇر يۇرت بېشى،<br />بىلىمسىزدۇر ساي تېشى.<br /><br />بىلىملىككە ئامەت بار،<br />بىلىمسىزگە ئاپەت )بار(.<br /><br /><br />بىلىم دۆلەت، كىيىم سۆلەت.<br />بىلىملىك كىشى ئۇزار،<br />بىلىمسىز كىشى توزار.<br />ئىش بىلگەننىڭ.<br />بىلىم كۆككىمۇ يەتكۈزىدۇ،<br />كۆپكىمۇ يەتكۈزىدۇ.<br />ئەقىل تاپاي دېسەڭ ئۆگەن،<br />بەڭۋاشلىققا سالغىن يۈگەن.<br />ھەرىكەت قىلساڭ بەرىكەت تاپىسەن،<br />ئىخلاس قىلساڭ مەرىپەت )تاپىسەن(.<br />سالجىنىڭ قېنى يوق،<br />ساۋاتسىزنىڭ جېنى )يوق(.<br />بىلىملىكنىڭ باھاسى يوق،<br />بىلىمسىزنىڭ ساپاسى )يوق(.<br />خارەتكە يىلىم كېرەك،<br />ئادەمگە بىلىم )كېرەك(.<br />يول سورىغان يولدىن ئازماس.<br />ئېشىكىم نەدىن بىلۇر كۈنجىرا ناۋاتنىڭ قەدرىنى،<br />ئىش بىلگەننىڭ،<br />نان يېگەننىڭ.<br />ئىش بىلگەن ئىشنى ھاردۇرار،<br />بىلمىگەن ئۆزىنى ھاردۇرار.<br />ئىش بىلمەس ئىشنىڭ ئاستىدا ئۆلەر.<br />ئادەمنىڭ سادىسىدىن،<br />ئېشەكنىڭ مادىسى ياخشى.<br />ئۆلۈككە يىغلىغان ئېسىت كۆزۈم،<br />نادانغا سۆزلىگەن ئېسىت سۆزۈم.<br />بورىچى ھالۋىچى بولسا،<br />كۆزىنى چاپاق بېسىپتۇ.<br />ساتىراش ئۆلمىسە ئەركىشى قېرىماس،<br />ھۈنەرلىك ئادەم مېۋىلىك دەرەخ.<br />توڭ - توڭ ئېتەر تۆمۈرچى،<br />پۇلنى ئۇسسۇيدۇ كۆنچى.<br />خىمىنەكتە ئورا كولاپ،<br />جان لىشار بۇزچى.<br />ھۈنەر قىلسا ئۈنەر.<br /><br />ئوتنىڭ چىشى يوق،<br />ھۆل قۇرۇق بىلەن ئىشى يوق.<br />قۇيداڭ سۆڭەكنىڭ يېغى چىقماس.<br />ئاتنىڭ كىشنىمەيدىغىنى يوق،<br />ئىتنىڭ چىشلىمەيدىغىنى يوق.<br />ھەرىنىڭ ھەسىلىمۇ بار،<br />زەھىرىمۇ بار.<br />ئۇلۇغ سۇ يانىڭ،<br />كوتمەك جىگدە سانىڭ.<br />سەگنى چىشلىمەيدۇ دېمە،<br />ئاتنى تەپمەيدۇ )دېمە(.<br />توخۇ توڭغانسېرى دەرەخنىڭ ئۇچىغا چىقار.<br />ئاۋايلاپ ئۇچمىغان قۇش، قانىتىدىن ئايرىلىپتۇ.<br />ھارغان ئېشەك دۆڭگە چاپار.<br />ھايۋانغا ئېغىل كېرەك،<br />پاتقاققا شېغىل )كېرەك(.<br />ئات سەمرىسە دۆڭگە چاپار، <br />بۇقا سەمرىسە توپا چاچار.<br />ئېشەك سەمرىسە تۆۋەنگە چاپار،<br />تېكە سەمرىسە سۈيدۈك چاچار.<br /><br />مايماق ئېشەك قېچىر تەخەيلەپتۇ.<br /><br />كۆرۈنگەن تاغ يىراق ئەمەس،<br />ئارمانغا چۇشلۇق دەرمان يوق.<br />ئۆلۈمدىن باشقىسى تاماشا.<br />كېڭەشلىك ئىش بۇزۇلماس.<br />داڭلىغان ئېشەك پاسارغا چىچىپتۇ.<br />ئىشەنگەن تاغدا كىيىك ياتماپتۇ،<br />تۇغماس خوتۇن شۈمەك يىغىپتۇ.<br />ئۆلمىگەن جاندا ئۈمىد بار.<br />گۇمان ئىماننى قاچۇرۇپتۇ.<br />جان بولسا جاھان،<br />ئاش بولسا قازان.<br /><br /><br />ئادەم ئېغىلدا ياشىسا، ئېشەكنىڭ خۇيىنى ئالۇر.<br /><br />ئابرويىڭنى ياش چېغىڭدا ساقلا،<br />كىيىمىڭنى يېڭى چېغىدا )ساقلا(.<br /><br />ئاتتىن چۈشسىمۇ، ئۈزەڭگىدىن چۈشمەپتۇ.<br /><br />ئاتنىڭ ياخشىسى ئالا،<br />خوتۇننىڭ يامىنى بالا - قازا.<br /><br />ئادەمنىڭ زىننىتى ئەخلاق،<br />دەرەخنىڭ زىننىتى ياپراق.<br /><br />ئادەمنىڭ ئالدى گۈل، كەينى تىكەن.<br /><br />ئاچ كۆزنىڭ ئېشى ئارتىدۇ،<br />دەردىنى كېچىسى تارتىدۇ.<br /><br />ئاسمان ئۆرۈلۈپ كەتسىمۇ، ئاستىدا مانتا يەپتۇ.<br /><br />ئاش كەلسە ئىمان قېچىپتۇ،<br />نەپسى يامان شورتاڭ كېچىپتۇ.<br /><br />ئاغرىقنى بۇس ئۆلتۈرەر،<br />يىگىتنى نومۇس )ئۆلتۈرەر(.<br /><br />ئالتۇن يەردە ياتماس،<br />يامان ئەلگە پاتماس.<br /><br />ئايدا يېگەن توق بولار،<br />كۈندە يېگەن ئاش )بولار(.<br /><br />ئەدەپ — ئەقىلنىڭ سۆرىتى.<br /><br />ئەسسالامۇ ئەلەيكۇم دېسە، بەش تەڭگەمنى بەر دەپتۇ.<br /><br />ئەۋلىيادىن پۇتۇڭنى تارت،<br />پادىشاھتىن تىلىڭنى )تارت(.<br /><br />بەڭگىنىڭ ئوڭى يوق،<br />پاشىنىڭ قوڭى )يوق(.<br /><br />بوياقچىنى بوياقچى دەپ قويسا، ساقىلىنى بوياپتۇ.<br /><br />بېخىل بايدىن سېخىي گاداي ياخشى.<br /><br />بېخىل سىقىمنىڭ ئىچىنى ئايايدۇ،<br />تېشىنى يالايدۇ.<br /><br />بېخىلدىن پۇل ئالماق،<br />پېتىر ناندىن قىل ئالماق.<br /><br />بېخىلنىڭ پۇلى چىققىچە، جېنى چىقىدۇ.<br /><br />بېخىل جېنىدىن كېچەر، نېنىدىن كەچمەس.<br /><br />بېخىلنىڭ بېغى كۆكەرمەس.<br /><br />بېخىلدىن نان سورىغىنىڭ، جان سورىغىنىڭ.<br /><br />بېخىلغا ھاجىتىڭ چۈشسە يوق دەيدۇ،<br />سېخىيغا ھاجىتىڭ چۈسە خوپ دەيدۇ.<br /><br />بىرى مەستىن قورقىمەن،<br />يەنە بىرى مۆرىمەستىن )قورقىمەن(.<br /><br />پەيلى ياماننىڭ خۇيى يامان.<br /><br />پۈتكەن ئىشقا ئىگە تولا،<br />جەڭدىن كېيىن باتۇر )تولا(.<br /><br />پوقىغا بېگىز ئۆتمەس.<br /><br />پىتنىخورنىڭ سۆزى يامان،<br />سۆزىدىن ئۆزى يامان.<br /><br />تاماخورنىڭ قازىنى تۆشۈك.<br /><br />تاماخورنىڭ كۆزى تويماس.<br /><br />تامىقىنى يەپ تاۋىقىنى چېقىپتۇ.<br /><br />تىلەپ ئالغان تىزغا يەتمەس،<br />بەدخۇي يىگىت قىزغا يەتمەس.<br /><br />تېزىنى باسسا مېزى،<br />بېزىنى باسسا مېزى.<br /><br />جاننى كېپەككە سات،<br />نومۇسنى ئالتۇنغا ئال.<br /><br />چۆچۈرە پاتمىغان ئاغزىمغا كالا بېشى بوش كەلدى.<br /><br />خەلپىتىم كۈلمەس، كۈلسە تېلىقىپ قالۇر.<br /><br />خوش - خوش دەيدۇ،<br />موك - موك يەيدۇ.<br /><br />دىمىقى ئۈستۈن كۈلپەتتە ئۆتەر.<br /><br />رەھىمىسى يوق ئادەمدىن، رەھىمىسى بار ئىت ياخشى.<br /><br />زىدى پەسنىڭ تېگى پەس.<br /><br />غالجىر خۇدانى بىلمەس،<br />ئىت ھارامنى )بىلمەس(.<br /><br />غەيۋەتخورنىڭ تىلىنى كەس،<br />ئاڭلىغۇچىنىڭ قۇلىقىنى )كەس(.<br /><br />غەرەزدىن غەرەز تۇغۇلار،<br />بەغەرەزدىن ھەزەر )تۇغۇلار(.<br /><br />قارنىم ئۈچۈن يىغلىمايمەن،<br />قەدرىم ئۈچۈن يىغلايمەن.<br /><br />قۇلۇڭ سۇنغان يەرگە پۇتۇڭنى سۇنما.<br /><br />قورقۇنچاقنىڭ كۆزى يامان،<br />چېقىمچىنىڭ سۆزى )يامان(.<br /><br />قېلىنلىق — يېرىم دۆلەت.<br /><br />قېچىپ كەتكەن — چېچىپ كەتتى.<br /><br />قېرىغاندا قېرى تارتۇق،<br />قىلىقلىرى ئاندىن ئارتۇق.<br /><br />قىرىق كىشىدىن، قىيىق كىشى يامان.<br /><br />كۆزى يوقنىڭ، يۈزى يوق.<br /><br />كۆردۈم دېگەن كۆپ سۆز،<br />كۆرمىدىم دېگەن بىر سۆز.<br /><br />كۆتتى قىرماققا چىققۇچە،<br />خۇيى بارماققا چىقىپتۇ.<br /><br />كەمتەر بولساڭ ئۆسەرسەن،<br />مەغرۇرلانساڭ چۆكەرسەن.<br /><br />كىچىك پېئىل بولغاننىڭ ئىشى بۇزۇلماس.<br /><br />كېپەكتە قۇۋۋەت يوق،<br />ئالدامچىغا ئۇيات )يوق(.<br /><br />كىشىدىن ھايا كەتسە، ئورنىغا بالا كېلەر.<br /><br />مال ئىچىدە مال بار،<br />ئادەم ئىچىدە ئادەم )بار(.<br /><br />ماختاپ قويسا مالخىيىغا چىقىرىپتۇ.<br /><br />ماختىغان قىز مەرىكىدە ئۇسۇرۇپتۇ.<br /><br />ماختانغاننىڭ ئۆيىگە بارما،<br />كېرىلگەننىڭ تويىغا )بارما(.<br /><br />مەسلىك - پەسلىك.<br /><br />موللامنىڭ ئاغزى دۇئادا،<br />كۆزى بولسا داستىخاندا.<br /><br />موللا بولماق ئاسان، ئادەم بولماق قىيىن.<br /><br />مېھماننى ئۆيگە باشلاپ،<br />ئۆزى يۈرەر ئەر سوراپ.<br /><br />مېۋىلىك دەرەخ ئېگىلىپ تۇرىدۇ،<br />كىشىلەر ئاڭا تېرەك قويىدۇ.<br />مېۋىسىز دەرەخ غادىيىپ تۇرىدۇ،<br />كىشىلەر ئۇنى پۇتاپ تۇرىدۇ.<br /><br />نەپسىڭ سېنىڭ بالادۇر،<br />ئاخىرى ئوتقا سالادۇر.<br /><br />نىيىتى بۇزۇق، باشقىلاردىن ئەيىپ ئىزلەيدۇ.<br /><br />ھايدىغىنىڭ ئالتە ئۆچكە،<br />مالىمانلىقىڭ مەھەللىنى ئالدى.<br /><br />ھوشۇر ئايدا پوشكال يەپ، سەپەر ئايدا كېكىرىپتۇ.<br /><br />ھىيلىگەردىن تۇخۇم ئالساڭ، ئىچىدىن سېرىقى چىقماس.<br /><br />ئۇيات — ئۆلۈمدىن يامان.<br /><br />ئۇيات ئۆلۈمنى يېڭەر.<br /><br />ئۇيات تۇرغان يەردە ئىمان تۇرار،<br />ئۇيات تۇرمىغان يەردە گۇمان )تۇرار(.<br /><br />ئۆزەڭ ئەگرى بولساڭمۇ، گېپىڭ تۈز بولسۇن.<br /><br />ئۆزى سوغۇقنىڭ قىلىقى سوغۇق.<br /><br />ئۆزى تويماسنىڭ كۆزى تويماس.<br /><br />ئۆزىنىڭ ئەيىبى ئۆزىگە كۆرۈنمەس،<br />كۆزنىڭ ئەيىبى كۆزگە )كۆرۈنمەس(.<br /><br />ئۆزۈمنىڭ يامانلىقىمدىن، كۆڭلۈمنىڭ ئارامى يوق.<br /><br />ۋالاقتەككۈر گەپ بەرمەس،<br />پۇچۇق كەپكۈر نەپ )بەرمەس(.<br /><br />ئىرغاينىڭ ئىگىلگىنى - سۇنغىنى،<br />ئەرنىڭ ئۇيالغىنى — ئۆلگىنى.<br /><br />ئىت ئىتلىقىنى قىلمىسا، كۆڭلى تىنماس.<br /><br />ئىت كېچىسى قاۋاپ سەھەردە ئۇخلايدۇ.<br /><br />ئىت بېشى تەخسىدە تۇرماپتۇ.<br /><br />ئىززىتىنى بىلمىگەن ئەدىپىنى يەر.<br /><br />ئىچى تارغا دۇنيامۇ تار.<br /><br />يامان قىلار ئۇياتقا،<br />ياخشى يېتەر مۇراتقا.<br /><br />ياخشى بولسا ئۆزىدىن كۆرەر،<br />يامان بولسا باشقىدىن )كۆرەر(.<br /><br />ياخشى بولساڭ ئېشىڭنى يەيسەن،<br />يامان بولساڭ بېشىڭنى يەيسەن.<br /><br />ياخشى ئەسكى بلۇپ قانچە ئەسكى بولۇر،<br />يامان ياخشى بولۇپ قانچە ياخشى بولۇر.<br /><br />يالغان ئېيتقان ئەر ئەمەس،<br />ھوسۇل بەرمىگەن يەر ئەمەس.<br /><br /><br />ياخشى ئۇرۇشسا بەرگىلى نەرسە تاپالماس،<br />يامان ئۇرۇشسا ئالغىلى )نەرسە تاپالماس(.<br /><br />ياخشى يېگىنىنى ئېيتار،<br />يامان كىيگىنىنى )ئېيتار(.<br /><br />ياخشى كېلىپ ھالىڭغا يېتەر،<br />يامان كېلىپ كۆتۈڭگە تېپەر.<br /><br />ياخشىدىن ئات قالىدۇ،<br />ياماندىن دات )قالىدۇ(.<br /><br />ياماندىن ئاشقىنى يېرىم قوشۇق.<br /><br />يالغان ئېيتقان خۇدانىڭ دۈشمىنى.<br /><br />يەپ تويمىغان يالاپ تويماس،<br />ھە دېسەڭ ساڭا قالماس.<br /><br />يەتتىدە قىلغىنىڭ مۇنچە،<br />قىرقىدا قىلۇرسەن قانچە.<br /><br />يەنە دېسەم يەنە شۇ، ئاتام ئېيتقان بايىقى.<br /><br />يىراقتىن قارىسام ئەلدىن ئارتۇق،<br />يېقىندىن قارىسام ھاشىم تارتۇق.<br /><br />دەرەخ گۈزەل ياپراق بىلەن،<br />ئادەم گۈزەل ئەخلاق بىلەن.<br /><br />ئەدەبنى ئەدەپسىزدىن ئۆگەن.<br /><br /><br />ئەخلاق ئادەم زىننىتى.<br /><br />تىلىگەننى تىلىمەڭ،<br />ئىتتىك پىچاقنى بىلىمەڭ.<br />مۇتىھەمنى يۆلىمەڭ.<br /><br />قولۇڭنى سوزغان يەرگە،<br />پۇتۇڭنى ئۇزاتما.<br /><br />زېرىككەك بولماڭ، تېرىككەك بولماڭ،<br />كۆڭۈلچەك بولماڭ، ئېرىنچەك بولماڭ.<br /><br />كىشىنىڭ ياخشىلىقىنى كىشىگە دە، ئۆزىگە دېمە،<br />كىشىنىڭ كەمچىلىكىنى ئۆزىگە دە كىشىگە دېمە.<br /><br />ھايات چېغىدا تىللىما،<br />ئۆلگىنىدە يىغلىما.<br /><br />ئىشىك ئوچۇق بولسىمۇ سوراپ كىر.<br /><br />سۇ كۆتەر ئاپتىۋا بىلەن،<br />ئات ككتۈر ئوبدان بىلەن.<br /><br />كاتتىباشتىن تەخسىكەش يامان.<br /><br />ئاز يەپ كۆپ چاينا،<br />ئاز سۆزلە، كۆپ تىڭشا.<br /><br />ياخشى ئىدىم يامان بولدۇم،<br />ئارپا ئىدىم سامان بولدۇم.<br /><br />سۇنى سەپ سىڭە يەرگە،<br />گەپنى قىل سىغا يەرگە.<br /><br />يەتتە ئۆلچەپ بىر كەس.<br /><br />ھۆرمەت قىلساڭ، ھۆرمەت كۆرىسەن.<br /><br />يىغىدىن يابويى قاچ.<br /><br />ئەرنىڭ يالغىنى ئۆلگىنى.<br /><br />قازاغا رىزا، بالاغا سەۋرى.<br /><br />شەيتىنىڭغا ھاي بەر.<br /><br />ئەخلاقسىز خوتۇن — تۇزسىز ئاش.<br /><br />ياخشى كۆڭۈل — باغ، <br />ياخشى ئىدىيە — يىلتىز.<br /><br />ياخشى گەپ گۈل، ياخشى ئىش مېۋە.<br /><br />گۈل بەرگىدە گۈزەل.<br /><br />ئادەم بولساڭ، ئالەم سېنىڭكى.<br /><br />ياخشى خۇلق يېرىم دۆلەت.<br /><br />گۈزەل ئەخلاق ئادەمنى بېزەيدۇ.<br /><br />ئەدەبلىك ئېغىزنىڭ سۆزى گۈزەل.<br /><br /><br />ئۆزى كاپىرنىڭ، خوتۇنى تالاق.<br /><br />ئېغىز يېسە، يۈز ئۇگىتار.<br /><br />ئېغىزنىڭ دەرۋازىسى يوق،<br />تىلنىڭ ئۇستىخىنى )يوق(.<br /><br />يەنە دېسەم يەنە دەيدۇ،<br />ئاستا دېسەم كىشىگە )دەيدۇ(.<br /><br />ياۋاشنىڭ مۈڭگۈزى ئىچىدە.<br /><br />ھەممە ئىشنى موللا بىلەر،<br />موللا قوپۇپ كۆلگە سىيەر.<br /><br />ھورۇننىڭ ئەتىسى تۈگىمەس.<br /><br />قازانغا يولۇقساڭ قارىسى يۇقار،<br />يامانغا يولۇقساڭ بالاسى )يۇقار(.<br /><br />ئۈلپىتىڭ قاغا بولسا، يېيىشىڭ پوق.<br /><br />ھاردىم دېسە ھاپاش بوپتۇ.<br /><br />ياخشى ئەرنىڭ بالىسى غېرىب بولسا بولۇر،<br />قۇل بولماس.<br /><br />يۈزۈمنىڭ قېلىنلىقى جېنىمنىڭ راھىتى.<br /><br />ئاش كەلسە ئىمان قېچىپتۇ.<br /><br />نەپسى دېگەن بالادۇر،<br />ئاخىر ئوتقا سالادۇر.<br /><br />پىچاقنى ئۆزۈڭگە سال،<br />ئاغرىمىسا كىشىگە سال.<br /><br />قوينڭم ئوغرى - قونجۇم ئوغرى.<br /><br />كىشىنى ئالدايمەن دېگىنىڭ، ئۆزۈڭنى ئالدىغىنىڭ.<br /><br />ئابروينى پۇلغا سېتىۋالغىلى بولماس.<br /><br />ئاچكۆزنىڭ قورسىقى تويسىمۇ كۆزى تويماپتۇ.<br /><br />ئادەم ئەتكەنگە تازىم ئەت.<br /><br />ئادەمنى نومۇس ئۆلۈرەر.<br />توشقاننى قومۇش )ئۆلتۈرەر(.<br /><br />ئادەم قىممىتى سۆز بىلەن،<br />ئاشنىڭ قىممىتى تۇز )بىلەن(.<br /><br />قېچىر ئاتنى چوڭ دادام دەر.<br /><br />ئادەم يېنىدا تۇرسا ئادەم خۇيىنى ئالار،<br />ھايۋان يېنىدا تۇرسا ھايۋان خۇيىنى ئالار.<br /><br />ئاچكۆزلۈك ئەقىلدىن ئازدۇرىدۇ.<br /><br />ئۆزىنى سورىغان شەھەرگە سۇلتان بولار،<br />ئۆزىنى سورىمىغان ئاياغقا ئۇلتاڭ )بولار(.<br /><br />كىشىنىڭ شەھىرىدە سۇلتان بولغىچە،<br />ئۆز شەھىرىڭدە ئۇلتاڭ بول.<br /><br />كەمتەر كامال تاپار،<br />مەنمەنچى زاۋال )تاپار(.<br /><br />ياخشى ئىشقا ئالغىش ياغار.<br /><br />لەۋزىدە تۇرمىغان يىگىت ئەمەس.<br /><br />نەپسىنى يىغقان سۇلتان بولۇر،<br />يىغمىغىنى ئۇلتاڭ )بولۇر(.<br /><br />سۆيدۈرگەنمۇ تىل،<br />بەزدۈرگەنمۇ )تىل(.<br /><br />ئۇيات تۇرغان يەردە ئىمان تۇرار.<br /><br />خىل - خىلدا، تىل قوۋۇزدا.<br /><br />ياخشى بولساڭ ئېشىڭنى يەرسەن،<br />يامان بولساڭ بېشىڭنى )يەرسەن(.<br /><br />تۇزۇڭنى يەپ، تۇزلۇقۇڭغا چىچاي.<br /><br />ئۆزۈم يالغانچى ئەمەس، يارىغىم يالغانچى.<br /><br />ئەسكى بىلەن گەپ تالاشقىچە، ئىت بىلەن سۆڭەك تالاشقان ياخشى.<br /><br />ئېغىر بولساڭ ئامبال بولۇرسەن،<br />يېنىك بولساڭ تامبال )بولارسەن(.<br /><br />ھايۋان ئىگىسىنى تارتمىسا ھارام.<br /><br />ياخشى ئاتنىڭ تېرىسى قېيىش بولۇر، كۆن بولماس.<br />ياخشى ئادەمنىڭ بالىسى گاداي بولۇر، قۇل بولماس.<br /><br />ئىنسابلىقنىڭ دىلى ساپ.<br /><br />ئىزا تارتقىنىم - غىزا يېگىنىم.<br /><br />جىمغۇرنىڭ ھۈنىرى ئىچىدە.<br /><br />ھىيلىگەردىن تۇخۇم ئالساڭ، ئىچىدىن سېرىقى چىقماس.<br /><br />قول ئىچىگە ئېگىلىدۇ.<br /><br />ئېگىلگەنگە ئېگىل، بېشىڭ يەرگە تەككۈچە،<br />غادايغانغا غاداي، بېشىڭ كۆككە يەتكۈچە.<br /><br />شەيتاننىڭ شاپتۇل يېگىنىگە ھەيران مەن،<br />يېسىغۇ يېسۇن، شوپۇڭداپ يېگىنىگە ھەيرانمەن.<br /><br />ئەلگە بارساڭ ئېلىپ بار، تېۋىڭىنى&nbsp; قويۇپ بار.<br /><br />قاراڭغۇدا دەپ ھاڭ باقماي،<br />يورۇقلۇقنى ئىزدەپ تاپ.<br /><br />دۆلەتمەن بولغاندا، سۆلەتمەن بول.<br /><br />سېخىي نان دېگۈزمەيدۇ،<br />بېخىل نان يېگۈزمەيدۇ.<br /><br />ھۆپۈپ كاماردا ئۆتەر،<br />ئاچكۆز تامادا )ئۆتەر(.<br /><br />قورسىقىڭنىڭ مەيلى بولسا، ئابرويۇڭنى قوشۇپ يەر.<br /><br />قەسەمخورنىڭ ئۆمرى قىسقا.<br /><br />ئېگىلمىگەنگە ئېڭىشمە.<br /><br />ئاتنى نەگە باغلايمەن، ئەسسالام دېگەن تىلىمغا.<br /><br />ئاۋۋال تائام، ئاندىن كالام.<br /><br />بالاڭ ئۆلسە ئەرگە باق،<br />ئېرىڭ ئۆلسە يەرگە )باق(.<br /><br />بىر مەستىن قورقىمەن،<br />بىر مۆرىمەستىن )قورقىمەن(.<br /><br />تېجىمەل كېپەن تاپسا ئۆلۈۋالار.<br /><br />خۇشامەتچىنىڭ كۈلكىسى كۆپ،<br />جاڭگالنىڭ تۈلكىسى )كۆپ(.<br /><br />ئەخلاق ئادەم زىننىتى، <br />ئەخلاقسىزنىڭ يوقتۇر قىممىتى.<br /><br />كۈچۈكۈم - كۈچۈكۈم دېسە، بىر نېمىسىنى چىقىرىپتۇ.<br /><br />قانائەتلىك كىشىنىڭ قارنى توق.<br /><br />يەپ تويماس،<br />يالاپ قويماس.<br /><br />تازغا ئەمەل تەگسە چىقمىغان دۆڭ قالماپتۇ.<br /><br />ياخشى ئادەم ئىشىدىن مەلۇم،<br />ياخشى يىل باھاردىن )مەلۇم(.<br /><br />كۆيۈمى يوق تۇغقاندىن يات ياخشى.<br /><br />كىشىدىن ئۇيالغىچە ئۆزۈڭدىن ئۇيال.<br /><br />پاقا ھەمىشە ئۆزىنىڭ قۇمچاق ئىكەنلىكىنى ئۇنتۇپ قالىدۇ.<br /><br />ئۆزى سوغۇقنىڭ قىلىقى سوغۇق.<br /><br />تالالىقى بار، ئۆي ئىچىلىكى يوق.<br /><br />ئۆزى ئۆيىگە كىرگىچە كەشىسى تۆرگە چىقىپتۇ.<br /><br />ئۆزى تويسىمۇ كۆزى تويماس.<br /><br />ھۆرمەت تۆرگە باشلايدۇ،<br />غەيرەت گۆرگە )باشلايدۇ(.<br /><br />ئادەمنىڭ ئادەملىكى ئاچچىقى كەلگەندە بىلىنەر.<br /><br />ياخشىدىن ئات قالىدۇ،<br />ياماندىن دات )قالىدۇ(.<br /><br />خوشامەتچىنىڭ چىشى بولمىسىمۇ، سۆڭەك غاجايدۇ.<br /><br />ئۆز ئۆيدە پۈۋلەر ئىچكەن دوغىنى،<br />خەقنىڭكىدە يالماپ يۇتار چوغنى.<br /><br />كىشىنىڭ ئىشى ئالتىنچى ئايدا قول توڭدۇرۇپتۇ.<br /><br />مېھمان بار چاغدا مۈشۈكنى پەش دېمە.<br /><br />كىشىگە قىلغان ئۆزىگە يانار.<br /><br />كىشىگە سانىسا ئۆزىگە، <br />قاشقا سانىسا كۆزىگە.<br /><br />كىشىگە كىلسەڭ، ئۆزۈڭگە يىغلايسەن.<br /><br />ئېگىز تاغدا قار بولۇر،<br />مەرت يىگىتتە ئار )بولۇر(.<br /><br />كىشى نان تەڭلىسە يېمەيمەن دېمە،<br />قولۇڭغا ئال يېمىسەڭ يېمە.<br /><br />سۆزى سوغۇقنىڭ قىلىقىمۇ سوغۇق.<br /><br />كەچ قالغان قاراڭغۇدىن قورقماپتۇ.<br /><br />يولۋاسنى يەڭگەن باتۇر ئەمەس، ئاچچىقنى يەڭگەن باتۇر.<br /><br />دۈشمەن قەست قىلسا، دوست قۇتۇلدۇرار.<br /><br />قارنىڭ بىر بىلەن قان تۆكۈشمە.<br /><br />ئىناۋەت ئالتۇندىن قىممەت.<br /><br />ئابرويۇڭنى ياشلىقىڭدىلا ساقلا.<br /><br />سۆزلىگۈچىدە ئەيىب يوق، ئاڭغۇچى ئىبرەت ئالسۇن. <br /><br />سۆگەتنىڭ تۈزى يوق،<br />يىگىتنىڭ سېتى )يوق(.<br /><br />تاغقا يامغۇر كار قىلماس،<br />قېلىنغا گەپ كار )قىلماس(.<br /><br />ئاغزى يۇمشاق گۆش يەيدۇ،<br />ئاغزى قاتتىق مۇش )يەيدۇ(.<br /><br />سۇ كەلتۈرگەن ئېزىز، <br />كوزا چاققان خار.<br /><br />سۆزلىگەن ئەخمەق بولسىمۇ،<br />ئاڭلىغان ئەقىللىق بولسۇن.<br /><br />ئەدەپ - ئەخلاق بازاردا سېتىلماس،<br />ئەدەپسىزگە ھېچ كىشى قېتىلماس.<br /><br /><br /><br />قىزىمنىڭ بالىسى ئۆزۈمنىڭ بالىسى،<br />كۆيدۈرگەن ئانىسى.<br />ئوغلۇمنىڭ بالىسى قىرغاۋۇل بالىسى،<br />كۆيدۈرمىگەن ئانىسى.<br /><br />پالتاڭ بولسا ئوتۇن كاممۇ،<br />ئوغلۇڭ بولسا خوتۇن )كاممۇ(.<br /><br />ئېرىڭدىن يامانلىماي، ئەيىبىڭدىن يامانلا.<br /><br />كۆپ ئەرگە تەگكەننىڭ كۆڭلى پەس،<br />كۆپ خوتۇن ئالغاننىڭ كۈنى )تەس(.<br /><br />ئۆركەر يانغا ئۆتسە، يازغا تەۋە،<br />تۇماق گەدەنگە چۈشسە تازغا )تەۋە(.<br /><br />ئىت ۋاپا، <br />خوتۇن جاپا.<br /><br />ھەئە - دەڭ، مومامنىڭ ئېشىنى يەڭ.<br /><br />خوتۇننى ماختىغان بىرىنچى ئاخماق،<br />ئۆزىنى ماختىغان ئىككىنچى ئاخماق.<br /><br />يېغىرى بار ئادەم سەمرىمەيدۇ.<br /><br />ئېچىلغاننىڭ ئەيىبى يوق، ئۆزىنى بىلىپ ياپسا،<br />ئاداشقاننىڭ ئەيىبى يوق، قايتىپ كېلىپ ئۆيىنى تاپسا.<br /><br />ھۆل ئوتۇن ئوچاقنى كاردىن چىقىرىدۇ،<br />ئەسكى خوتۇن ئەرنى )كاردىن چىقىرىدۇ(.<br /><br />خوتۇن كىشى گالدىن قېرىيدۇ،<br />تام ئۇلىدىن )قېرىيدۇ(.<br /><br />تالاغا چىققۇچە ئۆزۈڭنى تۈزە،<br />تالادىن كىرگۈچە، ئۆيۈڭنى )تۈزە(.<br /><br />ھارام تاماق تەنگە سىڭمەس.<br /><br />غەيۋەتخورلۇق ۋابا كېسىلىدىن يامان.<br /><br />قانائەتلىك كىشىنىڭ قارنى توق.<br /><br />يول ماڭساڭ سېلىقى بىلەن ماڭ نېرى بولسىمۇ،<br />قەدىناسنى تاشلىما قېرى بولسىمۇ.<br /><br />ئوغلۇڭنى ئېگىزدىن ئۆيلە،<br />قىزىڭنى پەسكە بەر.<br /><br />يىراقتىن خوتۇن ئالما،<br />يېقىندىن ئېشەك )ئالما(.<br /><br />كىشىنىڭ خوتۇنى بوينىنى ئىسسىتسىمۇ، قوينىنى ئىسىتماس.<br /><br />تېرىمىغاننىڭ كەپسىنى چوڭ.<br /><br /><br /><br />ئۆزىنى ماختاش —ئۆلۈمنىڭ قاراۋۇلى.<br /><br />نەپسىنى يىغمىغان ئوڭدا قالار.<br /><br />يۈزۈمنىڭ قېلىنلىقى،<br />جېنىمنىڭ راھىتى.<br /><br />پىچاقنى ئۆزۈڭگە سال،<br />ئاغرىمىسا كىشىگە )سال(.<br /><br />ئاچ قورساق خام دېمەيدۇ،<br />كەمتەر نام )دېمەيدۇ(.<br /><br />پاقا كۆلچەككە باقار،<br />تاماخور چۆنتەككە )باقار(.<br /><br />ئىچى تارغا دۇنيامۇ تار كۆرۈنەر.<br /><br />جاھاننى سۇ باسسا، غازنىڭ قاپتىلىغا كەلمەپتۇ.<br /><br />كۆڭۈلنى دۇرۇس تۇتساڭ بىر ساپ ئۈزۈمدىن قىرىق ئادەمگە يېتەر.<br /><br />تەلۋە تۆرنى بەرمەپتۇ.<br /><br />ئاسمان بېسىۋالسا، تېگىدە يېتىپ مانتا يەپتۇ.<br /><br />ئۆرۈك، ئۆرۈكنى كۆرسە ئالا بوپتۇ.<br /><br />يىقىلغان چېلىشقا تويماپتۇ.<br /><br />كۆرەلمەسنىڭ كۆتى ئوچۇق.<br /><br />ياخشى ئاتقا قامچا كەتمەس.<br /><br />ئاغزىم تەگدى ئېشىڭغا،<br />تەنەڭ تەگدى بېشىمغا.<br /><br />بىر ياخشىلىق ئۇنتۇلماس،<br />بىر يامانلىق )ئۇنتۇلماس(.<br /><br />ئىشتانسىزغا ئىش تەگسە،<br />چىقمىغان دۆڭ قالماپتۇ.<br /><br />ئۆزىنى بىلگەن خار ئەمەس.<br /><br />گەپ دېسە بەش ئېشەككە يۈك،<br />ئىش دېسە خەپشۈك.<br /><br />ئۆزىنى بىلگەن قازىنىڭ ئالدىغا بارماس.<br /><br />ئىش قىلسا چېپىگە تارتىدۇ،<br />ئاش ئىچسە چۆپىگە )تارتىدۇ(.<br /><br />ئورۇق ئۇينىڭ پوقى چوڭ،<br />تۆشنى يېلىڭنىڭ گېپى )چوڭ(.<br /><br />ئوسۇرغاققا ئارپا نېنى باھانە بوپتۇ.<br /><br />بىكاردىن كېپەن تاپسا ئۆلۈۋاپتۇ.<br /><br />يامان ھارۋا يول بۇزار،<br />يامان ئادەم يۇرت )بۇزار(.<br /><br />شامالدا ئىز يوق،<br />ھاياسىزدا يۈز )يوق(.<br /><br />ئەر ئىنسابلىق بولسا، خوتۇن ۋاپادار بولۇر.<br /><br />راستنى ئېيتسام ئۇرارسىز،<br />يالغان ئېيتسام تۇرارسىز.<br /><br />قېرىغاندا قېرى تارتۇق،<br />قىلىقلىرى ئاندىن ئارتۇق.<br /><br />ياماننى كۆرمىگىچە، ياخشىنىڭ قەدرىگە يەتمەس.<br /><br />ياخشىدىن ئات قالىدۇ،<br />ياماندىن دات )قالىدۇ(.<br /><br />ياخشى كۆرگىنىنى ماختايدۇ،<br />يامان كىيەىنىنى )ماختايدۇ(.<br /><br />ئېگىلگەنگە ئېگىل، بېشىڭ يەرگە يەتكىچە،<br />غادايغانغا غاداي، بېشىڭ كۆككە يەتكۈچە.<br /><br />ياخشى ئىت ئۆلۈكىنى كۆرسەتمەپتۇ.<br /><br />ھايۋاننىڭ ئالىسى تېشىدا،<br />ئادەمنىڭ ئالىسى ئىچىدە.<br /><br />ياخشى ئادەم ئېشىنى يەر،<br />يامان ئادەم بېشىنى )يەر(.<br /><br />كىشىگە قىلساڭ يامانلىق،<br />ئۆزۈڭگە قويمايسەن ئامانلىق.<br /><br />ياخشى خۇيۇم ئىسىتقا،<br />يامان خۇيۇم سوۋۇتقا.<br /><br />ياخشى ئادەم ئاش ئۈستىگە كېلۇر،<br />يامان ئادەم گەپ ئۈستىگە )كېلۇر(.<br /><br />ياخشىنى ماختىساڭ يارىشىدۇ،<br />ياماننى ماختىساڭ ئادىشىدۇ.<br /><br />ئۆمۈچۈك ئۆمىلىيەلمەس،<br />ئۆمىلىگەننى كۆرەلمەس.<br /><br />ھەسەتخورنىڭ دىلى قارا،<br />قەسەمخورنىڭ يۈزى )قارا(.<br /><br />بېخىل ئالغاننى ئۇنۇتار،<br /><br />موللا كىشىگە مەسە ياخشى،<br />تاماخورغا بەرسە )ياخشى(.<br /><br />ياخشىنىڭ شاپائىتى يۇقار،<br />ياماننىڭ كاساپىتى )يۇقار(.<br /><br />راست گەپنىڭ خىجالىتى يوق،<br />يالغانچىنىڭ ئىناۋىتى )يوق(.<br /><br />ھۆرمەت ئىگىسى يالغانچىلىقتىن يىراق.<br /><br />خۇشامەتچىنىڭ تەقسىسى بىللە،<br />ئالدامچىنىڭ ھىيلىسى )بىللە(.<br /><br />نەپسى يامان ھېيتتا ئۆلەر.<br /><br />ياخشى - ئىشى بىلەن ياخشى.<br /><br />يالغانچىنىڭ راست سۆزىمۇ يالغان.<br /><br />ھۆرمەت ئىگىسى يالغانچىلىقتىن يىراق.<br /><br />خۇشامەتچىنىڭ تەقسىسى بىللە،<br />ئالدامچىنىڭ ھىيلىسى )بىللە(.<br /><br />نەپسى يامان ھېيتتا ئۆلەر.<br /><br />ياخشى - ئىشى بىلەن ياخشى.<br /><br />يالغانچىنىڭ راست سۆزىمۇ يالغان.<br /><br />پۇلۇڭ بار چاغدا، ئەھۋال سورايدۇ،<br />پۇلۇڭ يوق چاغدا، ئارقاڭدىن غاجايدۇ.<br /><br />كىشىگە قىلغان، كىشىدە قالماس.<br /><br />ئۆزىنى بىلمەي شىلتىڭ ئېتىپتۇ،<br />پالازغا يۆگىنىپ ھەپتە يېتىپتۇ.<br /><br />نىيەتنىڭ ئالاسى — خۇدانىڭ بالاسى.<br /><br />ياخشىلىققا ياخشىلىق ھەر كىشىنىڭ ئىشىدۇر،<br />يامانلىققا ياخشىلىق، ئەر كىشىنىڭ ئىشىدۇر.<br /><br />قۇشقاچقا ناۋات بەرسەڭ، تەمىنى بىلمەس،<br />يامانغا ياخشىلىق قىلساڭ، قەدرىنى )بىلمەس(.<br /><br />ئەقىلسىزنىڭ پەمى يوق،<br />گەپ - سۆزنىڭ تەمى )يوق(.<br /><br />سۆزدىن يانغان ئەر ئەمەس.<br /><br />ئېلىشتا ئوتتۇز، بېرىشتە توققۇز.<br /><br />ئېلىشتا ھاي - ھاي،<br />بېرىشتە ۋاي - ۋاي.<br /><br />ئېلىشتا ئالمان، بېرىشتە بەزگەك.<br /><br />ئاغىزى دۇئادا،<br />كۆزى تامادا.<br /><br />يەرنى ئەمگەك ئۆزگەرتىدۇ،<br />ئادەمنى مەنسەپ )ئۆزگەرتىدۇ(.<br /><br />ئاتاڭنىڭ يېشىدا بولغىچە ئىشىدا بول.<br /><br />ئاتاڭنى ساتقىچە يوتاڭنى سات، بىر كېچە توق يات.<br /><br />ئاتام مېنىڭ ئاكامچە بار،<br />ئاكام مېنىڭ يوتامچە بار.<br /><br />ئاتاڭ ئۆلسە ئۆلسۈن،<br />ئاتاڭنى كۆرگەنلەر ئۆلمىسۇن.<br /><br />ئاتا - ئانا ھايات مازار.<br /><br />ئانا — تاغدەك پاناھ.<br /><br />ئاتىسى تەپكەن موزاينىڭ ئېتى ئاغرىماس.<br /><br />ئاتامنىڭ ئۆلگىنى ئانامغا ياراشتى،<br />جەلپىكىنى ئىتلار تالاشتى.<br /><br />نانىنى ئۇرما، ئۇۋالى بار.<br /><br />ئىت ئىگىسىگە قاراپ قاۋىمايدۇ.<br /><br />ئىگىسىنى ئىززەتلىسەڭ، ئىتىغا سۆڭەك سال.<br /><br />يەرنىڭ غېمى ئوغۇت،<br />ئانا غېمى تۇغۇت.<br /><br />ئوغۇل تۇغۇلسا ئۆزىدىن كۆرەر،<br />قىز تۇغۇلسا خوتۇنىدىن )كۆرەر(.<br /><br />ئاكاڭ كىمنى ئالسا يەڭگەڭ شۇ.<br /><br />كېلىنىڭ يامان بولسا ئوغلۇڭدىن كۆر،<br />كۈيئوغلۇڭ يامان بولسا قىزىڭدىن )كۆر(.<br /><br />ياخشى بولسا كېلىن،<br />يامان بولسا يېلىن.<br /><br />قىزىم يەپ قىرغا چىقتى،<br />ئوغلۇم يەپ ئوۋغا )چىقتى(.<br /><br />ئاكىسى بارنىڭ ياقىسى بار.<br /><br />ئاكىسى ئوينىشىدۇ، ئۇكىسى چىڭدىشىدۇ.<br /><br />قىزىمنىڭ بالىسى قىرغاۋۇل بالىسى،<br />ئوغلۇمنىڭ بالىسى ئوغلاق بالىسى.<br /><br />بارى - يوقى بىر بالام،<br />بېشى - كۆزى تاز بولام.<br /><br />كىچىك بالا بىر توغرام ناننىڭ قۇلى<br /><br />قاپاق ساڭگىلاپ چوڭ بولىدۇ،<br />بوۋاق يىغلاپ )چوڭ بولىدۇ(.<br /><br />تاماقتىن يامانلىغان قورساقنىڭ توقلۇقى،<br />تۇغقاندىن يامانلىغان ئەقىلنىڭ يوقلۇقى.<br /><br />يات يېگۈچە، <br />تۇغقان ئۆلگۈچە.<br /><br />ياتنىڭ تۆرىدە ئولتۇرغىچە،<br />تۇغقاننىڭ كۈلىڭدە ئولتۇر.<br /><br />بەش قولۇڭ ياغ بولسا تۇغقىنىڭغا سۇۋا.<br /><br />ئىسسىمىغان كاڭدىن كات ياخشى،<br />كۆيۈمى يوق تۇغقاندىن يات ياخشى.<br /><br />ئاق قۇشقاچنىڭ تۇغقىنى يوق،<br />توغقانسىزنىڭ ئۆلگىنى )يوق(.<br /><br />ئەۋلادى ئەمەل تۇتسا، ئەجدادى شۆھرەت تېپىپتۇ.<br /><br />كالاڭ يېيىشلىك بولسا بەردى خۇدا،<br />كېلىنىڭ يېيىشلىك بولسا ئۇردى خۇدا.<br /><br />ئەدەب - ئەخلاق بازاردا سېتىلماس،<br />ئەدەبسىزگە ھېچ كىشى قېتىلماس.<br /><br />ئەخلاقسىز دانىشمەن ئاشپەزنىڭ ئوچىقىغا ئوت قالار.<br /><br />ئاق ئۇننى كۆرۈپ قارا ئۇندىن كەچمە،<br />ئابرۇيىڭنى دەپ لەقەمدىن )كەچمە(.<br /><br />كىيىمىڭنى تازىلىقتا ساقلا،<br />ئابرويىڭنى ياشلىقتا )ساقلا(.<br /><br />كىچىك پېئىل بولساڭ كىچىكلەپ كەتمەيسەن.<br /><br />شامال تېرىساڭ، بوران ئالىسەن.<br /><br />كۆڭلۈم تارتتى پولۇ ئاشقا،<br />تەنتەكلىكىم چىقتى باشقا.<br /><br />ئېغىرلىق  — تادانلىق،<br />يېنىكلىك — نادانلىق.<br /><br />توشقاننىڭ يۈگرىكى چوماققا ئۇچراپتۇ.<br /><br />يۈزۈم ئاق بولسۇن دېسەڭ، ئىشىڭنى توغرا قىل.<br /><br />سوقۇشقاق خوراز سېمىز بولماس.<br /><br />ئىزا تارتقىنىم — غىزا تارتقىنىم،<br />دەشنام يېگىنىم — بەش نان يېگىنىم.<br /><br />پوققا چالما ئاتسا ئۆزىگە چاچرايدۇ.<br /><br />ئاغرىقنى يوشۇرساڭ ئۆلۈم ئاشكارا.<br /><br />شەھەر ئالىمەن دەپ شەرمەندە بوپتۇ.<br /><br />ئات تۇۋىقىدىن سەمرىيدۇ،<br />ئادەم قۇلىقىدىن )سەمرىيدۇ(.<br /><br />چىراي كۆرۈپ ھال سورا.<br /><br />ئىت چىشلىدى دەپ، ئىتنى چىشلىگىلى بولماس.<br /><br />ئىشىك ئوچۇق بولسىمۇ سوراپ كىر.<br /><br />ئويناشماڭ ئەرباب بىلەن،<br />ئەرباب سالۇر ھەر باب بىلەن.<br /><br />ئاشنىڭ قېشىدا پۇتۇڭنى يىغ،<br />پادىشاھنىڭ قېشىدا تىلىڭنى )يىغ(.<br /><br />ئۆزۈڭدىن يۇقىرىغا قاراپ پىكىر قىل،<br />ئۆزۈڭدىن تۆۋەنگە قاراپ شۈكرى قىل.<br /><br />ئۇستا بار يەردە قولۇڭنى يىغ،<br />موللا بار يەردە تىلىڭنى )يىغ(.<br /><br />ھۆرمەت قىلساڭ ھۆرمەت تاپارسەن.<br /><br />چوڭى ئىززەت قىلسا، كىچىكى ھۆرمەت قىلار.<br /><br />قولۇڭنى سوزغان يەرگە پۇتۇڭنى سوزما.<br /><br />ئاش بەرگەن قازاننى چاقما.<br /><br />سۈيىنى ئىچكەن كۆلگە تۈكۈرمە.<br /><br />ئۆزۈڭ قىلىپ ۋاپاسىزلىق، ئۆزگىدىن ۋاپا كۈتمە.<br /><br />ۋەدىگە ۋاپا مەردنىڭ ئىشىدۇر.<br /><br />ئوقىتىڭنى يوقاتساڭ يوقات، لەۋزىڭنى يوقاتما.<br /><br />غەم ئۆمۈرنى يەيدۇ.<br />يالغان سۆز رىسقىنى.<br /><br />راستلىققا زاۋاللىق يوق.<br /><br />راست ئېيتساڭ قۇتۇلىسەن،<br />يالغان ئېيتساڭ تۇتۇلىسەن.<br /><br />سۆزۈڭ توغرا بولسا، يۈزۈڭ يورۇق بولار.<br /><br />تىلىڭنى تۈز تۇت چىشىڭ سۇنمىسۇن،<br />خالايىق قاراپ ساڭا كۈلمىسۇن.<br /><br />ئاغزى يۇمشاق موزاي ئون ئىنەكنى ئىمەر.<br /><br />بېشىڭ نەدىن كەتتى؟<br /> — تىلىڭدىن )كەتتى(.<br /><br />پۇتى ئىتتىك ئاش تاپار،<br />ئاغزى ئىتتىك ئىش تاپار.<br /><br />تەگىسەڭ تېرىق بولار،<br />تەگىمىسەڭ ئېرىق )بولار(.<br /><br />ئېغىزنى گەپكە ئۆگەتمەڭ،<br />قوڭنى ئۇسۇرۇققا )ئۆگەتمەڭ(.<br /><br />بىر ئاچقانغا سۆزلىمە،<br />بىر ھارغانغا )سۆزلىمە(.<br /><br />گەپ قوغلىغان كىشى ئىت قوغلىغان بىلەن باراۋەر.<br /><br />گاس دەپ غەيۋەت قىلما،<br />قارىغۇ دەپ خىيانەت )قىلما(.<br /><br />غەيۋەتخورنىڭ تىلىنى كەس،<br />ئاڭلىغۇچىنىڭ قۇلىقىنى )كەس(.<br /><br />كۈلمە كىشىنىڭ دەردىگە،<br />ئۆزۈڭگە كېلەر ئەتىگە.<br /><br />كىشىگە كۈلمە، ئۆزۈڭ يىغلايسەن.<br /><br />قوشناڭ يىغلىسا سەن كۈلمە.<br /><br />تولا كۈلكە يىغلىتىدۇ.<br /><br />كەپسىز، كەپتەر پوقى يەپسىز.<br /><br />ياخشىلىق قىلىۋەرسەڭ نامىڭ چىقار،<br />يامانلىق قىلىۋەرسەڭ جېنىڭ )چىقار(.<br /><br />ياخشى بلساڭ ئېشىڭنى يەرسەن،<br />يامان بولساڭ بېشىڭنى )يەرسەن(.<br /><br />يامان ئاتاق بىلەن يۈرگەندىن،<br />ياخشى ئاتاق بىلەن ئۆلگەن ياخشى.<br /><br />ياخشى بولساڭ يولداش،<br />ھەر ئىشىڭغا ھەممە قولداش.<br /><br />خۇش پۇراق گۈل تەننىڭ دەۋاسى،<br />ياخشى ئادەم ئەلنىڭ ناۋاسى.<br /><br />ياماننىڭ ياخشىسى بولغۇچە، ياخشىنىڭ يامىنى بول،<br />قارىمۇقنىڭ دانىسى بولغۇچە، بۇغداينىڭ سامىنى بول.<br /><br />ياخشى ئىت ئۆلۈكىنى كۆرسەتمەس.<br /><br />ياخشىدىن ئۆچ ئالساڭ دۈشمىنىڭ كۈلەر.<br /><br />ياخشىدىن ئۈلگە قالىدۇ،<br />ياماندىن كۈلكە )قالىدۇ(.<br /><br />ياخشىنىڭ ئىزى قالىدۇ،<br />ياماننىڭ مېزى )قالىدۇ(.<br /><br />ئەرنىڭ ئىچىگە ئالەم پاتار،<br /><br />كەڭ بولساڭ، كەم بولمايسەن.<br /><br />كۆڭۈلنى كەڭ تۇتساڭ بىر ساپ ئۈزۈم قىرىق بىر كىشىگە يېتەر.<br /><br />ئالدىڭغا كەلسە، ئاتاڭنىڭ خۇنىدىن كەچ.<br /><br />دۈشمىنىڭگە ئۆلۈم تىلىگىچە، ئۆزۈڭگە ئۆمۈر تىلە.<br /><br />ئىنتىقامنى ئۆزۈڭ ئالساڭ ھالاك بولارسەن،<br />ئىنتىقامنى خۇداغا قويساڭ ئامان قالارسەن.<br /><br />كىشىگە قىلغان كىشىدە قالماپتۇ.<br /><br />مېھماننى ئىشقا بۇيرۇما،<br />ھاجەتمەننى قۇرۇق قول ياندۇرما.<br /><br />نامەردنىڭ سۈيىنى ئىچكىچە، مەردنىڭ قاچىسىنى يۇ.<br /><br />سېخىنى جەننەتتە كۆر،<br />مەردنى مەيداندا )كۆر(.<br /><br />نومۇس ئۆلۈمدىن قاتتىق.<br /><br />قول سۇنسا يەڭ ئىچىدە،<br />باش يېرىلسا بۆك ئىچىدە.<br /><br />ئاقىل بولساڭ نەزەر سالما پارىغا،<br />پارا بىلەن يۈزۈڭنى بويىما قارىغا.<br /><br />خىيانەتلىك دۆلەتتىن قاچ،<br />قانائەتچان سۆلەتتىن )قاچ(.<br /><br />ئادىل بولساڭ ئادەم بولىسەن.<br /><br />ئوغرى بولساڭ ئىنساب بىلەن بول،<br />قازاننى ئالساڭ چۆمۈچنى قوي.<br /><br />قانائەتلىكنىڭ قارنى توق.<br /><br />كۆزى توقنىڭ قارنى توق.<br /><br />ئادەمنى ئادەمگە يات قىلغان كېبىر،<br />ئادەمنى قەدەمدە مات قىلغان كېبىر.<br /><br />كۆكنى كۆرۈپ كۆكسۈڭنى كەرمە.<br /><br />ماختانچاقتىن ئەل قاچار.<br /><br />چاپىنى مۇسۇلمان،<br />سايىسىغا غادايغان.<br /><br />ئۆزىنى چوڭ تۇتقانچە ئابرويى چۈشەر،<br />ئۆزىنى تۆۋەن تۇتقانچە كۆڭلى كۆتۈرۈلەر.<br /><br />ئۆزىنى بىلىملىك چاغلىسا، پاشىنىڭ قولىدا دەرس ئوقۇيدۇ.<br /><br />ھالىڭغا بېقىپ ھال تات،<br />خالتاڭغا بېقىپ ئۇن )تات(.<br /><br />گۇمان — ئىماننى قاچۇرىدۇ.<br /><br />يارىماس گەپنى تىلىڭدىن كۆرمەي دىلىڭدىن كۆر.<br /><br />دىلى پاكنىڭ ئىشى پاك.<br /><br />سۆزى مايماقنىڭ دىلى مايماق.<br /><br />ئاق بولمىسىمۇ پاك بولسۇن.<br /><br />ئادەمنىڭ بويىغا قارىغۇچە، خۇيىغا قارا.<br /><br />كىشىنىڭ كىيىمىگە قارىماي قەلبىگە قارا.<br /><br />ئىمانىڭ بولمىسىمۇ، ئىنسابىڭ بولسۇن.<br /><br />نىيىتىڭ پاك بولسا، ھۆرمىتىڭ چوڭ بولار.<br /><br />ئۆزۈڭنى بىل، ئۆزگىنى قوي،<br />كۆتۈڭنى قىس، يولۇڭغا ماڭ.<br /><br />دوستۇڭنى سورىغىچە، ئۆزۈڭنى سورا.<br /><br />ئۆزىنى ئايىغان سۇلتان،<br />ئايىمىغان ئۇلتاڭ.<br /><br />مانتا كۆرمىگەن قەلەندەر قاسقانغا دۈم چۈشۈپتۇ.<br /><br />بېخىل ئالغاننى ئۇنتار،<br />سېخىي بەرگەننى )ئۇنتار(.<br /><br />سېخىي تاپسا بېرىپ يەر،<br />بېخىل تاپسا ئۆلۈپ )يەر(.<br /><br />بېخىلنىڭ بېغى كۆكەرمەس،<br />كۆكەرسىمۇ مېۋە بەرمەس.<br /><br />كىشىگە بەرسەم ئىسىت ئېشىم،<br />ئۆيگە قوپسام سېسىق ئېشىم.<br /><br />بېخىل سىقىپ يالايدۇ،<br />تاماخور ئىشىك مارايدۇ.<br /><br />ھەسەتخوردا كۆز يوق،<br />قەسەمخوردا يۈز )يوق(.<br /><br />قەسەمخورنىڭ يۈزىدە قېنى بولماس.<br /><br />باخشىنىڭ كۈنى داپ بىلەن،<br />يالغانچىنىڭ ئۆتەر لاپ بىلەن.<br /><br />يالغانچىنىڭ ئۆيىگە ئوغرى كىرسە، ئىشىنىدىغان ئادەم تېپىلماس.<br /><br />قورقۇنچاق بار يەردە شەرمەندىچىلىك بار.<br /><br />ئىشتانسىزنىڭ گېپى چوڭ،<br />ئاشلىقى يوقنىڭ چارىكى )چوڭ(.<br /><br />ئىچى ياماننىڭ ئېشىنى ئىت ئىچىدۇ.<br /><br />بار بولسا كۆرەلمەيدۇ،<br />يوق بولسا چىدالمايدۇ.<br /><br />نىيىتى ياماننىڭ قازىنى تۆشۈك.<br /><br />كۆڭلى قارىنىڭ يۈزى قارا.<br /><br />كۆزى كىچىكتىن كۆڭلى تار يامان.<br /><br />ئىچى تارنىڭ گۆرى تار.<br /><br />ئىچى تارغا دۇنيامۇ تار كېلەر.<br /><br />دىلى بۇزۇق باشقىلاردىن ئەيىب ئىزلەر.<br /><br />دىلى زەھەرنىڭ قۇلىمۇ زەھەر.<br /><br />ياخشىغا بەرسەڭ نېپى تېگەر،<br />يامانغا بەرسەڭ گېپى )تېگەر(.<br /><br />كىشىنىڭكىنى بۇلاپ يەپتۇ،<br />ئۆزىنىڭكىنى سىقىپ يالاپتۇ.<br /><br />بېخىلنىڭ بىر تاۋاق ئېشى قىرىق يىلغىچە ئېغىز كۆيدۈرەر.<br /><br />ئامانەتكە خىيانەت.<br /><br />سەن تاتۇق، مەن تاتۇق،<br />قېرىغاندا قىرىق تاتۇق،<br />قىلىقلىرى ئاندىن ئارتۇق.<br /><br />خۇدايىم بەرسە، پەيغەمبەر غىڭ قىلالماپتۇ.<br /><br />ھورۇننىڭ ئەتىسى تۈگىمەس،<br />تاماخورنىڭ پەتىسى )تۈگىمەس(.<br /><br />ئادەمنىڭ ھورۇنى تاماقنى كۆپ يەيدۇ،<br />ھايۋاننىڭ ھورۇنى تاياقنى )كۆپ يەيدۇ(.<br /><br />يۇندىسىنى ئىت كۆرمەپتۇ،<br />تۈتۈنىنى بۇلۇت )كۆرمەپتۇ(.<br /><br />ئالسام - بەرمىسەم.<br /><br />ئالغىچە سۆزىنى كۆرۈڭ،<br />بەرگىچە كۆزىنى )كۆرۈڭ(.<br /><br />ئاۋىلىدا مېنىڭ ئىدى،<br />سورىۋىدىم دورا بولدى.<br /><br />ئەجەب داڭلايسەن ئەنجاننى،<br />باقالمايسەن بىر جاننى.<br /><br />ئوتتۇز كۈن روزا تۇرۇپ، پوق بىلەن ئېغىزلىنىپتۇ.<br /><br />ئوتتۇز كۈن تەرەت ئېلىپ، بىر كۈندىلا سۇندۇرۇپتۇ.<br /><br />تېزىنى باسسا مېزى چىقىپتۇ.<br /><br />تىرناق ئارىسىدىن كىر ئىزدەپتۇ.<br /><br />مەھەللىگە ئوت كەتسە، دۆڭگە چىقىپ تاماشا  كۆرۈپتۇ.<br /><br />ھورۇن ھەممىدىن بىزار،<br />ھەممىدىن ھۇرۇندىن بىزار.<br /><br />ھۆپۈپنىڭ تۇمشۇقى ئۇزۇن،<br />سېغىزخاننىڭ قۇيرۇقى )ئۇزۇن(.<br /><br />كۆز كۆزنى كۆرمەيدۇ،<br />ئادەم ئۆزىنى )كۆرمەيدۇ(.<br /><br />يىقىلغان چېلىشقا تويماس،<br />بەدنىيەت خۇيىنى قويماس.<br /><br />ئاتتىن چۈشسە، ئۈزەڭگىدىن چۈشمەپتۇ.<br /><br />ئىتقا ئۇيات كىرسە ئۇلتاڭ يېمەس.<br /><br />ئاچ كۆزنىڭ قارنى بەشتۇر،<br />بىرى دائىم بوشتۇر.<br /><br />گىرىنى بازار ئوڭلايدۇ،<br />تويماسنى مازار )ئوڭلايدۇ(.<br /><br />ئۆزى تويسا كۆزى تويماپتۇ.<br /><br />تويماس كۆزنى گۆرنىڭ توپىسى تويغۇزار.<br /><br />يەپ تويمىغان يالاپ تويماس.<br /><br />بېخىلنىڭ پوقىغىمۇ بېگىز ئۆتمەس.<br /><br />تاشتىن سۇ چىقارغان بېخىل.<br /><br />بېخىلدىن پۇل ئالماق، پېتىر ناندىن قىل ئالماق.<br /><br />ئەخمەق ئاينىماس،<br />ئوغرى بېيىماس.<br /><br />رودىياي ئەمەل تۇتسا، ئېغىلغا زەدىۋال تارتىدۇ.<br /><br />يامانغا يان تاياق بوپتۇ.<br /><br />بىر كۈن يامغۇردا قالسا ھەپتە چۈشكۈرۈپتۇ.<br /><br />خۇدايىم بەرسە پەيغەمبەر قىزغىنىپتۇ.<br /><br />ئۇسۇرغاققا ئارپا نېنى باھانە.<br /><br />كۆردى قارامنى،<br />تۇتتى ياقامنى.<br /><br />&gt;ئەسسالام&lt; دېسە، &gt;بەش تەڭگەمنى بېرىڭ&lt; دەپتۇ.<br /><br />ئىچى بوش تۇڭ داراڭلايدۇ.<br /><br />ئورۇق ئۇينىڭ پوقى چوڭ.<br /><br />يۇرتىغا پاتىمىغان ھېچيەرگە پاتماس.<br /><br />ئۆزگە كېلىدىغان گەپنى چاغلىماق تەس،<br />جايىدا تەلىم بەرسە پايلىماق تەس.<br /><br /><br /><br />باي بولساڭ، نامراتنىڭ غېمىنى ئويلا.<br /><br />باي پۇل - مېلىغا سۆيۈنەر،<br />نامرات ئىككى قولىغا )سۆيۈنەر(.<br /><br />بەغەرەزدىن بەخت قېچىپتۇ.<br /><br />ياۋاشنىڭ ئايىغىدا قۇرت ئۆلمەس.<br /><br />پاسا ئوتىنىڭ چوغى چوڭ،<br />قوڭى ئوچۇقنىڭ گېپى چوڭ.<br /><br />قاغىنىڭ ئېقى يوق،<br />ياخشىلىقنىڭ چېكى )يوق(.<br /><br />موللا ئېلىشنى بىلەر، بېرىشنى بىلمەس.<br /><br />تۇرقى ئىنسان، خۇلقى ھايۋان.<br /><br />ھايۋاننىڭ ئالىسى تېشىدا،<br />ئادەمنىڭ ئالىسى ئىچىدە.<br /><br />ئەسكى ئۆزىنى بىلمەس،<br />ياخشىنى كۆزگە ئىلمەس.<br /><br />ياخشى سۆز تاشنى يارار،<br />يامان سۆز باشنى )يارار(.<br /><br />بەدنىيەتنىڭ خۇيىنى تاشلىيالماس.<br /><br />نىيىتى ياماننىڭ قازىنى تۆشۈك.<br /><br />قىيسىققا كەمسىتىپ قارىما، كۆزۈڭگە قادىلار.<br /><br />ئادەم گۈزەل ئەخلاق بىلەن،<br />گۈل گۈزەل ياپراق بىلەن.<br /><br />ئوتۇننىڭ ئەسكىسى كەندىر شېخىيدان،<br />ئادەمنىڭ ئەسكىسى بەڭگى يېغىيدان.<br /><br />ئۆزى بېسىق، گېپى سېسىق.<br /><br />سۆزنىڭ ئوبدىنى ئۇتتۇ،<br />سۆزنىڭ ئەسكىسى كۇتتۇ.<br /><br />ئەجرىسىز مېۋە بولماس،<br />پالاقسىز كېمە )بولماس(.<br /><br />ئادەمنىڭ سۆزىگە باقماي، ئۆزىگە باق.<br /><br />ئادەمنىڭ تېشىغا قارىماي ئىشىغا قارا.<br /><br />سۆزى تولا، ئىناۋىتى ئاز.<br /><br />ئوچۇق كۆڭۈل — سۈزۈك سۇ.<br /><br />ئىشچاننىڭ مىننىتى يوق،<br />بېخىلنىڭ ھىممىتى يوق.<br /><br />پېشىڭ ئۇزارسا پۇتلاشقىنىڭ شۇ،<br />گېپىڭ ئۇزارسا دۆتلەشكىنىڭ شۇ.<br /><br />تەكەببۇر كىشى — قومۇش پۆپىكى،<br />كەمتەر كىشى — ئالتۇن كېپىكى.<br /><br />چىرايىڭ چوقۇر بولسا مەيلىكى، ئىچىڭ قوتۇر بولمىسۇن.<br /><br />يۈزۈڭ مەينەت بولسا ئەينەكنى چاقما،<br />سۆزۈڭ مەينەت بولسا ئېڭەكنى چاقما.<br /><br />ئادەم ئەتكەنگە تەزىم ئەت.<br /><br />ھايالىق كىشى ھۆرمەتلىك كىشى، <br />ھاياسىز كىشى ئاقماستۇر ئىشى.<br /><br />ئىشىكنى ئېچىڭ دېسە مورىنى يىقىتىپتۇ.<br /><br />ئۇچرىمىغانغا سالام قىلماڭ،<br />سورىمىغانغا جاۋاب )قىلماڭ(.<br /><br />كۆزى يوغاننىڭ سەتى يوق،<br />ئېغىزى يوغاننىڭ ئۇزى )يوق(.<br /><br />توزغا كۆنگەن ئىت قوپاغا ئاستىدا ئۆلۈپتۇ.<br /><br />بولسا كىشى كۆرەلمەس،<br />كۆڭلى خۇشال يۈرەلمەس.<br /><br />باراڭسىز پىلەكتە دوناي قاپاق چۈشۈپتۇ.<br /><br />ئادەمنىڭ سەتى يۈزىنى يۆگەيدۇ،<br />ئېشەكنىڭ ئەسكىسى يولدا ئۈركۈيدۇ.<br /><br />سەۋرى قىلساڭ غورىدىن ھالۋا پۈتەر.<br /><br />ئېشىكى ئۆلۈۋاتسا، كۆتى غىجەك تارتىپتۇ.<br /><br />يامانلىق قىلغان ئادەمگە ياخشىلىق بىلەن ئىزا قىل.<br /><br />بىر پۇللۇق ئۇسۇرۇق،<br />مىڭ تەڭگىلىك بۇرنۇمنى يوقاتتى.<br /><br />چىتىك ئاتماڭ چوڭغا،<br />ئېلىپ ئۇرار توڭغا.<br /><br />چاپىنى يىرتىقنى پىت تونۇر،<br />دىنى قىقنى ئىت تونۇر.<br /><br />ياخشىغا بەرسەڭ كېتەر،<br />يامانغا بەرسەڭ كۆنەر.<br /><br />يامغان ياغ ياراشماس،<br />مۈشۈككە يۇمغاقسۈت.<br /><br />ياۋاش بولسا بوش دېمەڭ،<br />يۇمشاق بولسا گۆش دېمەڭ.<br /><br />ياخشى ئۆلسە ھەممە ئۆلەر،<br />يامان ئۆلسە بىرى ئۆلەر.<br /><br />غېرىبنىڭ بېشىنى سىلىغان بەگ بولۇر.<br /><br />ياخشىنىڭ گېپى جەننەت.<br /><br />ياخشىلىقنى كىم قىلسا جاندىن،<br />خۇدا بەرگەي ئەجرىنى باياۋاندىن.<br /><br />كەمتەر بولساڭ ئۇتارسەن،<br />مەغرۇر بولساڭ غۇلارسەن.<br /><br />ئالاي دېسەڭ ئاۋۋال بەر.<br /><br />كەمتەر كامال تاپار،<br />بەدنىيەت زاۋال تاپار.<br /><br />ئەگرى كىشى ئازىدۇ،<br />توغرا كىشى ئۇزايدۇ.<br /><br />يالغانچىنىڭ رىسقى قىسقا، ئۆمرى كۆتەي.<br /><br />ئادەم بولمىساڭ ئەخلاقىڭ بىلەن،<br />ئەخمەق بولىسەن ساقىلىڭ بىلەن.<br /><br />ياخشى ئات ئېغىلغا يۈرەر،<br />يامان ئات چېقىلغا يۈرەر.<br /><br />بولۇشلۇقنىڭ پوقىدىن مەلۇم.<br /><br />يول قويغاننىڭ تىلى بار،<br />يول قويمىغاننىڭ تىلى يوق.<br /><br />بىر موچەنلىك بۇرنى يوق،<br />بىر كويلۇق ئالمىنى ئېلىپ پۇراپتۇ.<br /><br />مۇلايىملىق ئاجىزلىقتىن كەلمەيدۇ،<br />ئېغىر - بېسىقلىق دۆتلۈكتىن كەلمەيدۇ.<br /><br />ياخشى ئاتقا بىر قامچا،<br />يامان ئاتقا مىڭ قامچا.<br /><br />ئابروينى ئالتۇنغا ئال، جاننى كېپەككە سات.<br /><br />سىنالغان ياخشىدىن جاپا كەلمەس،<br />ئەسكىدىن ۋاپا )كەلمەس(.<br /><br />كۆرپە سېلىش ھۆرمەت،<br />داستىخان سېلىش ھىممەت.<br /><br />خاتالاشقان ئانىدىن رەھىمسىز بالا بالا تۇغۇلىدۇ.<br /><br />ياتقان ئىتقا تاش ئاتما،<br />ناتونۇش ئايالغا قاش ئاتما.<br /><br />قىرىق يىل باققان ئېشەك ئىگىسىنى تونۇماس.<br /><br />ئايىغىڭ تېز بولسا سۇلتان بولارسەن،<br />تىلىڭ تېز بولسا ئۇلتان بولارسەن.<br /><br />ئايىغى يۈگۈرۈك ئاشقا ئۈلگۈرەر،<br />تىلى يۈگۈرۈك مۇشقا ئۈلگۈرەر.<br /><br />ئاتتىن چۈشسىمۇ ئىگەردىن چۈشمەپتۇ.<br /><br />قەشقەردىن كەلگەن لىڭغىرچاق، ئۈچ كۈنگىچە غىچىرلاپتۇ.<br /><br />ماختانغان قىز تويدا ئۇسۇرۇپتۇ.<br /><br />موللىمەنۇ، موللىمەن،<br />موللىنى كۆرگەندە يولدا مەن.<br /><br />ئادەم ئىللەتسىز بولماس.<br /><br />توخۇدا چىش يوق،<br />بىكاردا ئىش يوق.<br /><br />كەپتەرنىڭ ئەسكىسى گور،<br />ئېشەكنىڭ ئەسكىسى سۈر.<br /><br />ئاتنىڭ ئەسكىسى جەدى،<br />ئادەمنىڭ ئەسكىسى بەدى.<br /><br />خوتۇنىنىڭ ئىشتىنىدا ناماز ئۆتەپتۇ.<br /><br />ئادەمنىڭ ئادەمدىن پەرقى بار،<br />چەكمەننىڭ ماتادىن پەرقى بار.<br /><br /><br />ئەمگەكنىڭ نېنى تاتلىق،<br />ھورۇننىڭ جېنى تاتلىق.<br /><br />غەرەز بىلمىگەندىن دوزاخ قاچىدۇ.<br /><br />كاتتىباشتىن تەخسىكەش يامان.<br /><br />ئاز يەپ كۆپ چاينا،<br />ئاز سۆزلەپ كۆپ ئاڭلا.<br /><br />ئەخلاقى بۇزۇققا چايان دوست.<br /><br />غەمسىزلىك — پەمسىزلىك.<br /><br />نىيىتى يامان ئەيىب ئىزدەر.<br /><br />ئاچچىقنىڭ دورىسى — سەۋرە.<br /><br />تاقەت بولسا مالامەت بولماس.<br /><br />ياخشى ئىدىم — يامان بولدۇم<br />ئارپا كۆزلەپ سامان بولدۇم.<br /><br />ئىچى ياماننىڭ كۆڭلى خۇش بولماس.<br /><br />ئەقىلسىزنىڭ دېتى يوق،<br />تىڭشىغۇدەك گېپى يوق.<br /><br />يۈزى قېلىندا نومۇس نەدە؟<br /><br />يەتتە ئويلاپ بىر كەس.<br /><br />ئوغرىنىڭ يۈرىكى پوك - پوك.<br />نېمىدىن چىۋەكىسە، شۇ بولۇپتۇ.<br /><br />ھايا يوق يەردە ئىمان يوق.<br />كۈندۈزى ماڭغان چاشقاننىڭ ئۆمرى كۆتە،<br />كېچىسى ماڭغان ئەرنىڭ )ئۆمرى كۆتە(.<br />ئادەمگە ئەدەب ياخشى،<br />ھايۋانغا ھەلەپ )ياخشى(.<br />يولدا ماڭدى ئىككى مەست،<br />نەگە بارا نەگىمەست.<br />تۇزغا كۆنگەن ئىت، قوپاغۇنىڭ ئاستىدا ئۆلەر.<br />ساراڭ بىلەن مەستكە گەپ قىلماڭ.<br />تۆگە ئوغرىلىغانمۇ ئوغرى،<br />يىڭنە ئوغرىلىغانمۇ ئوغرى.<br />موزاينى كالام دېمەڭ،<br />بەڭگىنى بالام )دېمەڭ(.<br />پاشىنىڭ قوڭى يوق،<br />بەڭگىنىڭ ئوڭى )يوق(.<br />باخشىنى بالم دېمەڭ،<br />بۇقىنى كالام )دېمە(.<br />بۇقىنى كالام دېمەڭ،<br />بەڭگىنى بالام )دېمەڭ(.<br />ئوغرىلىق قىلساڭ تۇتۇۋالىدۇ،<br />قىمار ئوينىساڭ ئۇتۇۋالىدۇ.<br />ئوغرى تۇتۇلار،<br />قىمارۋاز ئۇتۇلار.<br />ئېشەك قېرىسا ھاللازچى بولۇر،<br />جالاپ قېرىسا نامازچى )بولۇر(<br />خىزمەتچىنىڭ ھارغىنى ساقچى بولۇر،<br />جالاپنىڭ ھارغىنى بەشۋاقچى )بولۇر(.<br />ئوغرى گۇمانخور كېلۇر،<br />تاز مۇتىھەم )كېلۇر(.<br />بەڭگە قەلەندەر كېلۇر،<br />ئوغرى قىمارۋاز )كېلۇر(.<br />داپ داراڭلىغان، ئېشەك ھاڭرىغان يەردە يۈرۈپتۇ.<br />كۆرسە ئويۇن،<br />كۆرمىسە قويۇن.<br />قاراقچى خالى يەردە ئالار،<br />يانچۇقى چۇغادا )ئالار(.<br />ئاتالمىغاننىڭ ئوقى ئالتە غۇلاچ كېتەر.<br />تۆگە ئوغرىلىغانمۇ ئوغرى،<br />تۈگمە ئوغرىلىغانمۇ ئوغرى.<br />بۇ يەردە ئوغرى يوق،<br />ھېلى قويغان نەرسە ھېلى يوق.<br />بۆرىسى يوق جاڭگال بولماس،<br />ئوغرىسى يوق يۇرت )بولماس(.<br />ئېغرى تۇتساڭ مېلى بىلەن تۇت،<br />زىناخورنى جۈپتى بىلەن )تۇت(.<br /><br /><br />ئات ھارۋاڭ كەتسىمۇ كەتسۇن لىڭشىڭ (لىڭشىڭ — نوختا بېغى) كەتمىسۇن،<br />مىڭ سەر كەتسىمۇ مىڭ شىڭ كەتمىسۇن.<br /><br />ئات ھارۋاڭ كەتسىمۇ كەتسۇن،<br />غازاڭنى چالا قاق.<br /><br />ئاشقان - تاشقان بارات تازنىڭ،<br />كۆلدە پاتقاق ئاخماق غازنىڭ.<br /><br />ئاچچىق ئەقىلنى كېسىدۇ.<br /><br />ئادەمگە ئەقىل كېرەك،<br />پاتقاققا شېغىل )كېرەك(.<br /><br />ئالدىراپ كېتىپ دۆڭگە مۆكۈپتۇ،<br />كۆرپىنى دەپ يوتقان سۆكۈپتۇ.<br /><br />ئادەم بولمىساڭ ئەقلىڭ بىلەن،<br />ئەخمەق بولىسەن ساقىلىڭ بىلەن.<br /><br />ئالدىرىغانغا لەببەت تېپىلماس،<br /><br />ئالدىراقسانلىق شەيتانلىق،<br />سالماقلىق — رەھمانلىق.<br /><br />ئەقىل ئۆزىنى ئايايدۇ.<br /><br />ئالدىرىغان ئاتىسىنىڭ ئىسمىنى ئۇنتۇپتۇ.<br /><br />ئالدىرىغان ئەر خوتۇنىغا تازىم قىپتۇ.<br /><br /><br />ئەقىللىق ئويلىماي ئىش قىلماس.<br /><br />ئەخمەقنى ناماز ئوقۇ دېسە پېشانىسىنى يېرىۋاپتۇ.<br /><br />ئەقىل بولمىسا كۆز دېگەن تامنىڭ تۆشۈكى.<br /><br />ئەقىل ياشتا ئەمەس باشتا.<br /><br />ئەقىللىقنىڭ ئېتى ھارماس، تونى توزىماس.<br /><br />ئەقىللىق ئۆزىنى ئەيىبلەر،<br />ئەقىلسىز ئۆزگىنى )ئەيىبلەر(.<br /><br />ئەرنىڭ سۆزى ئۆلگىچە، ئۆزى ئۆلسۇن.<br /><br />ئەقىللىق ئېتىنى ماختايدۇ،<br />ئەخمەق خوتۇنىنى )ماختايدۇ(.<br /><br />ئەقىلسىز باشنىڭ دەردىنى پۇت تارتىدۇ.<br /><br />باتۇرلۇق بىلەن بۆرە تۇت،<br />ئەقلىڭ بىلەن تۈلكە )تۇت(.<br /><br />بالا قۇش ئۇچۇشنى بىلىپ قونۇشنى بىلمەس.<br /><br />بۆك ئال دېسە، باش كېسىپتۇ.<br /><br />بىلىم بىلگۈچىدە،<br />ئەقىل سۆزلىگۈچىدە.<br /><br />بىر مىسقال دۆلەتنى كۆتۈرۈش ئۈچۈن، مىڭ مىسقال تەمكىنلىك كېرەك.<br /><br />بىر قولۇڭغا ئوت ئالساڭ،<br />بىر قولۇڭغا سۇ ئال.<br /><br />پۇشايمان پايدا بەرمەس،<br />پەتىسى يوق چېلىشقاقنىڭ دۈمبىسى يەرگە تېگىدۇ.<br /><br />پۇلۇڭغا ئىشەنمە،<br />ئەقلىڭگە ئىشەن.<br /><br />پۇچۇق قوشۇق،<br />ئۆزىگە چۇشلۇق.<br /><br />پۇل تاپقۇچە، ئەقىل تاپ.<br /><br />پىتنىڭ ئاچچىقىدا چاپاننى ئوتقا ساپتۇ.<br /><br />تازنىڭ ئەقلى چۈشتىن كېيىن.<br /><br />تەدبىرىڭ قانداق بولسا،<br />تەقدىرىڭ شۇنداق بولار.<br /><br />تۆگە مىنپ تۆگە ئىزلەپتۇ.<br /><br />تۆگىنى ئۇسسۇلغا سالسا، يەتتە چۆنەك قوغۇننى بۇزار.<br /><br />تۆگىدەك بويۇڭ بولغۇچە،<br />تۈگمىدەك ئەقلىڭ بولسۇن.<br /><br />تۆگە يوغان بولسىمۇ شوينىدا باغلايدۇ،<br />خاۋازا كىچىك بولسىمۇ زەنجىردە )باغلايدۇ(.<br /><br />تەسۋىنىڭ يىپى بولىدۇ،<br />ھەر ئىشنىڭ ئېپى )بولىدۇ(.<br /><br />تەلۋە تەپسە زەنجىرنى ئۈزەر.<br /><br />چاپىقىنى ئالىمەن دەپ قارىغۇ قىپتۇ.<br /><br />چوڭنىڭ ئەقلى چوڭ بولۇر،<br />قىلغان ئىشى ئوڭ )بولۇر(.<br /><br />چۈشمەك ئاسان، چىقماق تەس.<br /><br />چېچەن يىگىت، يىگننىڭ گۆش يېگىنىنى تۇيار.<br /><br />خۇدا ئۇرىمەن دېسە، ئاۋۋال ئەقلىنى ئۇرىدۇ.<br /><br />دۈمبىسى قىچىشسا، مەيدىسىنى تاتلاپتۇ.<br /><br />زېرەك تېپىپ تېپىپ سۆزلەيدۇ،<br />ئەخمەق كۆپۈپ )سۆزلەيدۇ(.<br /><br />زېرەكنىڭ جېنى چىقسا، ناداننىڭ كۈلگىسى كېرەك.<br /><br />سەۋەب قىلساڭ زاۋال يوق،<br />قىلالمىساڭ ئامال )يوق(.<br /><br />سۇنى كۆرمەي ئۆتۈكنى سالما.<br /><br />سۇغا بېرىپ، چېلەكنى ئۇنتۇپتۇ.<br /><br />غەمسىزنىڭ پاراسىتى يوق،<br />پەمسىزنىڭ پاراغىتى )يوق(.<br /><br />قۇشنى يەم بىلەن ئۆگەت،<br />ئادەمنى پەم بىلەن )ئۆگەت(.<br /><br />قاسساپقا پۇل برىپ، ناۋايغا قاراپتۇ.<br /><br />قوتۇر كالىنىڭ پوقى چوڭ،<br />كارغا يارىماسنىڭ گېپى )چوڭ(.<br /><br />قۇرۇق چاقماقتىن ئوت چىقىرىپتۇ.<br /><br />كەمچىلىكنى بىلگەن ئەقىللىق كىشى، <br />ماختىنىپ يۈرگەن ئەخمەقنىڭ ئىشى.<br /><br />كاللا دېسە پاقالچاق دەيدۇ،<br />پىشۇرۇپ بېرەي دېسە خام يەيمەن دەيدۇ.<br /><br />كوسسا قېرىغىنىنى بىلمەس،<br />ئەخمەق ھارغىنىنى )بىلمەس(.<br /><br />كۆزگە ئىلمىغان چوماق پۇتقا ئىلىشار.<br /><br />كۆز كۆرىدۇ، ئەقىل تونۇيدۇ.<br /><br />كۆپ ئاتقان بىلەن مەرگەن بولماس،<br />كۆپ سۆزلىگەن چېچەن )بولماس(.<br /><br />كېسەك كۆتۈرۈشتىن قورقوپ، كاڭمازا كۆتۈرۈپتۇ.<br /><br />كېيىنكى پۇشايمان،<br />ئۆزۈڭگە دۈشمەن.<br /><br />گۆھەر ياتىدۇ سايدا، <br />تونىمىساڭ نېمە پايدا.<br /><br />نەپسىڭنى تېزگىنى، ئەقلىڭنىڭ قولىدا.</div>
+		</th>
+	</tr>
+	<tr class="tr1 r_one">
+		<th style="vertical-align:bottom;padding-left:15px;border:0">
+
+		<div id="w_tpc" class="c"></div>
+
+		<div class="tipad"><span style="float:right">
+
+			<a href="javascript:scroll(0,0)"><img src="images/yellow/read/top.gif" title="يۇقىرىغا قايتىش" /></a> </span>
+			<span class="gray">Posted: 2008-02-15 20:10 |  </span>
+
+			<span><a class="s3" title="بۇ قەۋەتكە ئىنكاس قايتۇرۇش" style="cursor:pointer;" onclick="postreply('ئاپتور (Bilqut_K) نىڭ يازمىسىغا ئىنكاس قايتۇرۇش');">[ئاپتور]</a></span>
+
+		</div></th>
+	</tr></table>
+</div>
+
+<a name=a></a><a name=119></a>
+<div class="t t2" ><table cellspacing="0" cellpadding="0" width="100%" style="table-layout:fixed;border-top:0">
+	<tr class="tr1"><th style="width:20%" rowspan="2" class="r_two">
+
+		<img src="images/yellow/read/offline.gif" title="بۇ ئەزا نۆۋەتتە توردا يوق" align="absmiddle" />
+ 
+<b>laptop</b>
+<div style="margin:.3em 0 .4em .2em"></div>
+<div class="user-pic"><table style="border:0"><tr><td width="1">
+
+<img class="pic" src="images/face/none.gif" border="0" />
+
+</td><td style="vertical-align:top"><span id="sf_1"></span></td></tr></table>
+</div>
+		
+		دەرىجىسى : <font color="#555555">يېڭى ئەزا</font><br />
+		<img style="margin:.2em 0 .6em" src="images/yellow/level/8.gif" /><br />
+
+<span class="user-info2" id="showface_1">
+<span class="user-infoWrap2">
+
+<a href="profile.php?action=show&uid=40"><img src="images/yellow/read/profile.gif" title="ئاپتور ماتېرىيالىنى كۆرۈش" /></a> <img src="images/yellow/read/message.gif" title="قىسقا ئۇچۇر يوللاش" onclick="sendmsg('pw_ajax.php?action=msg&touid=40','','sf_1')" style="cursor:pointer"  /><img onclick="addfriend('40')" style="cursor:pointer" src="images/yellow/read/friends.gif" title="دوستقا قوشۇش" />
+
+<br />
+نادىر يازمىلار : 
+
+		<span class="s4">0</span>
+<br />
+يوللىغان تېما : <span class="s1 f9">7</span><br />
+شۆھرىتى: <span class="s2 f9">7 نومۇر</span><br />
+تەڭگىسى : <span class="s3 f9">40 تەڭگە </span><br />
+
+		تۆھپە: <span class="s1 f9">0 نومۇر</span><br />
+
+		<span class="gray">تىزىملاتقان ۋاقتى : 2008-03-09<br />
+		ئاخىرقى كىرگىنى : 2008-03-15 </span>
+		</span></span>
+		</th>
+		<th height="100%" class="r_one" valign="top" id="td_119" style="padding:5px 15px 0 15px; border:0;width:80%; overflow:hidden">
+			<div class="tiptop">
+			<span class="fr"><a style="cursor:pointer" onclick="fontsize('small','119')">كىچىك</a> <a style="cursor:pointer" onclick="fontsize('middle','119')">نورمال</a> <a style="cursor:pointer" onclick="fontsize('big','119')">چوڭ</a></span>
+			<a onclick="sendurl(event,'action=quote&fid=85&tid=1300&pid=119&article=1',this.id)" id="quote_119" style="cursor:pointer"><img src="images/yellow/read/quote.gif" title="بۇ يازمىنى نەقىل ئېلىش" /></a> <a style="cursor:pointer" id="recommend_119" onclick="sendmsg('pw_ajax.php?action=recommend&tid=1300','',this.id)"><img src="images/yellow/read/emailto.gif" title="بۇ يازمىنى تەۋسىيە قىلىش" /></a> <a id="modify_119" onclick="sendurl(event,'action=modify&fid=85&tid=1300&pid=119&article=1',this.id)" style="cursor:pointer"><img src="images/yellow/read/edit.gif" /></a>
+
+			<a href="read.php?tid=1300&uid=40" title="پەقەت بۇ ئاپتورنىڭلا بارلىق ئىنكاسلىرى كۆرسىتىلسۇن "><img src="images/yellow/read/only.png" /></a>
+
+			</div>
+			<h1 id="subject_119" class="fl1">&nbsp;</h1>
+
+			<div id="p_119" class="c"></div>
+
+			<div class="tpc_content" id="read_119">بۇلارنى لۇغەتنىڭ قوشۇمچىسىگە چىقىرىپ قويغان بولساڭلار بوپتىكەن.</div>
+		</th>
+	</tr>
+	<tr class="tr1 r_one">
+		<th style="vertical-align:bottom;padding-left:15px;border:0">
+
+		<div id="w_119" class="c"></div>
+
+		<div class="tipad"><span style="float:right">
+
+			<a href="javascript:scroll(0,0)"><img src="images/yellow/read/top.gif" title="يۇقىرىغا قايتىش" /></a> </span>
+			<span class="gray">Posted: 2008-03-14 17:06 |  </span>
+
+			<span><a class="s3" title="بۇ قەۋەتكە ئىنكاس قايتۇرۇش" style="cursor:pointer;" onclick="postreply(' 1 قەۋەتتىكى (laptop) نىڭ يازمىسىغا ئىنكاس قايتۇرۇش ');">1 -قەۋەت</a></span>
+
+		</div></th>
+	</tr></table>
+</div>
+
+</form>
+<div class="t3"><table cellspacing="0" cellpadding="0" width="100%" align="center">
+	<tr><td align="right"></td>
+		<td valign="center" align="right">
+		<a class="abtn f_two" id="readlog" onclick="sendmsg('pw_ajax.php?action=readlog','',this.id);">يازما كۆرۈلۈش خاتىرىسى<img src="images/wind/menu-down.gif" /></a>
+		<a class="abtn f_two" id="threadlog" onclick="sendmsg('pw_ajax.php','action=threadlog',this.id);">سەھىپە كۆرۈلۈش خاتىرىسى<img src="images/wind/menu-down.gif" /></a>
+		<select onchange="Fjump(this.options[this.selectedIndex].value)"><option value="" selected>سەھىپە يۆتكىلىش</option>
+<option value="1">>> بىلقۇت خەزىنىسى</option>
+<option value="2"> &nbsp;|- ئەلالاشتۇرۇش</option>
+<option value="4"> &nbsp;|- بىلقۇت خەزىنىسى ھەققىدە</option>
+<option value="160"> &nbsp;|- تەكلىپ-پىكىر بىرىڭ</option>
+<option value="5">>> ئاۋازلىق ئەسەرلەر</option>
+<option value="103"> &nbsp;|- مەسەللەر</option>
+<option value="101"> &nbsp;|- ھېكايىلەر</option>
+<option value="102"> &nbsp;|- نەسىرلەر</option>
+<option value="8"> &nbsp;|- مىڭ بىر كېچە</option>
+<option value="9"> &nbsp;|- كەلىلە ۋە دېمىنە</option>
+<option value="10"> &nbsp;|- چۆچەكلەر</option>
+<option value="11"> &nbsp;|- رىۋايەتلەر</option>
+<option value="16">>> كۈتۈپخانا</option>
+<option value="174"> &nbsp;|- ھىكمەت</option>
+<option value="175"> &nbsp;|- غارايىباتلار</option>
+<option value="177"> &nbsp;|- قان تىپى</option>
+<option value="178"> &nbsp;|- نۇتۇقلار</option>
+<option value="179"> &nbsp;|- ئۆسۈملۈكلەر</option>
+<option value="180"> &nbsp;|- كۆكتاتلار</option>
+<option value="181"> &nbsp;|- نەسىھەت</option>
+<option value="182"> &nbsp;|- مۆچەل</option>
+<option value="183"> &nbsp;|- مېۋە</option>
+<option value="184"> &nbsp;|- مايلار</option>
+<option value="171"> &nbsp;|- ھايۋاناتلار</option>
+<option value="176"> &nbsp;|- مىللەتلەر</option>
+<option value="105"> &nbsp;|- رىۋايەتلەر</option>
+<option value="172"> &nbsp;|- سۆيگۈ مەكتۇپى</option>
+<option value="185"> &nbsp;|- ئۆلچەم بىرلىكلىرى</option>
+<option value="186"> &nbsp;|- بۈگۈن</option>
+<option value="170"> &nbsp;|- مۇزىي</option>
+<option value="187"> &nbsp;|- دۇنيادىكى شەھەرلەر</option>
+<option value="188"> &nbsp;|- دۇنيادىكى كۈتۈپخانىلار</option>
+<option value="189"> &nbsp;|- تارىخ</option>
+<option value="173"> &nbsp;|- تۇرمۇش مەسلىھەتچىسى</option>
+<option value="22"> &nbsp;|- مىڭ بىر كېچە</option>
+<option value="21"> &nbsp;|- چۆچەكلەر</option>
+<option value="24"> &nbsp;|- ئەپسانىلەر</option>
+<option value="23"> &nbsp;|- كەلىلە ۋە دېمىنە</option>
+<option value="20"> &nbsp;|- ھېكايىلەر</option>
+<option value="17"> &nbsp;|- ماقالىلەر</option>
+<option value="19"> &nbsp;|- دۇنيادىكى ئەڭ</option>
+<option value="18"> &nbsp;|- ياشلار سەمىگە</option>
+<option value="85"> &nbsp;|- ماقال-تەمسىل</option>
+<option value="99"> &nbsp;|- لەتىپە-يۇمۇرلار</option>
+<option value="88"> &nbsp;|- نەسىرلەر</option>
+<option value="87"> &nbsp;|- مەسەللەر</option>
+<option value="25">>> بالىلار باغچىسى</option>
+<option value="159"> &nbsp;|- كىم ئەڭ ئەقىللىق</option>
+<option value="26"> &nbsp;|- بالىلار چۆچەكلىرى</option>
+<option value="27"> &nbsp;|- قىزىقارلىق ئويۇنلار</option>
+<option value="28"> &nbsp;|- قىزىقارلىق كارتونلار</option>
+<option value="29"> &nbsp;|- يۈزمىڭلىغان نىمە ئۈچۈن؟</option>
+<option value="97"> &nbsp;|- بالىلار ھېكايىسى</option>
+<option value="98"> &nbsp;|- ئانا-بالىلار ساغلاملىق ساۋاتلىرى</option>
+<option value="30">>> بىز</option>
+<option value="150"> &nbsp;|- ئۇيغۇر كارخانچىللىرى</option>
+<option value="151"> &nbsp;|- ئۇيغۇر كارخانىلىرى</option>
+<option value="152"> &nbsp;|- ئۇيغۇر مەھسۇلاتلىرى</option>
+<option value="153"> &nbsp;|- ئۇيغۇر پاتنېتلىرى</option>
+<option value="154"> &nbsp;|- ئۇيغۇر دوكتۇرلىرى</option>
+<option value="155"> &nbsp;|- ئۇيغۇر كەشپىياتلىرى</option>
+<option value="157"> &nbsp;|- ئۇيغۇرساياھەتچىلىكى</option>
+<option value="32"> &nbsp;|- تائاملىرىمىز</option>
+<option value="33"> &nbsp;|- شەخىسلىرىمىز</option>
+<option value="35"> &nbsp;|- ئويۇنلىرىمىز</option>
+<option value="34"> &nbsp;|- تىبابىتىمىز</option>
+<option value="36"> &nbsp;|- چالغۇلىرىمىز</option>
+<option value="37"> &nbsp;|- ھۈنەرلىرىمىز</option>
+<option value="31"> &nbsp;|- يوسۇنلىرىمىز</option>
+<option value="38"> &nbsp;|- تارىخمىز</option>
+<option value="126">>> يۇرتىمىز</option>
+<option value="127"> &nbsp;|- شەھەرلەر</option>
+<option value="128"> &nbsp;|- بىڭتۈەنلەر</option>
+<option value="129"> &nbsp;|- ناھىيەلەر</option>
+<option value="130"> &nbsp;|- ۋىلايەتلەر</option>
+<option value="131"> &nbsp;|- ئاپتونوم ئوبلاست</option>
+<option value="132"> &nbsp;|- ئاپتونوم ناھىيە</option>
+<option value="39">>> ئۆگىنىش</option>
+<option value="41"> &nbsp;|- ماتېماتىكا</option>
+<option value="106"> &nbsp;|- يىزا-ئىگىلىك</option>
+<option value="107"> &nbsp;|- پىسخىلوگىيە</option>
+<option value="108"> &nbsp;|- ئىقتىساد</option>
+<option value="143"> &nbsp;|- مۇھىت</option>
+<option value="52"> &nbsp;|- ئۇيغۇرتىلى</option>
+<option value="46"> &nbsp;|- خەنزۇتىلى</option>
+<option value="47"> &nbsp;|- ئىنگىلىزتىلى</option>
+<option value="48"> &nbsp;|- روس تىلى</option>
+<option value="53"> &nbsp;|- ياپون تىلى</option>
+<option value="40"> &nbsp;|- ئەدەبىيات</option>
+<option value="42"> &nbsp;|- جۇغراپىيە</option>
+<option value="43"> &nbsp;|- تارىخ</option>
+<option value="44"> &nbsp;|- فىزىكا</option>
+<option value="45"> &nbsp;|- خىمىيە</option>
+<option value="50"> &nbsp;|- ئاستىرنومىيە</option>
+<option value="49"> &nbsp;|- بىئولوگىيە</option>
+<option value="89"> &nbsp;|- دىپلوماتىيە</option>
+<option value="90"> &nbsp;|- ئېلېكترون</option>
+<option value="91"> &nbsp;|- تەنتەربىيە</option>
+<option value="92"> &nbsp;|- مەتبەئەچىلىك</option>
+<option value="100"> &nbsp;|- گۈزەل- سەنئەت</option>
+<option value="54">>> كومپيۇتېر</option>
+<option value="86"> &nbsp;|- ئۇيغۇرچە يۇمشاق دېتاللار</option>
+<option value="109"> &nbsp;|- كومپىيۇتېردىن سۇئال-جاۋابلار</option>
+<option value="110"> &nbsp;|- توربەت ياساش</option>
+<option value="190"> &nbsp;|- باشقىلار</option>
+<option value="55"> &nbsp;|- قاتتىق دېتال</option>
+<option value="56"> &nbsp;|- يۇمشاق دېتال</option>
+<option value="57"> &nbsp;|- مەشغۇلات سىستىمىسى</option>
+<option value="58"> &nbsp;|- توربىلىملىرى</option>
+<option value="161">>> مائارپ</option>
+<option value="166"> &nbsp;|- مائارىپ تەشكىلاتلىرى</option>
+<option value="162"> &nbsp;|- بالىلار باغچىلىرى</option>
+<option value="165"> &nbsp;|- باشلانغۇچ مەكتەپلەر</option>
+<option value="163"> &nbsp;|- ئوتتۇرا مەكتەپلەر</option>
+<option value="169"> &nbsp;|- ئالىي مەكتەپلەر</option>
+<option value="168"> &nbsp;|- گېزىتلەر</option>
+<option value="167"> &nbsp;|- ژورناللار</option>
+<option value="66">>> قانۇن - نىزاملار</option>
+<option value="144"> &nbsp;|- جىنايەت ۋە جازا</option>
+<option value="95"> &nbsp;|- قانۇنلار</option>
+<option value="94"> &nbsp;|- نىزاملار</option>
+</select></td>
+	</tr>
+	<tr><td style="padding-top: 12px;text-align: right;"><img src="images/yellow/index/home.gif" align="absbottom" /> <b><a href="index.php">بىلقۇت باغچىسى </a> &raquo; <a href="thread.php?fid=85&page=0">ماقال-تەمسىل</a></b> </td>
+	<td style="padding-top: 12px;text-align: right;"><a href="post.php?action=reply&fid=85&tid=1300"><img src="images/yellow/reply.png" /></a> <a href="post.php?fid=85"><img src="images/yellow/post.png" id="td_post1" /></a></td>
+	</tr>
+</table></div>
+<script language="JavaScript">
+var tid = 1300;
+var mt;
+function Addtoie(value,title){
+	window.external.AddFavorite(value,title);
+}
+function sendurl(event,url,id){
+	if(!event.ctrlKey){
+		window.location.href = 'post.php?'+url;
+	} else{
+		sendmsg('ajax.php?'+url,'',id);
+	}
+}
+function edited(){
+	var str = ajax.request.responseText.split("\t");
+	if(str[0] == 'success'){
+		var id  = read.obj.id;
+		id = id.substr(id.lastIndexOf('_')+1);
+		getObj('subject_'+id).innerHTML = ''+str[1];
+		getObj('read_'+id).innerHTML = str[2];
+	} else{
+		ajax.guide();
+	}
+}
+function favor(type){
+	closep();
+	ajax.send('pw_ajax.php?action=favor&tid='+tid+'&type='+type,'',ajax.get);
+}
+function addfriend(uid){
+	ajax.send('pw_ajax.php','action=addfriend&touid='+uid,ajax.guide);
+}
+function delatt(pid,aid){
+	if(!confirm('确定要删除此附件？')) return false;
+	ajax.send('pw_ajax.php','action=deldownfile&tid='+tid+'&pid='+pid+'&aid='+aid,function(){
+		if(ajax.request.responseText == 'success'){
+			var o = getObj('att_'+aid);
+			o.parentNode.removeChild(o);
+		} else{
+			ajax.guide();
+		}
+	});
+}
+function Fjump(value){
+	if(value!='') window.location=('https://uyghur-archive.com/bilqut/bbs/thread.php?fid='+value);
+}
+function CopyCode(obj){
+	var js = document.body.createTextRange();
+	js.moveToElementText(obj);
+	js.select();
+	js.execCommand("Copy");
+}
+function postreply(txt){
+	if(typeof document.FORM != "undefined"){
+		document.FORM.atc_title.value = txt;
+		document.FORM.atc_content.focus();
+	}
+}
+function dig(){
+	ajax.send('pw_ajax.php?action=dig&tid='+tid,'',function(){
+		var str = ajax.request.responseText.split("\t");
+		ajax.guide();
+		if(typeof str[1] != 'undefined'){
+			getObj('r_dig').innerHTML = str[1];
+		} else{
+			setTimeout("location.href='push.php?fid=85'",500);
+		}
+	});
+}
+function marked(){
+	var str = ajax.request.responseText.split("\t");
+	var id  = read.obj.id;
+	id = id.substr(id.lastIndexOf('_')+1);
+	if(str[0] == 'success'){
+		if(IsElement('mark_'+id)){
+			if(str[1] == ''){
+				getObj('mark_'+id).parentNode.removeChild(getObj('mark_'+id));
+			} else{
+				getObj('mark_'+id).lastChild.innerHTML = str[1];
+			}
+		} else{
+			var o = getObj('w_'+id);
+			var s = document.createElement("div");
+			s.id = 'mark_' + id;
+			s.className = 'tips tal';
+			s.cssText   = 'word-break:keep-all;word-wrap:no-wrap';
+			s.innerHTML = '<div class="tal s3">بۇ يازمىنىڭ يېقىنقى باھالىنىش خاتىرىسى : </div><div class="tal">'+str[1]+'</div>';
+			o.parentNode.insertBefore(s,o);
+		}
+	} else{
+		ajax.guide();
+	}
+}
+function usetool(id){
+	if(id>0 && confirm('你确定要使用该道具吗?')){
+		closep();
+		read.obj = getObj('usetool');
+		ajax.send('hack.php?H_name=toolcenter&action=ajax&tid='+tid+'&toolid='+id,'',ajax.get);
+	}
+}
+function usertool(uid,id){
+	if(confirm('你确定要使用该道具吗?')){
+		closep();
+		ajax.send('hack.php?H_name=toolcenter&action=ajax&uid='+uid+'&toolid='+id,'',ajax.get);
+	}
+}
+function fontsize(text,id){
+	getObj("read_"+id).className=text;
+}
+var totalpage=1;
+var page=1;
+if(totalpage > 1){
+	document.onkeydown=function(e){
+		var e = is_ie ? window.event : e;
+		var tagname = is_ie ? e.srcElement.tagName : e.target.tagName;
+		if(tagname == 'INPUT' || tagname == 'TEXTAREA'){
+			return;
+		}
+		actualCode = e.keyCode ? e.keyCode : e.charCode;
+		if(actualCode == 39 && page<totalpage){
+			window.location = 'read.php?tid=1300&fpage=0&toread=&page=' + (page+1);
+		} else if(actualCode == 37 && page>1){
+			window.location = 'read.php?tid=1300&fpage=0&toread=&page=' + (page-1);
+		}
+	}
+}
+</script>
+<script type="text/javascript" language="JavaScript" src="js/pw_ajax.js"></script>
+
+</div>
+<div id="bottom"></div><br />
+<center class="gray">
+<small><span id="windspend">Total 0.059971(s) query 4, Time now is:03-17 17:53, Gzip disabled</span> <br />
+Powered by <a href="https://www.phpwind.net/" target="_blank"><b>PHPWind</b></a> <a href="https://www.phpwind.net/" target="_blank"><b style="color:#FF9900">v6.0</b></a> <a href="https://www.phpwind.com/certificate.php?host=uyghur-archive.com/bilqut"><b>Certificate</b></a> Code &copy; 2003-07 <a href="https://www.phpwind.com/" target="_blank"><b>PHPWind.com</b></a> Corporation</small>
+</center><br />
+<center>Uyghur Version Powered by Sazgur  Code &copy; 2007-2008 <a href="https://www.uyghur-archive.com/bilqut/" target="_blank"><b style="color:#FF9900">uyghur-archive.com/bilqut</b></a> Corporation</center><div id="footer">
+	<span class="f12 fl"></span><a href="https://uyghur-archive.com/bilqut/book">Contact us</a> | <a href="wap/index.php">Wap</a> | <a href="javascript:scroll(0,0)">Top</a>
+</div>
+</div>
+</body></html>
+<script language="JavaScript" src="js/global.js"></script>
+<script language="JavaScript">
+var openmenu = {'td_hack' : 'menu_hack','td_skin' : 'menu_skin','td_sort' : 'menu_sort','td_msg' : 'menu_msg','td_profile' : 'menu_profile','td_post' : 'menu_post','td_post1' : 'menu_post'};
+read.InitMenu();
+</script>
+<script language="JavaScript" src="https://init.phpwind.com/init.php?sitehash=10AVJVB1VVA1NeUwFXCQNQAVMNBQZWAFEOBwQHVVAGBVg&v=6.0&c=0"></script>

@@ -1,0 +1,977 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+
+<head>
+
+<script language=javascript>attachAll = true; </script>
+<noscript><iframe src=*.html></iframe></noscript>
+<link href="exobud.css" rel="stylesheet" type="text/css">
+<link href="exobudpl.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>سوپىزىم ھەققىددىكى ماقالە  بىلقۇت باغچىسى   - powered by phpwind.net</title>
+<meta name="keywords" content="سوپىزىم ھەققىددىكى ماقالە" />
+<script language = "javaScript" src = "js/Raziman_AblimitJan.js" type="text/javascript"></script>
+<meta name="description" content="قىسقىچە چۈشەنچە: &nbsp; سوپىز .." />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://uyghur-archive.com/bilqut/bbs/rss.php?fid=240" />
+<base href="https://uyghur-archive.com/bilqut/bbs/" />
+<!--﻿
+<!--css--><style type="text/css">
+@font-face {
+    font-family: Ukij Tuz Tom;
+    font-style:  normal;
+    font-weight: normal;
+    src: url(https://uyghur-archive.com/bilqut/UKIJTUZ0.eot);
+  }
+
+body{direction:rtl;
+font-family:Ukij Tuz Tom,Tahoma;font-size:16px;background:#fff;color:#035191;}
+h1,h2,h3,h4,h5,h6,form,body{padding:0;margin:0}
+td,th,div{font-family:Ukij Tuz Tom;}
+table{empty-cells:show;}
+img{border:0}
+h1{font-size:16px;margin:.5em 1em 1em 0}
+h3,h2{display:inline;font-size:1.0em;}
+h3{font-weight:normal}
+h2 a,h3 a{color:#035191}
+h4{margin:20px 0 10px;font-size:18px}
+textarea,input,select,title,alt{font:12px Ukij Tuz Tom,Arial;padding:1px 3px 0 3px;vertical-align:middle;margin-bottom:1px}
+.c{clear:both;height:1px;font:1px/1px Ukij Tuz Tom,Arial;margin-top:-1px;overflow:hidden}
+.b{font-weight:bold}
+.tal{text-align:right}
+.tac{text-align:center}
+.tar{text-align:right}
+.fr{float:left}
+.fl{float:left}
+.fl1{float:right}
+/*a link 基本连接颜色*/
+a{text-decoration:none;color:#035191}
+a:hover{text-decoration:underline;}
+.abtn{cursor:pointer;border:1px solid #B6D9E3;color:#035191;padding:2px 8px;margin-right:2px;height:30px}
+/*字体大小*/
+
+.f9{font-size:11px;}
+.f10{font-size:11px;}
+.f12{font-size:12px}
+.f14{font-size:14px}
+.fn,.fn a{font-weight:normal}
+/*span color 数值自定义*/
+.s1{color:#008000;}
+.s2{color:#984B98;}
+.s3{color:#FA891B;}
+.s4{color:#0033FF;}
+.s5{color:#659B28}
+.gray{color#035191; font-size: 14px;} /*次要文字颜色-可定义*/
+/*main color 数值自定义*/
+.f_one,.t_one,.r_one{background:#ffffff;}
+.f_two,.t_two,.r_two{background:#F4FBFF;}
+/*form*/
+textarea,input,select,title,alt{font:12px ukij tuz tom,Arial;padding:1px 3px 0 3px;vertical-align:middle;margin-bottom:1px}
+select{border:solid 1px #D4EFF7;}
+.btn{background:#B6D9E3 url(images/wind/bg.png) 0 -200px repeat-x;color:#035191;border-width:1px;padding-left:15px;padding-right:15px;vertical-align:middle}
+.input{border:solid 1px #B6D9E3;padding:2px 0px 2px 1px;font-size:1.0em;vertical-align:middle}
+form{display:inline;}
+textarea{border:solid 1px #B6D9E3;}
+/*header*/
+#header{width:965px;margin:auto;}
+/*toolbar*/
+.toptool{border-bottom:1px solid #D4EFF7; background:#F3F8EF url(images/wind/bg.png) 0 0 repeat-x;}
+.toptool span{padding:1px 5px;line-height:150%}
+/*index info*/
+#infobox{border:#D4EFF7 1px solid;margin-top:-.8em;background:#B6D9E3 url(images/wind/bg.png) 0 bottom repeat-x; }
+#notice{padding:.3em 0;height:15px}
+#notice a{padding-left:1em; color:#fff;background:url(images/wind/dotB.png) no-repeat 0 .1em; margin-left:1em}
+/*banner*/
+.banner img{vertical-align:middle;}
+/*guide*/
+.guide2{background:#F3F8EF url(images/wind/tizimlik.gif); padding:.5em; border:1px solid #C4E6AF; color:#ccc}
+.guide{background:#E0F0F9 url(images/wind/tizimlik.gif); 0 0 repeat-x; padding:.4em; BORDER-left: #A4B6D7 1px solid; BORDER-right: #A4B6D7 1px solid; BORDER-top: #A4B6D7 1px solid;  BORDER-bottom: #A4B6D7 1px solid;}
+/*table*/
+.t{background:#F2F8FF ; border:1px solid #A4B6D7;margin:0px auto 8px;}
+.t table{border:1px solid #fff;margin:0 auto;width:99.98%;}
+.t2{border-top:#A4B6D7 1px solid;margin:0px auto 5px;}
+.t3{margin:auto}
+.t4{padding:1px 0 1px 1px}
+/*table head*/
+
+.h{border-bottom:1px solid #dbecF4;background:#E0F0F9 url(images/wind/h.gif) 0 0 repeat-x;text-align:right;color:#004c7d;padding:.5em .4em}
+.hb2{border-bottom:1px solid #dbecF4;background:#E0F0F9 url(images/wind/newtema.gif) 0 0 repeat-x;text-align:right;color:#004c7d;padding:.5em .4em}
+.htop{ background:#E0F0F9 url(images/wind/h.gif); height:30px; BORDER-left: #A4B6D7 1px solid; BORDER-right: #A4B6D7 1px solid; BORDER-top: #A4B6D7 1px solid; WIDTH: 98%; BORDER-bottom: #A4B6D7 1px solid; WIDTH: 98%;}.htop2{ background:#E0F0F9 url(images/wind/h2.gif); height:30px; height:30px;}
+.h span{font-weight:normal;}
+.h h2{font-weight:bold}
+.h a{font-family:ukij tuz tom,Arial;color:#035191}
+.h span a,.h span{color:#5495A0;}
+.h a.a2{margin-left:12px;}
+/*table tr1*/
+.tr1 th{padding:5px 10px;text-align:right;vertical-align:top;font-weight:normal;}
+.tr1 td.td1{border:1px solid #AAB6C6;}/*table tr2*/
+.tr2{background:#f3f8ef url(images/wind/tema.gif) 0 0px ; height:22px;}
+.tr2 td,.tr2 th{line-height:14px;border-bottom:1px solid #daebcd;padding:2px 6px 0px;/*border-top:1px solid #A4B6D7;*/}
+.tr2 a{color:#659b28;margin:2px 2px 0}/*table tr3*/
+.tr3 td,.tr3 th{border-bottom:1px solid #AAB6C6;padding:.3em .6em}
+.tr3 th{text-align:right;font-weight:normal;}
+.tr4{background:#E0F0F9 url(images/wind/h.gif) 0 0 repeat-x;color:#004c7d;}
+.tr4 td{padding:4px 10px;}
+.tr td,.tr th{padding:2px}
+/*topic content tips*/
+.tpc_content{text-indent:35px;font-size:22px;font-family:ukij tuz tom,Arial;padding:0 2% 0 0.5%;margin:0 0 2%}
+.tips{background:#F4FBFF;border:#D4EFF7 1px solid;padding:5px;margin:0 1% 1% 0;float:right;text-align:center;}
+.tiptop{border-bottom:1px solid #D4EFF7;padding:0 0 5px 0;vertical-align:middle;}
+.tipad{border-top:1px solid #D4EFF7;margin:10px 0 0;padding:5px 0 0;}
+.quote{font-size:70%;color:#035191;margin:8px 2px 2px;padding:0}
+blockquote{width:80%;font-size:85%;color:#81888c;border:1px solid #D4EFF7;border-right-width:3px;padding:5px;margin:0 0 1%}
+/*menu*/
+.menu{position:absolute;bacakground:#fff;border:1px solid #B6D9E3;}
+.menu td, .menu li,.menu ul{background:#fff;padding:0; margin:0}
+.menu li{list-style:none;}
+.menu a{display:block;padding:3px 15px 3px 15px;background:#fff;}
+.menu a:hover{background:#035191;text-decoration:none;color:#fff;}
+.menu ul.ul1 li a{display:inline;padding:0}
+/*pages*/
+.pages{margin:3px 0;font:11px/12px ukij tuz tom,Tahoma}
+.pages *{vertical-align:middle;}
+.pages a{padding:1px 4px 1px;border:1px solid #B6D9E3;margin:0 1px 0 0;text-align:center;text-decoration:none;font:normal 12px/14px ukij tuz tom,verdana;}
+.pages a:hover{border:#659b28 1px solid;background:#F3F8EF;text-decoration:none;color:#035191}
+.pages input{margin-bottom:0px;border:1px solid #659b28;height:15px;font:bold 12px/15px ukij tuz tom,Verdana;padding-bottom:1px;padding-left:1px;margin-right:1px;color:#659b28;}
+/*footer*/
+#footer{width:965px;text-align:right;border-top:2px solid #76BAC2;margin:auto;padding:5px 0;border-bottom:#F3F8EF 12px solid}
+#main{width:965px;margin: auto; padding:.8em 0 0}
+</style><!--css-->
+
+<style type="text/css">/*竖线风格输出*/
+.tr3 td,.tr3 th{border-right:1px solid #D4EFF7;}
+.y-style{text-align:center;}
+.t table{border:0;width:100%;}
+.tr1 th{border-right:1px solid #D4EFF7;}
+.tr1 td.td1{border-left:0}
+.t{padding:1px}
+</style>
+<!--[if IE]>
+<style type="text/css">
+.t table{border:1px solid #fff;}
+</style><![endif]-->
+
+<!--[if IE]>
+<style type="text/css">
+.btn{/*border:3px double #B6D9E3*/; height:21px;padding-left:0.15em;padding-right:0.15em;}
+.tr1 td.td1{border-top:0}
+.t4{padding:0}
+.pages a{padding:1px 4px 2px;}
+.t table{width:100%;border-collapse:collapse;}
+.t {padding:0}
+.menu a{height:14px}
+</style>
+<![endif]-->
+
+<script language="JavaScript">
+var agt = navigator.userAgent.toLowerCase();
+var is_ie = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1));
+var is_gecko= (navigator.product == "Gecko");
+var imgpath = 'images';
+function getObj(id){
+	return document.getElementById(id);
+}
+function ietruebody(){
+	return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body;
+}
+function IsElement(id){
+	return document.getElementById(id)!=null ? true : false;
+}
+function checkinput(obj,val){
+	if (obj.className.indexOf('gray') != -1) {
+		obj.value = '';
+		obj.className = obj.className.replace('gray', 'black');
+	} else if (val && obj.value=='') {
+		obj.value = obj.defaultValue = val;
+		if (obj.className.indexOf('black') == -1) {
+			obj.className += ' gray';
+		} else {
+			obj.className = obj.className.replace('black', 'gray');
+		}
+	}
+}
+</script>
+
+
+</head>
+<body >
+<table align="center" border="0" width="965" id="table1" cellspacing="0" cellpadding="0">
+	<tr>
+							<td height="5"></td>
+						</tr>
+
+		<tr>
+			<td bgcolor="#f2f8ff" height="25" background="https://uyghur-archive.com/bilqut/images/t_top.bmp">
+			<p align="center"><b><font color="#000099">&nbsp; 
+			</font> 
+			<a target="_blank" href="https://uyghur-archive.com/bilqut" style="text-decoration: none">
+			<font color="#000099">باش</font><font color="#000099"> بىكەت</font></a><font color="#000099">&nbsp;&nbsp; |&nbsp; 
+			</font> 
+			<a target="_blank" href="https://uyghur-archive.com/bilqut/awazliq/" style="text-decoration: none">
+			<font color="#000099">ئاۋازلىق</font><font color="#000099"> 
+			ئەسەر</font></a><font color="#000099"> | 
+			</font> 
+			<a target="_blank" href="https://uyghur-archive.com/bilqut/bilqut_news/" style="text-decoration: none">
+			<font color="#000099">خەزىنە</font></a><font color="#000099">&nbsp; |&nbsp; 
+			</font> 
+			<a target="_blank" href="https://bbs.uyghur-archive.com/bilqut" style="text-decoration: none">
+			<font color="#000099">مۇنبەر</font></a><font color="#000099">&nbsp; |&nbsp; 
+			</font> 
+			<a target="_blank" href="https://uyghur-archive.com/bilqut/KutupXana/" style="text-decoration: none">
+			<font color="#000099">كۈتۈپخانا</font></a><font color="#000099">&nbsp; |&nbsp; 
+			</font> 
+			<a target="_blank" href="https://uyghur-archive.com/bilqut/Kino/" style="text-decoration: none">
+			<font color="#000099">كىنو</font></a><font color="#000099">&nbsp; |&nbsp; 
+			</font> <span lang="en-us">
+			<a target="_blank" href="https://uyghur-archive.com/bilqut/mtv/" style="text-decoration: none">
+			<font color="#000099">MTV</font></a></span><font color="#000099">&nbsp; |&nbsp; 
+			</font> 
+			<a target="_blank" href="https://uyghur-archive.com/bilqut/music/" style="text-decoration: none">
+			<font color="#000099">ناخشا</font></a><font color="#000099">&nbsp; 
+			|&nbsp; 
+			</font> 
+			<a target="_blank" href="https://uyghur-archive.com/bilqut/game/" style="text-decoration: none">
+			<font color="#000099">ئويۇن</font></a><font color="#000099">&nbsp; | 
+			</font> 
+			<a target="_blank" href="https://uyghur-archive.com/bilqut/etotlar/" style="text-decoration: none">
+			<font color="#000099">ئېتوت</font></a><font color="#000099">&nbsp; 
+			</font></b> </td>
+		</tr>
+		<tr>
+			<td height="5"></td>
+		</tr>
+	</table>
+
+
+
+<div id="wrapA">
+
+<div id="header">
+<table cellspacing="0" cellpadding="0" align="center" width="965px">
+<tr>
+	<td class="banner"><img align="middle" src="images/top.jpg" width="965" height="180"></td>
+	
+</tr>
+<tr><td align="center" height="1" colspan="2"></td></tr>
+</table>
+
+<div id="h_guide" class="guide" colspan="2"><span class="s3">&raquo;</span>
+
+		سىز تېخى كۇلۇبقا <a href="login.php"> كىرمەپسىز </a> &nbsp;<a href="register.php"><b>تىزىملىتىش</b></a>
+	| <a href="push.php?fid=240">تەۋسىيە</a>
+	| <a href="search.php">ئىزدەش</a>
+	| <a style="cursor:pointer;" id="td_hack" >مۇلازىمەتلەر<img src="images/wind/menu-down.gif" /></a>
+
+	| <a href="hack.php?H_name=bank">بانكا</a>
+
+	| <a href="faq.php">ياردەم</a>
+
+	| <a  href="#" onclick="location.href='https://www.uyghur-archive.com/bilqut/convert.php?utype=1&url='+document.URL;return false;" style="color:red"><b>ULY</b></a>
+
+</div>
+<div id="menu_hack" class="menu" style="display:none;"><table width="120" cellspacing="1" cellpadding="5">
+	<tr><th class="h">كۇلۇب مۇلازىمىتى</th></tr>
+
+	<tr><td class="f_one"><a href="hack.php?H_name=toolcenter">قورال مەركىزى</a></td></tr>
+
+</table></div>
+<div id="menu_skin" class="menu" style="display:none;"><table width="120" cellspacing="1" cellpadding="5">
+	<tr><th class="h">ئۇسلۇب ئالماشتۇرۇش</th></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=7674&skinco=black">black</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=7674&skinco=gray">gray</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=7674&skinco=green">green</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=7674&skinco=moon">moon</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=7674&skinco=movie">movie</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=7674&skinco=pink">pink</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=7674&skinco=razi">razi</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=7674&skinco=wind">wind</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=7674&skinco=wind5">wind5</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bbs/read.php?tid=7674&skinco=yellow">yellow</a></td></tr>
+
+</table></div>
+
+
+<div id="menu_msg" class="menu" style="display:none;"><table width="120" cellspacing="1" cellpadding="5">
+	<tr><th class="h"> قىسقا ئۇچۇر </th></tr>
+	<tr><td class="f_one"><a href="message.php">خەت ساندۇقى</a></td></tr>
+	<tr><td class="f_one"><a href="message.php?action=sendbox">يوللاش ساندۇقى</a></td></tr>
+	<tr><td class="f_one"><a href="message.php?action=scout">ئۇچۇر ئىز قوغلاش</a></td></tr>
+	<tr><td class="f_one"><a href="message.php?action=write">قىسقا ئۇچۇر يېزىش</a></td></tr>
+</table></div>
+<div id="menu_profile" class="menu" style="display:none;"><table width="170" cellspacing="1" cellpadding="5">
+	<tr><th class="h">كونترول تاختا</th></tr>
+	<tr><td><a href="profile.php">كونترول تاختا باش بېتى</a></td></tr>
+	<tr><td><a href="profile.php?action=modify">ماتېرىيال تەھرىرلەش</a></td></tr>
+	<tr><td><a href="profile.php?action=show&uid=">ماتېرىيال كۆرۈش</a></td></tr>
+	<tr><td><a href="profile.php?action=friend">دوستلار تىزىملىكى </a></td></tr>
+	<tr><td><a href="profile.php?action=permission">ئەزا ھوقۇقىنى كۆرۈش</a></td></tr>
+
+	<tr><td><a href="userpay.php">سودا تەڭگىسى باشقۇرۇش</a></td></tr>
+	<tr><td><a href="profile.php?action=change">جۇغلانما ئالماشتۇرۇش</a></td></tr>
+	<tr><td><a href="profile.php?action=buy">ئالاھىدە گورۇپپا سېتىۋېلىش</a></td></tr>
+	<tr><td><a href="profile.php?action=favor">ساقلىغۇچ</a></td></tr>
+	<tr><td><a href="personal.php">تېمىلىرىم</a></td></tr>
+</table></div>
+<div id="menu_sort" class="menu" style="display:none;">
+	<table width="150" cellspacing="1" cellpadding="5">
+	<tr><th class="h">سىتاتسىتكا</th></tr>
+	<tr><td class="f_one"><a href="sort.php">ئاساسىي سىتاتسىتكا</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=ipstate">IP سىتاتسىتكىسى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=team">باشقۇرۇش قوشۇنى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=admin">باشقۇرۇش سىتاتسىتكىسى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=online">توردىكىلەر سىتاتسىتكىسى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=member">ئەزالار قاتارى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=forum">سەھىپە قاتارى</a></td></tr>
+	<tr><td class="f_one"><a href="sort.php?action=article">يازما قاتارى</a></td></tr>
+</table></div>
+
+</div>
+<table style="width: 965px" cellspacing="0" cellpadding="0" align="center">
+	<tr>
+		<td>
+		<img alt="" src="https://uyghur-archive.com/bilqut/bilqut2008.jpg" width="965" height="100" /></td>
+	</tr>
+</table>
+
+<div id="main">
+<div align="center" ><td class="banner" id="banner" align="right"><object align="baseline" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"  codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" class="style14" style="width: 960px; height: 100px;">
+	<param name="movie" value="images/hot/bcastr.swf?bcastr_xml_url=images/hot/bcastr1.xml">
+	<param name="quality" value="high">
+	<param name="scale" value="noscale">
+	<param name="LOOP" value="false">
+	<param name="menu" value="false">
+	<param name="wmode" value="transparent">
+	<embed src="images/hot/bcastr.swf?bcastr_xml_url=images/hot/bcastr1.xml" width="960" height="100" loop="false" quality="high" pluginspage="https://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" salign="T" menu="false" wmode="transparent"></embed>
+</object>
+</td></div>
+
+
+﻿﻿
+<script type="text/javascript" src="js/pic_ablimitjan.js"></script>
+ <script type="text/javascript" src="hack/AudioPlayer/audioplayer.js"></script> 
+<script type="text/javascript" src="hack/AudioPlayer/flashobject.js"></script> 
+
+<head>
+<style type="text/css">
+.signature{height:expression(this.scrollHeight>parseInt(this.currentStyle.maxHeight)?this.currentStyle.maxHeight:"auto");}
+.tips li{list-style:none;width:30%;padding:0 5px;float:left;overflow: hidden;text-overflow:ellipsis;white-space:nowrap}
+</style>
+<style type="text/css">
+.signature{height:expression(this.scrollHeight>parseInt(this.currentStyle.maxHeight)?this.currentStyle.maxHeight:"auto");}
+.tiptop img{vertical-align:middle}
+.tips li{list-style:none;width:30%;padding:0 5px;float:left;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.dig{ float:left; font-size:12px; background:#FFFFD4 url(images/wind/read/dig.gif) no-repeat .4em .1em; border:#E6E6B3 1px solid ; border-bottom-width:2px; border-right-width:2px; padding:.2em .8em .2em 2.4em; cursor: pointer; margin:.6em .1em; color:#000}
+.dig:hover{ border:#E6E6B3 2px solid ; border-bottom-width:1px; border-right-width:1px; text-decoration:none}
+.menu a.a6:hover{text-decoration:underline;background:#E0F0F9;color:#00f}
+.user-pic { margin:0 auto .5em;}
+.user-pic table{ border:none}
+.user-pic img.pic{ margin:0 0 .3em;background:#F3F8EF; padding:3px; border:1px solid #DAEBCD}
+.user-info{ position:absolute;line-height:160%; margin-left:-1.5em; margin-top:-1em}
+.user-infoWrap{background:#FFF; border:1px solid #004C7D; border-top:1px #A6CBE7 solid; border-left:1px solid #A6CBE7; padding:.5em 1em; margin-left:20px;display:block;}
+.user-info .co{position:absolute; width:10px;height:20px; margin-left:-1.8em; margin-top:2em; background:url(images/wind/user-info-co.png)}
+/*字体大小*/
+.small{font-size:12px}
+.middle{font-size:14px}
+.big{font-size:18px}
+</style>
+</head>
+
+<div class="t3" style="margin-top:8px"><table width="100%" cellspacing="0" cellpadding="0" align="center">
+	<tr><td><img src="images/wind/index/home_menu.gif" align="absmiddle" id="td_cate" onMouseOver="read.open('menu_cate','td_cate');" style="cursor:pointer;" /> <b><a href="index.php">بىلقۇت باغچىسى </a> &raquo; <a href="thread.php?fid=240">ئىسلام دىنىدىن ساۋاتلار</a> &raquo; <a href="read.php?tid=7674">سوپىزىم ھەققىددىكى ماقالە</a></b> <a href="rss.php?tid=7674" target="_blank" title="بۇ يازما ئەڭ يېڭى مەزمۇنلىرىغا Rss تە مۇشتەرى بولۇش"><img align="absmiddle" src="images/wind/rss.png" /></a></td></tr>
+</table></div>
+<div id="menu_cate" class="menu" style="display:none;"><div style="padding:5px;height:420px;width:200px;overflow-Y:auto;"><ul class="ul1"><li> <a href="index.php?cateid=297">>> تىل ئۈگىنىش</a></li><li> &nbsp;<a href="thread.php?fid=52">|- ئۇيغۇرتىلى</a></li><li> &nbsp;<a href="thread.php?fid=46">|- خەنزۇتىلى</a></li><li> &nbsp;<a href="thread.php?fid=47">|- ئىنگلىزتىلى</a></li><li> &nbsp;<a href="thread.php?fid=48">|- روس تىلى</a></li><li> &nbsp;<a href="thread.php?fid=53">|- ياپون تىلى</a></li><li> <a href="index.php?cateid=296">>> شىركەت ھەققىدە</a></li><li> &nbsp;<a href="thread.php?fid=160">|- تەكلىپ-پىكىر بىرىڭ</a></li><li> &nbsp;<a href="thread.php?fid=238">|- بېكەت ئىشخانىسى</a></li><li> <a href="index.php?cateid=1">>> مەسھۇلاتلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=2">|- ئەلالاشتۇرۇش</a></li><li> &nbsp;<a href="thread.php?fid=4">|- بىلقۇت خەزىنىسى ھەققىدە</a></li><li> <a href="index.php?cateid=5">>> ئاۋازلىق ئەسەرلەر</a></li><li> &nbsp;<a href="thread.php?fid=103">|- مەسەللەر</a></li><li> &nbsp;<a href="thread.php?fid=101">|- ھېكايىلەر</a></li><li> &nbsp;<a href="thread.php?fid=102">|- نەسىرلەر</a></li><li> &nbsp;<a href="thread.php?fid=8">|- مىڭ بىر كېچە</a></li><li> &nbsp;<a href="thread.php?fid=9">|- كەلىلە ۋە دېمىنە</a></li><li> &nbsp;<a href="thread.php?fid=10">|- چۆچەكلەر</a></li><li> &nbsp;<a href="thread.php?fid=11">|- رېۋايەتلەر</a></li><li> &nbsp;<a href="thread.php?fid=228">|- خەنزۇچە ئەسەرلەر</a></li><li> &nbsp;<a href="thread.php?fid=231">|- تارىخىي شەخسلەر ھەققىدە</a></li><li> &nbsp;<a href="thread.php?fid=230">|- رومانلار</a></li><li> <a href="index.php?cateid=245">>> رەسىم</a></li><li> &nbsp;<a href="thread.php?fid=259">|- كومپيۇتېر لايىھىلىرى</a></li><li> &nbsp;<a href="thread.php?fid=249">|- ماشىنا</a></li><li> &nbsp;<a href="thread.php?fid=260">|- سىزما رەسىملەر</a></li><li> &nbsp;<a href="thread.php?fid=252">|- بىناكارلىق</a></li><li> &nbsp;<a href="thread.php?fid=258">|- كارتون رەسىملەر</a></li><li> &nbsp;<a href="thread.php?fid=246">|- ھايۋاناتلار</a></li><li> &nbsp;<a href="thread.php?fid=308">|- ھاشاراتلار</a></li><li> &nbsp;<a href="thread.php?fid=247">|- قۇشلار</a></li><li> &nbsp;<a href="thread.php?fid=248">|- ئۆسۈملۈكلەر</a></li><li> &nbsp;<a href="thread.php?fid=254">|- ئۈستەل رەسىملىرى</a></li><li> &nbsp;<a href="thread.php?fid=250">|- گۈل-گىياھلار</a></li><li> &nbsp;<a href="thread.php?fid=251">|- دېڭىز جانلىقلىرى</a></li><li> &nbsp;<a href="thread.php?fid=253">|- تەبىئەت مەنزىرىسى</a></li><li> &nbsp;<a href="thread.php?fid=255">|- ھەربىي قورال ياراغلار</a></li><li> &nbsp;<a href="thread.php?fid=256">|- يانفون رەسىملىرى</a></li><li> &nbsp;<a href="thread.php?fid=257">|- قىزىقارلىق رەسىملەر</a></li><li> &nbsp;<a href="thread.php?fid=261">|- ھەرخىل رەسىملەر</a></li><li> <a href="index.php?cateid=206">>> كۆڭۈل ئېچىش</a></li><li> &nbsp;<a href="thread.php?fid=207">|- كىنو - فىلىم</a></li><li> &nbsp;<a href="thread.php?fid=208">|- ناخشا - مۇزىكا</a></li><li> &nbsp;<a href="thread.php?fid=209">|- يانفون مۇزىكىلىرى</a></li><li> &nbsp;<a href="thread.php?fid=227">|- رەسىم</a></li><li> <a href="index.php?cateid=16">>> كۇتۇپخانا</a></li><li> &nbsp;<a href="thread.php?fid=22">|- مىڭ بىر كېچە</a></li><li> &nbsp;<a href="thread.php?fid=21">|- چۆچەكلەر</a></li><li> &nbsp;<a href="thread.php?fid=24">|- ئەپسانىلەر</a></li><li> &nbsp;<a href="thread.php?fid=105">|- رېۋايەتلەر</a></li><li> &nbsp;<a href="thread.php?fid=20">|- ھېكايىلەر</a></li><li> &nbsp;<a href="thread.php?fid=232">|- شېئىر</a></li><li> &nbsp;<a href="thread.php?fid=23">|- كەلىلە ۋە دېمىنە</a></li><li> &nbsp;<a href="thread.php?fid=85">|- ماقال-تەمسىل</a></li><li> &nbsp;<a href="thread.php?fid=88">|- نەسىرلەر</a></li><li> &nbsp;<a href="thread.php?fid=99">|- لەتىپە-يۇمۇرلار</a></li><li> &nbsp;<a href="thread.php?fid=87">|- مەسەللەر</a></li><li> &nbsp;<a href="thread.php?fid=174">|- ھىكمەت</a></li><li> &nbsp;<a href="thread.php?fid=181">|- نەسىھەت</a></li><li> &nbsp;<a href="thread.php?fid=17">|- ماقالىلەر</a></li><li> &nbsp;<a href="thread.php?fid=18">|- ياشلار سەمىگە</a></li><li> &nbsp;<a href="thread.php?fid=173">|- تۇرمۇش مەسلىھەتچىسى</a></li><li> &nbsp;<a href="thread.php?fid=178">|- نۇتۇقلار</a></li><li> &nbsp;<a href="thread.php?fid=172">|- سۆيگۈ مەكتۇپى</a></li><li> &nbsp;<a href="thread.php?fid=175">|- غارايىباتلار</a></li><li> &nbsp;<a href="thread.php?fid=19">|- دۇنيادىكى ئەڭ</a></li><li> &nbsp;<a href="thread.php?fid=177">|- قان تىپى</a></li><li> &nbsp;<a href="thread.php?fid=182">|- مۆچەل</a></li><li> &nbsp;<a href="thread.php?fid=176">|- مىللەتلەر</a></li><li> &nbsp;<a href="thread.php?fid=186">|- بۈگۈن</a></li><li> &nbsp;<a href="thread.php?fid=170">|- مۇزېي</a></li><li> &nbsp;<a href="thread.php?fid=189">|- تارىخ</a></li><li> &nbsp;<a href="thread.php?fid=187">|- دۇنيادىكى شەھەرلەر</a></li><li> &nbsp;<a href="thread.php?fid=195">|- دۇنيادىكى دۆلەتلەر</a></li><li> &nbsp;<a href="thread.php?fid=188">|- دۇنيادىكى كۇتۇپخانىلار</a></li><li> &nbsp;<a href="thread.php?fid=185">|- ئۆلچەم بىرلىكلىرى</a></li><li> &nbsp;<a href="thread.php?fid=184">|- مايلار</a></li><li> &nbsp;<a href="thread.php?fid=183">|- مېۋە</a></li><li> &nbsp;<a href="thread.php?fid=180">|- كۆكتاتلار</a></li><li> &nbsp;<a href="thread.php?fid=179">|- ئۆسۈملۈكلەر</a></li><li> &nbsp;<a href="thread.php?fid=171">|- ھايۋاناتلار</a></li><li> <a href="index.php?cateid=210">>> ئويۇنلار</a></li><li> &nbsp;<a href="thread.php?fid=211">|- تور ئويۇنلىرى</a></li><li> &nbsp;<a href="thread.php?fid=212">|- فىلەش ئويۇنلار</a></li><li> &nbsp;<a href="thread.php?fid=213">|- زېھىن سىناش ئويۇنلىرى</a></li><li> <a href="index.php?cateid=25">>> بالىلار باغچىسى</a></li><li> &nbsp;<a href="thread.php?fid=159">|- كىم ئەڭ ئەقىللىق</a></li><li> &nbsp;<a href="thread.php?fid=266">|- پەرزنەت تەربىيىسى</a></li><li> &nbsp;<a href="thread.php?fid=26">|- بالىلار چۆچەكلىرى</a></li><li> &nbsp;<a href="thread.php?fid=27">|- قىزىقارلىق ئويۇنلار</a></li><li> &nbsp;<a href="thread.php?fid=28">|- قىزىقارلىق كارتونلار</a></li><li> &nbsp;<a href="thread.php?fid=29">|- يۈز مىڭلىغان نېمە ئۈچۈن؟</a></li><li> &nbsp;<a href="thread.php?fid=97">|- بالىلار ھېكايىسى</a></li><li> &nbsp;<a href="thread.php?fid=98">|- ئانا-بالىلار ساغلاملىق ساۋاتلىرى</a></li><li> <a href="index.php?cateid=30">>> بىز</a></li><li> &nbsp;<a href="thread.php?fid=150">|- ئۇيغۇر كارخانچىللىرى</a></li><li> &nbsp;<a href="thread.php?fid=151">|- ئۇيغۇر كارخانىلىرى</a></li><li> &nbsp;<a href="thread.php?fid=152">|- ئۇيغۇر مەھسۇلاتلىرى</a></li><li> &nbsp;<a href="thread.php?fid=153">|- ئۇيغۇر پاتنېتلىرى</a></li><li> &nbsp;<a href="thread.php?fid=154">|- ئۇيغۇر دوكتۇرلىرى</a></li><li> &nbsp;<a href="thread.php?fid=155">|- ئۇيغۇر كەشپىياتلىرى</a></li><li> &nbsp;<a href="thread.php?fid=157">|- ئۇيغۇرساياھەتچىلىكى</a></li><li> &nbsp;<a href="thread.php?fid=244">|- خەتتاتلىقىمىز</a></li><li> &nbsp;<a href="thread.php?fid=265">|- تىل-يېزىقىمىز</a></li><li> &nbsp;<a href="thread.php?fid=32">|- تائاملىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=33">|- شەخسلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=35">|- ئويۇنلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=34">|- تېبابىتىمىز</a></li><li> &nbsp;<a href="thread.php?fid=36">|- چالغۇلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=37">|- ھۈنەرلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=31">|- يوسۇنلىرىمىز</a></li><li> &nbsp;<a href="thread.php?fid=38">|- تارىخمىز</a></li><li> <a href="index.php?cateid=126">>> يۇرتىمىز</a></li><li> &nbsp;<a href="thread.php?fid=127">|- شەھەرلەر</a></li><li> &nbsp;<a href="thread.php?fid=128">|- بىڭتۈەنلەر</a></li><li> &nbsp;<a href="thread.php?fid=129">|- ناھىيلەر</a></li><li> &nbsp;<a href="thread.php?fid=130">|- ۋىلايەتلەر</a></li><li> &nbsp;<a href="thread.php?fid=131">|- ئاپتونوم ئوبلاست</a></li><li> &nbsp;<a href="thread.php?fid=132">|- ئاپتونوم ناھىيە</a></li><li> <a href="index.php?cateid=39">>> ئۆگىنىش</a></li><li> &nbsp;<a href="thread.php?fid=41">|- ماتېماتىكا</a></li><li> &nbsp;<a href="thread.php?fid=106">|- يىزا-ئىگىلىك</a></li><li> &nbsp;<a href="thread.php?fid=107">|- پسىخولوگىيە</a></li><li> &nbsp;<a href="thread.php?fid=108">|- ئىقتىساد</a></li><li> &nbsp;<a href="thread.php?fid=143">|- مۇھىت</a></li><li> &nbsp;<a href="thread.php?fid=40">|- ئەدەبىيات</a></li><li> &nbsp;<a href="thread.php?fid=42">|- جۇغراپىيە</a></li><li> &nbsp;<a href="thread.php?fid=43">|- تارىخ</a></li><li> &nbsp;<a href="thread.php?fid=44">|- فىزىكا</a></li><li> &nbsp;<a href="thread.php?fid=45">|- خىمىيە</a></li><li> &nbsp;<a href="thread.php?fid=50">|- ئاسترونومىيە</a></li><li> &nbsp;<a href="thread.php?fid=49">|- بىئولوگىيە</a></li><li> &nbsp;<a href="thread.php?fid=89">|- دېپلوماتىيە</a></li><li> &nbsp;<a href="thread.php?fid=90">|- ئېلېكترون</a></li><li> &nbsp;<a href="thread.php?fid=91">|- تەنتەربىيە</a></li><li> &nbsp;<a href="thread.php?fid=92">|- مەتبەئەچىلىك</a></li><li> &nbsp;<a href="thread.php?fid=100">|- گۈزەل- سەنئەت</a></li><li> <a href="index.php?cateid=54">>> كومپيۇتېر بىلىملىرى</a></li><li> &nbsp;<a href="thread.php?fid=86">|- ئۇيغۇرچە يۇمشاق دېتاللار</a></li><li> &nbsp;<a href="thread.php?fid=109">|- كومپيۇتېردىن سوئال-جاۋابلار</a></li><li> &nbsp;<a href="thread.php?fid=110">|- توربەت ياساش</a></li><li> &nbsp;<a href="thread.php?fid=190">|- كومپيۇتېر ئۇنىۋېرسال بىلىملىرى</a></li><li> &nbsp;<a href="thread.php?fid=229">|- كومپىيۇتېر كاشىلىلىرى</a></li><li> &nbsp;<a href="thread.php?fid=55">|- قاتتىق دېتال</a></li><li> &nbsp;<a href="thread.php?fid=56">|- يۇمشاق دېتال</a></li><li> &nbsp;<a href="thread.php?fid=57">|- مەشغۇلات سىستېمىسى</a></li><li> &nbsp;<a href="thread.php?fid=58">|- توربىلىملىرى</a></li><li> <a href="index.php?cateid=239">>> ئىسلام دىنى</a></li><li> &nbsp;<a href="thread.php?fid=240">|- ئىسلام دىنىدىن ساۋاتلار</a></li><li> &nbsp;<a href="thread.php?fid=243">|- قۇرئان كەرىم تەرجىمىسى</a></li><li> &nbsp;<a href="thread.php?fid=241">|- قۇرئان كەرىم</a></li><li> &nbsp;<a href="thread.php?fid=242">|- ئىسلام دۇنياسى</a></li><li> <a href="index.php?cateid=267">>> IT ئۇچۇرلىرى</a></li><li> &nbsp;<a href="thread.php?fid=219">|- يانفون ئۇچۇرلىرى</a></li><li> &nbsp;<a href="thread.php?fid=220">|- رەقەملىك مەھسۇلاتلار</a></li><li> &nbsp;<a href="thread.php?fid=277">|- TV كارتىسى</a></li><li> &nbsp;<a href="thread.php?fid=284">|- كۆچمە دىسكا</a></li><li> &nbsp;<a href="thread.php?fid=282">|- MP4-MP3</a></li><li> &nbsp;<a href="thread.php?fid=273">|- كۆرسىتىش كارتىسى</a></li><li> &nbsp;<a href="thread.php?fid=275">|- ئوپتىك قويغۇچ</a></li><li> &nbsp;<a href="thread.php?fid=290">|- نۇسخا كۆپەيتكۈچ</a></li><li> &nbsp;<a href="thread.php?fid=268">|- قاتتىق دىسكا</a></li><li> &nbsp;<a href="thread.php?fid=286">|- نۇر دىسكا</a></li><li> &nbsp;<a href="thread.php?fid=269">|- قاتتىق دىسكا</a></li><li> &nbsp;<a href="thread.php?fid=278">|- شامالدۇرغۇچ</a></li><li> &nbsp;<a href="thread.php?fid=272">|- ئىچكى ساقلىغۇچ</a></li><li> &nbsp;<a href="thread.php?fid=293">|- رەقەملىك ئاپپارات</a></li><li> &nbsp;<a href="thread.php?fid=283">|- بارماق دىسكا</a></li><li> &nbsp;<a href="thread.php?fid=270">|- ئاساسىي تاختا</a></li><li> &nbsp;<a href="thread.php?fid=271">|- CPU</a></li><li> &nbsp;<a href="thread.php?fid=274">|- ئوپتىك ئويغۇچ</a></li><li> &nbsp;<a href="thread.php?fid=276">|- ئېكران</a></li><li> &nbsp;<a href="thread.php?fid=287">|- قول كومپيۇتېر</a></li><li> &nbsp;<a href="thread.php?fid=279">|- ئاۋز كارتىسى</a></li><li> &nbsp;<a href="thread.php?fid=280">|- كونۇپكا تاختىسى</a></li><li> &nbsp;<a href="thread.php?fid=281">|- مائۇس</a></li><li> &nbsp;<a href="thread.php?fid=285">|- ئاساسىي ماشىنا قېپى</a></li><li> &nbsp;<a href="thread.php?fid=288">|- ياڭراتقۇ</a></li><li> &nbsp;<a href="thread.php?fid=289">|- نۇسخا ئالغۇ</a></li><li> &nbsp;<a href="thread.php?fid=291">|- نۇسخا چىقارغۇچ</a></li><li> &nbsp;<a href="thread.php?fid=292">|- قەغەز</a></li><li> &nbsp;<a href="thread.php?fid=294">|- كامىرا</a></li><li> &nbsp;<a href="thread.php?fid=295">|- تېلېكامىرا-سىفرلىق تېلېكامىرا</a></li><li> <a href="index.php?cateid=263">>> خەۋەرلەر</a></li><li> &nbsp;<a href="thread.php?fid=198">|- خەلقئارا خەۋەرلەر</a></li><li> &nbsp;<a href="thread.php?fid=199">|- شىنجاڭ خەۋەرلىرى</a></li><li> &nbsp;<a href="thread.php?fid=200">|- مەملىكەت خەۋەرلىرى</a></li><li> <a href="index.php?cateid=196">>> ئۇچۇرلار</a></li><li> &nbsp;<a href="thread.php?fid=197">|- ماشىنا ئۇچۇرلىرى</a></li><li> &nbsp;<a href="thread.php?fid=201">|- خىزمەت ئۇچۇرى</a></li><li> &nbsp;<a href="thread.php?fid=202">|- ئۆي ئۇچۇرلىرى</a></li><li> &nbsp;<a href="thread.php?fid=203">|- ئىقتىسادىي ئۇچۇرلار</a></li><li> &nbsp;<a href="thread.php?fid=204">|- پەن-تېخنىكا ئۇچۇرلىرى</a></li><li> &nbsp;<a href="thread.php?fid=205">|- ئۇنىۋېرسال ئۇچۇرلار</a></li><li> <a href="index.php?cateid=161">>> مائارپ</a></li><li> &nbsp;<a href="thread.php?fid=166">|- مائارىپ تەشكىلاتلىرى</a></li><li> &nbsp;<a href="thread.php?fid=162">|- بالىلار باغچىلىرى</a></li><li> &nbsp;<a href="thread.php?fid=165">|- باشلانغۇچ مەكتەپلەر</a></li><li> &nbsp;<a href="thread.php?fid=163">|- ئوتتۇرا مەكتەپلەر</a></li><li> &nbsp;<a href="thread.php?fid=169">|- ئالىي مەكتەپلەر</a></li><li> &nbsp;<a href="thread.php?fid=168">|- گېزىتلەر</a></li><li> &nbsp;<a href="thread.php?fid=167">|- ژۇرناللار</a></li><li> <a href="index.php?cateid=214">>> خانىم - قىزلار      </a></li><li> &nbsp;<a href="thread.php?fid=215">|- قىزلار پسىخىكىسى</a></li><li> &nbsp;<a href="thread.php?fid=216">|- خانىم - قىزلار ساغلاملىقى</a></li><li> &nbsp;<a href="thread.php?fid=217">|- گۈزەللىك بىلىملىرى</a></li><li> &nbsp;<a href="thread.php?fid=218">|- ئەخلاق</a></li><li> <a href="index.php?cateid=221">>> ھەربىي ئىشلار</a></li><li> &nbsp;<a href="thread.php?fid=222">|- جەڭ پاراخوتلىرى</a></li><li> &nbsp;<a href="thread.php?fid=223">|- كۆرەشچى ئايروپىلانلار</a></li><li> &nbsp;<a href="thread.php?fid=224">|- جان ئالغۇ مىلتىقلار</a></li><li> &nbsp;<a href="thread.php?fid=225">|- سۇ ئاستى كېمىلەر</a></li><li> &nbsp;<a href="thread.php?fid=226">|- قۇرۇقلۇق ئارمىيىلىرى</a></li><li> <a href="index.php?cateid=66">>> قانۇن - نىزاملار</a></li><li> &nbsp;<a href="thread.php?fid=144">|- جىنايەت ۋە جازا</a></li><li> &nbsp;<a href="thread.php?fid=264">|- قانۇندىن مەسلىھەت</a></li><li> &nbsp;<a href="thread.php?fid=95">|- قانۇنلار</a></li><li> &nbsp;<a href="thread.php?fid=94">|- نىزاملار</a></li><li> <a href="index.php?cateid=191">>> ئۇنىۋېرسال</a></li><li> &nbsp;<a href="thread.php?fid=192">|- ئۇنىۋېرسال سەھىپە</a></li><li> <a href="index.php?cateid=234">>> ۋاكالەتچىللىرىمىز</a></li><li> <a href="index.php?cateid=233">>> كىتابخانا</a></li><li> &nbsp;<a href="thread.php?fid=307">|- مىللەتلەر (بېيجىڭ) نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=300">|- شىنجاڭ ياشلار - ئۆسمۈرلەر نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=306">|- قەشقەر ئۇيغۇر نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=302">|- شىنجاڭ ئېلېكترون، ئۈن - سىن نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=298">|- شىنجاڭ مائارىپ نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=303">|- شىنجاڭ پەن - تېخنىكا نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=299">|- شىنجاڭ خەلق نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=301">|- شىنجاڭ گۈزەل - سەنئەت نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=304">|- شىنجاڭ خەلق سەھىيە نەشرىياتىنىڭ كىتابلىرى</a></li><li> &nbsp;<a href="thread.php?fid=305">|- شىنجاڭ ئۇنىۋېرسىتېتى نەشرىياتىنىڭ كىتابلىرى</a></li></ul></div></div>
+<!--ads begin-->
+
+<div class="t" style="margin:15px auto"><table width="100%" cellspacing="0" cellpadding="0" align="center">
+
+	<tr class="tr3">
+
+	<td width="25%" class="r_one black y-style"><a href="https://uyghur-archive.com/bilqut/bilqut_news/show.php?itemid=5" target="_blank">خەزىنىنى ئەلالاشتۇرۇش ئۇسۇلى</a></td>
+
+	<td width="25%" class="r_one black y-style"><a href="https://bbs.uyghur-archive.com/bilqut/read.php?tid=8015" target="_blank">خەزىنىنڭ9 - ئايلىق ئەلالاشتۇرۇلشى !</a></td>
+
+	<td width="25%" class="r_one black y-style"><a href="https://uyghur-archive.com/bilqut/bilqut_news/show.php?itemid=7" target="_blank"><<بىلقۇت خەزىنىسى>> ھەققىدە </a></td>
+
+	<td width="25%" class="r_one black y-style"><a href="https://uyghur-archive.com/bilqut/bbs/read.php?tid=2686" target="_blank">ۋاكالەتچى چاقىرىمىز</a></td>
+
+	</tr>
+
+</table></div>
+
+<!--ads end-->
+<div class="t3"><table width="100%" align="center" cellspacing="0" cellpadding="0">
+	<tr><td align="right"><div class="fl"></div></td><td align="right"><a href="post.php?action=reply&fid=240&tid=7674"><br><img src="images/wind/reply.png" /></a> <a href="post.php?fid=240"><img src="images/wind/post.png" id="td_post" /></a></td></tr>
+</table></div>
+<div id="menu_post" class="menu tac f14" style="display:none;"><ul style="width:99px;">
+
+	<li><a href="post.php?fid=240&special=4">سودا</a></li>
+
+	<li><a href="post.php?fid=240&special=1">راي</a></li></ul>
+</div>
+<form name="delatc" action="masingle.php?action=delatc" method="post">
+<input type="hidden" name="fid" value="240" />
+<input type="hidden" name="tid" value="7674" />
+<div class="t" style="margin-bottom:0px; border-bottom:0"><table cellspacing="0" cellpadding="0" width="100%">
+	<th class="h"> نۆۋەتتىكى تېما : </b> سوپىزىم ھەققىددىكى ماقالە</th>
+      <td class="h" style="text-align:LEFT;"><span> <a class="fn" style="cursor:pointer;" onclick="sendmsg('pw_ajax.php?action=favor&amp;tid=7674','',this.id)" id="favor"><font color="#000000">
+		تېما ساقلىغۇچتا ساقلاش | </font></a><a href="job.php?action=previous&amp;fid=240&amp;tid=7674&amp;fpage=0&amp;goto=previous" class="fn"><font color="#000000">
+		ئالدىنقى تېما | </font></a> <a href="job.php?action=previous&amp;fid=240&amp;tid=7674&amp;fpage=0&amp;goto=next" class="fn"><font color="#000000">
+		كېيىنكى تېما</font></a></span> </td></a></span> </td>
+	</tr>
+	<tr><td></td></tr></table><table cellspacing="0" cellpadding="0" width="100%">
+	
+    <td background="timabg.gif" align="center"><tr><td>سىز بۇ تېمىنىڭ<span style="color:#FF3300;"> 
+		86</span>ـ كۆرۈرمىنى  </td></tr>	</td>
+	</tr></table>
+	<tr><td></td></tr>
+</table></div>
+
+<a name=a></a><a name=tpc></a>
+
+
+<div class="t t2" style="border-top:0">
+
+  <table cellspacing="0" cellpadding="0" width="100%" style="table-layout:fixed;border-top:0">
+	<tr class="tr1"><th   rowspan="2" class="r_one2" style="width:18%">
+
+      <div align="center" style="padding: 1px; filter: glow(color=green,strength=4); color: white; height: 16px">
+ajimks</div>
+      <div class="user-pic">
+<table style="border:0">
+  <tr>
+    <td width="1" align="center">
+                
+          </div></td>
+
+    <td align="center" style="FILTER: alpha(opacity=80) gray()" onmouseover="this.style.filter=''" onmouseout="this.style.filter='Gray();'"><span title="مەن ھازىر توردا يوق ، ئىشىڭىز بولسا باش رەسىمىمنى چېكىپ سۆز قالدۇرۇڭ ." onclick="sendmsg('pw_ajax.php?action=msg&amp;touid=1966','','sf_0')" style="cursor:pointer" >
+	<img class="pic" src="images/face/17.gif" border="0" /></span></td>
+    
+    
+    <td></td></td>
+    
+  </tr>
+</table>
+
+  <table  width="23%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center">
+		<img src="images/wind/read/offline.gif" title="بۇ ئەزا ھازىر توردا يوق" align="center"/>
+ </td>
+      </tr>
+  </table>
+</div>
+		<br><span id="sf_0"></span>
+		دەرىجىسى : <font color="#555555">يۈز بېشى </font><br />
+		<img style="margin:.2em 0 .6em" src="images/wind/level/11.gif" /><br />
+
+<span class="user-info2" id="showface_0">
+<span class="user-infoWrap2">
+
+<a href="profile.php?action=show&uid=1966"><img src="images/wind/read/profile.gif" title="ئاپتور ماتېرىيالىنى كۆرۈش" /></a> <img src="images/wind/read/message.gif" title="قىسقا ئۇچۇر يوللاش" onclick="sendmsg('pw_ajax.php?action=msg&touid=1966','','sf_0')" style="cursor:pointer"  /><img onclick="addfriend('1966')" style="cursor:pointer" src="images/wind/read/friends.gif" title="دوستقا قوشۇش" />
+
+<a href="https://wpa.qq.com/msgrd?V=1&Uin=270001999&Site=بىلقۇت باغچىسى &Menu=yes" title="QQ:270001999" target="_blank"><img src="images/wind/read/qq.gif" /></a>
+
+<br />
+		نادىر يازمىلار : 
+
+		<a href="search.php?authorid=1966&digest=1" target="_blank" class="s4 f9">
+		1</a>
+<br />
+		يوللىغان تېما : <span class="s1 f9">75</span><br />
+		شۆھرىتى: <span class="s2 f9">93 نومۇر</span><br />
+		تەڭگىسى : <span class="s3 f9">615 تەڭگە </span><br />
+
+		تۆھپە: <span class="s1 f9">1 نومۇر</span><br />
+
+		<span class="gray">تىزىملاتقان ۋاقتى : 2008-07-21<br />
+		ئاخىرقى كىرگىنى : 2008-09-14 </span>
+		</span></span>
+		</th>
+		<th style="background-color:#f2f8ff" height="100%" class="r_one" valign="top" id="td_tpc" style="padding:5px 15px 0 15px; border:0;width:80%; overflow:hidden">
+			<div class="tiptop">
+			<span class="fr"><a style="cursor:pointer" onclick="fontsize('small','tpc')">
+			كىچىك</a> <a style="cursor:pointer" onclick="fontsize('middle','tpc')">
+			نورمال</a> <a style="cursor:pointer" onclick="fontsize('big','tpc')">
+			چوڭ</a></span>
+			<a onclick="sendurl(event,'action=quote&fid=240&tid=7674&pid=tpc&article=0',this.id)" id="quote_tpc" style="cursor:pointer"><img src="images/wind/read/quote.gif" title="بۇ يازمىنى نەقىل ئېلىش" /></a> <a style="cursor:pointer" id="recommend_tpc" onclick="sendmsg('pw_ajax.php?action=recommend&tid=7674','',this.id)"><img src="images/wind/read/emailto.gif" title="بۇ يازمىنى تەۋسىيە قىلىش" /></a> <a id="modify_tpc" onclick="sendurl(event,'action=modify&fid=240&tid=7674&pid=tpc&article=0',this.id)" style="cursor:pointer"><img src="images/wind/read/edit.gif" /></a>
+
+			<a href="read.php?tid=7674&uid=1966" title="پەقەت ئاپتورنىڭلا يازمىلىرى كۆرسىتىلسۇن"><img src="images/wind/read/only.png" /></a>
+
+			</div>
+			<h1 id="subject_tpc" class="fl1"><div style="padding: 1px; filter: glow(color=green,strength=4); color: white; height: 16px">
+				&nbsp;سوپىزىم ھەققىددىكى ماقالە</div></h1>
+			
+			
+		<div id="tt_tpc" dir="ltr" align="left" style="border: #CCCCCC 1px solid; background-color:#fffbf2; font-family:Arial, Helvetica, sans-serif; font-style:normal">
+<table width="755"><tr><td width="48%"><font color="#0033CC" size="18">
+	<a href="javascript:uly('mm_tpc','tt_tpc')" ><font size="5" color="blue" >ULY Da Körüsh</font></a></font></td>
+	<td width="51%" align=right><font color="#0033CC" size="18">
+	<a href="javascript:usy('mm_tpc','tt_tpc')" ><font face="Arial, Helvetica, sans-serif"size="5" color="blue" >уйғурчә</font></a></font></td></tr></table>
+
+	</div><br>
+			
+
+<!-- 
+EOT; 
+if(0==0){print <<<EOT 
+--> 
+
+<!-- 
+EOT; 
+}print <<<EOT 
+-->
+
+
+			<div id="p_tpc" class="c"></div>
+
+
+<div style="background-color:#f2f8ff" class="tpc_content"  id="mm_tpc" >قىسقىچە چۈشەنچە: &nbsp; سوپىزىم ھەققىددىكى بۇ ماقالە كەڭ ئۆقۇرمەنلىرىمىزنىڭ ئۇزاقرىن بىرى زېھنىدە يىشىلمەي كىلىۋاتقان، تەسەۋۋۇپ ئەھلى قانداق كىشىلەر؟ ئۇلارنىڭ تەرىقىتى ئىسلام پائالىيەتلىرىدىنمۇ ئەمەس؟ ئەھلى سۈننە ۋەلجەمائە ئۇلارغا قانداق قارايدۇ؟ دىگەنگە ئوخشاش سوئاللار بولۇپ، بۇ ئىلمى ماقالىنى ئۆقۇپ چىققاندىن كېيىن ئۆزىڭىز باھا بىرىڭ!<br />                                                       &nbsp; <br />                       &nbsp; سوپىزم<br /><br />                        ئېنىقلىما:<br /><br />تەسەۋۋۇپ- ھاقارەت بابىدا ئەيش-ئىشرەتكە چۈكۈشكە بولغان قارشىلىقنى ئىپادىلەش مەقسىتىدە قاتتىق ئىبادەت قىلىشقا ۋە زاھىدلىققا چاقىرىدىغان شەخسى ئىنتىلىشلەر شەكلىدە ھىجرىيە ئۈچىنچى ئەسىردە ئىسلام ئالەمىگە تارقالغان بىر خىل دىنىي ھەرىكەت. كېيىنچە بۇ خىل مايىللىقلار تەرەققى قىلىپ، سوپىزم نامى بىلەن تونۇلغان پەرقلىق تەرىقىلەرگە ئايلانغان. تەسەۋۋۇپچىلار شەرئىي ۋاسىتىلەرگە ئەگىشىش ئارقىلىق ئەمەس، كەشىف (بايقاش) ۋە كۆرۈش ئارقىلىق ئاللاھ تائالانى بىلىشكە يىتىش مەقسىتىدە نەپىسنى تەربىيلەش ۋە ئۇ ئارقىلىق يۈكسىلىشنى كۆزلەيدۇ. شۇنىڭ بىلەن،ئۇلار ئايرىم يول تۇتقان ۋە تەرىقەتلىرى ھىندىستان، پارىس (ئىران)، يۇنان قاتارلىقلارنىڭ ئوخشىمىغان بۇددىست پەلسەپىلىرى بىلەن گىرەلىشىپ كەتكەن. زاھىدلىق بىلەن تەسەۋۋۇپ ئوقۇمى ئوتتۇرىسىدا ماھىيەتلىك پەرقلەرنىڭ بارلىقىنى نەزەردىن ساقىت قىلماسلىق لازىم. ئۇنىڭ ئەڭ مۇھىمى: زاھىدلىق شەرىئەت تەرىپىدىن بۇيرۇلغان بىر خىل ئەھۋال بولسا، تەسەۋۋۇپ ئەھلى سۈننە ۋەلجامائە تۇتۇپ ماڭغان ھەق يولدىن ئېغىشنىڭ مەركىزى نۇقتىسىدا ياتىدۇ.<br /><br />قورۇلۇشى ۋە ئاساسلىق كىشىلىرى:<br /><br />مۇھىم مۇقەددىمە:<br /><br />* پەيغەمبەر ئەلەيھىسسالامنىڭ دەۋرىدىن باشلاپ، توغرا يولدىكى خەلىپىلەر ھەتتا ھەسەن ئەلبەسرىي ۋاپاتىغىچە بولغان دەسلەپكى ئىككى ئەسىر جەريانىدا، سوپىزم نە ئىسمى، نە رەسىمى ۋەياكى سۈلۈكلىرى بىلەن تونۇلمىغان ئىدى. ئۇ دەۋردىكى ھەممىنى ئۆز ئىچىنى ئالىدىغان ئاتالغۇلار: مۇسۇلمانلار، مۆمىنلەر ياكى ساھابە، بەدر ئەھلى، بەيئەت ئەھلى، تابىئىن دېگەنگە ئوخشاش مەخسۇس ئىسىملاردىن ئىبارەت ئىدى. <br /><br />ئۇ دەۋردە، ئايرىم كىشىلەرنىڭ نەپىسكە ئېغىرچىلىق سېلىش خۇسۇسىدىكى شەخسىي ئىنتىلىشلىرىنى ھېسابقا ئالمىغاندا، ئەمەلىي خۇداگۇيلۇق ياكى ئىلمى ئەقىدە پەرەستلىك ساھەسىدە بۇ دەرىجىدە رادىكاللىق يوق ئىدى. بۇ ئىشلاردىن ئۇلارنى پەيغەمبەر ئەلەيھىسسالام بىر قانچە يەردە چەكلىگەن ئىدى. ئۇلارنىڭ بىرى، پەيغەمبەر ئەلەيھىسسالامنىڭ ئىبادىتى توغرىسىدا سورىغان بىر گۇرۇپ كىشىلەرگە ئېيتقان سۆزىدۇر: «لېكىن مەن روزا تۇتىمەن ۋە روزىسزمۇ يۈرىمەن، مەن كېچىنىڭ بىر قىسمىدا ناماز ئوقۇيمەن، بىر قىسمىدا ئۇخلايمەن ھەم ئاياللار بىلەن توي قىلىمەن. كىمكى مېنىڭ سۈنىتىمدىن يۈز ئۆرىسە ئۇ مېنىڭ ئۈممىتىمدىن ئەمەس.»<br /><br />يەنە پەيغەمبەر ئەلەيھىسسالامنىڭ، ئائىشە رەزىيەللاھۇ ئەنھادىن رىۋايەت قىلىنغان ھەدىستىكى، كېچە ئوقۇيدىغان نامىزىدا ئوخلاپ قېلىشتىن قورقۇپ، ئۆزىنى باغلاپ قويغان ھەۋلا بىنتى نۇۋەيتكە دېگەن سۆزىمۇ بۇنىڭ دەلىلى: «سىلەر تاقىتىڭلار يىتىدىغان ئەمەللەرنى قىلىشىڭلار كېرەك، ئاللاھ بىلەن قەسەمكى، ئۇ سىلەر زىرىكمىگۈچە زېرىكىپ قالمايدۇ، ئاللاھ تائالانىڭ نەزىرىدىكى ئەڭ سۆيۈملۈك ئەمەل، ئاز بولسىمۇ ئىزچىل داۋاملاشتۇرۇلغان ئەمەلدۇر.» <br /><br />-ساھابە، تابىئىن ۋە تابىئىنلارنىڭ تابىئىنلىرىنىڭ دەۋرىدە مۇشۇ خىل ئۆلچەم بويىچە مېڭىشاتتى، ئىلىم بىلەن ئەمەلنى، ئىبادەت بىلەن نەپىس ۋە ئائىلىگە ھەمدەم بولۇشنى، ئىبادەت بىلەن جىھادنى، ئىبنى مەسئۇد رەزىيەللاھۇ ئەنھۇنىڭ كۇفە مەسچىتىدىكى كوللېكتىپ زىكىر قىلىش بىدئىتىگە قارشى تۇرۇپ، ئۇنى ئەمەلدىن قالدۇرغىنى ۋە مۇئەززىد ئىبنى يەزىيد ئەلئەجلىينىڭ ئەگەشكۈچىلىرىنىڭ بەزى تاغلاردا ئىبادەت قىلىش ئۈچۈن مەخسۇس يەر تۇتقانلىقىغا قارشى تۇرۇپ، ئۇلارنى ئۇ ئىشتىن قايتۇرغانلىقىغا ئوخشاش، بىدئەت ۋە ھاۋايى-ھەۋەسلەرگە قارشى تۇرۇشنى ئۆز ئارا مۇجەسسەملەشتۈرگەن ئىدى. <br /><br />* ئابىدلارنىڭ ئوتتۇرىغا چىقىشى: ھىجرىيە ئىككىنچى ئەسىردە، يەنى تابىئىنلار ۋە قالغان ساھابىلەرنىڭ دەۋرىدە، بىر گۇرۇھ ئابىدلار مەيدانغا كىلىپ، يالغۇزچىلىقنى، كىشىلەرگە ئارىلاشماسلىقنى ئەۋزەل كۆردى، ئىلگىرى كۆرۈلمىگەن دەرىجىدە ئۆزلىرىنى ئىبادەتكە زورلىدى. ئۇنداق بولۇشتىكى سەۋەبلەرنىڭ بىر قىسمى، بەزى ئىچكى پىتنىلەرنىڭ ئاۋۇپ كېتىشى، گۇناھسىز قانلارنىڭ ئېقىتىلىشى قاتارلىقلار ئىدى. شۇنىڭ بىلەن ئۇلار، جەمئىيەتتىكى پىتنىلەردىن ئۆزلىرىنى ھېمايە قىلىش، دىنىي جەھەتتىكى ساغلاملىقنى ساقلاپ قېلىش ئۈچۈن ئايرىم ياشاشنى ئەۋزەل كۆرۈشتى. ئۇنىڭدىن باشقا يەنە، مۇسۇلمانلارنىڭ ئالدىدا دۇنيانىڭ ئېچىلىپ كېتىشى، بولۇپمۇ ئىسلامىي پەتھىلەرنىڭ كېڭىيىشى، بەزى مۇسۇلمانلارنىڭ ئۇنىڭغا بىرىلىپ كېتىشى ۋە ئەدەبسىز كىشىلەر ئارىسىدا ئەيش-ئىشرەت ۋە ھاياسىزلىقنىڭ يامراپ كېتىشى قاتارلىقلار بەزى ئابىدلاردا بولۇپمۇ بەسرە، كۇفە قاتارلىق جايلاردىكى ئابىدلاردا ئىنكاس پەيدا قىلدى. ئەمما، دەسلەپتىكى مېتودتىن ئېغىشنىڭ باشلىنىشى سۈلۈك قىسمىدىلا ئىدى.<br /><br />-كۇفىلىكلەردىن بىر جامائەت چىقىپ، كىشىلەردىن ئايرىلىپ چىقتى، ھۇسەين ئىبنى ئەلى رەزىيەللاھۇ ئەنھۇنىڭ قەتل قىلىنىشىدىن كېيىن قاتتىق پۇشايمان قىلغانلىقلىرىنى ئاشكارىلاشتى ۋە ئۆزلىرىنى كۆپ تەۋبە قىلغۇچىلار ياكى يىغلىغۇچىلار، دەپ ئاتاشتى. يەنە، ئىبادەت ساھەسىگە بەكرەك ئەھمىيەت بىرىدىغان، دۆلەت ئىشلىرىغا ئىشتىراك قىلىشتىن يىراق تۇرىدىغان بىر تەبىقە ئوتتۇرىغا چىقتى. ئۇلار ئەمەل، پەزىلەت ۋە شەرىئەتنىڭ ئەدەب- قائىدىلىرىنى چىڭ تۇتۇشتا، كىتاب ۋە سۈننەتنى ئۆگىنىش ۋە ئۆگىتىش بىلەن شوغۇللىنىشلاردىن باشقا، ھەقىقەتتە چىڭ تۇرۇش، ھاۋايى- ھەۋەس ئەھلىلىرىگە قارشى تۇرۇشتا چىڭ تۇردى. ئۇلاردا يەنە ئاللاھ تائالادىن قاتتىق قورقۇش، قۇرئان كەرىمنى ئاڭلىغاندا ھۇشىدىن كېتىش ۋە ئاۋازىنى كۆتىرىش قاتارلىق ئەھۋاللىرى ئوتتۇرىغا چىقتى. بۇ ئىشلار، يەنە شۇ دەۋردە قارىلار، زاھىدلار ۋە ئابىدلار، دېگەنگە ئوخشىغان لەقەملەرنىڭ تارقىلىشىغا ئوخشىغان ئىشلار سەۋەپلىك، ئەسما بىنتى ئەبۇ بەكر، ئابدۇللاھ ئىبنى زۇبەير، مۇھەممەد ئىبنى سىيرىين ۋە باشقىلارغا ئوخشىغان(ئاللاھ ئۇلارنىڭ ھەممىسىدىن رازى بولسۇن) بىر قىسىم ساھابە ۋە تابىئىنلارنىڭ چوڭلىرىنىڭ رەت قىلىشلىرىغا ئۇچرىدى. ئۇلارنىڭ كۆزگە كۆرۈنگەنلىرى، ئامىر ئىبنى ئابدۇللاھ ئىبنى زۇبەير، سەفۋان ئىبنى سەلىم، تەلقە ئىبنى ھەبىب ئەلئېنەزىي، ئەتائ ئەسسىلمىي، ئەسۋەد ئىبنى يەزىيد ئىبنى قەيس، داۋۇد ئەتتائېي ۋە ھەسەن ئەلبەسرىينىڭ بىر قىسىم ئەسھابىلىرىدىن ئىبارەت ئىدى.<br /><br />* ئېغىشنىڭ باشلىنىشى: ھەر قانداق بىر ئېغىشنىڭ باشلىنىشى كىچىكىدىن باشلىنىدۇ، كۈنلەرنىڭ ئۆتىشى بىلەن تەدرىجى كېڭىيىدۇ. زۇھد ئوقۇمى كۇفە، بەسرەلەردە، ئىبراھىم ئىبنى ئەدھەم، مالىك ئىبنى دىينار، بىشىر ئەلھافىي، رابىئەتۇل ئەدەۋىييە، ئابدۇلۋاھىد ئىبنى زەيدكە ئوخشىغان زاھىدلارنىڭ چوڭلىرى ئارقىلىق بۇرۇنقى زاھىدلاردا كۆرۈلۈپ باقىمىغان تاماق يىمەسلىك ئارقىلىق نەپىسنى قىيناش، گۆش يېيىشنى ھارام قىلىش، سەھرا، تۈزلەڭلىكلەرگە ساياھەت قىلىش، ئۆيلىنىشتىن يىراق تۇرۇش قاتارلىق ئوقۇملارغا تەرەققىي قىلدى.<br /><br />مالىك ئىبنى دىينار &quot;بىر كىشى ئايالىنى گويا تۇل ئايالغا ئوخشاش تاشلاپ قويۇپ، ئىتلارنىڭ زەمبىللىرىدە پاناھلانمىغۇچە، سىددىقىينلار دەرىجىسىگە يىتەلمەيدۇ&quot; دەيدۇ. بۇلارنى ھېچقانداق تايانچى ياكى كىتاب، سۈننەتتىن نەس بولمىغان ئەھۋال ئاستىدا ئوتتۇرىغا قويىدۇ. ئەمما، ئەسكەرتىشكە تېگىشلىك ئىشلارنىڭ بىرى، شەيخۇل ئىسلام ئىبنى تەيمىييە ئېيتقاندەك، ئۇلارنىڭ ئېيتقانلىقى ئېنىق مۇئەييەنلەشتۈرۈلمىگەن تۇترۇقسىز، رەزىللەرچە ئېيتىلغان سۆزلەر ئەشۇ زاھىدلارغا مەنسۇپ قىلىپ قويۇلغان ئەھۋاللارمۇ بار.<br /><br />-كۇفىدە مۇئزەد ئىبنى يەزىيد ئەلئەجلىي ۋە ئۇنىڭ قەبىلىسى ئۆزلىرىنى ئوخلىماسلىققا، نامازنى داۋاملاشتۇرۇشقا كۆندۈرۈشكە باشلىدى. كۇفەنىڭ بىر تۈركۈم زاھىدلىرى ئۇلارنىڭ يولىنى تۇتۇپ ماڭدى ۋە باشتا دېيىلگەندەك ئىبنى مەسئۇدنىڭ توسۇشلىرىغا قارىماي، ئىبادەت قىلىش ئۈچۈن تاغلارغا چىقىپ كىتىشكە باشلىدى. <br /><br />-ئۇلارنىڭ رابىئەتۇل ئەدەۋىييەگە ئوخشىغان بىر قىسىملىرىدىن، پەرۋەردىگار بىلەن بەندىنىڭ ئوتتۇرىسىدىكى مۇھەببەتنى ئىپادىلەش مەقسىتىدە، ئىلاھىي ئىشىق، سۆيگۈگە ئائىت ناتوغرا سۆزلەر ئوتتۇرىغا چىقتى. بۇلارغا ئەگىشىپ، ئاللاھ تائالانىڭ «(رەھمىتىمىزنى) ئۈمىد قىلىپ، (ئازابىمىزدىن) قورقۇپ بىزگە دۇئا قىلاتتى»  دېگەن سۆزىگە خىلاپ ھالدا، ئىبادەت ھەققىدە نە جەننەتنى تاما قىلىپ، نە جەھەننەمدىن قورقۇپ قىلماسلىق دېگەندەك خاتا چۈشەنچىلەر مەيدانغا كەلدى.<br /><br />-شۇ باسقۇچتىكى بۇ خىل تەرەققىياتلارنى شەيخۇل ئىسلام ئىبنى تەيمىييە مونۇ سۆزى ئارقىلىق خۇلاسىلەيدۇ: &quot;تابىئىنلار دەۋرىنىڭ ئاخىرلىرىدا كۆز قاراش، كالام ۋە تەسەۋۋۇپتىن ئىبارەت ئۈچ تۈرلۈك ئىش يۈز بەردى: كۆز قاراش تەرەپدارلىرى كۇفىدە ئىدى. كالام ۋە تەسەۋۋۇپ تەرەپدارلىرى بەسرەدە ئىدى. ھەسەن ۋە ئىبنى سىيرىينلارنىڭ ۋاپاتىدىن كېيىن، ئەمرۇ ئىبنى ئۇبەيد، ۋاسىل ئىبنى ئەتائ ۋە ھەسەن ئەلبەسرىينىڭ شاگىرتى ئابدۇلۋاھىد ئىبنى زەيدنىڭ تالپىى ئەھمەد ئىبنى ئەلى ئەلھۇجەيمىي (200ھ ۋاپات بولغان)لار ئوتتۇرىغا چىقتى. ئۇنىڭ قەدەر توغرىسىدا ئېيتقان سۆزلىرى بار ئىدى. ئۇ ئىسلامدا تۈنجى بولۇپ، ئاڭلاش ۋە زىكىر قىلىش ئۈچۈن مەسچىتتىن مۇستەقىل ھالدا بەسىرىگە سۇپىلار ئۈچۈن بىر خانىقا ياسىدى. ئۇلاردا مۇزىكىغا ئىشارە قىلىدىغان ئاۋازلارنى ئاڭلاش ئەھۋاللىرى شەكىللەندى. مەدىنىلىكلەر ئۇلارغا قارىغاندا سۆز ۋە ئەمەلگە يېقىنراق ئىدى. ئەمما شاملىقلارنىڭ كۆپىنچىسى مۇجاھىدلار ئىدى.&quot;<br /><br />* شۇ دەۋردىن باشلاپ، تەسەۋۋۇپ بىر قانچە باسقۇچنى باشتىن كەچۈردى. ئۇلارنىڭ مۇھىملىرى:<br /><br />-باشلىنىش ۋە مەيدانغا كىلىش: تەسەۋۋۇپ ۋە سوپىزم ئاتالغۇسى ئوتتۇرىغا چىقتى. بۇ ئاتالغۇ تۈنجى بولۇپ، پارىس ئېلىگە يېقىن بولۇش سەۋەبى ۋە تەرجىمە دەۋرىدىن كېيىن، يۇنان پەلسەپىسى ۋە ئەھلى كىتاب راھىبلىرىنىڭ سۇلۇكلىرىنىڭ تەسىرىگە ئۇچرىغانلىقى يۈزىسىدىن كۇفىدە ئوتتۇرىغا چىققان. ئۆلىما ۋە تارىخچىلار بۇ ئاتالغۇ بىلەن كىمنىڭ دەسلەپتە ئاتالغانلىقى مەسىلىسىدە ئۈچ خىل قاراشقا كەلگەن:<br /><br />1-شەيخۇل ئىسلام ئىبنى تەيمىييە ۋە ئۇنىڭ قارىشىنى ئويغۇن دەپ قارىغانلار: تۈنجى سۇفىي، نامى بىلەن تونۇلغان كىشى ئەبۇلھاشىم ئەلكۇفىي (150ھ ياكى 162ھ ۋاپات بولغان) شامغا كۆچۈپ بارغاندىن كېيىن ئۇ يەردە تونۇلغان. ئۇ سۇفيان ئەسسەۋرىي بىلەن زامانداش ئىدى. سۇفيان ئۇنىڭ توغرىسىدا &quot;ئەبۇ ھاشىم بولمىغان بولسا، رىيانىڭ ئىنچىكىلىكلىرى تونۇلمىغان بولاتتى.&quot; دېگەن. ئۇ يەنە جەئفەر ئەسسادىق بىلەن ئەسىرداش ئىدى. ئۇ دەسلەپكى شىئەلەرگە مەنسۇپ بولۇپ، شىئەلەر ئۇنى سوپىزمنىڭ ئىجادچىسى، دەپ ئاتىشىدۇ.<br /><br />2-بەزى تارىخچىلار ئەبدۇھك (ئابدۇلكەرىم ياكى مۇھەممەد) (210ھ ۋاپات بولغان) نىڭ سۇفىي، دەپ ئاتالغان تۈنجى كىشى، ئىكەنلىكىنى زىكىر قىلىدۇ. ھارىس ئەلمۇھاسىبىي ئۇنىڭ ئۆزىنى كۇفەدە تەسىس قىلىنغان سۇپىزمچىلار، دەپ ئاتىلىدىغان يېرىم شىئە تائىپىسىدىن ئىكەنلىكىنى ئېيتىدۇ. ئەمما مەلتېي ئۆزىنىڭ&quot;التنبيه والرد على أهل الأهواء والبدع&quot; ناملىق كىتابىدا ئەبدۇھكنىڭ، &quot;دۇنيانىڭ ھەممىسى ھارام، دۇنيادىكى ئۇزۇقلۇقتىن باشقا نەرسە ھېچكىمگە ھالال ئەمەس، توغرا يولدىكى ئىماملار دۇنيانىڭ ئادىل ئىمامسىز ھالال بولمايدىغانلىقىنى ئىلگىرى سۈرگەن، ئادىل ئىمام بولمىغاندا ئۇ ھارامدۇر، ئۇنىڭ ئەھلى بىلەن مۇئامىلە قىلىش ھارامدۇر،&quot; دېگەنلەرنى دەۋا قىلغان زىندىقلار پىرقىسىنىڭ بېشى ئىكەنلىكىنى زىكىر قىلىدۇ.<br /><br />3-فىھرەستتىكى ئىبنى ئەننەدىيم جەئفەر ئەسسادىقنىڭ شاگىرتى جابىر ئىبنى ھەيياننىڭ تۈنجى سۇفىي، دەپ ئاتالغان كىشى ئىكەنلىكىنى ئىلگىرى سۈرىدۇ. شىئەلەر ئۇنى ئۆزلىرىنىڭ چوڭلىرىدىن ھېسابلايدۇ ۋە پەيلاسۇپلارمۇ ئۇنى شىئەلەرگە مەنسۇپ دەپ قارايدۇ.<br /><br />-ئۆلىمالار يەنە، سوپىزم سۆزىنىڭ كىلىپ چىقىشى مەسىلىسىدە بىر قانچە خىل قاراشنى ئىلگىرى سۈرىدىغان بولۇپ، ئاساسلىقلىرى تۆۋەندىكىلەردىن ئىبارەت:<br /><br />1- شەيخۇل ئىسلام ئىبنى تەيمىييە، ئىبنى خەلدۇن ۋە كۆپ ساندىكى ئۆلىمالار ، دەسلەپكى سۇپىلار تەسىرىگە ئۇچرىغان ئەھلى كىتاب راھىبلىرىنىڭ چاچلىرىغا قارىتا، سۇف (يۇڭ)دىن تۈرلەنگەن، دېگەننى ئىلگىرى سۈرىدۇ ۋە شۇنىڭ بىلەن ئەرەب تىلىنىڭ قائىدىلىرىگە ئاساسەن باشقا بارلىق تۈرلىنىش ۋە قاراتمىلىقلىرىنى يوققا چىقىدۇ. يەنە سۇپىلارنىڭ ئۆزلىرىنى پەيغەمبەر ئەلەيھىسسالامنىڭ ئەسھابىلىرىنىڭ ئىچىدىكى كەمبەغەللەرگە مەنسۇپ، دېيىشكە ئۇرۇنۇشلىرى ياكى ئۆزلىرىنى ئەلى ئىبنى ئەبۇ تالىب، ھەسەن ئەلبەسرىي، سۇفيان ئەسسەۋرىي (ئاللاھ ئۇلارنىڭ ھەممىسىدىن رازى بولسۇن) قاتارلىقلارغا مەنسۇپ ئىكەنلىكلىرىنى ئىسپاتلاشقا ئورۇنۇشلىرىنىمۇ يوققا چىقىرىدۇ. بۇ يەردىكى مەنسۇپلۇق قارىشى دەلىلگە ئېھتىياجلىق بولۇپ، ھۆججەت، پاكىتلىرى تولۇق ئەمەس.<br /><br />2-ئەبۇ رەيھان بىيرونىي (440ھ ۋاپات بولغان) ۋە يېقىنقى زاماندىكى فون ھامىر ۋە بۇ ئىككىسىدىن باشقىلار تەرىپىدىن كۈچلۈك، دەپ قارالغان باشقا بىر خىل كىلىپ چىقىش بولۇپ، ئۇلار ئۇنى يۇنانچىدىكى ھېكمەت مەنىسىنى بىرىدىغان SOHP (سۇف) سۆزىدىن كىلىپ چىققان، دەيدۇ. بۇ قاراشنىڭ ھېمايىچىلىرى ئۇنىڭ ساغلاملىقىنى ھىجىرىيە ئىككىنچى ئەسىردە ئاكتىپلاشقان تەرجىمە ھەرىكىتىدىن كېيىن باغداد ۋە ئۇنىڭ ئەتراپىدا تارقالغانلىقىنى دەلىل قىلىپ كۆرسىتىدۇ. ئەمما ئوخشاش ۋاقىتتا ئىسلام ئالەمىنىڭ غەرب ۋە جەنۇبىدا بۇ ئاتالغۇ تونۇلمىغان. زامان ۋە ماكاندىن باشقا، سوپىزم ۋە يۇنانلارنىڭ نەزىرىدىكى پىكىرنىڭ ئەسلىدىمۇ ئوخشاشلىق بار. ھەر ئىككىلا گۇرۇپتا &quot;ۋەھدەتۇل ۋۇجۇد&quot;، &quot;ھۇلۇل&quot;، &quot;ئىشراق&quot; ۋە &quot;فەيز&quot; پىكىرلىرى مانا مەن چىقىپ، تۇرىدۇ. ئۇلار بۇ قاراشنىڭ كۈچلۈكلۈكىگە دەلىل قىلىپ، دىندىن چىققانلىقى سەۋەبلىك ئۆلتۈرۈلگەن سۇھرەۋەردىيگە ئوخشىغان سۇپىلارنىڭ چوڭلىرىنىڭ &quot;بۇ يېقىن زامانلاردىكى سۈلۈكنىڭ نۇرلىرى فىيساگورسنىڭ خېمىر تۇرۇچىدىن كەلگەن بولۇپ، بۇ قېرىندىشىم ئەخمىيم &quot;زۇنۇن ئەلمىسرىي&quot; گە ئۇنىڭدىن سىيارىستىرىي ۋە ئۇنىڭ ئەگەشكۈچىلىرىگە كۆچتى.&quot; دېگەن سۆزلىرىنى دەلىل قىلىدۇ ۋە ئۇنىڭغا شۇ دەۋردە يۇنانچىدىن تەرجىمە قىلىنغان پەلسەپە، مۇزىكا، مۇزىكىشۇناس، سەپسەتە ۋە ھىيولىي دېگەنگە ئوخشاش ئاتالغۇلارنىڭ مەيدانغا كەلگەنلىكىنىمۇ ئىلاۋە قىلىپ، دەلىل قىلىشىدۇ.<br /><br />* سۇپىلارنىڭ ئالدىنقى سېپىدىكى كىشىلەر: ھىجىرىيە ئۈچىنچى ۋە تۆتىنچى ئەسىردە تەسەۋۋۇپقا مەنسۇپ ئۈچ تەبىقە ئوتتۇرىغا چىقتى. ئۇلار:<br /><br />* بىرىنچى تەبىقە: كىشىلەرنىڭ قەلبىنى ۋەسۋەسىگە سالغۇدەك دەرىجىدىكى زاھىدلىققا، دۇنيادىن يىراقلىشىش، پەيغەمبەر ئەلەيھىسسالام ۋە ساھابىلىرى ياشىغان ئىسلامنىڭ دەسلەپكى مەزگىللىرىدىكى ئەھۋاللارغا قارشى شەكىلدىكى ئىبادەت ۋە سۈلۈكتىكى ئېغىشقىلا ئەمەس، بەلكى بۇرۇنقى ئەسىردىكى ئابىدلارغىمۇ قارشى شەكىلدىكى ئېغىشلارغا ۋەكىللىك قىلىدىغان، &quot;سەمىمىيەت&quot; بىلەن مەشھۇر بولغان ئېقىمغا ۋەكىللىك قىلىدۇ. ئۇلارنىڭ، گەرچە جۇنەيدكە ئوخشىغان بەزىلىرىدىن ئۆلىمالار تەرىپىدىن توترۇقسىزلىق، دەپ قارىغان بەزى ئىبارىلەر رىۋايەت قىلىنغان بولسىمۇ كۆپىنچىسىنىڭ ئەقىدىدە دورۇستلىقى، سۈننەت ۋە سەلەپلەرنىڭ مېتودىنى چىڭ تۇتۇش چاقىرىقىنى كۆپ قىلىشى ئومۇميۈزلۈك ئەھۋال ئىدى. بۇ ئېقىمنىڭ تونۇلغان كىشىلىرىدىن:<br /><br />-جۇنەيد: تولۇق ئىسمى، ئەبۇلقاسىم ئەلخەراز (298ھـ ۋاپات بولغان) بولۇپ، سۇپىلار ئۇنى &quot;تائىپىنىڭ ئەپەندىسى&quot; دەپ ئاتىشىدۇ. شۇنىڭ ئۈچۈن ئۇ مۇھىم كىشىلەرنىڭ بىرى ھېسابلىنىدۇ. سوپىلار بولۇپمۇ تەۋھىد، مەرىپەت ۋە مۇھەببەتكە ئائىت مەسىلىلەردە ئۇنىڭ سۆز ۋە قاراشلىرىغا تايىنىدۇ. ئۇ زۇننۇن ئەننۇبىينىڭ قاراشلىرىنىڭ تەسىرىگە ئۇچىرىغان؛ ئۇنىڭدىن كېيىن، شاگىرتى شىبلىي ئۇنى تەھقىقلەپ، توپلاپ تارقاتقان. ئەمما ئۇ، فەنا قارىشىدا زۇننۇن، ھەللاج ۋە بەستامىيلارنىڭ يوللىرىغا قارشى يول تۇتقان؛ ھۇشسىزلىقتىن سەگەكلىكنى ئەۋزەل كۆرىدۇ، تۇترۇقسىز قاراشلارنى رەت قىلىدۇ، فەنادىن بەقانى ياخشى، دەپ ھېسابلايدۇ. ئۇ سۇپىلاردىن شەرئىي مەجبۇرىيەتلەرنىڭ ساقىت ئىكەنلىك قارىشىنى رەت قىلىدۇ. جۇنەيد تۈنجى بولۇپ تەسەۋۋۇپ بىلەن كالامنى ئارىلاشتۇرىۋەتكەن ئۇستازى ھارىس ئەلمۇھاسەبىي ۋە تاغىسى سىررىي ئەسسەقتېي (253ھ ۋاپات بولغان) نىڭ تەسىرىگە ئۇچرىغان.<br /><br />بۇ تەبىقە ئۆز ئىچىگە ئالىدىغانلار يەنە، ئەبۇ سۇلايمان ئەددارانىي، ئابدۇرراھمان ئىبنى ئەھمەد ئىبنى ئەتېييە ئەلئەنىي (205ھ ۋاپات بولغان)، ئەھمەد ئىبنى ئەبۇ ئەلھەۋارىي، ھەسەن ئىبنى مەنسۇر ئىبراھىم ئەبۇ ئەلى ئەششەتاۋىي ئەسسۇفىي (بۇخارى سەھىھىدە ئۇنىڭدىن رىۋايەت قىلغان)، سىررىي ئىبنى مۇغلىس ئەسسەقتېي ئەبۇلھەسەن (253ھ ۋاپات بولغان)، سەھىل ئىبنى ئابدۇللاھ ئەتتەستەرىي (273ھ ۋاپات بولغان)، مەئرۇف ئەلكەرخىي ئەبۇ مەھفۇز (200ھ ۋاپات بولغان) قاتارلىقلار ۋە ئۇلاردىن كېيىن، شۇلارنىڭ تەرىقىلىرى بويىچە داۋام قىلغان ئەبۇ ئابدۇرراھمان ئەسسىلمىي (412ھ)، مۇھەممەد ئىبنى ھۇسەين ئەلئەزدىي ئەسسىلمىي، خەتىيبۇل بەغدادىينىڭ ئۇستازى مۇھەممەد ئىبنى ھەسەن ئىبنى فەزىل ئىبنى ئەلئەبباس ئەبۇ يەئلا ئەلبەسرىي ئەسسۇفىي (368ھ) لارمۇ بار.<br /><br />- بۇ تەبىقىنىڭ باشقا ئالاھىدىلىكلىرىنىڭ مۇھىملىرى قاتارىدا، مۇسۇلمانلار جامائىتى ۋە ئۆلىمالىرىدىن پەرقلىق تۇرۇشنىڭ باشلىنىشى، بەزىلىرىنىڭ سۆزلىرىدىكى &quot;ئىلمىمىز، مەزھىپىمىز، يولىمىز&quot; دېگەنگە ئوخشىغان كېيىنچە تەرىقەتلەرنىڭ مەيدانغا كىلىشىگە شارائىت ھازىرلايدىغان شەكىلدىكى ئاتالغۇلارنىڭ ئوتتۇرىغا چىقىشى قاتارلىقلار بار. جۇنەيد مۇنداق دەيدۇ: &quot;ئىلمىمىز ئاللاھنىڭ رەسۇلىنىڭ ھەدىسلىرى بىلەن گىرەلىشىپ كەتكەن&quot;. بۇ خىل مەنسۇپلۇق شەرئىي جەھەتتىن ھارام بولۇپ، بۇ بىدئەتكە، مەئسىيەتكە، ھەتتا شېرىككە ئېلىپ بارىدۇ. ئۇلار شۇنىڭ بىلەن بىرگە ئۇلارنىڭ تەرىقىسىدە مېڭىشنى مەقسەت قىلغانلارغا مال-دۇنياسىنى تاشلاش، تاماقلىرىنى كېمەيتىش ۋە سۈلۈك ئىچىدىلا بولغانكەن ئۆيلىنىشتىن يىراق تۇرۇش قاتارلىقلارنى شەرت قىلىدۇ.<br /><br />- ئىلىم ۋە دىنىي چۈشەنچىسىنىڭ ئازلىقىغا قارىماي مەنبەسى ئېنىق بولمىغان ۋەز- نەسىھەت ۋە قىسسىلەرگە كۆڭۈل بۆلۈش. ئۇلارنىڭ كۆپىنچىسى ئەھلى كىتابنىڭ ئىستىقامەتچىلىرى ۋە راھىبلىرىنىڭ سۈلۈكلىرىغا ئەگىشىۋاتقان بولغاچقا ساغلام شەكىلدىكى ۋەز- نەسىھەت ۋە قىسسىلەرنى ئۈگۈنىشتىن ھەزەر ئەيلەش كۆپەيدى. چۈنكى ئۇلار ئۆز ئارا ئۇچىراشقان بولۇپ، بۇ ئەھۋال ساھابە ۋە تابىئىنلارنىڭ ئىماملىرىنىڭ ئەۋزەللىكلىرىدىن يىراقلىشىشنى كۈچەيتىۋەتتى. ئاقىۋەت بۇ ئىشلار ئىبادەت قىلىش ئۈچۈن مەسچىتتىن باشقا ئورۇن تۇتۇش بىلەن نەتىجىلەندى؛ ئۇ يەرگە زاھىدلارنىڭ قەسىدىلىرى ياكى پەيغەمبەر ئەلەيھىسسالامنى ماختاش مەقسىتىدە، كۆرۈنىشى غەزەلگە ئوخشايدىغان قەسىدىلەرنى ئاڭلاش ئۈچۈن توپلىنىدۇ. بۇ ئىش فىقھىي ئالىملىرى بىلەن ئۇلارنىڭ ئوتتۇرىسىدا كۈچلۈك دۈشمەنلىككە سەۋەب بولدى. ئۇلارنىڭ ئارىسىدا يەنە كەشىف (بايقاش)، ئادەتتىن تاشقىرى ئىشلارغا دائىر دەۋا قىلىشلار ۋە كالامىزمغا ئائىت بەزى سۆزلەر ئوتتۇرىغا چىقتى. بۇ جەرياندا، ئەبۇ تالىب ئەلمەككىينىڭ كىتابى، ئەبۇ نەئىيم ئەلئىسفەھانىينىنڭ &quot;قوت القلوب و حلية الأولياء&quot;  ناملىق كىتابى ۋە ھارىس ئەلمەھاسىبىينىڭ كىتابلىرىغا ئوخشىغان نۇرغۇن ئەسەرلەر مەيدانغا كەلدى. ئىلگىرىكى ئۆلىمالار، مەۋزۇئ، مۇنكەر، ئىسرائىلىييات قىسسىلىرى ۋە ئەھلى كىتابلارنىڭ سۆزلىرىنى ئۆز ئىچىگە ئالغانلىقى ئۈچۈن، بۇ كىتابلارنى ئوقۇشتىن ئاگاھلاندۇرغان. ئىمام ئەبۇ زەرئەدىن: بۇ كىتابلاردا ئىبرەت بارمۇ، دەپ سورالغاندا ئۇ: ئاللاھ تائالانىڭ كىتابىدىن ئىبرەت ئالمىغانلار ئۈچۈن بۇ كىتابلاردا ئىبرەت يوق، دەپ جاۋاب بەرگەن.<br /><br />* تەسەۋۋۇپ مەزھەپلىرىنىڭ گەۋدىلىك ئالاھىدىلىكلىرىنىڭ مۇھىملىرىنىڭ يەنە بىرى ئۇلارنىڭ ئوتتۇرىسىدىكى ئىبادەت ۋە باشقا مەسىلىلەرنى تىلغا ئېلىشتىكى پەرقلىق مېتودىنىڭ ئورتاق نوقتىسى بولغان &quot;زوق&quot; دەپ ئاتايدىغان نەرسىسىدۇر. بۇ ئۇلارنىڭ ئىچىدىكى كالامپايلىقنىڭ دائىرىسىنى كېڭەيتىۋەتكەن. شۇنىڭ بىلەن سۇپىلىق ئۆزىنى بىرىكىپ كېتىش ياكى ئىسلامىي بولمىغان پەلسەپە ۋە ئەقىدىلەرنىڭ تەسىرىگە يولۇقۇشتىن ھېمايە قىلىشقا قادىر بولالمىغان. بۇنىڭ نەتىجىسىدە بۇ تەبىقىنىڭ يىمىرىلىشىنى قولايلاشتۇرۇپ، رادىكاللىقى ۋە ئېغىشىنى تېخىمۇ ئاشۇرغان ۋە ئىككىنچى تەبىقىنىڭ تارقىلىشىنى كۈچەيتكەن.<br /><br />* ئىككىنچى تەبىقە: زاھىدلىق باتىنىيلارنىڭ ئىبارىلىرى بىلەن ئارىلىشىپ كەتكەن بولغاچقا، ئەمەلىي ئىش، رېئال سۈلۈك بولۇشتىن چىقىپ يالغۇز پىكىر يۈرگۈزۈش، نەزىرىۋىي سۆزلەر باسقۇچىغا كۆتۈرۈلگەن. شۇنىڭ بىلەن ئۇلارنىڭ سۆزلىرىدە، يالغۇزلۇق، فەنا، ئىتتىھاد (بىرلىشىش)، ھۇلۇل، سۇكر (ھوشسىزلىنىش)، سەھۋ (سەگەكلىك)، كەشپ، بەقا، مۇرىد، ئارىپ ، ئەھۋال، ماقاملار دېگەنگە ئوخشىغان ئاتالغۇلار مەيدانغا كەلدى. ئۇلارنىڭ ئىچىدە شەرىئەت بىلەن ھەقىقەتنى پەرقلەندۈرۈش، ئۆزلىرىنى ھەقىقەت ئىگىلىرى، باتىنىيلار، دېگەنگە ئوخشاش ئىسىملار بىلەن ئاتاش، ئۆزلىرىدىن باشقا فىقھىي ئالىملىرىنى زاھىرىيلار، رەسىمچىلەر، دەپ ئاتاشلار كەڭ ئومۇملاشتى، بۇ ئىككى تەرەپنىڭ ئوتتۇرىسىدىكى ئاداۋەتنى كۆپەيتىۋەتتى. بۇلاردىن باشقا سەلەپ-سالىھلار ۋە &quot;سائادەت دەۋرى&quot; دەپ تونۇلغان دەۋردىكى كىشىلەرگە، ھەتتا سۇپىزمغا مەنسۇپ كىشىلەرنىڭ بىرىنچى تەبىقىلىرىدە كۆرۈلۈپ باقمىغان ئەھۋاللار كۆرۈلدى. بۇلار ئۇنىڭ ئېغىشىنى ئاشۇردى. ئۇ دەۋر ھەقىقەتەنمۇ ھازىرغىچە شەكىللەنگەن تەسەۋۋۇپ ئېقىمىنىڭ رېئال باشلانغۇچى بولۇپ قالغان ئىدى.<br /><br />* بۇ تەبىقىنىڭ ئاساسلىق كىشىلىرى: ئەبۇ يەزىيد ئەلبەستامىي (263ھـ ۋاپات بولغان)، زۇننۇن ئەلمىسرىي (245ھ ۋاپات بولغان)، ھەللاج (309ھ ۋاپات بولغان)، ئەبۇ سەئىيد ئەلخەزار (277-288ھـ)، ھەكىم ئەتتىرمىزىي (320ھ ۋاپات بولغان) ۋە ئەبۇ بەكر ئەششىبلىي (334ھ ۋاپات بولغان) قاتارلىقلار. بۇ يەردە ئۇلاردىن كېيىن ھازىرغىچە تەسىرى كۈچلۈك بولغانلارنىڭ تەرجىمە ھالى بىلەن كۇپايىلىنىمىز. مەسىلەن: <br /><br />-زۇننۇن ئەلمىسرىي: تولۇق ئىسمى، ئەبۇلفەيز سەۋبان ئىبنى ئىبراھىم بولۇپ، ئەسلى مىسىر ئېگىزلىكىنىڭ ئەخمىيم يېزىسىدىكى نەۋبەلىك قىبتېيلاردىن. ئۇ ھىجرىيەنىڭ 245-يىلى ۋاپات بولغان. ئىبنى خېللىكان ۋە ئابدۇرراھمان ئەلجامىينىڭ رىۋايەتلىرىگە قارىغاندا، ئۇ تەسەۋۋۇپنى شەقران ئەلئابىد ياكى ئىسرائىل ئەلمەغرىبىيدىن ئۆگەنگەن. شىئەلەرنىڭ كىتابلىرىدا ئۇنىڭ خېمىيەنى جابىر ئىبنى ھەيياندىن ئۆگەنگەنلىكىنى تەكىتلىنىدۇ، ئىبنى نەدىيممۇ &quot;ئەلفىھرىست&quot; ناملىق كىتابىدا ئۇلار بىلەن بىر يەردىن چىقىدۇ. ئىبنى خىللىكان ئۇنىڭ كىشىلەردىن تەقۋالىقىنى يۇشۇرۇپ، شەرىئەتنى مەسخىرە قىلغانلىقىنى ئاشكارا قىلىپ يۈرۈيدىغان &quot;مەلامىتىييە&quot;لەردىن ئىكەنلىكىنى، ئۇنىڭ ھېكمەت ۋە پاساھەتتە مەشھۇر ئىكەنلىكىنى زىكىر قىلىدۇ.<br /><br />سوپىزم يازغۇچىلىرى ئۇنى مەرىپەت ۋە سۆيگۈگە دائىر تەرىقىلىرىنىڭ تەسىس قىلغۇچىسى، مىسىردا ماقاملار، ئەھۋاللار توغرىسىدا دەسلەپ ئېغىز ئاچقان كىشى، دەپ ھېسابلىشىدۇ. ئۇ &quot;كەشپ&quot; ۋە شەرىئەتنىڭ زاھىرىي ۋە باتىنى بار ئىكەنلىكىنى ئوتتۇرىغا قويغان. قۇشەيرىي ئۆزىنىڭ رىسالىسىدە ئۇنىڭ تەۋھىدكە سوپىزم ئوقۇمى بويىچە ئېنىقلىما بەرگەن تۈنجى كىشى، ۋەجد ۋە ئاڭلاش (سوپىزمدىكى ئىككى خىل ئاتالغۇ-ت)نىڭ تۈنجى قېتىم ئېنىقلىمىسىنى ئوتتۇرىغا قويغانلىقىنى، ئۆزىنىڭ ئەھۋالىنى ئىپادىلەشتە تۈنجى قېتىم ئىشارە ئىشلەتكەن كىشى ئىكەنلىكىنى زىكىر قىلىدۇ. ئىسمائىلىييەلەرنىڭ باتىنى ئەقىدىسى ۋە ئىخۋانۇسسەفالار بىلەن بولغان كۈچلۈك ئالاقىسى سەۋەبلىك ئۇلارنىڭ تەىسىرىگە ئۇچرىغان؛ چۈنكى ئۇلار ئۆزلىرىنىڭ باتىل مەزھەپلىرىگە چاقىرىش جەريانىدا ئۆز ئارا ھەمكارلاشقان. ئۇنىڭ باتىنى ئىلىم، ئىلاھىي ئىلىم، ئىتتىھاد (بىرلىشىش) ۋە مەخلۇقاتلارنىڭ ئەسلىنىڭ نۇرى مۇھەممەدىيگە قايتىدىغانلىقى توغرىسىدا سۆزلىگەن سۆزلىرى بار. ئۇنىڭ قېبتىي تىلىدىكى ئىلمى يېزىسىدىكى قېبتىيلارغا ئائىت ئىزلارغا سىزىلغان ئالامەتلەر، نەقىش چۈشۈرۈشلەرگە قەدەر تەسىرىنى كۆرسەتكەن. بۇ ئۇنىڭ پالچىلىق، سىھىر ۋە ئۆزى شۇغۇللانغان تىلسىمات ئىلىملىرىنى ئۆگىنىشكە ئىمكان يارىتىپ بەرگەن. زۇننۇن مۇتەسەۋۋۇپلار ئىچىدىكى يۇنان مەدەنىيىتى، يېڭى ئەفلاتۇنچىلار مەزھىپى، بولۇپمۇ ئارىستوتىلنىڭ ئىلاھىيەتكە دائىر سىيولوگىيەسى قاتارلىقلار بىلەن دەسلەپ تۇنۇشقا كىشى، ھېسابلىنىدۇ. شۇنىڭ ئۈچۈن ئۇنىڭ مەرىپەت ۋە فەنا قارىشىدا گىنوسىيس (يۇنانچە مەرىپەت ئوقۇمىدا)نىڭ تەسىرىگە ئۇچرىغان مەخسۇس مەزھىپى بار ئىدى.<br /><br />- ئەبۇ يەزىيد ئەلبەستامىي:تولۇق ئىسمى، تەيفۇر ئىبنى ئىيسا ئىبنى ئادەم ئىبنى سروشان بولۇپ، بەستامدا ئەسلى مەجۇسىي بىر ئائىلىدە دۇنياغا كەلگەن. ئۇنىڭغا ئىنتايىن ئېغىر سۆزلەر مەنسۇپ قىلىنغان بولۇپ، كۆپىنچە تەتقىقاتچىلار بۇ خىل مەنسۇپلۇقنىڭ ساغلاملىقىدىن گۇمانلىنىدۇ. مەسىلەن ئۇنىڭ &quot;مەن ھەقتىن ھەققە چىققىنىمدا، ماڭا: &quot;ئەي مەن سەن كىم ؟&quot; دەپ ۋارقىرىدى، مەن ئاللىقاچان ئاللاھتا فەناھلىق ماقامىغا ئېرىشتىم&quot;، &quot;پاكلىقىم، مېنىڭ شەنىم نېمە دېگەن ئۇلۇغ!&quot; دېگەن سۆزلىرى. بۇ مەيلى مەسىت ياكى سەگەك ھالەتتە ئېيتىلغان سۆزلەر بولسۇن، ساھىبىنى كەچۈرگىلى بولمايدىغان سۆزلەردۇر. شەيخۇل ئىسلام ئىبنى تەيمىييە ئۇنى بۇ تەبىقىنىڭ ئەسھابىلىرىدىن ھېسابلايدۇ ۋە ئۇنىڭغا مەنسۇپ، دەپ قارالغان سۆزلەرنىڭ ساغلاملىقىدىن گۇمانلىنىدۇ. چۈنكى، ئۇنىڭ سۈننەتنى چىڭ تۇتۇدىغانلىقىغا دالالەت قىلىدىغان سۆزلەر بار. ئەھلى سۈننەت ۋەلجامائە ئۆلىمالىرى ئىچىدە ئۇنى ھەللاج ۋە سەھرۇۋەردىيلار بىلەن بىر تەبىقىدە قويىدۇ.<br /><br />- ھەكىم ئەتتىرمىزىي: تولۇق ئىسمى: ئەبۇ ئابدۇللاھ مۇھەممەد ئىبنى ئەلى ئىبنى ئەلھۇسەين ئەتتىرمىزىي (320ھـ ۋاپات بولغان) بولۇپ، ھامىيلىقنىڭ ئاخىرلىشىشى توغرىسىدا تۈنجى ئېغىز ئاچقان كىشى. ئۇ بۇ ھەقتە كىتاب يېزىپ، ئۇنىڭغا &quot;ئەۋلىيالىقنىڭ ئاخىرلىشىشى&quot; دەپ نام بەرگەن. بۇ كىتاب ئۇنىڭ كاپىرلىق بىلەن ئەيىبلىنىشى ۋە يۈرتى تىرمىزدىن چىقىرىۋېتىلىشىگە سەۋەب بولغان. شەيخۇل ئىسلام ئىبنى تەيمىييەنىڭ ئونىڭ ھەققىدە مۇنداق دەيدۇ: &quot;سۇپىلارنىڭ بىر تائىپىسى &quot;ئەۋلىيالىقنىڭ ئاخىرلاشقانلىقى&quot;نى ئوتتۇرىغا قويدى ۋە ئۇنى ھەكىم ئەتتىرمىزىيغا ئوخشاش كىشىلەر چۇڭايتتى. بۇ ئۇنىڭ خاتالىقلىرىنىڭ بىرى. كۆپ نەرسىلەرنى ئارىلاشتۇرىۋېتىدىغان ئىبنى ئەرەبىينىڭ ئەكىسىچە، ئۇنىڭ سۆزلىرىنىڭ كۆپ قىسمى ساغلامدۇر.&quot;  يەنە &quot;پەيغەمبەرلەرنىڭ خاتىمىسى بولغاندەك، ئەۋلىيالارنىڭمۇ خاتىمىسى بولىدۇ&quot; دېگەن سۆز ئۇنىڭغا مەنسۇپ، دەپ قارىلىدۇ. بۇ، ئىبنى ئەرەبىي، ئىبنى سەبئىين، ئىبنى ھۇد ۋە ئەتتىلمەسانىيغا ئوخشىغان سوپىزم پەيلاسۇپلىرىنىڭ ئالدىدا &quot;ئەۋلىيالار خاتىمىسى&quot; سۆزىنى ئىلگىرى سۈرۈشكە شارائىت ھازىرلاپ بەردى. ئۇنىڭ ماقامىنى پەيغەمبەرلەرنىڭ خاتىمىسىنىڭ ماقامىدىن ئەۋزەل، دەپ قارايدۇ.<br /><br />* ئۈچىنچى تەبىقە: بۇ تەبىقىدە تەسەۋۋۇپ يۇنان پەلسەپىسى بىلەن يوغۇرۇلۇپ، &quot;ھۇلۇل&quot;، &quot;ئىتتىھاد&quot;، &quot;ۋەھدەتۇل ۋۇجۇد&quot; ۋە پەيلاسۇپلارنىڭ سۆزلىرىگە ماسلاشقان ھالدا، &quot;ھەقىقىي مەۋجۇتلۇق ئاللاھتۇر، ئۇنىڭدىن باشقىلارنىڭ ھەممىسى خىيالى، مەۋھۇم ۋە يالغان سۈرەتلەردىن ئىبارەت&quot; دېگەنگە ئوخشىغان پىكىرلەر ئوتتۇرىغا چىققان. شۇنىڭدەك، غەزالىي، سۇھرەۋەردىيلەرنىڭ قولىدا &quot;ئىشراق&quot;، &quot;فەيز&quot; نەزىرىيەلىرىنىڭ مەيدانغا كىلىشىگە تەسىر كۆرسەتكەن. يۇقىرىقى سەۋەبلەر تۈپەيلى، بۇ تەبىقە تەسەۋۋۇپ باشتىن كەچۈرگەن ئەڭ خەتەرلىك تەبىقىلەرنىڭ بىرى بولۇپ، ھېسابلىنىدۇ. بۇ تەبىقە ئەمەلىي بىدئەتلەردىن تەسەۋۋۇپنى ئىسلامدىن تامامەن چىقىرىپ تاشلايدىغان ئىلمى بىدئەتلەرگە ھالقىغان. بۇ تەبىقىنىڭ ئەڭ مەشھۇر كىشىلىرىدىن، ھەللاج (309ھ ۋاپات بولغان)، سۇھرەۋەردىي (578ھ ۋاپات بولغان)، ئىبنى ئەرەبىي (638ھ ۋاپات بولغان)، ئىبنى ئەلفارىز (632ھ) ۋە ئىبنى سەبئېين (667ھ ۋاپات بولغان) قاتارلىقلارنى ساناش مۇمكىن.<br /><br />- ھەللاج: ئەبۇ مۇغىيس ئەلھۇسەين مەنسۇر ئەلھەللاج (244ھ - 309ھ)، ئىراندا دۇنياغا كەلگەن بولۇپ، زەردۇشت دىنىدىكى بىر كىشىنىڭ نەۋرىسى ئىدى. ئۇ ئىراقنىڭ ۋاسىت شەھىرىدە ئۆسۈپ يېتىلگەن. ئۇ، &quot;ھۇلۇل&quot; ۋە &quot;ئىتتىھاد&quot; چىلارنىڭ ئەڭ مەشھۇرى. كاپىرلىق بىلەن ئەيىبلەنگەن ۋە تۆۋەندىكى تۆت تۈرلۈك جىنايەت سەۋەبىدىن دارغا ئېسىپ ئۆلتۈرۈلگەن:<br /><br />1-قەرامىتەلەر بىلەن بولغان ئالاقىسى.<br /><br />2 -&quot;ئەنەلھەق&quot; دېگەن سۆزى.<br /><br />3 -ئەگەشكۈچىلىرىنىڭ ئۇنى ئىلاھىي، دەپ ئېتىقاد قىلىشى.<br /><br />4-ھەج توغرىسىدىكى سۆزى. ئۇ ھەرەم بەيتىگە ھەج قىلىش ئادا قىلىشقا تېگىشلىك بولغان پەرزلەردىن ئەمەس، دەپ قارايتتى.<br /><br />ھەللەج رادىكال، جاھىل ۋە دەبدەبىچى بولغىنىدىن سىرت ئۇنىڭ شەخسىيىتىدە نۇرغۇن گوڭگىلىقلار مەۋجۇت ئىدى. ئۇنىڭ &quot;تەۋاسىين&quot; ناملىق بىر كىتابى بولۇپ، ئۇنى فرانسىيىلىك شەرقشۇناس ماسنيون تەھقىقلاپ چىققان.<br /><br />* بەزى تەتىقىقاتچىلار ھىجرىيەنىڭ ئۈچىنچى ئەسىرىدە بۇ تائىپىنىڭ ئەگەشكۈچىلىرىنىڭ بىر خىل باتىنى ئىلىمنى ئاساس قىلىدىغانلىقىنى ئىلگىرى سۈرىدۇ. ئۇلارنىڭ ئىچىدە ئۇنى يوشۇرغانلار بولۇپ، &quot;مەن ۋە ھۇسەين ئىبنى مەنسۇر ئەلھەللاج بىر ئىدۇق، ئۇ ئاشكارىلىدى ۋە مەن يۇشۇرۇپ قالدىم&quot; دېگەن سۆزنىڭ سۆزلىگۈچىسى شىبلىيدىن سىرت بىرىنچى تەبىقىنىڭ ئەگەشكۈچىلىرىنى ئۆز ئىچىگە ئالىدۇ. ئۇلارنىڭ ئارىسىدا يەنە، ئۇنى ئاشكارىلىغان، جار سالغانلار بار بولۇپ، ھەللاج ۋە ئۇنىڭ تەبىقىسىنى ئۆز ئىچىگە ئالىدۇ. ئاللاھ تائالا ئۇنىڭغا تۆمۈرنىڭ تەمىنى تېتىتتى. بۇ سۆزنى، فرانسىيىلىك شەرقشۇناس ماسنيوننىڭ رىۋايىتىگە قارىغاندا، جۇنەيدنىڭ بۇيرۇقى بىلەن ھەللەج دارغا ئېسىلغان چاغدا بىر ئايال ئېيتقان.<br /><br />* تەرىقەتلەرنىڭ ئوتتۇرىغا چىقىشى: <br /><br />ئەبۇ ئابدۇرراھمان ئەسسىلمىينىڭ شاگىرتى، ئەبۇ سەئىيد مۇھەممەد ئەھمەد ئەلمەيھەمىي ئەسسۇفىي ئەلئىرانىي (357ھ - 430ھ) ۋارىسلىق بويىچە زەنجىرسىمانلىق شەكىلىگە كەلتۈرۈش ئارقىلىق سوپىزم تەرىقەتلىرىنىڭ تۈنجى تەرتىپ ئاپپاراتىنى ئورناتقان.<br /><br />* بەشىنچى ئەسىر، ئەبۇ ئابدۇرراھمان ئەسسىلمىي (412ھ ۋاپات بولغان) نىڭ ئەسەرلىرى ئارقىلىق راۋاجلانغان ئىلگىرىكى ئەسىرلەردىكى پىكىرلەرنىڭ داۋامى ھېسابلىنىدۇ. ئىبنى تەيمىييە ئۇنى مونۇ سۆزى بىلەن تەسۋىرلەيدۇ: &quot;ئۇنىڭ كىتابلىرىدا سەھىھ رىۋايەتلەر ۋە دىندا پايدىلىنىشقا بولىدىغان نەقىل كەلتۈرۈلگەن سۆزلەر بار. ئۇنىڭدا يەنە، ساغلام بولمىغان رىۋايەتلەر ۋە تەجرىبىسىز كىشىلەرگە زىيان يەتكۈزىدىغان رەت قىلىشقا تېگىشلىك سۆزلەرمۇ بار. بەزى كىشىلەر ئۇنىڭ رىۋايىتىنى قوبۇل قىلمايدۇ.&quot;  ئۇ سوپىزمنىڭ مەنپەئەتىنى كۆزلەپ ھەدىسلەرنى توقۇيتتى.<br /><br />* بەشىنچى ئەسىرنىڭ ئىككىنچى يېرىمى بىلەن ئالتىنچى ئەسىرنىڭ باشلىرىدا، يەنى ئىسلامنىڭ ھۆججىتى، تەخەللۇسى بىلەن تونۇلغان ئەبۇ ھامىد ئەلغەزالىي (505ھ ۋاپات بولغان) زامانىدا تەسەۋۋۇپ ئەھلى سۈننەتكە مەنسۇپ كىشىلەرنىڭ نەزىرىدە ئورنىنى تاپتى. شۇنىڭ بىلەن ئىسلامىي بولمىغان پرىنسىپ ساھىبلىرىدىن تەركىپ تاپقان ئالدىنقى قاتاردىكى كىشىلىرىنىڭ دەۋرى ئاخىرلاشقان بولدى. بۇ باسقۇچنىڭ زامانىمىزغا قەدەر سۇزۇلغان مەشھۇر كىشىلىرىدىن:<br /><br />-ئەبۇ ھامىد ئەلغەزالىي: مۇھەممەد ئىبنى مۇھەممەد ئىبنى مۇھەممەد ئىبنى ئەھمەد ئەتتۇسىي (450ھ - 505ھ) بولۇپ، ئىسلامنىڭ ھۆججىتى، تەخەللۇسى بىلەن تونۇلغان. خۇراسان رايونىنىڭ تۇس شەھرىدە دۇنياغا كەلگەن. ئىلمىي كالام، پەلسەپە، باتىنىييە ۋە تەسەۋۋۇپقا ئوخشىغان قاراش ۋە مەزھەپلەر كۆپ بىر مۇھىتتا ئۆسۈپ يېتىلگەن. بۇلار ئۇنىڭغا ھەيرانلىق ۋە شەكلىنىش بەخشەندە قىلغان ۋە باغدادتا تۇرۇش جەريانىدا يۇقىرىدىكى تۆت مەزھەپنىڭ ئەتراپىدا ئايلىنىپ يۈرۈشكە ئېلىپ بارغان. جورجان، نىسابۇرلارغا بارغان. نىزامۇل مۇلكنىڭ يېنىدا تۇرغان. باغداتتىكى نىزامىييە مەدرىسىسىدە ئوقۇتقۇچىلىق قىلغان. دەمەشق مەسچىتىنىڭ مۇنارىدا ئېتىكاپتا تۇرغان. قۇددۇسقا، ئۇ يەردىن ھىجازغا بېرىپ، ئاخىرىدا يۈرتىغا قايتقان. ئۇ بىر قانچە پارچە كىتاب يازغان بولۇپ، ئۇلاردىن، &quot;تهافت الفلاسفة&quot;، &quot;المنقذ من الضلال&quot;  ۋە ئەڭ مۇھىمى &quot;إحياء علوم الدين&quot;  ناملىق كىتابلىرىنى ساناش مۇمكىن. غەزالىي پارىس ئەسىللىك كىشىلەرنىڭ قولىدىن تەسەۋۋۇپنىڭ بايرىقىنى ئېلىپ، سۈننى ئەسىللىك كىشىلەرنىڭ قولىغا تۇتقۇزغان مەرىپەتتىكى كەشىپ مەدرىسىسىنىڭ رەئىسى ھېسابلىنىدۇ. ئۇنىڭ قۇتلۇقلاشقا تېگىشلىك ئىشلىرىنىڭ بىرى، يۇنان پەلسەپىسىنى ۋەيران قىلىشى، &quot;المستظهري&quot; ياكع &quot;فضائح الباطنية&quot; ناملىق كىتابىدا باتىنىيلارنىڭ ئەپتى بىشرىنى ئىچىپ تاشلىشى بولدى. شاگىرتى ئابدۇلغافىر ئەلفارىسى ئۇنىڭ يۈرتى تۇسقا قايتقاندىن كېيىنكى، ئاخىرقى ھاياتىنى مۇنداق ھېكايە قىلىپ بىرىدۇ: &quot;ئۇنىڭ ھاياتىنىڭ ئاخىرى پەيغەمبەر ئەلەيھىسسالامنىڭ ھەدىسلىرى ۋە ھەدىس تەرەپدارلىرى بىلەن بىرگە ئولتۇرۇش، ئىسلامنىڭ ھۆججىتى ھېسابلىنىدىغان سەھىھۇلبۇخارىي ۋە سەھىھۇل مۇسلىمدىن ئىبارەت ئىككى كىتابنى مۇتالىئە قىلىش بىلەن ئۆتتى.&quot; بۇ ئىشلار يۇرتىدا ئۇنىڭغا سەھىھۇل بۇخارىينى ئوقۇپ بەرگەن، ئەبۇ سۇھەيل مۇھەممەد ئىبنى ئابدۇللاھ ئەلھەفسىي، سۇنەن ئەبۇ داۋۇدنى ئوقۇپ بەرگەن قازىي ئەبۇلفەتھ ئەلھاكىمىي ئەتتۇسىيلاردىن ئىبارەت ئەھلى ھەدىسلار بىلەن ھەمسۆھبەت بولغاندىن كېيىن يۈز بەرگەن. <br /><br />-بۇ مەزگىلدە ئۇ ئىلمى كالام ۋە ئۇنىڭ ئۇسۇلىنى ئەيىبلەپ &quot;إلحام العوام عن علم الكلام&quot;  ناملىق كىتابىنى يازغان. سەلەپلەرنىڭ مەزھەپ ۋە مېتودلىرىنى ھېمايە قىلىپ مۇنداق دېگەن: &quot;سەلەپلەرنىڭ مەزھىپىنىڭ ھەق ئىكەنلىكىنىڭ دەلىلى، ئۇنىڭ قارشىسىنىڭ بىدئەت ئىكەنلىكىدۇر. بىدئەت گۇناھتۇر، ئازغۇنلۇقتۇر. ئاۋامنىڭ ۋە ئۆلىمالارنىڭ تەۋىلگە ئىچكىرلەپ كىرىشى بىدئەتتۇر، گۇناھتۇر. ئۇنىڭ قارشىسى گۈزەل سۈننەتلەر بىلەن كۇپايىلىنىشتۇر.&quot; <br /><br />-ئۇنىڭدا يەنە، كەشىفتىن، پەيغەمبەرلىكنىڭ ئالاھىدىلىكى ۋە ئامىللىرىنى بايقاش، دېگەن سۆزلىرى ۋە كىشىلەرنى تىزگىنلەشتىن ئىلگىرىكى تەۋىل ياكى ئىسپاتلاشتا كەشىفكە تايىنىش، دېگەن قاراشلىرىدىن يانغان.<br /><br />* ھىجرىيە ئالتىنچى ئەسىر سوپىزم تەرىقەتلىرىنىڭ ئەمەلىي باشلىنىشى ۋە تارقىلىشىغا ۋەكىللىك قىلىدۇ. چۈنكى بۇ دەۋردە سوپىزم ئىراندىن ئىسلام شەرقىگە يۆتكەلدى. يەنە بۇ دەۋردە ئابدۇلقادىر جەيلانىي (561ھ ۋاپات بولغان) غا مەنسۇپ &quot;قادىرىييە&quot; تەرىقىتى ئوتتۇرىغا چىقتى. ئۇنىڭ قىرىق توققۇز پەرزەنتى بار ئىدى. ئۇلارنىڭ ئون بىرى ئۇنىڭ تەلىماتىنى ئۈگەندى ۋە ئىسلام ئالىمىگە تارقاتتى. گەرچە ئۇ ھەسەن  بىلەن ئۇچىرىشىپ باقمىغان بولسىمۇ، ئەگەشكۈچىلىرى ئۇنىڭ تەسەۋۋۇپ ۋە خىرقەنى ھەسەن ئەلبەسرىيدىن، ئۇ ھەسەن ئىبنى ئەلى ئىبنى ئەبۇ تالىبتىن ئالغان، دەپ دەۋا قىلىشىدۇ. بۇلاردىن باشقا غەيبنى بىلىش، ئۆلۈكلەرنى تىرىلدۈرۈش، كائىناتتا ئۆلۈك ياكى تىرىك بولسۇن خالىغىنى قىلىش دېگەنلەردىن ئىبارەت ئاللاھ تائالادىن باشقا ھېچكىم قادىر بولالمايدىغان بۈيۈك ئىشلارنى ئۇنىڭغا مەنسۇپ قىلغاندىن سىرت، بىر يۈرۈش زىكىر، ۋىرد ۋە رەزىل سۆزلەرنى ئۇنىڭغا ئائىت، دېيىشىدۇ. بۇ سۆزلەرنىڭ بىرى ئۇنىڭ بىر قېتىملىق ئولتۇرۇشىدا دېگەن &quot;مېنىڭ بۇ پۇتۇم ئاللاھنىڭ بارلىق ئەۋلىيالىرىنىڭ بوينىدا&quot; سۆزىدۇر. ئۇ: &quot;كىمكى قىيىنچىلىققا دۈچ كەلگەندە، مەندىن مەدەت تىلىسە، قېيىنچىلىق ئۇنىڭدىن كۆتۈرۈلۇپ كېتىدۇ. كىمكى قېيىن ئەھۋالغا چۈشۈپ قالغاندا مېنى چاقىرسا، ئۇنىڭدىن خالاس بولىدۇ، كىمكى ھاجىتىدە مېنى ۋەسىلە قىلسا، ئۇنىڭ ھاجىتى راۋا بولىدۇ&quot; دەيتتى. بۇ سۆزلەردىكى شېرىك ۋە پەرۋەردىگارلىقنى دەۋا قىلىش مانا مەن، دەپ چىقىپ تۇرىدۇ.<br /><br />-سەييىد مۇھەممەد رەشىيد رىزا مۇنداق دەيدۇ: &quot;شەيخ جەيلانىدىن باشقا ھېچكىمدىن رىۋايەت قىلىنمىغان كارامەتلەر، ئادەتتىن تاشقىرى ئىشلار رىۋايەت قىلىنىدۇ. رىۋايەت ئەھلىنىڭ باھالىغۇچىلىرى بۇ تۈردىكى نەقىللەرنى تايىنىدىغان دەلىللىرى بولمىغانلىقى ئۈچۈن، قارشى ئېلىپ كەتمەيدۇ.&quot; <br /><br />* ئەبۇلئابباس ئەھمەد ئىبنى ئەبۇلھۇسەين ئەررىفائىي (540ھ ۋاپات بولغان) غا مەنسۇپ &quot;رىفائىييە&quot; تەرىقىتى مەيدانغا كەلدى. ئۇنىڭغا يەنە ئىراقتىكى شېغىللىق بىر يېزىغا يېقىن بىر ۋىلايەتنىڭ ئورنىغا قارىتا &quot;بەتھائىييە&quot; (شېغىللىقچىلار) دەپمۇ ئاتىلىدۇ. سۇپىلارنىڭ يازغۇچىلىرى سۇپىزمغا مەنسۇپ باشقا كىشىلەر بىلەن بىرلىكتە، ئۇنىڭ ئەتراپىغا ئۆلىشىپ، ئەپسانە ۋە خۇراپاتلارنى توقۇيدۇ، ھەتتا ئۇنى پەرۋەردىگارلىق ئورنىغا كۆتۈرىدۇ. بۇ تۈردىكى سۆزلەرنىڭ بىرى: &quot;ئۇ زېمىندىكى قۇتۇبلارنىڭ قۇتۇبى ئىدى، كېيىن ئۇ ئاسمانلارنىڭ قۇتۇپلىقىغا كۆچتى، ئارقىدىن يەتتە ئاسمان ئۇنىڭ پۇتىدىكى ھالقىلارغا ئايلاندى.&quot; <br /><br />-رىفائىي بىر قانچە ئايال بىلەن ئۆيلەنگەن، ئەمما، پەرزەنتى بولمىغان، شۇنىڭ ئۈچۈن، ئۇنىڭ شەيخلىقىغا ئەلى ئىبنى ئوسمان (584ھ ۋاپات بولغان) ۋارىس بولغان، ئۇنىڭغا ئابدۇررەھىم ئىبنى ئوسمان (604ھ ۋاپات بولغان) ۋارىسلىق قىلغان. ئۇنىڭ ئەگەشكۈچىلىرىنىڭ غەلىتە ئىش ۋە ئەھۋاللىرى بولۇپ، ئۇلارنى ھافىز ئىبنى ئەززەھەبىي زىكىر قىلغان ۋە مۇنداق دېگەن: &quot;ئەمما ئەگەشكۈچىلىرى ئارىسىدا ياخشىلارمۇ، يامانلارمۇ بار.&quot;<br /><br />-يەنە بۇ ئەسىردە، پەلسەپەنى ئاساس قىلغان ئىشراقىييە مەدرىسىسىنىڭ ئاساسچىسى سۇھرەۋەردىي شىھابۇددين ئەبۇلفۇتۇھ مۇھيىددين ئىبنى ھەسەننىڭ زىندىقلىقى، جۆيلۈشلىرى ئوتتۇرىغا چىقتى. بۇ مەدرىسىنىڭ ئاساسى قەدىمقى پارىسلارنىڭ دىنلىرى، ۋۇجۇدنىڭ ئىككىلىكى توغرىسىدىكى مەزھەپلىرىنىڭ قاراشلىرى بىلەن، يېڭى ئەپلاتۇنچىلىق شەكلىدىكى يۇنان پەلسەپىسى ۋە ئۇنىڭ فەيز، ئىزچىل كۆرۈنۇشلەرگە دائىر مەزھەپلىرىنى بىر يەرگە مۇجەسسەملەشتۈرۈشتىن شەكىللەنگەن. شۇنىڭ ئۈچۈن ھەلەب ئۆلىمالىرى ئۇنى زىندىقلىق، ئاللاھ تائالانىڭ سۈپەتلىرىنى پاسسىپلاشتۇرۇش ۋە ئىشراقىييە پەلسەپىسى توغرىسىدىكى سۆزلىرى بىلەن ئەيىپلىگەن. بۇ ئۇلارنىڭ سۇلتان سالاھۇددين ئەييۇبىيغا ئۇنىڭ كاپىرلىقى ۋە زىندىقلىقى توغرىسىدا ماتېرىيال يوللىشىغا ئېلىپ بارغان. سالاھۇددين ئەييۇبىي ئۇنى دىندىن چىققانلىق جىنايىتى بىلەن ئۆلتۈرۈشكە بۇيرىغان. سۇھرەۋەردىييە تەرىقىتى ۋە ئۇنىڭ فەيز ياكى ئىزچىل كۆرۇنۇش دەپ ئاتالغان مەزھەپلەر ئۇنىڭغا مەنسۇپ، دېيىلىدۇ. ئۇنىڭ &quot;حكمة الإشراق&quot;، &quot;هياكل النور&quot;، &quot;التلويحات العرشية&quot; ؤة &quot;المقامات&quot;  قاتارلىق كىتابلىرى بار.<br /><br />³ بۇرۇنقى ئەسىرلەردىكى سوپىزم مەدرىسىلىرىنىڭ كۆپلىكىنىڭ تەسىرى بىلەن ئىبنى ئەرەبىي، ئىبنى ئەلفارز ۋە ئىبنى سەبئىيلار ھەللەج، زۇننۇن ئەلمىسرىي ۋە سۇھرەۋەردىيلارنىڭ ئەقىدىسىنى قايتىلىدى.<br /><br />* ھىجرىيە يەتتىنچى ئەسىردە تەسەۋۋۇپ ئەندەلۇسقا (ھازىرقى ئىسپانىيەگە) كىردى. ئىبنى ئەرەبىي ئەتتائېي ئەلئەندەلۇسىي سوپىزم كاتىۋاشلىرىنىڭ بىرىگە ئايلاندى ۋە شەيخۇل ئەكبەر (ئەڭ چوڭ شەيخ) دەپ ئاتالدى.<br /><br />- شەيخۇل ئەكبەر (560ھ - 638ھ)، تەخەللۇسى بىلەن تونۇلغان مۇھييىددين ئىبنى ئەرەبىي: ئۇ ۋەھدەتۇل ۋۇجۇد مەدرىسىسىنىڭ رەئىسى بولۇپ، ئۆزىنى ئەۋلىيالارنىڭ خاتىمىسى، دەپ ھېسابلايدۇ. ئىسپانىيەدە توغۇلغان، مىسىرغا سەپەر قىلغان، ھەج قىلغان، باغداتتا زىيارەتتە بولغان. دەمەشىقتە ئولتۇراقلاشقان، شۇ يەردە ۋاپات بولغان ۋە دەپنە قىلىنغان. ئۇنىڭ ھازىر زىيارەت قىلىنىدىغان قەبرىسى بار. ئەگەر ئاللاھ تائالانىڭ ۋەھدانىييىتىگە تولۇق بىرىلىش مۇمكىن بولسىلا، بارلىق مەخلۇقاتلار ئىچىدىن پەقەت ئىنساندىلا بارلىق ئىلاھىي سۈپەتلەر تەجەللى قىلىشى مۇمكىن، دېيىشنى مەركەز قىلىدىغان كامىل ئىنسان نەزىرىيىسىنى ئوتتۇرىغا قويغان. ئۇنىڭ نۇرغۇن كىتابلىرى بار، ھەتتا بەزىلەر ئۇنىڭ ۋە كىتابچىلىرىنىڭ سانىنى 400گە يەتكۈزىدۇ. ئۇنىڭ بەزىلىرى ھېلىھەم كونىيادىكى يۇسۇف ئاغا كۇتۇپخانىسى ۋە تۈركىيىنىڭ باشقا كۇتۇپخانىلىرىدا ساقلانماقتا. ئۇنىڭ مەشھۇر كىتاپلىرىدىن: : &quot;روح القدس&quot;، &quot;ترجمان الأشواق&quot;نى ۋە ئەڭ كۆزگە كۆرۈنگەنلىرى قاتارىدا &quot;الفتوحات المكية وفصوص الحكم&quot;قاتارلىقلارنى ساناش مۇمكىن.<br /><br />- ئەبۇلھەسەن ئەششازىلىي (593ھ -656ھ): ئىلىم تەلەپ قىلىش مەزگىللىرىدە ئىبنى ئەرەبىگە يولداش بولغان، ئەمما كېيىن، ئەبۇلھەسەننىڭ كەشىپ مەسىلىسىدە غەزالىي مەدرىسىسىنى تاللىشى ۋە ئىبنى ئەرەبىينىڭ ھەللاج ۋە زۇننۇن ئەلمىسرىينىڭ مەدرىسىسىنى تاللىشى سەۋەپلىك ئايرىلىپ كەتكەن. ھەر ئىككىسىنىڭ ئايرىم مەدرىسلىرى شەكىللەنگەن، ئۇلارنىڭ ئەگەشكۈچىلىرى ھازىرغىچە سوپىزم تەرىقەتلىرى ئىچىدە داۋاملىشىپ كەلمەكتە. بەزىلىرىنىڭ نەزىرىدە ئىككىسىنىڭ چۈشەنچىلىرى ئارىلىشىپ كېتىدۇ. ئەبۇلھەسەن ئەششازىلىي مەدرىسىسىنىڭ مەشھۇر شاگىرتلىرىدىن ئەبۇلئابباس ئەلمىرسىي (686ھ ۋاپات بولغان)، ئىبراھىم ئەددەسۇقىي، ئەھمەد ئەلبەدەۋىي (675ھ ۋاپات بولغان) قاتارلىقلارنى ساناش مۇمكىن. بۇ مەدرىسە تەرەپدارلىرىنىڭ ھازىرغا قەدەر ئىبنى ئەرەبىينىڭ سۆزلىرى ۋە مەدرىسىسىنى تەۋىل قىلىدىغانلىقى ۋە كۆپلەپ ئېتىراز بىلدۈرىدىغانلىقى كۆزگە چېلىقىدۇ.<br /><br />* يەنە يەتتىنچى ئەسىردە، تۈركىيەدىكى مۆۋلىۋىييە تەرىقىتىنىڭ ئاساسچىسى جالالۇددين ئەررۇمىي (672ھ ۋاپات بولغان) ئوتتۇرىغا چىقتى.<br /><br />* سەككىزىنچى ۋە توققۇزىنچى ئەسىرلەر ئىبنى ئەرەبىي، ئىبنى فارىز ۋە باشقىلارنىڭ كىتابلىرىنى شەرھىلەش، شاخلاندۇرۇش ئىشلىرى بىلەن ئۆتتى. بۇ دەۋرلەردە تەسەۋۋۇپتا يېڭى نەزىرىيەلەر ئوتتۇرىغا قويۇلمىدى. توققۇزىنچى ئەسىرنىڭ گەۋدىلىك سىمالىرىنىڭ بىرى ھەر ئىككى مەدرىسىنىڭ پىكىرلىرىنىڭ ئارىلىشىپ كېتىشى بولدى. سەككىزىنچى ئەسىردە نەقشىبەندىييە تەرىقىتىنىڭ ئاساسچىسى بەھائۇددين نەقشىبەندىي (791ھ ۋاپات بولغان) ئوتتۇرىغا چىقتى. ئونىنچى ئەسىرمۇ ئىبنى ئەرەبىينىڭ كىتابلىرىنى ئىزاھلاش، ئۇنى مۇداپىئە قىلىش بىلەن ئۆتتى. بۇ ئەسىردە تەسەۋۋۇپتىكى كۆزگە كۆرۈنگەن كىشىلەرنىڭ ھاياتلىرىغا بولغان كۆڭۈل بۆلۈش ئەۋجىگە چىققان بولۇپ، ئاشۇرۇپ مۇبالىغە قىلىش بىلەن تونۇلدى. &quot;الطبقات الصغرى والكبرى&quot;  ناملىق كىتابنىڭ ئاپتۇرى ئابدۇلۋاھھاب ئەششېئرانىي (973ھ ۋاپات بولغان)بۇ ئەسىردىكى سۇپىزمغا ئائىت تەرجىمىھال يازغۇچىلىرىنىڭ بىرى. <br /><br />* كېيىنكى ئەسىرلەردە سۇپىزمغا باشقا ئىشلار ئارىلىشىۋالدى، ئۇلارنىڭ ئارىسىدا قالايمىقانچىلىق ئومۇملاشتى. ھەر ئىككى مەدرىسىنىڭ پىكىرلىرى ئۆز ئارا كىرىشىپ كەتتى ۋە دەرۋىشلىك باسقۇچى باشلاندى.<br /><br />- كېيىنكى ئەسىرلەردە ئاساسلىق كۆزگە چېلىققان ئىشلار: جەيناماز شەيخى (شيخ السجادە)، سوپىزم تەرىقەتلىرى شەيخلىرىنىڭ شەيخى، خەلىپە ۋە سۇپىلارنىڭ ئۆيلىرى (خانىقا) قاتارلىق تەخەللۇسلار پەيدا بولدى. خانىقالار بىر تەرىقەتنىڭ شۆبىلىرى بولۇپ، خەلىپىنىڭ خەۋەردارلىقى بىلەن نىسپىي مۇستەقىل ھالدا پائالىيەت ئېلىپ بارىدۇ. يەنە بۇ ئەسىرلەردە تەرىقەتلەرنىڭ مۇئەييەن مەجلىس ۋە ئىدارە كونتروللىقى ئاستىدىكى ئىنتىزاملىق قانۇن- تۇزۇملىرى مەيدانغا كەلدى. مىسىرنىڭ ۋالىسى مۇھەممەد ئەلى پاشانىڭ مۇھەممەد ئەلبەكرىينىڭ ئاتىسىغا ۋارىسلىق قىلىش ئۈچۈن، بەكرىييە سەججادىسىگە تەيىنلىنىشى ۋە بارلىق مازارلىقى بار مەسچىتلەر، بولۇڭ- پۇچقاقلارغا رىياسەتچىلىك قىلىشى توغرىسىدا چىقارغان قارارى بىلەن مەجلىس باشلاندى. ئۇنىڭ يەنە ئۇنىڭدا بېرىلىدىغان دەرس پروگراممىلىرىنى تۈزۈش ھوقۇقىمۇ بار ئىدى. بۇلارنىڭ ھەممىسى پەقەت ئەزھەرنىڭ شەيخى ۋە ئۆلىمالىرىنىڭ تەسىرىنى ۋەيران قىلىش ئۈچۈن قىلىنغان ئۇرۇنۇشلار ئىدى. ئۇنىڭ تۈزۈم ۋە قانۇنلىرى تەرەققىي قىلىپ، كېيىنچە، مىسىر سوپىزم تەرىقەتلىرى ئالىي كېڭىشى، دەپ تونۇلدى.<br /><br />- كېيىنكى ئەسىرلەردىكى مەشھۇر كىشىلىرىدىن:<br /><br />-ئابدۇلغەنىي ئەننابلىسىي (1050ھ - 1143ھ).<br /><br />-ئەبۇسسۇئۇد ئەلبەكرىي (1812م ۋاپات بولغان): ئۇ غەيرى رەسمىي شەكىلدە مىسىردىكى سوپىزم تەرىقەتلىرى شەيخلىرىنىڭ شەيخى بولۇپ تونۇلغان.<br /><br />-ئەبۇلھۇدا ئەسسەيادىي ئەررىفائېي (1220ھ- 1287ھ).<br /><br />-ئۆمەر ئەلفۇتىي ئەتتۇرىي ئەسسىنغالىي ئەلئەزھەرىي ئەتتىيجانىي (1281ھ ۋاپات بولغان). ئۇنىڭ زىكىر قىلىشقا تېگىشلىك ياخشى تەرىپى، بۇددىستلار ئارىسىدا ئىسلامنى تارقىتىشقا كۆڭۈل بۆلگەن، ئۇنىڭ ئۈچۈن لەشكەر تەشكىللەپ، بۇددىستلار بىلەن ئۇرۇشقان ۋە سىگو مەملىكىتى، ماسينھ شەھەرلىرىنى ئىگەللىگەن. ئۇنىڭ ئەسەرلىرىدىن: &quot;سيوف السعيد&quot;، &quot;سفينة السعادة&quot;، &quot;رماح حزب الرحيم على نحور حزب الرجيم&quot;قاتارلىقلارنى ساناش مۇمكىن.<br /><br />- مۇھەممەد ئوسمان ئەلمىيرغەنىي (1268ھ ۋاپات بولغان). بۇ كىشىنىڭ تەرجىمىھالى خەتمىييە تېمىسىدا بايان قىلىنىدۇ.<br /><br />- ئەبۇلفەيز مۇھەممەد ئىبنى ئەبدۇلكەبىير ئەلكەتتانىي، قاراشلىرى پەلسەپىۋىلەشكەن فىقھىي ئالىمى. ماراكەشنىڭ فاس شەھرىدىن بولۇپ، ئۇ &quot;كەتتانىيە&quot; (1290ھ- 1327ھ) تەرىقىتىنى تەسىس قىلغان. فاس ئۆلىمالىرى ئۇنىڭ بەزى قاراشلىرىنى تەنقىد قىلغان ۋە ئېتىقادى بۇزۇق، دەپ قارىغان. ئۇنىڭ كىتابلىرىدىن: &quot;حياء الأنبياء&quot;، &quot;لسان الحجة البرهانية في الذب عن شعائر الطريقة الأحمدية الكتانية&quot;  لەرنى ساناش مۇمكىن.<br /><br />- ئەھمەد ئەتىيجانىي (1230ھ ۋاپات بولغان). بۇ كىشىنىڭ تەرجىمىھالى تىيجانىييە تېمىسىدا بايان قىلىنىدۇ.<br /><br />- &quot;أرجوزة روض القلوب المستطاب في التصوف&quot;  ناملىق كىتابنىڭ ئاپتۇرى ھەسەن رىزۋان (1239ھ- 1310ھ).<br /><br />- سالىھ ئىبنى مۇھەممەد ئىبنى سالىھ ئەلجەئفەرىي ئەسسادىقىي (1328ھ - 1399ھ): مىسىرغا بېرىپ ئەزھەرگە ئورۇنلاشقاندىن كېيىن، ئەھمەدىييە ئىدرىسىييە تەرىقىتىگە كىرگەن. تەرىقەتنى شەيخ مۇھەممەد بەخىيت ئەلمۇتېيئېي، شەيخ ھەبىيبۇللاھ ئەششەنقېيتېي ۋە يۇسۇف ئەددەجۋىيلاردىن ئۆگەنگەن. ئۇنىڭ &quot;الإلهام النافع لكل قاصد&quot;، القضيدة التائية&quot; ؤة &quot;الصلوات الجعفرية&quot;  قاتارلىق كىتابلىرى بار.<br /><br />پىكىر ۋە ئېتىقادلار:<br /><br />* ئىلىم ۋە ئەھكام قوبۇل قىلىدىغان مەنبەلىرى: <br /><br />- كەشىف: سۇپىزمچىلار ئىلىم ۋە مائارىپلاردا، بەلكى ئىبادەتلىرىنى غايىسىگە يەتكۈزۈشتە كەشفكە كۈچلۈك مەنبە سۈپىتىدە تايىنىدۇ. سۇپىلاردىكى كەشفنىڭ دائىرىسىگە شەرىئەت ۋە كائىناتقا دائىر تۆۋەندىكى بىر قاتار ئىشلار كىرىدۇ:<br /><br />1-پەيغەمبەر ئەلەيھىسسالام: ئويغاق ياكى ئوخلىغان چاغدا بولسۇن ئۇنىڭ تەلىماتىنى ئېلىشنى مەقسەت قىلىدۇ.<br /><br />2-خىزىر ئەلەيھىسسالام: ئۇنىڭ بىلەن ئۇچىراشقانلىق، شەرئىي ھۆكۈم، دىنىي ئىلىم، ۋىرد، زىكىر، دۇئالارنى ئالغانلىقى توغرىسىدىكى ھېكايىلىرى ناھايىتى كۆپ.<br /><br />3-ئىلھام: بىۋاستە ئاللاھ تائالادىن ئىلھام ئېلىش. بۇنىڭ بىلەن سۇپىنىڭ ماقامىنى پەيغەمبەرنىڭ ماقامىدىن يوقىرى ئورۇندا قويىدۇ. ئۇلار ئەۋلىيا ئىلىمنى بىۋاستە ئاللاھ تائالادىن ئالىدۇ، ئەمما پەيغەمبەر ياكى ئەلچى ئۇنىڭ ۋەھيىنى ئېلىپ كىلىدىغان پەرىشتىدىن ئالىدۇ، دەپ ئېتىقاد قىلىدۇ.<br /><br />4-پاراسەت: بۇ روھنىڭ پىكرى ۋە سۆزلىرىنى بىلىشكىلا خاستۇر.<br /><br />5-پىچىرلاش: خىتابنى ئاللاھ تائالادىن ياكى پەرىشتىلەردىن ياكى سالىھ جىندىن ياكى بىرەر ئەۋلىيادىن ياكى خىزىردىن ۋەياكى ئىبلىستىن ئۇيقۇدا ياكى ئويغاقلىقتا ۋەياكى ئىككىسىنىڭ ئارىسىدا قۇلاق ئارقىلىق ئاڭلاشنى كۆزدە تۇتىدۇ.<br /><br />6-ئىسرا ۋە مىراجلار: بۇنىڭدا ئەۋلىيانىڭ روھىنىڭ يۇقىرىقى ئالەمگە ئۆرلەپ، ئۇ يەردە كىزىشى ۋە تۈرلۈك ئىلىم ۋە سىرلارنى ئېلىپ چۈشىشى، دېگەننى كۆزدە تۇتىدۇ.<br /><br />7-ھېسسىي كەشپ: قەلىب ۋە كۆزنىڭ كۆرۈش نوقتىلىرىدىكى ھېسسىي پەردىلەرنىڭ كۆتىرىلىپ كېتىشى بىلەن مەۋجۇتلۇقنىڭ ھەقىقەتلىرىنى كەشىپ قىلىش.<br /><br />8-چۈش ۋە ئۇيقۇدىكى ئىشلار: بۇ ئەڭ كۆپ تايىنىلىدىغان مەنبەلەرنىڭ بىرى بولۇپ ھېسابلىنىدۇ. ئۇلار چۈشلىرىدە ئاللاھ تائالادىن ياكى پەيغەمبەر ئەلەيھىسسالام ۋەياكى شەيخلىرىنىڭ بىرىدىن شەرىئەت ئەھكاملىرىغا ئائىت كۆرسەتمىلەرنى ئالىدىغانلىقىنى دەۋا قىلىشىدۇ.<br /><br />-زەۋق: بۇنىڭ ئىككى تۈرلۈك قاراتمىلىقى بار:<br /><br />1- بارلىق ئەھۋال ۋە ماقاملارنى ئىنتىزاملاشتۇرىدىغان ئومۇمىي زەۋق. غەزالىي ئۆزىنىڭ &quot;المنقذ من الضلال&quot; ناملىق كىتابىدا، سۈلۈك تۇتقان كىشىنىڭ پەيغەمبەرلىكنىڭ ھەقىقىتىدىن زوقلىنىشى ۋە كۆرىشىش ئارقىلىق ئۇنىڭ ئەۋزەللىكىنى بايقىيالىشى مۇمكىن، دەپ قارايدۇ.<br /><br />2- ئۆزگىچە زەۋق بولۇپ، ئۇ زەۋق، ئارقىدىن ئىچىش (الشرب) بىلەن باشلىنىدۇ، ئۇلارنىڭ ئارىلىرىدا ئۇنىڭ دەرىجىسى پەرقلىق بولىدۇ.<br /><br />-ۋەجد: بۇ ئۈچ مەرتىسىۋىسى بار:<br /><br />1- ھازىر بولۇش (التواجد).<br /><br />2 - سۆيگۈ (الوجد). <br /><br />3 - ۋۇجۇد (الوجود).<br /><br />- پەيغەمبەر ئەلەيھىسسالامدىن باشقا پەيغەمبەرلەر ۋە قەبىرلەردىكى شەيخلىرىدىنمۇ تەلىمات قوبۇل قىلىش.<br /><br />* سوپىزمنىڭ ئەقىدە ۋە پىكىرلىرى بىر-بىرىگە ئوخشىشىپ كېتىدۇ ۋە تەرىقەت مەدرىسىلىرىنىڭ سانىغا كۆرە كۆپ بولىدۇ. ئۇلارنى تۆۋەندىكىچە خۇلاسىلەش مۇمكىن:<br /><br />- مۇتەسەۋۋۇپلار ئاللاھ تائالاغا ئوخشىمىغان ئەقىدىلەر بويىچە ئېتىقاد قىلىدۇ؛ ئۇلارنىڭ ئىچىدە ھەللاجنىڭ مەزھىپىگە ئوخشاش ھۇلۇلچىلار، ياراتقۇچى بىلەن مەخلۇقلارنىڭ ئارىسىنى ئايرىماسلىقنى ياقلايدىغان ۋەھدەتۇل ۋۇجۇدچىلار بار. ئۇلارنىڭ ئىچىدە ئاللاھ تائالانىڭ زاتى، ئىسىم ۋە سۈپەتلىرى مەسىلىسىدە ئەشئەرىييە، ماترىيدىييە ئەقىدىلىرى بويىچە ئېتىقاد قىلىدىغانلارمۇ بار.<br /><br />- ئۇلارنىڭ ئارىسىدىكى بەلگىلىمىدىن ھالقىپ مۇبالىغە قىلىدىغانلار پەيغەمبەر ئەلەيھىسسالامغىمۇ تۈرلۈك ئەقىدىلەر بويىچە ئېتىقاد قىلىدۇ؛ ئۇلارنىڭ ئارىسىدا پەيغەمبەر ئەلەيھىسسالامنىڭ ئۇلارنىڭ مەرتىۋىسى ۋە ئەھۋالىغا يېتەلمەيدۇ ۋە ئۇنى، بەستامىينىڭ &quot;پەيغەمبەرلەر قىرغىقىدا توختاپ قالغان دېڭىزغا كىردۇق&quot; دېگەن سۆزىدىكىگە ئوخشاش تەسەۋۋۇپ كىشىلىرىنىڭ ئىلىملىرىنى بىلمەيدۇ، دەپ ئېتىقاد قىلىدىغانلارمۇ، پەيغەمبەر ئەلەيھىسسالامنىڭ كائىناتنىڭ مەركىزى، ئۇ ئەرشتە قارار ئالغان ئاللاھ، ئاسمان-زېمىنلار، ئەرش، كۇرسىي ۋە بارلىق كائىنات ئۇنىڭ نۇرىدىن يارىتىلغان، ئۇ تۈنجى مەۋجۇتلۇق، دەپ ئېتىقاد قىلىدىغانلارمۇ بار. بۇ ئىبنى ئەرەبىي ۋە ئۇنىڭ ئەگەشكۈچىلىرىنىڭ ئەقىدىسى. ئۇلارنىڭ ئىچىدە يەنە، يۇقىرىقىلار بويىچە ئېتىقاد قىلمايدىغان، ئۇلارنى رەت قىلىدىغان، پەيغەمبەر ئەلەيھىسسالامنىڭ ئىنسانلىقىغا ۋە ئۇنىڭ رىسالىسىگە ئېتىقاد قىلىدىغانلارمۇ بار. بىراق ئۇلار شۇنداق بولسىمۇ، پەيغەمبەر ئەلەيھىسسالامدىن شاپائەت تىلەيدۇ، ئۇنى ئەھلى سۈننەت ۋەلجامائەنىڭ ئەقىدىسىگە خىلاپ ھالدا ئاللاھ تائالاغا ۋاسىتە قىلىدۇ.<br /><br />- ئەۋلىيالار مەسىلىسىدىمۇ سۇپىزمچىلار ئوخشىمىغان ئەقىدىلەر بويىچە ئېتىقاد قىلىدۇ؛ ئۇلارنىڭ ئارىسىدا ئەۋلىيا پەيغەمبەردىن يۇقۇرى، دەپ بىلىدىغانلار، ئەۋلىيانى بارلىق سۈپەتلىرىدە ئاللاھ تائالا بىلەن ئوخشاش ئورۇندا قويۇپ، ئۇ يارىتىدۇ، رىزق بىرىدۇ، ئۆلتۈرىدۇ، تىرىلدۈرىدۇ، كائىناتتا خالىغىنى بويىچە ھەرىكەت ئېلىپ بارىدۇ، دەپ ئېتىقاد قىلىدىغانلار بار. ئۇلار ئەۋلىيالىقنى غەۋس، قۇتۇبلار، بەدەللەر، نۇجەبالار  دېگەن مەرتىۋىلەر بويىچە تەقسىم قىلىدۇ. ئۇلار ھەر كېچىسى ھىرا غارىدىكى سارىيىدا توپلىنىپ، قەدەرلەرگە قاراپ چىقىدۇ. ئۇلارنىڭ ئىچىدە بۇ شەكىلدە ئېتىقاد قىلمايدىغانلار بولسىمۇ، ئەمما، ھايات ۋەياكى ئۆلگەندىن كېيىن بولسۇن ئەۋلىيالارنى ئۆزلىرى بىلەن ئاللاھ تائالانىڭ ئوتتۇرىسىدا ۋاسىتە قىلىدۇ.<br /><br />ئەلۋەتتە بۇلارنىڭ ھەممىسى، ئىسلامدىكى دىيانەت، تەقۋالىق، ياخشى ئەمەللەر، تولۇق شەكىلدە ئاللاھ تائالاغا ئىبادەت قىلىش، ئۇنىڭغىلا يېلىنىشنى ئىلگىرى سۈرىدىغان ئەۋلىيالىق قارىشىغا ئويغۇن كەلمەيدۇ. ئەۋلىيا باشقىلار ئۇ ياقتا تۇرۇپ تۇرسۇن، ئۆزلىرىگىمۇ پايدا- زىيان ئېلىپ كىلەلمەيدۇ. ئاللاھ تائالا پەيغەمبىرىگە خىتاب قىلىپ، مۇنداق دەيدۇ: «ئېيتقىنكى، «مەن سىلەرگە پايدا-زىيان يەتكۈزۈشكە قادىر بولالمايمەن (بۇنىڭغا پەقەت اﷲ قادىر بولالايدۇ)» <br /><br />- ئۇلار دىن شەرىئەت ۋە ھەقىقەتتىن ئىبارەتتۇر، شەرىئەت دىننىڭ ئاشكارا قىسمى بولۇپ، ئۇنىڭدىن ھەممە كىشى كىرىدۇ، ھەقىقەت باتىن (يۇشۇرۇن) قىسمى بولۇپ، ئۇنىڭدىن پەقەت تاللانغان كىشىلەرلا كىرىدۇ، دەپ ئېتىقاد قىلىدۇ.<br /><br />- تەسەۋۋۇپمۇ ئۇلارنىڭ نەزىرىدە تەرىقەت ۋە ھەقىقەتتىن تەركىپ تاپىدۇ.<br /><br />- تەسەۋۋۇپتا، تەرىقەتنى باشقا بىر شەيختىن ئالغان بىر شەيخنىڭ ۋاسىتىسى بىلەنلا يىتىپ كىلىشى مۇمكىن بولىدىغان روھىي تەسىر بولۇشى لازىم.<br /><br />- زىكىر قىلىش، روھىي پىكىر يۈرگۈزۈش ۋە يۇقىرى تەبىقىدىكى كىشىلەرگە زېھىنىنى مەركەزلەشتۈرۈش لازىم. ئۇلارنىڭ نەزىرىدىكى ئەڭ يۇقىرى دەرىجە ئەۋلىيالىق دەرىجىسى.<br /><br />- سۇپىلار ئۆزلىرىنىڭ قارىشى بويىچە، پەيغەمبەر ۋە ئەۋلىيالارغا خاس ئىلاھىي ئىلىم ھەققىدە سۆز قىلىدۇ. ئۇ ئىلىم خىزىر ئەلەيھىسسالامغىمۇ بىرىلگەن ئىدى. چۈنكى ئاللاھ تائالا ئۇ ھەقتە خەۋەر بېرىپ، مۇنداق دېگەن: «بىزنىڭ ئۆزىمىزگە خاس ئىلمىمىزنى (يەنى ئىلمىي غەيبنى) بىز بىلدۈرگەن بىر بەندىنى (يەنى خىزىر ئەلەيھىسسالامنى) ئۇچراتتى» <br /><br />- فەنا: ئەبۇ يەزىيد ئەلبەستامىي بۇ پىكىرگە چاقىرغان ئىسلامدىكى تۈنجى كىشى ھېسابلىنىدۇ. بەستامىي بۇنى شەيخى ئەبۇ ئەلى ئەسسۇندىيدىن نەقىل كەلتۈرگەن. فەنا، ئاللاھ تائالادا پۈتۈنلەي ئاخىرلىشىش، ئاللاھدىن باشقا بارلىق نەرسىلەرنى، ھەتتا ئۆزىنىمۇ ئۇنتۇش، دېمەكتۇر. قۇشەيرىي مۇنداق دەيدۇ: &quot;باشقىلاردىن بىر كۆز، ئىز، رەسىم، جىسىمنى كۆرمىگۈدەك دەرىجىدە ھەقىقەت سۇلتانىنىڭ كونتروللىقىغا كىرگەن كىشى ئۈچۈن، پۈتۈنلەي ئاخىرلىشىش، مۇمكىن بولىدۇ.&quot; فانى بولۇش دەرىجىلىرىنىڭ ئەڭ يۇقىرىسىغا &quot;جەمئۇل جەم&quot; (كۆپلۈكنىڭ كۆپى) دېگەن نام بىرىلىدۇ. بۇمۇ &quot;بەندىنىڭ ھەقنىڭ بارلىقىدا ئۆزىنىڭ فەنالىقىنى پەرق قىلالمىغۇدەك دەرىجىگە كىلىشىدۇر.&quot;<br /><br />فەنا مەقامى, بۇ يولدىكى كىشىلەرنىڭ تەسەۋۋۇرلىرىنىڭ ئىككى قارىمۇ قارشى قۇتۇب ئارىسىدىكى كېتىپ كىلىدىغان بىر خىل ئەھۋال بولۇپ، بۇ بىر تەرەپتە تەنزىيھ (پاك، دەپ تۇنۇش) ۋە تەجرىيد (بارلىق سۈپەتلەردىن زېھنىي مۇناسىۋەتلەرنى ئۇزۇش)، يەنە بىر تەرەپتە ھۇلۇل ۋە تەشبىھتۇر.<br /><br />* سۇلۇك دەرىجىلىرى:<br /><br />- بۇ يەردە سۇپىي بىلەن ئابىد ۋە زاھىدنىڭ ئوتتۇرىسىدا پەرق بار. چۈنكى بۇلارنىڭ ھەر بىرىنىڭ ئۆزىگە خاس ئۇسلۇب، مېتود ۋە غايىلىرى بار.<br /><br />ئاللاھ ۋە ئۇنىڭ رەسۇلىنى سۆيۈش سۈلۈك دەرىجىلىرىنىڭ بىرىنچىسى بولۇپ، دەلىلى ئاللاھنىڭ رەسۇلىغا ئەگىشىشتۇر.<br /><br />ئارقىدىن گۈزەل ئۈلگە: «سىلەرگە رەسۇلۇللاھ ئەلۋەتتە ياخشى ئۈلگىدۇر» <br /><br />ئۇنىڭ ئارقىسىدىن تەۋبە كىلىدۇ: بۇ، گۇناھدىن قول ئۈزۈش، ئۇنى قىلىپ سالغانغا پۇشايمان قىلىش، قايتا سادىر قىلماسلىققا قەتئىي ئىرادە باغلاش ۋە ئىنسانلار بىلەن مۇناسىۋەتلىك بولغان ئەھۋالدا ئۇلاردىن ئەپۇ سۇراش ئارقىلىق ئىشقا ئاشىدۇ.<br /><br />- ماقاملار: &quot;سۈلۈك تۇتقۇچىنىڭ ئاللاھ تائالاغا يىتىش يولىدىكى مەنىۋىي مەنزىللەر بولۇپ، بۇلارنىڭ ھەر بىرىدە مۇئەييەن مەزگىل توختاپ، ئىككىنچى مەنزىلگە ئاتلىغانغا قەدەر تىرىشچانلىق كۆرسىتىدۇ.&quot; ئەمما، باشقا مەنزىلگە ئاتلاش ئۈچۈن جىھاد ۋە تەزكىيە (پاكلىنىش) مۇھىمدۇر. مۇرىد بىلەن ئاللاھ سۇبھانەھۇ ۋەتائالانىڭ ئوتتۇرىسىدا مال، مەرتىۋە، تەقلىد ۋە گۇناھدىن ئىبارەت، تۆت نەرسە توسالغۇدۇر، دەپ قارايدۇ..<br /><br /><br />ئەھۋاللار تالانتتۇر، ماقاملار كۈچ سەرپ قىلىپ ئېرىشىدىغان نەرسىدۇر. بۇنى ئۇلار &quot;ئەھۋاللار سۆيگۈنىڭ كۆزىدىن كىلىدۇ، ماقاملار كۈچ سەرپ قىلىش بىلەن ھاسىل بولىدۇ&quot; دېگەن سۆزلىرى بىلەن ئىپادىلەيدۇ.<br /><br />- ۋەرئ: سۇلۇك تۇتقۇچىنىڭ شۇبھىلىك نەرسىلەرنى تەرك قىلىشىدۇر. بۇ سۆزدە، قەلبتە ۋە ئەمەلدە ئىشقا ئاشۇرىلىدۇ.<br /><br />- زاھىدلىق: كۆرۈنۈشتە دۇنيا بىلەن بولۇش، ئەمما قەلبى ئاللاھنىڭ قولىدىكى نەرسىلەر بىلەن باغلانغان بولۇش. ئۇلارنىڭ بىرى زاھىد توغرىسىدا مۇنداق دەيدۇ: &quot;پالانى توغرا ئېيتقان، ئاللاھ ئۇنىڭ قەلبىنى دۇنيادىن يۇيۇۋېتىپ، كۆرۈنۈش ئېتىبارى بىلەن دۇنيانى ئۇنىڭ قولىغا بەرگەن.&quot; ئىنسان بىر ۋاقىتتا ھەم باي، ھەم زاھىد بولۇشى مۇمكىن. چۈنكى زاھىدلىق پېقىرلىق دېگەنلىك ئەمەس، بارلىق پېقىرلار زاھىد بولمىغىنىدەك، بارلىق زاھىدلارمۇ پېقىر ئەمەس. زاھىدلىق ئۈچ دەرىجىگە ئايرىلىدۇ:<br /><br />1- ھارامنى تەرك قىلىش، بۇ بارلىق كىشىلەرنڭ زاھىدلىقى.<br /><br />2- ھالال نەرسىلەر ئىچىدىكى ئېھتىياجىدىن ئارتۇق نەرسىلەرنى تەرك قىلىش، بۇ ئايرىم كىشىلەرنىڭ زاھىدلىقى.<br /><br />3- بەندىنى ئاللاھ تائالانىڭ غەيرى بىلەن مەشغۇل قىلىپ قويىدىغان نەرسىلەرنى تەرك قىلىش، بۇ ئارىفلارنىڭ زاھىدلىقى.<br /><br />- تەۋەككۇل: ئۇلار: تەۋەككۈل باشلىنىش، بويسۈنۈش ۋاسىتە، ئەلۋەتتە ئاللاھ تائالاغا بولغان ئىشەنچنىڭ نىھايىتى بولىدىغان بولسا، ھاۋالە قىلىش ئاخىرلىشىشتۇر، دېيىشىدۇ. سەھل ئەتتەستەرىي: &quot;تەۋەككۇل قىلىدىغان بارلىق ئىشلىرىدا ئاللاھ تائالاغا تەسلىم بولۇش، دېمەكتۇر&quot; دەيدۇ.<br /><br />-مۇھەببەت: ھەسەن ئەلبەسىري (110ھ ۋاپات بولغان) مۇنداق دەيدۇ: &quot;مۇھەببەتنىڭ ئالامىتى سۆيگەن نەرسىسىگە ماسلىشىش، ھەر ئىشتا ئۇنىڭ بىلەن بىرگە بولۇش، بارلىق ۋاسىتىلەر ئارقىلىق ئۇنىڭغا يېقىنلىشىش، ئۇنىڭ يولىغا ھەمدەم بولمايدىغان بارلىق ئىشلاردىن يىراق تۇرۇشتىن ئىبارەتتۇر.&quot;<br /><br />- رازىلىق (مەمنۇنلۇق): سۇپىلارنىڭ بىرى مۇنداق دەيدۇ: ئاللاھ تائالا بىلەن رازى بولۇش بەك ئۇلۇغدۇر. ئۇ، بەندىنىڭ قەلبىنىڭ ئاللاھ تائالانىڭ ھۆكمى ئاستىدا سۈكۈناتقا چۈمىشىدۇر.&quot; يەنە بىرى مۇنداق دەيدۇ: &quot;رازىلىق ماقاملارنىڭ ئەڭ ئاخىرىقىسىدۇر، ئۇنىڭدىن كېيىن، قەلب ئىگىلىرى، غەيىبنى مۇتالىئە قىلغانلار، زىكىرلەرنىڭ ساپلىقى ۋە ئەھۋاللارنىڭ ھەقىقەتلىرىگە ئىگە بولغانلار داۋاملاشتۇرىدۇ.<br /><br />- ئاللاھ تائالانىڭ كىتابى، پەيغەمبىرىنىڭ سۈننىتىنى چۈشىنىش ئۈچۈن خىيالنى قويۇپ بىرىدۇ، سۈلۈك تۈتقۇچى ئاخىرىدا ئەڭ ئىشەنچلىك نوقتىغا يىتىپ بارىدۇ. بۇ خىل كەسكىن ئىشەنچ ئۈچ مەرتىۋىگە بۆلىنىدۇ:<br /><br />1- ئىشەنچلىك ئىلىم: بۇ، ئايەت ۋە ھەدىسلەردىن ئېلىنغان ئەمەلىي دەلىللەر ئارقىلىق كىلىدۇ. «ئەگەر سىلەر راستلا ھەقىقىي بىلسەڭلار (غەپلەتتە قالماڭلار)» <br /><br />2-كۆز بىلەن كۆرۈش: بۇ، كۆرۈش ۋە بايقاش ئارقىلىق كىلىدۇ: «ئاندىن ئۇنى چوقۇم ئۆز كۆزۈڭلار بىلەن كۆرىسىلەر» <br /><br />3- ئېنىق ھەقىقەت: بۇ زوقلىنىش ئارقىلىق ئەمەلگە ئاشىدۇ: «شەك - شۈبھىسىزكى، بۇ ئېنىق ھەقىقەتتۇر. ئۇلۇغ پەرۋەردىگارىڭنى (مۇشرىكلارنىڭ ئېتىرازلىرىدىن) پاك ئېتىقاد قىلغىن» <br /><br />- ئەمما ھۆكۈم، ھاكىمىيەت ۋە سىياسەت توغرىسىدىكى سوپىلارنىڭ تۇتقان مېتودى يامانلىققا ۋە ھاكىملارنىڭ يولسىزلىقلىرىغا قارشى تورۇشنىڭ جائىز ئەمەسلىكىدۇر؛ چۈنكى ئۇلارنىڭ قارىشىچە، ئاللاھ تائالا بەندىلەرنى خالىغىنى بويىچە ئورۇنلاشتۇرغان.<br /><br />- سوپىزم شارائىتىدىكى ئەڭ خەتەرلىك مەسىلە تەلىم- تەربىيەدىكى مېتودى بولۇشى مۇمكىن. ئۇلار، كىشىلەرنىڭ ئەقىللىرىنى كونتروللىقىغا ئېلىپ، ئۇنى كاردىن چىقىرىدۇ، بۇ ئۇلارنى تەدرىجى يولغا كىرگۈزۈش بىلەن كۆندۈرىشىدىن باشلايدۇ، ئارقىدىن تەسەۋۋۇپ ۋە ئۇنىڭ ئاساسلىق كىشىلىرىنى ئۇلۇغلاش ۋە ھەيۋەتلىكلەشتۈرۈشكە كىرىشىدۇ، ئۇنىڭدىن كېيىن، بىر كىشىگە يېپىشتۇرۇشنى باشلايدۇ. ئۇنىڭدىن كېيىن، ئۇنى بىر - بىرلەپ تەسەۋۋۇپ ئىلىملىرىگە سۆرەپ كىرىدۇ، ئۇنىڭمۇ ئارقىسىدىن تەرىقەتكە باغلاپ، قايتىپ چىقىدىغان بارلىق يوللارنى ئىتىپ تاشلايدۇ.&quot;<br /><br />* سوپىزم مەدرىسلىرى: <br /><br />- زۇھد مەدرىسىسى: ئۇنىڭ ئەگەشكۈچىلىرى نۈسۈك تۇتقۇچىلار، زاھىدلار، ئابىدلار ۋە كۆپ يىغلىغۇچىلار (البكاېين) دىن تەركىپ تاپىدۇ. ئاساسلىق كىشىلىرى، رابىئەتۇل ئەدەۋىييە، ئىبراھىم ئىبنى ئەدھەم ۋە مالىك ئىبنى دىنار قاتارلىقلار.<br /><br />- كەشىف ۋە مەرىپەت مەدرىسىسى: بۇ مەدرىسە، يالغۇز ئەقلىي مەنتىقىگە تايىنىشنىڭ ئۆزىلا مەرىپەت ھاسىل قىلىش ۋە مەۋجۇداتلارنىڭ ھەقىقەتلىرىنى بايقاش ئۈچۈن يىتەرلىك ئەمەس، دېگەن ئاساسقا تايىنىدۇ. چۈنكى، ئىنسان نەپىس رىيازەتلىرى ئارقىلىق تەرەققىي قىلىدۇ-دە، قەلىب كۆزلىرىدىن جاھالەت پەردىلىرى كۆتىرىلىپ كېتىدۇ ۋە ھەقىقەتلەرنى قەلىب ئەينىگىدە بىرمۇ بىر سەير قىلىشقا باشلايدۇ. بۇ مەدرىسىنىڭ داھىسى ئىمام ئەبۇ ھامىد ئەلغەزالىي.<br /><br />- ۋەھدەتۇل ۋۇجۇد مەدرىسىسى: بۇ مەدرىسىنىڭ داھىسى مۇھيىددين ئىبنى ئەرەبىي، ئۇ مۇنداق دەيدۇ: &quot;تەھقىق قىلغۇچىلار تەرىپىدىن ئىسپاتلانغان مەسىلە شۇنىڭدىن ئىبارەتكى، مەۋجۇتلۇقتا بار بولغان نەرسە يالغۇز ئاللاھ تائالادۇر. ئەگەر بىز مەۋجۇت بولساق، بىزنىڭ مەۋجۇتلىقىمىز پەقەت ئۇنىڭ بىلەندۇر. مەۋجۇتلۇق سۈپىتىدە ئوتتۇرىغا چىققان ھەر قانداق نەرسە ھەقىقەتتۇر. مەۋجۇتلۇق ھەقىقەتتۇر ۋە يىگانىدۇر. ئۇنىڭغا ئوخشايدىغان بىر نەرسىمۇ يوقتۇر. چۈنكى، ھەر قانداق چاغدا، بىر - بىرىگە ئوخشايدىغان ئىككى مەۋجۇتلۇقنىڭ بولۇشى مۇمكىن ئەمەستۇر.&quot;<br /><br />- ئىتتىھاد ۋە ھۇلۇل مەدرىسىسى: بۇ مەدرىسىنىڭ رەئىسى ھەللاج بولۇپ، بۇ مەدرىسىدە ھىندى ۋە خىرىستىيان تەسەۋۋۇپىنىڭ تەسىرلىرى كۆزگە چېلىقىدۇ. چۈنكى بۇ مەدرىسىدە سۇفىي ئاللاھ تائالانىڭ ئۆزىگە ھۇلۇل (چۈشمەك) بولغانلىقىنى ۋە ئۇنىڭ ئاللاھ بىلەن ئاللىقاچان بىرلىشىپ (ئىتتىھاد) كەتكەنلىكىنى تەسەۋۋۇر قىلىدۇ. &quot;مەن ھەق&quot;، &quot;جۇۋىنىڭ ئىچىدە پەقەت ئاللاھ بار&quot; دېگەنگە ئوخشىغان سۆزلەر ئۇلارغا ئائىتتۇر. ئۇلارنىڭ دەۋالىرىغا كۆرە، مۇشاھىدىلەر نەتىجىسىدە مەيدانغا كەلگەن ئۆزلىرىنى ئۇنتۇش لەھزىلىرىدە تىللىرىدىن چىققان بۇنىڭغا ئوخشىغان باشقا قالايمىقان سۆزلىرىمۇ بار.<br /><br />* سوپىزم تەرىقەتلىرى: <br /><br />- جەيلانىي تەرىقىتى: بۇ تەرىقەت ئابدۇلقادىر جەيلانىي (470ھ - 561ھ) غا مەنسۇپتۇر. ئۇ باغداتقا دەپنە قىلىنغان بولۇپ، ھەر يىلى نۇرغۇن ئەگەشكۈچىلىرى ئۇنى تەۋەررۇك بىلگەنلىكى ئۈچۈن زىيارەت قىلىپ تۇرىدۇ. ئۇ ئۆز ئەسىرىنىڭ خېلى كۆپ ئىلىملىرى بىلەن تونۇشقان. يۇقىرىدا زىكىر قىلغىنىمىزغا ئوخشاش، ئەگەشكۈچىلىرى ئۇنىڭغا نۇرغۇنلىغان كارامەتلەرنى مەنسۇپ، دەپ قارايدۇ.<br /><br />ئۇنىڭ تەرىقىتى ئافرىقىدا ئىسلام دىنىنى تارقىتىش ئىشلىرىدا كۆرىنەرلىك رول ئوينىغان، ئىسلام مەركەزلىرىنى قورۇشقا ھەسسە قوشقان ۋە مەغرىبكە باستۇرۇپ كىلىۋاتقان ياۋرۇپانىڭ تەسىرىگە قارشى چەكلىگۈچىلىك مەيداندا تۇرغان.<br /><br />- رىفائىييە تەرىقىتى: ئەرەبلەرنىڭ رافىئىي قەبىلىسىدىن ئەھمەد ئەررافىئىي (580ھ ۋاپات بولغان) غا مەنسۇپ بىر تەرىقەتتۇر. بۇ تەرىقەتنىڭ جامائىتى كارامەتنى ئىسپاتلاش ئۈچۈن ئوتقا كىرىش، قىلىچ ئىشلىتىش قاتارلىق ئىشلارنى قوللىنىدۇ. شەيخ ئەلۇسىي ئۆزىنىڭ &quot;غايە الۆماني في الرد ىلۈ النبھاني&quot; ناملىق كىتابىدا ئۇلار توغرىسىدا مۇنداق دەيدۇ: &quot;بۇ ئەسىردىكى دىن ۋە دۆلەتكە نىسبەتەن خەتىرى ئەڭ قورقۇنلۇق كىشىلەر رىفائىييە بىدئەتچىلىرىدۇر. سىز مەنبەسى، كىلىپ چىقىشى ۋە ئېلىنىشى ئۇلارغا چېتىلمايدىغان بىدئەتنى ئۇچىرىتالمايسىز. ئۇلارنىڭ زىكىرلىرى ناخشا، ئۇسۇل، ئاللاھ تائالانىڭ غەيرىگە تېۋىنىش ۋە شەيخلىرىغا ئىبادەت قىلىش ، ئەمەللىرى بولسا يىلانلارنى تۇتۇشتىن ئىبارەتتۇر.&quot;<br /><br />رىفائىييە تەرىقىتى شىئەلەر بىلەن بىر قانچە ئىشتا بىر يەردىن چىقىدىغان بولۇپ، ئۇلارنىڭ ئىچىدىن جەئفەرنىڭ كىتابىغا بولغان ئىمانى، ئون ئىككى ئىمامغا بولغان ئېتىقادلىرى، ئەھمەد ئەررافىئېينى ئون ئۈچىنچى ئىمام دېيىشلىرى ۋە ئاشۇرا كۈنىدىكى قايغۇرۇش پائالىيىتىگە ئىشتىراك قىلىشلىرى قاتارلىق ئىشلىرى ۋەباشقىلارنى تىلغا ئېلىش مۇمكىن.<br /><br />گەرچە بۇ تەرىقەتنىڭ شەيخى ئەھمەد ئەررافىئېينىڭ سۈننەتكە كۈچلۈك رىغبەتلەندۈرۈش ۋە بىدئەتتىن يىراقلىشىش توغرىسىدىكى سۆزلىرى رىۋايەت قىلىنغان بولسىمۇ، تەرىقەت ئىچىدە يۇقىرىقى ئىشلار سادىر بولىۋاتىدۇ. رافىئىي مۇنداق دەيدۇ: &quot;سۈننەتنى ئېتىبارغا ئالىمىغان، بىدئەتكە سەل قارىغان قەۋمگە ئاللاھ دۈشمەنلەرنى ھاكىم قىلىپ قويىدۇ، سۈننەتكە ئەھمىيەت بەرگەن، بىدئەتنىڭ يىلتىزىنى قومۇرۇپ تاشلىغان قەۋمگە بولسا،ئۆز پەزلىدىن ھەيۋەت بېغىشلايدۇ، ئۇلارغا ياردەم بىرىدۇ ۋە ئىشلىرىنى ئىسلاھ قىلىدۇ.&quot;<br /><br />رىفائىييە تەرىقىتى غەربى ئاسىيادا كۆرىنەرلىك دەرىجىدە تارقالغان..<br /><br /><br />- دۇسۇقىييە تەرىقىتى: ئىبراھىم ئەددۇسۇقىي (633ھ -676ھ) غا نىسبەت بىرىلىدۇ. ئۇ مىسىرنىڭ دۇسۇق شەھرىگە دەپنە قىلىنغان. مۇتەسەۋۋۇپلار ئۇنى، بۇ كائىناتتىكى ئىشلارنىڭ ئورۇنلاشتۇرۇش ئىشلىرى تاپشۇرۇلغان تۆت قۇتۇبنىڭ بىرى، دەپ دەۋا قىلىدۇ..<br /><br />- ئەكبەرىييە تەرىقىتى: بۇ تەرىقەت شەيخ مۇھيىددين ئىبنى ئەرەبىيگە نىسبەت بىرىلىدۇ. ئۇنىڭ تەرىقىتى ۋەھدەتۇل ۋۇجۇد، سۈكۈت، يالغۇزلۇق، ئاچلىق، كىچىسى ئۇخلىماسلىق ئەقىدىسى بويىچە ماڭىدۇ. بۇ تەرىقەتنىڭ ئۈچ خىل سۈپىتى بار: بالاغا سەۋر قىلىش، باياشاتلىققا شۈكۈر قىلىش ۋە قازا رازى بولۇش.<br /><br />- شازىلىييە تەرىقىتى: ئەبۇلھەسەن ئەششازىلىي (593ھ- 656ھ) غا مەنسۇپ تەرىقەتتۇر. شازىلىي ماراكەشنىڭ مىرسىييەگە يېقىن جايدىكى ئەممارە يېزىسىدا دۇنياغا كەلگەن. تۇنىسقا كۆچۈپ بارغان. بىر قانچە قېتىم ھەج قىلغان. كېيىن ئىراققا كىرگەن. ئاخىرىدا ھەجگە مېڭىش يولىدا مىسىر ئېگىزلىكىدىكى ئەيزاب سەھراسىدا ۋاپات بولغان. ئۇنىڭ توغرىسىدا &quot;ئۇ تەرىقەتنى كىشىلەرنى قولايلاشتۇرۇپ بەردى&quot; دېيىلىدۇ. چۈنكى ئۇنىڭ تەرىقىتى تەرىقەتلەرنىڭ ئەڭ ئاسىنى ۋە ئەڭ يېقىنىدۇر؛ ئۇنىڭ تەرىقىتىدە كۆپ كۆچ چىقىرىش يوق. ئۇنىڭ تەرىقىتى مىسىر، يەمەن ۋە ئەرەب ئەللىرىگە تارقالغان. مۇخا شەھرىنىڭ ئەھلى ئۇنى ناھايىتى قەدىرلەيدۇ ۋە ئۇنىڭ ئەۋلىيالىقىغا چوڭقۇر ئىشىنىدۇ. ئۇنىڭ تەرىقىتى يەنە ماراكەش، ئالجىرىيەنىڭ غەربى، شىمالىي ئافرىقا ۋە غەربىي ئافرىقىغا ئومۇمەن تارقالغان.<br /><br />- بەكداشىييە تەرىقىتى: ئوسمانىيە تۈركلىرى بۇ تەرىقەتكە تەۋە ئىدى. بۇ تەرىقەت ھېلىھەم ئالبانىيەگە كەڭ تارقالغان بولۇپ، ئۇ سۈننى تەسەۋۋۇپىغا قارىغاندا شىئە تەسەۋۋۇپىغا بەكرەك يېقىن. بۇ تەرىقەتنىڭ تۈرك ۋە مۇڭغۇللار ئارىسىدا ئىسلامنىڭ تارقىشىدا كۆرىنەرلىك رولى بولغان. ئەينى زاماندا ئوسمانىيە سۇلتانلىرىنىڭ ئۈستىدىمۇ ئۇنىڭ كۈچلۈك تەسىرى بار ئىدى.<br /><br />- مەۋلىۋىييە تەرىقىتى: بۇ تەرىقەت پارىس شائىرى جالالۇددين ئەررۇمىي (672ھ ۋاپات بولغان) تەرىپىدىن تەسىس قىلىنغان. ئۇ كونىيادا دەپنە قىلىنغان. بۇ تەرىقەتنىڭ ئۆزگىچىلىگى زىكىر ھەلقىلىرىدە رىتىم ئىچىدە ساما سېلىشىدۇر. تۈركىيە ۋە غەربىي ئاسىيادا تارقالغان. بۈگۈنكى كۈندە بۇ تەرىقەتكە دائىر، تۈركىيە، ھەلەب ۋە بەزى شەرق ئەللىرىدىكى ئازغىنا ئەگەشكۈچىلىرىنى ھېسابقا ئالمىغاندا ئاساسەن بىر نەرسە قالمىغان.<br /><br />- نەقشىبەندىييە تەرىقىتى: بۇ تەرىقەتنىڭ قورۇلۇشى شاھ نەقشىبەند تەخەللۇسى بىلەن تونۇلغان شەيخ بەھائۇددين مۇھەممەد ئىبنى مۇھەممەد ئەلبۇخارىي (618ھ - 791ھ) غا مەنسۇپتۇر. بۇمۇ شازىلىييەگە ئوخشاش ئاسان تەرىقەتلەرنىڭ بىرى بولۇپ، ئىران، ھىندىستان ۋە غەربىي ئاسىيادا تارقالغان.<br /><br />- مەلامىتىييە تەرىقىتى: قۇرغۇچىسى ئەبۇ سالىھ ھەمدۇن ئىبنى ئەھمەد ئىبنى ئەممار (271ھ ۋاپات بولغان) بولۇپ، قەسسار نامى بىلەن تونۇلغان. ئۇلارنىڭ بەزىلىرى نەپىس بىلەن جىھاد قىلىش مەقسىتىدە ئۇنىڭغا قارشى چىقىشنى ۋە كەمچىللىكلىرىگە قارشى كۆرەش قىلىشنى مۇباھ، دېگەن. يېقىنقى زامانلاردا بۇ تەرىقەتنىڭ رادىكاللاشقان مەنسۇپلىرى ھەممە نەرىسىگە &quot;ھېچ گەپ يوق&quot; قارىشى بويىچە بەڭۋاشلىق قىياپىتىدە ئوتتۇرىغا چىققان. ئۇلار بارلىق ئىشلارنى شەرىئەتنىڭ بۇيرۇق ۋە چەكلىمىلىرىنى ئېتىبارغا ئالمىغان ئاساستا ئېلىپ بارغان.<br /><br />بۇنىڭدىن باشقا قەننائىييە، قەيرەۋانىييە، مۇرابىتېييە، بەشبەشىييە، سەنۇسىييە، مۇختارىييە، خەتمىييە... ۋەباشقا نۇرغۇن تەرىقەتلەر بار. شەكىسزكى بۇ تەرىقەتلەرنىڭ ھەممىسى بىدئەت تەرىقەتلەردۇر.<br /><br />*<br /><br />بەزىلەر تەسەۋۋۇپنىڭ دائىرىسىدىن دەپ قاراپ، روھلارنى توپلاش يولىنى تۇتقان بولسا، يەنە باشقىلىرى سېھىرگەرلىك ۋە دەججالنىڭ ئىشلىرى بىلەن شۇغۇللاندى. ئۇلار گۈمبەز ۋە ئەۋلىيالارنىڭ قەبرىلىرىنى ياساشقا، ئۇنىڭغا چىراق يېقىشقا، ئۇنى زىيارەت قىلىشقا ۋە ئۇلارنى سىلاش قاتارلىق ئىشلارغا ئەھمىيەت بېرىشتى. بۇلارنىڭ ھەممىسى قۇرئان كەرىمدە ئورنى بولمىغان بىدئەتلەردۇر.<br /><br />- بەزىلىرى ئەۋلىيادىن شەرئىي مەسئۇلىيەتلەرنىڭ ساقىت بولىدىغانلىقىنى ئوتتۇرىغا قويىدۇ؛ يەنى ئىبادەت قىلىش ئۇنىڭ ئۈچۈن مەجبۇرىي ئەمەس؛ چۈنكى ئۇ ئۇلارنى ئادا قىلىشقا ئېھتىياج قالمىغان بىر ماقامغا يەتكەن؛ ئەگەر ئۇ شەرئىي ۋەزىپىلەر ۋە ئۇنىڭ تاشقى كۆرۈنۈشلىرى بىلەن مەشغۇل بولۇپ قالسا، باتىنىنى ساقلاپ قېلىش تۈگەپ كېتىپ، زاھىر (ئاشكارا)نىڭ يۈزىدىن باتىنى (روھىي) پائالىيەتلىرىنىڭ بارلىق تۈرلىرىگە سەل قارىلىپ قالىدۇ.<br /><br />- غەزالىينىڭ مەغرۇرلۇق بېسىپ كەتكەنلەرنى تەنقىد قىلغانلىقى ۋە ئۇلارنى پىرقىلەر شەكلىدە سانىغانلىقى رىۋايەت قىلىنىدۇ: <br /><br />1- كىيىنىش، قىياپەت ۋە لوگىكا ئارقىلىق مەغرۇرلانغان پىرقە.<br /><br />2- مەرىپەت ئىلمىنى، ھەقنى كۆرۈشنى ۋە ئەھۋال، ماقاملاردىن ھالقىش دەۋاسىنى قىلغان پىرقە.<br /><br />3- ھەرقانداق نەرسىنى مۇباھ سانايدىغان، شەرىئەتنىڭ بىساتىنى چۆرۈپ تاشلىغان، ئەھۋاللارنى رەت قىلغان ۋە ھالال بىلەن ھارامنى ئوخشاش كۆرگەن پىرقە.<br /><br />4- بەزىلىرى مۇنداق دەيدۇ: بەدەن ئەزالىرى بىلەن قىلغان ئەمەلنىڭ قىممىتى بولمايدۇ، مۇھىم بولغىنى قەلبتۇر. بىزنىڭ قەلبىمىز ئاللاھنىڭ سۆيگۈسى بىلەن تولغان، ۋە ئۇنىڭ مەرىپىتىگە يەتكەندۇر. بىز قوللىرىمىز بىلەن دۇنياغا كىرىشىپ كەتكەندەك كۆرۈنسەكمۇ، قەلبىمىز پەرۋەردىگارنىڭ دەرگاھىدا ئېتىكاپتىدۇر. بىز قەلبلىرىمىز بىلەن ئەمەس، پەقەت تاشقى قىياپىتىمىز بىلەن شەھۋەتكە بىرىلىپ كەتكەندەك كۆرىنىمىز.<br /><br />- ئىبنى ئەرەبىيدىن ئىلگىرى مۇتلەق بىرلىك مەزھىپىنىڭ مۇكەممەل شەكىلدە ئىسلامدا ۋۇجۇدى يوق ئىدى. ئىبنى ئەرەبىي ئۇنىڭ ئاساسىنىڭ تۇرغۇزغۇچىسى، مەدرىسىسىنىڭ قۇرغۇچىسى ۋە مەنە، مەقسەتلىرىنىڭ ئىزاھلىغۇچىسى بولۇپ ئوتتۇرىغا چىقتى. ئۇنىڭ &quot;&quot;فصوص الحكم&quot; ۋە &quot;الفتوحات المكية&quot; &quot; ۋە باشقا كىتابلىرى بار.<br /><br />- ئەمما، ھەللەج ئىتتىھاد ۋە ھۇلۇل مەدرىسىسىنىڭ ساھىبى سانىلىدۇ. ئۇنىڭ ھەر تۈرلۈك سۆزلىرى بولۇپ، ئۇلاردىن:<br /><br />أنا من أهوى ومن أهوى أنا       &nbsp; نحن روحان حللنا بدناا<br /><br />فإذا أبصرتني أبصرته             &nbsp; وإذا أبصرته أبصرتنا<br /><br /><br />ئەگەر كۆرسەڭ مېنى كۆردۈڭ ئۇنى،         &nbsp; ئۇنى كۆرسەڭ گەر بىزنى كۆرىسەن.<br /><br />ئۇنىڭ يەنە مۇنداق سۆزىمۇ بار:<br /><br />مزجت روحك في روحي كما   &nbsp; تمزج الخمرة في الماء الزلال<br /><br />فإذا مسك شيء مسني            فإذا أنت أنا في كل حال<br /><br />سېنىڭ روھىڭ مېنىڭ روھىمدا يۇغۇرۇلۇپ كەتتى        گويا زىلال سۇدا يۇغۇرۇلغان خېمىردەك<br /><br />ئەگەر سېنى بىر نەرسە تۇتسا، مېنىمۇ تۇتىدۇ،             &nbsp; ئەگەر بارلىق ئەھۋالدا سەن مەن بولساڭ،<br /><br />- سوپىلار &quot;غەۋس&quot; ۋە &quot;غەيياس&quot; (مەدەت تىلەش) كەلىمىلىرىنى قوللىنىدۇ. ئىبنى تەيمىييە &quot;مجموى الفتوۈ&quot; ناملىق كىتابىنىڭ 437-بېتىدە مۇنداق پەتىۋا بىرىدۇ: &quot;غەۋس ۋە غەيياس كەلىمىلىرى ئاللاھ تائالادىن باشقا ھېچكىمگە لايىق ئەمەس. ئۇ مەدەت سورىغۇچىلارنىڭ مەدەتكارى، ھېچكىمگە ئاللاھ تائالادىن باشقا مەيلى يېقىن پەرىشتە ياكى پەيغەمبەر بولسۇن بىرسىدىن مەدەت تىلىشى جائىز ئەمەس.&quot;<br /><br />- بارلىق سوپىزم تەرىقەتلىرى زىكىرنىڭ زۆرۈرلىكىدە بىرلىككە كەلگەن. نەقشىبەندىييەلەرنىڭ نەزىرىدە زىكىر پەقەت ئاللاھ لەفزىدۇر، شازىلىييەلەرنىڭ نەزىدە &quot;لا ئىلاھە ئىللەللاھتۇر. باشقىلارنىڭ نەزىرىدىمۇ ئىستىغپار ئېيتىش ۋە پەيغەمبەر ئەلەيھىسسالامغا سالام يوللاش بىلەن يۇقىرىقىلارغا ئوخشاش لەفىزلەردۇر. ئۇلارنىڭ بەزىلىرى زىكىر ئەۋجىگە چىققاندا &quot;ھۇۋە، ھۇۋە&quot; يەنى &quot;ئۇ، ئۇ&quot; دەپ كىشىلىك ئالماشنى ئىشلىتىدۇ. بۇ ھەقتە ئىبنى تەيمىييە ئۆزىنىڭ &quot;مجموى الفتوۈ&quot; ناملىق كىتابىنىڭ 229-بېتىدە مۇنداق دەيدۇ: &quot;ئايرىم كىشىلەرنىڭ، ئارىفلارنىڭ زىكرى بولغىنىدىن سىرت، مەيلى ئاشكارا، مەيلى يۇشۇرۇن شەكىلدە ئىپادىلەنسۇن، زىكىردا يالغۇز ئىسىم بىلەن كۇپايىلىنىشنىڭ ئەسلى يوق بولۇپ، ئۇ تۈرلۈك بىدئەت ۋە ئازغۇنلۇقلارغا ۋاسىتە، ئىتتىھادچىلار ۋە دىننى ئىنكار قىلغۇچىلارنىڭ ئەھۋاللىرىغا ئائىت يولىسز تەسەۋۋۇرلارغا يول ئاچىدۇ.&quot;<br /><br />ئۇ يەنە يۇقىرىقى كىتابنىڭ 228-بېتىدە مۇنداق دەيدۇ: &quot;بىر كىشى زىكىر ئەسناسىدا &quot;ياھۇ، ياھۇ&quot; ۋەياكى &quot;ھۇ، ھۇ&quot; غا ئوخشاش بىر نەرسىلەرنى دېسە،بۇ يەردىكى ئالماش پەقەت قەلب تەسەۋۋۇر قىلغان نەرسىگە ئائىت بولىدۇ. قەلب توغرا يولدا بولۇشىمۇ، خاتامۇ يولدا بولۇشىمۇ مۇمكىن.&quot;<br /><br />- تەسەۋۋۇپقا مەنسۇپ بەزى كىشىلەر ئادەمنى ھەيران قالدۇرىغان ۋە ئادەتتىن تاشقىرى ئىشلارنى قىلىشى مۇمكىن. بۇ ھەقتە ئىبنى تەيمىييە يۇقىرىقى كىتابنىڭ 494-بىتىدە مۇنداق دەيدۇ: &quot;باشلارنى ئېچىش، چاچلارنى ئۆرۈش ۋە يىلانلارنى كۆتۈرۈش سالىھ كىشىلەرنىڭ ھېچ بىرىنىڭ ئىشى ئەمەس. ساھابىلەرنىڭ، تابىئىنلارنىڭ، مۇسۇلمانلارنىڭ شەيخلىرىنىڭ، ئىلگىرىكى ۋە كېيىنكى ئالىملارنىڭ ھەتتا ئەھمەد ئىبنى ئەررىفائېينىڭ قىلغان ئىشى، تۇتقان يولىمۇ ئەمەستۇر. بۇ ئىشلار شەيخنىڭ ۋاپاتىدىن ئۇزۇن مەزگىل كېيىن پەيدا قىلىنغاندۇر.&quot;<br /><br />- ئۇ يەنە 504-بەتتە مۇنداق دەيدۇ: &quot;پەيغەمبەرلەر، شەيخلەر ۋە باشقىلاردىن ئۆلگەنلەرگە ياك ئۇلارنىڭ قەبىرلىرىگە ۋەياكى قەبىرلىرى ئەتراپىدا ئولتۇرغانلار ئۈچۈن نەزىر قىلىش ئاللاھ تائالاغا شېرىك كەلتۈرۈشتۇر، ئۇنىڭغا قارشى ئىسيان كۆتۈرمەكتۇر.&quot;<br /><br />- يەنە شۇ كىتابنىڭ 506-بېتىدە: &quot;يەنە، ئاللاھ تائالادىن باشقا پەرىشتىلەر، پەيغەمبەرلەر، مەشايىخلار، پادىشاھلار ۋە باشقىلارنىڭ نامى بىلەن قەسەم قىلىش بولسا، چەكلەنگەندۇر.&quot; دەيدۇ.<br /><br />- يەنە شۇ كىتابنىڭ 505-بېتىدە مۇنداق دەيدۇ: &quot;يات ئەر- ئاياللارنىڭ ئۆز - ئارا بۇرادەر بولۇشى، ئۇلار بىلەن يالغۇز قېلىشى ۋە ئۇلارنىڭ يۇشۇرۇن زىننەتلىرىگە بېقىشلىرى مۇسۇلمانلارنىڭ بىرلىككە كىلىشى بىلەن ھارامدۇر. كىمكى شۇ ئىشلارنىڭ بىرىنى دىننىڭ ئىچىدىن سانىسا، ئۇ شەيتانلارنىڭ بۇرادەرلىرىدىندۇر.&quot;<br /><br />- فەنا مەقامىدىكى ئاللاھتىن باشقا نەرسىنى كۆرمەسلىك، دېمەك، ئىرادىنىڭمۇ فەنالىقى دېمەكتۇر. بۇ ھەقتە كىتابىنىڭ 337-بېتىدە مۇنداق دەيدۇ: &quot;فەنانىڭ بۇ ئەھۋالىدا مۇرىد: &quot;مەن ھەقمەن&quot;، &quot;مەن نېمە دېگەن ئۇلۇغ!&quot; ۋە ياكى &quot;جۇۋىنىڭ ئىچىدە پەقەت ئاللاھ بار&quot;، دېگەنگە ئوخشىغان سۆزلەرنى دېيىشى مۇمكىن. چۈنكى ئۇ بۇ نوقتىدا كۆرۈش بىلەن ئەمەس، كۆرۈنگەن نەرسە بىلەن، ۋۇجۇدى بىلەن ئەمەس، مەۋجۇد نەرسە بىلەن مەشغۇل بولۇپ، ئۇنىڭدا فەنا بولىدۇ. بۇ خىلدىكى فەنالىقتا، ئىماننىڭ ھۇزۇرى بىلەن پەرقلەندۈرۈش ئەۋزەللىكىنى يوقىتىپ قويىدىغان بىر تۈرلۈك مەستلىككە دۇچار بولىدۇ. گويا ھاراقنىڭ ۋە سۈرەتلەر ئىشقىدىكى مەستلىكتە يۈز بىرىدىغان ئىشلارغا ئوخشاش. ئۇلارغا مۇنداق ھۆكۈم بىرىلىدۇ: ئەگەر ئەقىللىرىنىڭ كېتىشىگە ھارام بولمىغان بىر نەرسە سەۋەب بولغان بولسا، ئۇلاردىن سادىر بولغان ھارام سۆز ۋە ئىش- ھەرىكەتلەرى گۇناھ ھېسابلانمايدۇ. ئەگەر بۇنىڭ ئەكىسىچە، ئەقىلنىڭ كېتىپ قىلىشىغا ھارام ئىشلار سەۋەب بولغان بولسا، گۇناھ بولىدۇ. ھالال ئىشلار ئارقىلىق ئەقلىدىن كېتىپ قالغاندا قىلغان ئىش- ھەرىكەتلىرىگە گۇناھ بولمىغاندەك، ئۇ سۆزلەرنى نەقىل قىلىشقا، ئىشلىرىنى توغرا، دەپ قاراشقا ۋە ئۇلارغا ئەگىشىشكە بولمايدۇ. ئېنىق شەرئىي مەسئۇلىيەتلەردە ئۇلار غاپىل ۋە مەجنۇنلار قاتارىدا ئايرىم مۇئامىلە قىلىنىدۇ.&quot;;<br /><br /><br />* ھازىرقى دەۋردە سۇپىزمغا مەنسۇپ بەزى كىشىلەرنىڭ بەلگىلىمىلەردىن ھالىقىپ كېتىشى: <br /><br />- سوپىزمنىڭ خاتالىقى، دەپ قارىلىۋاتقان شېرىككە ئائىت ئەڭ گەۋدىلىك ئەھۋاللار تۆۋەندىكىچە:<br /><br />1- پەيغەمبەر ئەلەيھىسسالام ھەققىدە بەلگىلىمىدىن ھالقىپ كېتىش.<br /><br />2- ھۇلۇل ۋە ئىتتىھاد.<br /><br />3 - ۋەھدەتۇل ۋۇجۇد.<br /><br />4- ئەۋلىيالار توغرىسىدا بەلگىلىمىدىن ھالقىپ كېتىش.<br /><br />5- نۇرغۇنلىغان يالغان دەۋالىرى. ۋەھيىنىڭ توختىمىغانلىقى ۋە ئۇلارغا قىلىنىدىغان دۇنيا- ئاخىرەتتىكى ئەۋزەللىكلەرگە دائىر قىلغان دەۋالىرىغا ئوخشاش.<br /><br />6- ئاللاھنى زىكىر قىلىش بىلەن مەشغۇل بولۇش دەۋاسى بىلەن، ئاللاھ تائالانىڭ شەرىئىتى ئارقىلىق ھۆكۈم قىلىشقا ھەمكارلىشىش ۋە ئۇنىڭ يولىدا جىھاد قىلىشنى تاشلاپ قويۇش. ئەمما، ئەمىر ئابدۇلقادىر ئەلجەزائىرىيغا ئوخشىغان مۇستەملىكىچىلەرگە قارشى مەدھىيەلەشكە تېگىشلىك مەيداندا تۇرغانلىرىمۇ بار.<br /><br />7- تەسەۋۋۇپقا تەۋە بەزى كىشىلەر كۆپىنچە ئەھۋاللاردا شەرىئەت ھۆكۈملىرىنى چىڭ تۇتۇشقا سەل قارايدۇ.<br /><br />8- شەيخلەرگە بولغان تائەتلىرى، ئۇلارغا باش ئىگىشلىرى ۋە ئۇلارنىڭ ئالدىدا گۇناھلىرىنى ئېتىراپ قىلىشلىرى ۋە ئۆلگەندىن كېيىن، ئۇلارنىڭ مازارلىرىنى سىيلاشلىرى قاتارلىقلار.<br /><br />9- زىكىر دەپ ئاتاپ، ئاللاھ تائالا بۇيرىمىغان نۇرغۇن مەسىلىلەردە بەلگىلىمىدىن ھالقىپ كېتىش. مەسىلەن، بەدەننى تىترىتىپ، ئوڭ ۋە سولغا قېيىش، ھەر قېتىمدا يالغۇز ئاللاھ كەلىمىسىنىلا تەكرارلاش، مەشايخلارنىڭ قەلىب كۆزلىرى ئېچىۋېتىلگەن، دەپ دەۋا قىلىش، ھاجەتلىرىنىڭ راۋا بولۇشى ئۈچۈن ئۇلارنى ۋەسىلە قىلىش ۋە ھايات ۋە ئۆلگەن كېيىن ئاللاھ دەرگاھىدا ئۇلارنىڭ ماقاملىرى بىلەن دۇئا قىلىشقا ئوخشىغان مەسىلىلىرى بار.<br /><br />پىكىر ۋە ئەقىدىلەرنىڭ يىلتىزلىرى:<br /><br />- سوپىزم ئەقىدىسى بويىچە كۈچ چىقىرىش مەسىلىسى، ئىنساننىڭ نەپسىنى چېنىقتۇرۇش، ھاۋايى- ھەۋەسلىرى ئۈستىدىن غالىپ كىلىشكە بولغان ئىھتىياجنى ھېس قىلغان ناھايىتى قەدىمىي زامانلارغا سۇزىلىدۇ.<br /><br />- سوپىزم چاقىرىۋاتقان زاھىدلىق، تەقۋالىق، تەۋبە ۋە رازىلىق... قا ئوخشىغان ئىشلارنىڭ ئىسلام دىنىدىن ئىكەنلىكىدە شەك يوق. ئىسلام ئۇلارنى چىڭ تۇتۇشقا ۋە شۇلار ئۈچۈن ئەمەل قىلىشقا رىغبەتلەندۈرىدۇ. ئەمما، سوپىزم بۇ مەسىلىدە ئىسلام چاقىرغان نوقتىلارغا خىلاپلىق قىلىپ، پەيغەمبەر ئەلەيھىسسالام ۋە ئۇنىڭ ساھابىلىرى تۇتقان يولنىڭ ئەكسىچە، بۇ ئاتالغۇلار ئۈچۈن ئوقۇم ۋە سۇلۇكلارنى پەيدا قىلىشتى.<br /><br />ھۇلۇل، ئىتتىھاد، فەنا ۋە كۆپلىگەن كۈچ سەرپ قىلىش يوللىرىنىڭ بەزى مۇرىتلىرى يىتىپ بارغان بىر قاتار مەسىلىلەر بولسا، ھىندۇزم، جاينىيلىق، بۇددىزم، ئەپلاتۇنچىلىق، زەردۇشت ۋە خىرىستىيانچىلىققا ئوخشاش، ئىسلامنىڭ سىرتىدىكى مەنبەلەردىن سىزىپ كىرگەن مەسىلىلەردۇر. تەسەۋۋۇپنى تەتقىق قىلغان بىر قاتار تەتقىقاتچىلار بۇ ھەقتە قاراشلىرىنى ئوتتۇرىغا قويغان. ئۇلار:<br /><br />- شەرقشۇناس ماركوسقا كۆرە، تەسەۋۋۇپ شام راھىبلىرىدىن كەلگەن..<br /><br />- شەرقشۇناس جونس ئۇنى ھىندىستان ۋىداسىغا قايتۇرىدۇ.<br /><br />- نىكولسونغا كۆرە، ئۇ شەرق دىنلىرى بىلەن يۇنان پىكرىنىڭ بىرلىشىشىدىن مەيدانغا كەلگەن ياكى تېخىمۇ ئېنىقراق قىلىپ ئېيتقاندا: يېڭى ئەپلاتۇنچىلىق پەلسەپىسى، خىرىستىيانچى دىنلار ۋە گانۇسى مەزھىپىنىڭ بىرلىشىشىدىن تۈرەلگەن.<br /><br /><br />- ھەللاجنىڭ &quot;ھۇلۇل&quot; ۋە ئىبنى ئەرەبىينىڭ &quot;كامىل ئىنسان&quot; توغرىسىدا ئېيتقانلىرى خىرىستىيانلارنىڭ ئىيسا ئەلەيھىسسالام توغرىسىدىكى مەزھىپىگە ماس كىلىدۇ.<br /><br />- توغرا يولدىن چىققان تەسەۋۋۇپ ئىشىكنى كەڭ ئېچىۋەتكەن بولۇپ، ئۇ ئىشىك ئارقىلىق مۇسۇلمانلار ئارىسىغا سۆرەلمىلىك، پاسسىپلىق، ئىنساننىڭ سالاھىيىتىگە سەل قاراش، شەيخنىڭ سالاھىيىتىنى يوقىرى بىلىش ۋە بۇنىڭدىن باشقا ساھىبىنى ئىسلامدىن چىقىرىپ تاشلايدىغان نۇرغۇن بىدئەت ۋە ئازغۇنلاردىن ئىبارەت كۆپلىگەن شۇملۇقلار ئېقىپ كىرگەن.<br /><br />تارقىلىشى ۋە نۇپۇز دائىرىسى: <br /><br />سوپىزم تەرىقەتلىرى ھىندىنوزىيە، ئافرىقىنىڭ كۆپ قىسمى ۋە باشقا يىراق يەرلەردە، &quot;جەزب&quot; دەپ ئاتىشىدىغان بىر خىل روھىي تەسىر كۈچلىرى ئارقىلىق ئەسكەرلەر تەرىپىدىن فەتھى قىلىنمىغان نۇرغۇن جايلاردا ئىسلامنىڭ تارقىلىشى ئۈچۈن زېمىن ھازىرلىغان..<br /><br />تەسەۋۋۇپ زامان بويلاپ تارقىلىپ، ئىسلام ئالەمىنىڭ كۆپ قىسمىنى ئۆز ئىچىگە ئالدى. ئۇلارنىڭ پىرقىلىرى مىسىر، ئىراق، ئافرىقىنىڭ غەربى شىمالى ۋە ئاسىيانىڭ شەرق، ئوتتۇرا ۋە غەرب قىسىملىرىدا مەيدانغا كەلدى ۋە كېڭەيدى.<br /><br />ئۇلار شېئىر، نەسىر، مۇزىكا، ناخشا ۋە غەزەل تۈرلىرىدە مۇھىم ئىزلارنى قالدۇردى. ئۇلارنىڭ قونالغۇ ۋە راباتلارنىڭ تەسىس قىلىنىشىدىمۇ ئىزلىرى بار.<br /><br />غەربلىك ماددا پەرەستلەرنى ئىسلامغا جەلىپ قىلىشتىمۇ سوپىزم روھانىيىتىنىڭ تەسىرى بولدى. مارتىن لىڭس بۇلارنىڭ بىرى بولۇپ، ئۇ مۇنداق دەيدۇ: &quot;مەن ياۋرۇپالىقمەن، روھىمنىڭ قوتۇلىشى ۋە نىجاتلىقىنى تەسەۋۋۇپتا ئۇچىراتتىم&quot;. غەربلىكلەرنىڭ تەسەۋۋۇپ روھانىيىتىگە بىرىلىشى ۋە تەسەۋۋۇپ توغرىسىدا ئىزاھ ۋە نەزىرىيەلەرنى يازغان ماددىي ئىنتىلىشلىرىگە بولغان ھەيرانلىقلىرىدىن باشقا، غەربلىكلەر ۋە غەرب، شەرق ئۇنۋېرسىتىتلىرىدىكى شەرقشۇناسلىق مەركەزلىرىنىڭ تەسەۋۋۇپقا بولغان كۆڭۈل بۆلۈشى ئادەمنى شەكلىنىشكە ئېلىپ بارىدۇ. بۇ يەردە شەرقشۇناسلار، ئاكادېمىك مۇئەسسەسەلەر ۋە ئومۇمەن غەربلىكلەرنىڭ تەسەۋۋۇپقا كۆڭۈل بۆلىشىگە مۇناسىۋەتلىك باشقا سەۋەپلەرمۇ بار. بۇ سەۋەپلەر:<br /><br />- تەسەۋۋۇپتا بار بولغان پاسسىپ، تەسلىمچانلىققا ياتىدىغان تەرەپلەرنى ئوتتۇرىغا چىقىرىش ئارقىلىق ئۇنى ئىسلام، دەپ تەسۋىرلەش.<br /><br />- تەسەۋۋۇپتا خىرىستىيان راھىبلىقلىرى بىلەن بىر يەردىن چىقىدىغان تەرەپلەر بولۇپ، ئۇنى شۇ خىل ئېقىمنىڭ داۋامى، دەپ قاراش.<br /><br />- ئازغان مۇتەسەۋۋۇپلارنىڭ بارلىق دىنلارنى قوبۇل قىلىشقا بولغان مايىللىقى ۋە ئۇنى روھىي تەربىيەنىڭ ۋاسىتىسى، دەپ ھېسابلىشى. غەربتە ئۆزىنى مۇتەسەۋۋۇپ دەپ ھېسابلايدىغان، مۇسۇلمان بولماستىنلا، بىر قىسىم ئىسلامىي ئاتالغۇلارنى ئىشلىتىدىغان، ئىسلامىي سۈلۈكلارنى ئېلىپ بارىدىغان كىشىلەر بار. ئۇلار يەھۇدىي، خىرىستىيان، بۇددىزىم ۋە باشقا دىنلارنىڭ ئەگەشكۈچىلىرى ئىچىدىن چىققان.<br /><br /><br />- سوپىزم ئون توققۇزىنچى ئەسىرنىڭ ئاخىرى ۋە يىگىرمىنچى ئەسىرنىڭ باشلىرىدا چىكىنىشكە باشلىدى. گەرچە بىر قىسىم ئىسلام دۆلەتلىرى ھەممە جەھەتتىن ئىسلامنى تەتبىقلاشتا مۇسۇلمانلارنى قوزغىتىشنىڭ ئاساسلىق ئامىلى سۈپىتىدە ئۇلارغا يارىدەم بېرىپ كىلىۋاتقان بولسىمۇ، ئۇنىڭ ئىلگىرىكى نوپۇزى تۈگەپ كەتتى.<br /><br />يۇقىرىقىلاردىن شۇ نەرسە ئايدىڭلىشىدۇكى: تەسەۋۋۇپ ئۇزۇن تارىخى بويىچە ئىلىم، ئەمەل، جىھاد، ياخشىلىققا بۇيرۇپ، يامانلىقتىن توسۇش، ئۈممەتكە مەنپەئەت يەتكۈزۈش ۋە دىننى تارقىتىشلاردا ئۆز ئىپادىسىنى تاپقان ئىسلام قىزىقتۇرغان سۈلۈك يولىنى كۆرسىتىپ بەرگەن مېتودتىن ئېغىپ كەتكەن بىر ئېقىمدۇر. شۇنىڭ ئۈچۈن پەيغەمبەر ئەلەيھىسسالام ساھابىلىرىنىڭ ئۇنداق قىلىشىنى توسقان. كېيىنكى دەۋرلەردە ھىندى، يۇنان پەلسەپىلىرى ۋە خىرىستىيان راھىبلىقلىرى بىلەن ئارىلىشىپ كەتكەن چاغدا بۇ خىل ئېغىش تېخىمۇ ئەۋجىگە چىققان. ھالال رىزق تېپىپ يىيىش يولىدىكى ھەرىكەتلىرى كەملەپ، ئىلمىي دەسمايىلىرى ئازلاپ كەتكەنلەرنىڭ ئارىسىدىن چىققان سىھىرگەر ۋە دەججاللارنىڭ تىجارىتىگە ئايلانغان چاغدا ئىش تېخىمۇ مۇرەككەپلىشىپ كەتكەن. بۇنى ئىسلامنىڭ دۈشمەنلىرى بايقاپ، تەسەۋۋۇپ ئارقىلىق ئىسلامنى ئىچكى قىسىمدىن خۇنۇكلەشتۈرۈش، ئىسلامنىڭ ئالاھىدىلىككە ئىگە تەۋھىد ئەقىدىسىنىڭ ساپلىقىنى يوقىتىپ تاشلاش ۋە مۇسۇلمانلارنى مەڭگۇ مىدىرلىماس شەكىلدە پاسسىپلىققا ئەسىر قىلىپ قويۇش ئۈچۈن ھەرىكەتكە ئۆتكەن.</div>
+
+
+<script language=javascript> 
+document.body.oncopy=function(){ 
+event.returnValue=false; 
+var t=document.selection.createRange().text; 
+var s="كەچۈرۈڭ ، تورىمىزنىڭ مەزمۇنىنى خالىغانچە كۆچۈرمەڭ . بارلىق مەزمۇن بىلقۇت باغچىسى ىغا مەنسۇپ .تور ئادىرسىمىز: https://uyghur-archive.com/bilqut/bbs ."; 
+window.clipboardData.setData('Text', s); 
+} 
+</script>
+
+
+
+
+		</th>
+	</tr>
+	<tr style="background-color:#f2f8ff" class="tr1 r_one">
+		<th style="vertical-align:bottom;padding-left:15px;border:0">
+
+		<div id="w_tpc" class="c"></div>
+
+		<div class="tips black" style="width:auto" id="ads_c_tpc"><a href="https://ulinix.com" target="_blank"><img src="https://bbs.bagdax.com/rasim/ulinixcom.jpg" width="600" height="60" alt="ulinix.com"></a></div><div class="c"></div>
+
+		<div><img src="images/wind/sigline.gif" align="absbottom" /></div>
+		<div class="signature" style="max-height:60px;maxHeight:60px; overflow:hidden;"><table width="100%"><tr><td>
+			Easy come Easy go<td></tr></table></div>
+
+		<div class="tipad"><span style="float:right">
+
+			<a href="javascript:scroll(0,0)"><img src="images/wind/read/top.gif" title="يۇقىرىغا قايتىش" /></a> </span>
+			<span class="gray">Posted: 2008-08-26 21:02 |  </span>
+
+			<span><a class="s3" title="بۇ قەۋەتكە ئىنكاس قايتۇرۇش" style="cursor:pointer;" onclick="postreply('ئاپتور (ajimks) نىڭ يازمىسىغا ئىنكاس قايتۇرۇش');">
+			[ئاپتور]</a></span>
+
+		</div></th>
+	</tr></table>
+</div>
+
+</form>
+<div class="t3"><table cellspacing="0" cellpadding="0" width="100%" align="center">
+	<tr><td align="right"></td>
+		<td valign="center" align="right">
+		<a class="abtn f_two" id="readlog" onclick="sendmsg('pw_ajax.php?action=readlog','',this.id);">
+		يازما كۆرۈلۈش خاتىرىسى<img src="images/wind/menu-down.gif" /></a>
+		<a class="abtn f_two" id="threadlog" onclick="sendmsg('pw_ajax.php','action=threadlog',this.id);">
+		سەھىپە كۆرۈلۈش خاتىرىسى<img src="images/wind/menu-down.gif" /></a>
+		<select onchange="Fjump(this.options[this.selectedIndex].value)"><option value="" selected>
+		سەھىپە يۆتكىلىش</option>
+<option value="297">>> تىل ئۈگىنىش</option>
+<option value="52"> &nbsp;|- ئۇيغۇرتىلى</option>
+<option value="46"> &nbsp;|- خەنزۇتىلى</option>
+<option value="47"> &nbsp;|- ئىنگلىزتىلى</option>
+<option value="48"> &nbsp;|- روس تىلى</option>
+<option value="53"> &nbsp;|- ياپون تىلى</option>
+<option value="296">>> شىركەت ھەققىدە</option>
+<option value="160"> &nbsp;|- تەكلىپ-پىكىر بىرىڭ</option>
+<option value="238"> &nbsp;|- بېكەت ئىشخانىسى</option>
+<option value="1">>> مەسھۇلاتلىرىمىز</option>
+<option value="2"> &nbsp;|- ئەلالاشتۇرۇش</option>
+<option value="4"> &nbsp;|- بىلقۇت خەزىنىسى ھەققىدە</option>
+<option value="5">>> ئاۋازلىق ئەسەرلەر</option>
+<option value="103"> &nbsp;|- مەسەللەر</option>
+<option value="101"> &nbsp;|- ھېكايىلەر</option>
+<option value="102"> &nbsp;|- نەسىرلەر</option>
+<option value="8"> &nbsp;|- مىڭ بىر كېچە</option>
+<option value="9"> &nbsp;|- كەلىلە ۋە دېمىنە</option>
+<option value="10"> &nbsp;|- چۆچەكلەر</option>
+<option value="11"> &nbsp;|- رېۋايەتلەر</option>
+<option value="228"> &nbsp;|- خەنزۇچە ئەسەرلەر</option>
+<option value="231"> &nbsp;|- تارىخىي شەخسلەر ھەققىدە</option>
+<option value="230"> &nbsp;|- رومانلار</option>
+<option value="245">>> رەسىم</option>
+<option value="259"> &nbsp;|- كومپيۇتېر لايىھىلىرى</option>
+<option value="249"> &nbsp;|- ماشىنا</option>
+<option value="260"> &nbsp;|- سىزما رەسىملەر</option>
+<option value="252"> &nbsp;|- بىناكارلىق</option>
+<option value="258"> &nbsp;|- كارتون رەسىملەر</option>
+<option value="246"> &nbsp;|- ھايۋاناتلار</option>
+<option value="308"> &nbsp;|- ھاشاراتلار</option>
+<option value="247"> &nbsp;|- قۇشلار</option>
+<option value="248"> &nbsp;|- ئۆسۈملۈكلەر</option>
+<option value="254"> &nbsp;|- ئۈستەل رەسىملىرى</option>
+<option value="250"> &nbsp;|- گۈل-گىياھلار</option>
+<option value="251"> &nbsp;|- دېڭىز جانلىقلىرى</option>
+<option value="253"> &nbsp;|- تەبىئەت مەنزىرىسى</option>
+<option value="255"> &nbsp;|- ھەربىي قورال ياراغلار</option>
+<option value="256"> &nbsp;|- يانفون رەسىملىرى</option>
+<option value="257"> &nbsp;|- قىزىقارلىق رەسىملەر</option>
+<option value="261"> &nbsp;|- ھەرخىل رەسىملەر</option>
+<option value="206">>> كۆڭۈل ئېچىش</option>
+<option value="207"> &nbsp;|- كىنو - فىلىم</option>
+<option value="208"> &nbsp;|- ناخشا - مۇزىكا</option>
+<option value="209"> &nbsp;|- يانفون مۇزىكىلىرى</option>
+<option value="227"> &nbsp;|- رەسىم</option>
+<option value="16">>> كۇتۇپخانا</option>
+<option value="22"> &nbsp;|- مىڭ بىر كېچە</option>
+<option value="21"> &nbsp;|- چۆچەكلەر</option>
+<option value="24"> &nbsp;|- ئەپسانىلەر</option>
+<option value="105"> &nbsp;|- رېۋايەتلەر</option>
+<option value="20"> &nbsp;|- ھېكايىلەر</option>
+<option value="232"> &nbsp;|- شېئىر</option>
+<option value="23"> &nbsp;|- كەلىلە ۋە دېمىنە</option>
+<option value="85"> &nbsp;|- ماقال-تەمسىل</option>
+<option value="88"> &nbsp;|- نەسىرلەر</option>
+<option value="99"> &nbsp;|- لەتىپە-يۇمۇرلار</option>
+<option value="87"> &nbsp;|- مەسەللەر</option>
+<option value="174"> &nbsp;|- ھىكمەت</option>
+<option value="181"> &nbsp;|- نەسىھەت</option>
+<option value="17"> &nbsp;|- ماقالىلەر</option>
+<option value="18"> &nbsp;|- ياشلار سەمىگە</option>
+<option value="173"> &nbsp;|- تۇرمۇش مەسلىھەتچىسى</option>
+<option value="178"> &nbsp;|- نۇتۇقلار</option>
+<option value="172"> &nbsp;|- سۆيگۈ مەكتۇپى</option>
+<option value="175"> &nbsp;|- غارايىباتلار</option>
+<option value="19"> &nbsp;|- دۇنيادىكى ئەڭ</option>
+<option value="177"> &nbsp;|- قان تىپى</option>
+<option value="182"> &nbsp;|- مۆچەل</option>
+<option value="176"> &nbsp;|- مىللەتلەر</option>
+<option value="186"> &nbsp;|- بۈگۈن</option>
+<option value="170"> &nbsp;|- مۇزېي</option>
+<option value="189"> &nbsp;|- تارىخ</option>
+<option value="187"> &nbsp;|- دۇنيادىكى شەھەرلەر</option>
+<option value="195"> &nbsp;|- دۇنيادىكى دۆلەتلەر</option>
+<option value="188"> &nbsp;|- دۇنيادىكى كۇتۇپخانىلار</option>
+<option value="185"> &nbsp;|- ئۆلچەم بىرلىكلىرى</option>
+<option value="184"> &nbsp;|- مايلار</option>
+<option value="183"> &nbsp;|- مېۋە</option>
+<option value="180"> &nbsp;|- كۆكتاتلار</option>
+<option value="179"> &nbsp;|- ئۆسۈملۈكلەر</option>
+<option value="171"> &nbsp;|- ھايۋاناتلار</option>
+<option value="210">>> ئويۇنلار</option>
+<option value="211"> &nbsp;|- تور ئويۇنلىرى</option>
+<option value="212"> &nbsp;|- فىلەش ئويۇنلار</option>
+<option value="213"> &nbsp;|- زېھىن سىناش ئويۇنلىرى</option>
+<option value="25">>> بالىلار باغچىسى</option>
+<option value="159"> &nbsp;|- كىم ئەڭ ئەقىللىق</option>
+<option value="266"> &nbsp;|- پەرزنەت تەربىيىسى</option>
+<option value="26"> &nbsp;|- بالىلار چۆچەكلىرى</option>
+<option value="27"> &nbsp;|- قىزىقارلىق ئويۇنلار</option>
+<option value="28"> &nbsp;|- قىزىقارلىق كارتونلار</option>
+<option value="29"> &nbsp;|- يۈز مىڭلىغان نېمە ئۈچۈن؟</option>
+<option value="97"> &nbsp;|- بالىلار ھېكايىسى</option>
+<option value="98"> &nbsp;|- ئانا-بالىلار ساغلاملىق ساۋاتلىرى</option>
+<option value="30">>> بىز</option>
+<option value="150"> &nbsp;|- ئۇيغۇر كارخانچىللىرى</option>
+<option value="151"> &nbsp;|- ئۇيغۇر كارخانىلىرى</option>
+<option value="152"> &nbsp;|- ئۇيغۇر مەھسۇلاتلىرى</option>
+<option value="153"> &nbsp;|- ئۇيغۇر پاتنېتلىرى</option>
+<option value="154"> &nbsp;|- ئۇيغۇر دوكتۇرلىرى</option>
+<option value="155"> &nbsp;|- ئۇيغۇر كەشپىياتلىرى</option>
+<option value="157"> &nbsp;|- ئۇيغۇرساياھەتچىلىكى</option>
+<option value="244"> &nbsp;|- خەتتاتلىقىمىز</option>
+<option value="265"> &nbsp;|- تىل-يېزىقىمىز</option>
+<option value="32"> &nbsp;|- تائاملىرىمىز</option>
+<option value="33"> &nbsp;|- شەخسلىرىمىز</option>
+<option value="35"> &nbsp;|- ئويۇنلىرىمىز</option>
+<option value="34"> &nbsp;|- تېبابىتىمىز</option>
+<option value="36"> &nbsp;|- چالغۇلىرىمىز</option>
+<option value="37"> &nbsp;|- ھۈنەرلىرىمىز</option>
+<option value="31"> &nbsp;|- يوسۇنلىرىمىز</option>
+<option value="38"> &nbsp;|- تارىخمىز</option>
+<option value="126">>> يۇرتىمىز</option>
+<option value="127"> &nbsp;|- شەھەرلەر</option>
+<option value="128"> &nbsp;|- بىڭتۈەنلەر</option>
+<option value="129"> &nbsp;|- ناھىيلەر</option>
+<option value="130"> &nbsp;|- ۋىلايەتلەر</option>
+<option value="131"> &nbsp;|- ئاپتونوم ئوبلاست</option>
+<option value="132"> &nbsp;|- ئاپتونوم ناھىيە</option>
+<option value="39">>> ئۆگىنىش</option>
+<option value="41"> &nbsp;|- ماتېماتىكا</option>
+<option value="106"> &nbsp;|- يىزا-ئىگىلىك</option>
+<option value="107"> &nbsp;|- پسىخولوگىيە</option>
+<option value="108"> &nbsp;|- ئىقتىساد</option>
+<option value="143"> &nbsp;|- مۇھىت</option>
+<option value="40"> &nbsp;|- ئەدەبىيات</option>
+<option value="42"> &nbsp;|- جۇغراپىيە</option>
+<option value="43"> &nbsp;|- تارىخ</option>
+<option value="44"> &nbsp;|- فىزىكا</option>
+<option value="45"> &nbsp;|- خىمىيە</option>
+<option value="50"> &nbsp;|- ئاسترونومىيە</option>
+<option value="49"> &nbsp;|- بىئولوگىيە</option>
+<option value="89"> &nbsp;|- دېپلوماتىيە</option>
+<option value="90"> &nbsp;|- ئېلېكترون</option>
+<option value="91"> &nbsp;|- تەنتەربىيە</option>
+<option value="92"> &nbsp;|- مەتبەئەچىلىك</option>
+<option value="100"> &nbsp;|- گۈزەل- سەنئەت</option>
+<option value="54">>> كومپيۇتېر بىلىملىرى</option>
+<option value="86"> &nbsp;|- ئۇيغۇرچە يۇمشاق دېتاللار</option>
+<option value="109"> &nbsp;|- كومپيۇتېردىن سوئال-جاۋابلار</option>
+<option value="110"> &nbsp;|- توربەت ياساش</option>
+<option value="190"> &nbsp;|- كومپيۇتېر ئۇنىۋېرسال بىلىملىرى</option>
+<option value="229"> &nbsp;|- كومپىيۇتېر كاشىلىلىرى</option>
+<option value="55"> &nbsp;|- قاتتىق دېتال</option>
+<option value="56"> &nbsp;|- يۇمشاق دېتال</option>
+<option value="57"> &nbsp;|- مەشغۇلات سىستېمىسى</option>
+<option value="58"> &nbsp;|- توربىلىملىرى</option>
+<option value="239">>> ئىسلام دىنى</option>
+<option value="240"> &nbsp;|- ئىسلام دىنىدىن ساۋاتلار</option>
+<option value="243"> &nbsp;|- قۇرئان كەرىم تەرجىمىسى</option>
+<option value="241"> &nbsp;|- قۇرئان كەرىم</option>
+<option value="242"> &nbsp;|- ئىسلام دۇنياسى</option>
+<option value="267">>> IT ئۇچۇرلىرى</option>
+<option value="219"> &nbsp;|- يانفون ئۇچۇرلىرى</option>
+<option value="220"> &nbsp;|- رەقەملىك مەھسۇلاتلار</option>
+<option value="277"> &nbsp;|- TV كارتىسى</option>
+<option value="284"> &nbsp;|- كۆچمە دىسكا</option>
+<option value="282"> &nbsp;|- MP4-MP3</option>
+<option value="273"> &nbsp;|- كۆرسىتىش كارتىسى</option>
+<option value="275"> &nbsp;|- ئوپتىك قويغۇچ</option>
+<option value="290"> &nbsp;|- نۇسخا كۆپەيتكۈچ</option>
+<option value="268"> &nbsp;|- قاتتىق دىسكا</option>
+<option value="286"> &nbsp;|- نۇر دىسكا</option>
+<option value="269"> &nbsp;|- قاتتىق دىسكا</option>
+<option value="278"> &nbsp;|- شامالدۇرغۇچ</option>
+<option value="272"> &nbsp;|- ئىچكى ساقلىغۇچ</option>
+<option value="293"> &nbsp;|- رەقەملىك ئاپپارات</option>
+<option value="283"> &nbsp;|- بارماق دىسكا</option>
+<option value="270"> &nbsp;|- ئاساسىي تاختا</option>
+<option value="271"> &nbsp;|- CPU</option>
+<option value="274"> &nbsp;|- ئوپتىك ئويغۇچ</option>
+<option value="276"> &nbsp;|- ئېكران</option>
+<option value="287"> &nbsp;|- قول كومپيۇتېر</option>
+<option value="279"> &nbsp;|- ئاۋز كارتىسى</option>
+<option value="280"> &nbsp;|- كونۇپكا تاختىسى</option>
+<option value="281"> &nbsp;|- مائۇس</option>
+<option value="285"> &nbsp;|- ئاساسىي ماشىنا قېپى</option>
+<option value="288"> &nbsp;|- ياڭراتقۇ</option>
+<option value="289"> &nbsp;|- نۇسخا ئالغۇ</option>
+<option value="291"> &nbsp;|- نۇسخا چىقارغۇچ</option>
+<option value="292"> &nbsp;|- قەغەز</option>
+<option value="294"> &nbsp;|- كامىرا</option>
+<option value="295"> &nbsp;|- تېلېكامىرا-سىفرلىق تېلېكامىرا</option>
+<option value="263">>> خەۋەرلەر</option>
+<option value="198"> &nbsp;|- خەلقئارا خەۋەرلەر</option>
+<option value="199"> &nbsp;|- شىنجاڭ خەۋەرلىرى</option>
+<option value="200"> &nbsp;|- مەملىكەت خەۋەرلىرى</option>
+<option value="196">>> ئۇچۇرلار</option>
+<option value="197"> &nbsp;|- ماشىنا ئۇچۇرلىرى</option>
+<option value="201"> &nbsp;|- خىزمەت ئۇچۇرى</option>
+<option value="202"> &nbsp;|- ئۆي ئۇچۇرلىرى</option>
+<option value="203"> &nbsp;|- ئىقتىسادىي ئۇچۇرلار</option>
+<option value="204"> &nbsp;|- پەن-تېخنىكا ئۇچۇرلىرى</option>
+<option value="205"> &nbsp;|- ئۇنىۋېرسال ئۇچۇرلار</option>
+<option value="161">>> مائارپ</option>
+<option value="166"> &nbsp;|- مائارىپ تەشكىلاتلىرى</option>
+<option value="162"> &nbsp;|- بالىلار باغچىلىرى</option>
+<option value="165"> &nbsp;|- باشلانغۇچ مەكتەپلەر</option>
+<option value="163"> &nbsp;|- ئوتتۇرا مەكتەپلەر</option>
+<option value="169"> &nbsp;|- ئالىي مەكتەپلەر</option>
+<option value="168"> &nbsp;|- گېزىتلەر</option>
+<option value="167"> &nbsp;|- ژۇرناللار</option>
+<option value="214">>> خانىم - قىزلار      </option>
+<option value="215"> &nbsp;|- قىزلار پسىخىكىسى</option>
+<option value="216"> &nbsp;|- خانىم - قىزلار ساغلاملىقى</option>
+<option value="217"> &nbsp;|- گۈزەللىك بىلىملىرى</option>
+<option value="218"> &nbsp;|- ئەخلاق</option>
+<option value="221">>> ھەربىي ئىشلار</option>
+<option value="222"> &nbsp;|- جەڭ پاراخوتلىرى</option>
+<option value="223"> &nbsp;|- كۆرەشچى ئايروپىلانلار</option>
+<option value="224"> &nbsp;|- جان ئالغۇ مىلتىقلار</option>
+<option value="225"> &nbsp;|- سۇ ئاستى كېمىلەر</option>
+<option value="226"> &nbsp;|- قۇرۇقلۇق ئارمىيىلىرى</option>
+<option value="66">>> قانۇن - نىزاملار</option>
+<option value="144"> &nbsp;|- جىنايەت ۋە جازا</option>
+<option value="264"> &nbsp;|- قانۇندىن مەسلىھەت</option>
+<option value="95"> &nbsp;|- قانۇنلار</option>
+<option value="94"> &nbsp;|- نىزاملار</option>
+<option value="191">>> ئۇنىۋېرسال</option>
+<option value="192"> &nbsp;|- ئۇنىۋېرسال سەھىپە</option>
+<option value="234">>> ۋاكالەتچىللىرىمىز</option>
+<option value="233">>> كىتابخانا</option>
+<option value="307"> &nbsp;|- مىللەتلەر (بېيجىڭ) نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="300"> &nbsp;|- شىنجاڭ ياشلار - ئۆسمۈرلەر نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="306"> &nbsp;|- قەشقەر ئۇيغۇر نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="302"> &nbsp;|- شىنجاڭ ئېلېكترون، ئۈن - سىن نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="298"> &nbsp;|- شىنجاڭ مائارىپ نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="303"> &nbsp;|- شىنجاڭ پەن - تېخنىكا نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="299"> &nbsp;|- شىنجاڭ خەلق نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="301"> &nbsp;|- شىنجاڭ گۈزەل - سەنئەت نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="304"> &nbsp;|- شىنجاڭ خەلق سەھىيە نەشرىياتىنىڭ كىتابلىرى</option>
+<option value="305"> &nbsp;|- شىنجاڭ ئۇنىۋېرسىتېتى نەشرىياتىنىڭ كىتابلىرى</option>
+</select></td>
+	</tr>
+	<tr><td style="padding-top: 12px;text-align: right;"><img src="images/wind/index/home.gif" align="absbottom" /> <b><a href="index.php">
+		بىلقۇت باغچىسى </a> » <a href="thread.php?fid=240&page=0">
+		ئىسلام دىنىدىن ساۋاتلار</a></b> </td>
+	<td style="padding-top: 12px;text-align: right;"><a href="post.php?action=reply&fid=240&tid=7674"><img src="images/wind/reply.png" /></a> <a href="post.php?fid=240"><img src="images/wind/post.png" id="td_post1" /></a></td>
+	</tr>
+</table></div>
+<script language="JavaScript">
+var tid = 7674;
+var mt;
+function Addtoie(value,title){
+	window.external.AddFavorite(value,title);
+}
+function sendurl(event,url,id){
+	if(!event.ctrlKey){
+		window.location.href = 'post.php?'+url;
+	} else{
+		sendmsg('ajax.php?'+url,'',id);
+	}
+}
+function edited(){
+	var str = ajax.request.responseText.split("\t");
+	if(str[0] == 'success'){
+		var id  = read.obj.id;
+		id = id.substr(id.lastIndexOf('_')+1);
+		getObj('subject_'+id).innerHTML = ''+str[1];
+		getObj('read_'+id).innerHTML = str[2];
+	} else{
+		ajax.guide();
+	}
+}
+function favor(type){
+	closep();
+	ajax.send('pw_ajax.php?action=favor&tid='+tid+'&type='+type,'',ajax.get);
+}
+function addfriend(uid){
+	ajax.send('pw_ajax.php','action=addfriend&touid='+uid,ajax.guide);
+}
+function delatt(pid,aid){
+	if(!confirm('确定要删除此附件？')) return false;
+	ajax.send('pw_ajax.php','action=deldownfile&tid='+tid+'&pid='+pid+'&aid='+aid,function(){
+		if(ajax.request.responseText == 'success'){
+			var o = getObj('att_'+aid);
+			o.parentNode.removeChild(o);
+		} else{
+			ajax.guide();
+		}
+	});
+}
+function Fjump(value){
+	if(value!='') window.location=('https://uyghur-archive.com/bilqut/bbs/thread.php?fid='+value);
+}
+function CopyCode(obj){
+	var js = document.body.createTextRange();
+	js.moveToElementText(obj);
+	js.select();
+	js.execCommand("Copy");
+}
+function postreply(txt){
+	if(typeof document.FORM != "undefined"){
+		document.FORM.atc_title.value = txt;
+		document.FORM.atc_content.focus();
+	}
+}
+function dig(){
+	ajax.send('pw_ajax.php?action=dig&tid='+tid,'',function(){
+		var str = ajax.request.responseText.split("\t");
+		ajax.guide();
+		if(typeof str[1] != 'undefined'){
+			getObj('r_dig').innerHTML = str[1];
+		} else{
+			setTimeout("location.href='push.php?fid=240'",500);
+		}
+	});
+}
+function marked(){
+	var str = ajax.request.responseText.split("\t");
+	var id  = read.obj.id;
+	id = id.substr(id.lastIndexOf('_')+1);
+	if(str[0] == 'success'){
+		if(IsElement('mark_'+id)){
+			if(str[1] == ''){
+				getObj('mark_'+id).parentNode.removeChild(getObj('mark_'+id));
+			} else{
+				getObj('mark_'+id).lastChild.innerHTML = str[1];
+			}
+		} else{
+			var o = getObj('w_'+id);
+			var s = document.createElement("div");
+			s.id = 'mark_' + id;
+			s.className = 'tips tal';
+			s.cssText   = 'word-break:keep-all;word-wrap:no-wrap';
+			s.innerHTML = '<div class="tal s3">بۇ يازمىنىڭ يېقىنقى باھالىنىش خاتىرىسى : </div><div class="tal">'+str[1]+'</div>';
+			o.parentNode.insertBefore(s,o);
+		}
+	} else{
+		ajax.guide();
+	}
+}
+function usetool(id){
+	if(id>0 && confirm('你确定要使用该道具吗?')){
+		closep();
+		read.obj = getObj('usetool');
+		ajax.send('hack.php?H_name=toolcenter&action=ajax&tid='+tid+'&toolid='+id,'',ajax.get);
+	}
+}
+function usertool(uid,id){
+	if(confirm('你确定要使用该道具吗?')){
+		closep();
+		ajax.send('hack.php?H_name=toolcenter&action=ajax&uid='+uid+'&toolid='+id,'',ajax.get);
+	}
+}
+function fontsize(text,id){
+	getObj("read_"+id).className=text;
+}
+var totalpage=1;
+var page=1;
+if(totalpage > 1){
+	document.onkeydown=function(e){
+		var e = is_ie ? window.event : e;
+		var tagname = is_ie ? e.srcElement.tagName : e.target.tagName;
+		if(tagname == 'INPUT' || tagname == 'TEXTAREA'){
+			return;
+		}
+		actualCode = e.keyCode ? e.keyCode : e.charCode;
+		if(actualCode == 39 && page<totalpage){
+			window.location = 'read.php?tid=7674&fpage=0&toread=&page=' + (page+1);
+		} else if(actualCode == 37 && page>1){
+			window.location = 'read.php?tid=7674&fpage=0&toread=&page=' + (page-1);
+		}
+	}
+}
+</script>
+<script type="text/javascript" language="JavaScript" src="js/pw_ajax.js"></script>
+﻿
+</div>
+<div id="bottom"></div><br />
+<center class="gray">
+<div align="center" style="color:red">
+ﺋﻪﺳﻜﻪﺭﺗﯩﺶ : ﺗﻮﺭ ﺑﯧﻜﯩﺘﯩﻤﯩﺰﺩﻩ ﯞﻩﻣﯘﻧﺒﯩﺮﯨﻤﯩﺰﺩﻩ ﺩﯙﻟﻪﺗﻨﯩﯔ ﺗﯜﺭﻟﯜﻙ ﻗﺎﻧﯘﻥ - ﺳﯩﻴﺎﺳﻪﺕ ﭘﻪﺭﻣﺎﻧﻠﯩﺮﯨﻐﺎ ﺧﯩﻼﭖ ﻣﺎﻗﺎﻟﯩﻠﻪﺭ ﯞﻩ ﻳﻮﻟﻼﻧﻤﯩﻼﺭﻧﻰ ، ﺳﯜﺭﻩﺗﻠﻪﺭﻧﻰ ﻳﻮﻟﻼﺷﻘﺎ ﺑﻮﻟﻤﺎﻳﺪﯗ. <br />ﺑﯚﻟﮕﯜﻧﭽﯩﻠﯩﻚ ، ﻗﯘﺗﺮﺍﺗﻘﯘﻟﯘﻕ ﺧﺎﺭﺍﻛﺘﺮﯨﺪﯨﻜﻰ ﻣﺎﻗﺎﻟﯩﻠﻪﺭﻧﻰ ﻳﻮﻟﻠﯩﻐﺎﻥ ﺋﺎﭘﺘﻮﺭﻻﺭ ﺋﺎﻗﯩﯟﯨﺘﯩﮕﻪ ﺋﯚﺯﻯ ﻣﻪﺳﺌﯘﻝ ﺑﻮﻟﯩﺪﯗ . ﺗﻮﺭ ﭘﻮﻧﻜﯩﺘﯩﻤﯩﺰ ﮬﯧﭽﻘﺎﻧﺪﺍﻕ ﻣﻪﺳﺌﯘﻟﯩﻴﻪﺗﻨﻰ ﺋﯜﺳﺘﯩﮕﻪ ﺋﺎﻟﻤﺎﻳﺪﯗ . ﺋﯚﺯ ﺗﻮﺭ ﻣﻪﺩﻩﻧﯩﻴﺘﯩﻤﯩﺰﻧﯩﯔ ﺳﺎﻏﻼﻡ ﺗﻪﺭﻩﻗﻘﯩﻲ ﻗﯩﻠﯩﺸﻰ ﯞﻩ ﺗﻮﺳﺎﻟﻐﯘﺳﯩﺰ ﺋﯩﻠﮕﯩﺮﻟﯩﺸﻰ ﺋﯜﭼﯜﻥ ﺑﯘ ﻣﯘﻧﺒﻪﺭﻧﻰ ﺋﯚﺯ ﻛﯚﺯ ﻗﺎﺭﭼﯘﻗﯩﯖﯩﺰﺩﻩﻙ ﺋﺎﺳﺮﯨﺸﯩﯖﯩﺰﻧﻰﺋﯜﻣﯩﺪ ﻗﯩﻠﯩﻤﯩﺰ. <br />ﻛﯧﻴﯩﻨﻜﻰ ﭘﯘﺷﺎﻳﻤﺎﻥ ، ﺋﯚﺯﯛﯕﮕﻪ ﺩﯛﺷﻤﻪﻥ . ﻣﯩﻠﻠﻪﺗﻨﻰﺳﯚﻳﮕﯜﭼﯩﻠﻪﺭ ﺋﯚﺯ ﻧﻪﺭﺳﯩﺴﯩﻨﻰ ﻗﻪﺩﯨﺮﻟﻪﻳﺪﯗ .<br /><br />ئاخىرىدا ھەربىر كۈنىڭىزنىڭ خۇشاللىق تىلەيمىز !</div>
+<p><p>
+
+<script language="javascript" src="https://count32.51yes.com/click.aspx?id=320168560&logo=1"></script>
+&nbsp;&nbsp;&nbsp; <script src='https://s78.cnzz.com/stat.php?id=866085&web_id=866085&show=pic1' language='JavaScript' charset='gb2312'></script>
+<br /><small><span id="windspend">Total 0.118105(s) query 3, Time now is:09-14 22:06, Gzip disabled</span> <br />
+</center><br />
+<center>Uyghur Version Powered by Sazgur  Code &copy; 2007-2008 <a href="https://www.uyghur-archive.com/bilqut/" target="_blank"><b style="color:#FF9900">uyghur-archive.com/bilqut</b></a> Corporation</center><div id="footer">
+	<span class="f12 fl"></span><a href="https://uyghur-archive.com/bilqut/book">Contact us</a> | <a href="wap/index.php">Wap</a> | <a href="javascript:scroll(0,0)">Top</a>
+</div>
+</div>
+</body></html>
+<script language="JavaScript" src="js/global.js"></script>
+<script language="JavaScript">
+var openmenu = {'td_hack' : 'menu_hack','td_skin' : 'menu_skin','td_sort' : 'menu_sort','td_msg' : 'menu_msg','td_profile' : 'menu_profile','td_post' : 'menu_post','td_post1' : 'menu_post'};
+read.InitMenu();
+</script>
+<script language="JavaScript" src="https://init.phpwind.com/init.php?sitehash=10AVJVB1VVA1NeUwFXCQNQAVMNBQZWAFEOBwQHVVAGBVg&v=6.0&c=0"></script>

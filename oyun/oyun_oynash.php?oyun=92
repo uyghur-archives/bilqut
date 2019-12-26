@@ -1,0 +1,181 @@
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Bilqut oyun kani li  !!!!      ^_^   !!!!</title>
+<meta name="keywords" content="{$head[keywords]}">
+<meta name="description" content="{$head[description]}">
+<link href="../Bilqut.ico" rel="shortcut icon">
+<link href="../Bilqut_oyun.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="../data/js/config.js"></script>
+<script language="javascript" src="../include/js/common.js"></script>
+<script language="javascript" src="../include/js/prototype.js"></script>
+
+</head>
+<body>
+<div class="header">
+<div align="center">
+	<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+	<td style="padding:1px; border:1px solid #fee601; " background="../Raziman_img/resim/top_bg.jpg" align="center"  >
+	<table border="0" width="950px" id="table2" cellspacing="1" height="30">
+		<tr>
+			<td width="350" align="center"><span lang="ar-sa" style="color:#000">بىلقۇت تورغا 
+			كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+			<td width="600" align="center">&nbsp;</td>
+		</tr>
+	</table>
+	</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+	<table border="0" width="950px" cellspacing="0" cellpadding="0">
+		<tr>
+			<td>
+			<iframe name="RAZIMAN" src="../raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+		</tr>
+		</table>
+</div>
+  <table width="960" border="0" align="center" cellpadding="0" cellspacing="0" id="table3">
+    
+  <tr>
+		<td width="80" background="../raziman_img/oyun/bg.gif">&nbsp;</td>
+		<td>
+			<img src="../raziman_img/oyun/index_06.png" width="124" height="170" alt=""></td>
+		<td>
+			<img src="../raziman_img/oyun/index_05.png" width="156" height="170" alt=""></td>
+		<td>
+			<img src="../raziman_img/oyun/index_04.png" width="131" height="170" alt=""></td>
+		<td>
+			<img src="../raziman_img/oyun/index_03.png" width="131" height="170" alt=""></td>
+		<td>
+			<img src="../raziman_img/oyun/index_02.png" width="135" height="170" alt=""></td>
+		<td>
+			<img src="../raziman_img/oyun/index_01.png" width="123" height="170" alt=""></td>
+		<td width="80" background="../raziman_img/oyun/bg.gif">&nbsp;</td>
+	</tr>
+</table>
+  <!--频道下属栏目列表-->
+
+<table width="960" height="38" border="0" align="center" cellpadding="0" cellspacing="0" id="table4">
+  <tr>
+		<td width="80" rowspan="2" height="38" background="../raziman_img/oyun/index_11.gif">&nbsp;</td>
+		<td height="29" background="../raziman_img/oyun/index_10.gif" width="24">&nbsp;</td>
+		<td height="29" background="../raziman_img/oyun/top_02.gif" width="101" dir="ltr"><a href="./" class="white"> بـــاش بـــەت </a></td>
+		<td height="29" width="49" background="../raziman_img/oyun/top_01.gif">&nbsp;</td>
+		<td height="29" width="602" background="../raziman_img/oyun/top_02.gif">&nbsp;</td>
+		<td height="29" background="../raziman_img/oyun/index_08.gif" width="24">&nbsp;</td>
+		<td width="80" rowspan="2" height="38" background="../raziman_img/oyun/index_11.gif">&nbsp;</td>
+	</tr>
+	<tr>
+		<td height="9" colspan="5" background="../raziman_img/oyun/index_12.gif"></td>
+	</tr>
+</table>
+
+  <!--End-->
+</div>
+<div class="arlik"></div>
+
+<table border="0" width="795"  cellspacing="0" cellpadding="0">
+  <tr>
+    <td background="../raziman_img/oyun/none.gif" width="214" height="30" >&nbsp;</td>
+    <td background="../raziman_img/oyun/index_16.gif" width="565"></td>
+    <td width="16" height="30"><img src="../raziman_img/oyun/index_15.gif" width="16" height="30" alt=""></td>
+  </tr>
+  <tr>
+    <td colspan="3" valign="top"><table border="0" width="100%"  cellspacing="0" cellpadding="0" height="100%">
+        <tr>
+          <td width="17" valign="top"><table border="0" width="100%" id="table3" cellspacing="0" cellpadding="0" height="100%">
+              <tr>
+                <td background="../raziman_img/oyun/right_top.gif" height="35">&nbsp;</td>
+              </tr>
+              <tr>
+                <td background="../raziman_img/oyun/right_down.gif"></td>
+              </tr>
+            </table></td>
+          <td width="760px"><table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td align="center"><table width="715" border="0" align="center" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td width="565" height="35" align="center" style="color:#F00">	ھاۋادىكى ھۇجۇم</td>
+                      <td width="150" height="35" align="center"><a href="./" style="color:#000">باش بەتكە قايتىش </a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr>
+                <td height="30px"></td>
+              </tr>
+              <tr>
+                <td align="center" style="font-size:14px; color:#FC3; line-height:25px;" bgcolor="#550000">بۇ ئويۇن
+                  990                  قېتىم ئوينالدى    &nbsp;&nbsp; &nbsp;&nbsp; يوللانغان ۋاقتى :
+                  2009-10-28</td>
+              </tr>
+               <tr>
+                <td height="20px"></td>
+              </tr>
+              <tr>
+                <td height="570" align="center" valign="middle" style="border: 2PX #900 inset"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="FLASH" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="700" height="520">
+                  ';
+                  <param name="movie" value="https://swf.uyghur-archive.com/bilqut/flashfile/2600.swf" />
+                  <param name="quality" value="high" />
+                </object></td>
+              </tr>
+              <tr>
+                <td></td>
+              </tr>
+            </table></td>
+          <td width="16" valign="top"><table border="0" width="100%" id="table2" cellspacing="0" cellpadding="0" height="100%">
+              <tr>
+                <td background="../raziman_img/oyun/left_top.gif" height="36"></td>
+              </tr>
+              <tr>
+                <td background="../raziman_img/oyun/left_down.gif"></td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr>
+          <td background="../raziman_img/oyun/index_24.gif" width="17" height="17"></td>
+          <td background="../raziman_img/oyun/index_23.gif" width="754" height="17px"></td>
+          <td background="../raziman_img/oyun/index_22.gif" width="16" height="17"></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+﻿<!-- elan ahirlash ti   -->
+
+
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0"  bgcolor="#999">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+</div>
+<!-- bet asti biket  uchuri tugidi -->

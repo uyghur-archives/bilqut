@@ -1,0 +1,386 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>لۇ شياۋمەنگە يېزىلغان خەت-كۇتۇپخانا-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,كۇتۇپخانا">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/kutupxana/" class="red"> كۇتۇپخانا</a>
+         | <a class="razimantur" href="/kutupxana/list.php?catid=43" >ھېكايىلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=44" > شېئىر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=45" > كەلىلە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=46" > نەسىرلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=47" > يۇمۇرلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=48" > ھىكمەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=49" > نەسىھەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=50" > ماقالىلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=51" > ياشلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=52" > تۇرمۇش </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=53" > نۇتۇقلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=54" >مەكتۇب  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=55" >غارايىبات</a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=56" > دۇنيادا ئەڭ  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=57" >قان تىپى </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=58" > مۆچەل  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=59" > مىللەتلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=60" > بۈگۈن  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=61" >مۇزېي </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=62" >تارىخ </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=63" >شەھەرلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=64" >دۆلەتلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=65" >كۇتۇبخانىلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=66" >مايلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=67" >مېۋە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=68" >كۆكتاتلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=69" >ئۆسۈملۈكلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=70" > ھايۋاناتلار  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/kutupxana/">كۇتۇپخانا</a> >> <a href="/kutupxana/list.php?catid=54">مەكتۇب  </a> >>  لۇ شياۋمەنگە يېزىلغان خەت</div>
+<!--主标题--><h1>لۇ شياۋمەنگە يېزىلغان خەت </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2008-09-30 11:04:12&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">114</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">شۈجىمو&nbsp; (1896 - 1931) 
+شۈجىمو - جۇڭگونىڭ ھازىرقى زامان ئاتاقلىق شائىرى، جېجياڭ ئۆلكىسىنىڭ خەينىڭ دېگەن يېرىدىن، ياۋروپا، ئامېرىكىدا ئوقۇغان، ئىلگىرى - كېيىن بولۇپ بېيجىڭ، شاڭخەي قاتارلىق جايلاردىكى ئالىي مەپتەپلەردە ئوقۇتقۇچىلىق قىلغان، «شېئىرىيەت»، «ھىلال ئاي» قاتارلىق ئەدەبىي ژۇرناللاردا باش مۇھەررىر بولۇپ ئىشلىگەن، ئۇ «ھىلال ئايچىلار» نىڭ تايانچىلىرىدىن بىرى.
+شۈجىمو 1915 - يىلى تۇنجى خوتۇنى جاڭ يۇۋىي بىلەن توي قىلغان، كېيىن كېلىشەلمەي 1922 - يىلى 3 - ئايدا ئىككىيلەن گېرمانىيىدە ئوقۇۋاتقان چاغلىرىدا ئۆزلۈكىدىن نىكاھتىن ئاجرىشىپ كەتكەن. تۇنجى قېتىملىق نىكاھتا مەغلۇپ بولغاندىن كېيىن، شۈجىمو ئېرى بار لۇشياۋمەننى بەكمۇ ياخشى كۆرۈپ قالغان، ئۇلار 1926 - يىلى توي قىلغان. بۇ شۈجىمونىڭ لۇ شياۋمەنگە يازغان مۇھەببەت خېتى.
+(شۈجىمونىڭ 3 - ئاينىڭ 10 - كۈنى چەتكە چىقىش ئالدىدا لۇشياۋمەنگە يازغان ئۈچىنچى پارچە خېتى).
+لوڭ لوڭ، يۈرەك باغرىم پارە - پارە بولۇپ كېتىۋاتىدۇ. بۈگۈن ئاخشام سىزگە ئوبدان بىر پارچە خەت يېزىپ، يۈرىكىمدىكىنى ئىزھار قىلمىسام، سىزنى ياخشى كۆرۈشكە، سىزنىڭ مۇھەببىتىڭىزنى قوبۇل قىلىشقا مۇناسىپ بولماي قالىمەن. قەدىرلىكىم، مەن بەكمۇ بىئارام بولۇپ كېتىۋاتىمەن. ھازىر كاللامدا سىزنىڭ دەردىڭىزگە دەردمەن بولۇشتىن باشقا ھېچقانداق خىيال يوق. سىز بايا ئازابلىنىپ كەتتىڭىز. ماڭا بىر چەتتە چىشىمنى چىشلەپ، كۆزۈمنى يۇمۇپ ئولتۇرماقتىن باشقا ئامال بولمىدى. قەدىرلىكىم، قېنىڭىزدىكى ئەزرائىل نېمە ئۈچۈن قېنىمدا قالمىدى. سىزنىڭ تىرىك تۇرۇپ ئازابلانغانلىقىڭىزغا قاراپ پۈتۈن خىياللىرىمدىن ۋاز كەچتىم! سىزنىڭ ئازاب چەككىنىڭىز راست، بۇنى كىمدىن كۆرىمەن؟
+ئايرىلىش، بۈگۈن ئاخشام ھاراقنى بولۇشىغا ئىچكىنىڭىزنىڭ ئاساسلىق سەۋەبىدۇر. مەن دەسلىپىدە سىزنىڭ مۇشۇنچىلىك ئىچىپ مەست بولۇپ كەتكىنىڭىزگە دىققەت قىلمىغىنىمغا پۇشايمان قىلغانىدىم. ئەمما سىزنىڭ ئازابلانغانلىقىڭىزنى ئويلىدىم. بۇ پۈتۈنلەي ھاراقنىڭ دەردى ئەمەس ئىدى، ئەگەر بۈگۈن كەچتە ھاراق ئىچمىگەن بولسىڭىز، مەن پەيتى كەلگەندە خوش دەپلا پېشىمنى قېقىپ كېتىپ قالسام، ئۇ چاغدا سىزگە تېخىمۇ ئەلەم بولمامدۇ؟ نىيىتىڭىزدىن يېنىپ كېيىن قايتا مەجبۇرلاشقا ئۇچرىسىڭىز مەست بولغاندىنمۇ نېرى ئازابتا قالمامسىز؟ ھەي، يەنىلا سىزنىڭ دېگىنىڭىز توغرا ئىكەن، مەست بولۇپ ئۆلگەندە ھەممە ئىش تۈگەيدىكەن، ئۆلمىگەن تەقدىردىمۇ مەستچىلىكتە ئىچىدىكىنى خالىغانچە تۆكۈۋالسا، بۇ دەردنى ئىچىگە سالغاندىن ياخشى ئەمەسمۇ؟ شۇڭا سىزنىڭ ئازابنى بەرىبىر تارتىدىغانلىقىڭىزنى ئويلاپ، كۆڭلۈم خېلى تىنچىپ قالدى. ئەمما سىزنىڭ شۇنچە كۆپ ئادەم بىلەن ئولتۇرۇپ ھاراق ئىچكىنىڭىزگە ئاچچىقىم كەلدى. كۆپ ئادەم ئولتۇرۇپ ھاراق ئىچكەندە، ئادەم مەست بولماي قالمايدۇ، ئەگەر ئىككىمىز ئولتۇرۇپ ئىچىشكەن بولساق، مەست بولساقمۇ تەڭ بولاتتۇق، ئۆلسەك تەڭ ئۆلەتتۇق. يىغلىساق تەڭ يىغلايتتۇق. ھاياجانلىنىپ كەتسەك كۆكسىمىزنى كۆسىمىزگە چىڭ يېقىشىپ ئازاب ئىچىدە تەشنالىققا تولغان ھەۋەسلىرىمىزنى قاندۇراتتۇق. بىزنىڭ روھىمىزلا بىرلىشىدىكەن، ئەڭ يۈكسەك ئارزۇ - ئارمانلىرىمىزمۇ قانائەت ھاسىل قىلاتتىغۇ؟
+قەدىرلىكىم، مۇشۇ دەقىقىدە كۆزىڭىزگە ئۇيقۇ كەلدىمۇ؟ نەپەسلىرىڭىز رىتىمىغا چۈشتىمۇ؟ نېرۋىڭىز ۋاقىتلىق بولسىمۇ ئارام ئالدىمۇ؟ سىز ھازىر مېنىڭ مۇشۇ كېچىدە كۆزلىرىمگە ئىسسىق ياش ئالغان ھالدا سىز بىلەن مۇڭدىشىۋاتقانلىقىمنى، سىزنى ئەسلەۋاتقانلىقىمنى، قەدىرلەۋاتقانلىقىمنى، ئىززەتلەۋاتقانلىقىمنى، سىزگە تەسەللى بېرىۋاتقانلىقىمنى بىلەمسىز؟ مەن نەپرەتلىنىمەن! ئارىمىزدىكى چۈشىنەلمەسلىك سىزنى خۇددى سۇغا چۈشۈپ كېتىپ قۇتۇلىمەن، دەپ جان تالىشىۋاتقان ئەھۋالغا چۈشۈرۈپ قويدى. ئۇلار سۇغا تاش ۋە كاھىش پارچىلىرىنى تاشلاپ بېرىش ئارقىلىق سىزنى قۇتۇلدۇرماقچى بولۇشتى. مەن بۇنىڭدىن بەكمۇ نەپرەتلەندىم! بۇ ھاراق يەنىلا كۈچلۈك ئەمەسكەن. ھېلى يېنىڭىزدا تۇرغان چېغىمدا پۈتۈنلەي تەييارلىق بىلەن تەقدىم تۇرغانىدىم. مەن سىزنىڭ كۆڭلىڭىزدە «توڭلاپ كېتىۋاتىمەن. مېنى چوغدەك قىزىق كۆكسىڭىزگە بېسىڭ، ئاغرىپ كېتىۋاتىمەن، مېنى قوينىڭىزغا ئېلىڭ، چارچاپ كېتىۋاتىمەن، سىزنىڭ باغرىڭىزدا ئارام ئالغۇم بار!» دەۋاتقانلىقىڭىزنى بىلدىم. ئەمما ئەمەلىيەتتە، مېنىڭ بىر چەتتە قاراپ تۇرماقتىن باشقا ئامالىم يوق ئىدى. مەن سىزگە ئازراقلا ياردەم قىلىدىكەنمەن، ئەتراپتىكىلەرنىڭ بۇنىڭغا ئارىلىشىپ «ئاۋارە بولماڭ، بۇ سىزنىڭ ئىشىڭىز ئەمەس، ئۇنىڭ بىلەن كارىڭىز بولمىسۇن، بالدۇرراق بېرىپ ئارام ئېلىڭ!» دېيىشى تۇرغان گەپ. ئۇنىڭ بىلەن كارىڭىز بولمىسۇن، دېگەن سۆزنىڭ مېنى قانچىلىك ئازابلايدىغانلىقىنى سىز بەلكىم ھېس قىلالايسىزغۇ دەيمەن!
+بايا سىز «مەن مەست ئەمەس، پەقەتلا بىئارام بولۇپ كېتىۋاتىمەن، يۈرىكىم ئېغىپ كېتىۋاتىدۇ» دەپ توۋلاپ كەتتىڭىز. بۇ سۆزلىرىڭىزنى ئاڭلاپ تۆمۈر بىگىز بىلەن يۈرىكىمنى قوچۇغاندەك بولۇپ كەتتىم. غەزەپلىنىش، نەپرەتلىنىش، ھەسرەتلىنىش، تىتىلداش ھېسسىياتى بىراقلا مېڭەمگە چىقتى؛ شۇ چاغدا مەن ھېچنېمىدىن قورقمايدىغانلىقىمنى ھېس قىلدىم. مەندىكى غەيرەت ئىنتايىن زور ئىدى، پەقەت سىزلا ماقۇل بولسىڭىز، مەن ھەر قانداق ئىشنى قىلىشقا تەييار ئىدىم! سىزنى دەپ ھەممىدىن ۋاز كەچكەن يەردە ھايات ۋە نام - ئابرۇي دېگەنلەر بىلەن كارىم، سىز ئابايام ئىككىمىزنىڭ مۇناسىۋىتى ھەققىدە ئازراقلا بىرەر نېمە دەپ قويغان بولسىڭىز، ئىككىمىزنىڭ تەقدىرى ئاللىقاچان باشقىچە بولۇپ كەتكەن بولاتتى!
+قەدىرلىكىم، سىزنىڭ مەست بولغاندىن كېيىنكى ئاقىرىپ كەتكەن ھۆسن - جامالىڭىز، خاتىرجەملىكنى ئىپادىلەپ تۇرغان قاش - كۆزلىرىڭىز نېمىدېگەن گۈزەل - ھە، بۇ سىزنىڭ ئەڭ ئاخىرقى قېتىم ھەممىدىن خالاس بولغان چېغىڭىزدىكى قىياپىتىڭىزنى كۆز ئالدىمغا كەلتۈرۈپ، مېنىڭدە سىزنى تەرىپلەش، سىزگە ئېتىقاد قىلىش ھېسسىياتىنى قوزغىدى. قەدىرلىكىم، كېلەچەكتە سىز كونا ئۆرپ - ئادەتلەرگە خاتىمە بەرگەن چېغىڭىزدا سىزنىڭ يېنىڭىزدا چوقۇم مەن بولىمەن. ئاخىرقى نەپسىم قالغاندا يۈرىكىڭىزنىڭ كىمگە تەئەللۇق ئىكەنلىكىنى، روھىڭىزدا كىم بارلىقىنى، كىمنى ياخشى كۆرىدىغانلىقىڭىزنى خەلقى ئالەمگە جاكارلاشنى ئۇنتۇماڭ! قەدىرلىكىم، سىزنى قانچىلىك ياخشى كۆرىدىغانلىقىمنى بىلىشىڭىز كېرەك. سىز مېنىڭ مۇھەببىتىمنى، روھىمنى، تېنىمنى، «بارلىقىم» نى ئىگىلىدىڭىز. مەن سىزنىڭ ئەتراپىڭىزدا مەڭگۈ پەرۋانە بولۇپ ئۆتىمەن، قەدىرلىكىم، مېنى راستتىنلا ئۆزىڭىزگە مەستانە قىلدىڭىز. بەزىدە سىزنى ئۆزۈمگە ھەمراھ قىلىپ ئۆلۈۋېلىشنى يەنى مۇتلەق جىمجىت بولغان ئۇ دۇنياغا بېرىپ، مۇكەممەل مۇھەببەتىمىزنى ئىشقا ئاشۇرۇشنى، قاراڭغۇلۇق ئىچىدە بىردىنبىر يورۇقلۇقنى ئىزدەپ تېپىشنى ئويلاپ قالىمەن. بۇنداق دېسەم قورقۇپ كەتمەڭ يەنە، ئەگەر بۈگۈن ئاخشام يېنىڭىزدا زەھەرلىك دورا بولغان بولسا، بۇ چاغقىچە بىز ئاللىقاچان راھەت دۇنياغا كېتىپ بولغان بولاتتۇق، مۇھەببەتتىن بەھرىمەن بولالمايدىغان بۇنداق ھاياتنى كەچۈرگۈم يوق. ماڭا پەقەت بىرلا ھەمراھ بولسا كۇپايە. ھەمراھ بولغاندىن كېيىن، رازىمەنلىك بىلەن خۇشال - خۇرام كۆزۈمنى يۇمالايمەن؛ قەدىرلىكىم، سىز ماڭا مەڭگۈلۈك ھەمراھ بولۇشقا ماقۇل بولمىغانمىدىڭىز؟ مەن سىزگە چىڭ ئېسىلدىم، جىگرىم، سىز مېنىڭ، سىز مېنىڭ پۈتۈن ھاياتىمدىكى بىردىنبىر مۇۋەپپەقىيىتىم، مېنىڭ ھاياتىم؛ سىزنىڭ بارلىقىڭىز، ھەربىر ھۈجەيرىڭىزدىن تارتىپ ماڭا مەنسۇپ. ئەگەر سىز بۇنى ئازراق ئىنكار قىلىدىكەنسىز، مېنى يەر يۇتسۇن.
+مەن يەنە ئون نەچچە سائەتتىن كېيىن سىزنى تاشلاپ كېتىپ قالىمەن. مېنى تاش يۈرەك، دەپ ئەيىبلەۋاتقانسىز؟ مەنمۇ بۇ قېتىم يۈرىكىمنى تاشتەك تۇتمىسام بولمىدى، سىزمۇ مېنىڭ بۇ قېتىم قايتىپ كېتىشىمنىڭ مەيلى روھىي جەھەتتىن بولسۇن ياكى بىلىم جەھەتتىن بولسۇن مەن ئۈچۈن ئىنتايىن پايدىلىق ئىكەنلىكىنى چۈشىنىسىز. مېنىڭ مەنپەئەت ئېلىشىم، سىزنىڭ مەنپەئەت ئېلىشىڭىز بىلەن باراۋەر. بۇ قېتىم قايتىپ بارغاندىن كېيىن ھەسسىلەپ تىرىشىمەن. سىزمۇ مۇشۇ بىر مەزگىل ئىچىدە ھەسسىلەپ تىرىشچانلىق كۆرسىتىڭ. بۇ قېتىم سىزنىڭ غەيرىتىڭىزنى سىنايدىغان، ئىسپاتلايدىغان پۇرسەت كەلدى، مەن سىزنىڭ غەيرىتىڭىزگە ئىشىنىمەن، گەرچە ئۆزۈم كېتىپ قالساممۇ ئەمما مېنىڭ قەلبىم سىزدىن ئايرىلمايدۇ. شۇنى بىلىشىڭىز كېرەككى، ئىككىمىز ئوتتۇرىسىدا روھىي جەھەتتىكى كۆرۈنمەس بىر يىپ بار، بۇنىڭدىن كېيىن ئىككىمىزنىڭ قايغۇ - ھەسرىتىمىز، شادلىقىمىز چەمبارچاس باغلانغان، بۇنىڭغا ئىشىنەمسىز؟ سىزدە ھازىر&nbsp; بۇنىڭدىن كېيىنكى تىرىشىش نىشانى بار، شۇڭا بۇ ھەقتە نەسىھەت قىلىپ ئولتۇرمايمەن، سىزنىڭ چوقۇم مۇۋەپپەقىيەت قازىنىدىغانلىقىڭىزغا ئىشىنىمەن. قەدىرلىكىم، مەن بار، يۈرەكلىك كۈرەش قىلىڭ، بىر - بىر - بىرىمىزنىڭ ئۈمىدىنى يەردە قويمايلى، خەير - خوش!
+شۈجىمودىن
+3 - ئاينىڭ 10 - كۈنى سەھەر سائەت 3 تە
+مەن سىزنىڭ تۇرمۇشىڭىزنى بەلگىلەپ بېرەلمەيمەن، ئەمما ئۆزىڭىزنى تىزگىنلەپ يۈرۈشىڭىزنى، ۋاقىتلىق بولسىمۇ چىشىڭىزنى چىشلەپ بارلىق ئويۇن - تاماشىلارنى بىر چەتكە قايرىپ قويۇپ، دوستلىرىڭىزغا خوش دېيىشىڭىزنى ئۈمىد قىلىمەن. سىز ئۈزۈل - كېسىل تىرىشىشىڭىز، يوقىلاڭ ئىشلارغا ئارىلاشماسلىقىڭىز كېرەك. ئادەم يوقىلاڭ ئىشلارغا ئارىلىشىپ قالسا، ئۆزىگە ئىش تېپىۋالىدۇ؛ مەم يەنە سىزنىڭ چېچىلىپ يۈرمەسلىكىڭىزنى ئۈمىد قىلىمەن. ئېسىڭىزدە بولسۇنكى، مېنىڭ يېرىم يىل چىداپ ساقلايدىغانلا بولسىڭىز، قايتىپ كەلگەندىن كېيىن سىزنى كۆڭلىڭىزدىكىدەك رازى قىلىمەن؛ سىزنىڭ ئىشەنچىڭىز، غەيرىتىڭىز، ئىسسىق قېنىڭىز، ھەقىقىي مۇھەببىتىڭىزلا بولىدىكەن، دۇنيادا قىلغىلى بولمايدىغان ئىشنىڭ بولۇشى مۇمكىن ئەمەس، قەدىرلىكىم! مېنىڭ بارلىقىم سىزگە باغلىق بولۇپ قالدى!
+ناۋادا سىز ئۈمىدسىزلىنىدىكەنسىز، مېنىڭ ياشاش ئىرادەم ئۇجۇقىدۇ!
+ئاخىرىدا دەيدىغان سۆزۈم: پەقەت «S» لار بىردىنبىر ھەقىقىي دوستىڭىز بولالايدۇ.
+3 - ئاينىڭ 10 - كۈنى ئەتىگەندە </span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2244" title="ماتىماتكىلىق مۇھەببەت تەلەپ خېتى"  target="_blank" class="tag_title_link">ماتىماتكىلىق مۇھەب...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2243" title="شۈگۇاڭپىڭغا يېزىلغان خەت"  target="_blank" class="tag_title_link">شۈگۇاڭپىڭغا يېزىلغ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2242" title="ياڭ ساۋغا يېزىلغان خەت"  target="_blank" class="tag_title_link">ياڭ ساۋغا يېزىلغان ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2241" title="لۇ شياۋمەنگە يېزىلغان خەت"  target="_blank" class="tag_title_link">لۇ شياۋمەنگە يېزىل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2240" title="شى پىڭمېيغا يېزىلغان خەت"  target="_blank" class="tag_title_link">شى پىڭمېيغا يېزىلغ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2239" title="خۇشېچىڭغا يېزىلغان خەت"  target="_blank" class="tag_title_link">خۇشېچىڭغا يېزىلغان...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2238" title="مەن مەنگە يېزىلغان خەت"  target="_blank" class="tag_title_link">مەن مەنگە يېزىلغان ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2237" title="سۇڭ رۇيۈگە يېزىلغان خەت"  target="_blank" class="tag_title_link">سۇڭ رۇيۈگە يېزىلغا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2236" title="خۇيېپىنگە يېزىلغان خەت"  target="_blank" class="tag_title_link">خۇيېپىنگە يېزىلغان...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2235" title="شياۋخۇڭغا يېزىلغان خەت"  target="_blank" class="tag_title_link">شياۋخۇڭغا يېزىلغان...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2234" title="ئولىمپو دۇنويېغا يېزىلغان خەت"  target="_blank" class="tag_title_link">ئولىمپو دۇنويېغا ي...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2233" title="فرانكلىننىڭ ئېلۋېزىسئۇغا يازغان مەكتۇبى"  target="_blank" class="tag_title_link">فرانكلىننىڭ ئېلۋېز...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2232" title="بىر ئەرنىڭ ئايالىغا يازغان خىتى"  target="_blank" class="tag_title_link">بىر ئەرنىڭ ئايالىغ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2231" title="لېسسىنگنىڭ&nbsp; ئېۋا كورنىگقا يازغان سۆيگۈ مەكتۇبى"  target="_blank" class="tag_title_link">لېسسىنگنىڭ  ئېۋا كو...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2230" title="ئېلۋېزىسئۇ خانىمغا يېزىلغان خەت"  target="_blank" class="tag_title_link">ئېلۋېزىسئۇ خانىمغا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2229" title="يېكاتېرىناغا يېزىلغان خەت"  target="_blank" class="tag_title_link">يېكاتېرىناغا يېزىل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2228" title="روۋلاند خانىمنىڭ بىھزوتقا يازغان مەكتۇبى"  target="_blank" class="tag_title_link">روۋلاند خانىمنىڭ ب...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2227" title="نېلسوننىڭ ئايالىغا يازغان مەكتۇبى"  target="_blank" class="tag_title_link">نېلسوننىڭ ئايالىغا...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2226" title="خەن چىڭچىڭغا يېزىلغان خەت"  target="_blank" class="tag_title_link">خەن چىڭچىڭغا يېزىل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2225" title="شىللېر لانگېفېلدقا يازغان مەكتۇبى"  target="_blank" class="tag_title_link">شىللېر لانگېفېلدقا...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/kutupxana/search.php?catid=54&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2244" title="ماتىماتكىلىق مۇھەببەت تەلەپ خېتى"  target="_blank" class="tag_title_link">ماتىماتكىلىق مۇھەببەت ت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2243" title="شۈگۇاڭپىڭغا يېزىلغان خەت"  target="_blank" class="tag_title_link">شۈگۇاڭپىڭغا يېزىلغان خە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2242" title="ياڭ ساۋغا يېزىلغان خەت"  target="_blank" class="tag_title_link">ياڭ ساۋغا يېزىلغان خەت</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2241" title="لۇ شياۋمەنگە يېزىلغان خەت"  target="_blank" class="tag_title_link">لۇ شياۋمەنگە يېزىلغان خ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2240" title="شى پىڭمېيغا يېزىلغان خەت"  target="_blank" class="tag_title_link">شى پىڭمېيغا يېزىلغان خە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2239" title="خۇشېچىڭغا يېزىلغان خەت"  target="_blank" class="tag_title_link">خۇشېچىڭغا يېزىلغان خەت</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2238" title="مەن مەنگە يېزىلغان خەت"  target="_blank" class="tag_title_link">مەن مەنگە يېزىلغان خەت</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2237" title="سۇڭ رۇيۈگە يېزىلغان خەت"  target="_blank" class="tag_title_link">سۇڭ رۇيۈگە يېزىلغان خەت</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2236" title="خۇيېپىنگە يېزىلغان خەت"  target="_blank" class="tag_title_link">خۇيېپىنگە يېزىلغان خەت</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2235" title="شياۋخۇڭغا يېزىلغان خەت"  target="_blank" class="tag_title_link">شياۋخۇڭغا يېزىلغان خەت</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/kutupxana/show_js.php?itemid=2241"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

@@ -1,0 +1,3 @@
+﻿try {setidval('hits','3243');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/balilar_bagchisi/show.php?itemid=1579">ھامىلە تەربىيىسى دېگەن نېمە؟</a></li><li>  كىيىنكىسى  :  <a href="/balilar_bagchisi/show.php?itemid=1581">ئەقلىي قابىلىيەت دېگەن نېمە؟</a></li>');}catch(e){}

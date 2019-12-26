@@ -1,0 +1,334 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ﻛﯩﺘﺎﭘﺨﺎﻧﺎ ﺗﺎﻗﺎﻟﺪﻯ ﻛﯩﺘﺎﭘﻼﺭ ﯬﺭﺯﺍﻥ ﺑﺎﻫﺎﺩﺍ ﺳﯩﺘﯩﻠﯩﺪﯛ-ئەدەبىيات-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,ئەدەبىيات">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/edebiyat/" class="red"> ئەدەبىيات</a>
+         | <a class="razimantur" href="/edebiyat/list.php?catid=259" >شېئىرىيەت گۈلزارى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=261" >تەڭرىتاغ چېچەكلىرى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=262" >نەسرىي ئەسەرلەر </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=263" >فانتازىيىلىك ئەسەرلەر </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=264" >سەھنە ئەسەرلىرى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=265" >دېرىزىنىڭ سىرتىدا...    </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=266" >مەشھۇر ئەسەر مەزمۇنى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=268" >ئەدىپلەر ئارخىپى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=269" >ئەسەر ۋە باھا</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=271" >قانۇن ۋە ئەدەبىيات</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=272" >ئەدەبىيات يېڭلىقلىرى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=274" > تەرمە گۈللەر </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=275" >ئۇنىۋېرسال ئەدەبىي ئەسەرلەر</a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/edebiyat/">ئەدەبىيات</a> >> <a href="/edebiyat/list.php?catid=275">ئۇنىۋېرسال ئەدەبىي ئەسەرلەر</a> >>  ﻛﯩﺘﺎﭘﺨﺎﻧﺎ ﺗﺎﻗﺎﻟﺪﻯ ﻛﯩﺘﺎﭘﻼﺭ ﯬﺭﺯﺍﻥ ﺑﺎﻫﺎﺩﺍ ﺳﯩﺘﯩﻠﯩﺪﯛ</div>
+<!--主标题--><h1>ﻛﯩﺘﺎﭘﺨﺎﻧﺎ ﺗﺎﻗﺎﻟﺪﻯ ﻛﯩﺘﺎﭘﻼﺭ ﯬﺭﺯﺍﻥ ﺑﺎﻫﺎﺩﺍ ﺳﯩﺘﯩﻠﯩﺪﯛ </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2006-01-04 08:06:45&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">8</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<img src="/raziman_img/bash/reng/reng_1.gif" id="img1" style="cursor:hand;"  onclick="conhat(1)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_2.gif" id="img2" style="cursor:hand;"  onclick="conhat(2)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_3.gif" id="img3" style="cursor:hand;"  onclick="conhat(3)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_4.gif" id="img4" style="cursor:hand;"  onclick="conhat(4)">&nbsp;&nbsp;<img src="/raziman_img/bash/reng/reng_5.gif" id="img5" style="cursor:hand;"  onclick="conhat(5)">&nbsp;&nbsp;                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">[color=#0030ff][color=#0012ff]<br><br>ﻛﯩﺘﺎﭘﺨﺎﻧﺎ ﺗﺎﻗﺎﻟﺪﻯ ﻛﯩﺘﺎﭘﻼﺭ ﯬﺭﺯﺍﻥ ﺑﺎﻫﺎﺩﺍ ﺳﯩﺘﯩﻠﯩﺪﯛ <br><br><br><br><br><br><br><br>ﯴﺭﯛﻣﭽﻰ ﺷﻪﻫﻪﺭﻟﯩﻚ ﯴﭼﯩﻨﭽﻰ ﺩﻭﺧﺘﯜﺭﺧﺎﻧﻨﯩﯔ ﯴﺩﯛﻟﻐﺎ ﺟﺎﻳﻼﺷﻘﺎﻥ ﺟﻪﺯﯨﺮﻩ ﻛﯩﺘﺎﭘﺨﺎﻧﯩﺴﯩﻨﯩﯔ ﺗﺎﺭﻣﺎﻕ ﻛﯩﺘﺎﭘﺨﺎﻧﯩﺴﻰ ﺗﺎﻗﺎﻟﺪﻯ. ﯬﮔﻪﺭ ﻛﯩﺘﺎﭖ ﺳﯩﺘﯩﯟﺍﻟﻤﺎﻗﭽﻰ ﺑﻮﻟﻐﺎﻧﻼﺭ ﻣﻪﻥ ﺑﯩﻠﻪﻥ ﯪﻻﻗﻼﺷﺴﺎﯕﻼﺭ ﺑﯜﻟﯩﺪﯛ. ﺑﺎﻫﺎﺩﺍ 40 ﭘﯩﺮﺳﻪﻧﯩﺖ ﺋﯩﺘﯩﯟﺍﺭ ﺑﯩﻠﻪﻥ ﺳﯩﺘﯩﯟﻩﺗﻤﻪﻛﭽﻰ . ﯪﺩﻩﻡ ﻛﻪﻣﭽﯩﻠﻠﯩﻚ ﺗﯜﭘﻪﻳﻠﺪﯨﻦ ﻛﯩﺘﺎﭘﺨﺎﻧﻨﯩﯔ ﺑﯩﺮﺳﯩﻨﻰ ﺗﺎﻗﺎﺷﻘﺎ ﻣﻪﺟﺒﯜﺭ ﺑﻮﻟﺪﯛﻡ. ﭼﻮﯓ ﻛﯩﺘﺎﭘﺨﺎﻧﯩﻐﺎ ﻛﯩﺘﺎﭘﻼﺭ ﭘﺎﺗﻤﯩﺪﻯ ﺷﯜﻧﯩﯔ ﺑﯩﻠﻪﻥ ﻛﯩﺘﺎﭘﻼﺭﻧﻰ ﺋﯩﺘﯩﯟﺍﺭ ﺑﺎﻫﺎﺩﺍ ﺳﯩﺘﯩﯟﻩﺗﻤﻪﻛﭽﻰ ﺑﯜﻟﯟﺍﺗﯩﻤﻪﻥ. ﻫﺎﺯﯨﺮ ﻗﻮﻳﻐﯩﺪﻩﻙ ﻳﯩﺮﯨﻤﻨﯩﯔ ﺗﺎﻳﯩﻨﻰ ﻳﻮﻕ . ﯬﮔﻪﺭ ﺋﯩﺰﺩﯨﻨﯩﺶ ﯬﻫﻠﻰ ﻛﯩﺘﺎﭖ ﺳﯩﺘﯩﯟﺍﻟﻤﺎﻗﭽﻰ ﭼﻮﻟﺴﺎﯕﻼﺭ ﻣﻪﻥ ﺑﯩﻠﻪﻥ ﯪﻻﻗﻠﯩﺸﯩﯖﻼﺭ ﻛﯩﺘﺎﭘﻨﯩﯔ ﺗﯜﺭﻯ 1000 ﺧﯩﻠﺪﯨﻦ ﯪﺷﯩﺪﯛ . ﭘﻮﭼﺘﺎ ﯪﺭﻗﯩﻠﯩﻖ ﯪﻻﻗﻼﺷﺴﺎﻗﻤﯜ ﺑﯜﻟﯩﺪﯛ ﻣﻪﻥ ﻳﻪﺗﻜﯜﺯﯛﭖ ﺑﯩﺮﯨﻤﻪﻥ. <br>ﭼﻮﯓ ﻛﯩﺘﺎﭘﺨﺎﻧﯩﯔ ﯪﻻﻗﻠﯩﺸﺸﻰ ﺗﯩﻠﻔﯜﻥ ﻧﯜﻣﯜﺭﻯ 8561074 .8561064 . <br>ﺑﺎﻫﺎﺩﺍ30 ﺩﯨﻦ 40 ﭘﯩﺮﺳﻪﻧﯩﺘﻜﯩﭽﻪ ﺋﯩﺘﯩﯟﺍﺭ ﻗﯩﻠﻨﯩﺪﯛ . ﺑﺎﺷﻘﺎ ﻧﺎﻫﯩﻴﻪ ﯞﻩ ﺷﻪﻫﻪﺭﻟﻪﺭﮔﻪ ﭘﻮﭼﺘﺎ ﯪﺭﻗﯩﻠﯩﻖ ﯬﯞﻩﺗﯩﭗ ﺑﯩﺮﻟﯩﺪﯛ . ﭘﻮﭼﺘﺎ ﻫﻪﻗﯩﻨﻰ ﯴﺯﯛﻡ ﯴﺳﺘﯜﻣﮕﻪ ﯪﻟﯩﻤﻪﻥ. <br><br>================================<br><br><br><br><br><br><br><br><br><br><br>ﻣﻪﻥ ﻫﺎﺯﯨﺮﭼﻪ ﺑﯩﺮ ﻗﯩﺴﯩﻢ ﻛﯩﺘﺎﭘﻼﺭﻧﯩﯔ ﺗﯩﺰﯨﻤﻠﯩﮕﯩﻨﻰ ﭼﯩﻘﯩﺮﯨﭗ ﻗﻮﻳﯜﭖ ﺗﯜﺭﺩﯛﻡ. ﺷﯜﯕﺎ ﺑﺎﺷﻘﯜﺭﻏﯜﭼﯩﻼﺭﻧﯩﯔ ﺗﻪﺳﺘﯩﻘﻠﯩﺸﯩﻨﻰ ﯴﻣﯩﺖ ﻗﯩﻠﯩﻤﻪﻥ. ﻫﻪﻡ ﺩﻭﺳﻼﺭﻧﯩﯔ ﻛﯜﺭﯛﭖ ﺑﯩﻘﯩﺸﻨﻰ ﯴﻣﯩﺖ ﻗﯩﻠﯩﻤﻪﻥ. <br>ﺟﻪﺯﯨﺮﻩ ﻛﯩﺘﺎﭘﺨﺎﻧﯩﺴﯩﺪﯨﻜﻰ ﺳﯧﺘﯩﻠﺪﯨﻐﺎﻥ ﻛﯩﺘﺎﭘﻼﺭ ﺗﯩﺰﯨﻤﻠﯩﻜﻰ.<br>1.ﯮﺗﺘﯘﺭﺍ ﯪﺳﯩﻴﺎ ﺗﺎﺭﯨﺨﻰ. -20.5 ﺳﻮﻡ <br>2.ﺯﯗﻟﭙﯩﻘﺎﺭ.&#45;&#45; 32 ﺳﻮﻡ ﺋﯩﻜﻜﻰ ﻗﯩﺴﯩﻢ <br>3.ﺗﯜﺭﻛﯩﻴﻪ ﻫﺎﺯﯨﺮﻗﻰ ﺯﺍﻣﺎﻥ ﺗﺎﺭﯨﺨﻰ.&#45;&#45;13 ﺳﻮﻡ <br>4ﻫﯘﻣﺎﻳﯘﻥ. 13.8 ﺳﻮﻡ<br>5ﺟﯘﻫﺎﻟﻪﺗﯩﭙﯩﻠﯩﺮﻯ.&#45;&#45;9 ﺳﻮﻡ <br>6.ﺯﻭﺭﺍﯪﺳﺘﯩﺮﺷﯘﻧﺪﺍﻕ ﺩﻩﻳﺪﯗ.- 13 ﺳﻮﻡ <br>7.ﯬﻣﯩﺮ ﺗﯜﻣﯜﺭ ﻛﻮﺭﺍﮔﺎﻥ ﻫﻪﻗﻘﯩﺪﻩ ﻗﯩﺴﺴﻪ.&#45;&#45;21.5 ﺳﻮﻡ <br>8.ﻫﺎﻳﯟﺍﻧﺎﺕ ﭘﺎﺩﯨﺸﺎﻫﻰ ﻛﯩﻢ؟&#45;&#45; 14.5ﺳﻮﻡ <br>9.ﯪﻗﺴﯘﯕﻪﻛﻠﻪﺭ ﯪﺋﯩﻠﺴﻰ.- 9.8 ﺳﻮﻡ <br>10.ﺩﯗﻧﻴﺎﻏﺎ ﺗﻪﺳﯩﺮ ﻛﯘﺭﺳﻪﺗﻜﻪﻥ 100 ﯰﺭﯗﺵ.&#45;&#45;14.ﺳﻮﻡ<br>11.ﻧﯩﻤﺸﯩﻬﯩﺖ ﯬﺳﻪﺭﻟﯩﺮﻯ.<br>12ﺋﯩﻨﮕﯩﻠﯩﺰﭼﻪ-ﯰﻳﻐﯘﺭﭼﻪ ﺳﯘﺯﻟﯩﺸﯩﺶ ﻗﻮﻟﻼﻧﻤﯩﺴﻰ.<br>13.ﯬﺭﻩﭖ ﺗﯩﻠﻰ ﯰﮔﯩﻨﯩﺶ ﻗﻮﻟﻼﻧﻤﯩﺴﻰ.<br>14.ﺧﻪﻧﺰﯗﭼﻪ-ﯰﻳﻐﯘﺭﭼﻪ ﮔﯩﯯﻟﻮﮔﯩﻴﻪ ﻟﻮﻏﯩﺘﻰ.<br>15ﯪﺧﯩﺮﻗﻰ ﺗﻪﺑﻪﺳﺴﯘﻡ.<br>16.ﻗﯩﺴﻘﯩﭽﻪ ﺋﯩﺴﻼﻡ ﻟﻮﻏﯩﺘﻰ.<br>17.ﯰﻳﻐﯘﺭ ﺗﯩﻠﻐﺎ ﭼﻪﺗﺘﯩﻦ ﻛﯩﺮﮔﻪﻥ ﺳﯘﺯﻟﻪﺭ ﻟﻮﻏﯩﺘﻰ.<br>18.ﯰﻳﻐﯘﺭﭼﻪ-ﺧﻪﻧﺰﯗﭼﻪ ﻟﻮﻏﻪﺕ.<br>19ﯬﺭﻟﻪﺭ ﺳﺎﻏﻼﻣﻠﯩﻘﻰ.<br>20.ﻧﻪﺳﯩﺮﺩﯨﻦ ﯬﭘﻪﻧﺪﻯ ﻫﻪﻗﻘﯩﺪﻩ ﻗﯩﺴﺴﻪ.<br>21.ﭼﺎﻏﺎﺗﺎﻱ ﺗﯩﻠﺪﯨﻦ ﻣﯘﭘﻪﺳﺴﻪﻝ ﺑﺎﻳﺎﻥ.<br>22.ﻛﯘﻛﯜﻳﯜﻥ ﺳﻪﺭﮔﻪﻧﺪﺍﻧﻠﯩﻘﺘﺎ.<br>23.ﺩﯗﻟﻪﺕ ﯞﻩ ﺭﺍﻳﯘﻧﻼﺭﻧﯩﯔ ﻛﯧﻠﯩﭗ ﭼﯩﻘﯩﺶ ﺗﺎﺭﯨﺨﻰ.<br>24.ﺑﻪﺭﺑﺎﺕ ﺑﻮﻟﻐﺎﻥ ﯬﻗﯩﺪﻩ.<br>25.ﯰﻣﯜﺭ ﺋﯩﻠﻬﺎﻣﻠﯩﺮﻯ.<br>26ﺑﯩﻜﻮﻥ ﻛﯩﺸﻠﯩﻚ ﻫﺎﻳﺎﺕ ﻫﻪﻗﻘﯩﺪﻩ.<br>27ﻣﯘﯕﻐﯘﻟﻼﺭﻧﯩﯔ ﻣﻪﺧﭙﯩﻲ ﺗﺎﺭﯨﺨﻰ.<br>28ﻗﻪﺩﯨﻤﻰ ﯰﻳﻐﯘﺭ ﻳﯧﺰﯨﻘﯩﺪﯨﻜﻰ ﯞﻩﺳﻘﯩﻠﻪﺭ.<br>29.ﺗﺎﯕﻼﺭ ﺑﯩﻠﻪﻥ ﺳﯘﺯﻟﯩﺸﯩﺶ.<br>30.ﻣﻪﯕﮕﯜﻟﯜﻙ ﻗﺎﻧﯘﻧﯩﻴﻪﺕ.<br>31.ﭘﺎﺭﯨﺲ ﻣﻪﻛﺘﯜﭘﻠﯩﺮﻯ.<br>32.ﻗﯘﺩﺩﯗﺱ ﻏﻮﺟﺎﻣﻴﺎﺭﯗ.<br>33.ﯬﺳﻪﺑﯩﻲ ﻫﯧﺴﻴﺎﺕ.<br>34.ﻟﻪﯞﺩﯨﻦ ﻗﻪﻟﯩﺒﻜﻪ.<br>35.ﯰﻳﻐﯘﺭ ﺧﻪﻟﯩﻖ ﭼﯘﭼﻪﻛﻠﯩﺮﻯ.<br>36.ﻗﻪﺩﯨﻤﻜﻰ ﺩﺍﭼﯩﺪﯨﻜﻰ ﻣﯘﻫﻪﺑﺒﻪﺕ.<br>37.ﭼﯧﻨﯩﻘﯩﺶ.<br>38.ﺋﺴﺘﯩﻨﺎ ﺧﺎﻧﯩﻤﻨﯩﯔ ﭘﻪﺭﺯﻩﺕ ﺗﻪﺭﺑﻴﺴﻰ.<br>39.ﺟﯘﯕﮕﯘﻟﯘﻗﻼﺭ ﺳﯩﻠﻪﺭ ﻧﯩﻤﯩﺸﻘﺎ ﯪﭼﭽﯩﻘﻼﻧﻤﺎﻳﺴﯩﻠﻪﺭ.<br>40.ﻛﯘﭼﺎ ﺧﻪﻟﯩﻖ ﻧﺎﺧﺸﯩﻠﯩﺮﻯ.<br>41.ﯬﺭﻩﭖ ﺗﯩﻠﻰ ﺋﯩﻠﯩﭙﻪﺳﻰ.<br>42.ﺧﯘﺩﺍﻟﯩﻖ ﯪﻟﻪﻡ.<br>43.ﺗﻮﻱ ﻛﯧﭽﯩﺴﯩﻨﻰ ﺳﯧﺘﯩﯟﺍﻟﻐﺎﻥ ﯪﺩﻩﻡ.<br>44.ﻳﯩﮕﺖ ﺩﯨﮕﻪﻥ ﺳﯘﻧﺪﺍﻕ ﺑﻮﻟﺴﺎ.<br>45.ﺋﯩﺰﻭﭖ ﻣﻪﺳﻪﻟﻠﯩﺮﻯ.<br>46.ﯰﻳﻐﯘﺭ ﺗﯩﻠﻨﯩﯔ ﺋﯩﺰﺍﻫﻠﯩﻖ ﻟﻮﻏﯩﺘﻰ.<br>47.ﯰﻳﻐﯘﺭﭼﻪ-ﺧﻪﻧﺰﯗﭼﻪ ﺩﻭﻧﻴﺎ ﺗﺎﺭﯨﺨﻰ ﻟﻮﻏﯩﺘﻰ.<br>48.ﯰﻳﻐﯘﺭﭼﻪ-ﺧﻪﻧﺰﯗﭼﻪ ﺩﯨﻦ ﻟﻮﻏﯩﺘﻰ.<br>49.ﺷﺎﻫﻨﺎﻣﻪ.<br>50ﺗﺎﻻﻧﻠﯩﻖ ﺑﺎﻟﯩﻼﺭﻧﻰ ﺗﻪﺭﺑﯩﻴﻠﻪﺷﻨﯩﯔ ﺳﯩﺮﻯ.<br>51.ﺩﺍﻧﯩﺸﻤﻪﻥ.<br>52.ﭘﯘﺗﺒﻮﻝ ﭼﻮﻟﭙﺎﻧﻠﯩﺮﻯ.<br>53.ﺗﻮﻏﺮﺍ ﺗﻪﭘﻪﻛﻜﯘﺭﻏﺎ ﺗﺎﻳﯩﻨﯩﭗ ﺋﯧﮕﯩﻠﯩﻚ ﺗﯩﻜﻠﻪﺵ.<br>54.ﺗﻪﭘﻪﻛﻜﯘﺭﻧﯩﯔ ﻗﯘﺩﺭﯨﺘﻰ.<br>55.ﺩﻭﻧﻴﺎﺩﯨﻜﻰ ﺩﯗﻟﻪﺗﻠﻪﺭﻧﯩﯔ ﺑﺎﻳﺮﯨﻘﻰ ﯞﻩ ﮔﯩﺮﯨﺒﻰ.<br>56.ﻫﯩﺴﺎﻡ.<br>57.ﻣﻪﻥ،13ﻳﺎﺵ،ﭘﺎﻫﯩﺸﻪ،ﺧﯩﺮﻭﺋﯩﻦ ﭼﻪﻛﻜﯜﭼﻰ.<br>58.ﯬﻣﻪﻟﯩﻲ ﻳﯧﺰﯨﻘﭽﯩﻠﯩﻖ ﻣﺎﻫﺎﺭﯨﯩﺘﻰ.<br>59.ﺗﯩﯖﯩﺮﻗﺎﺵ.<br>60.ﭘﯘﻟﻨﯩﯔ ﻗﯩﺴﻤﯩﺘﻰ.<br>62.ﯰﺯﯨﻨﻰ ﯞﻩ ﯰﺯﮔﯩﻨﻰ ﻗﯘﺗﻘﯘﺯﯗﺵ.<br>63.ﺩﯨﯖﻠﯩﯖﻼﺭ،ﻗﺎﯕﻘﯩﻠﻼﺭ،ﯞﻩ ﺗﯘﺭﺍﻻﺭ.<br>64.ﻳﯧﯖﻰ ﻧﯩﻜﺎﻫ ﻗﺎﻧﯘﻥ ﻗﻮﻟﻼﻧﻤﯩﺴﻰ.<br>65.ﺑﺎﻟﯩﻼﺭ ﺗﻪﻟﯩﻢ -ﺗﻪﺭﺑﯩﻴﻪﮔﻪ ﻣﯘﺧﺘﺎﺝ.<br>66.ﻛﺎﻻ-ﻗﻮﻱ ﺑﯧﻘﯩﺶ ﺑﻮﺭﺩﺍﺵ ﯬﻣﻪﻟﯩﻲ ﺗﯩﺨﻨﯩﻜﯩﺴﻰ.<br>67.ﺭﯨﻢ ﻛﯧﭽﯩﺴﻰ.<br>68.ﺗﯩﻞ-ﯬﺩﻩﺑﯩﻴﺎﻥ.<br>69.ﺩﺍﺋﯩﻢ ﺋﺸﻠﯩﺘﯩﻠﺪﯨﻐﺎﻥ ﯰﻳﻐﯘﺭ ﺗﯩﺒﺎﺑﻪﺕ ﻗﻮﻟﻼﻧﻤﯩﺴﻰ.<br>70.ﮔﯜﻟﻪﻣﺨﺎﻥ.<br>71.ﯪﻕ ﺑﯧﻠﯩﻖ.<br>72.ﯪﻕ ﻳﯧﻐﯩﻞ.<br>73.ﺩﯨﯫﺑﯩﺖ ﻛﯩﺴﻠﯩﻨﻰ ﺩﺍﯞﺍﻻﺵ.<br>74،ﺋﯩﻨﮕﻠﯩﺰﺗﯩﻠﻰ ﮔﯩﺮﺍﻣﻤﺎﺗﻜﯩﺴﯩﻨﯩﯔ ﻣﻪﺧﭙﯩﻴﯩﺘﻰ.<br>75.ﺋﯩﻨﮕﻠﯩﺰﺗﯩﻠﻰ ﺟﯜﻣﻠﯩﻨﯩﯔ ﻣﻪﺧﭙﯩﻴﯩﺘﻰ.<br>76.ﺯﻭﺯﯗﯕﺘﺎﯓ ﯞﻩ ﺷﯩﻨﺠﺎﯓ.<br>77.ﻣﯩﯟﻩ ﺑﯩﺰﻩﻛﻠﯩﺮﻯ.<br>78.ﯪﻳﺎﻟﻼﺭ ﺳﺎﻏﻼﻣﻠﯩﻘﻰ ﯞﻩ ﺟﯩﺴﯩﻴﻪﺕ.<br>79.ﻳﯩﻼﻧﻠﯩﻖ ﻗﻮﺭﯗﻕ.<br>80.ﻗﯩﺴﺎﺱ ﻏﯘﻧﭽﯩﺴﻰ.<br>81ﻗﺎﻧﺪﺍﻕ ﺗﻪﺭﺟﯩﻤﻪ ﻗﯩﻠﯩﺶ ﻛﯧﺮﻩﻙ.<br>82ﻗﻪﻟﺒﯩﻤﺪﯨﻜﻰ ﺯﻭﺭﺩﯗﻥ ﺳﺎﺑﯩﺮ.<br>83.ﺟﯘﯕﮕﯘﻧﯩﯔ ﺗﻪﻏﺪﯨﺮﯨﻨﻰ ﺑﻪﻟﮕﯩﻠﯩﮕﻪﻥ 28 ﻛﯜﻥ.<br>84.ﭘﯩﻠﺴﯩﺮﺍﺗﺘﯩﻦ ﯰﺗﻜﻪﻧﻠﻪﺭ.<br>85.ﻏﻪﺭﯨﭗ ﻣﻮﺩﯨﻨﯩﺰﯨﻢ ﯬﺩﻩﺑﯩﻴﺎﺗﻰ.<br>86.ﯪﺧﯩﺮﻗﻰ ﯰﺗﯜﻧﯜﺵ.<br>87.ﺟﺎﻧﺎﻥ ﻛﯩﻠﯩﺪﯗ.<br>88.ﻫﺎﺭﺍﻕ ﯞﻩ ﺳﺎﻻﻣﻪﺗﻠﯩﻚ.<br>89.ﯪﻧﺎ.<br>90.ﻛﯧﭽﯩﻨﯩﯔ ﻛﯘﺯﻯ.<br>91.ﺟﺎﻥ ﯮﺗﻰ.<br>92.ﺩﻭﻧﻴﺎ ﻣﻪﺳﻪﻟﻠﻪﺭ ﺟﻪﯞﻫﯩﺮﻯ.<br>93.ﺗﻪﻗﻠﯩﺪ ﺋﻤﺘﯩﻬﺎﻥ ﺳﯘﯪﻟﻠﯩﺮﻯ(ﺗﯘﻟﯘﻕ،ﺗﯘﻟﯘﻗﺴﯩﺰ ﯮﺗﺘﯘﺭﺍ ﻣﻪﻛﺘﻪﭘﻠﻪﺭ ﯴﭼﯜﻥ)<br>94.ﻣﯘﯞﺍﭘﭙﯩﻘﯩﻴﻪﺕ ﺑﯩﺮ ﺧﯩﻞ ﭘﻮﺯﯨﺘﺴﯩﻴﻪ.<br>95.ﯰﻳﻐﯘﺭﻻﺭﻧﯩﯔ ﺋﯩﻜﯩﻨﺰﺍﺭﻯ ﯞﻩ ﺋﯩﺠﺘﯩﻤﺎﺋﻰ ﺗﯜﺯﯛﻣﻰ.<br>96.ﻛﯩﺘﺎﺑﻰ ﯬﺑﻪﻳﺪﯗﻟﻼ.<br>97.ﺑﻮﺯ ﯬﺭ.<br>98.ﯮﺭﯗﺵ ﯞﻩ ﺗﯩﻨﯩﭽﻠﯩﻖ ﺳﻪﻧﺌﯩﺘﻰ.<br>99.ﻟﯩﺒﯩﻜﺎ ﻳﯧﯖﻰ ﻣﻪﻛﺘﻪﭘﺘﻪ.<br>100.ﯬﻧﻘﻪﺭﻩ ﻣﻪﻫﺒﯘﺳﻰ.<br>101.ﯬﭘﭙﯩﻴﯘﻧﮕﯜﻝ.<br>102.ﺷﯩﻨﺠﺎﯓ ﯰﺯﮔﯩﭽﻪ ﻗﻮﺭﯨﻤﯩﯩﻠﯩﺮﻯ.<br>103.ﯰﻳﻐﯘﺭ ﯰﺳﯘﻝ ﺳﻪﻧﺌﯩﺘﻰ.<br>104.ﺯﺍﻟﯩﻢ ﭘﺎﺩﯨﺸﺎﻫ.<br>105.ﻳﺎﺷﻠﯩﻖ ﭘﻪﻟﺴﻪﭘﯩﺴﻰ.<br>106.ﺟﻪﻧﯘﺑﻰ ﯪﻣﯩﺮﯨﻜﺎ ﭼﯘﭼﻪﻛﻠﯩﺮﻯ.<br>107.ﯬﺭﻣﻪﻥ ﭼﻮﭼﻪﻛﻠﯩﺮﻯ.<br>108.ﯴﺯﯗﻟﻤﻪﺱ ﻛﯜﻳﻠﻪﺭ.<br>109.ﻣﻪﺯﺯﯨﻠﯩﻚ ﺗﺎﯪﻣﻼﺭ.<br>110.ﺗﯘﺧﯘﻡ ﺗﺎﯪﻣﻠﯩﺮﻯ.<br>111.ﺩﯗﻓﯘ ﺗﺎﯪﻣﻠﯩﺮﻯ.<br>112.ﯬﻫﻤﻪﺩ ﺯﯨﻴﺎﺋﻰ.<br>113.ﯰﻟﯜﯞﯨﻠﯩﺶ ﺳﻪﻧﺌﯩﺘﻰ.<br>114.ﺗﯜﺭﻛﻰ ﺗﯩﻠﻼﺭ ﺩﯨﯟﺍﻧﯩﺪﯨﻜﻰ ﯬﺩﻩﺑﻰ ﻣﯩﺮﺍﺳﻼﺭ.<br>115.ﻗﻪﺷﻘﻪﺭﮔﻪ ﻗﺎﻳﺘﺎ ﺳﻪﭘﻪﺭ.<br>116.ﯪﯞﺍﺕ ﺷﻪﻫﻪﺭﻧﯩﯔ ﻳﯧﯖﻰ ﭘﯘﻗﺮﺍﺳﻰ.<br>117.ﯰﻳﻐﯘﺭ ﭘﻪﻟﺴﯩﻪﭘﻪ ﺗﺎﺭﯨﺨﻰ.<br>118.ﺟﻪﯕﮕﺎﻫ ﺧﺎﺗﯩﺮﺳﻰ.<br>119.ﻗﻪﺩﯨﻤﻜﻰ ﯰﻳﻐﯘﺭﻻﺭ.<br>120.ﺭﯨﻬﯩﻤﺸﺎﻫ ﭘﺎﻟﯟﺍﻥ.<br>121.ﺑﺎﻟﯩﻼﺭﻧﯩﯔ ﺗﻪﻏﺪﯨﺮﯨﻨﻰ ﺑﻪﻟﮕﯩﻠﻪﻳﺪﯨﻐﺎﻥ 8 ﺧﯩﻞ ﺋﯩﻘﺘﯩﺪﺍﺭ.<br>122.ﻗﯩﺰ ﭘﻪﺳﻠﻰ.<br>123.ﺋﯩﺪﯨﻘﯘﺕ ﯰﻳﻐﯘﺭ ﻣﻪﺩﻩﻧﯩﻴﯩﺘﻰ.<br>124.ﻧﻪﭘﯩﺲ ﺑﺎﻻ.<br>125.ﯰﺭﯗﺵ ﯮﺗﻰ ﺋﯩﭽﯩﺪﯨﻜﻰ ﻳﺎﺷﻠﯩﻖ.<br>126.ﻏﯩﻼﭖ ﺑﻪﻧﺪﯨﺴﻰ.<br>127.ﯬﻟﺸﯩﺮ ﻧﺎﯞﺍﺋﻰ.<br>128.ﻛﯘﯕﯜﻝ ﻛﯘﺯﻯ.<br>129.ﺧﻪﺯﯨﻨﻪ.<br>130.ﻗﻮﺭﻗﯘﻧﭽﺎﻕ.<br>131.ﻣﯘﺳﺎﭘﯩﺮﻻﺭ ﻗﺎﯞﯨﻘﯩﺪﺍ.<br>132.ﺋﯩﻜﻜﻰ ﺷﻪﻫﻪﺭ ﻫﻪﻗﻘﯩﺪﻩ ﻗﯩﺴﺴﻪ.<br>133.ﯪﺑﺎﻳﻨﯩﯔ ﻫﯧﻜﻤﻪﺗﻠﯩﺮﻯ.<br>134.ﻣﻪﺷﻬﯘﺭ ﺯﺍﺗﻼﺭﻧﯩﯔ ﻧﻮﺗﯘﻗﻠﯩﺮﻯ.<br>135.ﯪﻳﺴﯩﺰ ﻛﯧﭽﻪ.<br>136.ﻣﻪﻫﻤﯘﺩ ﻗﻪﺷﻘﯩﺮﻯ.<br>137.ﯬﺭﻟﻪﺭ ﺳﺎﻏﻼﻣﻠﯩﻘﻰ ﯞﻩ ﺟﯩﻨﺴﯩﻴﻪﺕ.<br>138.ﺩﺍﻧﯘﺭ ﺗﺎﻏﺎ.<br>139.ﺗﺎﯓ ﯪﻟﺪﯨﺪﺍ ﺗﯘﻏﯘﻟﻐﺎﻧﻼﺭ.<br>140.ﻛﺎﻛﻜﯘﻙ ﺑﺎﻟﯩﺴﻰ.<br>141.ﻫﺎﻳﺎﺕ.<br>142.ﻗﺎﺭﺍ ﺋﯧﻘﯩﻦ.<br>143.ﻣﻪﻫﺒﯘﺱ.<br>144.ﺗﯘﻧﺠﻰ ﯪﺧﺸﺎﻡ.<br>145.ﺑﯘﻟﺒﯘﻟﻨﺎﻣﻪ.<br>146.ﺗﯩﺠﺎﺭﻩﺗﭽﯩﻠﻪﺭ ﻗﻮﻟﻼﻧﻤﯩﺴﻰ.<br>147.ﺟﺎﻣﯩﯱﻝ ﻫﯩﻜﺎﻳﻪ.<br>148.ﻳﺎﺭﻻﻧﻐﺎﻥ ﻳﯜﺭﻩﻙ.<br>149.ﻗﯩﺰﯨﻞ ﯪﺳﻤﺎﻥ.<br>150.ﻣﺎﻻﻱ ﺗﻪﻟﯟﯨﺴﻰ.<br>151.ﻣﯘﯕﻼﻧﻐﺎﻥ ﻛﯘﯕﯜﻝ.<br>152.ﺟﯘﯕﮕﯘﻟﯘﻗﻼﺭ.<br>153.ﯴﮔﯩﻨﯩﺶ ﺋﯩﻨﻘﯩﻼﺑﻰ.<br>154.ﯪﻳﺎﻟﻼﺭ ﺋﯩﺴﺘﯩﻼﺳﻰ.<br>155.ﺋﯩﻨﮕﯩﻠﯩﺰﺗﯩﻠﯩﺪﯨﻦ ﯬﻣﻪﻟﯩﻲ ﻣﻪﺷﯩﻖ ﯞﻩ ﻣﯩﺴﺎﻟﻼﺭ.<br>156.ﻗﻪﺩﻩﻣﻜﻰ ﯰﻳﻐﯘﺭ ﻣﻪﺩﻩﻧﯩﻴﯩﺘﻰ.<br>157.ﺗﯘﺭﯗﻙ ﺭﻭﻧﯩﻚ ﻳﯧﺰﯨﻘﯩﺪﯨﻜﻰ ﯪﺑﯩﺪﯨﻠﻪﺭ.<br>158. ﺭﻭﻫﻰ ﻛﯧﺴﯩﻪﻝ ﻫﻪﻗﻘﯩﺪﻩ ﺳﺎﯞﺍﺕ.<br>159.ﯰﺗﻜﻪﻥ ﻛﯜﻧﻠﻪﺭ.<br>160.ﻗﯩﺰﯨﻘﺎﺭﻟﯩﻖ ﺳﯘﯪﻟﻼﺭ.<br>161.ﺭﻭﺳﻼﺭ ﺑﺎﻟﯩﻼﺭﻧﻰ ﻗﺎﻧﺪﺍﻕ ﺗﻪﺭﺑﯩﻴﻠﻪﻳﺪﯗ.<br>162.ﺑﯜﻳﯜﻛﻠﯜﻙ ﺩﻩﺳﺘﯘﺭﻯ.<br>163.ﺋﯩﺸﻘﯩﻲ ﻣﯘﻫﻪﺑﺒﻪﺕ ﭘﻪﻟﺴﻪﭘﯩﺴﻰ.<br>164.ﻟﯘﺳﯘﻥ ﻓﯩﻠﻴﻪﺗﻮﻧﻠﯩﺮﻯ.<br>165.ﺗﯧﺰ ﺳﺎﯞﺍﺕ ﭼﯧﻘﯩﺮﯨﺲ.<br>166.ﻏﺎﻳﯩﭗ ﺑﯘﻟﻐﺎﻥ ﻗﯩﺰ.<br>167.ﺋﺴﻼﻡ ﻣﺎﯪﺭﯨﭙﻰ ﯞﻩ ﺋﯩﻠﯩﻢ ﭘﻪﻥ.<br>168.ﺧﻪﻧﺰﯗﭼﻪ ﺗﯩﺰ ﺳﯘﺯﻟﯩﺸﯩﺶ.ﺗﯩﺰ ﯰﮔﯩﻨﯩﺶ.<br>169.ﭘﻪﺭﺯﻩﺗﻠﻪﺭﺩﻩ ﯬﻣﯩﻠﯩﻲ ﺋﻘﺘﯩﺪﺍﺭ ﻳﯩﺘﯩﺸﺘﯜﺭﯛﺵ.<br>170.ﯰﻳﻐﯘﺭﭼﻪ -ﺧﻪﻧﺰﯗﭼﻪ ﻛﻮﻣﭙﯩﻴﻮﺗﯩﺮ ﻟﻮﻏﯩﺘﻰ.<br>171.ﺋﯩﻨﮕﻠﯩﺰ ﺗﯩﻠﻰ ﮔﯩﺮﺍﻣﻤﺎﺗﻜﯩﺴﻰ.<br>172..ﺑﻪﺧﯩﺘﻠﯩﻚ ﻛﯜﻥ ﻣﻪﺟﻤﯘﯬﺳﻰ.<br>173.ﮔﯩﺘﺘﺎﺭ ﯰﮔﯩﻨﯩﺶ ﻗﻮﻟﻼﻧﻤﯩﺴﻰ.<br>174.ﺯﯨﻤﯩﻦ ﻣﯩﻨﻰ ﻛﻪﭼﯜﺭﮔﯩﻦ.<br>175.ﻟﯩﯟﯨﺮﻧﯩﯔ ﭼﯩﻐﻠﯩﺮﻯ.<br>176.ﺳﻪﻫﺮﺍﻫﻰ ﻛﻪﺑﯩﺮﺩﯨﻜﻰ ﯰﺳﯘﻟﭽﻰ ﻗﯩﺰ.<br>177.ﺑﻮﯞﺍﻗﻼﺭﻧﻰ ﺑﯧﻘﯩﺶ ﻗﻮﻟﻼﻧﻤﯩﺴﻰ،<br>178.ﻓﯩﺮﺍﻧﺴﻮﺯﻻﺭ ﺑﺎﻟﯩﻼﺭﻧﻰ ﻗﺎﻧﺪﺍﻕ ﺗﻪﺭﺑﯩﻴﻠﻪﻳﺪﯗ؟<br>179.ﺋﻨﮕﯩﻠﯩﺰﻻﺭ ﺑﺎﻟﯩﻼﺭﻧﻰ ﻗﺎﻧﺪﺍﻕ ﺗﻪﺭﺑﯩﻴﻠﻪﻳﺪﯗ؟<br>180.ﻳﯩﮕﺎﻧﻪ ﯪﺭﺍﻝ.<br>181.ﺑﺎﻳﺎﯞﺍﻧﻨﯩﯔ ﺳﯩﺮﻯ. <br>ozhal<br><br>ﻗﯜﻟﯜﻣﺪﻛﻰ ﺑﯜ ﻛﯩﺘﺎﭘﻼﻧﯩﯔ ﺑﺎﻫﺎﺳﻰ ﯬﺳﻠﻰ ﺑﺎﻫﺎﺩﺍ ﺑﻮﻟﺴﯩﻤﯜ ﻳﻪﻧﻪ ﻗﻮﻟﯜﻣﺪﺍ ﺑﺎﺭﻟﯩﺮﯨﻨﻰ ﭼﯩﻘﯩﺮﯨﭗ ﻗﻮﻳﯜﺵ ﻗﺎﺭﺍﺭﯨﻐﺎ ﻛﻪﻟﺪﯨﻢ. ﺑﯜ ﻳﯩﯖﻰ ﻛﯩﺘﺎﭘﻼﺭ ﺑﺎﻫﺎﺳﻰ ﭼﯜﺷﯜﺭﯛﻟﻤﻪﻳﺪﯛ ﻳﺎﻛﻰ ﯬﯓ ﻛﯜﭖ ﺑﻮﻟﻐﺎﻧﺪﺍ 10 ﭘﯩﺮﺳﻪﻧﯩﺖ ﺋﯩﺘﯩﯟﺍﺭ ﺑﺎﻫﺎﺩﺍ ﺳﯩﺘﻠﯩﺪﯛ ﺋﯩﻬﺘﯩﻴﺎﺟﻰ ﺑﺎﺭﻻﺭ ﻣﻪﻥ ﺑﯩﻠﻪﻥ ﯪﻻﻗﻼﺷﺴﺎﯕﻼﺭ ﻣﻪﻥ ﺗﯜﺭﻟﯜﻙ ﻳﻮﻟﺪﺍ ﻳﯜﺗﻜﯜﺯﯛﭖ ﺑﯩﺮﯨﺸﻜﻪ ﺗﯩﺮﯨﺸﻤﻪﻥ <br><br>ﻫﯚﺭﻣﻪﺕ ﺑﯩﻠﻪﻥ ﯲﺯ ﻫﺎﻝ <br>1- ﺗﻮﻗﻘﯜﺯ ﻗﻪﯞﻩﺗﻠﯩﻚ ﻣﯜﻧﺎﺭﻧﯩﯔ ﺳﯩﺮﻯ ﺑﺎﻫﺎﺳﻰ - 22 ﺳﻮﻡ <br>2- ﻫﯜﻛﯜﻣﺪﺍﺭﻻﺭ ﺩﻩﺳﺘﯜﺭﻯ 12 <br>3- ﻗﯩﻴﺎﺩﯨﻜﻰ ﯮﯞﭼﯩﻨﯩﯔ ﯪﻫﯜ ﺯﺍﺭﻯ-24 <br>4- ﻫﻪﻣﻤﻪ ﻧﯩﻤﯩﺴﯩﺪﯨﻦ ﻣﻪﻫﺮﯛﻡ ﺑﻮﻟﻐﺎﻥ ﯪﻳﺎﻝ 15.7 <br>5- ﻛﯜﺯﯛﻡ ﯴﭺ ﻛﯜﻧﻼ ﺋﯩﭽﯩﻠﺴﺎ ﺋﯩﺪﻯ-22 <br>6- ﯪﯞﺭﺍﻝ ﺷﺎﻣﺎﻟﻠﯩﺮﻯ 20 <br>7- ﻫﻪﺭ ﻛﺎﻟﻠﯩﺪﺍ ﻫﻪﺭ ﺧﻴﺎﻝ 17.8 <br>8- ﯬﺩﻩﭘﻨﺎﻣﻪ -12 <br>9- ﻛﯚﯞﺭﯛﻛﺘﻪ ﻗﺎﻟﻐﺎﻥ ﭼﯜﺵ 1- 20 ﻗﯩﺴﯩﻢ 19 <br>10- ﯲﻛﺴﯜﺵ 10 <br>11- ﯴﻳﻐﯜﺭ ﭘﻪﻟﺴﻪﭘﻪ ﺗﺎﺭﯨﺨﻰ 18.5 <br>12- ﯴﻳﻐﯜﺭ ﺗﯩﺒﺎﺑﯩﺘﯩﺪﻩ ﯴﺯﯛﻗﻠﯜﻕ ﺑﯩﻠﻪﻥ ﺩﺍﯞﺍﻻﺵ 9 <br>13- ﯲﻣﻪﺭ ﻫﻪﻳﻴﺎﻡ ﺭﯛﺑﺎﺋﯩﻠﯩﺮﻯ 10 ﺳﻮﻡ <br>14- ﻫﯩﺴﺎﻡ ﻫﻪﻗﯩﺪﻩ ﻗﯧﯩﺴﺴﻪ 22 <br>15- ﻛﯜﺯﮔﻪ ﯪﻳﻼﻧﻐﺎﻥ ﻛﯜﯕﯜﻝ 28 <br>16- ﺳﻪﯞﺩﺍﻳﯩﻼﺭ ﺷﻪﻫﺮﻯ 10 <br>17- ﺑﯜﻳﯜﻛﻠﯜﻙ ﺩﻩﺳﺘﯜﺭﻯ 16 <br>18- ﯲﺯﯨﻨﻰ ﺋﯩﺰﺩﻩﺵ ﺑﻮﺳﯜﻏﯩﺴﯩﺪﺍ 30 <br>19 - ﺗﺎﻻﻧﯩﺘﻠﯩﻖ ﺑﺎﻟﻼﺭ ﻣﯜﻧﺪﺍﻕ ﺗﻪﺭﺑﯩﻴﻠﻨﯩﺪﯛ 20 <br>20- ﻳﺎﺭ ﺳﻮﯞﻏﯩﺴﻰ 14 <br>21- ﺟﺎﭘﺎ ﭼﻪﻛﻜﻪﻧﻠﻪﺭﻧﯩﯔ ﻣﻪﻳﯜﺳﻠﻨﯩﺸﻜﻪ ﻫﻪﻗﻘﻰ ﻳﻮﻕ 16 <br>22- ﻛﯩﭽﻨﯩﯔ ﻛﯚﺯﻯ 18 <br>23- ﯪﺋﯩﻠﻪ 11 <br>24- ﭼﻮﯕﻼﺭﻧﯩﯔ ﺩﻩﺭﺩﻯ ﻗﺎﭼﺎﻥ ﺗﯚﮔﻪﻳﺪﯛ 18 <br>25- ﯬﺭﻟﻪﺭ ﺳﺎﻏﻼﻣﻠﯩﻐﻰ 15 <br>26- ﺗﻮﻏﺮﺍ ﺗﻪﭘﻪﻛﻜﯜﺭﻏﺎ ﺗﺎﻳﯩﻨﯩﭗ ﺋﯩﮕﯩﻠﯩﻚ ﺗﯩﻜﻠﻪﺵ 18.8 <br>27 ﺗﻪﭘﻪﻛﻜﯜﺭﻧﯩﯔ ﻗﯜﺩﺭﯨﺘﻰ 18.8 <br>28- ﭘﻮﭼﯩﻠﯩﻘﻘﺎ ﻧﻮﺑﯩﻞ ﻣﯜﻛﺎﭘﺎﺗﻰ ﺑﺎﺭﻣﯜ 15 <br>29- ﻛﯜﭼﺎ ﺧﻪﻟﯩﻖ ﻧﺎﺧﺸﯩﻠﯩﺮﻯ 15 <br>30- ﻳﯜﺯ ﻛﯧﺴﻪﻟﮕﻪ ﻣﯩﯔ ﺭﯨﺘﺴﯩﭗ 16 <br>31- ﺩﯨﯟﺍﻥ ﻣﻪﺷﺮﻩﭘﻜﻪ ﺗﯜﻛﯜﻟﮕﻪﻥ ﻗﺎﻥ 14 <br>32 - ﯴﻣﯜﺭ ﻣﻪﻧﺰﯨﻠﻠﯩﺮﻯ 15 <br>33- ﯴﻳﻐﯜﺭ ﺗﯩﺒﺎﺑﯩﺘﯩﺪﻩ ﻛﯚﺯ ﯬﺗﯩﺮﺍﭘﯩﺪﯨﻜﻰ ﻗﻮﺭﯛﻗﻨﻰ ﻳﻮﻗﯜﺗﯜﺵ. 10<br>34- ﯪﺋﯩﻠﺪﯨﻜﻰ ﺭﯨﺘﯧﯩﺴﭙﻼﺭ 17 <br>35- ﻻﻟﻪ 15 <br>36 - ﺗﺎﺷﻘﺎ ﯪﻳﻼﻧﻐﺎﻥ ﻛﯜﺯ ﻳﯩﺸﻰ 13.5 <br>37- ﯬﺗﯩﺮﺍﭘﯩﻤﯩﺰﺩﯨﻜﻰ ﺷﯩﭙﺎﻻﺭ ﺑﯩﺮ ﻳﯜﺭﯛﺵ ﯴﭺ ﻗﯧﺴﯩﻢ 36 <br>38 - ﻗﻪﺷﻘﻪﺭﺩﯨﻜﻰ ﻳﻪﺭ ﺷﺎﺭﻯ 22 <br>39- ﯮﻏﻠﯜﻣﻐﺎ ﻳﯩﺰﻟﻐﺎﻥ ﺧﻪﺕ 9 <br>40 - ﺟﺎﻥ ﯮﺗﻰ 8 <br>41- ﯪﺗﺎ ﺑﯩﺮ ﺗﯜﭖ ﺳﯚﻳﮕﯜ ﺩﻩﺭﯨﺨﻰ ﺑﯩﺮ ﻳﯜﺭﯛﺵ ﯴﭺ ﻗﯧﯩﺴﯩﻢ 60 ﺳﻮﻡ <br>42 ﺩﻩﻫﺸﻪﺗﻠﯩﻚ ﺗﯩﻬﺮﺍﻥ 28 <br>43- ﻣﯜﯞﺍﭘﯩﻘﻴﻪﺕ ﺑﯩﺮ ﺧﯩﻞ ﭘﻮﺯﯨﺘﺴﯩﻴﻪ 10 <br>44- ﺷﯩﻨﻘﺎﯓ ﻳﯩﻘﯩﻨﻘﻰ ﺯﺍﻣﺎﻥ ﺗﺎﺭﯨﺨﺪﯨﻜﻰ ﻣﻪﺷﻬﯜﺭ ﺷﻪﺧﺴﻠﻪﺭ 28 <br>45- ﯴﻳﻐﯜﺭ ﺗﯩﺒﺎﯨﺒﯩﺘﺪﻩ ﻫﯚﺳﯩﻦ ﮔﯜﺯﻩﻟﻠﻪﺷﺘﯜﺭﯛﺵ 12<br>46- ﺑﻪﺵ ﻳﯜﻟﺘﯜﺯﻟﯜﻕ ﺷﻪﺧﺴﻠﻪﺭﺩﯨﻦ ﺑﯜﻻﻳﻠﻰ 15 <br>47- ﺗﺎﻻﻧﯩﺘﻠﯩﻖ ﺑﺎﻟﻼﺭﻧﻰ ﺗﻪﺭﺑﯩﻴﻠﻪﺷﻨﯩﯔ ﺳﯩﺮﻯ 2 ﻗﯧﯩﺴﯩﻢ 44 ﺳﻮﻡ <br>48- ﺳﻮﻏﺎﺕ 16 <br>49 - ﯪﯞﺍﺕ ﺷﻪﻫﻪﺭﻧﯩﯔ ﻳﯩﯖﻰ ﭘﯜﺧﯩﺮﺍﺳﻰ 19.8 <br>50 - ﻳﺎﺷﻼﺭ ﺳﻪﻣﯩﮕﻪ 2 ﻗﯩﯧﺴﯩﻢ 24 2<br>51- ﯪﺭﺗﯩﺒﺎﻟﯩﻖ ﻫﻪﻗﻘﯩﺪﻩ ﻗﯩﯧﺴﺴﻪ 18 <br>52 - ﺷﻪﺟﻪﺭﯨﺌﻰ ﺗﯜﺭﯨﻚ 15 <br>53- ﭼﻮﯕﻼﺭﻧﯩﯔ ﺩﻩﺭﺩﻯ ﻗﺎﭼﺎﻥ ﺗﯜﮔﻪﻳﺪﯛ 18 <br>54- ﻗﺎﺑﺎﻫﻪﺗﻠﯩﻚ ﻗﯩﯧﺴﻤﻪﺗﻠﻪﺭ 14.8 <br>55 - ﺑﺎﺵ ﯬﮔﯩﻤﺪﯨﻜﻰ ﺭﯨﯟﺍﻳﻪﺕ 15.4 <br>56- ﺑﺎﺑﯜﻧﺎﻣﻪ 30 <br>57- ﯞﯨﻨﺎﺳﭽﻪ ﺋﯩﺴﺘﯩﮕﯩﺮﺍﺗﯩﻴﻪ 13 <br>58- ﺑﯜﺭﻛﯜﺕ ﺳﺎﻳﯩﺴﻰ 15 <br>59 - ﯴﺭﯛﻗﻼﺵ ﺟﯩﯖﻰ 19.8 <br>60 -ﺑﻮﯞﺍﻡ ﺷﯜﻧﺪﺍﻕ ﯴﮔﻪﺗﻜﻪﻥ 8<br>61 - ﺗﻮﻱ ﻛﯩﯟﯨﺴﯩﻨﻰ ﺳﯩﺘﯩﯟﺍﻟﻐﺎﻥ ﯪﺩﻩﻡ <br>62- ﻣﻪﺩﻩﻧﻴﻪﺗﻠﻪﺭ ﺗﻮﻗﯜﻧﯜﺷﻰ 25 <br>63 - ﺧﻪﻟﯩﻖ ﺋﯩﻐﯩﺰ ﯬﺩﻩﺑﯩﻴﺎﺗﯩﺪﯨﻦ ﯮﻣﯜﻣﻰ ﺑﺎﻳﺎﻥ 25 <br>64 - ﭼﻪﺗﯭﻟﻠﻪﺭﺩﯨﻜﻰ ﺗﯩﻠﺸﯜﻧﺎﺳﻠﯩﻖ ﯞﻩ ﯴﻳﻐﯜﺭ ﺗﯩﻠﻰ ﺗﻪﺗﻘﯩﻘﺎﺗﻰ 30 <br>65 ﻓﺎﺭﺍﺑﻰ ﯞﻩ ﯴﻧﯩﯔ ﭘﻪﻟﺴﻪﭘﻪ ﺳﯩﺴﯧﯩﺘﻤﯩﺴﻰ 26 <br>66- ﺗﯜﺭﯨﻚ ﺗﺎﺭﯨﺨﻰ 30 <br>67 - ﺗﻪﯕﯩﺮﯨﺘﺎﻍ ﺋﯩﻜﯩﺮﺍﻧﺪﯨﻜﻰ ﭼﻮﻟﭙﺎﻧﻼﺭ 20 <br>68- ﭼﺎﻏﺎﺗﺎﻱ ﯴﻳﻐﯜﺭ ﺗﯩﻠﻰ ﻫﻪﻗﻘﯩﺪﻩ ﻣﯜﭘﻪﺳﺴﻪﻝ ﺑﺎﻳﺎﻥ 25 <br>69- ﺑﺎﻟﺪﯛﺭﻗﯩﻐﺎ ﯮﺧﺸﯩﻤﺎﺱ 8 <br>70- ﯬﻗﯩﻞ ﭘﺎﺭﺍﺳﻪﺕ ﯬﻧﮕﯜﺷﺘﯩﺮﻯ ﺑﯩﺮ ﻳﯜﺭﯛﺵ ﺗﯚﺕ ﻗﯩﯧﯩﺴﻢ 40 <br>71- ﻣﯜﻫﻪﺑﺒﻪﺕ ﻛﺎﺭﯨﺪﯛﺭﻯ 13 <br>72 - ﯮﺕ ﻛﻪﺗﻜﻪﻥ ﺩﻩﺭﻳﺎ 14 <br>73- ﻏﻪﺭﯨﭗ ﻣﯜﺩﯨﺮﻧﯩﺰﯨﻢ ﺋﯩﻘﯩﻤﻠﯩﺮﻯ 25 <br>74 ﯮﻗﯜﺗﻘﯜﭼﯟﯨﻼﺭ ﺑﯩﻠﻪﻥ ﺳﯚﻫﺒﻪﺕ 20 <br>75 - ﻗﯜﺗﺎﺗﻐﯜﺑﯩﻠﯩﻚ ﺧﻪﺯﯨﻨﯩﺴﻰ 22.5 <br>76- ﺳﻪﺭﺧﯜﺵ ﺋﯩﻨﮕﻠﯩﺰ ﺗﯩﻠﻰ 4 ﻗﯧﺴﯩﻢ 78 <br>77- ﻗﯩﺮﯨﺸﻨﻰ ﻛﭽﯩﻜﺘﯜﺭﮔﯜﭼﻰ ﻳﯩﻤﻪﻛﻠﯩﻜﻠﻪﺭ 7.8 <br>78 - ﭘﻪﺭﻫﯩﺰﯨﺴﺰ ﯮﺭﯛﻗﻼﺵ 5.8 <br>79- ﯴﻳﻐﯜﺭ ﺗﯩﺒﺎﺑﯩﺘﯩﺪﻩ ﺗﯩﺮﻩ ﻛﺴﻪﻟﯩﻜﻨﻰ ﺩﺍﯞﺍﻻﺵ 9.5 <br>80- ﯴﯞﻻﭖ ﻛﯧﺴﻪﻝ ﺩﺍﯞﺍﻻﺵ 16 <br>81- ﻣﻪﺩﻩﻧﻠﻪﺭﻧﯩﯔ ﺷﯩﭙﺎﻟﯩﻖ ﺭﻭﻟﻰ 12<br>82- ﺭﻭﻫﻰ ﻛﯧﺴﻪﻟﻠﯩﻜﻠﻪﺭ ﻫﻪﻗﻘﯩﺪﻩ ﺳﺎﯞﺍﺕ <br>83- ﺳﯜﯕﻪﻙ ﻛﯧﺴﻪﻟﻠﯩﻜﻠﯩﺮﻯ ﯞﻩ ﺳﯜﻧﯜﻕ ﻫﻪﻗﻘﯩﺪﻩ ﺳﯜﯪﻝ ﺟﺎﯞﺍﭘﻼﺭ 9.8 <br>84- ﺭﻭﻫﻰ ﻛﻪﻳﭙﯩﻴﺎﺕ ﯞﻩ ﺳﺎﻻﻣﻪﺗﻠﯩﻚ 6 <br>85- ﮔﯜﻝ ﭼﯩﭽﻪﻙ ﺗﯜﺭﯨﺪﯨﻜﻰ ﯴﺳﯜﻣﻠﯜﻛﻠﻪﺭﻧﯩﯔ ﺷﯩﭙﺎﻟﯩﻖ ﺭﻭﻟﻰ 4.10 <br>86- ﯴﺯﯛﻗﻠﯜﻕ ﯞﻩ ﺳﺎﻻﻣﻪﺗﻠﯩﻚ 7.5 <br>87- ﻳﯩﯖﻰ ﺗﻮﻱ ﻗﯩﻠﻐﺎﻧﻼﺭ ﯴﭼﯘﻥ ﯮﻗﯜﺷﻠﯜﻕ 5.2 <br>88- ﺧﻪﻧﺰﯛﭼﻪ ﺳﯚﺯﻟﺸﺸﯩﻨﻰ ﺗﯩﺰ ﯴﮔﯜﻧﯜﺵ 7.5 <br>89 - ﺧﻪﻧﺰﯛﭼﻪ ﺳﯚﺯﻟﺸﺸﯩﻨﻰ ﺗﯩﺰ ﯴﮔﯜﻧﯜﺵ 6<br>90- ﺧﻪﻧﺰﯛﭼﻪ. ﺋﯩﻨﮕﯩﻠﯩﺰﭼﻪ . ﯴﻳﻐﯜﺭﭼﻪ ﺭﻩﺳﯩﻤﻠﯩﻚ ﻟﻮﻏﻪﺕ 6<br>91- ﭘﯜﺭﺳﻪﺗﻨﻰ ﭼﯩﯔ ﺗﯜﺗﺸﻨﯩﯔ ﺳﯩﺮﻯ 6 <br>92- ﺩﯨﯫﺑﯩﺖ ﻛﯩﺴﯩﻠﯩﻨﯩﯔ ﯪﻟﺪﯨﻨﻰ ﺋﯩﻠﯩﺶ ﯞﻩ ﺩﺍﯞﺍﻻﺵ 38 <br>93- ﻣﯜﺳﯜﻟﻤﺎﻧﻼﺭ ﺩﯛﻧﻴﺎﺳﻰ 19 <br>94- ﺧﻪﻧﺰﯛﭼﻪ ﯴﻳﻐﯜﺭﭼﻪ ﻛﯜﭖ ﺋﯩﻘﺘﯩﺪﺍﺭﻟﯩﻖ ﻟﻮﻏﻪﺕ <br>95- ﺗﻮﻟﯜﻕ ﯮﺗﺘﯜﺭﺍ ﻣﻪﻛﺘﻪﭖ ﻗﯧﺴﯩﻤﻰ 25 <br>96- ﺗﻮﻟﯜﻗﺴﯩﺰ ﯮﺗﺘﯜﺭﺍ ﻣﻪﻛﺘﻪﭘﻠﻪﺭ ﯴﭼﻦ ﻛﯜﻧﯜﻛﻤﻪ ﻣﯜﻻﻫﯩﺰﯨﺴﻰ 16 ﺗﯩﻞ ﯬﺩﻩﺑﯩﻴﺎﺕ <br>97- ﻗﯩﺰﯨﻤﻨﯩﯔ ﻛﯜﻧﺪﯨﻠﯩﻚ ﺧﺎﺗﯩﺮﯨﺴﻰ 4.1<br>98- ﭘﯩﺘﻮﻓﻰ ﺷﯧﺌﯩﺮﻟﯩﺮﻯ 7.5 <br>99- ﻣﯜﯬﻟﻠﻤﻨﯩﯔ ﺋﯩﺰﻯ 4.3<br>100- ﺑﺎﻟﻼﺭ ﺳﯩﻬﺮﮔﻪﺭﻟﯩﮕﻰ 2 ﻗﯧﺴﯩﻢ 12<br>101- ﻫﺎﻳﺎﺕ ﻟﯩﺮﯨﻜﯩﺮﻯ 12 <br>102- ﻛﻮﻣﭙﻴﯜﺗﯩﺮ ﺋﯩﻨﮕﻠﯩﺰ ﺗﯩﻠﻰ 12.5 <br>103 ﺭﯛﺳﭽﻪ ﯴﻳﻐﯜﺭﭼﻪ ﺳﻮﺩﺍ ﺳﺎﻳﺎﻫﻪﺕ ﻗﻮﻟﻼﻧﻤﺴﻰ5 <br>104- ﺋﯩﻨﮕﯩﻠﯩﺰﭼﻪ ﯴﻳﻐﯜﺭﭼﻪ ﺧﻪﻧﺰﯛﭼﻪ ﺩﯦﺴﻨﻰ ﺑﺎﻟﻼﺭ ﻟﻮﻏﯩﺘﻰ 44 <br>105- ﺧﻪﻧﺰﯛﭼﻪ ﯴﻳﻐﯜﺭﭼﻪ ﺟﯜﻣﻠﻪ ﺗﯜﺯﯛﺵ ﻗﻮﻟﻼﻧﻤﯩﺴﻰ 18 <br>106- ﯬﺩﻩﺑﯩﻴﺎﺕ ﻛﻪﺳﭙﻰ ﺧﻪﻧﺰﯛ ﺗﯩﻠﻰ <br>107 - ﻳﯜﺭﻩﻛﺘﺎﻍ 18 <br>108 - ﺯﯨﻤﯩﻦ ﻣﯜﻫﻪﺑﺒﯩﺘﻰ 19 <br>109 - ﯬﻣﻪﻟﻰ ﻗﻮﻟﻠﻨﯩﺪﯨﻐﺎﻥ ﯴﻳﻐﯜﺭﭼﻪ ﺋﯩﻨﮕﻠﯩﺰﭼﻪ ﺳﺎﻳﺎﻫﻪﺕ ﻗﻮﻟﻼﻧﻤﯩﺴﻰ 8.5 <br>110- ﺭﻩﻳﻬﺎﻧﻨﯩﯔ ﺳﻪﺭﮔﯜﺯﻩﺷﺘﯩﺴﻰ 21<br>112- ﺧﻪﻧﺰﯛﭼﻪ ﺭﯛﺳﭽﻪ ﯴﻳﻐﯜﺭﭼﻪ ﺗﯜﺭﯨﻜﭽﻪ ﺳﯚﺯﻟﺸﺸﻰ ﻗﻮﻟﻼﻧﻤﯩﺴﻰ 12<br>113- ﺧﻪﻧﺰﯛﭼﻪ ﯴﻳﻐﯜﺭﭼﻪ ﯪﺗﺎﻟﻐﯜﻻﺭﺗﺎﺭﯨﺦ ﺳﯩﻠﯩﺸﺘﯜﺭﻣﯩﺴﻰ 56 <br>114- ﯮﺗﺘﯜﺭﺍ ﺩﻩﺭﯨﺠﯩﻠﯩﻚ ﺧﻪﺯﯛﭼﻪ ﺳﻪﯞﯨﻴﻪ ﺳﯩﻨﺎﺵ ﺋﯩﻤﺘﯩﻬﺎﻧﻰ ﺑﯩﺮ ﻳﯜﺭﯛﺵ 30 <br>115- ﺧﻪﺯﯛﭼﻪ ﯪﯕﻼﺵ ﻣﻪﺷﯩﻘﻰ 2 ﻗﯩﯧﯩﺴﻢ 18 <br>116- ﺧﻪﻧﺰﯛﭼﻪ ﯴﻳﻐﯜﺭﭼﻪ - ﯴﻳﻐﯜﺭﭼﻪ ﺧﻪﻧﺰﯛﭼﻪ ﻟﻮﻏﻪﺕ 60 ﺳﻮﻡ <br>117 - ﺋﻨﮕﻠﯩﺰﭼﻪ ﯴﻳﻐﯜﺭﭼﻪ ﻟﻮﻏﻪﺕ 28.8 <br>118- ﺗﻮﻧﯜﺭ ﺑﯩﺸﯩﺪﯨﻜﻰ ﭼﯚﭼﻪﻛﻠﻪﺭ ﺑﯩﺮ ﻳﯜﺭﯛﺵ 3 ﻗﯧﺴﯩﻢ 21.5 <br>119- ﮔﯜﻟﻠﻪﻧﮕﻪﻥ ﻫﺎﺯﯨﺮﻗﻰ ﺯﺍﻣﺎﻥ ﯴﻳﻐﯜﺭ ﯬﺩﺑﯩﻴﺎﺗﻰ 10.8 <br>120- ﺧﻪﻧﺰﯛﭼﻪ ﻣﯩﯔ ﺟﯜﻣﻠﻪ 6<br>121- ﺧﻪﻧﺰﯛﭼﻪ 800 ﺟﯜﻣﻠﻪ 6 <br>122- ﺭﻩﺳﯩﻤﮕﻪ ﻗﺎﺭﺍﭖ ﺧﻪﺕ ﯴﮔﯜﻧﯜﺵ 3.9 <br>123-ﺧﻪﻧﺰﯛﭼﻪ ﯴﻳﻐﯜﺭﭼﻪ ﺭﺍﯞﺍﻥ ﺳﯚﺯﻟﺸﺸﻰ ﻗﻮﻟﻼﻧﻤﯩﺴﻰ 8<br>124- ﺧﻪﻧﺰﯛ ﺗﯩﻠﺪﯨﻦ ﯪﺳﺎﺱ 4 ﻗﯧﺴﯩﻢ 57.7 <br>125- ﺧﻪﻧﺰﯛ ﺗﯩﻠﺪﯨﻦ ﯪﺳﺎﺱ 3 ﻗﯧﺴﯩﻢ 32.2 <br>126-ﺋﯩﻨﮕﯩﻠﯩﺰ ﺗﯩﻠﺪﺍ ﺭﺍﯞﺍﻥ ﺳﯚﺯﻟﯩﺸﺶ 12.8 <br>127- ﺧﻪﻧﺰﯛ ﺗﯩﻠﻰ ﺳﻮﺭﯛﻥ ﺩﯨﯫﻟﯜﮔﻰ 10 <br>128- ﺟﺎﻻﻟﯩﺪﯨﻦ ﺭﯛﻣﻰ 19 <br>129-ﺋﯧﺴﻼﻣﯩﻴﻪﺗﻨﯩﯔ ﻳﺎﺷﻠﯩﻖ ﺩﻩﯞﺭﻯ 4 ﻗﯧﯩﺴﻢ 94 <br>130- ﺑﯜﻳﯜﻙ ﺷﺎﺋﯩﺮ ﯬﻟﺸﯩﺮ ﻧﺎﯞﺍﻳﻰ 22.5 <br>131 - ﺗﻪﺳﻪﯞﯞﯛﭖ ﭘﻪﻟﺴﻪﭘﯩﺴﻰ 18.5 <br>132- ﯴﻳﻐﯜﺭ ﺗﯩﻠﯩﺪﯨﻦ ﯪﺳﺎﺱ 20 <br>133- ﯬﺭﻩﭘﭽﻪ ﯴﻳﻐﯜﺭﭼﻪ ﭘﻪﻥ ﺗﯩﺨﻨﯩﻜﺎ ﻟﻮﻏﯩﺘﻰ 48.8 <br>134- ﻗﯩﺰﯨﻘﺎﺭﻟﯩﻖ ﺳﯜﯪﻝ ﺟﺎﯞﺍﭘﻼﺭ 10 ﻗﯧﺴﯩﻢ 40 ﺳﻮﻡ <br>135 - ﺧﻪﻧﺰﯛﭼﻪ ﺳﻪﯞﯨﻴﻪ ﺳﯩﻨﺎﺵ ﯪﯕﻼﺵ ﺗﻮﭘﯩﻠﻤﻰ 42<br>136- ﻛﯜﻧﺪﯨﻠﯩﻚ ﺗﯜﺭﻣﯜﺷﺘﺎ ﻛﯜﭖ ﺋﯩﺸﻠﯩﺘﻠﯩﺪﯨﻐﺎﻥ ﯴﻳﻐﯜﺭﭼﻪ ﺭﯛﺳﭽﻪ ﺧﻪﻧﺰﯛﭼﻪ ﺳﯚﺯﻟﯜﻙ 14<br>137 - ﺭﯛﺳﭽﻪ ﺧﻪﻧﺰﯛﭼﻪ ﺋﯩﻨﮕﻠﯩﺰﭼﻪ ﯴﻳﻐﯜﺭﭼﻪ ﺳﯚﺯﻟﺸﺸﻰ ﻗﻮﻻﻧﻤﯩﺴﻰ 6.2 <br>138 - ﯲﻟﭽﻪﻣﻠﯩﻚ ﺧﻪﺕ ﻟﻮﻏﯩﺘﻰ 15 <br>139 - ﯮﻗﯜﻏﯜﭼﯩﻼﺭ ﯴﭼﯜﻥ ﯴﻳﻐﯜﺭﭼﻪ ﺧﻪﻧﺰﯛﭼﻪ ﻟﻮﻏﻪﺕ 15 <br>140- ﺗﺎﮔﯜﺭ ﯬﺳﻪﺭﻟﯩﺮﻯ 2 ﻳﯜﺭﯛﺵ 7 ﻗﯩﯧﯩﺴﯩﻢ 84 ﺳﻮﻡ <br>141- ﻣﻪﯕﮕﯜﻟﯜﻙ ﻫﻪﻣﺮﺍ ﯬﻗﯩﻞ ﭘﺎﺭﺍﺳﻪﺕ 15.5 <br>142- ﯬﻗﯩﻞ ﭘﺎﺭﺍﺳﻪﺕ ﺩﻩﺳﺘﯜﺭﻯ 13.8 <br>143- ﺧﻪﻧﺰﯛﭼﻪ ﯴﻳﻐﯜﺭﭼﻪ ﻛﻮﻣﻴﯩﯘﺗﯩﺮ ﻟﻮﻏﯩﺘﻰ 65 ﺳﻮﻡ <br>144- ﯴﻳﻐﯜﺭ ﯲﻱ ﺋﯩﻤﺎﺭﻩﺗﻠﯩﺮﯨﻨﯩﯔ ﭼﯩﺮﺗﯩﻴﯜﮊ ﯲﺭﻧﻪﻛﻠﯩﺮﻯ <br>145- ﯴﮔﯜﻧﯜﺵ ﺋﯩﻨﻘﯩﻼﯞﻯ 35<br>146- ﺳﺎﺭﺍﯓ ﺑﯜﻟﯩﯟﺍﻟﻐﺎﻥ ﯮﻏﯜﺭﻯ 12<br>147- ﯴﻳﻐﯜﺭ ﺧﻪﻟﯩﻖ ﺗﯩﭙﯩﺸﻤﺎﻗﻠﯩﺮﻯ 4 <br>148- ﻫﺎﻳﺎﺗﻘﺎ ﺗﻪﻫﻠﯩﻞ ﻗﯧﺴﻤﻪﺗﻜﻪ ﯪﭼﻘﯜﭺ 13 <br>149 - ﻛﯜﻣﯜﺭﭼﻰ ﺑﺎﻻ 25<br>150- ﻧﺎﺗﯩﯟﺍﺑﻼﺭ 30 <br>151 - ﺋﯩﺪﯨﻘﯜﺕ ﻳﯜﻟﺘﯜﺯﻟﯩﺮﻯ 25 <br>151- ﺟﻪﻣﺋﻰ ﺋﯩﻼﺝ 25 <br>152 - ﻣﻪﺭﻛﯩﺰﻯ ﯪﺳﻴﺎ ﻛﯚﭼﻤﻪﻧﻠﯩﺮﯨﻨﯩﯔ ﻗﯜﺭﺍﻝ ﻳﺎﺭﺍﻕ ﺳﻪﻧﺌﯩﺘﻰ 22<br>153- ﻣﻪﺩﻩﻧﻴﻪﺕ ﯞﻩ ﻣﻪﯞﺟﯜﺗﻠﯩﻐﯩﻤﯩﺰ 17.8 <br>154 - ﻗﯜﺭﺑﺎﻥ ﺑﺎﺭﺍﺕ ﯬﺳﻪﺭﻟﯩﺮﯨﺪﯨﻦ ﺗﺎﻟﻼﻧﻤﺎ 4 ﻗﯧﺴﯩﻢ 92 <br>155- ﻗﺎﺭﺷﻰ ﻣﻪﻧﺪﯨﻜﻰ ﺳﯚﺯﻟﻪﺭ ﻟﻮﻏﯩﺘﻰ 12.5 <br>156- ﻣﻪﻧﺪﺍﺵ ﺳﯚﺯﻟﻪﺭ ﻟﻮﻏﯩﺘﻰ 12.5 <br>157- ﻣﻪﻧﺪﺍﺵ ﺳﯚﺯﻟﻪﺭ ﻟﻮﻏﯩﺘﻰ 12.5 <br>158- ﺩﯛﻧﻴﺎ ﺩﯨﻦ ﻟﻮﻏﯩﺘﻰ 59 <br>159- ﺧﻪﻧﺰﯛﭼﻪ ﯴﻳﻐﯜﺭﭼﻪ ﺩﯛﻧﻴﺎ ﻳﻪﺭ ﻧﺎﻣﻠﯩﺮﻯ ﻟﻮﻏﯩﺘﻰ 150 ﺳﻮﻡ <br>160 - ﺧﻪﻧﺰﯛﭼﻪ ﯴﻳﻐﯜﺭﭼﻪ ﺩﯛﻧﻴﺎ ﺗﺎﺭﯨﺦ ﻟﻮﻏﯩﺘﻰ 150 <br>161- ﺋﯩﻨﮕﻠﯩﺰﭼﻪ ﺗﯩﻠﻰ ﮔﯩﺮﺍﻣﻤﺎﺗﻜﯩﺴﻰ 28 <br><br><br><br>  <br>   <br> <br>——————————<br><br>ﺟﻪﺯﯨﺮﻩ ﻛﯩﺘﺎﭘﺨﺎﻧﯩﺴﻰ ﺳﯩﺰﻧﻰ ﻗﺎﺭﺷﻰ ﯪﻟﯩﺪﯛ .ﯮﺭﻧﻰ؛ ﯴﺭﯛﻣﭽﻰ ﺷﻪﻫﺮﻯ ﻛﻮﻧﺴﯘﻝ ﻛﻮﭼﯩﺴﻰ <br>ﯬﺳﻜﻪﺭﺗﯩﺶ . ﺋﯩﺰﺩﯨﻨﯩﺶ ﯬﻫﻠﯩﮕﻪ ﺋﯩﺘﯩﯟﺍﺭ ﻗﯩﻠﻨﯩﺪﯛ .<br>ﯪﻻﻗﯩﻠﺸﯩﺶ ﺗﯩﻠﻔﯜﻧﻰ:8999342-0991 8561074-0991<br>ﯪﻻﻗﯩﻼﺷﻘﯜﭼﻰ - ﺭﺍﺧﻤﺎﻧﺠﺎﻥ ﯪﯞﯗﺕ (ﯲﺯ ﻫﺎﻝ) ﭺ ﭺ 316434104 . 418708870  <br>[/color][/color]</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/2007/1012/11038.php" title="ئەدەبىياتىىمىزدىكى قارا نۇپۇس – ۋېناس "  target="_blank" class="tag_title_link">ئەدەبىياتىىمىزدىك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/2007/1012/11037.htm" title="ﺑﻪﺭﺑﺎﺩﻟﯩﻖ2"  target="_blank" class="tag_title_link">ﺑﻪﺭﺑﺎﺩﻟﯩﻖ2</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/2007/1012/11036.htm" title="ﺳﻪﻥ ﻛﯧﺘﯩﭗ..."  target="_blank" class="tag_title_link">ﺳﻪﻥ ﻛﯧﺘﯩﭗ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/2007/1012/11035.htm" title="ئاشكارلاش .... ( ﻧﻪﺳﯩﺮﻟﻪﺭ )"  target="_blank" class="tag_title_link">ئاشكارلاش .... ( ﻧﻪﺳﯩﺮﻟﻪﺭ )...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=11034" title="ﻳﺎﺧﺸﻰ ﺳﺎﺗﯩﺮﺍ، ﺑﯩﻠﻠﻪ ﻛﯚﺭﻩﻳﻠﻰ"  target="_blank" class="tag_title_link">ﻳﺎﺧﺸﻰ ﺳﺎﺗﯩﺮﺍ، ﺑﯩﻠﻠﻪ ﻛﯚﺭﻩﻳﻠﻰ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/2007/1012/11033.htm" title="ﺗﺎﺷﺒﻮﺭﺍﻥ: ﺗﻪﻧﻬﺎ ﯪﻳﺎﻝ"  target="_blank" class="tag_title_link">ﺗﺎﺷﺒﻮﺭﺍﻥ: ﺗﻪﻧﻬﺎ ﯪﻳﺎﻝ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=11025" title="ﺳﯚﻳﯚﻟﮕﯜﭼﯩﮕﻪ ﺧﯩﺘﺎﺏ"  target="_blank" class="tag_title_link">ﺳﯚﻳﯚﻟﮕﯜﭼﯩﮕﻪ ﺧﯩﺘﺎﺏ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/2007/1012/11024.htm" title="ﻣﯘﯞﻩﺷﺸﻪﻫ"  target="_blank" class="tag_title_link">ﻣﯘﯞﻩﺷﺸﻪﻫ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/2007/1012/11023.htm" title="ﺳﯩﻠﻪﺭ ﺳﯘﻧﻐﺎﻥ،ﺳﯘﻧﺎﻱ ﻣﻪﻧﻤﯘ ﺟﺎﻡ.."  target="_blank" class="tag_title_link">ﺳﯩﻠﻪﺭ ﺳﯘﻧﻐﺎﻥ،ﺳﯘﻧﺎﻱ ﻣﻪﻧﻤﯘ ﺟﺎﻡ.....</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/2007/1011/11022.htm" title=" (ﭘﺎﺳﯫﻥ) ﻗﺎﻧﺪﺍﻕ ﻗﯘﺵ ﯰ"  target="_blank" class="tag_title_link"> (ﭘﺎﺳﯫﻥ) ﻗﺎﻧﺪﺍﻕ ﻗﯘﺵ ﯰ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=11021" title="ﯴﭺ ﺷﺎﺋﯩﺮ ﻳﺎﺯﻏﺎﻥ ﺑﯩﺮ ﭘﺎﺭﭼﻪ ﺷﯧﺌﯩﺮ ﺗﻮﻏﺮﯨﺴﯩﺪﺍ"  target="_blank" class="tag_title_link">ﯴﭺ ﺷﺎﺋﯩﺮ ﻳﺎﺯﻏﺎﻥ ﺑﯩﺮ ﭘﺎﺭﭼﻪ ﺷﯧﺌﯩﺮ ﺗﻮﻏﺮﯨﺴﯩﺪﺍ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=11020" title="ﺗﯧﯖﯩﺮﻗﺎﺵ.."  target="_blank" class="tag_title_link">ﺗﯧﯖﯩﺮﻗﺎﺵ..</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=11019" title="ﭼﯚﻛﯜﭖ ﻛﻪﺗﻜﻪﻥ ﺳﯘﯪﻟﻼﺭ.."  target="_blank" class="tag_title_link">ﭼﯚﻛﯜﭖ ﻛﻪﺗﻜﻪﻥ ﺳﯘﯪﻟﻼﺭ.....</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=11018" title="ﺗﯜﻧﺪﯨﻜﻰ ﻧﯩﺪﺍ"  target="_blank" class="tag_title_link">ﺗﯜﻧﺪﯨﻜﻰ ﻧﯩﺪﺍ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=11017" title="ﺳﯘﻣﺮﯗﻍ ﭼﺎﻳﺨﺎﻧﯩﺴﯩﺪﯨﻦ ﻧﯩﻤﯩﺸﻘﺎ ﭘﺎﻳﺪﯨﻼﻧﻤﺎﻳﻤﯩﺰ.؟"  target="_blank" class="tag_title_link">ﺳﯘﻣﺮﯗﻍ ﭼﺎﻳﺨﺎﻧﯩﺴﯩﺪﯨﻦ ﻧﯩﻤﯩﺸﻘﺎ ﭘﺎﻳﺪﯨﻼﻧﻤﺎﻳﻤﯩﺰ.؟...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=11016" title="ﺋﯩﭙﺘﯩﺪﺍﺋﯩﻲ ﺳﻪﻧﯭﺗﺘﻪ ﺑﯚﺭﻩ ﺗﻪﺳﯟﯨﺮﻯ"  target="_blank" class="tag_title_link">ﺋﯩﭙﺘﯩﺪﺍﺋﯩﻲ ﺳﻪﻧﯭﺗﺘﻪ ﺑﯚﺭﻩ ﺗﻪﺳﯟﯨﺮﻯ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=11015" title="ﻳﺎﺩﯨﻜﺎﺭ: ﯴﭺ ﺷﯧﺌﯩﺮ"  target="_blank" class="tag_title_link">ﻳﺎﺩﯨﻜﺎﺭ: ﯴﭺ ﺷﯧﺌﯩﺮ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=11014" title="[ﯬﺳﻠﻰ]  ﯪﺩﻩﻣﻠﻪﺭﮔﻪ ﻗﺎﺭﺍﺭ ﻛﯚﺯﯛﻡ ﻳﻮﻕ !"  target="_blank" class="tag_title_link">[ﯬﺳﻠﻰ]  ﯪﺩﻩﻣﻠﻪﺭﮔﻪ ﻗﺎﺭﺍﺭ ﻛﯚﺯﯛﻡ ﻳﻮﻕ !...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=11013" title="قەشقەر"  target="_blank" class="tag_title_link">قەشقەر</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=11012" title="سەن بار"  target="_blank" class="tag_title_link">سەن بار</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/edebiyat/search.php?catid=275&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/2007/1012/11038.php" title="ئەدەبىياتىىمىزدىكى قارا نۇپۇس – ۋېناس "  target="_blank" class="tag_title_link">ئەدەبىياتىىمىزدىكى قار...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/2007/1012/11037.htm" title="ﺑﻪﺭﺑﺎﺩﻟﯩﻖ2"  target="_blank" class="tag_title_link">ﺑﻪﺭﺑﺎﺩﻟﯩﻖ2</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/2007/1012/11036.htm" title="ﺳﻪﻥ ﻛﯧﺘﯩﭗ..."  target="_blank" class="tag_title_link">ﺳﻪﻥ ﻛﯧﺘﯩﭗ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/2007/1012/11035.htm" title="ئاشكارلاش .... ( ﻧﻪﺳﯩﺮﻟﻪﺭ )"  target="_blank" class="tag_title_link">ئاشكارلاش .... ( ﻧﻪﺳﯩﺮﻟﻪﺭ )...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=11034" title="ﻳﺎﺧﺸﻰ ﺳﺎﺗﯩﺮﺍ، ﺑﯩﻠﻠﻪ ﻛﯚﺭﻩﻳﻠﻰ"  target="_blank" class="tag_title_link">ﻳﺎﺧﺸﻰ ﺳﺎﺗﯩﺮﺍ، ﺑﯩﻠﻠﻪ ﻛﯚﺭﻩﻳﻠﻰ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/2007/1012/11033.htm" title="ﺗﺎﺷﺒﻮﺭﺍﻥ: ﺗﻪﻧﻬﺎ ﯪﻳﺎﻝ"  target="_blank" class="tag_title_link">ﺗﺎﺷﺒﻮﺭﺍﻥ: ﺗﻪﻧﻬﺎ ﯪﻳﺎﻝ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=11025" title="ﺳﯚﻳﯚﻟﮕﯜﭼﯩﮕﻪ ﺧﯩﺘﺎﺏ"  target="_blank" class="tag_title_link">ﺳﯚﻳﯚﻟﮕﯜﭼﯩﮕﻪ ﺧﯩﺘﺎﺏ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/2007/1012/11024.htm" title="ﻣﯘﯞﻩﺷﺸﻪﻫ"  target="_blank" class="tag_title_link">ﻣﯘﯞﻩﺷﺸﻪﻫ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/2007/1012/11023.htm" title="ﺳﯩﻠﻪﺭ ﺳﯘﻧﻐﺎﻥ،ﺳﯘﻧﺎﻱ ﻣﻪﻧﻤﯘ ﺟﺎﻡ.."  target="_blank" class="tag_title_link">ﺳﯩﻠﻪﺭ ﺳﯘﻧﻐﺎﻥ،ﺳﯘﻧﺎﻱ ﻣﻪﻧﻤﯘ ﺟﺎﻡ.....</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/2007/1011/11022.htm" title=" (ﭘﺎﺳﯫﻥ) ﻗﺎﻧﺪﺍﻕ ﻗﯘﺵ ﯰ"  target="_blank" class="tag_title_link"> (ﭘﺎﺳﯫﻥ) ﻗﺎﻧﺪﺍﻕ ﻗﯘﺵ ﯰ...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/edebiyat/show_js.php?itemid=3945"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

@@ -1,0 +1,405 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>چاچقۇن پادىشاھ ئىۋان-كۇتۇپخانا-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,كۇتۇپخانا">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/kutupxana/" class="red"> كۇتۇپخانا</a>
+         | <a class="razimantur" href="/kutupxana/list.php?catid=43" >ھېكايىلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=44" > شېئىر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=45" > كەلىلە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=46" > نەسىرلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=47" > يۇمۇرلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=48" > ھىكمەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=49" > نەسىھەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=50" > ماقالىلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=51" > ياشلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=52" > تۇرمۇش </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=53" > نۇتۇقلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=54" >مەكتۇب  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=55" >غارايىبات</a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=56" > دۇنيادا ئەڭ  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=57" >قان تىپى </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=58" > مۆچەل  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=59" > مىللەتلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=60" > بۈگۈن  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=61" >مۇزېي </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=62" >تارىخ </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=63" >شەھەرلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=64" >دۆلەتلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=65" >كۇتۇبخانىلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=66" >مايلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=67" >مېۋە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=68" >كۆكتاتلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=69" >ئۆسۈملۈكلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=70" > ھايۋاناتلار  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/kutupxana/">كۇتۇپخانا</a> >> <a href="/kutupxana/list.php?catid=62">تارىخ </a> >>  چاچقۇن پادىشاھ ئىۋان</div>
+<!--主标题--><h1>چاچقۇن پادىشاھ ئىۋان </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2009-01-07 13:22:10&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">142</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">«داڭ! داڭ! داڭ!»
+قىش كۈنلىرىنىڭ بىر ئەتىگىنى، موسكۋادىكى چېركاۋلارنىڭ قوڭغۇراقلىرى بىردەك ئۇرۇلۇشقا باشلىدى. كەينى - كەينىدىن ئۇرۇلغان قوڭغۇراق سادالىرى پۈتۈن شەھەرنى ۋەھىمىگە سالدى. كىشىلەر زىمىستان سوغۇققا قارىماستىن كوچىلارغا يۈگۈرۈپ چىقتى - دە، ھەدەپ چوقۇنۇشۇپ، قانداق دەھشەت يۈز بەرگەنلىكىنى سۈرۈشتە قىلىشتى.
+ئاخىرى كىرىمىل سارىيىدىن تارقالغان خەۋەرنى ئاڭلىدى: پۈتۈن روسىيىگە ھۆكۈمرانلىق قىلىدىغان كىنەز ۋاسىلى ئالەمدىن ئۆتتى!
+«ئەلھۆكمىلىللا!» ئۇ ھەممەيلەننىڭ ھاياتىغا ھۆكۈمران ئىدى، ئەمما ئۆز ھاياتىغا ھۆكۈمران بولالماپتۇ! ئۇ روسىيىمىزنى مىسلىسىز قۇدرەتكە ئىگە قىلغان ئىدى، ئۇنىڭغا كىم ۋارىسلىق قىلار، ئەمدى؟ 
+«شاھزادە ئەمدى تېخى ئۈچ ياشقا كىرىپتۇ. دۆلەتنى قانداقمۇ ئىدارە قىلار؟ ھەي ئىست! ھەي ئىست!»
+كىرىمىل سارىيى پاتىپاراق بولۇپ كەتتى. كىنەزنىڭ رەپىقىسى يېلىنا كۆز يېشى قىلغان ھالدا ئوغلى ئىۋانغا: «ئاتاڭ ھايات ۋاقتىدا پۈتۈن روسىيە زىمىنىغا ھۆكۈمرانلىق قىلىدىغان شاھلارنىڭ شاھى ئىدى. ئۇنىڭ ئىرادىسى ئاللانىڭ ئىرادىسى ئىدى، ھازىر نۆۋەت ساڭا كەلدى، ئۇقتۇڭمۇ بالام! ئۇقتۇڭمۇ؟» دېدى.
+ئىۋان ئاڭقىرالماستىن بېشىنى چايقىدى. ئۇ ئانىسىنىڭ يۇقىرىقى سۆزلىرىدىكى چوڭقۇر مەنالارنى زادىلا بىلمەيتتى. ئەمما، بۇ ئۈچ ياشلىق بالا يەنىلا تەختكە چىقىپ، ئىۋان IV دەپ ئاتالدى. دۆلەتنىڭ چوڭ ئىشلىرىنى ئۇنىڭغا ۋاكالىتەن ئانىسى باشقۇردى.
+ئۆلۈپ كەتكەن كىنەزنىڭ بىر نەچچە ئىنىسى بولۇپ، ئەسلىدە ھەممىسى سۈيۈرغاللىقنىڭ بەگلىرى ئىدى. ئۇلار ئىۋاننىڭ كىچىكلىكى ۋە سىياسىنى باشقۇرۇۋاتقان يېلىنانىڭ ئايال كىشى ئىكەنلىكىدىن پايدىلىنىپ مۇستەقىل بولۇۋېلىشقا ئۇرۇندى. ئۇلار نەدىن بىلسۇن، يېلىنا قولىدىن ئىش كېلىدىغان چىچەن ئايال بولغاچقا، ئۇلارنىڭ ئىسيانلىرىنى كەسكىنلىك بىلەن بېسىقتۇردى.
+ئىۋان كىچىك بولغىنى بىلەن، كىنەزگە مۇناسىپ ئىززەت - ئىكراملارنىڭ ھەممىسىدىن بەھرىمەن بولۇۋەردى. ئۇ ھەر قېتىم ئىبادەتخانىغا چىققان، چەتئەل ئەلچىلىرىنى قوبۇل قىلغان ياكى تەنتەنىلىك مۇراسىملارغا قاتناشقان چاغدا، ۋەزىر - ۋۇزۇرالار ھەرقاچان ئۇنىڭغا باش ئېگىپ ئېھتىرام بىلدۈرۈپ تۇردى. بۇ سورۇنلار ئارقىلىق كىنەز ئىۋان نامىنىڭ كىتاب ئوقۇشنى باشلاپ، نۇرغۇن كىتابلارنى ئوقۇدى. ئۇ كىتابلارنىڭ تەسىرىدە، پادىشاھلار يۈكسەك ھوقۇققا ئىگە بولۇش شەرت دېگەن ئىدىيىنى چوڭقۇرلاشتۇردى. 
+مىلادى 1538 - يىلى ئىۋان سەككىز ياشقا كىرگەندە، يېلىنا ئۇشتۇمتۇت ئۆلۈپ كەتتى. شۇئان ئىككى شاھزادە ھوقۇق تالىشىپ شىددەتلىك ئېلىشتى. بىر شاھزادە ئۆكتەملىك بىلەن ئوردىغا باستۇرۇپ كىرىپ، ئۆزىنىڭ رەقىبلىرىنى پۈتۈنلەي قولغا ئالدى. ئەمما يېڭىپ چىققان بۇ شاھزادە ھاكىمىيەتنى ئۇزاق تۇتۇپ تۇرالمىدى. 1543 - يىلى، 13 ياشقا كىرگەن ئىۋان، تاغىسىنىڭ تاپشۇرۇقى بويىچە بۇيرۇق قىلىپ ئۇ شاھزادىنى ئۆلتۈردى.
+شاھزادىنى ئۆلتۈرۈش تاغىسىنىڭ تاپشۇرۇقى بىلەن بولسىمۇ، ئەمما ئاخىرقى ھېسابتا يەنىلا ئىۋان كىنەزلىك چوڭ ھوقۇقىنى يۈرگۈزدى. ياش ئىۋان مانا مۇشۇنداق ئۆزئارا دۈشمەنلىشىپ، ئاشكارا ھەم يوشۇرۇن ئېلىشىپ تۇرىدىغان بىر مۇھىتتا رەھىمسىز بىر ئادەم بولۇپ چىقتى.
+1547 - يىلى، ئىۋان 17 ياشقا تولۇپ، تاج كىيىپ ھاكىمىيەتنى ئۆز قولىغا ئېلىش قورامىغا يەتتى. ئۇ كىنەز دېگەن نامغا قانائەت قىلماي، ئۆزىنى ھوقۇقنىڭ چەكسىزلىكىنى ئىپادىلەيدىغان چار پادىشاھ دېگەن نام بىلەن ئاتىدى. «چار» دېگەن سۆز لاتىنچە «كايزا» (رىم پادىشاھىنىڭ ئۇنۋانى) دېگەن سۆزنىڭ روسچە تەلەپپۇزى ئىدى. شۇنىڭدىن باشلاپ، ئىۋان IV روسىيە تارىخىدىكى 1 - چار پادىشاھ بولۇپ قالدى.
+ئىۋان IV ھاكىمىيەتنى ئۆز قولىغا ئېلىپ يېرىم يىل ئۆتمەستىنلا، موسكۋادا چوڭ ئوت ئاپىتى يۈز بېرىپ، شەھەرنىڭ خېلى كۆپ ئىستىھكاملىرىنى ۋەيران قىلدى. بۇ، خەلق ئاممىسى ئىۋاننىڭ تاغا جەمەتىنىڭ مۇستەبىت ھۆكۈمرانلىقىغا قارشى تۇرۇش ئۈچۈن قويغان ئوت ئىدى. ئۇلار ھەيۋەتلىك سەپ تارتىپ چىقىپ قوزغىلاڭ كۆتىرىپ، چار پادىشاھتىن بۇ جەمەتتىكى باش جىنايەتچىنى چىقىرىپ بېرىشنى تەلەپ قىلدى. بۇ باش جىنايەتچى ئاخىرى جازالاندى.
+ئىۋان بۇ قېتىمقى قوزغىلاڭدىن: چوڭ ئاقسۆڭەكلەرگە تايىنىپ، دۆلەتنى ئىدارە قىلغىلى بولمايدىكەن، دېگەن ساۋاققا ئىگە بولدى. ئۇنىڭدىن كېيىن سىياسىي ئىسلاھات يۈرگۈزۈپ، چوڭ ئاقسۆڭەكلەرنىڭ ھوقۇقىنى چەكلەپ، ئوتتۇرا، كىچىك ئاقسۆڭەكلەر ۋە شەھەر ئاھالىسىنىڭ ئىقتىسادىي ھەم سىياسىي ئورنىنى يۇقىرى كۆتەردى. پۈتۈن مەملىكەتنىڭ قانۇنىنى بىرلىككە كەلتۈرۈش ئارقىلىق ھوقۇقنى مەركەزگە مەركەزلەشتۈرۈشنى كۈچەيتتى.
+ئەمما، ئوتتۇرا، كىچىك ئاقسۆڭەكلەر ۋە شەھەر ئاھالىسىنىڭ يەر، بايلىق ھەم ئەمگەك كۈچىگە بولغان مۇھتاجلىقىنى قانداق قىلىپ قاندۇرۇش كېرەك؟ ئىۋان، ۋولگا دەرياسىنىڭ ئوتتۇرا ئېقىمىغا جايلاشقان قازان خانلىقىنى ئىستىلا قىلىشنى قارار قىلدى.
+قازان خانلىقىنى ئىستىلا قىلىش ئۈچۈن ئىۋان تازا باش قاتۇردى. دەسلىپىدە، ئۇ ئەسكەر چىقىرىپ جازا يۈرۈشى قىلىپ مەغلۇپ بولدى. شۇنىڭ بىلەن، ئۇ خانلىقنىڭ پايتەختى قازاننىڭ غەربىدىكى دەريانىڭ يېنىدىكى تاغقا قورغان سالدۇردى. بۇ قورغان ئارقىلىق قازان شەھىرىگە بارىدىغان يوللارنى قامال قىلدى ۋە يەرلىك خەلقنى قاقتى - سوقتى قىلدى. روسلار بىر تەرەپتىن، بۇ يەرگە ئەسكەر تۇرغۇزۇپ ئاشلىق توپلىسا، يەنە بىر تەرەپتىن، قازاندىن چىققان ساتقىنلارنى توپلىدى. كېيىنچە ئاشۇ ساتقىنلار ئارقىلىق قازاننىڭ خانىنى ئاغدۇرۇپ تاشلاپ، بىر قورچاقنى خانلىق تەختىگە يۆلەپ چىقاردى. ئەمما قازان خەلقى ئۇزاققا قالمايلا ئۇ قورچاقنىمۇ ئاغدۇرۇۋەتتى.
+ئىۋان IV ئىزا تارتقانلىقىدىن غەزەپكە كېلىپ، شەخسەن ئۆزى قوشۇن باشلاپ، قازانغا ئاتلىنىشنى قارار قىلدى. 1552 - يىلى 8 - ئاينىڭ ئوتتۇرىلىرىدا، 22 ياشلىق چار پادىشاھ قوشۇن باشلاپ قازان شەھىرىنىڭ يېنىغا كەلدى.
+ئىۋاننىڭ قوشۇنىدا 150 مىڭ ئەسكەر، 150 توپ، بىرمۇنچە جەڭ ھارۋىسى ۋە شەھەرگە ھۇجۇم قىلىش مۇنارلىرى بار ئىدى. قازاننى ساقلاۋاتقانلار پەقەت قولىغا قارا مىلتىق ئالغان 30 مىڭ كىشى بولۇپ،&nbsp; قورال - جابدۇقلىرى ناھايىتى ناچار ئىدى، شەھەرنىڭ سېپىلىمۇ ياغاچتىن ياسالغان ئىدى. دېمەك، ھۇجۇم قىلغۇچىلار بىلەن مۇداپىئە قىلغۇچىلارنىڭ كۈچ سېلىشتۇرمىسى پەۋقۇلئاددە پەرقلىق ئىدى.
+چار پادىشاھ ئەسكىرىي جەھەتتىكى ئۈستۈنلۈكىگە ئاساسەن قازان خانىنى تەسلىم بولۇشقا چاقىردى. قازان خانى روسلارغا تىز پۈكۈشنى راۋا كۆرمەي رەت قىلدى. شۇنىڭ بىلەن چار پادىشاھ شەھەرگە ھۇجۇم قىلىشقا بۇيرۇق بەردى.
+«گۈمبۈر - گۈمباڭ! گۈمبۈر - گۈمباڭ!» روس قوشۇنىنىڭ توپلىرى شەھەر ئۈستىگە ئېتىلدى. ياغاچ سېپىللار يالقۇنجاپ كۆيۈشكە باشلىدى. ئەمما قازان ئارمىيىسى ۋە خەلقى پىداكارلىق بىلەن قارشىلىق كۆرسىتىپ، پوزىتسىيىنى قەتئىي قوغدىدى؛ پارتىزانلار روس قوشۇنىنىڭ ئارقا تەرىپىدىن كېلىپ تويۇقسىز زەربە بېرىپ تۇردى. بىر ئايدىن كۆپرەك ۋاقىت ئۆتۈپ كەتتى. قازان شەھىرى يېڭىلمەستىن يەنىلا مەزمۇت تۇردى.
+ئىۋان، سەركىلىرىگە چىچاڭلاپ ۋارقىرىدى:
+«تىرىك ئادەملەرنى تۇتۇپ ئالدىمغا كەلتۈرۈڭلار، مەن شۇلارنى گۆرۈگە قويۇش ئارقىلىق ئۇلارنى تەسلىم قىلىمەن!»
+روس قوشۇنىدىكىلەر ھاپىلا - شاپىلا شەھەر سىرتىدىكىلەردىن 300 - 400 كىشىنى تۇتۇپ كەلدى. ئىۋان بۇلارنى شەھەر يېنىغا بېرىپ، قازان ئارمىيىسى ۋە خەلقىنى تەسلىم بولۇشقا قىستاشقا بۇيرۇدى. بۇ تەلەپمۇ رەت قىلىندى.
+«پۈتۈنلەي ئېتىپ تاشلاڭلار!» - ئىۋان ۋەھشىيلىك بىلەن بۇيرۇق قىلدى. ئۇنىڭ بۇيرۇقى بىلەن تەڭلا بۇلارنىڭ ھەممىسى ئېتىپ تاشلاندى. قازان ئارمىيىسى ۋە خەلقى ئۆز قېرىنداشلىرىنىڭ كۆزى دۈشمەنگە ھەممە بىردەك لەنەت ياغدۇردى ۋە تاجاۋۇزچىلار قوشۇنى بىلەن ئاخىرىغىچە قانلىق ئېلىشىشقا بەل باغلىدى.
+ئىۋان، قازان مۇداپىئەچىلىرىنىڭ يەنىلا تەسلىم بولمايۋاتقانلىقىنى كۆرۈپ، دەرغەزەپكە كەلدى - دە:
+«ئۇستىكارنىڭ قوماندانلىقىدا ئەسكەرلەر يەر ئاستى يولى كولىسۇن، پارتلاتقۇچ دورا بىلەن شەھەرنىڭ سۇ يوللىرىنى پارتىلىتىڭلار، ئۇلارنىڭ ھەممىسى ئۇسسۇزلىقتىن ئۆلسۇن!» - دەپ بۇيرۇق بەردى.
+بىر تۈركۈم روس، گېرمان ئۇستىكارلىرى دەرھال بىر ھېساب سوقتى - دە، ئەسكەرلەرگە قوماندانلىق قىلىپ، ئاكوپتىن باشلاپ، يەر ئاستى يولى كولاشقا كىرىشتى؛ ئارقىدىنلا ھەرىكەتچان ھۇجۇم قىلىش مۇنارىسىنىمۇ سېپىلنىڭ يېنىغا ئېلىپ بېرىپ، سېپىلنىڭ تېگىنى تەشتى.
+«گۇمباڭ!» قىلغان قاتتىق ئاۋاز بىلەن تەڭ شەھەرنىڭ سۇ يولى پارتلىدى. قازان مۇداپىئەچىلىرىنىڭ سۇ مەنبەسى پۈتۈنلەي ئۈزۈپ تاشلاندى. بۇ دەل ياز پەسلى ئىدى. قازان ئارمىيىسى ۋە خەلقى مەينەت سۇ ئىچىشكە مەجبۇر بولسىمۇ، ئاخىرىغىچە چىڭ تۇردى.
+9 - ئاينىڭ ئاخىرىدا، شەھەر سېپىلىدىن پارتلاتقۇچ ئارقىلىق شورا ئېچىلدى. روس قوشۇنى تېزلىكتە بۆسۈپ كىردى، قازان ئارمىيىسى ۋە خەلقى بالا - چاقىلىرىنى تارتىپ بىرلىكتە ئوتتۇرىغا چىقىپ، كوچىلاردا روس قوشۇنى بىلەن تالىشىش جېڭى قىلدى. بۇنىڭ بىلەن روس قوشۇنى شەھەرنى ئىشغالىيەتكە ئالالمىدى.
+ئىۋان، قازاننى شۇنچە ئۇزاقتىمۇ ئالالماي، قازان مۇداپىئەچىلىرىنى 3 - قېتىم تەسلىم بولۇشقا ئۈندەپ: يەنىلا تەسلىم بولمىساڭلار، شەھەرنى قولغا ئالغاندىن كېيىن پۈتكۈل شەھەردىكى ئارمىيە ۋە خەلققە ئەڭ قاتتىق جازا قوللىنىلىدۇ، - دېدى.
+قازاندىكى ئارمىيە ۋە خەلق ھەر بالا كەلسە پىسەنت قىلماي كۈرەشكە تەييار تۇراتتى. ئۇلار: «ھەرگىز تەسلىم بولمايمىز! بۇ سېپىلنى ئىگەللىۋالساڭلار. يەنە بىرنى ياسىيالايمىز! ھەمدەمچى قوشۇن كەلگىچە شەھەرنى قوغدايمىز ياكى شېھىت بولىمىز!» - دەپ جاۋاب بەردى.
+«توپقا تۇتۇڭلار! بارلىق توپلار ۋە پارتلاتقۇچلارنى ئىشلىتىپ پارتلىتىڭلار! - ئىۋان توختىماستىن چىچاڭلاپ ھۆكىرىدى، - شەھەرگە كىرگەندىن كېيىن قورال ئالغان ھەرقانداق ئادەم ئۆلتۈرۈلسۇن! خوتۇن - قىزلار ۋە بالىلار تولۇقى بىلەن تۇتۇلسۇن!»
+10 - ئاينىڭ 2 - كۈنى، قازان ئاخىرى قولدىن كەتتى. ئىۋاننىڭ قانلىق بۇيرۇقى ئىجرا قىلىندى. پۈتۈن شەھەردە ئىس - تۈتەكلەر ئۆرلەپ، جەسەتلەر ساينىڭ تېشىدەك يېتىپ كەتتى، ئاھالىلەرنىڭ مال - مۈلۈكلىرى تۈگەل بۇلاندى. قازان خانلىقى ھالاك بولغاندىن كېيىن، ئۇنىڭ زىمىنى چارروسىيە خەرىتىسىگە قوشۇۋېلىندى. شۇنىڭدىن باشلاپ، ئىۋان ئۆزىگە يەنە قازاننىڭ چار پادىشاھى دېگەن يېڭى ئۇنۋاننىمۇ قوشۇۋالدى.
+قازان خانلىقىنى كاپ ئېتىۋەتكەندىن كېيىن، ئىۋان IV يەنە ۋولگا دەرياسىنىڭ تۆۋەن ئېقىمىدىكى ئاستىرراخان خانلىقىنىمۇ قورال كۈچى بىلەن ئىستىلا قىلدى. بۇنىڭ بىلەن قالماي، بالتىق دېڭىزىغا چىقىش ئېغىزىنى تارتىۋېلىش ئۈچۈن، 1558 - يىلىدىن باشلاپ، پولشا، شىۋېتسىيە قاتارلىق پادىشاھلىقلار بىلەن ئۇزاققا سوزۇلغان ئۇرۇشلارنى ئېلىپ باردى. بىر ئۇرۇشقانچە 25 يىل توختىماي ئۇرۇشۇپ، ئەڭ ئاخىرىدا مەغلۇپ بولدى. بۇ جەرياندا يەنە يىراققا يۈرۈش قوشۇنى تەشكىللەپ، شەرقتىكى سىبىرىيە خاندانلىقىغا تاجاۋۇز قىلدى ۋە سىبىرىيىنىڭ غەربىگە قاراپ كېڭىيىشكە باشلىدى.
+ئىۋان IV تەبىئىتىگە زالىملىق سىڭىپ كەتكەن پادىشاھ ئىدى. ئۇزاق مۇددەتلىك دەھشەتلىك كۈرەشلەر داۋامىدا، ئۇنىڭ گۇمانخورلۇق كېسىلى ئەدەپ تۇردى، ھەتتا ئەقلىدىن ئېزىپمۇ قالدى. بىر قېتىم دەرغەزەپكە كەلگىنىدە، قاراپ تۇرۇپ ۋەلىھەھىد شاھزادىسىنى ھاسىسى بىلەن ئۇرۇپ ئۆلتۈرۈۋەتتى. شۇڭا، تارىختا ئۇ يەنە «چاچقۇن پادىشاھ _ ئىۋان» دەپمۇ نام ئالدى. </span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3373" title="تۈرك دۇنياسىغا قىسقىچە نەزەر"  target="_blank" class="tag_title_link">تۈرك دۇنياسىغا قىس...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3372" title="ھەقىقى ئانتى سىمىتىزىمنى چۇشىنەمسىز؟"  target="_blank" class="tag_title_link">ھەقىقى ئانتى سىمىت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3371" title="مارتىن لۇتېر"  target="_blank" class="tag_title_link">مارتىن لۇتېر</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3370" title="چاچقۇن پادىشاھ ئىۋان"  target="_blank" class="tag_title_link">چاچقۇن پادىشاھ ئىۋ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3369" title="ئوتتۇرا ئەسىرنىڭ باشلىنىشى"  target="_blank" class="tag_title_link">ئوتتۇرا ئەسىرنىڭ ب...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3368" title="ئىسپان تىياتىرىنىڭ ئاتىسى"  target="_blank" class="tag_title_link">ئىسپان تىياتىرىنىڭ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3367" title="سېرۋانتس"  target="_blank" class="tag_title_link">سېرۋانتس</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3366" title="«گىگانت ئادەمنىڭ تەرجىمىھالى» ۋە رابلې"  target="_blank" class="tag_title_link">«گىگانت ئادەمنىڭ ت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3365" title="قەلەندەرلەر قوزغىلىڭى"  target="_blank" class="tag_title_link">قەلەندەرلەر قوزغىل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3364" title="قانلىق پەرمان"  target="_blank" class="tag_title_link">قانلىق پەرمان</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3363" title="ئۇتوپىيە"  target="_blank" class="tag_title_link">ئۇتوپىيە</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3362" title="«يېڭىلمەس پاراخوت قوشونى » نىڭ گۇمران بولۇشى"  target="_blank" class="tag_title_link">«يېڭىلمەس پاراخوت ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3361" title="قوي، ئادەملەرنى يەپ كەتكەن ئاپەت"  target="_blank" class="tag_title_link">قوي، ئادەملەرنى يە...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3360" title="جەنۋە پاپىسى"  target="_blank" class="tag_title_link">جەنۋە پاپىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3359" title="ئۈچ رەڭلىك بايراق"  target="_blank" class="tag_title_link">ئۈچ رەڭلىك بايراق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3358" title="توماس ميۇنتسېر"  target="_blank" class="tag_title_link">توماس ميۇنتسېر</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3357" title="رىم پاپىسىدىن ئادا - جۇدا بولايلى"  target="_blank" class="tag_title_link">رىم پاپىسىدىن ئادا ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3356" title="بايراققا سىزىلغان چىغ كەش"  target="_blank" class="tag_title_link">بايراققا سىزىلغان ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3355" title="پارچە - پارچە بەگلىكلەرگە بۆلۈنۈپ كەتكەن گېرمانىيە"  target="_blank" class="tag_title_link">پارچە - پارچە بەگلى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3354" title="سان پېتىر ئىبادەتخانىسى"  target="_blank" class="tag_title_link">سان پېتىر ئىبادەتخ...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/kutupxana/search.php?catid=62&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3373" title="تۈرك دۇنياسىغا قىسقىچە نەزەر"  target="_blank" class="tag_title_link">تۈرك دۇنياسىغا قىسقىچە ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3372" title="ھەقىقى ئانتى سىمىتىزىمنى چۇشىنەمسىز؟"  target="_blank" class="tag_title_link">ھەقىقى ئانتى سىمىتىزىمن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3371" title="مارتىن لۇتېر"  target="_blank" class="tag_title_link">مارتىن لۇتېر</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3370" title="چاچقۇن پادىشاھ ئىۋان"  target="_blank" class="tag_title_link">چاچقۇن پادىشاھ ئىۋان</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3369" title="ئوتتۇرا ئەسىرنىڭ باشلىنىشى"  target="_blank" class="tag_title_link">ئوتتۇرا ئەسىرنىڭ باشلىن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3368" title="ئىسپان تىياتىرىنىڭ ئاتىسى"  target="_blank" class="tag_title_link">ئىسپان تىياتىرىنىڭ ئاتى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3367" title="سېرۋانتس"  target="_blank" class="tag_title_link">سېرۋانتس</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3366" title="«گىگانت ئادەمنىڭ تەرجىمىھالى» ۋە رابلې"  target="_blank" class="tag_title_link">«گىگانت ئادەمنىڭ تەرجىم...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3365" title="قەلەندەرلەر قوزغىلىڭى"  target="_blank" class="tag_title_link">قەلەندەرلەر قوزغىلىڭى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=3364" title="قانلىق پەرمان"  target="_blank" class="tag_title_link">قانلىق پەرمان</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/kutupxana/show_js.php?itemid=3370"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

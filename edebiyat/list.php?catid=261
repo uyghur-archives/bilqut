@@ -1,0 +1,332 @@
+﻿
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>تەڭرىتاغ چېچەكلىرى-ئەدەبىيات--Bilqut Uyghur web</title>
+<meta name="keywords" content=",">
+<meta name="description" content="-">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/edebiyat/" class="red"> ئەدەبىيات</a>
+         | <a class="razimantur" href="/edebiyat/list.php?catid=259" >شېئىرىيەت گۈلزارى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=261" >تەڭرىتاغ چېچەكلىرى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=262" >نەسرىي ئەسەرلەر </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=263" >فانتازىيىلىك ئەسەرلەر </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=264" >سەھنە ئەسەرلىرى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=265" >دېرىزىنىڭ سىرتىدا...    </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=266" >مەشھۇر ئەسەر مەزمۇنى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=268" >ئەدىپلەر ئارخىپى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=269" >ئەسەر ۋە باھا</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=271" >قانۇن ۋە ئەدەبىيات</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=272" >ئەدەبىيات يېڭلىقلىرى</a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=274" > تەرمە گۈللەر </a>
+
+ | <a class="razimantur" href="/edebiyat/list.php?catid=275" >ئۇنىۋېرسال ئەدەبىي ئەسەرلەر</a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<!--主体标签-->
+<table width="950" cellpadding="0"  cellspacing="0">
+  <tr>
+    <td width="750" valign="top">
+<!--位置导航-->
+    <div class="position">ئورنىڭىز : <a href="/edebiyat/">ئەدەبىيات</a> >> <a href="/edebiyat/list.php?catid=261">تەڭرىتاغ چېچەكلىرى</a> >> </div>
+     <div class="cat_box_1">
+ <div class="cat_title">
+     <div class="cat_name">تەڭرىتاغ چېچەكلىرى</div>
+ <div class="cat_url"><a href="" class="more"></a></div>
+     </div>
+<!--最新图片文章--><table width="100%"  cellpadding="2" cellspacing="0">
+
+
+</table>
+
+<table cellpadding="0" cellspacing="0" class="tag_box_1">
+
+<tr>      <td height="24">
+◇  <a href="/edebiyat/2009/0520/1997.htm" title="شېئردىكى قىز" 0 class="tag_title_link">شېئردىكى قىز</a>   
+    
+ <td><span>2009-05-20</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=1995" title="نامانجان تۇرسۇن قاراتېكىن: ساڭا قارايمەن" 0 class="tag_title_link">نامانجان تۇرسۇن قاراتېكىن: ساڭا قارايمەن</a>   
+    
+ <td><span>2009-05-11</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/2009/0221/1994.htm" title="ﻣﯩﺴﻜﯩﻦ ﻛﯩﭽﻪ( 1 )...(ﻛﯚﻛﻠﻪﻡ)" 0 class="tag_title_link">ﻣﯩﺴﻜﯩﻦ ﻛﯩﭽﻪ( 1 )...(ﻛﯚﻛﻠﻪﻡ)</a>   
+    
+ <td><span>2009-02-21</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=1989" title="ئالىي مەكتەپتىكى مەخپىيەتلىكلەر" 0 class="tag_title_link">ئالىي مەكتەپتىكى مەخپىيەتلىكلەر</a>   
+    
+ <td><span>2009-05-08</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=1986" title="ﯪﭘﯫﻕ ﻗﺎﺭ" 0 class="tag_title_link">ﯪﭘﯫﻕ ﻗﺎﺭ</a>   
+    
+ <td><span>2009-04-07</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=1985" title="[ﺳﺎﺟﯩﺪﻩ] ﯬﺷﯘ ﭼﺎﻏﻼﺭ" 0 class="tag_title_link">[ﺳﺎﺟﯩﺪﻩ] ﯬﺷﯘ ﭼﺎﻏﻼﺭ</a>   
+    
+ <td><span>2009-04-01</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=1980" title="ﯞﻭﻟﻘﺎﻧﻰ :ﯪﻱ ﻣﯜﻛﯚﻧﺪﻯ ﺑﯘﻟﯘﺕ ﻛﻪﻳﻨﯩﮕﻪ" 0 class="tag_title_link">ﯞﻭﻟﻘﺎﻧﻰ :ﯪﻱ ﻣﯜﻛﯚﻧﺪﻯ ﺑﯘﻟﯘﺕ ﻛﻪﻳﻨﯩﮕﻪ</a>   
+    
+ <td><span>2009-04-06</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=1979" title="ﮔﯧﺰﯨﺘﭽﻰ ﺑﺎﻻ" 0 class="tag_title_link">ﮔﯧﺰﯨﺘﭽﻰ ﺑﺎﻻ</a>   
+    
+ <td><span>2009-03-10</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=1978" title="ﻳﺎﺭﯨﻤﻐﺎ" 0 class="tag_title_link">ﻳﺎﺭﯨﻤﻐﺎ</a>   
+    
+ <td><span>2009-04-02</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=1977" title="ﯞﯗﺟﯘﺩﯗﻣﻐﺎ ﻣﺎﻛﺎﻧﻼﺷﺘﻰ ﻳﺎﺯ" 0 class="tag_title_link">ﯞﯗﺟﯘﺩﯗﻣﻐﺎ ﻣﺎﻛﺎﻧﻼﺷﺘﻰ ﻳﺎﺯ</a>   
+    
+ <td><span>2009-04-05</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=1976" title="ﻳﺎﺷﺎﯞﯦﺮﯨﯔ ، ﺗﯚﺕ ﻛﯜﻥ ﺑﻮﻟﺴﻤﯘ  (ﻣﯘﻫﻪﻣﻤﻪﺗﺠﺎﻥ ﺭﺍﺷﯩﺪﯨﻦ )" 0 class="tag_title_link">ﻳﺎﺷﺎﯞﯦﺮﯨﯔ ، ﺗﯚﺕ ﻛﯜﻥ ﺑﻮﻟﺴﻤﯘ  (ﻣﯘﻫﻪﻣﻤﻪﺗﺠﺎﻥ ﺭﺍﺷﯩﺪﯨﻦ )</a>   
+    
+ <td><span>2009-04-06</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=1975" title="ﯲﮔﯩﻨﯩﭙﻘﻮﻱ ﻗﺎﻧﺪﺍﻕ ﻳﺎﺷﺎﺷﯩﻨﻰ" 0 class="tag_title_link">ﯲﮔﯩﻨﯩﭙﻘﻮﻱ ﻗﺎﻧﺪﺍﻕ ﻳﺎﺷﺎﺷﯩﻨﻰ</a>   
+    
+ <td><span>2009-04-05</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=1974" title="ﻣﯘﯓ(2002-ﻳﯩﻠﯩﺪﯨﻜﻰ)" 0 class="tag_title_link">ﻣﯘﯓ(2002-ﻳﯩﻠﯩﺪﯨﻜﻰ)</a>   
+    
+ <td><span>2009-04-05</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/2009/0405/1973.htm" title="بەختىمنىڭ كۇرۇنگەن غۇۋا شولىسى" 0 class="tag_title_link">بەختىمنىڭ كۇرۇنگەن غۇۋا شولىسى</a>   
+    
+ <td><span>2009-04-05</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=1972" title="جىمجىت كچە" 0 class="tag_title_link">جىمجىت كچە</a>   
+    
+ <td><span>2009-04-05</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=1971" title="ﻗﯧﻨﻰ ﻛﯩﻤﻨﻰ ﺧﯩﻠﻠﯩﺪﯨﯔ" 0 class="tag_title_link">ﻗﯧﻨﻰ ﻛﯩﻤﻨﻰ ﺧﯩﻠﻠﯩﺪﯨﯔ</a>   
+    
+ <td><span>2009-04-05</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=1970" title="ﺋﯧﭽﯩﺮﻗﺎﺵ" 0 class="tag_title_link">ﺋﯧﭽﯩﺮﻗﺎﺵ</a>   
+    
+ <td><span>2009-04-04</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/2009/0403/1969.htm" title="ﭘﯩﺸﺎﻧﻪ ﺗﻪﺭﻟﯩﺮﯨﻢ ﭼﺎﻗﻨﺎﺭ ﻳﺎﻟﺘﯩﺮﺍﻕ" 0 class="tag_title_link">ﭘﯩﺸﺎﻧﻪ ﺗﻪﺭﻟﯩﺮﯨﻢ ﭼﺎﻗﻨﺎﺭ ﻳﺎﻟﺘﯩﺮﺍﻕ</a>   
+    
+ <td><span>2009-04-03</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=1968" title="ﺑﻪﺧﯩﺖ ﺑﻪﻟﻜﯩﻢ...(ﻛﯚﻛﻠﻪﻡ)" 0 class="tag_title_link">ﺑﻪﺧﯩﺖ ﺑﻪﻟﻜﯩﻢ...(ﻛﯚﻛﻠﻪﻡ)</a>   
+    
+ <td><span>2009-02-09</span> </td>
+  </tr>
+<tr>      <td height="24">
+◇  <a href="/edebiyat/show.php?itemid=1967" title="ﺳﯧﻐﯧﻨﯩﺶ ﮔﯜﻟﻠﯩﺮﻯ" 0 class="tag_title_link">ﺳﯧﻐﯧﻨﯩﺶ ﮔﯜﻟﻠﯩﺮﻯ</a>   
+    
+ <td><span>2009-04-02</span> </td>
+  </tr>
+
+</table>
+
+<div class="pages">جەمئى: <b>76</b>&nbsp;&nbsp;&nbsp;&nbsp;باش بەت
+&nbsp;ئالدىنقى بەت
+&nbsp;<a href='/edebiyat/list.php?catid=261&page=2'>كىينكى بەت
+</a>&nbsp;<a href='/edebiyat/list.php?catid=261&page=4'>ئاخىرقى بەت</a>&nbsp;بە ت: <b><font color=red>1</font>/4</b>&nbsp;&nbsp;<input type='text' name='page' id='page' class='page' size='3' onKeyDown='if(event.keyCode==13) {window.location="/edebiyat/list.php?catid=261&page="+$("page").value+""; return false;}'> <input type='button' value='GO' class='gotopage' style='width:30px' onclick='window.location="/edebiyat/list.php?catid=261&page="+$("page").value+""'>
+</div>
+     </div>	
+<!--搜索框--></td>
+    <td width="10"></td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>تەۋسىيە ئەسەر </h1><h2><a href="/edebiyat/search.php?catid=261&elite=1&search=1" class="more">يەنە بار </a></h2></div>
+<!--推荐文章js调用-->
+<table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/2009/0520/1997.htm" title="شېئردىكى قىز"  target="_blank" class="tag_title_link">شېئردىكى قىز</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=1995" title="نامانجان تۇرسۇن قاراتېكىن: ساڭا قارايمەن"  target="_blank" class="tag_title_link">نامانجان تۇرسۇن قاراتېك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/2009/0221/1994.htm" title="ﻣﯩﺴﻜﯩﻦ ﻛﯩﭽﻪ( 1 )...(ﻛﯚﻛﻠﻪﻡ)"  target="_blank" class="tag_title_link">ﻣﯩﺴﻜﯩﻦ ﻛﯩﭽﻪ( 1 )...(ﻛﯚﻛﻠﻪﻡ)...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=1989" title="ئالىي مەكتەپتىكى مەخپىيەتلىكلەر"  target="_blank" class="tag_title_link">ئالىي مەكتەپتىكى مەخپىي...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=1986" title="ﯪﭘﯫﻕ ﻗﺎﺭ"  target="_blank" class="tag_title_link">ﯪﭘﯫﻕ ﻗﺎﺭ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=1985" title="[ﺳﺎﺟﯩﺪﻩ] ﯬﺷﯘ ﭼﺎﻏﻼﺭ"  target="_blank" class="tag_title_link">[ﺳﺎﺟﯩﺪﻩ] ﯬﺷﯘ ﭼﺎﻏﻼﺭ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=1980" title="ﯞﻭﻟﻘﺎﻧﻰ :ﯪﻱ ﻣﯜﻛﯚﻧﺪﻯ ﺑﯘﻟﯘﺕ ﻛﻪﻳﻨﯩﮕﻪ"  target="_blank" class="tag_title_link">ﯞﻭﻟﻘﺎﻧﻰ :ﯪﻱ ﻣﯜﻛﯚﻧﺪﻯ ﺑﯘﻟﯘﺕ ﻛﻪﻳﻨﯩﮕﻪ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=1979" title="ﮔﯧﺰﯨﺘﭽﻰ ﺑﺎﻻ"  target="_blank" class="tag_title_link">ﮔﯧﺰﯨﺘﭽﻰ ﺑﺎﻻ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=1978" title="ﻳﺎﺭﯨﻤﻐﺎ"  target="_blank" class="tag_title_link">ﻳﺎﺭﯨﻤﻐﺎ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/edebiyat/show.php?itemid=1977" title="ﯞﯗﺟﯘﺩﯗﻣﻐﺎ ﻣﺎﻛﺎﻧﻼﺷﺘﻰ ﻳﺎﺯ"  target="_blank" class="tag_title_link">ﯞﯗﺟﯘﺩﯗﻣﻐﺎ ﻣﺎﻛﺎﻧﻼﺷﺘﻰ ﻳﺎﺯ...</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>ئاۋات ئەسەر </h1><h2><a href="/edebiyat/search.php?catid=261&ordertype=3&search=1" class="more">يەنە بار </a></h2></div>
+<table cellpadding="0" cellspacing="0" class="tag_box">
+
+
+</table>
+</td>
+  </tr>
+</table>
+
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

@@ -1,0 +1,3 @@
+﻿try {setidval('hits','4038');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/toreserliri/show.php?itemid=17">MTV ئالدانغان سۆيگۈ</a></li><li>  كىيىنكىسى  :  <a href="/toreserliri/show.php?itemid=24">ئەڭ يېڭى تىپتىكى ماشنا </a></li>');}catch(e){}

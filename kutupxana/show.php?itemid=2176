@@ -1,0 +1,375 @@
+﻿<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ئاددىي بىر ئامېرىكىلىقنىڭ ئۇلۇغ تەرىپى-كۇتۇپخانا-Bilqut Uyghur web</title>
+<meta name="keywords" content=",,كۇتۇپخانا">
+<meta name="description" content="">
+<link href="/Bilqut.ico" rel="shortcut icon">
+<link href="/Bilqut_web.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="/data/js/config.js"></script>
+<script language="javascript" src="/include/js/common.js"></script>
+<script language="javascript" src="/include/js/prototype.js"></script>
+<script language="javascript" src="/UyghurInput_B.js"></script>
+<base target="_blank">
+</head>
+<body  >
+
+
+
+<div align="center">
+<!--会员登录-->
+  <table border="0" width="100%" cellspacing="0" cellpadding="0" height="25px" >
+  <tr> 
+<td style="padding:1px; border:1px solid #fee601; " background="/Raziman_img/resim/top_bg.jpg" align="center"  >
+<table border="0" width="950px" id="table2" cellspacing="1">
+<tr>
+<td width="350" align="center"><span lang="ar-sa">بىلقۇت تورغا 
+كەلگىنڭىزنى قىزغىن قارشى ئالىمىز!</span></td>
+<td width="600" align="center"> <script language="javascript" src="/member/login.php?action=js"></script></td>
+</tr>
+</table>
+</td>
+  </tr>
+</table>
+<div class="arlik"></div>
+
+<table border="0" width="950px" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<iframe name="RAZIMAN" src="/raziman_img/tur.htm" height="90" width="952" scrolling="no" marginwidth="1" marginheight="1" border="0" frameborder="0" ></iframe></td>
+</tr>
+</table>
+</div>
+<div align="center">
+<table border="0" width="950" cellspacing="0" cellpadding="0">
+<tr>
+<td><script language="javascript" src="/data/js.php?id=3"></script></td>
+</tr>
+</table>
+</div>
+<div class="arlik"></div>
+<table width="950" height="82" border="0" align="center" cellpadding="0" cellspacing="0" id="table1" >
+
+  <tr>
+    <td  width="222" align="center" class="siz"><script language="javascript" src="/data/js.php?id=7"></script></td>
+    <td width="10" align="center">&nbsp;</td>
+    <td  width="230" align="center" class="siz"><script language="javascript" src="/data/js.php?id=6"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="227" align="center" class="siz"><script language="javascript" src="/data/js.php?id=5"></script></td>
+    <td width="8" align="center">&nbsp;</td>
+    <td  width="237" align="center" class="siz"><script language="javascript" src="/data/js.php?id=4"></script></td>
+  </tr>
+</table>
+<!--频道下属栏目列表-->
+      <table width="950" cellpadding="0"  cellspacing="0">
+       <tr>
+        <td class="submenu">
+<a href="/kutupxana/" class="red"> كۇتۇپخانا</a>
+         | <a class="razimantur" href="/kutupxana/list.php?catid=43" >ھېكايىلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=44" > شېئىر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=45" > كەلىلە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=46" > نەسىرلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=47" > يۇمۇرلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=48" > ھىكمەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=49" > نەسىھەت  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=50" > ماقالىلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=51" > ياشلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=52" > تۇرمۇش </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=53" > نۇتۇقلار  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=54" >مەكتۇب  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=55" >غارايىبات</a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=56" > دۇنيادا ئەڭ  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=57" >قان تىپى </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=58" > مۆچەل  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=59" > مىللەتلەر  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=60" > بۈگۈن  </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=61" >مۇزېي </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=62" >تارىخ </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=63" >شەھەرلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=64" >دۆلەتلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=65" >كۇتۇبخانىلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=66" >مايلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=67" >مېۋە </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=68" >كۆكتاتلار </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=69" >ئۆسۈملۈكلەر </a>
+
+ | <a class="razimantur" href="/kutupxana/list.php?catid=70" > ھايۋاناتلار  </a>
+
+
+</td>
+       </tr>
+       </table>
+
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function fontZoom(size)
+{
+   $('content').style.fontSize=size+'px';
+}
+</script>
+<table width="950" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="730" valign="top" class="content">
+<!--位置导航-->
+     <div class="position_1">ئورنىڭىز : <a href="/kutupxana/">كۇتۇپخانا</a> >> <a href="/kutupxana/list.php?catid=53"> نۇتۇقلار  </a> >>  ئاددىي بىر ئامېرىكىلىقنىڭ ئۇلۇغ تەرىپى</div>
+<!--主标题--><h1>ئاددىي بىر ئامېرىكىلىقنىڭ ئۇلۇغ تەرىپى </h1>
+<!--文章属性-->
+        <div id="property">يوللانغان ۋاقتى :  2008-06-24 16:53:24&nbsp;&nbsp;&nbsp;&nbsp;كۆرۈلۈش سانى : <span id="hits">311</span>&nbsp;&nbsp;</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"  class="het_shakli">
+              <tr>
+                <td width="150" align="center" valign="middle" dir="rtl"><span onClick="hethalit(1)" style="cursor:hand; font-size:12pt;">
+كصچصك</span> | <span onClick="hethalit(2)" style="cursor:hand; font-size:12pt;">
+نورمال</span> | <span onClick="hethalit(3)" style="cursor:hand; font-size:12pt;">
+چوڭ</span></td>
+                <td align="center" valign="middle" >&nbsp;</td>
+                <td width="200" height="26" align="center"  valign="middle">
+<?
+$a=array("#FF0000","#0000FF","#FF00FF","#006600","#660033");					
+for($i=0;$i<count($a);$i++)//conhat(f)
+{
+echo('<img src="/raziman_img/bash/reng/reng_'.($i+1).'.gif" id="img'.($i+1).'" style="cursor:hand;"  onclick="conhat('.($i+1).')">&nbsp;&nbsp;');
+}
+//echo($html);					
+?>                </td>
+              </tr>
+            </table>
+
+<div align="center">
+
+<table border="0" width="98%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+ <td height="30">
+         <div id="raziman_mazmun" class="nurmal_het">
+<span id="manbilqut">
+ رالف ئېمېرسون&nbsp; (1803 - 1882) - ئامېرىكىلىق مۇتەپەككۇر، يازغۇچى، ئامېرىكا ئەزەلىيات ھەرىكىتىنىڭ ۋە ئەدەبىيات - سەنئەت ئويغىنىش دەۋرىنىڭ داھىي ئەربابى؛ 1817 - يىلى خارۋارد ئۇنىۋېرسىتېتىغا كىرگەن، مەكتەپ پۈتتۈرۈپ ئوقۇتقۇچى ۋە پوپ بولغان؛ جەنۇب - شىمال ئۇرۇشى مەزگىلىدە فرانسىيە ھۆكۈمىتىنى قوللىغان، قۇلدارلىق تۈزۈمىنى بىكار قىلىشنى قۇۋۋەتلىگەن؛ ئۇ پەلسەپە جەھەتتە، دۇنيادا بىزنى ھەقىقىي قىزىقتۇرىدىغان نەرسە ئادەم، تەبىئەتتە مۇكەممەل قانۇنىيەت مەۋجۇت، لېكىن قانۇنىيەت بىلەن ئادەمنىڭ مۇناسىۋىتى ئارقىلىق بىزنى جەلپ قىلىدۇ، شۇڭا كىشىنىڭ ھاياتى دۇنيا بىلەن ماس كەلمەيدۇ، بەلكى كۆڭۈلدىكى كۆز قاراش بىلەن بىردەك بولغان بولىدۇ، دەپ قارايدۇ؛ بىلىش نەزەرىيىسى جەھەتتە، ئۇ ئەنگىلىيە تەجرىبىچىلىكىگە قارشى&nbsp; تۇرۇپ، شۇبھىچىلىكنى ياقلايدۇ؛ دىننى ئىسلاھات قىلىشنى، شەكىلۋازلىق بىلەن مۇناخلارنىڭ تەسىرىنىڭ ئورنىغا بىۋاسىتە ئېتىقادنى دەسسىتىشنى تەشەببۇس قىلىدۇ؛ ئۇنىڭ ئىدىيىسى نىتسې ۋە دېۋېيلارنىڭ پەلسەپىسىگە چوڭقۇر تەسىر كۆرسەتكەن. ئاساسلىق ئەسەرلىرىدىن تەبىئەت، ۋەكىللىك خاراكتېرگە ئىگە ئەرباب، تۇرمۇش ئەمەللىرى، جەمئىيەت ھەم يالغۇزلۇق، ئەدەبىيات ۋە ئىجتىمائىي نىشان قاتارلىقلار بار
+
+ئاددىي بىر ئامېرىكىلىقنىڭ ئۇلۇغ تەرىپى
+1865 - يىل 5 - ئاي $$ قايغۇلۇق خەۋەر دېڭىز - ئوكيانلاردىن، قۇرۇقلۇقتىن ھالقىپ ئۆتۈپ، بىر دۆلەتتىن ئىككىنچى بىر دۆلەتكە يېتىپ بارغان چاغدا، بىز بالايىئاپەتنىڭ كۆلەڭگىسى ئاستىغا جەم بولدۇق. ئۇ گويا تەرەپبال تۇتۇلۇپ دۇنيانى قاراڭغۇلۇققا چۆمكىگەن كۈندەك مەدەنىيەتلىك دۇنيادىكى ئاق كۆڭۈل كىشىلەرنىڭ قەلبىنى زۇلمەت كۆلەڭگىسىگە تاشلىدى. ئىنسانىيەت تارىخى شۇنداق ئۇزۇن، تراگېدىيە شۇنداق خىلمۇ خىل بولسىمۇ، مەن ئاللىقانداق بىر كىشىنىڭ ۋاپاتىنىڭ ئىنسانىيەتنى مۇشۇ قېتىمقىدەك ئېغىر قايغۇغا مۇپتىلا قىلغان - قىلمىغانلىقىدىن، ئېلان قىلىنغان ھەر قانداق بىر مۇسىبەت خەۋىرىنىڭ ئىنسانىيەتنى مۇشۇنداق قاتتىق ھەسرەتكە سالغان - سالمىغانلىقىدىن گومانلىنىمەن. بۇنى ھازىرقى زامان سەنئىتىنبىڭ ھەر قايسى مىللەتلەرنى زىچ بىرلەشتۈرمەكچى بولغانلىقىدىن دېگەندىن كۆرە، بۈگۈنكى كۈندىكى ئامېرىكىنىڭ نامى ۋە تۈزۈمى بىلەن باغلانغان سىرلىق ئۈمىد ۋە تەشۋىشتىن دېگەن تۈزۈك. بۇ ئەلدە ئالدىنقى شەنبە كۈنى پۈتكۈل ئادەم داڭقېتىپ تۇرۇپ قېلىشتى. ئۇلار بۇ قۇرقۇنچلۇق زەربىدىن ئويلىنىپ تۇرۇپ قېلىشقىنىدا، بۇنى دەسلەپ ئىچ - ئىچىدىن ئازدۇر - كۆپتۇر ھېس قىلىشقانىدى. ھالا بۇ دەقىقىلەردە، زۇڭتۇڭنىڭ مېيىتى سېلىنغان گىرب زۇڭتۇڭنىڭ يۇرتى ئىللىنۇئىسقا ئېلىپ كېتىۋاتقاندا، يول بويىدىكى ھەر قايسى شتاتلار تەزىيە بىلدۈرۈش مۇراسىملىرىنى ئۆتكۈزدى. بىز بۇ قايغۇلۇق دەملەردىكى ئازابلارنى تەن ئېلىپ سۈكۈت قىلىشىمىز كېرەك. ھالبۇكى، دەسلەپكى ئۈمىدسىزلىك ۋاقىتلىق، بىز ئۇنىڭغا بۇنداق تەزىيە بىلدۈرسەك بولمايدۇ. ئۇ ئەڭ پائالىيەتچان، مۇۋەپپەقىيەت قازىنىشنى ھەممىدىن بەك ئۈمىد قىلىدىغان ئادەم ئىدى. ئۇنىڭ ئىشلىرى بىتچىت بولۇپ كەتمىدى. ئۇنىڭ ئىشلىرىغا ئوقۇلغان مەدھىيە ۋە ئالقىشلار زەپەر مارشى بولۇپ پۈتۈلدى، زەپەر مارشى بۇ كىشىلەرنىڭ كۆز ياشلىرىدا يۇيۇلۇپ كەتمەيدۇ. زۇڭتۇڭ بىزنىڭ ئالدىمىزدا خەلقنىڭ بىر ئەزاسى ئىدى. ئۇ ھەقىقىي ئامېرىكىلىق ئىدى. ئۇ چەت ئەللەرگە چىقىپ باقمىغان، ئەنگىلىيىنىڭ بىر تەرەپلىمىلىكىنىڭ ياكى فرانسىيىنىڭ شاللاقلىقىنىڭ چرىتىشىگە ئۇچرىمىغانىدى. ئۇ كاۋچۇك دەرىخىنىڭ مېۋىسىگە ئوخشاش مۇلايىم، ئاددى ـ ساددا ۋە مۇشۇ يەردە تۇغۇلۇپ، مۇشۇ يەردە ئۆسكەن كىشى ئىدى. ئۇ چەت ئەلگە چوقۇنمايتتى ھەم قۇرۇق گەپ ساتمايتتى. ئۇ كېنتۇككى شتاتىدا تۇغۇلغان، دېھقانچىلىق مەيدانىدا چوڭ بولغانىدى. ئۇ ئاددى ماتروسلۇقتىن بىر قېتىملىق جەڭدە كاپىتانلىققا ئۆستۈرۈلگەن، يېزىدا ئادۋوكات ۋە ئىللىنۇئىس رايونىدا قانۇن تۇرغۇزۇش ئاپپاراتىنىڭ ۋەكىلى بولغان - ئۇنىڭ ئاشۇنداق شان - شۆھرىتى مۇشۇنداق كەمتەرلىك ئۈستىگە قۇرۇلغان، ئۇ تولىمۇ ئاستا ۋە كۆڭۈللۈك بولغان تەييارلىق باسقۇچلىرىنى بېسىپ ئۆتۈپ ئاندىن ئۆز ئورنىنى تاپقان! ھېلىمۇ ھەممىمىزنىڭ يادىدا - بۇ تېخى بەش - ئالتە يىلنىڭ ئالدىدىكى ئىش - چىكاگو ئۇنى تۇنجى قېتىم نامراتلىققا كۆرسەتكەن چاغدا خەلق ھەيرانلىق ۋە ئۈمىدسىزلىك ئىلكىدە قالغانىدى. سىۋورد ئەپەندىنىڭ ئابرۇيى ئۇ چاغدا ئۈستۈن بولۇپ، ئۇ شەرقتىكى ھەر قايسى شتاتلاردا ئەتىۋارلىق ئادەم ئىدى. لىنكولىن دېگەن يېڭى، يوچۇن بۇ ئىسىم جاكارلانغاندا )ئالقىش ئوقۇلغان خەۋەرلەر بېرىلگەن بولسىمۇ( بىز سايلام نەتىجىسىگە سوغۇققانلىق ۋە ئەلەم بىلەن قۇلاق سالغانىدۇق. كىشى غەم - غۇسسىگە قالغان مۇشۇنداق پەيتتە، بىر ئادەمنىڭ مەلۇم رايوندىكى ئاتاق - ئابرۇيىغا قاراپلا، ئۇنىڭغا مۇشۇنداق زور مەسئۇلىيەتنى يۈكلەش - كىشىلەرگە تولىمۇ يەڭگىللىك قىلغاندەك تۇيۇلۇپ كەتكەنىدى. كىشىلەر تەبىئىي ھالدا، سىياسەت دېگەننى بىلگىلى بولمايدۇ، دەپ غۇلغۇلا قىلىشىپ كەتتى، لېكىن نەتىجىسى ئۇنداق بولمىدى. ئىللىنوئىس ۋە ئامېرىكىنىڭ غەربىدىكى كىشىلەر لىنكولىننى ئاغزى - ئاغزىغا تەگمەي ماختىشىپ، ئىشداشلىرى بىلەن بۇ قاراشلاردىن تەڭ ئورتاقلىشىپ، ھەر كىم ئۆز يۇرتلىرىدىكى سايلام رايونلىرىدا ئۆز كۆز قاراشلىرىنىڭ توغرىلىقىنى ئىسپاتلاشتى. ئۇلار بۇ زاتنىڭ قىممىتىنى تېخى تولۇق بىلىپ كەتمىگەن بولسىمۇ، لېكىن بۇ ئىشلار ئالدىراڭغۇلۇق قىلغانلىققا كىرمەيتتى. ئۇ ئاددىي، ئەمما ئادەتتىن تاشقىرى تەلەيلىك كىشى ئىدى. بېكون تۆرە :پەزىلەتلىك كىشى نام - ئاتاق قازىنىدۇ، ئۆزىنىڭ تەلەيلىك ئىكەنلىكىنى سىر تۇتىدۇ دېگەنىدى. تۇنجى قېتىم كۆرگەندە، سىز ئۇنىڭ ۋۇجۇدىدىن كۆزنى قاماشتۇرىدىغان خىسلەتلەرنى كۆرەلەيسىز، لېكىن باشقىلارنىڭ ئارتۇقچىلىقلىرى ئۇنى ئازراقمۇ خۇنۇكلەشتۈرەلمەيتتى. ئۇنىڭ چىرايى ۋە سالاپىتى كىشىدە گۇمانلىنىشقا ئىمكان بەرمەيتتى، ئىشەنچنى كۈچەيتىپ، كىشىگە&nbsp; ھەقىقىي دوستلۇق تۇيغۇسى بەخش ئېتەتتى. ئۇنىڭ ئوسال ئادىتى يوق ئىدى، مەسئۇلىيەتچان ئىدى، ئومۇملۇققا بويسۇناتتى. ئۇ دېھقانلار تەرىپىدىن زېرەك ھەم قابىل كىشى دەپ تەرىپلەنگەن؛ ئىدىتلىق، ئۆز پىكرىگە چۈشەنچە بېرەلەيدىغان ھەم قارشى تەرەپنى ئادىللىق بىلەن قەتئىي قايىل قىلالايدىغان كىشى ئىدى. كىشىلەر ئۇنىڭ ھەيران قالارلىق خىزمەت ئىقتىدارىغا ئىگە ئۇلۇغ خىزمەتچى ئىكەنلىكىنى، خىزمەت قىلغاندا ناھايىتى تېتىكلىشىپ كېتىدىغانلىقىنى كېيىن بايقاشتى. خىزمەتكە ماھىر كىشىلەر ئەسلىدىمۇ ناھايىتى ئاز بولىدۇ، چۈنكى ھەر قانداق بىر كىشى ئاز - تولا نۇقساندىن خالىي بولمايىدۇ. لېكىن بۇ ئادەم تولىمۇ ئۈمىدۋار، تىرىشچان، پەقەت خىزمەت قىلىشقىلا يارالغان كىشى ئىدى. ئۇنىڭ ئۈستىگە ئۆزىمۇ خىزمەتنى قىزغىن سۆيەتتى. مىجەزى بەك ياخشى ئىدى. كەڭ قورساق، خۇش پېئىل ئىدى: ئۇ ئادىل كىشى سۈپىتىدە ئىلتىماس قىلغۇچىلارنىڭ ئارزۇسى بويىچە ئالدىغا كەلگەن ھاجەتمەنلەرنى چېچىلىپ ئەمەس، بەلكى خۇشخۇي كۈتۈۋېلىپ، چىرايلىق يولغا سېلىپ قوياتتى؛ ئۇ زۇڭتۇڭ سۈپىتىدە بۇ ئىشلارنى باشقىلارغا تاپشۇرسىمۇ تامامەن بولاتتى. ئۇرۇش پەيدا قىلغان تالاي تراگېدىيىلەر ئۇنىڭ ئېسىل مىجەزىنى يۈكسەك ئىنسانپەرۋەرلىك تېمسالىغا ئىگە قىلغانىدى. ئۇنىڭ بىر ئىرققا ھېسداشلىق قىلىپ مەسىلىلەرنى ئېھتىيات بىلەن قانداق قىزغىن بىر تەرەپ قىلغانلىقى ھېلىمۇ كىشىلەرنىڭ يادىدا. بىچارە نېگىرلار بىر قېتىملىق ئۇنتۇلغۇسىز سورۇندا بۇ زاتنىڭ تەرىپىنى قىلىپ :لىنكولىن ئەپەندى يوق يەر يوق دېيىشكەنىدى. كۈچلۈك يۇمۇرىستىك تۇيغۇ بۇ ئەقىللىق زاتنىڭ يەنە بىر بايلىقى ئىدى. ئۇ باشقىلار بىلەن ئېچىلىپ - يېيىلىپ ۋە ئەركىن - ئازادە قىزغىن پاراڭلىشاتتى. ئۇ قىزغىن گەپلەرنى قىلىشقا ئۇستا ئىدى. پاراڭلىشىش ئارقىلىق لەززەت تاپالايتتى، بۇنىڭدىن سىر تۇتالايتتى، جەمئىيەتتىكى ھەر قايسى قاتلام كىشىلىرى بىلەن باردى - كەلدى قىلىشاتتى. جىددىي قارارلار چىقىرىلغاندىمۇ ھەرگىز مەنمەنلىك قىلمايتتى. خىزمەتداشلىرىنىڭ تومۇرىنى تۇتۇپ، ئاڭلىغۇچىلارنىڭ كەيپىياتىنى ئىگىلەپ باقاتتى. ئەڭ مۇھىمى، بۇنداق ياخشى مىجەز تەشۋىشلىك ۋە كىشىنى چارچىتىپ ھالىنى قويمايدىغان كرزىس ئىچىدە كۈرەش قىلىۋاتقان كىشى ئۈچۈن، بۇ روھىي ھالەتنى تىنىچلاندۇرىدىغان دورا ئىدى، ئۇيقۇغا ئوخشاش ئۈنۈم بېرەتتى، ھەددىدىن ئارتۇق چارچاپ كەتكەن كاللىنى پەرىشانلىقتا ئەسەبىيلىشىپ كېتىشتىن توسۇپ قالىدىغان ۋاكسىنا ئىدى. ئۇ نۇرغۇن ھېكمەتلىك گەپ - سۆزلەرنى چاقچاق تەرىقىسىدە قارىلىپ ھېكمەتلىك سۆزلەر قاتارىدىن ئورۇن ئالمىغانىدى. مانا ئەمدى ئېغىزدىن - ئېغىزغا كۆچۈپ يۈرمەكتە. كىشىلەر بۇ گەپ - سۆزلەرنىڭ ئۆز دەۋرىنىڭ مەشھۇر ھېكمەتلىرىدىن ئىكەنلىكىنى بايقاشتى. مەن ئىشىنىمەنكى، بۇ زات باسما ئىشلىرى ئانچە تەرەققىي قىلمىغان دەۋرلەردە ھاكىمىيەت سورىغان بولسا، ئۇ ئۆزىنىڭ تەمسىل ۋە ھېكمەتلىرى بىلەن ئىزوپ، پېرپېل ۋە يەتتە دانىشمەن قاتارلىق ئەپسانىۋى شەخسلەر قاتارىدىن ئورۇن ئالغان بولاتتى. ئەمدى ئۇنىڭ خەت - چەك، ھۆججەت ۋە نۇتۇقلىرى ئىچىدىكى ۋەزنى بار، تىرەن ئابزاسلار چوقۇم شۆھرەت قازانغۇسى. بۇنداق قاراشلار تېخى ئەمدىلا دىققەتكە چۈشۈۋاتقان بولغاچقا، چوڭقۇر مەنىلىك مەزمۇنلۇق پىكىرلەر، نېمىدېگەن مۇكەممەل چۈشەنچىلەر ۋە يىراقنى كۆرەرلىك - ھە! ئۇنىڭ زۇڭتۇڭ بولۇشى - ئىنسان پەزىلىتىنىڭ نۇسرىتى؛ ئاممىنىڭ ئىشەنچىسىنىڭ غەلىبىسى ئىدى. بۇ ئوتتۇرا بۇرژۇئا دۆلىتى ئاخىر ئوتتۇرا بۇرژۇئا زۇڭتۇڭىغا ئېرىشكەنىدى. مەن بۇ يەردە ئۇنىڭ ھوقۇقىنى ئەمەس، بەلكى سالاپىتىنى ۋە خەيرخاھلىقىنى كۆزدە تۇتۇۋاتىمەن. چۈنكى ئۇنىڭ ھوقۇقى چەكسىز ئىدى. ئۇ ھەر كۈنى يۈز بەرگەن مەسىلىلەرنى ئىگىلەيتتى. مەسىلىلەرنىڭ تەرەققىياتىغا ئەگىشىپ ئۇنىڭ مەسىلىلەرگە بولغان چۈشەنچىسىمۇ چوڭقۇرلىشاتتى. بۇ ئىش ئىنتايىن ئاز ئادەملەرنىڭ قولىدىن كېلىدۇ. ۋەھىمە بىلەن ھەسەت ئارىسىدا، ئاقلىغۇچىلار بىلەن دەۋالاشقۇچىلارنىڭ ۋاراڭ - چۇرۇڭلىرى ئىچىدە ئۇ پۈتۈن ۋۇجۇدى بىلەن توختىماي سەمىمىي خىزمەت قىلىپ، خەلقنىڭ ئېھتىياجىنى ئايدىڭلاشتۇرۇشقا ۋە ھاجىتىدىن چىقىش ئۈچۈن تىرىشاتتى. ئادىل، سىناقتىن ئۆتكەن ئادەم ھەقىقەتەن بار بولسا، ئۇ دەل مۇشۇ كىشى ئىدى. بۇ زاتقا مۇشۇنداق باھا بېرىش قىلچە مۇبالىغە قىلغانلىق ئەمەس. قارشىلىق قىلغۇچىلار، تۆھمەت ۋە مازاق قىلغۇچىلارمۇ كۆپ ئىدى. بىزنىڭ بۇ دەۋرىمىزدە دۆلەت مەخپىيىتىدىن سۆز ئاچقىلى بولمايدۇ؛ مۇشۇنداق غايەت زور قالايمىقانچىلىقنى باشتىن كەچۈرگەن دۆلەتتە چوقۇم ئىشەنچ بولۇش، ھەر قانداق مەخپىيەتلىككە ئورۇن قالدۇرماسلىق كېرەك. ھەر قانداق ئىشىك يېرىم ئوچۇق بولسا، ئۆيدە يۈز بەرگەن ئىشلارنى كۆرەلەيمىز. كېيىن بىز ئۇرۇشنىڭ بوران - چاپقۇنلىرىغا ئۇچرىدۇق. ئۇ قانداق چاغلار ئىدى - ھە! بۇ يەردە ھۆكۈمەت ئەمەلدارلىرى، ھاۋا ياخشى كۈنلىرى كېمىنى ھەيدەپ ماڭىدىغان مۇۋاپىق رولچى يوق ئىدى؛ بوران - چاپقۇندا يېڭى يول باشلىغۇچى ئالدىراش - تېنەش ئورۇنلاشتۇرۇلدى. تۆت يىلدا، ئۇرۇش بىلەن ئۆتكەن تۆت يىلدا بۇ زات قەيسەرلىك، پەم - پاراسەت ھەم كەڭ قورساقلىق بىلەن ئازابلىق سىناقلارنى باشتىن كەچۈردى. بۇ جەرياندا تەلەپكە توشمايدىغان ئەھۋاللارمۇ كۆرۈلمىدى. شۇڭا ئۇنىڭ جاسارىتى، ئادىللىقى، ياخشى خۇي - پەيلى، پەم - پاراسىتى ۋە ئىنسانپەرۋەرلىكى ئۇنى يېڭى تارىخىي دەۋرنىڭ قەھرىمان ئەربابىغا ئايلاندۇردى. ئۇ ئاشۇ دەۋردىكى ئامېرىكا خەلقىنىڭ ھەقىقىي تارىخى ئىدى. ئۇ ئۇلارنىڭ ئالدىدا قەدەملەپ ماڭدى. ئۇ ئۇلار بىلەن بىللە قەدىمىنى ئاستىلىتاتتى، ئۇلار بىلەن بىللە قەدىمىنى ئىتتىكلەتتى. ئۇ مۇشۇ قۇرۇقلۇقنىڭ ھەقىقىي ۋەكىلى ئىدى، ئومۇمنىڭ ئىشلىرىغا تولىمۇ جان كۆيدۈرىدىغان كىشى ئىدى. دۆلەت ئاتىسى بولۇش سۈپىتى بىلەن 20 مىليون ئادەمنىڭ تومۇرى ئۇنىڭ يۈرىكىدە سوقاتتى، ئۇلارنىڭ ئىدىيىسى ئۇنىڭ تىلى ئارقىلىق ئېنىق ئىزھار قىلىناتتى. ئادام سىمىت :خوبوركېندىكى بىلىكى كېسىلىپ ئازابلىنىۋاتقان ئادەمنىڭ ئاستىغا پالتا سىزىلىپ قويۇلغان بولسا، بۇ ھال رەسىمگە&nbsp; مەلۇم سېھرىي كۈچ بېغىشلىغان بولار ئىدى دېگەنىدى. ھېلىلا يۈز بەرگەن بۇ تراگېدىيىدە، سۇيىقەست ۋەھىمىسى بىلەن بۇزغۇنچىلىقنىڭ زىيانكەشلىكىگە ئۇچرىغۇچىنىڭ شان - شۆھرىتىنى شۇ قەدەر تېز يوق قىلىۋەتكەنلىكىنى كىممۇ كۆرمىسۇن؟ ئۈمىدلىك ياشاشقا، سەزگۈ ئەزالىرىنىڭ چېكىنگەنلىكىگە، ھەممىگە تونۇشلۇق سىياسىيونلارنىڭ ۋاپاسىزلىقىغا، چاكىنىلارنىڭ نەپ ئېلىشلىرىغا ئۆز كۆزى بىلەن قاراپ تۇرۇشقا قارىغاندا مۇشۇنداق تەقدىر كۆپ كۆڭۈللۈك ئەمەسمۇ؟ ئۇ ھايات ۋاقتىدا ۋەدىسىگە ۋاپا قىلمىغانمىدى؟ ئۇ قېرىنداشلىرىغا بەرگەن ئۇلۇغۋار ۋەدىسىنى ئىشقا ئاشۇرۇپ قۇلدارلىق تۈزۈمنى بىكار قىلدى. ئۇ تېنناس، مىسسورى ۋە مارىلاندىكى قۇللارنىڭ ئازاد بولغانلىقىنى، سارۋاننا، چارلىستون ۋە لىسماننىڭ تەسلىم بولغانلىقىنى، ئاسىيلار قوشۇنىدىكى ئاساسلىق قىسىملارنىڭ قورال تاشلىغانلىقىنى كۆردى. ئۇ كانادا، ئەنگىلىيە ۋە فرانسىيىنىڭ جامائەت پىكرىنى بويسۇندۇردى. ئامەت جەھەتتە، پەقەت ۋاشىنگتونلا ئۇنىڭ بىلەن بەسلىشەلەيدۇ. ناۋادا ئۇ ئىشلارنى يەنىمۇ ئىزغا سالالىغان بولسا، نەتىجىدە بۇ زات پەللىگە يەتكەن بولاتتى. بۇ تارىخىي خاراكتېرلىك ھىمادكار ئەمدى بىزگە خىزمەت قىلالمايدىغان بولدى. توپىلاڭ توختايدىغان قەرەلىگە بېرىپ قالغانىدى. تۆۋەندىكى خىزمەتلەرنى مۇستەقىل يىېڭى كىشىلەرنىڭ ئۆز ئۈستىگە ئېلىشىغا توغرا كەلگەنىدى. ئۇرۇش خارابىلىرىنىڭ ئۈستىدە يېڭى روھ پەيدا بولغانىدى. شۇنىڭ بىلەن بىرگە پەرۋەردىگار ئۇنىڭ كەم - كۈتىسىز بىر شەپقەتچى ئىكەنلىكىنى كىشىلەرگە بىلدۈرۈش ئۈچۈن ئۇنى ئۆز دۆلىتىگە ھاياتى بىلەنلا ئەمەس، ئۆلۈمى بىلەنمۇ خىزمەت قىلىش پۇرسىتىگە ئىگە قىلدى. پادىشاھ ئىتائەتمەن ۋە ياخشىچاق بولسا ياخشى پادىشاھ بولالمىغاندەك، ئىتائەتمەن ۋە ياخشىچاق مىللەتمۇ ياخشى مىللەت بولالمايدۇ. پادىشاھنىڭ شەپقىتى ۋە كۈچ - قۇدرەتتە ئىپادىلىنىدۇ. شۇڭا دۈشمەنلەرنىڭ زوراۋانلىق قىلىشى زۆرۈر، بۇ بىزنى پەۋقۇلئاددە قەتئىيەتلىك بىلەن، بۇ دۆلەتنىڭ بۇنىڭدىن كېيىن نىجادلىققا ئېرىشىشىگە ھەقىقىي كاپالەتلىك قىلىشقا مەجبۇر قىلىدۇ.</span></div></td>
+</tr>
+</table>
+</div>
+
+<!--分页--><div class="td_center"></div>
+<p>
+
+
+
+<!--上下文-->
+<div class="border_1" id="pre_and_next"></div>       <br/>
+    </td>
+    <td width="10">&nbsp;</td>
+    <td width="210" valign="top" class="right_bg">
+<div class="rightcats"><h1>ئەڭ يېڭى مەزمۇن </h1><h2><a href="#" class="more">يەنەبار </a></h2></div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2178" title="ئەڭ ئاخىرقى نۇتۇق"  target="_blank" class="tag_title_link">ئەڭ ئاخىرقى نۇتۇق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2177" title="سىياسىي كىشىلەردىن بولۇشىمىز زۆرۈر"  target="_blank" class="tag_title_link">سىياسىي كىشىلەردىن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2176" title="ئاددىي بىر ئامېرىكىلىقنىڭ ئۇلۇغ تەرىپى"  target="_blank" class="tag_title_link">ئاددىي بىر ئامېرىك...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2175" title="ئامېرىكىنى زىيارەت قىلىشتىن ئىلگىرىكى ئۇزىتىش زىياپىتىدە سۆزلگەنگەن نۇتۇق"  target="_blank" class="tag_title_link">ئامېرىكىنى زىيارەت...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2174" title="تىنچلىق بىز كۆپچىلىككە مەنسۇپ"  target="_blank" class="tag_title_link">تىنچلىق بىز كۆپچىل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2173" title="ۋاپاسىزلارچە ھۇجۇم"  target="_blank" class="tag_title_link">ۋاپاسىزلارچە ھۇجۇم</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2172" title="جىددىي ۋەزىيەت"  target="_blank" class="tag_title_link">جىددىي ۋەزىيەت</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2171" title="ئادەم ئۈچۈن ياشاشلا كۇپايە قىلمايدۇ"  target="_blank" class="tag_title_link">ئادەم ئۈچۈن ياشاشل...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2170" title="تەقدىر ۋە تارىخ"  target="_blank" class="tag_title_link">تەقدىر ۋە تارىخ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2169" title="يازغۇچى ئۆزىنى مۇئەسسەسىگە ئايلاندۇرۇپ قويماسلىقى كېرەك"  target="_blank" class="tag_title_link">يازغۇچى ئۆزىنى مۇئ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2168" title="ۋەتەننىڭ غەلىبىسى"  target="_blank" class="tag_title_link">ۋەتەننىڭ غەلىبىسى</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2167" title="ئىلىم - پەن تەرەققىياتىدىكى توسالغۇ"  target="_blank" class="tag_title_link">ئىلىم - پەن تەرەققى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2166" title="فرانسىيە ھالاك بولمايدۇ"  target="_blank" class="tag_title_link">فرانسىيە ھالاك بول...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2165" title="خەلق گېزىتى نىڭ نەشر قىلىنغانلىقىنى خاتىرىلەش يىغىنىدا سۆزلەنگەن نۇتۇق"  target="_blank" class="tag_title_link">خەلق گېزىتى نىڭ نەش...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2164" title="ئىلىم - پەننى قەدىرلەيلى، ئىلىم - پەننى ھۆرمەتلەيلى"  target="_blank" class="tag_title_link">ئىلىم - پەننى قەدىر...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2163" title="خەلق ئۈچۈن خىزمەت قىلايلى!"  target="_blank" class="tag_title_link">خەلق ئۈچۈن خىزمەت ق...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2162" title="گېيوتېسبورگ دۆلەت قەبرىستانلىقىدا سۆزلەنگەن نۇتۇق"  target="_blank" class="tag_title_link">گېيوتېسبورگ دۆلەت ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2161" title="گۈزەللىك جەننەتتىن چۈشەمدۇ ياكى دوزاختىن چىقامدۇ؟"  target="_blank" class="tag_title_link">گۈزەللىك جەننەتتىن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2160" title="بىز ئۇرۇشقانسېرى قۇدرەت تاپىمىز"  target="_blank" class="tag_title_link">بىز ئۇرۇشقانسېرى ق...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2159" title="تەقدىر ۋە تارىخ"  target="_blank" class="tag_title_link">تەقدىر ۋە تارىخ</a>
+    
+</td>
+</tr>
+
+</table>
+<div class="rightcats"><h1>تەۋسىيە ئەسەر</h1><h2><a href="/kutupxana/search.php?catid=53&amp;posid=1&amp;search=1" class="more">يەنە بار </a></h2>
+</div>
+      <table cellpadding="0" cellspacing="0" class="tag_box">
+
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2178" title="ئەڭ ئاخىرقى نۇتۇق"  target="_blank" class="tag_title_link">ئەڭ ئاخىرقى نۇتۇق</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2177" title="سىياسىي كىشىلەردىن بولۇشىمىز زۆرۈر"  target="_blank" class="tag_title_link">سىياسىي كىشىلەردىن بولۇ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2176" title="ئاددىي بىر ئامېرىكىلىقنىڭ ئۇلۇغ تەرىپى"  target="_blank" class="tag_title_link">ئاددىي بىر ئامېرىكىلىقن...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2175" title="ئامېرىكىنى زىيارەت قىلىشتىن ئىلگىرىكى ئۇزىتىش زىياپىتىدە سۆزلگەنگەن نۇتۇق"  target="_blank" class="tag_title_link">ئامېرىكىنى زىيارەت قىلى...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2174" title="تىنچلىق بىز كۆپچىلىككە مەنسۇپ"  target="_blank" class="tag_title_link">تىنچلىق بىز كۆپچىلىككە ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2173" title="ۋاپاسىزلارچە ھۇجۇم"  target="_blank" class="tag_title_link">ۋاپاسىزلارچە ھۇجۇم</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2172" title="جىددىي ۋەزىيەت"  target="_blank" class="tag_title_link">جىددىي ۋەزىيەت</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2171" title="ئادەم ئۈچۈن ياشاشلا كۇپايە قىلمايدۇ"  target="_blank" class="tag_title_link">ئادەم ئۈچۈن ياشاشلا كۇپ...</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2170" title="تەقدىر ۋە تارىخ"  target="_blank" class="tag_title_link">تەقدىر ۋە تارىخ</a>
+    
+</td>
+</tr>
+<tr><td height="24" width="100%">●&nbsp;  <a href="/kutupxana/show.php?itemid=2169" title="يازغۇچى ئۆزىنى مۇئەسسەسىگە ئايلاندۇرۇپ قويماسلىقى كېرەك"  target="_blank" class="tag_title_link">يازغۇچى ئۆزىنى مۇئەسسەس...</a>
+    
+</td>
+</tr>
+
+</table>
+
+</td>
+  </tr>
+</table>
+<script type="text/javascript" src="/kutupxana/show_js.php?itemid=2176"></script>
+
+﻿
+<div align="center">
+  <table dpid="table1" border="0" width="950" id="table1" cellpadding="2">
+    <tr>
+      <td dpid="td1" align="center" width="950" height=18px ><table border="0" width="100%" id="table2" cellspacing="0" height="30" cellpadding="0" class="turjan">
+          <tr >
+            <td align="center" width="135" ><a target="_blank" href="/bet/hemkarlishish.php">ھەمكارلىشىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/bet_heqqide.php">بېكەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/elan.php">ئېلان بېرىڭ </a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/mulazimtimiz.php">مۇلازىمتىمىز</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/shirket.php">شىركەت ھەققىدە</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/pikir.php">پىكىر بېرىڭ</a></td>
+            <td align="center" width="135"><a target="_blank" href="/bet/alaqilshing.php">ئالاقىلىشىش</a></td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr>
+      <td dpid="td2" align="center" width="950">بىلقۇت ئۇنىۋېرسال تور بېكىتى</td>
+    </tr>
+    <tr>
+      <td dpid="td3" align="center" width="950">ئادىرسى : ئۈرۈمچى غالىبيەت يولى 183- نومۇر ، 
+        تېلېفون : 09912555222</td>
+    </tr>
+    <tr>
+      <td dpid="td4" align="center" width="950">شىنجاڭ << بىلقۇت >> ئېلېكتىرون پەن -تېخنىكا تەرەققىيات چەكلىك شىركىتى تور ئىشخانسى ئىشلىدى</td>
+    </tr>
+    <tr>
+      <td dpid="td5" align="center" width="950">© 2007-2008  Bilqut Uyghur Website <a target="_blank" href="https://www.miibeian.gov.cn">新ICP备10002904</a></td>
+    </tr>
+    <td dpid="td6" align="center" width="950"><script src="https://tj.yi23456.cn/cf.asp?user_name=bilqut"></script></td>
+    </tr>
+  </table>
+  <div>
+     <a href="https://www.xj88.net" target="_blank">
+       مۇلازىمېتىر تەمىنلىگەن ئورۇن كۆك ئاسمان تور مۇلازىمىتى چەكلىك شېركىتى  </a>
+  </div>
+</div>
+<!-- bet asti biket  uchuri tugidi -->
+</body></html>

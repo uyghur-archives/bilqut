@@ -1,0 +1,3 @@
+﻿try {setidval('hits','157');}catch(e){}
+try {setidval('commentnumber','0');}catch(e){}
+try {setidval('pre_and_next','<li>  ئالدىنقىسى :  <a href="/kutupxana/show.php?itemid=585">سېخىي ئەر بىلەن بېخىل خوتۇننىڭ ھېكايىسى</a></li><li>  كىيىنكىسى  :  <a href="/kutupxana/show.php?itemid=587">ئاچ كۆز مۈشۈكنىڭ ھېكايىسى</a></li>');}catch(e){}
